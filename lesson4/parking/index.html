@@ -1,0 +1,50 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="3">
+<title>Smart Parking App</title>
+<link rel="stylesheet" href="/static/myapp/bootstrap.min.css">
+<script src="/static/myapp/jquery.min.js"></script>
+<script src="/static/myapp/script.js"></script>
+</head>
+<body>
+
+<div class="app-container">
+<header class="app-header clearfix">
+<h1 class="app-logo js-app-title icon-home">Smart Parking Dashboard</h1>
+<div class="app-state"><span class="app-loading-loader">
+</span></div>
+<h4>Parking Lot #: 123<br>
+Empty: {{emptyCount}}<br>
+Occupied: {{occupiedCount}}</h4>
+</header>
+
+<div role="main" class="app-content clearfix">
+<div class="app-loading"><span class="app-loading-loader">
+</span></div>
+<div class="app-content-inner">
+
+<form class="dashboard-control js-form clearfix">
+<fieldset>
+<div class="field clearfix">
+<table width = "90%" border="1">
+<tr>
+<td width="100%"> 1
+<center>
+{% if currentstate == 'empty' %}
+<img src="/static/myapp/g.png">
+{% else %}
+<img src="/static/myapp/r.png">
+{% endif %}
+</center>
+<br>
+</td>
+</tr>
+</table>
+</div>
+</fieldset>
+</form>
+</div></div></div>
+
+</body>
+</html>
