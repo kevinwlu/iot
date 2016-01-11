@@ -75,8 +75,8 @@ def login_open_sheet(oauth_key_file, spreadsheet):
 	try:
 		json_key = json.load(open(oauth_key_file))
 		credentials = SignedJwtAssertionCredentials(json_key['client_email'], 
-													json_key['private_key'], 
-													['https://spreadsheets.google.com/feeds'])
+							json_key['private_key'], 
+							['https://spreadsheets.google.com/feeds'])
 		gc = gspread.authorize(credentials)
 		worksheet = gc.open(spreadsheet).sheet1
 		return worksheet
