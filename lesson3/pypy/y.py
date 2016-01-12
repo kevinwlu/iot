@@ -1,4 +1,3 @@
-import time
 from x import add
 
 start_time = time.time()
@@ -12,5 +11,3 @@ def main():
         i += 1
 
 main()
-
-print("--- %s seconds ---" % (time.time() - start_time))
