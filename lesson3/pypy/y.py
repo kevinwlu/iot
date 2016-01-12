@@ -1,7 +1,5 @@
 from x import add
 
-start_time = time.time()
-
 def main():
     i = 0
     a = 0.0
