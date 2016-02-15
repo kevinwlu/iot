@@ -1,6 +1,6 @@
 # Add 'myapp' and 'rest_framework' to INSTALLED_APPS
 
-INSTALLED_APPS = (
+INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -9,7 +9,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'myapp',
     'rest_framework',
-)
+]
 
 # Change database to MySQL
 
