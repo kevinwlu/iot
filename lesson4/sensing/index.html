@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+  <title>Smart Sensing App</title>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="3">
+  <link rel="stylesheet" href="/static/myapp/bootstrap.min.css">
+  <script src="/static/myapp/jquery.min.js"></script>
+  <script src="/static/myapp/bootstrap.min.js"></script>
+</head>
+<body>
+  <div class="container-fluid">
+    <h1>Room</h1>
+    <div class="row">
+          <center>
+          {% if roomstate == 'no' %}
+            <img src="/static/myapp/g.png">
+          {% else %}
+            <img src="/static/myapp/r.png">
+          {% endif %}
+          </center>
+    </div>
+    <br>
+    <h1>Door</h1>
+    <div class="row">
+          <center>
+          {% if doorstate == 'closed' %}
+            <img src="/static/myapp/g.png">
+          {% else %}
+            <img src="/static/myapp/r.png">
+          {% endif %}
+          </center>
+    </div>
+  </div>
+</body>
+</html>
