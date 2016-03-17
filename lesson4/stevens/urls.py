@@ -1,6 +1,6 @@
 from django.conf.urls import include, url
 from django.contrib import admin
-from maybe import views
+from myapp import views
 admin.autodiscover()
 
 urlpatterns = [
