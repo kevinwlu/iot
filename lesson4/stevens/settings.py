@@ -22,3 +22,7 @@ DATABASES = {
         'PORT': '', # set to empty for default port
     }
 }
+
+# Change TIME_ZONE
+
+TIME_ZONE = 'America/New_York'
