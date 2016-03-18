@@ -1,4 +1,4 @@
-# Add 'myapp' and 'resr_framework' to INTSALLED_APPS
+# Add 'myapp' and 'rest_framework' to INSTALLED_APPS
 
 INSTALLED_APPS = [
     'django.contrib.admin',
