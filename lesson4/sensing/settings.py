@@ -11,6 +11,8 @@ INSTALLED_APPS = [
     'rest_framework',
 ]
 
+# Change database to MySQL
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
