@@ -1,7 +1,4 @@
-# Add 'myapp' and 'rest_framework' to INSTALLED_APPS and change TIME_ZONE
-
-
-# Application definition
+# Add 'myapp' and 'rest_framework' to INSTALLED_APPS
 
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -13,3 +10,7 @@ INSTALLED_APPS = [
     'myapp',
     'rest_framework',
 ]
+
+# Change TIME_ZONE
+
+TIME_ZONE = 'America/New_York'
