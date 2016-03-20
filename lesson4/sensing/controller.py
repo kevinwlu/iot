@@ -50,6 +50,6 @@ while True:
     try:
         runController()
         time.sleep(3)
-except KeyboardInterrupt:
+    except KeyboardInterrupt:
         GPIO.cleanup()
         exit()
