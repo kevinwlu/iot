@@ -43,7 +43,7 @@ def runController():
 def setCurrentState(val):
     values = {'name': val}
     r = requests.put('http://127.0.0.1:8000/state/1/', data=values,
-                     auth=('admin', 'password'))
+                     auth=('username', 'password'))
 
 while True:
     try:
