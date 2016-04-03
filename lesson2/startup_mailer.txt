@@ -14,7 +14,6 @@ pi@raspberrypi ~ $ sudo nano /etc/rc.local
 # By default this script does nothing.
 
 # Print the IP address
-sleep 30                                  <<<------- ADD THIS LINE!!!
 _IP=$(hostname -I) || true
 if [ "$_IP" ]; then
  printf "My IP address is %s\n" "$_IP"
