@@ -40,7 +40,9 @@ import datetime
 
 import Adafruit_DHT
 import gspread
-from oauth2client.client import SignedJwtAssertionCredentials
+# PRE-oauth2client 2.0.0 CODE:
+# from oauth2client.client import SignedJwtAssertionCredentials
+from oauth2client.service_account import ServiceAccountCredentials
 
 # Type of sensor, can be Adafruit_DHT.DHT11, Adafruit_DHT.DHT22, or Adafruit_DHT.AM2302.
 DHT_TYPE = Adafruit_DHT.DHT22
@@ -81,10 +83,13 @@ FREQUENCY_SECONDS      = 30
 def login_open_sheet(oauth_key_file, spreadsheet):
 	"""Connect to Google Docs spreadsheet and return the first worksheet."""
 	try:
-		json_key = json.load(open(oauth_key_file))
-		credentials = SignedJwtAssertionCredentials(json_key['client_email'], 
-							json_key['private_key'], 
-							['https://spreadsheets.google.com/feeds'])
+# PRE-oauth2client 2.0.0 CODE:
+#		json_key = json.load(open(oauth_key_file))
+#		credentials = SignedJwtAssertionCredentials(json_key['client_email'], 
+#								json_key['private_key'], 
+#								['https://spreadsheets.google.com/feeds'])
+		credentials = ServiceAccountCredentials.from_json_keyfile_name(oauth_key_file, 
+										scopes=['https://spreadsheets.google.com/feeds'])
 		gc = gspread.authorize(credentials)
 		worksheet = gc.open(spreadsheet).sheet1
 		return worksheet
@@ -92,7 +97,6 @@ def login_open_sheet(oauth_key_file, spreadsheet):
 		print 'Unable to login and get spreadsheet.  Check OAuth credentials, spreadsheet name, and make sure spreadsheet is shared to the client_email address in the OAuth .json file!'
 		print 'Google sheet login failed with error:', ex
 		sys.exit(1)
-
 
 print 'Logging sensor measurements to {0} every {1} seconds.'.format(GDOCS_SPREADSHEET_NAME, FREQUENCY_SECONDS)
 print 'Press Ctrl-C to quit.'
