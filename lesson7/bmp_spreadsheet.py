@@ -40,7 +40,9 @@ import datetime
 
 import Adafruit_BMP.BMP085 as BMP085
 import gspread
-from oauth2client.client import SignedJwtAssertionCredentials
+# PRE-oauth2client 2.0.0 CODE:
+# from oauth2client.client import SignedJwtAssertionCredentials
+from oauth2client.service_account import ServiceAccountCredentials
 
 # Google Docs OAuth credential JSON file.  Note that the process for authenticating
 # with Google docs has changed as of ~April 2015.  You _must_ use OAuth2 to log
@@ -73,10 +75,13 @@ FREQUENCY_SECONDS      = 30
 def login_open_sheet(oauth_key_file, spreadsheet):
 	"""Connect to Google Docs spreadsheet and return the first worksheet."""
 	try:
-		json_key = json.load(open(oauth_key_file))
-		credentials = SignedJwtAssertionCredentials(json_key['client_email'], 
-							json_key['private_key'], 
-							['https://spreadsheets.google.com/feeds'])
+# PRE-oauth2client 2.0.0 CODE:
+#		json_key = json.load(open(oauth_key_file))
+#		credentials = SignedJwtAssertionCredentials(json_key['client_email'], 
+#							json_key['private_key'], 
+#							['https://spreadsheets.google.com/feeds'])
+		credentials = ServiceAccountCredentials.from_json_keyfile_name(oauth_key_file, 
+										scopes=['https://spreadsheets.google.com/feeds'])
 		gc = gspread.authorize(credentials)
 		worksheet = gc.open(spreadsheet).sheet1
 		return worksheet
