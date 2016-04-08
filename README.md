@@ -11,4 +11,4 @@ A hands-on approach to the Internet of Things (IoT)
 * Lesson 7: Cloud Platforms
 * Lesson 8: Data Analysis
 
-pi@raspberrypi ~ $ git clone https://github.com/kevinwlu/iot
+pi@raspberrypi:~ $ git clone https://github.com/kevinwlu/iot
