@@ -1,3 +1,4 @@
+import numpy as np
 from scipy import stats
 import matplotlib.pyplot as plt
 x = np.random.random(10)
