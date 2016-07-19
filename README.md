@@ -1,6 +1,4 @@
-# IoT
-
-A hands-on approach to the Internet of Things (IoT)
+# The Internet of Things (IoT)
 
 * Lesson 1: Overview
 * Lesson 2: Raspberry Pi
