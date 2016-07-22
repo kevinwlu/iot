@@ -26,3 +26,7 @@ pi@raspberrypi:~ $ sudo pip install -U markdown
 
 pi@raspberrypi:~ $ sudo pip install -U requests
 
+pi@raspberrypi:~ $ sudo apt-get install mysql-server mysql-client
+
+pi@raspberrypi:~ $ sudo apt-get install python-mysqldb
+
