@@ -13,3 +13,4 @@ pi@raspberrypi:~ $ sudo pip install -U djangorestframework
 pi@raspberrypi:~ $ sudo pip install -U django-filter
 pi@raspberrypi:~ $ sudo pip install -U markdown
 pi@raspberrypi:~ $ sudo pip install -U requests
+
