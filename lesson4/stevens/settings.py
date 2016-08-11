@@ -20,6 +20,9 @@ DATABASES = {
         'PASSWORD': 'password',
         'HOST': '', # set to empty for localhost
         'PORT': '', # set to empty for default port
+        'OPTIONS': {
+            'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
+        },
     }
 }
 
