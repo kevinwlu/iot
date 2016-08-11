@@ -1,4 +1,4 @@
-from django.shortcuts import render_to_response
+from django.shortcuts import render
 from myapp.models import TemperatureData
 from django.template import RequestContext
 
@@ -9,6 +9,5 @@ def home(request):
     lat = tempData.lat
     lon = tempData.lon
 
-    return render_to_response('myapp/index.html', {'timestamp': timestamp,
-    'temperature': temperature,
-    'lat': lat, 'lon': lon}, context_instance=RequestContext(request))
+    return render(request, 'myapp/index.html', {'timestamp': timestamp,
+    'temperature': temperature, 'lat': lat, 'lon': lon})
