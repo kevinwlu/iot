@@ -2,7 +2,7 @@
 
 from myapp.models import Room, Door
 from rest_framework import viewsets
-from django.shortcuts import render_to_response
+from django.shortcuts import render
 from django.template import RequestContext
 from myapp.serializers import RoomSerializer, DoorSerializer
 import requests
@@ -29,6 +29,5 @@ def home(request):
     output = json.loads(result)
     doorstate = output['name']
 
-    return render_to_response('myapp/index.html',
-                             {'roomstate':roomstate, 'doorstate':doorstate},
-                             context_instance=RequestContext(request))
+    return render(request, 'myapp/index.html',
+                             {'roomstate':roomstate, 'doorstate':doorstate})
