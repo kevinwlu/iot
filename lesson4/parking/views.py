@@ -2,7 +2,7 @@
 
 from myapp.models import State
 from rest_framework import viewsets
-from django.shortcuts import render_to_response
+from django.shortcuts import render
 from django.template import RequestContext
 from myapp.serializers import StateSerializer
 import requests
@@ -26,8 +26,7 @@ def home(request):
         occupiedCount = 1
         emptyCount = 0
 
-    return render_to_response('myapp/index.html',
+    return render(request, 'myapp/index.html',
                             {'currentstate': currentstate,
                             'occupiedCount': occupiedCount,
-                            'emptyCount': emptyCount},
-                            context_instance=RequestContext(request))
+                            'emptyCount': emptyCount})
