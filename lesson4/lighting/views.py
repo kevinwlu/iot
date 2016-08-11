@@ -2,7 +2,7 @@
 
 from myapp.models import Mode, State
 from rest_framework import viewsets
-from django.shortcuts import render_to_response
+from django.shortcuts import render
 from django.template import RequestContext
 from myapp.serializers import ModeSerializer, StateSerializer
 import requests
@@ -62,6 +62,5 @@ def home(request):
     output = json.loads(result)
     currentstate = output['name']
 
-    return render_to_response('myapp/index.html', {'name':out,
-    'currentmode':currentmode, 'currentstate':currentstate},
-    context_instance=RequestContext(request))
+    return render(request, 'myapp/index.html', {'name':out,
+    'currentmode':currentmode, 'currentstate':currentstate})
