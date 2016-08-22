@@ -42,19 +42,6 @@ Query OK, 1 row affected (0.00 sec)
 mysql> create database sensing;
 Query OK, 1 row affected (0.00 sec)
 
-mysql> show databases;
-+--------------------+
-| Database           |
-+--------------------+
-| information_schema |
-| mysql              |
-| parking            |
-| performance_schema |
-| sensing            |
-| stevens            |
-+--------------------+
-6 rows in set (0.00 sec)
-
 mysql> quit
 Bye
 
