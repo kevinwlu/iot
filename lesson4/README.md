@@ -28,21 +28,24 @@ pi@raspberrypi:~ $ sudo pip install -U requests
 
 pi@raspberrypi:~ $ sudo apt-get install mysql-server mysql-client
 
-pi@raspberrypi:~ $ sudo apt-get install python-mysqldb
-
 pi@raspberrypi:~ $ mysql -u root -p
+
 Enter password:
 
 mysql> create database stevens;
+
 Query OK, 1 row affected (0.00 sec)
 
 mysql> create database parking;
+
 Query OK, 1 row affected (0.00 sec)
 
 mysql> create database sensing;
+
 Query OK, 1 row affected (0.00 sec)
 
 mysql> quit
+
 Bye
 
 pi@raspberrypi:~ $ sudo apt-get install python-mysqldb
