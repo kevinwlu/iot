@@ -2,6 +2,7 @@ from django.shortcuts import render
 from myapp.models import TemperatureData
 from django.template import RequestContext
 
+# Create your views here.
 def home(request):
     tempData = TemperatureData.objects.order_by('-id')[0]
     timestamp = tempData.timestamp
