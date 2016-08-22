@@ -1,8 +1,6 @@
-# Django views for REST service and smart parking application - views.py
-
+from django.shortcuts import render
 from myapp.models import State
 from rest_framework import viewsets
-from django.shortcuts import render
 from django.template import RequestContext
 from myapp.serializers import StateSerializer
 import requests
