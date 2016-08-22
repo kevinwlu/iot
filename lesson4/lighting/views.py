@@ -1,13 +1,12 @@
-# Django views for REST services and home automation application - views.py
-
+from django.shortcuts import render
 from myapp.models import Mode, State
 from rest_framework import viewsets
-from django.shortcuts import render
 from django.template import RequestContext
 from myapp.serializers import ModeSerializer, StateSerializer
 import requests
 import json
 
+# Create your views here.
 class ModeViewSet(viewsets.ModelViewSet):
     queryset = Mode.objects.all()
     serializer_class = ModeSerializer
