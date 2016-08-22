@@ -1,12 +1,12 @@
-# Django views for REST services and home automation application - views.py
-
+from django.shortcuts import render
 from myapp.models import Room, Door
 from rest_framework import viewsets
-from django.shortcuts import render
 from django.template import RequestContext
 from myapp.serializers import RoomSerializer, DoorSerializer
 import requests
 import json
+
+# Create your views here.
 
 class RoomViewSet(viewsets.ModelViewSet):
     queryset = Room.objects.all()
