@@ -7,4 +7,4 @@ print 'Month: ' + now.strftime('%B')
 print 'Year: ' + now.strftime('%Y')
 final = date(2016, 12, 12)
 timediff = final - now
-print '%d days to final' %(timediff.days)
+print('{:d} days to final'.format(timediff.days))
