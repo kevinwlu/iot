@@ -27,7 +27,7 @@ def switchOffLight(PIN):
 while True:
     try:
         ldr_reading = readLDR(LDR_PIN)
-        print ldr_reading
+        print(ldr_reading)
         if ldr_reading > ldr_threshold:
             switchOnLight(LIGHT_PIN)
         else:
