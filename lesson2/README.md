@@ -1,1 +1,1 @@
-Raspberry Pi Configuration > System > Network at Boot > ✓ Wait for network
+Menu > Preferences > Raspberry Pi Configuration > System > Network at Boot > ✓ Wait for network
