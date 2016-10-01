@@ -11,7 +11,7 @@ import datetime
 
 def connect_type(word_list):
     """ This function takes a list of words, then, depeding which key word, returns the corresponding
-    internet connection type as a string. ie) 'ethernet'.
+    internet connection type as a string, e.g., 'ethernet'
     """
     if 'wlan0' in word_list or 'wlan1' in word_list:
         con_type = 'wifi'
@@ -24,10 +24,10 @@ def connect_type(word_list):
 
 # Change to your own account information
 # Account Information
-to = 'username@email.com' # Email to send to.
-gmail_user = 'username@gmail.com' # Email to send from. (MUST BE GMAIL)
-gmail_password = 'gmailpassword' # Gmail password.
-smtpserver = smtplib.SMTP('smtp.gmail.com', 587) # Server to use.
+to = 'username@email.com' # Email to send to
+gmail_user = 'username@gmail.com' # Email to send from (MUST BE GMAIL)
+gmail_password = 'password' # Google App Password
+smtpserver = smtplib.SMTP('smtp.gmail.com', 587) # Server to use
 
 smtpserver.ehlo()  # Says 'hello' to the server
 smtpserver.starttls()  # Start TLS encryption
@@ -35,12 +35,12 @@ smtpserver.ehlo()
 smtpserver.login(gmail_user, gmail_password)  # Log in to server
 today = datetime.date.today()  # Get current time/date
 
-arg='ip route list'  # Linux command to retrieve ip addresses.
-# Runs 'arg' in a 'hidden terminal'.
+arg='ip route list'  # Linux command to retrieve ip addresses
+# Runs 'arg' in a 'hidden terminal'
 p=subprocess.Popen(arg,shell=True,stdout=subprocess.PIPE)
-data = p.communicate()  # Get data from 'p terminal'.
+data = p.communicate()  # Get data from 'p terminal'
 
-# Split IP text block into three, and divide the two containing IPs into words.
+# Split IP text block into three, and divide the two containing IPs into words
 ip_lines = data[0].splitlines()
 split_line_a = ip_lines[1].split()
 #split_line_b = ip_lines[2].split()
