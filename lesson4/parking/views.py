@@ -6,6 +6,7 @@ from myapp.serializers import StateSerializer
 import requests
 import json
 
+# Create your views here.
 class StateViewSet(viewsets.ModelViewSet):
     queryset = State.objects.all()
     serializer_class = StateSerializer
