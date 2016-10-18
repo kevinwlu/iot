@@ -7,7 +7,6 @@ import requests
 import json
 
 # Create your views here.
-
 class RoomViewSet(viewsets.ModelViewSet):
     queryset = Room.objects.all()
     serializer_class = RoomSerializer
