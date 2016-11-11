@@ -10,7 +10,9 @@
 * Lesson 8: Data Analysis
 
 pi@raspberrypi:~ $ git clone https://github.com/kevinwlu/iot.git
+
 pi@raspberrypi:~ $ cd iot
+
 pi@raspberrypi:~/iot $ git pull
 
 2015 Fall:
