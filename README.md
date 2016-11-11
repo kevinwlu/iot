@@ -9,7 +9,7 @@
 * Lesson 7: Cloud Platforms
 * Lesson 8: Data Analysis
 
-pi@raspberrypi:~ $ git clone https://github.com/kevinwlu/iot
+pi@raspberrypi:~ $ git clone https://github.com/kevinwlu/iot.git
 
 2015 Fall:
 
