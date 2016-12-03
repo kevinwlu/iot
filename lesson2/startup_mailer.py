@@ -63,7 +63,7 @@ my_ip_a = 'Your %s ip is %s' % (ip_type_a, ipaddr_a)
 # Creates the text, subject, 'from', and 'to' of the message.
 #msg = MIMEText(my_ip_a + "\n" + my_ip_b)
 msg = MIMEText(my_ip_a)
-msg['Subject'] = 'IPs For RaspberryPi on %s' % today.strftime('%b %d %Y')
+msg['Subject'] = 'IPs for RaspberryPi on %s' % today.strftime('%b %d %Y')
 msg['From'] = gmail_user
 msg['To'] = to
 # Sends the message
