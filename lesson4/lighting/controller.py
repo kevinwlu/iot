@@ -1,5 +1,3 @@
-# Python code for controller native service - controller.py
-
 import time
 import datetime
 import sqlite3
@@ -22,7 +20,7 @@ spi = spidev.SpiDev()
 spi.open(0, 0)
 
 # Light Level Threshold
-threshold = 300
+threshold = 100
 
 # Function to read LDR connected to MCP3008
 def readLDR():
