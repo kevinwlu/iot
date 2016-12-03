@@ -1,5 +1,3 @@
-# Serializers for mode and state REST services - serializers.py
-
 from myapp.models import Mode, State
 from rest_framework import serializers
 
