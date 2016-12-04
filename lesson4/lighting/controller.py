@@ -20,7 +20,7 @@ spi = spidev.SpiDev()
 spi.open(0, 0)
 
 # Light Level Threshold
-threshold = 100
+threshold = 300
 
 # Function to read LDR connected to MCP3008
 def readLDR():
