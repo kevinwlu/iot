@@ -1,5 +1,3 @@
-# Serializers for room and door REST services - serializers.py
-
 from myapp.models import Room, Door
 from rest_framework import serializers
 
