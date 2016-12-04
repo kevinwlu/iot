@@ -1,6 +1,3 @@
-# Python code for controller native service -
-# smart parking - controller.py
-
 import RPi.GPIO as GPIO
 import time
 import sys
@@ -38,7 +35,6 @@ def runController():
     else:
         print 'Empty'
         setCurrentState('empty')
-
 
 def setCurrentState(val):
     values = {'name': val}
