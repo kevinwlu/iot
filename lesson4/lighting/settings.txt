@@ -1,3 +1,4 @@
+# Edit settings.py that was generated from the command 'django-admin startproject lighting'
 # Add 'myapp' and 'rest_framework' to INSTALLED_APPS
 
 INSTALLED_APPS = [
