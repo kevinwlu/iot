@@ -1,6 +1,3 @@
-# Python code for controller native service -
-# smart sensing - controller.py
-
 import RPi.GPIO as GPIO
 import time
 import sys
