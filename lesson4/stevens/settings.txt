@@ -15,12 +15,12 @@ INSTALLED_APPS = [
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql', # change sqlite3 to mysql
-        'NAME': 'stevens', # change os.path.join(BASE_DIR, 'db.sqlite3') to stevens
-	'USER': 'root', # mysql root user
-        'PASSWORD': '<PASSWORD>', # mysql root password
-        'HOST': '', # set to empty for localhost
-        'PORT': '', # set to empty for default port
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'stevens',
+	'USER': 'root',
+        'PASSWORD': '<PASSWORD>', # Change <PASSWORD> to mysql root password
+        'HOST': '',
+        'PORT': '',
         'OPTIONS': {
             'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
         },
