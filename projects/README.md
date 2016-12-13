@@ -22,5 +22,3 @@ Xiaotian Cong and Liuyi Chen, "PiThermostat," https://github.com/xcong1/810PiThe
 David Dietrick and Lucy Morcos, "Noise Monitoring System," https://github.com/djdietrick/djangoNoiseMonitoring
 
 Matthew Melachrinos and Songnian Yin, "Good Morning / Good Night," https://github.com/Daniel0729/moring_night
-
-Michael Reekie, "GPS Tracker and Waypoint Condition Collecting," http://github.com/damikey
