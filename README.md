@@ -14,15 +14,3 @@ pi@raspberrypi:~ $ git clone https://github.com/kevinwlu/iot.git
 pi@raspberrypi:~ $ cd iot
 
 pi@raspberrypi:~/iot $ git pull
-
-2015 Fall:
-
-https://github.com/rafaelbezerra-dev/PlantMonitoringSystem
-
-2016 Spring:
-
-https://github.com/gabimachado/cooktop-IoT
-
-https://github.com/cm5168/Cobweb-iot
-
-https://github.com/li1993qing1993/Arduino-Sleep-Monitor
