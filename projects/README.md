@@ -14,8 +14,6 @@ Qing Li, "Smart Sleep Monitor and Analyzer," https://github.com/li1993qing1993/A
 
 Touqeer Ahmad, "Inertial Tracking," https://github.com/touqeer-ahmad/MPU9255
 
-Touqeer Ahmad and Nishil Parikh, "Temperature Aata on Twitter," https://github.com/touqeer-ahmad/tweaks
-
 Touqeer Ahmad and Nishil Parikh, "Fingerprint Authentication and Attendance Analysis," https://github.com/touqeer-ahmad/zfm60
 
 Mofadal Alymani, Hassan Bediry, Lei Yan, Ahmed Abdalla, and Arpit Nagbhidkar, "Home Security System Using Email and Dropbox,"
