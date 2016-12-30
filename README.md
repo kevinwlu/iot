@@ -1,5 +1,6 @@
 # The Internet of Things (IoT)
 
+* Lesson 0: Syllabus
 * Lesson 1: Overview
 * Lesson 2: Raspberry Pi
 * Lesson 3: Python
