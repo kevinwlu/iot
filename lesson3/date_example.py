@@ -5,6 +5,6 @@ print('Date: ' + now.strftime('%m-%d-%y'))
 print('Day of Week: ' + now.strftime('%A'))
 print('Month: ' + now.strftime('%B'))
 print('Year: ' + now.strftime('%Y'))
-final = date(2016, 12, 12)
+final = date(2017, 5, 8)
 timediff = final - now
 print('{:d} days to final'.format(timediff.days))
