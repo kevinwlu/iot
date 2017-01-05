@@ -3,7 +3,7 @@ import Adafruit_DHT
 from beebotte import *
 bbt = BBT('API_KEY', 'SECRET_KEY')
 period = 60 # seconds
-pin = 4
+pin = 24
 temp_resource = Resource(bbt, 'RaspberryPi', 'temperature')
 humid_resource = Resource(bbt, 'RaspberryPi', 'humidity')
 def run():
