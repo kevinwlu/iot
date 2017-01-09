@@ -1,4 +1,4 @@
-import smtplib
+ import smtplib
 from time import sleep
 import RPi.GPIO as GPIO
 from sys import exit
@@ -9,7 +9,7 @@ cc_list = []
 subject = 'Hello'
 message = 'Switch pressed on Raspberry Pi'
 username = '<enter-gmail-username>'
-password = '<enter-gmail-password>'
+password = '<enter-google-app-password>'
 server = 'smtp.gmail.com:587'
 
 GPIO.setmode(GPIO.BCM)
