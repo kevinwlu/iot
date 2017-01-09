@@ -3,13 +3,13 @@ from time import sleep
 import RPi.GPIO as GPIO
 from sys import exit
 
-from_email = '<enter-gmail-address>'
-receipients_list = ['<enter-receipients-email>']
+from_email = '<GMAIL ADDRESS>'
+receipients_list = ['<RECIPIENT EMAIL>']
 cc_list = []
 subject = 'Hello'
 message = 'Switch pressed on Raspberry Pi'
-username = '<enter-gmail-username>'
-password = '<enter-google-app-password>'
+username = '<GMAIL USERNAME>'
+password = '<GOOGLE APP PASSWORD>'
 server = 'smtp.gmail.com:587'
 
 GPIO.setmode(GPIO.BCM)
