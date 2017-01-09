@@ -8,7 +8,7 @@ cc_list = []
 subject = 'Hello'
 message = 'This is a test message.'
 username = '<enter-gmail-username>'
-password = '<enter-gmail-password>'
+password = '<enter-google-app-password>'
 server = 'smtp.gmail.com:587'
 
 def sendemail(from_addr, to_addr_list, cc_addr_list, subject, message, login, password, smtpserver):
