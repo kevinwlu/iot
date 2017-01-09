@@ -24,9 +24,9 @@ def connect_type(word_list):
 
 # Change to your own account information
 # Account Information
-to = '<enter-recipient-email>' # Email to send to
-gmail_user = '<enter-gmail-username>' # Email to send from (MUST BE GMAIL)
-gmail_password = '<enter-google-app-password>' # Google App Password
+to = '<RECIPIENT EMAIL>' # Email to send to
+gmail_user = '<GMAIL USERNAME>' # Email to send from (MUST BE GMAIL)
+gmail_password = '<GOOGLE APP PASSWORD>' # Google App Password
 smtpserver = smtplib.SMTP('smtp.gmail.com', 587) # Server to use
 
 smtpserver.ehlo()  # Says 'hello' to the server
