@@ -2,13 +2,13 @@
 
 import smtplib
 
-from_email = '<enter-gmail-address>'
-recipients_list = ['<enter-recipient-email>']
+from_email = '<GMAIL ADDRESS>'
+recipients_list = ['<RECIPIENT EMAIL>']
 cc_list = []
 subject = 'Hello'
 message = 'This is a test message.'
-username = '<enter-gmail-username>'
-password = '<enter-google-app-password>'
+username = '<GMAIL USERNAME>'
+password = '<GOOGLE APP PASSWORD>'
 server = 'smtp.gmail.com:587'
 
 def sendemail(from_addr, to_addr_list, cc_addr_list, subject, message, login, password, smtpserver):
