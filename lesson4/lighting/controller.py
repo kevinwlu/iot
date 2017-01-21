@@ -94,7 +94,6 @@ def runController():
         runAutoMode()
     elif currentMode == 'manual':
         runManualMode()
-
     return True
 
 while True:
