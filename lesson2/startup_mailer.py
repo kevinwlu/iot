@@ -7,6 +7,7 @@ __status__ = "Production"
 import subprocess
 import smtplib
 from email.mime.text import MIMEText
+#import datetime
 
 def connect_type(word_list):
     """ This function takes a list of words, then, depeding which key word, returns the corresponding
@@ -17,8 +18,7 @@ def connect_type(word_list):
     elif 'eth0' in word_list:
         con_type = 'Ethernet'
     else:
-        con_type = 'Current'
-
+        con_type = 'current'
     return con_type
 
 # Change to your own account information
@@ -32,6 +32,7 @@ smtpserver.ehlo()  # Says 'hello' to the server
 smtpserver.starttls()  # Start TLS encryption
 smtpserver.ehlo()
 smtpserver.login(gmail_user, gmail_password)  # Log in to server
+#today = datetime.date.today()  # Get current time/date
 
 arg='ip route list'  # Linux command to retrieve IP addresses
 # Runs 'arg' in a 'hidden terminal'
@@ -43,7 +44,7 @@ ip_lines = data[0].splitlines()
 split_line_a = ip_lines[1].split()
 #split_line_b = ip_lines[2].split()
 
-# con_type variables for the message text. ex) 'Ethernet', 'Wi-Fi', etc.
+# con_type variables for the message text, e.g., 'Ethernet,' 'Wi-Fi,' etc.
 ip_type_a = connect_type(split_line_a)
 #ip_type_b = connect_type(split_line_b)
 
@@ -61,7 +62,8 @@ my_ip_a = 'Your %s IP address is %s' % (ip_type_a, ipaddr_a)
 # Creates the text, subject, 'from', and 'to' of the message.
 #msg = MIMEText(my_ip_a + "\n" + my_ip_b)
 msg = MIMEText(my_ip_a)
-msg['Subject'] = 'IP addresses for RaspberryPi'
+#msg['Subject'] = 'IP addresses for RaspberryPi on %s' % today.strftime('%b %d %Y')
+msg['Subject'] = 'IP address for RaspberryPi'
 msg['From'] = gmail_user
 msg['To'] = to
 # Sends the message
