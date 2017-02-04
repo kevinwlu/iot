@@ -11,7 +11,7 @@ from email.mime.text import MIMEText
 
 def connect_type(word_list):
     """ This function takes a list of words, then, depeding which key word, returns the corresponding
-    internet connection type as a string, e.g., 'ethernet'
+    internet connection type as a string, e.g., 'Ethernet.'
     """
     if 'wlan0' in word_list or 'wlan1' in word_list:
         con_type = 'Wi-Fi'
