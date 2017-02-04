@@ -39,7 +39,7 @@ arg='ip route list'  # Linux command to retrieve IP addresses
 p=subprocess.Popen(arg,shell=True,stdout=subprocess.PIPE)
 data = p.communicate()  # Get data from 'p terminal'
 
-# Split IP text block into three, and divide the two containing IPs into words
+# Split IP text block into three, and divide the two containing IP addresses into words
 ip_lines = data[0].splitlines()
 split_line_a = ip_lines[1].split()
 #split_line_b = ip_lines[2].split()
