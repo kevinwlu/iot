@@ -55,11 +55,11 @@ get the index position of our IP address.
 ipaddr_a = split_line_a[split_line_a.index('src')+1]
 #ipaddr_b = split_line_b[split_line_b.index('src')+1]
 
-# Creates a sentence for each IP address.
+# Creates a sentence for each IP address
 my_ip_a = 'Your %s IP address is %s' % (ip_type_a, ipaddr_a)
 #my_ip_b = 'Your %s IP address is %s' % (ip_type_b, ipaddr_b)
 
-# Creates the text, subject, 'from', and 'to' of the message.
+# Creates the text, subject, 'from', and 'to' of the message
 #msg = MIMEText(my_ip_a + "\n" + my_ip_b)
 msg = MIMEText(my_ip_a)
 #msg['Subject'] = 'IP addresses for RaspberryPi on %s' % today.strftime('%b %d %Y')
@@ -68,5 +68,5 @@ msg['From'] = gmail_user
 msg['To'] = to
 # Sends the message
 smtpserver.sendmail(gmail_user, [to], msg.as_string())
-# Closes the smtp server.
+# Closes the smtp server
 smtpserver.quit()
