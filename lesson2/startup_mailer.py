@@ -7,18 +7,17 @@ __status__ = "Production"
 import subprocess
 import smtplib
 from email.mime.text import MIMEText
-import datetime
 
 def connect_type(word_list):
     """ This function takes a list of words, then, depeding which key word, returns the corresponding
     internet connection type as a string, e.g., 'ethernet'
     """
     if 'wlan0' in word_list or 'wlan1' in word_list:
-        con_type = 'wifi'
+        con_type = 'Wi-Fi'
     elif 'eth0' in word_list:
-        con_type = 'ethernet'
+        con_type = 'Ethernet'
     else:
-        con_type = 'current'
+        con_type = 'Current'
 
     return con_type
 
@@ -33,9 +32,8 @@ smtpserver.ehlo()  # Says 'hello' to the server
 smtpserver.starttls()  # Start TLS encryption
 smtpserver.ehlo()
 smtpserver.login(gmail_user, gmail_password)  # Log in to server
-today = datetime.date.today()  # Get current time/date
 
-arg='ip route list'  # Linux command to retrieve ip addresses
+arg='ip route list'  # Linux command to retrieve IP addresses
 # Runs 'arg' in a 'hidden terminal'
 p=subprocess.Popen(arg,shell=True,stdout=subprocess.PIPE)
 data = p.communicate()  # Get data from 'p terminal'
@@ -45,25 +43,25 @@ ip_lines = data[0].splitlines()
 split_line_a = ip_lines[1].split()
 #split_line_b = ip_lines[2].split()
 
-# con_type variables for the message text. ex) 'ethernet', 'wifi', etc.
+# con_type variables for the message text. ex) 'Ethernet', 'Wi-Fi', etc.
 ip_type_a = connect_type(split_line_a)
 #ip_type_b = connect_type(split_line_b)
 
-"""Because the text 'src' is always followed by an ip address,
+"""Because the text 'src' is always followed by an IP address,
 we can use the 'index' function to find 'src' and add one to
-get the index position of our ip.
+get the index position of our IP address.
 """
 ipaddr_a = split_line_a[split_line_a.index('src')+1]
 #ipaddr_b = split_line_b[split_line_b.index('src')+1]
 
-# Creates a sentence for each ip address.
-my_ip_a = 'Your %s ip is %s' % (ip_type_a, ipaddr_a)
-#my_ip_b = 'Your %s ip is %s' % (ip_type_b, ipaddr_b)
+# Creates a sentence for each IP address.
+my_ip_a = 'Your %s IP address is %s' % (ip_type_a, ipaddr_a)
+#my_ip_b = 'Your %s IP address is %s' % (ip_type_b, ipaddr_b)
 
 # Creates the text, subject, 'from', and 'to' of the message.
 #msg = MIMEText(my_ip_a + "\n" + my_ip_b)
 msg = MIMEText(my_ip_a)
-msg['Subject'] = 'IPs for RaspberryPi on %s' % today.strftime('%b %d %Y')
+msg['Subject'] = 'IP addresses for RaspberryPi'
 msg['From'] = gmail_user
 msg['To'] = to
 # Sends the message
