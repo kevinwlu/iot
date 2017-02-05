@@ -56,8 +56,8 @@ ipaddr_a = split_line_a[split_line_a.index('src')+1]
 #ipaddr_b = split_line_b[split_line_b.index('src')+1]
 
 # Creates a sentence for each IP address
-my_ip_a = 'Your %s IP address is %s' % (ip_type_a, ipaddr_a)
-#my_ip_b = 'Your %s IP address is %s' % (ip_type_b, ipaddr_b)
+my_ip_a = 'RaspberryPi %s IP address is %s' % (ip_type_a, ipaddr_a)
+#my_ip_b = 'RaspberryPi %s IP address is %s' % (ip_type_b, ipaddr_b)
 
 # Creates the text, subject, 'from', and 'to' of the message
 #msg = MIMEText(my_ip_a + "\n" + my_ip_b)
