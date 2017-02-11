@@ -1,4 +1,4 @@
- import smtplib
+import smtplib
 from time import sleep
 import RPi.GPIO as GPIO
 from sys import exit
