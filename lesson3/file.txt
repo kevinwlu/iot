@@ -1,0 +1,2 @@
+Python supports more than one programming paradigms including object-oriented programming and structured programming.
+Python is an interpreted language and does not require an explicit compilation step.
