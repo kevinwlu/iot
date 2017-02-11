@@ -1,3 +1,4 @@
+# http://cagewebdev.com/raspberry-pi-showing-some-system-info-with-a-python-script/
 import subprocess
 import os
 def get_ram():
