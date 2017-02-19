@@ -1,0 +1,5 @@
+{
+"plotly_streaming_tokens": ["your_stream_token", "another_stream_token"],
+"plotly_api_key": "api_key",
+"plotly_username": "username"
+}
