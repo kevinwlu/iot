@@ -18,7 +18,6 @@ def initialize():
     GPIO.setup(PINS.SPICLK, GPIO.OUT)
     GPIO.setup(PINS.SPICS, GPIO.OUT)
 
-
 # Function to read data from Analog Pin 0 from MCP3008 (don't need to edit)
 # This function will be called in our loop to get the current sensor value
 def readadc(adcnum, clockpin, mosipin, misopin, cspin):
