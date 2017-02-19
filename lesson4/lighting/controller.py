@@ -101,5 +101,6 @@ while True:
         runController()
         time.sleep(5)
     except KeyboardInterrupt:
+        spi.close()
         GPIO.cleanup()
         exit()
