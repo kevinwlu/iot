@@ -23,9 +23,9 @@ def connect_type(word_list):
 
 # Change to your own account information
 # Account Information
-to = '<RECIPIENT EMAIL>' # Email to send to
-gmail_user = '<GMAIL USERNAME>' # Email to send from (MUST BE GMAIL)
-gmail_password = '<GOOGLE APP PASSWORD>' # 16-digit Google App Password if using 2-Step Verification
+to = 'RECIPIENT_EMAIL' # Email to send to
+gmail_user = 'GMAIL_USERNAME' # Email to send from (MUST BE GMAIL)
+gmail_password = 'GOOGLE_APP_PASSWORD' # 16-digit Google App Password if using 2-Step Verification
 # that needs a 6-digit verification code to sign in Google Account
 # https://www.google.com/landing/2step/help.html 
 # If not using 2-Step Verification, it's required to turn on access for "less secure apps"
