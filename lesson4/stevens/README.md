@@ -16,6 +16,16 @@ pi@raspberrypi:~/stevens $ ls
 
 manage.py  myapp  stevens
 
+# Create MySQL database
+
+pi@raspberrypi:~ $ mysql -u root -p
+
+Enter password: <PASSWORD>
+
+mysql> create database stevens;
+
+mysql> quit
+
 # Edit settings.py and urls.py in ~/stevens/stevens
 
 pi@raspberrypi:~/stevens $ cd stevens
