@@ -28,7 +28,7 @@ mysql> quit
 
 # Edit settings.py and urls.py in ~/stevens/stevens
 
-# Remember to change <PASSWORD> in settings.py
+# Remember to change PASSWORD in settings.py
 
 pi@raspberrypi:~/stevens $ cd stevens
 
