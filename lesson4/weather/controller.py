@@ -6,7 +6,8 @@ import requests
 DHT_TYPE = Adafruit_DHT.DHT22
 DHT_PIN  = 24
 def runController():
-    dt = datetime.datetime.now()
+    now = datetime.datetime.now()
+    dt = now.replace(microsecond=0)
     print(dt)
     print('Temperature: {0:0.1f} C'.format(tmp))
     print('Humidity:    {0:0.1f} %'.format(hmd))
