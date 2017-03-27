@@ -13,13 +13,14 @@ while True:
         if humidity is None or temp is None:
             time.sleep(2)
             continue
-        dt = datetime.datetime.now()
+        now = datetime.datetime.now()
+        dt = now.replace(microsecond=0)
         print(dt)
         print('Temperature: {0:0.1f} C'.format(temp))
         print('Humidity:    {0:0.1f} %'.format(humidity))
         mqttc.publish("rpi/dht", "%s" % dt)
-        mqttc.publish("rpi/dht", "%.1f" % temp)
-        mqttc.publish("rpi/dht", "%.1f" % humidity)
+        mqttc.publish("rpi/dht", "Temperature: %.1f C" % temp)
+        mqttc.publish("rpi/dht", "Humidity: %.1f Percent" % humidity)
         time.sleep(10)
     except KeyboardInterrupt:
         exit()
