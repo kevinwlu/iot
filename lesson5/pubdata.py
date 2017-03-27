@@ -20,7 +20,7 @@ while True:
         print('Humidity:    {0:0.1f} %'.format(humidity))
         mqttc.publish("rpi/dht", "%s" % dt)
         mqttc.publish("rpi/dht", "Temperature: %.1f C" % temp)
-        mqttc.publish("rpi/dht", "Humidity:    %.1f Percent" % humidity)
+        mqttc.publish("rpi/dht", "Humidity:    %.1f %%" % humidity)
         time.sleep(10)
     except KeyboardInterrupt:
         exit()
