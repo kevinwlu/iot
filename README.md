@@ -5,7 +5,7 @@
 * Lesson 2: Raspberry Pi
 * Lesson 3: Python
 * Lesson 4: Django
-* Lesson 5: Autobahn and Paho
+* Lesson 5: Crossbar.io and Paho
 * Lesson 6: Alternative Devices
 * Lesson 7: Cloud Platforms
 * Lesson 8: Data Analysis
