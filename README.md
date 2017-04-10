@@ -9,6 +9,7 @@
 * Lesson 6: Alternative Devices
 * Lesson 7: Cloud Platforms
 * Lesson 8: Data Analysis
+* Lesson 9: NETCONF and YANG
 
 pi@raspberrypi:~ $ git clone https://github.com/kevinwlu/iot.git
 
