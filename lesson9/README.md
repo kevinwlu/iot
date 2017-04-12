@@ -1,2 +1,2 @@
-# Lesson 9: NETCONF and YANG
-https://goo.gl/RIzzfl
+# <a href="https://goo.gl/RIzzfl">Lesson 9</a>: NETCONF and YANG
+
