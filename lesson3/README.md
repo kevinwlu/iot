@@ -1,2 +1,2 @@
-# Lesson 3: Python
-https://goo.gl/F0H9jW
+# <a href="https://goo.gl/F0H9jW">Lesson 3</a>: Python
+
