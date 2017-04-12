@@ -1,2 +1,2 @@
-# Lesson 6: Alternative Devices
-https://goo.gl/KDtocJ
+# <a href="https://goo.gl/KDtocJ">Lesson 6</a>: Alternative Devices
+
