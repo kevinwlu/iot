@@ -1,2 +1,2 @@
-# Lesson 2: Raspberry Pi
-https://goo.gl/hRoMYW
+# <a href="https://goo.gl/hRoMYW">Lesson 2</a>: Raspberry Pi
+
