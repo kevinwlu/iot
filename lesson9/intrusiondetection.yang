@@ -1,0 +1,121 @@
+module intrusiondetection {
+
+ namespace "http://netconfcentral.org/ns/intrusiondetection";
+
+ prefix "intrusion";
+
+ description
+  "YANG module for Intrusion Detection IoT system";
+
+ revision 2014-07-15 {
+  description "Intrusion Detection System";
+ }
+
+ grouping room {
+  leaf doorsensorID {
+   type string;
+   description
+    "ID of door sensor in the room";
+  }
+  leaf motionsensorID {
+   type string;
+   description
+    "ID of motion sensor in the room";
+  }
+ }
+ 
+ container intrusiondetection {
+  presence
+   "Indicates the service is available";
+
+  description
+   "Top-level container for all system objects.";
+
+  leaf systemID {
+   type string;
+   config false;
+   mandatory true;
+   description
+   "ID of the system";
+  }
+
+  leaf systemLocation {
+   type string;
+   config false;
+   mandatory true;
+   description
+   "The location of the system";
+  }
+
+  leaf systemStatus {
+   type enumeration {
+    enum up {
+    value 1;
+    description
+     "This is powered up";
+    }
+    enum down {
+    value 2;
+    description
+     "This is powered down";
+    }
+    enum armed {
+    value 3;
+    description
+     "This is armed";
+    }
+    enum disarmed {
+    value 4;
+    description
+     "This is disarmed";
+    }
+   }
+   config false;
+   mandatory true;
+   description
+   "This variable indicates the current state of 
+    the system.";
+  }
+    container sensors {
+   uses room;
+   config false;
+  }
+ }  
+ 
+ rpc arm-system {
+  description
+   "Arm the system";
+ }
+
+ rpc disarm-system {
+  description
+   "Disarm the system";
+ }
+
+ notification systemArmed {
+  description
+   "Indicates that system has been armed.";
+ 
+  leaf armStatus {
+   description
+    "Indicates the system arming status";
+   
+   type enumeration {
+    enum armed {
+    description
+     "The system was armed.";
+    }
+
+    enum disarmed {
+    description
+     "The system was armed.";
+    }   
+
+    enum error {
+    description
+     "The system is broken.";
+    }
+   }
+  }
+ }
+}    
