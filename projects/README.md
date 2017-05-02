@@ -21,8 +21,8 @@ https://github.com/yanldst/Home-Security-System
 
 # 2017 Spring
 
-* Nagrajan Chandrasekaran, "Performance Data," https://github.com/Nagrajan23/performance-data
-* Bharath Kumar, "Alexa-Pi," https://github.com/bkumar080/alexa-pi
+* Nagrajan Chandrasekaran and Piyush Rao, "Performance Data," https://github.com/Nagrajan23/performance-data
+* Bharath Kumar and Vijayrahul Rajathiruvenkatapathy, "Alexa-Pi," https://github.com/bkumar080/alexa-pi
 
 # 2017 Fall
 
