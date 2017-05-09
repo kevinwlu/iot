@@ -23,6 +23,7 @@ https://github.com/yanldst/Home-Security-System
 
 * Nagrajan Chandrasekaran and Piyush Rao, "Performance Data," https://github.com/Nagrajan23/performance-data
 * Bharath Kumar and Vijayrahul Rajathiruvenkatapathy, "Alexa-Pi," https://github.com/bkumar080/alexa-pi
+* Fulong Wang, "License Plate Recoginition," https://github.com/fwangrotk/license-plate-recognition
 
 # 2017 Fall
 
