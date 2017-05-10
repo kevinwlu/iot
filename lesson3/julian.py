@@ -1,5 +1,5 @@
 from datetime import date
-from jdcal import gcal2jd, jd2gcal
+from jdcal import *
 now = date.today()
 jd = gcal2jd(now.year, now.month, now.day)
 gcal = jd2gcal(jd[0], jd[1])
