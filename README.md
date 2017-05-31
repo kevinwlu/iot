@@ -1,5 +1,7 @@
 # The Internet of Things (IoT)
 
+<a href="http://www.hands-on-books-series.com/" target="_blank">Source</a>
+
 * <a href="https://goo.gl/Ga1wxY" target="_blank">Lesson 0</a>: Syllabus
 * <a href="https://goo.gl/4aXo9L" target="_blank">Lesson 1</a>: Overview
 * <a href="https://goo.gl/hRoMYW" target="_blank">Lesson 2</a>: Raspberry Pi
