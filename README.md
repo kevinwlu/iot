@@ -10,8 +10,7 @@
 * <a href="https://goo.gl/6BsKOa" target="_blank">Lesson 7</a>: Cloud Platforms
 * <a href="https://goo.gl/ibFiqR" target="_blank">Lesson 8</a>: Data Analysis
 * <a href="https://goo.gl/RIzzfl" target="_blank">Lesson 9</a>: NETCONF and YANG
-
-<a href="http://www.hands-on-books-series.com/" target="_blank">References</a>
+* <a href="http://www.hands-on-books-series.com/" target="_blank">References</a>
 
 pi@raspberrypi:~ $ git clone https://github.com/kevinwlu/iot.git
 
