@@ -1,6 +1,12 @@
 network={
-      ssid="Stevens"
-      key_mgmt=WPA-EAP
-      identity="STEVENS_LOGIN"
-      password="STEVENS_PASSWORD"
+        ssid="Stevens"
+        key_mgmt=WPA-EAP
+        identity="STEVENS_LOGIN"
+        password="STEVENS_PASSWORD"
+}
+
+network={
+        ssid="SSID"
+        psk="PRE_SHARED_KEY"
+        key_mgmt=WPA-PSK
 }
