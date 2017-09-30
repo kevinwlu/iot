@@ -1,10 +1,6 @@
 network={
       ssid="Stevens"
-      proto=RSN
       key_mgmt=WPA-EAP
-      pairwise=CCMP
-      auth_alg=OPEN
-      eap=PEAP
       identity="STEVENS_LOGIN"
       password="STEVENS_PASSWORD"
 }
