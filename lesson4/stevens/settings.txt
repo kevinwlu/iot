@@ -22,8 +22,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'stevens',
-	'USER': 'root',
-        'PASSWORD': 'PASSWORD', # Change PASSWORD to mysql root password
+	'USER': 'pi',
+        'PASSWORD': 'PASSWORD', # Change PASSWORD to mysql user password
         'HOST': '',
         'PORT': '',
         'OPTIONS': {
