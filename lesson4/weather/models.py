@@ -6,8 +6,8 @@ from django.db import models
 # Create your models here.
 class LocationData(models.Model):
     location = models.CharField(max_length=30)
-    lat = models.CharField(max_length=20)
-    lon = models.CharField(max_length=20)
+    latitude = models.CharField(max_length=20)
+    longitude = models.CharField(max_length=20)
     def __unicode__(self):
         return self.location
 
