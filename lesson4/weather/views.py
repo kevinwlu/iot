@@ -33,7 +33,7 @@ def home(request):
     output = json.loads(result)
     dtstate = output['name']
 
-    tmpstate = '70'
+    tmpstate = '20'
     r = requests.get('http://127.0.0.1:8000/tmp/1/', auth=('pi', 'PASSWORD'))
     result = r.text
     output = json.loads(result)
