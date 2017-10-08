@@ -17,14 +17,14 @@ INSTALLED_APPS = [
     'rest_framework',
 ]
 
-# Change database to MySQL
+# Change database to MySQL and replace PASSWORD
 
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'parking',
-        'USER': 'root',
-        'PASSWORD': 'PASSWORD', # Change PASSWORD to mysql root password
+        'USER': 'pi',
+        'PASSWORD': 'PASSWORD',
         'HOST': '',
         'PORT': '',
         'OPTIONS': {
