@@ -27,7 +27,7 @@ def home(request):
     lat = locData.latitude
     lon = locData.longitude
 
-    dtstate = '2016-10-30T14:26:00-05:00'
+    dtstate = '2017-10-10T16:00:00-05:00'
     r = requests.get('http://127.0.0.1:8000/dt/1/', auth=('pi', 'PASSWORD'))
     result = r.text
     output = json.loads(result)
