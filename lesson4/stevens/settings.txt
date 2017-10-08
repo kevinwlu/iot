@@ -13,17 +13,17 @@ INSTALLED_APPS = [
                   'django.contrib.sessions',
                   'django.contrib.messages',
                   'django.contrib.staticfiles',
-                  'myapp', # add this line
+                  'myapp',
 ]
 
-# Change database to MySQL
+# Change database to MySQL and replace PASSWORD
 
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'stevens',
 	'USER': 'pi',
-        'PASSWORD': 'PASSWORD', # Change PASSWORD to mysql user password
+        'PASSWORD': 'PASSWORD',
         'HOST': '',
         'PORT': '',
         'OPTIONS': {
