@@ -17,13 +17,13 @@ class DoorViewSet(viewsets.ModelViewSet):
 
 def home(request):
     roomstate = 'no'
-    r = requests.get('http://127.0.0.1:8000/room/1/', auth=('username', 'password'))
+    r = requests.get('http://127.0.0.1:8000/room/1/', auth=('pi', 'PASSWORD'))
     result = r.text
     output = json.loads(result)
     roomstate = output['name']
 
     doorstate = 'closed'
-    r = requests.get('http://127.0.0.1:8000/door/1/', auth=('username', 'password'))
+    r = requests.get('http://127.0.0.1:8000/door/1/', auth=('pi', 'PASSWORD'))
     result = r.text
     output = json.loads(result)
     doorstate = output['name']
