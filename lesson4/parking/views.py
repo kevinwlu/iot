@@ -14,7 +14,7 @@ class StateViewSet(viewsets.ModelViewSet):
 def home(request):
     currentstate = 'empty'
     r = requests.get('http://127.0.0.1:8000/state/1/',
-                    auth=('username', 'password'))
+                    auth=('pi', 'PASSWORD'))
     result = r.text
     output = json.loads(result)
     currentstate = output['name']
