@@ -12,7 +12,7 @@ crossbar version
 
 crossbar init --appdir hello
 
-# Autobahn|Python
+# Autobahn
 
 sudo apt-get install python-dev python-twisted
 
