@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/shPybk">Lesson 5</a>: Crossbar.io and Paho
 
-# Install Crossbar.io
+# Crossbar.io
 
 sudo apt-get update
 
@@ -12,3 +12,32 @@ crossbar version
 
 crossbar init --appdir hello
 
+# Autobahn|Python
+
+sudo apt-get install python-dev python-twisted
+
+git clone https://github.com/crossbario/autobahn-python.git
+
+# Mosquitto
+
+sudo apt-get install mosquitto mosquitto-clients
+
+mosquitto_sub -h localhost -v -t "\$SYS/#"
+
+mosquitto_pub -h localhost -t test/topic -m "Hello"
+
+mosquitto_sub -h localhost -v -t test/topic &
+
+service mosquitto status
+
+netstat -tln
+
+# Paho
+
+sudo pip install -U paho-mqtt
+
+git clone https://github.com/eclipse/paho.mqtt.python.git
+
+# AWS CLI
+
+sudo pip install -U awscli
