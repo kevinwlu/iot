@@ -32,6 +32,8 @@ service mosquitto status
 
 netstat -tln
 
+sudo service mosquitto stop
+
 # Paho
 
 sudo pip install -U paho-mqtt
