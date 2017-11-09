@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/6BsKOa">Lesson 7</a>: Cloud Platforms
 
-# Install gspread Google Sheets Python API and OAuth2
+# Install gspread and oauth2client
 
 sudo apt-get update
 
