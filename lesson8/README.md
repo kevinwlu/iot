@@ -1,22 +1,22 @@
 # <a href="https://goo.gl/ibFiqR">Lesson 8</a>: Data Analysis
 
-# Install (or update) Python data analysis packages on a Raspberry Pi
+# Install or update Python data analysis packages on a Raspberry Pi
 
 sudo apt-get update
 
 sudo apt-get install build-essential
 
-sudo apt-get install python-dev
+sudo apt-get install python-dev python3-dev
 
-sudo apt-get install python-setuptools
+sudo apt-get install python-setuptools python3-setuptools
 
-sudo apt-get install python-numpy
+sudo apt-get install python-numpy python3-numpy
 
-sudo apt-get install python-scipy
+sudo apt-get install python-scipy python3-scipy
 
-sudo apt-get install python-matplotlib
+sudo apt-get install python-matplotlib python3-matplotlib
 
-sudo apt-get install python-pandas
+sudo apt-get install python-pandas python3-pandas
 
 # Install the latest scikit-learn by pip instead of "sudo apt-get install python-sklearn"
 
