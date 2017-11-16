@@ -4,8 +4,6 @@
 
 sudo apt-get update
 
-sudo apt-get dist-upgrade
-
 sudo apt-get install build-essential
 
 sudo apt-get install python-dev python3-dev
