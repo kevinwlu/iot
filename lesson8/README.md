@@ -22,10 +22,6 @@ sudo apt-get install python-pandas
 
 sudo apt-get install libopenblas-dev
 
-sudo update-alternatives --set libblas.so.3 /usr/lib/openblas-base/libopenblas.so.0
-
-sudo update-alternatives --set liblapack.so.3 /usr/lib/lapack/liblapack.so.3
-
 sudo pip install -U pip
 
 sudo pip install -U scikit-learn
