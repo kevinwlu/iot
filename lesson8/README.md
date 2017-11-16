@@ -31,3 +31,9 @@ sudo update-alternatives --set liblapack.so.3 /usr/lib/atlas-base/atlas/liblapac
 sudo pip install -U pip
 
 sudo pip install -U scikit-learn
+
+# Use conda on Windows or pip on Linux or macOS to install or update Python data analysis packages
+
+sudo pip install -U pip 
+
+sudo pip install -U numpy scipy scikit-learn matplotlib pandas
