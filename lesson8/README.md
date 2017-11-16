@@ -6,25 +6,25 @@ sudo apt-get update
 
 sudo apt-get install build-essential
 
-sudo apt-get install python-dev python3-dev
+sudo apt-get install python-dev
 
-sudo apt-get install python-setuptools python3-setuptools
+sudo apt-get install python-setuptools
 
-sudo apt-get install python-numpy python3-numpy
+sudo apt-get install python-numpy
 
-sudo apt-get install python-scipy python3-scipy
+sudo apt-get install python-scipy
 
-sudo apt-get install python-matplotlib python3-matplotlib
+sudo apt-get install python-matplotlib
 
-sudo apt-get install python-pandas python3-pandas
+sudo apt-get install python-pandas
 
 # Install the latest scikit-learn by pip instead of "sudo apt-get install python-sklearn"
 
-sudo apt-get install libatlas-dev libatlas3gf-base
+sudo apt-get install libopenblas-dev
 
-sudo update-alternatives --set libblas.so.3 /usr/lib/atlas-base/atlas/libblas.so.3
+sudo update-alternatives --set libblas.so.3 /usr/lib/openblas-base/libopenblas.so.0
 
-sudo update-alternatives --set liblapack.so.3 /usr/lib/atlas-base/atlas/liblapack.so.3
+sudo update-alternatives --set liblapack.so.3 /usr/lib/lapack/liblapack.so.3
 
 sudo pip install -U pip
 
