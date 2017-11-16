@@ -26,7 +26,7 @@ sudo pip install -U pip
 
 sudo pip install -U scikit-learn
 
-# Use conda on Windows or pip on Linux or macOS to install or update Python data analysis packages
+# Use conda on Windows, or pip on Linux or macOS to install or update Python data analysis packages
 
 sudo pip install -U pip 
 
