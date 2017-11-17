@@ -34,4 +34,4 @@ sudo pip install -U numpy scipy scikit-learn matplotlib pandas
 
 # Install Apache MXNet for deep learning on macOS
 
-sudo pip install -U mxnet --pre --user
+sudo pip install -U mxnet
