@@ -18,7 +18,7 @@ sudo apt-get install python-matplotlib python3-matplotlib
 
 sudo apt-get install python-pandas python3-pandas
 
-# Install the latest scikit-learn by pip instead of "sudo apt-get install python-sklearn" on a Raspberry Pi
+# Install scikit-learn by pip (or pip3) on a Raspberry Pi
 
 sudo apt-get install libopenblas-dev
 
