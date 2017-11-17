@@ -18,7 +18,7 @@ sudo apt-get install python-matplotlib python3-matplotlib
 
 sudo apt-get install python-pandas python3-pandas
 
-# Install the latest scikit-learn by pip instead of "sudo apt-get install python-sklearn"
+# Install the latest scikit-learn by pip instead of "sudo apt-get install python-sklearn" on a Raspberry Pi
 
 sudo apt-get install libopenblas-dev
 
@@ -26,12 +26,12 @@ sudo pip install -U pip
 
 sudo pip install -U scikit-learn
 
-# Install Apache MXNet for deep learning
-
-sudo pip install -U mxnet --pre --user
-
 # Use conda on Windows, or pip on Linux and macOS to install or update Python data analysis packages
 
 sudo pip install -U pip 
 
 sudo pip install -U numpy scipy scikit-learn matplotlib pandas
+
+# Install Apache MXNet for deep learning
+
+sudo pip install -U mxnet --pre --user
