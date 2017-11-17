@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/ibFiqR">Lesson 8</a>: Data Analysis
 
-# Install or update Python data analysis packages on a Raspberry Pi
+# Install NumPy, SciPy, Matplotlib, and pandas on a Raspberry Pi — replace python-* with python3-* if using Python 3
 
 sudo apt-get update
 
@@ -25,6 +25,10 @@ sudo apt-get install libopenblas-dev
 sudo pip install -U pip
 
 sudo pip install -U scikit-learn
+
+# Install Apache MXNet for deep learning
+
+sudo pip install -U mxnet --pre --user
 
 # Use conda on Windows, or pip on Linux and macOS to install or update Python data analysis packages
 
