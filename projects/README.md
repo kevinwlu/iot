@@ -9,7 +9,7 @@
 # 2016 Fall
 
 * Touqeer Ahmad, "Inertial Tracking," https://github.com/touqeer-ahmad/MPU9255
-* Touqeer Ahmad, "SmartCam,"https://github.com/touqeer-ahmad/SmartCam
+* Touqeer Ahmad, "SmartCam," https://github.com/touqeer-ahmad/SmartCam
 * Touqeer Ahmad and Nishil Parikh, "Temperature Data on Twitter," https://github.com/touqeer-ahmad/tweaks
 * Touqeer Ahmad and Nishil Parikh, "Fingerprint Authentication and Attendance Analysis," https://github.com/touqeer-ahmad/zfm60
 * Mofadal Alymani, Hassan Bediry, Lei Yan, Ahmed Abdalla, and Arpit Nagbhidkar, "Home Security System Using Email and Dropbox,"
