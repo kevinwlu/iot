@@ -11,7 +11,7 @@
 * <a href="https://goo.gl/ibFiqR" target="_blank">Lesson 8</a>: Data Analysis
 * <a href="https://goo.gl/RIzzfl" target="_blank">Lesson 9</a>: NETCONF and YANG
 * <a href="http://www.hands-on-books-series.com" target="_blank">References</a>
-* <a href="http://goo.gl/" target="_blank">Projects</a>
+* <a href="https://github.com/kevinwlu/iot/tree/master/projects" target="_blank">Projects</a>
 
 pi@raspberrypi:~ $ git clone https://github.com/kevinwlu/iot.git
 
