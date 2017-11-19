@@ -87,3 +87,8 @@ cd
 mysql -u root -p
 
 sudo service apache2 restart
+
+# Install psutil (process and system utilities)
+
+sudo pip install −U psutil
+
