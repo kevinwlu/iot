@@ -2,7 +2,7 @@
 
 # Install and run pyang on a Raspberry Pi
 
-sudo pip install pyang
+sudo pip install -U pyang
 
 cp ~/iot/lesson9/intrusiondetection.yang ~/demo
 
@@ -14,11 +14,19 @@ pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereoty
 
 # Install the Python PlantUML module on a laptop or Raspberry Pi
 
-sudo pip install plantuml
+sudo pip install -U plantuml
 
 # Run Python PlantUML to create a sequence diagram in PNG
 
 python -m plantuml intrusiondetection.uml
+
+# Install and run GIMP to display a PNG file
+
+$ sudo apt-get update
+
+$ sudo apt-get install gimp
+
+$ gimp -a intrusiondetection.png
 
 # Install Docker on a Raspberry Pi
 
@@ -39,4 +47,3 @@ docker run armhf/alpine date
 docker build -t curl_docker .
 
 docker run curl_docker
-
