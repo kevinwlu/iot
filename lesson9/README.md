@@ -22,11 +22,11 @@ python -m plantuml intrusiondetection.uml
 
 # Install and run GIMP to display a PNG file
 
-$ sudo apt-get update
+sudo apt-get update
 
-$ sudo apt-get install gimp
+sudo apt-get install gimp
 
-$ gimp -a intrusiondetection.png
+gimp -a intrusiondetection.png
 
 # Install Docker on a Raspberry Pi
 
