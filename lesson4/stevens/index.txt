@@ -1,0 +1,6 @@
+      myCenter = new google.maps.LatLng({{lat}}, {{lon}})
+      var marker = new google.maps.Marker({position: myCenter,
+        animation: google.maps.Animation.BOUNCE});
+      marker.setMap(map)
+      var infowindow = new google.maps.InfoWindow({content: "Location"});
+      infowindow.open(map,marker);
