@@ -1,5 +1,7 @@
 # 2017 Fall
 
+Ahmed Paul, "Smart Car," https://github.com/apaul24/SmartCar
+
 # 2017 Spring
 
 * Nagrajan Chandrasekaran and Piyush Rao, "Performance Data," https://github.com/Nagrajan23/performance-data
