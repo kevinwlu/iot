@@ -1,0 +1,7 @@
+#139
+<?xml version="1.0" encoding="UTF-8"?><rpc message-id="101" xmlns="urn:ietf:params:xml:ns:netconf:base:1.0"><get-config><source><running/></source></get-config></rpc>
+##
+
+#140
+<?xml version="1.0" encoding="UTF-8"?><rpc message-id="102" xmlns="urn:ietf:params:xml:ns:netconf:base:1.0"><close-session/></rpc>
+##
