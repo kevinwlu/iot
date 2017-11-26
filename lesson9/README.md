@@ -28,6 +28,24 @@ sudo apt-get install gimp
 
 gimp -a intrusiondetection.png
 
+# Install Libnetconf and Libssh on Ubuntu
+
+git clone https://github.com/CESNET/libnetconf.git
+
+sudo apt-get install libtool libtool-bin
+
+sudo apt-get install libxml2-dev libxslt1-dev
+
+sudo apt-get install libcurl4-openssl-dev xsltproc
+
+sudo apt-get install python-setuptools cmake
+
+sudo apt-get install zlib1g-dev libssl-dev
+
+sudo pip install pyang
+
+git clone https://git.libssh.org/projects/libssh.git
+
 # Install Docker on a Raspberry Pi
 
 curl -sSL get.docker.com | sh
