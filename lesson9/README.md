@@ -28,7 +28,7 @@ sudo apt-get install gimp
 
 gimp -a intrusiondetection.png
 
-# Install Libnetconf and Libssh on Ubuntu
+# Install Libnetconf and Libssh on Ubuntu (build instructions on slides)
 
 git clone https://github.com/CESNET/libnetconf.git
 
@@ -45,6 +45,16 @@ sudo apt-get install zlib1g-dev libssl-dev
 sudo pip install pyang
 
 git clone https://git.libssh.org/projects/libssh.git
+
+# Install and run Netopeer on Ubuntu (build instructions on slides)
+
+git clone https://github.com/CESNET/netopeer.git
+
+sudo apt-get install python-libxml2
+
+sudo /usr/local/bin/netopeer-server -d
+
+sudo apt-get install libreadline-dev
 
 # Install Docker on a Raspberry Pi
 
