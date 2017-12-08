@@ -1,6 +1,8 @@
 # 2017 Fall
 
-Ahmed Paul, "Smart Car," https://github.com/apaul24/SmartCar
+* Nagrajan Chandrasekaran, "Altitude Mapping Using LiDAR Mounted Jackal Robot," https://github.com/RoboticsAltorferTeam/Lidar-Mapping/tree/master/MATLAB%20Code
+* Ahmed Paul, "Smart Car," https://github.com/apaul24/SmartCar
+
 
 # 2017 Spring
 
