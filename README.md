@@ -14,6 +14,11 @@
 * <a href="https://github.com/kevinwlu/iot/tree/master/projects" target="_blank">Projects</a>
 * <a href="https://goo.gl/6EWVZb" target="_blank">IoT Talk</a>
 * <a href="https://goo.gl/5wH7D7" target="_blank">TMT Talk</a>
+* <a href="https://sites.google.com/view/ece629" target="_blank">EE-629</a>
+* <a href="https://sites.google.com/view/ece800" target="_blank">CPE/EE-800-L</a>
+* <a href="https://sites.google.com/view/ece322" target="_blank">CPE/EE-322</a>
+* <a href="https://sites.google.com/view/ece423" target="_blank">CPE/EE-423/424</a>
+
 
 pi@raspberrypi:~ $ git clone https://github.com/kevinwlu/iot.git
 
