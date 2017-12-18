@@ -1,4 +1,4 @@
-# The Internet of Things (IoT)
+# The Internet of Things (<a href="https://sites.google.com/view/ece629" target="_blank">IoT</a>)
 
 * <a href="https://goo.gl/Ga1wxY" target="_blank">Lesson 0</a>: Syllabus
 * <a href="https://goo.gl/4aXo9L" target="_blank">Lesson 1</a>: Overview
@@ -14,7 +14,6 @@
 * <a href="https://github.com/kevinwlu/iot/tree/master/projects" target="_blank">Projects</a>
 * <a href="https://goo.gl/6EWVZb" target="_blank">IoT Talk</a>
 * <a href="https://goo.gl/5wH7D7" target="_blank">TMT Talk</a>
-* <a href="https://sites.google.com/view/ece629" target="_blank">IoT Course</a>
 * <a href="https://sites.google.com/view/ece800" target="_blank">Special Problems</a>
 * <a href="https://sites.google.com/view/ece322" target="_blank">Engineering Design 6</a>
 * <a href="https://sites.google.com/view/ece423" target="_blank">Engineering Design 7/8</a>
