@@ -24,6 +24,16 @@ sudo mysql_secure_installation
 
 sudo mysql -u root -p
 
+MariaDB [mysql]> select user, host from mysql.user;
+
+MariaDB [mysql]> create user pi@localhost identified by 'PASSWORD';
+
+MariaDB [mysql]> show databases;
+
+MariaDB [mysql]> create database myraspi;
+
+MariaDB [mysql]> grant all privileges on myraspi.* to pi@localhost;
+
 sudo apt-get install python-mysqldb
 
 # Start a Django project/app and run server
