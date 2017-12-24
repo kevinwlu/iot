@@ -6,7 +6,7 @@ sudo pip install -U pip
 
 sudo pip install -U setuptools
 
-sudo pip install -U django
+sudo pip install -U django==1.11.8
 
 sudo pip install -U djangorestframework
 
