@@ -62,10 +62,10 @@ def get_cpu_speed():
     cpu = f.read()
     return cpu
 
-print('Free RAM: '+str(get_ram()[1])+' ('+str(get_ram()[0])+')')
+#print('Free RAM: '+str(get_ram()[1])+' ('+str(get_ram()[0])+')')
 print('Number of processes: '+str(get_process_count()))
 print('Up time: '+get_up_stats()[0])
 print('Number of connections: '+str(get_connections()))
 print('Temperature in C: ' +str(get_temperature()))
-print('IP-address: '+get_ipaddress())
+#print('IP-address: '+get_ipaddress())
 print('CPU speed: '+str(get_cpu_speed()))
