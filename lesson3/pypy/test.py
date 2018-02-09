@@ -8,6 +8,6 @@ def main():
         a += 1.0
         add(a, a)
         i += 1
-    print a
+    print(a)
 
 main()
