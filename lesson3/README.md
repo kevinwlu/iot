@@ -4,7 +4,7 @@
 
 sudo pip3 install -U jdcal
 
-# Install Astral Python module for calculating the times of various aspects of the sun and moon
+# Install Astral to calculate the times of various aspects of the sun and moon
 
 sudo pip install -U astral
 
