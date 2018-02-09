@@ -6,8 +6,8 @@ sudo pip3 install -U jdcal
 
 # Install Astral to calculate the times of various aspects of the sun and moon
 
-sudo pip install -U astral
+sudo pip3 install -U astral
 
 # Install GeoPy to locate the coordinates of addresses, cities, countries, and landmarks
 
-sudo pip install -U geopy
+sudo pip3 install -U geopy
