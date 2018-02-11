@@ -9,5 +9,5 @@ class TemperatureData(models.Model):
     temperature = models.CharField(max_length=5)
     latitude = models.CharField(max_length=20)
     longitude = models.CharField(max_length=20)
-    def __unicode__(self):
+    def __str__(self):
         return self.date_time
