@@ -2,19 +2,17 @@
 
 # Install Django and Django REST framework
 
-sudo pip install -U pip
+sudo pip3 install -U setuptools
 
-sudo pip install -U setuptools
+sudo pip3 install -U django
 
-sudo pip install -U django==1.11.8
+sudo pip3 install -U djangorestframework
 
-sudo pip install -U djangorestframework
+sudo pip3 install -U django-filter
 
-sudo pip install -U django-filter
+sudo pip3 install -U markdown
 
-sudo pip install -U markdown
-
-sudo pip install -U requests
+sudo pip3 install -U requests
 
 # Install and run MySQL server and client
 
@@ -54,7 +52,7 @@ python manage.py runserver
 
 # Install Flask-ask and Ngrok
 
-sudo pip install -U flask-ask
+sudo pip3 install -U flask-ask
 
 sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 
@@ -100,5 +98,5 @@ sudo service apache2 restart
 
 # Install psutil (process and system utilities)
 
-sudo pip install −U psutil
+sudo pip3 install −U psutil
 
