@@ -32,7 +32,7 @@ MariaDB [mysql]> create database myraspi;
 
 MariaDB [mysql]> grant all privileges on myraspi.* to pi@localhost;
 
-sudo apt-get install python-mysqldb
+sudo apt-get install python3-mysqldb
 
 # Start a Django project/app and run server
 
@@ -40,15 +40,15 @@ django-admin startproject stevens
 
 cd stevens
 
-python manage.py startapp myapp
+python3 manage.py startapp myapp
 
-python manage.py makemigrations myapp
+python3 manage.py makemigrations myapp
 
-python manage.py migrate
+python3 manage.py migrate
 
-python manage.py createsuperuser
+python3 manage.py createsuperuser
 
-python manage.py runserver
+python3 manage.py runserver
 
 # Install Flask-ask and Ngrok
 
