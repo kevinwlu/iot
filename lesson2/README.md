@@ -26,7 +26,7 @@ minicom -b 9600 -o -D /dev/ttyAMA0
 
 # Install python-dev and spidev
 
-sudo apt-get install python-dev
+sudo apt-get install python3-dev
 
 sudo pip3 install -U spidev
 
