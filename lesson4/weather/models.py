@@ -8,7 +8,7 @@ class LocationData(models.Model):
     location = models.CharField(max_length=30)
     latitude = models.CharField(max_length=20)
     longitude = models.CharField(max_length=20)
-    def __unicode__(self):
+    def __str__(self):
         return self.location
 
 class Dt(models.Model):
