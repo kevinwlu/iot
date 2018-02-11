@@ -28,9 +28,7 @@ minicom -b 9600 -o -D /dev/ttyAMA0
 
 sudo apt-get install python-dev
 
-sudo pip install -U pip
-
-sudo pip install -U spidev
+sudo pip3 install -U spidev
 
 # Switch an LED on/off
 
