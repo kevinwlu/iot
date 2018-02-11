@@ -13,9 +13,9 @@ def connect_type(word_list):
     """ This function takes a list of words, then, depeding which key word, returns the corresponding
     internet connection type as a string, e.g., 'Ethernet.'
     """
-    if 'wlan0' in word_list or 'wlan1' in word_list:
+    if b'wlan0' in word_list or b'wlan1' in word_list:
         con_type = 'Wi-Fi'
-    elif 'eth0' in word_list:
+    elif b'eth0' in word_list:
         con_type = 'Ethernet'
     else:
         con_type = 'current'
@@ -57,8 +57,8 @@ ip_type_a = connect_type(split_line_a)
 we can use the 'index' function to find 'src' and add one to
 get the index position of our IP address.
 """
-ipaddr_a = split_line_a[split_line_a.index('src')+1]
-#ipaddr_b = split_line_b[split_line_b.index('src')+1]
+ipaddr_a = (split_line_a[split_line_a.index(b'src')+1]).decode()
+#ipaddr_b = (split_line_b[split_line_b.index(b'src')+1]).decode()
 
 # Creates a sentence for each IP address
 my_ip_a = 'RaspberryPi %s IP address is %s' % (ip_type_a, ipaddr_a)
