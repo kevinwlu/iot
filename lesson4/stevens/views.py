@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-from __future__ import unicode_literals
-
 from django.shortcuts import render
 from myapp.models import TemperatureData
 from django.template import RequestContext
