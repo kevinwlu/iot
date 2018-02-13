@@ -34,11 +34,11 @@ MariaDB [mysql]> grant all privileges on myraspi.* to pi@localhost;
 
 sudo apt-get install python3-mysqldb
 
-# Start a Django project/app and run server
+# Start a Django project/app and run server/controller
 
-django-admin startproject stevens
+django-admin startproject weather
 
-cd stevens
+cd weather
 
 python3 manage.py startapp myapp
 
@@ -49,6 +49,8 @@ python3 manage.py migrate
 python3 manage.py createsuperuser
 
 python3 manage.py runserver
+
+sudo python3 controller.py
 
 # Install Flask-ask and Ngrok
 
@@ -68,7 +70,7 @@ sudo apt-get install apache2
 
 sudo service apache2 restart
 
-sudo apt-get install php7.0 libapache2-mod-php7.0
+sudo apt-get install php7.0
 
 sudo service apache2 restart
 
