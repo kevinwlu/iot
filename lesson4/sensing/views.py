@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-from __future__ import unicode_literals
-
 from django.shortcuts import render
 from myapp.models import Room, Door
 from rest_framework import viewsets
@@ -32,4 +29,4 @@ def home(request):
     doorstate = output['name']
 
     return render(request, 'myapp/index.html',
-                             {'roomstate':roomstate, 'doorstate':doorstate})
+                            {'roomstate':roomstate, 'doorstate':doorstate})
