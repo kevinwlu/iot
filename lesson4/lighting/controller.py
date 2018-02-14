@@ -71,20 +71,20 @@ def runManualMode():
     # Get current state from DB
     currentState = getCurrentState()
     if currentState == 'on':
-        print 'Manual - On'
+        print('Manual - On')
         switchOnLight(LIGHT_PIN)
     elif currentState == 'off':
-        print 'Manual - Off'
+        print('Manual - Off')
         switchOffLight(LIGHT_PIN)
 
 def runAutoMode():
     # Read LDR
     lightlevel = readLDR()
     if lightlevel < threshold:
-        print 'Auto - On (lux=%d)' % lightlevel
+        print('Auto - On (lux=%d)' % lightlevel)
         switchOnLight(LIGHT_PIN)
     else:
-        print 'Auto - Off (lux=%d)' % lightlevel
+        print('Auto - Off (lux=%d)' % lightlevel)
         switchOffLight(LIGHT_PIN)
 
 # Controller main function
