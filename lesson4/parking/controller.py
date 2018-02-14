@@ -30,10 +30,10 @@ def readUltrasonicSensor():
 def runController():
     pinState = readUltrasonicSensor()
     if pinState == 1:
-        print 'Occupied'
+        print('Occupied')
         setCurrentState('occupied')
     else:
-        print 'Empty'
+        print('Empty')
         setCurrentState('empty')
 
 def setCurrentState(val):
