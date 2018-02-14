@@ -11,14 +11,14 @@ GPIO.setup(DOOR_SENSOR_PIN, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 
 def readingRoomSensor():
     if GPIO.input(ROOM_SENSOR_PIN):
-        print 'motion detected'
+        print('motion detected')
         return 1
     else:
         return 0
 
 def readingDoorSensor():
     if GPIO.input(DOOR_SENSOR_PIN):
-        print 'door opened'
+        print('door opened')
         return 1
     else:
         return 0
