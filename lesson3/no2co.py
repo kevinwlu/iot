@@ -59,7 +59,7 @@ def get_CO():
 def runController():
     NO2_reading = get_NO2()
     CO_reading = get_CO()
-    print 'CO={0:0.5f} ppm  NO2={1:0.5f} ppm'.format(CO_reading, NO2_reading)
+    print('CO={0:0.5f} ppm  NO2={1:0.5f} ppm'.format(CO_reading, NO2_reading))
 
 while True:
     runController()
