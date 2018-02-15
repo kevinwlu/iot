@@ -51,5 +51,4 @@ while True:
         time.sleep(delay)
 
     except KeyboardInterrupt:
-        spi.close()
         exit()
