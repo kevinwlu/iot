@@ -25,6 +25,8 @@ threshold = 100
 # Function to read LDR connected to MCP3008
 def readLDR():
     light_level = ReadChannel(LIGHT_CHANNEL)
+    if light_level == 0:
+        return 0
     lux = ConvertLux(light_level, 2)
     return lux
 
