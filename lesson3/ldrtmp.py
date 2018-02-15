@@ -45,7 +45,7 @@ while True:
         temp       = ConvertTemp(temp_volts,2)
 
         # Print out results
-        print "Temp  : ",temp_data, " (",temp_volts ,"V) -->",temp,"~C    Light : ",light_data," (",light_volts,"V)"
+        print("Temp  : ",temp_data, " (",temp_volts ,"V) -->",temp,"~C    Light : ",light_data," (",light_volts,"V)")
 
         # Delay seconds
         time.sleep(delay)
