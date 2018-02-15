@@ -34,7 +34,7 @@ Check moisture level
     else:
         GPIO.output(TRIGGER_PIN, False)
 
-    print "Moisture: %s" % level
+    print("Moisture: %s" % level)
 
 while True:
     runController()
