@@ -64,3 +64,5 @@ def runController():
 while True:
     runController()
     time.sleep(10)
+
+spi.close()
