@@ -39,6 +39,3 @@ Check moisture level
 while True:
     runController()
     time.sleep(10)
-    
-spi.close()
-
