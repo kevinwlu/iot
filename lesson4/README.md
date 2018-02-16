@@ -2,6 +2,8 @@
 
 # Install Django and Django REST framework
 
+sudo pip3 -V
+
 sudo pip3 install -U setuptools
 
 sudo pip3 install -U django
@@ -15,6 +17,8 @@ sudo pip3 install -U markdown
 sudo pip3 install -U requests
 
 # Install and run MySQL server and client
+
+sudo apt-get update
 
 sudo apt-get install mysql-server mysql-client
 
