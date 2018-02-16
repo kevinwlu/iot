@@ -2,7 +2,7 @@
 
 # Install Django and Django REST framework
 
-sudo pip3 -V
+pip3 -V
 
 sudo pip3 install -U setuptools
 
