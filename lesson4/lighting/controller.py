@@ -18,6 +18,7 @@ LIGHT_PIN = 25
 # Open SPI bus
 spi = spidev.SpiDev()
 spi.open(0, 0)
+spi.max_speed_hz = 976000
 
 # Light Level Threshold
 threshold = 100
