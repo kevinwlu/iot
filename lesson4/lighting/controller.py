@@ -26,8 +26,9 @@ threshold = 100
 def readLDR():
     light_level = ReadChannel(LIGHT_CHANNEL)
     if light_level == 0:
-        return 0
-    lux = ConvertLux(light_level, 2)
+        lux = 0
+    else:
+        lux = ConvertLux(light_level, 2)
     return lux
 
 # Function to convert LDR reading to Lux
@@ -47,13 +48,13 @@ def ReadChannel(channel):
 # Get current mode from DB
 def getCurrentMode():
     cur.execute('SELECT * FROM myapp_mode')
-    data = cur.fetchone()  # (1, u'auto')
+    data = cur.fetchone()  # (1, 'auto')
     return data[1]
 
 # Get current state from DB
 def getCurrentState():
     cur.execute('SELECT * FROM myapp_state')
-    data = cur.fetchone()  # (1, u'on')
+    data = cur.fetchone()  # (1, 'on')
     return data[1]
 
 # Store current state in DB
