@@ -17,7 +17,7 @@ pi@raspberrypi ~ $ sudo nano /etc/rc.local
 _IP=$(hostname -I) || true
 if [ "$_IP" ]; then
  printf "My IP address is %s\n" "$_IP"
- python /home/pi/startup_mailer.py        <<<------- ADD THIS LINE!!!
+ python3 /home/pi/startup_mailer.py        <<<------- ADD THIS LINE!!!
 fi
 
 exit 0
