@@ -21,7 +21,7 @@ def doit():
 		data = response.read()
 		conn.close()
 	except:
-		print("connection failed")	
+		print("connection failed")
 #sleep for 60 seconds (api limit of 15 secs)
 if __name__ == "__main__":
 	while True:
