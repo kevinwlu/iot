@@ -38,7 +38,7 @@ def main():
     client_carriots = Client(apikey)
     while True:
         timestamp = int(mktime(datetime.utcnow().timetuple()))
-        print rc_time(24)
+        print(rc_time(24))
         if rc_time(24) > 600:
             new_lights = off
             print("Lights OFF")
@@ -51,6 +51,6 @@ def main():
                     "data": dict(light=("ON" if new_lights is on
                     else "OFF"))}
             carriots_response = client_carriots.send(data)
-            print carriots_response.read()
+            print(carriots_response.read())
 if __name__ == '__main__':
     main()
