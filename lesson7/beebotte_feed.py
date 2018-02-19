@@ -10,14 +10,14 @@ def run():
     while True:
         humidity, temperature = Adafruit_DHT.read_retry(Adafruit_DHT.DHT22, pin)
         if humidity is not None and temperature is not None:
-            print "Temp={0:f}*C  Humidity={1:f}%".format(temperature, humidity)
+            print("Temp={0:f}*C  Humidity={1:f}%".format(temperature, humidity))
             try:
                 temp_resource.write(temperature)
                 humid_resource.write(humidity)
             except Exception:
-                print "Error while writing to Beebotte"
+                print("Error while writing to Beebotte")
         else:
-            print "Failed to get reading. Try again!"
+            print("Failed to get reading. Try again!")
         time.sleep(period)
 while True:
     try:
