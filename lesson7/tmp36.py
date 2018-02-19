@@ -19,7 +19,7 @@ url = py.plot([
         }
     }], filename='Raspberry Pi Streaming Example Values')
 
-print "View your streaming graph here: ", url
+print("View your streaming graph here: ", url)
 
 # temperature sensor middle pin connected channel 0 of mcp3008
 sensor_pin = 1
