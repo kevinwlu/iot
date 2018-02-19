@@ -35,9 +35,9 @@
 
 import time
 import datetime
-import http.client as httplib
+import http.client
 import random
-import urllib
+import urllib.request, urllib.parse, urllib.error
 
 
 if __name__ == '__main__':
@@ -48,7 +48,7 @@ if __name__ == '__main__':
     component_id = "sensor1 - hello world"
     base_url = '/api/feed?'
 
-    conn = httplib.HTTPConnection('www.grovestreams.com')
+    conn = http.client.HTTPConnection('www.grovestreams.com')
 
     while True:
 
@@ -58,18 +58,18 @@ if __name__ == '__main__':
         #Upload the feed
         try:
             #Let the GS servers set the sample times. Encode parameters
-            url = base_url + urllib.urlencode({'compId' : component_id,
-                                               'temperature' : temperature_val,
-                                               'humidity' : humidity_val})
+            url = base_url + urllib.parse.urlencode({'compId' : component_id,
+                                                     'temperature' : temperature_val,
+                                                     'humidity' : humidity_val})
 
             #Alternative URL that includes the sample time
             #now = datetime.datetime.now()
             #sample_time = int(time.mktime(now.timetuple())) * 1000
-            #url = base_url + urllib.urlencode({'compId' : component_id, 'time' : sample_time, 'temperature' : temperature_val, 'humidity' : humidity_val})
+            #url = base_url + urllib.parse.urlencode({'compId' : component_id, 'time' : sample_time, 'temperature' : temperature_val, 'humidity' : humidity_val})
 
             #Alternative URL that uses the stream order to determine where
             # to insert the samples
-            #url = base_url + urllib.urlencode({'compId' : component_id, 'data' : [temperature_val, humidity_val]}, True)
+            #url = base_url + urllib.parse.urlencode({'compId' : component_id, 'data' : [temperature_val, humidity_val]}, True)
 
             #The api_key token can be passed as URL parameters or as a cookie.
             # We've chosen to pass it as a cookie to keep the URL length small as
