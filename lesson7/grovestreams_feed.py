@@ -35,7 +35,7 @@
 
 import time
 import datetime
-import httplib
+import http.client as httplib
 import random
 import urllib
 
