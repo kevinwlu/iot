@@ -2,18 +2,12 @@
 
 # Install gspread and oauth2client
 
-sudo apt-get update
-
-sudo apt-get install git python-dev
-
-sudo apt-get install build-essential python-smbus python-openssl
-
-sudo pip install -U gspread oauth2client
+sudo pip3 install -U gspread oauth2client
 
 # Install beebotte
 
-sudo pip install -U beebotte
+sudo pip3 install -U beebotte
 
 # Install plotly
 
-sudo pip install -U plotly
+sudo pip3 install -U plotly
