@@ -1,5 +1,5 @@
 import RPi.GPIO as GPIO
-from urllib2 import urlopen, Request
+from urllib.request import urlopen, Request
 from time import mktime, sleep
 from datetime import datetime
 from json import dumps
@@ -15,7 +15,7 @@ class Client (object):
         self.data = None
         self.response = None
     def send(self, data):
-        self.data = dumps(data)
+        self.data = dumps(data).encode()
         request = Request(Client.api_url, self.data, self.headers)
         self.response = urlopen(request)
         return self.response
