@@ -1,3 +1,7 @@
+# 2018 Spring
+
+* Zhihuan Zhang, "Video Quality Enhancing," https://github.com/ifamec/Video-Quality-Enhancing
+
 # 2017 Fall
 
 * Nagrajan Chandrasekaran, "Altitude Mapping by Using LiDAR-Mounted Jackal Robot," https://github.com/RoboticsAltorferTeam/Lidar-Mapping/tree/master/MATLAB%20Code
