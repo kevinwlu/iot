@@ -40,8 +40,6 @@ import datetime
 
 import Adafruit_BMP.BMP085 as BMP085
 import gspread
-# PRE-oauth2client 2.0.0 CODE:
-# from oauth2client.client import SignedJwtAssertionCredentials
 from oauth2client.service_account import ServiceAccountCredentials
 
 # Google Docs OAuth credential JSON file.  Note that the process for authenticating
@@ -63,7 +61,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 # Then use the File -> Share... command in the spreadsheet to share it with read
 # and write acess to the email address above.  If you don't do this step then the
 # updates to the sheet will fail!
-GDOCS_OAUTH_JSON       = 'mybmp-*.json'
+GDOCS_OAUTH_JSON       = 'bmpdata-*.json'
 
 # Google Docs spreadsheet name.
 GDOCS_SPREADSHEET_NAME = 'bmpdata'
@@ -71,24 +69,19 @@ GDOCS_SPREADSHEET_NAME = 'bmpdata'
 # How long to wait (in seconds) between measurements.
 FREQUENCY_SECONDS      = 30
 
-
 def login_open_sheet(oauth_key_file, spreadsheet):
-	"""Connect to Google Docs spreadsheet and return the first worksheet."""
-	try:
-# PRE-oauth2client 2.0.0 CODE:
-#		json_key = json.load(open(oauth_key_file))
-#		credentials = SignedJwtAssertionCredentials(json_key['client_email'], 
-#							json_key['private_key'], 
-#							['https://spreadsheets.google.com/feeds'])
-		credentials = ServiceAccountCredentials.from_json_keyfile_name(oauth_key_file, 
-										scopes=['https://spreadsheets.google.com/feeds'])
-		gc = gspread.authorize(credentials)
-		worksheet = gc.open(spreadsheet).sheet1
-		return worksheet
-	except Exception as ex:
-		print('Unable to login and get spreadsheet.  Check OAuth credentials, spreadsheet name, and make sure spreadsheet is shared to the client_email address in the OAuth .json file!')
-		print('Google sheet login failed with error:', ex)
-		sys.exit(1)
+    """Connect to Google Docs spreadsheet and return the first worksheet."""
+    try:
+        credentials = ServiceAccountCredentials.from_json_keyfile_name(oauth_key_file, 
+                      scopes=['https://spreadsheets.google.com/feeds'])
+        gc = gspread.authorize(credentials)
+        worksheet = gc.open(spreadsheet).sheet1
+        return worksheet
+    except Exception as ex:
+        print('Unable to login and get spreadsheet. Check OAuth credentials, spreadsheet name, and')
+	print('make sure spreadsheet is shared to the client_email address in the OAuth .json file!')
+        print('Google sheet login failed with error:', ex)
+        sys.exit(1)
 
 bmp = BMP085.BMP085()
 
@@ -96,37 +89,37 @@ print('Logging sensor measurements to {0} every {1} seconds.'.format(GDOCS_SPREA
 print('Press Ctrl-C to quit.')
 worksheet = None
 while True:
-	# Login if necessary.
-	if worksheet is None:
-		worksheet = login_open_sheet(GDOCS_OAUTH_JSON, GDOCS_SPREADSHEET_NAME)
+    # Login if necessary.
+    if worksheet is None:
+        worksheet = login_open_sheet(GDOCS_OAUTH_JSON, GDOCS_SPREADSHEET_NAME)
 
-	# Attempt to get sensor reading.
-	temp = bmp.read_temperature()
-	pressure = bmp.read_pressure()
-	altitude = bmp.read_altitude()
+    # Attempt to get sensor reading.
+    temp = bmp.read_temperature()
+    pressure = bmp.read_pressure()
+    altitude = bmp.read_altitude()
 
-	# Skip to the next reading if a valid measurement couldn't be taken.
-	# This might happen if the CPU is under a lot of load and the sensor
-	# can't be reliably read (timing is critical to read the sensor).
-	#if temp is None or pressure is None or altitude is None:
-	#	time.sleep(2)
-	#	continue
+    # Skip to the next reading if a valid measurement couldn't be taken.
+    # This might happen if the CPU is under a lot of load and the sensor
+    # can't be reliably read (timing is critical to read the sensor).
+    # if temp is None or pressure is None or altitude is None:
+    #	time.sleep(2)
+    #	continue
 
-	print('Temperature: {0:0.1f} C'.format(temp))
-	print('Pressure:    {0:0.1f} Pa'.format(pressure))
- 	print('Altitude:    {0:0.1f} m'.format(altitude))
+    print('Temperature: {0:0.1f} C'.format(temp))
+    print('Pressure:    {0:0.1f} Pa'.format(pressure))
+    print('Altitude:    {0:0.1f} m'.format(altitude))
 
-	# Append the data in the spreadsheet, including a timestamp
-	try:
-		worksheet.append_row((datetime.datetime.now(), temp, pressure, altitude))
-	except:
-		# Error appending data, most likely because credentials are stale.
-		# Null out the worksheet so a login is performed at the top of the loop.
-		print('Append error, logging in again')
-		worksheet = None
-		time.sleep(FREQUENCY_SECONDS)
-		continue
+    # Append the data in the spreadsheet, including a timestamp
+    try:
+        worksheet.append_row((datetime.datetime.now(), temp, pressure, altitude))
+    except:
+        # Error appending data, most likely because credentials are stale.
+        # Null out the worksheet so a login is performed at the top of the loop.
+        print('Append error, logging in again')
+        worksheet = None
+        time.sleep(FREQUENCY_SECONDS)
+        continue
 
-	# Wait 30 seconds before continuing
-	print('Wrote a row to {0}'.format(GDOCS_SPREADSHEET_NAME))
-	time.sleep(FREQUENCY_SECONDS)
+    # Wait 30 seconds before continuing
+    print('Wrote a row to {0}'.format(GDOCS_SPREADSHEET_NAME))
+    time.sleep(FREQUENCY_SECONDS)
