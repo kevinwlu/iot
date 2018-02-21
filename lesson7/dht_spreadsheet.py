@@ -75,7 +75,7 @@ GDOCS_OAUTH_JSON       = 'dhtdata-*.json'
 GDOCS_SPREADSHEET_NAME = 'dhtdata'
 
 # How long to wait (in seconds) between measurements.
-FREQUENCY_SECONDS      = 30
+FREQUENCY_SECONDS      = 10
 
 def login_open_sheet(oauth_key_file, spreadsheet):
     """Connect to Google Docs spreadsheet and return the first worksheet."""
