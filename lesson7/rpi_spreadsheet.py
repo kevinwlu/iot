@@ -9,7 +9,7 @@ from system_info import get_temperature
 from oauth2client.service_account import ServiceAccountCredentials
 GDOCS_OAUTH_JSON       = 'KEY_FILE_NAME.json'
 GDOCS_SPREADSHEET_NAME = 'SPREADSHEET_NAME'
-FREQUENCY_SECONDS      = 30
+FREQUENCY_SECONDS      = 10
 def login_open_sheet(oauth_key_file, spreadsheet):
     try:
         credentials = ServiceAccountCredentials.from_json_keyfile_name(oauth_key_file, 
