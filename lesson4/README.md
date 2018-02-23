@@ -26,35 +26,19 @@ sudo mysql_secure_installation
 
 sudo mysql -u root -p
 
+MariaDB [(none)]> use mysql
+
 MariaDB [mysql]> select user, host from mysql.user;
 
 MariaDB [mysql]> create user pi@localhost identified by 'PASSWORD';
 
 MariaDB [mysql]> show databases;
 
-MariaDB [mysql]> create database myraspi;
+MariaDB [mysql]> create database stevens;
 
-MariaDB [mysql]> grant all privileges on myraspi.* to pi@localhost;
+MariaDB [mysql]> grant all privileges on stevens.* to pi@localhost;
 
 sudo apt-get install python3-mysqldb
-
-# Start a Django project/app and run server/controller
-
-django-admin startproject weather
-
-cd weather
-
-python3 manage.py startapp myapp
-
-python3 manage.py makemigrations myapp
-
-python3 manage.py migrate
-
-python3 manage.py createsuperuser
-
-python3 manage.py runserver
-
-sudo python3 controller.py
 
 # Install Flask-ask and Ngrok
 
@@ -105,4 +89,3 @@ sudo service apache2 restart
 # Install psutil (process and system utilities)
 
 sudo pip3 install −U psutil
-
