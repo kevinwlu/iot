@@ -16,27 +16,13 @@ sudo pip3 install -U markdown
 
 sudo pip3 install -U requests
 
-# Install and run MySQL server and client
+# Install MySQL server and client
 
 sudo apt-get update
 
 sudo apt-get install mysql-server mysql-client
 
 sudo mysql_secure_installation
-
-sudo mysql -u root -p
-
-MariaDB [(none)]> use mysql
-
-MariaDB [mysql]> select user, host from mysql.user;
-
-MariaDB [mysql]> create user pi@localhost identified by 'PASSWORD';
-
-MariaDB [mysql]> show databases;
-
-MariaDB [mysql]> create database stevens;
-
-MariaDB [mysql]> grant all privileges on stevens.* to pi@localhost;
 
 sudo apt-get install python3-mysqldb
 
