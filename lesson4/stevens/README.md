@@ -20,13 +20,13 @@ manage.py  myapp  stevens
 
 pi@raspberrypi:~ $ mysql -u root -p
 
-Enter password: <PASSWORD>
+Enter password: PASSWORD
 
 mysql> create database stevens;
 
 mysql> quit
 
-# Edit settings.py and urls.py in ~/stevens/stevens
+# Edit settings.py in ~/stevens/stevens
 
 # Remember to change PASSWORD in settings.py
 
@@ -34,19 +34,21 @@ pi@raspberrypi:~/stevens $ cd stevens
 
 pi@raspberrypi:~/stevens/stevens $ nano settings.py
 
-pi@raspberrypi:~/stevens/stevens $ nano urls.py
+# Copy urls.py to ~/stevens/stevens
+
+pi@raspberrypi:~/stevens/stevens $ cp ~/iot/lesson4/stevens/urls.py .
 
 pi@raspberrypi:~/stevens/stevens $ cd ..
 
-# Edit admin.py, models. py, and views.py in ~/stevens/myapp
+# Copy admin.py, models.py, and views.py to ~/stevens/myapp
 
 pi@raspberrypi:~/stevens $ cd myapp
 
-pi@raspberrypi:~/stevens/myapp $ nano admin.py
+pi@raspberrypi:~/stevens/myapp $ cp ~/iot/lesson4/stevens/admin.py
 
-pi@raspberrypi:~/stevens/myapp $ nano models.py
+pi@raspberrypi:~/stevens/myapp $ cp ~/iot/lesson4/stevens/models.py
 
-pi@raspberrypi:~/stevens/myapp $ nano views.py
+pi@raspberrypi:~/stevens/myapp $ cp ~/iot/lesson4/stevens/views.py
 
 # Copy index.html and static files
 
@@ -82,13 +84,13 @@ pi@raspberrypi:~/stevens $ python3 manage.py migrate
 
 pi@raspberrypi:~/stevens $ python3 manage.py createsuperuser
 
-Username (leave blank to use 'pi'): <username>
+Username (leave blank to use 'pi'):
 
-Email address: <email address>
+Email address: EMAIL_ADDRESS
 
-Password: <password>
+Password: PASSWORD
 
-Password (again): <password>
+Password (again): PASSWORD
 
 Superuser created successfully.
 
