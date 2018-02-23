@@ -2,10 +2,6 @@
 
 # Crossbar.io
 
-sudo apt-get update
-
-sudo apt-get install build-essential libssl-dev libffi-dev libreadline-dev libbz2-dev libsqlite3-dev libncurses5-dev
-
 sudo pip3 install -U crossbar
 
 crossbar version
