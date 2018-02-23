@@ -6,17 +6,11 @@ sudo apt-get update
 
 sudo apt-get install build-essential libssl-dev libffi-dev libreadline-dev libbz2-dev libsqlite3-dev libncurses5-dev
 
-sudo pip install -U crossbar
+sudo pip3 install -U crossbar
 
 crossbar version
 
 crossbar init --appdir hello
-
-# Autobahn
-
-sudo apt-get install python-dev python-twisted
-
-git clone https://github.com/crossbario/autobahn-python.git
 
 # Mosquitto
 
@@ -36,10 +30,10 @@ sudo service mosquitto stop
 
 # Paho
 
-sudo pip install -U paho-mqtt
+sudo pip3 install -U paho-mqtt
 
 git clone https://github.com/eclipse/paho.mqtt.python.git
 
 # AWS CLI
 
-sudo pip install -U awscli
+sudo pip3 install -U awscli
