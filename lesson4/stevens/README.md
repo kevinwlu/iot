@@ -18,13 +18,23 @@ manage.py  myapp  stevens
 
 # Create MySQL database
 
-pi@raspberrypi:~ $ mysql -u root -p
+pi@raspberrypi:~ $ sudo mysql -u root -p
 
 Enter password: PASSWORD
 
-mysql> create database stevens;
+MariaDB [(none)]> use mysql
 
-mysql> quit
+MariaDB [mysql]> select user, host from mysql.user;
+
+MariaDB [mysql]> create user pi@localhost identified by 'PASSWORD';
+
+MariaDB [mysql]> show databases;
+
+MariaDB [mysql]> create database stevens;
+
+MariaDB [mysql]> grant all privileges on stevens.* to pi@localhost;
+
+MariaDB [mysql]> quit
 
 # Edit settings.py in ~/stevens/stevens
 
