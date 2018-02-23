@@ -108,8 +108,18 @@ Superuser created successfully.
 
 pi@raspberrypi:~/stevens $ python3 manage.py runserver
 
-# Add or change (not delete) temperature data at
+# Open the Chromium browser on Raspberry Pi via VNC Viewer
 
-# http://127.0.0.1:8000/admin/
+# Go to http://127.0.0.1:8000/admin
 
-# View app from a browser at http://127.0.0.1:8000/
+# Login with Django administration username (pi) and password
+
+# Click temperature data to add 
+
+# date and time in YYYY-MM-DDTHH:MM:SS-05:00
+
+# temperature in Fahrenheit, latitude 40.7451, and longitude -74.0255
+
+# Click SAVE
+
+# View app from a browser at http://127.0.0.1:8000
