@@ -116,7 +116,7 @@ pi@raspberrypi:~/weather $ python3 manage.py runserver
 
 # Post the following in HTML form:
 
-# 2018-02-11T17:45:00-05:00 to the Dt List at http://127.0.0.1:8000/dt
+# 2018-02-11 17:45:00 to the Dt List at http://127.0.0.1:8000/dt
 
 # 20 to the Tmp List at http://127.0.0.1:8000/tmp
 
