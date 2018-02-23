@@ -10,7 +10,7 @@ manage.py  stevens
 
 # Start a Django app
 
-pi@raspberrypi:~/stevens $ python manage.py startapp myapp
+pi@raspberrypi:~/stevens $ python3 manage.py startapp myapp
 
 pi@raspberrypi:~/stevens $ ls
 
@@ -76,11 +76,11 @@ pi@raspberrypi:~/stevens/myapp/static/myapp $ cd ~/stevens
 
 # After the first time, skip these three steps if no changes
 
-pi@raspberrypi:~/stevens $ python manage.py makemigrations myapp
+pi@raspberrypi:~/stevens $ python3 manage.py makemigrations myapp
 
-pi@raspberrypi:~/stevens $ python manage.py migrate
+pi@raspberrypi:~/stevens $ python3 manage.py migrate
 
-pi@raspberrypi:~/stevens $ python manage.py createsuperuser
+pi@raspberrypi:~/stevens $ python3 manage.py createsuperuser
 
 Username (leave blank to use 'pi'): <username>
 
@@ -92,7 +92,7 @@ Password (again): <password>
 
 Superuser created successfully.
 
-pi@raspberrypi:~/stevens $ python manage.py runserver
+pi@raspberrypi:~/stevens $ python3 manage.py runserver
 
 # Add or change (not delete) temperature data at
 
