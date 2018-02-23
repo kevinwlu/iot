@@ -116,13 +116,13 @@ pi@raspberrypi:~/stevens $ python3 manage.py runserver
 
 # Click temperature data to add 
 
-# date and time in YYYY-MM-DDTHH:MM:SS-05:00
+# Date and time in YYYY-MM-DD HH:MM:SS
 
-# temperature in Fahrenheit
+# Temperature in Fahrenheit
 
-# latitude 40.7451
+# Latitude 40.7451
 
-# longitude -74.0255
+# Longitude -74.0255
 
 # Click SAVE
 
