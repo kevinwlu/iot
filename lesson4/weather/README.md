@@ -110,9 +110,21 @@ Superuser created successfully.
 
 pi@raspberrypi:~/weather $ python3 manage.py runserver
 
-# At the first time, open a browser and go to http://127.0.0.1:8000/admin
+# Open the Chromium browser on Raspberry Pi via VNC Viewer
 
-# Add location data with Location Stevens, Latitude 40.7451, and Longitude -74.0255, click SAVE
+# At the first time, go to http://127.0.0.1:8000/admin
+
+# Login with Django administration username (pi) and password
+
+# Click temperature data to add 
+
+# Location Stevens
+
+# Latitude 40.7451
+
+# Longitude -74.0255
+
+# Click SAVE
 
 # Post the following in HTML form:
 
