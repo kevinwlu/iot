@@ -38,7 +38,9 @@ MariaDB [mysql]> quit
 
 # Edit settings.py in ~/stevens/stevens
 
-# Remember to change PASSWORD in settings.py
+# Follow ~/iot/lesson4/stevens/settings.txt
+
+# Remember to change PASSWORD for MySQL user
 
 pi@raspberrypi:~/stevens $ cd stevens
 
@@ -54,11 +56,11 @@ pi@raspberrypi:~/stevens/stevens $ cd ..
 
 pi@raspberrypi:~/stevens $ cd myapp
 
-pi@raspberrypi:~/stevens/myapp $ cp ~/iot/lesson4/stevens/admin.py
+pi@raspberrypi:~/stevens/myapp $ cp ~/iot/lesson4/stevens/admin.py .
 
-pi@raspberrypi:~/stevens/myapp $ cp ~/iot/lesson4/stevens/models.py
+pi@raspberrypi:~/stevens/myapp $ cp ~/iot/lesson4/stevens/models.py .
 
-pi@raspberrypi:~/stevens/myapp $ cp ~/iot/lesson4/stevens/views.py
+pi@raspberrypi:~/stevens/myapp $ cp ~/iot/lesson4/stevens/views.py .
 
 # Copy index.html and static files
 
