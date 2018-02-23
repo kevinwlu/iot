@@ -84,7 +84,7 @@ pi@raspberrypi:~/weather/myapp/static/myapp $ cp ~/iot/lesson4/weather/*js .
 
 pi@raspberrypi:~/weather/myapp/static/myapp $ cd ~/weather
 
-# copy controller.py to ~/weather
+# Copy controller.py to ~/weather
 
 pi@raspberrypi:~/weather $ cp ~/iot/lesson4/weather/controller.py .
 
