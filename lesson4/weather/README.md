@@ -126,4 +126,4 @@ pi@raspberrypi:~/weather $ python3 manage.py runserver
 
 pi@raspberrypi:~/weather $ sudo python3 controller.py
 
-# View app from a browser at http://127.0.0.1:8000/
+# View app from a browser at http://127.0.0.1:8000/home
