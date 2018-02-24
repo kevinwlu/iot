@@ -8,6 +8,34 @@ crossbar version
 
 crossbar init --appdir hello
 
+cd ~/hello/web
+
+cp ~/iot/lesson5/favicon.ico .
+
+cd ~/hello
+
+crossbar start
+
+crossbar stop
+
+cd
+
+git clone https://github.com/crossbario/autobahn-python.git
+
+cd ~/autobahn-python/examples/router
+
+crossbar start
+
+cd ~/autobahn-python/examples/twisted/wamp/pubsub/basic
+
+python3 frontend.py
+
+python3 backend.py
+
+cd ~/autobahn-python/examples/router
+
+crossbar stop
+
 # Mosquitto
 
 sudo apt-get install mosquitto mosquitto-clients
