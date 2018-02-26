@@ -1,5 +1,7 @@
 # 2018 Spring
 
+* Yanghongbo Lu, "Automatic Greenhouse System," https://github.com/YanghongboLu/StevensProjects
+
 * Zhihuan Zhang, "Video Quality Enhancing," https://github.com/ifamec/Video-Quality-Enhancing
 
 # 2017 Fall
