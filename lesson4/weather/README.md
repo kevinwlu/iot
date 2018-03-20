@@ -116,7 +116,7 @@ pi@raspberrypi:~/weather $ python3 manage.py runserver
 
 # Login with Django administration username (pi) and password
 
-# Click temperature data to add 
+# Click location data to add 
 
 # Location Stevens
 
