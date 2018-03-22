@@ -22,9 +22,9 @@ sudo apt-get update
 
 sudo apt-get install mysql-server mysql-client
 
-sudo mysql_secure_installation
-
 sudo apt-get install python3-mysqldb
+
+sudo mysql_secure_installation
 
 # Install Flask-ask and Ngrok
 
