@@ -13,7 +13,8 @@ FREQUENCY_SECONDS      = 10
 def login_open_sheet(oauth_key_file, spreadsheet):
     try:
         credentials = ServiceAccountCredentials.from_json_keyfile_name(oauth_key_file, 
-                      scopes = ['https://spreadsheets.google.com/feeds'])
+                      scopes = ['https://spreadsheets.google.com/feeds',
+                                'https://www.googleapis.com/auth/drive'])
         gc = gspread.authorize(credentials)
         worksheet = gc.open(spreadsheet).sheet1
         return worksheet
