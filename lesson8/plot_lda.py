@@ -65,7 +65,7 @@ plt.plot(features_samples_ratio, acc_clf2, linewidth=2,
 plt.xlabel('n_features / n_samples')
 plt.ylabel('Classification accuracy')
 
-plt.legend(loc=1, prop={'size': 12})
+plt.legend(loc=3, prop={'size': 12})
 plt.suptitle('Linear Discriminant Analysis vs. \
 shrinkage Linear Discriminant Analysis (1 discriminative feature)')
 plt.show()
