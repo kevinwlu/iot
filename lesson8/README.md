@@ -1,33 +1,29 @@
 # <a href="https://goo.gl/ibFiqR">Lesson 8</a>: Data Analysis
 
-# Install NumPy, SciPy, Matplotlib, and pandas on a Raspberry Pi — replace python-* with python3-* if using Python 3
+# Install NumPy, SciPy, Matplotlib, and pandas on a Raspberry Pi — replace python3-* with python-* if using Python 2
 
 sudo apt-get update
 
-sudo apt-get install build-essential
+sudo apt-get install python3-scipy
 
-sudo apt-get install python-dev python3-dev
+sudo apt-get install python3-matplotlib
 
-sudo apt-get install python-setuptools python3-setuptools
+sudo apt-get install python3-pandas
 
-sudo apt-get install python-numpy python3-numpy
-
-sudo apt-get install python-scipy python3-scipy
-
-sudo apt-get install python-matplotlib python3-matplotlib
-
-sudo apt-get install python-pandas python3-pandas
-
-# Install scikit-learn by pip (or pip3) on a Raspberry Pi
+# Install the latest numpy and scikit-learn by pip3/pip2 on a Raspberry Pi
 
 sudo apt-get install libopenblas-dev
 
-sudo pip install -U pip
+sudo apt-get install libatlas-base-dev
 
-sudo pip install -U scikit-learn
+sudo pip3 install -U pip
 
-# Use conda on Windows, or pip on Linux and macOS to install or update Python data analysis packages
+sudo pip3 install -U numpy
 
-sudo pip install -U pip 
+sudo pip3 install -U scikit-learn
 
-sudo pip install -U numpy scipy scikit-learn matplotlib pandas
+# Use conda on Windows, or pip3/pip2 on Linux and macOS to install or update Python data analysis packages
+
+sudo pip3 install -U pip 
+
+sudo pip3 install -U numpy scipy scikit-learn matplotlib pandas
