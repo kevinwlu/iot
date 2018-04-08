@@ -68,10 +68,24 @@ sudo usermod -aG docker pi
 
 docker run -it armhf/alpine /bin/sh
 
+cat /etc/os-release
+
+echo "Hi, this is a tiny Linux distribution!" | base64
+
+echo "SGksIHRoaXMgaXMgYSB0aW55IExpbnV4IGRpc3RyaWJ1dGlvbiEK" | base64 -d
+
 docker run armhf/alpine date
 
 # Build and run new image from Dockerfile
 
+docker images
+
+cp ~/lesson9/Dockerfile ~/demo
+
+cd ~/demo
+
 docker build -t curl_docker .
 
 docker run curl_docker
+
+docker images
