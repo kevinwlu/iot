@@ -2,7 +2,7 @@
 
 # Install and run pyang on a Raspberry Pi
 
-sudo pip install -U pyang
+sudo pip3 install -U pyang
 
 cp ~/iot/lesson9/intrusiondetection.yang ~/demo
 
@@ -12,15 +12,15 @@ pyang -f yin -o intrusiondetection.yin intrusiondetection.yang
 
 pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereotypes,annotation,typedef
 
-# Install the Python PlantUML module on a laptop or Raspberry Pi
+# Install the Python 2 PlantUML module on a laptop or Raspberry Pi
 
 sudo pip install -U plantuml
 
-# Run Python PlantUML to create a sequence diagram in PNG
+# Run PlantUML to create a sequence diagram in PNG
 
 python -m plantuml intrusiondetection.uml
 
-# Install and run GIMP to display a PNG file
+# Install and run GIMP to display a PNG file (Run SSH -Y to enable X11 forwarding as an alternative to VNC Viewer)
 
 sudo apt-get update
 
@@ -60,7 +60,7 @@ sudo apt-get install libreadline-dev
 
 curl -sSL get.docker.com | sh
 
-# Add pi to the Docker Group
+# Add pi to the Docker Group as a non-root user (Control-d to logout and reconnect via SSH for this to take effect)
 
 sudo usermod -aG docker pi
 
