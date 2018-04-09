@@ -25,7 +25,7 @@ y_pred = cross_val_predict(lasso, X, y)
 
 fig, ax = plt.subplots()
 ax.scatter(y, y_pred)
-ax.plot([y.min(), y.max()], [y.min(), y.max()], lw=2)
+ax.plot([y.min(), y.max()], [y.min(), y.max()], 'k-', lw=2)
 ax.set_xlabel('Measured')
 ax.set_ylabel('Predicted')
 plt.show()
