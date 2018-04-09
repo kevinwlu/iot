@@ -89,3 +89,9 @@ docker build -t curl_docker .
 docker run curl_docker
 
 docker images
+
+# Build the tiniest blockchain (by Gerald Nash)
+
+cd ~/iot/lesson9
+
+python3 snakecoin.py
