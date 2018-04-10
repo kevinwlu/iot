@@ -82,7 +82,7 @@ P.legend()
 #
 P.figure()
 
-n, bins, patches = P.hist(x, 10, normed=1, histtype='bar', stacked=True)
+n, bins, patches = P.hist(x, 10, normed=1, histtype='bar', rwidth=0.8, stacked=True)
 
 #P.show()
 
