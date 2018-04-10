@@ -107,11 +107,11 @@ x2 = mu + sigma*P.randn(3000)
 # of each series only half the weight of the others:
 
 w0 = np.ones_like(x0)
-w0[:len(x0)/2] = 0.5
+w0[:len(x0)//2] = 0.5
 w1 = np.ones_like(x1)
-w1[:len(x1)/2] = 0.5
+w1[:len(x1)//2] = 0.5
 w2 = np.ones_like(x2)
-w2[:len(x2)/2] = 0.5
+w2[:len(x2)//2] = 0.5
 
 
 
