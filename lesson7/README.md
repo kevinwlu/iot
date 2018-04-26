@@ -2,7 +2,7 @@
 
 # Install gspread and oauth2client
 
-sudo pip3 install -U gspread==0.6.2 oauth2client
+sudo pip3 install gspread==0.6.2 oauth2client
 
 # Install beebotte
 
