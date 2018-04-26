@@ -1,5 +1,6 @@
 # 2018 Spring
 
+* Kyle Emanuele, "Nexus: A Smarter, More Connected Environment," https://github.com/kemanu/SIT_RFID
 * Yanghongbo Lu, "Automatic Greenhouse System," https://github.com/YanghongboLu/StevensProjects
 * Zhihuan Zhang, "Video Quality Enhancing," https://github.com/ifamec/Video-Quality-Enhancing
 
