@@ -2,6 +2,7 @@
 
 * Kyle Emanuele, "Nexus: A Smarter, More Connected Environment," https://github.com/kemanu/SIT_RFID
 * Yanghongbo Lu, "Automatic Greenhouse System," https://github.com/YanghongboLu/StevensProjects
+* Shrinivas Shetty, "VisionDL," https://github.com/shrinivasshetty21/Projects/tree/master/Saliency%20Mapping
 * Zhihuan Zhang, "Video Quality Enhancing," https://github.com/ifamec/Video-Quality-Enhancing
 
 # 2017 Fall
