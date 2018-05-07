@@ -4,6 +4,7 @@
 * Yanghongbo Lu, "Automatic Greenhouse System," https://github.com/YanghongboLu/StevensProjects
 * Shrinivas Shetty, "VisionDL," https://github.com/shrinivasshetty21/Projects/tree/master/Saliency%20Mapping
 * Zhihuan Zhang, "Video Quality Enhancing," https://github.com/ifamec/Video-Quality-Enhancing
+* Erwi Zhu, "Embedded AR RFID Reader," https://github.com/peterzhu9210/virtualAR
 
 # 2017 Fall
 
