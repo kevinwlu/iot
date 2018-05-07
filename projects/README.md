@@ -3,6 +3,7 @@
 * Kyle Emanuele, "Nexus: A Smarter, More Connected Environment," https://github.com/kemanu/SIT_RFID
 * Yanghongbo Lu, "Automatic Greenhouse System," https://github.com/YanghongboLu/StevensProjects
 * Shrinivas Shetty, "VisionDL," https://github.com/shrinivasshetty21/Projects/tree/master/Saliency%20Mapping
+* Jeffin Varghese, "SMart Mirror with Artificial Intelligence," https://github.com/jeffgv/Mymirror
 * Zhihuan Zhang, "Video Quality Enhancing," https://github.com/ifamec/Video-Quality-Enhancing
 * Erwi Zhu, "Embedded AR RFID Reader," https://github.com/peterzhu9210/virtualAR
 
