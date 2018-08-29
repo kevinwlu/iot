@@ -12,6 +12,6 @@ cp ~/iot/lesson2/startup_mailer.py .
 
 nano startup_mailer.py
 
-# Edit /etc/rc.local
+# Edit /etc/rc.local as in startup_mailer.txt
 
 sudo nano /etc/rc.local
