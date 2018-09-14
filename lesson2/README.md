@@ -12,7 +12,7 @@ fswebcam -r 1280x720 image2.jpg
 
 fswebcam -r 1280x720 --no-banner image3.jpg
 
-# Install and run minicom
+# Serial Loopback Test
 
 sudo nano /boot/cmdline.txt
 
@@ -24,11 +24,13 @@ minicom –b 9600 –o –D /dev/ttyS0
 
 minicom -b 9600 -o -D /dev/ttyAMA0
 
-# Install python-dev and spidev
+# SPI Loopback Test
 
-sudo apt-get install python3-dev
+wget https://raw.githubusercontent.com/raspberrypi/linux/rpi-3.10.y/Documentation/spi/spidev_test.c
 
-sudo pip3 install -U spidev
+gcc -o spidev_test spidev_test.c
+
+./spidev_test -D /dev/spidev0.0
 
 # Switch an LED on/off
 
@@ -50,7 +52,7 @@ echo 18 > /sys/class/gpio/unexport
 
 exit
 
-# Install i2c-tools and python-smbus to test I2C addresses in use
+# Test I2C Addresses in Use
 
 sudo apt-get install i2c-tools python-smbus
 
