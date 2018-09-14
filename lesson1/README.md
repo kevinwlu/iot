@@ -2,7 +2,7 @@
 
 # Clone IoT repository from GitHub
 
-git clone http://github.com/kevinwlu/iot.git
+git clone https://github.com/kevinwlu/iot.git
 
 # Copy startup_mailer.py to the current directory "."
 
