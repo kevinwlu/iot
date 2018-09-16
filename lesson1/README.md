@@ -15,3 +15,7 @@ nano startup_mailer.py
 # Edit /etc/rc.local as in startup_mailer.txt
 
 sudo nano /etc/rc.local
+
+# Set up Wi-Fi as in wpa_supplicant.txt
+
+sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
