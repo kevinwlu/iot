@@ -6,7 +6,7 @@ git clone https://github.com/kevinwlu/iot.git
 
 # Copy startup_mailer.py to the current directory "."
 
-cp ~/iot/lesson2/startup_mailer.py .
+cp iot/lesson1/startup_mailer.py .
 
 # Edit startup_mailer.py
 
