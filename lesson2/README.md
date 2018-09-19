@@ -22,8 +22,6 @@ minicom –b 115200 –o –D /dev/ttyS0
 
 minicom –b 9600 –o –D /dev/ttyS0
 
-minicom -b 9600 -o -D /dev/ttyAMA0
-
 # SPI Loopback Test
 
 wget https://raw.githubusercontent.com/raspberrypi/linux/rpi-3.10.y/Documentation/spi/spidev_test.c
@@ -57,4 +55,3 @@ exit
 sudo apt-get install i2c-tools python-smbus
 
 sudo i2cdetect -y 1
-
