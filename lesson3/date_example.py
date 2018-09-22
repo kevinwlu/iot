@@ -5,8 +5,8 @@ print('Date: ' + now.strftime('%m-%d-%y'))
 print('Day of Week: ' + now.strftime('%A'))
 print('Month: ' + now.strftime('%B'))
 print('Year: ' + now.strftime('%Y'))
-midterm = date(2018, 2, 26)
-final = date(2018, 4, 30)
+midterm = date(2018, 10, 15)
+final = date(2018, 12, 10)
 timediff = midterm - now
 print('{:d} days to Midterm Exam'.format(timediff.days))
 timediff = final - now
