@@ -27,3 +27,55 @@ sudo pip3 install -U geopy
 python3 coordinates.py 'SC Williams Library'
 
 python3 address.py '40.7448397, -74.02531776875'
+
+# Run socket server from a Terminal, and run socket client from another Terminal
+
+python3 socket_server.py
+
+python3 socket_client.py '155.246.x.x'
+
+# Run Python code with a breadboard
+
+sudo python3 blink.py
+
+sudo python3 manual.py
+
+sudo python3 auto.py
+
+# Copy, edit (replace GMAIL_ADDRESS, RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD), and run the following two python programs
+
+mkdir demo
+
+cd demo
+
+cp ~/iot/lesson3/test_email.py .
+
+nano test_email.py
+
+python3 test_email.py
+
+cp ~/iot/lesson3/hello.py .
+
+nano hello.py
+
+sudo python3 hello.py
+
+# Run speed comparisons
+
+cd pypy
+
+gcc -o test test.c
+
+time ./test
+
+time pypy test.py
+
+time python test.py
+
+time python3 test.py
+
+pypy -m cProfile test.py
+
+python -m cProfile test.py
+
+python3 -m cProfile test.py
