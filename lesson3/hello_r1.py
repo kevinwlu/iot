@@ -1,6 +1,6 @@
 import serial
 
 ser = serial.Serial('/dev/ttyAMA0', 9600)
-outgoing = 'Hello from ROUTER 1'
-print('Sent "%s"' % outgoing)
+outgoing = b'Hello from ROUTER 1'
+print('Sent "%s"' % outgoing.decode())
 ser.write('%s\n' % outgoing)
