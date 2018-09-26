@@ -4,4 +4,4 @@ import serial
 ser = serial.Serial('/dev/ttyAMA0', 9600)
 outgoing = b'Hello from COORDINATOR'
 print('COORDINATOR sent "%s"' % outgoing.decode())
-ser.write('%s\n' % outgoing)
+ser.write('%s\n'.encode() % outgoing)
