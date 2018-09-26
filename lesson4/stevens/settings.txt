@@ -23,7 +23,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'stevens',
 	'USER': 'pi',
-        'PASSWORD': 'PASSWORD',
+        'PASSWORD': 'raspberry',
         'HOST': '',
         'PORT': '',
         'OPTIONS': {
