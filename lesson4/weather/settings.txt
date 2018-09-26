@@ -2,7 +2,7 @@
 
 # Add IP addresses at Stevens, home, or cloud server
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'xxx.xxx.xxx.xxx']
+ALLOWED_HOSTS = ['*']
 
 # Add 'myapp' and 'rest_framework' to INSTALLED_APPS
 
@@ -24,7 +24,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'weather',
         'USER': 'pi',
-        'PASSWORD': 'PASSWORD',
+        'PASSWORD': 'raspberry',
         'HOST': '',
         'PORT': '',
         'OPTIONS': {
