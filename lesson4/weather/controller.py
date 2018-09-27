@@ -16,13 +16,13 @@ def runController():
     setHmdState(hmd)
 def setDtState(val):
     values = {'name': val}
-    r = requests.put('http://127.0.0.1:8000/dt/1/', data=values, auth=('pi', 'PASSWORD'))
+    r = requests.put('http://127.0.0.1:8000/dt/1/', data=values, auth=('pi', 'raspberry'))
 def setTmpState(val):
     values = {'name': val}
-    r = requests.put('http://127.0.0.1:8000/tmp/1/', data=values, auth=('pi', 'PASSWORD'))
+    r = requests.put('http://127.0.0.1:8000/tmp/1/', data=values, auth=('pi', 'raspberry'))
 def setHmdState(val):
     values = {'name': val}
-    r = requests.put('http://127.0.0.1:8000/hmd/1/', data=values, auth=('pi', 'PASSWORD'))
+    r = requests.put('http://127.0.0.1:8000/hmd/1/', data=values, auth=('pi', 'raspberry'))
 while True:
     try:
         hmd, tmp = Adafruit_DHT.read(DHT_TYPE, DHT_PIN)
