@@ -37,11 +37,11 @@ def runController():
 
 def setRoomState(val):
     values = {'name': val}
-    r = requests.put('http://127.0.0.1:8000/room/1/', data=values, auth=('pi', 'PASSWORD'))
+    r = requests.put('http://127.0.0.1:8000/room/1/', data=values, auth=('pi', 'raspberry'))
 
 def setDoorState(val):
     values = {'name': val}
-    r = requests.put('http://127.0.0.1:8000/door/1/', data=values, auth=('pi', 'PASSWORD'))
+    r = requests.put('http://127.0.0.1:8000/door/1/', data=values, auth=('pi', 'raspberry'))
 
 while True:
     try:
