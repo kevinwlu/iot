@@ -16,7 +16,7 @@ INSTALLED_APPS = [
                   'myapp',
 ]
 
-# Change database to MySQL and replace PASSWORD
+# Change database to MySQL and change PASSWORD
 
 DATABASES = {
     'default': {
