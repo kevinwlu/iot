@@ -7,13 +7,13 @@ ALLOWED_HOSTS = ['*']
 # Add 'myapp' to INSTALLED_APPS
 
 INSTALLED_APPS = [
-                  'django.contrib.admin',
-                  'django.contrib.auth',
-                  'django.contrib.contenttypes',
-                  'django.contrib.sessions',
-                  'django.contrib.messages',
-                  'django.contrib.staticfiles',
-                  'myapp',
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    'myapp',
 ]
 
 # Change database to MySQL and change PASSWORD
