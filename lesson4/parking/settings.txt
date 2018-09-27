@@ -17,7 +17,7 @@ INSTALLED_APPS = [
     'rest_framework',
 ]
 
-# Change database to MySQL and replace PASSWORD
+# Change database to MySQL and change PASSWORD
 
 DATABASES = {
     'default': {
