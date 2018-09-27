@@ -22,7 +22,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'stevens',
-	'USER': 'pi',
+        'USER': 'pi',
         'PASSWORD': 'raspberry',
         'HOST': '',
         'PORT': '',
