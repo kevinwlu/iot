@@ -25,19 +25,19 @@ def home(request):
     lon = locData.longitude
 
     dtstate = '2017-10-10T16:00:00-05:00'
-    r = requests.get('http://127.0.0.1:8000/dt/1/', auth=('pi', 'PASSWORD'))
+    r = requests.get('http://127.0.0.1:8000/dt/1/', auth=('pi', 'raspberry'))
     result = r.text
     output = json.loads(result)
     dtstate = output['name']
 
     tmpstate = '20'
-    r = requests.get('http://127.0.0.1:8000/tmp/1/', auth=('pi', 'PASSWORD'))
+    r = requests.get('http://127.0.0.1:8000/tmp/1/', auth=('pi', 'raspberry'))
     result = r.text
     output = json.loads(result)
     tmpstate = output['name']
 
     hmdstate = '50'
-    r = requests.get('http://127.0.0.1:8000/hmd/1/', auth=('pi', 'PASSWORD'))
+    r = requests.get('http://127.0.0.1:8000/hmd/1/', auth=('pi', 'raspberry'))
     result = r.text
     output = json.loads(result)
     hmdstate = output['name']
