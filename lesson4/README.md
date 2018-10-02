@@ -26,6 +26,26 @@ sudo apt-get install python3-mysqldb
 
 sudo mysql_secure_installation
 
+# Install Adafruit_Python_DHT library
+
+git clone https://github.com/adafruit/Adafruit_Python_DHT.git
+
+cd Adafruit_Python_DHT
+
+sudo python3 setup.py install
+
+cd
+
+# Install Adafruit_Python_BMP library
+
+git clone https://github.com/adafruit/Adafruit_Python_BMP.git
+
+cd Adafruit_Python_BMP
+
+sudo python3 setup.py install
+
+cd
+
 # Install Flask-ask and Ngrok
 
 sudo pip3 install -U flask-ask
