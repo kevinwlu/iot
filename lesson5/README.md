@@ -10,6 +10,12 @@ crossbar init --appdir hello
 
 cd ~/hello/web
 
+cp ~/iot/lesson5/backend.html .
+
+cp ~/iot/lesson5/frontend.html .
+
+cp ~/iot/lesson5/index.html .
+
 cp ~/iot/lesson5/favicon.ico .
 
 cd ~/hello
