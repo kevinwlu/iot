@@ -8,5 +8,4 @@ network={
 network={
         ssid="SSID"
         psk="PRE_SHARED_KEY"
-        key_mgmt=WPA-PSK
 }
