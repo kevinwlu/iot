@@ -1,6 +1,8 @@
 # 2018 Fall
 
-* 
+* Alhussain Almarhabi, "Different Languages Font Recognition Via Raspberry Pi," https://github.com/code-Eng
+* Tiancheng Gai, "IoT Smart Home," https://github.com/tcgai
+* Ziran Gong, "Intelligent Facial Recognition System Based on TensorFlow," https://github.com/nature1995
 
 # 2018 Spring
 
