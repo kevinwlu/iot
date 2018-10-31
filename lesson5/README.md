@@ -2,7 +2,7 @@
 
 # Crossbar.io
 
-sudo pip3 install -U crossbar
+sudo pip3 install -U crossbar==18.4.1
 
 crossbar version
 
