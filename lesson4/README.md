@@ -50,6 +50,8 @@ cd
 
 sudo pip3 install -U flask-ask
 
+sudo pip3 install 'cryptography<2.2'
+
 sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 
 sudo unzip ngrok-stable-linux-arm.zip
