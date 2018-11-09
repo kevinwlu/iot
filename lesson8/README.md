@@ -22,14 +22,16 @@ sudo apt-get install libatlas-base-dev
 
 # Install the latest numpy and scikit-learn by pip3 on a Raspberry Pi
 
-sudo pip3 install -U pip
-
 sudo pip3 install -U numpy
 
 sudo pip3 install -U scikit-learn
 
 # Use conda on Windows, or pip3 on Linux and macOS to install or update Python data analysis packages
 
-sudo pip3 install -U pip 
-
 sudo pip3 install -U numpy scipy scikit-learn matplotlib pandas
+
+# Install TensorFlow and Keras
+
+sudo pip3 install tensorflow
+
+sudo pip3 install keras
