@@ -14,11 +14,11 @@ pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereoty
 
 # Install the Python 2 PlantUML module on a laptop or Raspberry Pi
 
-sudo pip install -U plantuml
+sudo pip3 install -U plantuml
 
 # Run PlantUML to create a sequence diagram in PNG
 
-python -m plantuml intrusiondetection.uml
+python3 -m plantuml intrusiondetection.uml
 
 # Install and run GIMP to display a PNG file (Run SSH -Y to enable X11 forwarding as an alternative to VNC Viewer)
 
