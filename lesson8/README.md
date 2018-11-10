@@ -29,9 +29,3 @@ sudo pip3 install -U scikit-learn
 # Use conda on Windows, or pip3 on Linux and macOS to install or update Python data analysis packages
 
 sudo pip3 install -U numpy scipy scikit-learn matplotlib pandas
-
-# Install TensorFlow and Keras
-
-sudo pip3 install tensorflow
-
-sudo pip3 install keras
