@@ -20,7 +20,7 @@ sudo apt-get install libopenblas-dev
 
 sudo apt-get install libatlas-base-dev
 
-# Install NumPy, scikit-learn, TensorFlow, and Keras by pip3 on a Raspberry Pi
+# Install NumPy, scikit-learn, TensorFlow, and Keras on a Raspberry Pi
 
 sudo pip3 install -U numpy
 
