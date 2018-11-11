@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/ibFiqR">Lesson 8</a>: Data Analysis
 
-# Install NumPy, SciPy, Matplotlib, pandas, and dependencies on a Raspberry Pi
+# Install SciPy, Matplotlib, pandas, and dependencies on a Raspberry Pi
 
 sudo apt-get update
 
@@ -20,11 +20,15 @@ sudo apt-get install libopenblas-dev
 
 sudo apt-get install libatlas-base-dev
 
-# Install the latest numpy and scikit-learn by pip3 on a Raspberry Pi
+# Install NumPy, scikit-learn, TensorFlow, and Keras by pip3 on a Raspberry Pi
 
 sudo pip3 install -U numpy
 
 sudo pip3 install -U scikit-learn
+
+sudo pip3 install -U tensorflow
+
+sudo pip3 install -U keras
 
 # Use conda on Windows, or pip3 on Linux and macOS to install or update Python data analysis packages
 
