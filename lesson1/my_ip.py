@@ -3,7 +3,7 @@ import smtplib
 from email.mime.text import MIMEText
 to = 'RECIPIENT_EMAIL' # Email to send to
 gmail_user = 'GMAIL_USERNAME' # Email to send from (MUST BE GMAIL)
-gmail_password = 'GOOGLE_APP_PASSWORD' # Enable 2-Step Verification and 16-digit Google App Password
+gmail_password = 'GOOGLE_APP_PASSWORD' # Turn on 2-Step Verification and generate 16-digit App Password
 smtpserver = smtplib.SMTP('smtp.gmail.com', 587)
 smtpserver.ehlo()
 smtpserver.starttls()
