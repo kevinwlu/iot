@@ -61,14 +61,14 @@ ipaddr_a = (split_line_a[split_line_a.index(b'src')+1]).decode()
 #ipaddr_b = (split_line_b[split_line_b.index(b'src')+1]).decode()
 
 # Creates a sentence for each IP address
-my_ip_a = 'RaspberryPi %s IP address is %s' % (ip_type_a, ipaddr_a)
+my_ip_a = 'HOSTNAME %s IP address is %s' % (ip_type_a, ipaddr_a)
 #my_ip_b = 'RaspberryPi %s IP address is %s' % (ip_type_b, ipaddr_b)
 
 # Creates the text, subject, 'from', and 'to' of the message
 #msg = MIMEText(my_ip_a + "\n" + my_ip_b)
 msg = MIMEText(my_ip_a)
 #msg['Subject'] = 'IP addresses for RaspberryPi on %s' % today.strftime('%b %d %Y')
-msg['Subject'] = 'IP address for RaspberryPi'
+msg['Subject'] = 'IP address for HOSTNAME'
 msg['From'] = gmail_user
 msg['To'] = to
 # Sends the message
