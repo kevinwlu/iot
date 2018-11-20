@@ -21,7 +21,7 @@ http.createServer(function (req, res) {
                               }
                               data = (parseInt(data) + 1);
                               var refresh = parseInt(data);
-                              fs.writeFile('test.txt', parseInt(refresh));
+                              fs.writeFile('test.txt', parseInt(refresh), (error) => { /* handle error */ });
                               res.end('This page was refreshed ' + data + ' times!');
                               var data = "";
                               });
