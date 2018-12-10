@@ -5,6 +5,8 @@
 * Tande Chen and Kai Zhang, "Intelligent Surveillance," https://github.com/zjzk99/EE-800-L
 * Tiancheng Gai, "IoT Smart Home," https://github.com/tcgai
 * Ziran Gong, "Intelligent Facial Recognition System," https://github.com/nature1995
+* Xiaofan Mi, "OpenCV: Target Tracking and Warning System," https://github.com/xmxftxdl/opencv
+* Jiahao Zhang, "Screen Guard: A Privacy Protector," https://github.com/EmptyZJH/Screen-Guard
 
 # 2018 Spring
 
