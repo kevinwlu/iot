@@ -24,7 +24,7 @@ sudo apt-get install libatlas-base-dev
 
 sudo pip3 install -U numpy
 
-sudo pip3 install -U scikit-learn
+sudo pip3 install --only-binary :all: -U scikit-learn
 
 sudo pip3 install -U tensorflow
 
