@@ -13,7 +13,7 @@ mu, sigma = 200, 25
 x = mu + sigma*P.randn(10000)
 
 # the histogram of the data with histtype='step'
-n, bins, patches = P.hist(x, 50, density=1, histtype='stepfilled')
+n, bins, patches = P.hist(x, 50, normed=1, histtype='stepfilled')
 P.setp(patches, 'facecolor', 'g', 'alpha', 0.75)
 
 # add a line showing the expected distribution
@@ -28,14 +28,14 @@ P.figure()
 
 bins = [100,125,150,160,170,180,190,200,210,220,230,240,250,275,300]
 # the histogram of the data with histtype='step'
-n, bins, patches = P.hist(x, bins, density=1, histtype='bar', rwidth=0.8)
+n, bins, patches = P.hist(x, bins, normed=1, histtype='bar', rwidth=0.8)
 
 #
 # now we create a cumulative histogram of the data
 #
 P.figure()
 
-n, bins, patches = P.hist(x, 50, density=1, histtype='step', cumulative=True)
+n, bins, patches = P.hist(x, 50, normed=1, histtype='step', cumulative=True)
 
 # add a line showing the expected distribution
 y = P.normpdf( bins, mu, sigma).cumsum()
@@ -46,7 +46,7 @@ l = P.plot(bins, y, 'k--', linewidth=1.5)
 sigma2 = 15.
 x = mu + sigma2*P.randn(10000)
 
-n, bins, patches = P.hist(x, bins=bins, density=1, histtype='step', cumulative=True)
+n, bins, patches = P.hist(x, bins=bins, normed=1, histtype='step', cumulative=True)
 
 # add a line showing the expected distribution
 y = P.normpdf( bins, mu, sigma2).cumsum()
@@ -54,7 +54,7 @@ y /= y[-1]
 l = P.plot(bins, y, 'r--', linewidth=1.5)
 
 # finally overplot a reverted cumulative histogram
-n, bins, patches = P.hist(x, bins=bins, density=1,
+n, bins, patches = P.hist(x, bins=bins, normed=1,
     histtype='step', cumulative=-1)
 
 
@@ -72,7 +72,7 @@ P.figure()
 # create a new data-set
 x = mu + sigma*P.randn(1000,3)
 
-n, bins, patches = P.hist(x, 10, density=1, histtype='bar',
+n, bins, patches = P.hist(x, 10, normed=1, histtype='bar',
                             color=['crimson', 'burlywood', 'chartreuse'],
                             label=['Crimson', 'Burlywood', 'Chartreuse'])
 P.legend()
@@ -82,7 +82,7 @@ P.legend()
 #
 P.figure()
 
-n, bins, patches = P.hist(x, 10, density=1, histtype='bar', rwidth=0.8, stacked=True)
+n, bins, patches = P.hist(x, 10, normed=1, histtype='bar', rwidth=0.8, stacked=True)
 
 #P.show()
 
