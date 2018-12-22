@@ -54,7 +54,7 @@ y /= y[-1]
 l = P.plot(bins, y, 'r--', linewidth=1.5)
 
 # finally overplot a reverted cumulative histogram
-n, bins, patches = P.hist(x, bins=bins, normed=1,
+n, bins, patches = P.hist(x, bins=bins, density=1,
     histtype='step', cumulative=-1)
 
 
