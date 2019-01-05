@@ -19,7 +19,6 @@ class Person:
     def __eq__(self, other):
         return self.age == other.age and self.name == other.name
     def __hash__(self):
-        print('The hash is:')
         return hash((self.age, self.name))
 person = Person(23, 'Adam')
 print('The hash for object of person is:', hash(person))
