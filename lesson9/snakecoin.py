@@ -1,3 +1,4 @@
+# Gerald Nash, "Let's build the tiniest blockchain in less than 50 lines of Python"
 import hashlib as hasher
 import datetime as date
 
