@@ -9,7 +9,7 @@ print('Hash for Python is:', hash('Python'))
 
 # hash for tuple of vowels
 vowels = ('a', 'e', 'i', 'o', 'u')
-print('The hash is:', hash(vowels))
+print('The hash for tuple of vowels is:', hash(vowels))
 
 # hash for custom object
 class Person:
@@ -22,4 +22,4 @@ class Person:
         print('The hash is:')
         return hash((self.age, self.name))
 person = Person(23, 'Adam')
-print(hash(person))
+print('The hash for object of person is:', hash(person))
