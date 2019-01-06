@@ -18,24 +18,6 @@ crossbar start
 
 crossbar stop
 
-cd
-
-git clone https://github.com/crossbario/autobahn-python.git
-
-cd ~/autobahn-python/examples/router
-
-crossbar start
-
-cd ~/autobahn-python/examples/twisted/wamp/pubsub/basic
-
-python3 frontend.py
-
-python3 backend.py
-
-cd ~/autobahn-python/examples/router
-
-crossbar stop
-
 # Mosquitto
 
 sudo apt-get install mosquitto mosquitto-clients
@@ -52,11 +34,27 @@ netstat -tln
 
 sudo service mosquitto stop
 
-# Paho
+# Install and run Paho to publish in one terminal and subscribe in another
 
 sudo pip3 install -U paho-mqtt
 
 git clone https://github.com/eclipse/paho.mqtt.python.git
+
+cd ~/iot/lesson5
+
+python3 client.py
+
+python3 sub.py
+
+python3 pub.py
+
+python3 sub-multiple.py
+
+python3 pub-multiple.py
+
+python3 subraspi.py
+
+python3 pubraspi.py
 
 # AWS CLI
 
