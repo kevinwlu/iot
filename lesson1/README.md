@@ -50,7 +50,7 @@ cp ~/iot/lesson1/startup_mailer.py .
 
 # Generate a 16-digit "App password" with the app as "Mail" and device as "Raspberry Pi" 
 
-# Edit startup_mailer.py by changing RECIPIENT_EMAIL,GAMIL_USERNAME, GOOGLE_APP_PASSWORD, and HOSTNAME
+# Edit startup_mailer.py by changing RECIPIENT_EMAIL, GMAIL_USERNAME, GOOGLE_APP_PASSWORD, and HOSTNAME
 
 nano startup_mailer.py
 
