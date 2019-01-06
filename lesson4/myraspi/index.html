@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>MyRasPi</title>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="10">
+  <meta name="viewport" content="width=device width, initial-scale=1">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/static/myapp/bootstrap.min.css">
+  <script src="/static/myapp/jquery.min.js"></script>
+  <script src="/static/myapp/bootstrap.min.js"></script>
+  <style>
+    #map-canvas {
+      width: 400px;
+      height: 300px;
+    }
+  </style>
+  <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
+  <script>
+    function initialize() {
+      var mapCanvas = document.getElementById('map-canvas');
+      var mapOptions = {
+        center: new google.maps.LatLng({{lat}}, {{lon}}),
+        zoom: 16,
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+      }
+      var map = new google.maps.Map(mapCanvas, mapOptions)
+    }
+    google.maps.event.addDomListener(window, 'load', initialize);
+  </script>
+</head>
+<body>
+  <div class="container-fluid">
+    <center><h1>Raspberry Pi</h1></center>
+    <center><h3>Stevens Institute of Technology</h3></center>
+    <center><h4>{{dtstate}}</h4></center>
+    <div class="row">
+      <div class="col-sm-3"><h4>Temperature</h4>
+                            <h4>{{tmpstate|floatformat:1}}&deg;C</h4></div>
+      <div class="col-sm-3"><h4>CPU Usage</h4>
+                            <h4>{{cpustate|floatformat:1}}%</h4></div>
+      <div class="col-sm-6" style="height:300px">
+      <div id="map-canvas"></div></div>
+    </div>
+  </div>
+</body>
+</html>
