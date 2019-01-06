@@ -20,41 +20,17 @@ sudo pip3 install -U plantuml
 
 python3 -m plantuml intrusiondetection.uml
 
-# Install and run GIMP to display a PNG file (Run SSH -Y to enable X11 forwarding as an alternative to VNC Viewer)
+# Install and run GIMP and Pinta to display a PNG file (Run SSH -Y to enable X11 forwarding as an alternative to VNC Viewer)
 
 sudo apt-get update
 
-sudo apt-get install gimp
+sudo apt-get install gimp pinta
+
+pinta intrusiondetection.png
+
+gimp -h
 
 gimp -a intrusiondetection.png
-
-# Install Libnetconf and Libssh on Ubuntu (build instructions on slides)
-
-git clone https://github.com/CESNET/libnetconf.git
-
-sudo apt-get install libtool libtool-bin
-
-sudo apt-get install libxml2-dev libxslt1-dev
-
-sudo apt-get install libcurl4-openssl-dev xsltproc
-
-sudo apt-get install python-setuptools cmake
-
-sudo apt-get install zlib1g-dev libssl-dev
-
-sudo pip install pyang
-
-git clone https://git.libssh.org/projects/libssh.git
-
-# Install and run Netopeer on Ubuntu (build instructions on slides)
-
-git clone https://github.com/CESNET/netopeer.git
-
-sudo apt-get install python-libxml2
-
-sudo /usr/local/bin/netopeer-server -d
-
-sudo apt-get install libreadline-dev
 
 # Install Docker on a Raspberry Pi
 
