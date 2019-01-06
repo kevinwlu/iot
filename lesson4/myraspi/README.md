@@ -30,11 +30,7 @@ MariaDB [mysql]> grant all privileges on myraspi.* to pi@localhost;
 
 MariaDB [mysql]> quit
 
-# Edit settings.py in ~/myraspi/myraspi
-
-# Follow ~/iot/lesson4/myraspi/settings.txt
-
-# Remember to change PASSWORD for MySQL user
+# Edit settings.py in ~/myraspi/myraspi as in settings.txt
 
 pi@raspberrypi:~/myraspi $ cd myraspi
 
