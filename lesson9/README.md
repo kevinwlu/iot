@@ -72,4 +72,6 @@ docker images
 
 cd ~/iot/lesson9
 
+python3 hash_value.py
+
 python3 snakecoin.py
