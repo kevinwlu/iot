@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/shPybk">Lesson 5</a>: Crossbar.io and Paho
 
-# Crossbar.io
+# Install and run Crossbar.io publish on one tab and subscribe on another
 
 sudo pip3 install -U crossbar==18.4.1
 
@@ -18,7 +18,7 @@ crossbar start
 
 crossbar stop
 
-# Mosquitto
+# Install and run Mosquitto to publish on one terminal and subscribe on another
 
 sudo apt-get install mosquitto mosquitto-clients
 
@@ -34,7 +34,7 @@ netstat -tln
 
 sudo service mosquitto stop
 
-# Install and run Paho to publish in one terminal and subscribe in another
+# Install and run Paho to publish on one terminal and subscribe on another
 
 sudo pip3 install -U paho-mqtt
 
