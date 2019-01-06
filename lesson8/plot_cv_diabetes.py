@@ -21,7 +21,7 @@ print('Number of instances: %d' % (diabetes.data.shape[0]))
 
 # cross_val_predict returns an array of the same size as `y` where each entry
 # is a prediction obtained by cross validated:
-y_pred = cross_val_predict(lasso, X, y, cv=10)
+y_pred = cross_val_predict(lasso, X, y, cv=3)
 
 fig, ax = plt.subplots()
 ax.scatter(y, y_pred)
