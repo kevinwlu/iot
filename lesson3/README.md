@@ -50,7 +50,7 @@ sudo python3 manual.py
 
 sudo python3 auto.py
 
-### Copy, edit (replace GMAIL_ADDRESS, RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD), and run the following two python programs
+### Copy, edit (replace GMAIL_ADDRESS, RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD), and run the following python programs
 
 mkdir demo
 
