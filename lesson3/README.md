@@ -38,11 +38,9 @@ python3 socket_client.py '155.246.x.x'
 
 ## Lab B: Breadboard
 
-### Connect the breadboard to Raspberry Pi 3V3, GND, GPIO 18, GPIO 24, and GPIO 25 using five DuPont male-to-female jump wires
+### 1. Connect the breadboard to Raspberry Pi 3V3, GND, GPIO 18, GPIO 24, and GPIO 25 using five DuPont male-to-female jump wires
 
-## Lab C: Python
-
-### Run the following three python programs
+### 2. Run the following three python programs
 
 sudo python3 blink.py
 
@@ -50,7 +48,7 @@ sudo python3 manual.py
 
 sudo python3 auto.py
 
-### Copy, edit (replace GMAIL_ADDRESS, RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD), and run the following two python programs
+### 3. Copy, edit (replace GMAIL_ADDRESS, RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD), and run the following two python programs
 
 mkdir demo
 
@@ -68,7 +66,7 @@ nano hello.py
 
 sudo python3 hello.py
 
-## Lab D: Pypy
+## Lab C: Pypy
 
 cd pypy
 
@@ -88,7 +86,7 @@ python -m cProfile test.py
 
 python3 -m cProfile test.py
 
-## Lab E: Doxygen
+## Lab D: Doxygen
 
 sudo apt-get install doxygen
 
