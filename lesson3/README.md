@@ -1,8 +1,16 @@
 # <a href="https://goo.gl/F0H9jW">Lesson 3</a>: Python
 
-# Install Jdcal to convert between Julian dates and calendar dates
+## Lab A: Run Python
 
-sudo pip3 install -U jdcal
+### On a Raspberry Pi, install packages, update the IoT repository, and run python programs
+
+sudo pip3 install -U jdcal astral geopy
+
+cd iot
+
+git pull
+
+cd lesson3
 
 python3 julian.py
 
@@ -12,29 +20,29 @@ python3 datetime_example.py
 
 python3 time_example.py
 
-# Install Astral to calculate the times of various aspects of the sun and moon
-
-sudo pip3 install -U astral
-
 python3 sun.py 'New York'
 
 python3 moon.py
-
-# Install GeoPy to locate the coordinates of addresses, cities, countries, and landmarks
-
-sudo pip3 install -U geopy
 
 python3 coordinates.py 'SC Williams Library'
 
 python3 address.py '40.7448397, -74.02531776875'
 
-# Run socket server from a Terminal, and run socket client from another Terminal
+python3 system_info.py
+
+### Run socket server from a Terminal, and run socket client from another Terminal of the same Raspberry Pi or a different one on the same subnetwork
 
 python3 socket_server.py
 
 python3 socket_client.py '155.246.x.x'
 
-# Run Python code with a breadboard
+## Lab B: Breadboard
+
+### Connect the breadboard to Raspberry Pi 3V3, GND, GPIO 18, GPIO 24, and GPIO 25 using five DuPont male-to-female jump wires
+
+## Lab C: Run Python with Breadboard
+
+### Run the following three python programs
 
 sudo python3 blink.py
 
@@ -42,7 +50,7 @@ sudo python3 manual.py
 
 sudo python3 auto.py
 
-# Copy, edit (replace GMAIL_ADDRESS, RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD), and run the following two python programs
+### Copy, edit (replace GMAIL_ADDRESS, RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD), and run the following two python programs
 
 mkdir demo
 
@@ -60,7 +68,7 @@ nano hello.py
 
 sudo python3 hello.py
 
-# Run speed comparisons
+## Lab D: Run Pypy
 
 cd pypy
 
@@ -80,7 +88,7 @@ python -m cProfile test.py
 
 python3 -m cProfile test.py
 
-# Install Doxygen, generate and edit configuration file, and generate documentation
+## Lab E: Doxygen
 
 sudo apt-get install doxygen
 
