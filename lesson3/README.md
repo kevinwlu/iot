@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/F0H9jW">Lesson 3</a>: Python
 
-## Lab A: Run Python
+## Lab A: Python
 
 ### On a Raspberry Pi, install packages, update the IoT repository, and run python programs
 
@@ -40,7 +40,7 @@ python3 socket_client.py '155.246.x.x'
 
 ### Connect the breadboard to Raspberry Pi 3V3, GND, GPIO 18, GPIO 24, and GPIO 25 using five DuPont male-to-female jump wires
 
-## Lab C: Run Python with Breadboard
+## Lab C: Python
 
 ### Run the following three python programs
 
@@ -50,7 +50,7 @@ sudo python3 manual.py
 
 sudo python3 auto.py
 
-### Copy, edit (replace GMAIL_ADDRESS, RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD), and run the following python programs
+### Copy, edit (replace GMAIL_ADDRESS, RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD), and run the following two python programs
 
 mkdir demo
 
@@ -68,7 +68,7 @@ nano hello.py
 
 sudo python3 hello.py
 
-## Lab D: Run Pypy
+## Lab D: Pypy
 
 cd pypy
 
