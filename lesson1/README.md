@@ -2,68 +2,104 @@
 
 ## Lab A: NOOBS and Wi-Fi
 
-### 1. Download the New Out Of Box Software (NOOBS) in ZIP at https://www.raspberrypi.org/downloads/noobs
+### * Raspberry Pi only supports SDHC (High Capacity up to 32GB) cards with the FAT (File Allocation Table) file system
 
-### 2. Extract the NOOBS ZIP file to a folder and select all items in the folder
+### * On a laptop, download the latest New Out-Of-Box Software (NOOBS) zip file and extract the zip file to a folder
 
-### 3. Copy all items to a 32GB micro Secure Digital High Capacity (SDHC) memory card
+#### * Insert a new or reformatted SD card, go to the folder, select all items, then drag and drop them to the SD card
 
-### 4. Insert the microSDHC memory card to a Raspberry Pi
+#### * Eject the SD card properly, and insert it to Raspberry Pi SD card slot
 
-### 5. Connect the Raspberry Pi to a HDMI monitor, and USB keyboard and mouse
+### * Install NOOBS first at Burchard 123 on the Stevens Wi-Fi network by connecting Raspberry Pi to a monitor, keyboard, and mouse, then to power
 
-### 6. Connect the Raspberry Pi to a micro-USB 5V 2.5A power supply
+#### * Click "Wifi network (w)," select "Stevens," enter Stevens Username and Password — once connected, more operating systems become available
 
-### 7. Click "Wi-Fi network," select network, and enter username and password
+#### * Select "Raspbian Full [RECOMMENDED]" and "English (US) Language and Keyboard"
 
-### 8. Select "Raspbian" and "English (US) Language and Keyboard," click "Install" and "OK"
+#### * Click "Install (i)" and OK — installable without the internet access
 
-### 9. Click "OK" to reboot after "OS(es) Installed Successfully"
+#### * Click OK after "OS(es) Installed Successfully" to reboot
 
-### 10. Click "Next" to set country and change password
-
-### 11. Skip Wi-Fi Network and Updates
-
-### 12. Reboot again
+### * After reboot, change Password (default: raspberry) and skip Wi-Fi and update
 
 ## Lab B: Configuration
 
-### 1. Pull down the Raspberry Pi menu, and select "Preferences" and "Raspberry Pi Configuration"
+### * Click the Raspberry Pi icon at the left of the menu bar to open applications menu > Preferences > Raspberry Pi Configuration > System
 
-### 2. Change Hostname, disable "Auto Login," and enable "Wait for network" under the "System" tab
+#### * Change Hostname (default: raspberrypi)
 
-### 3. Enable SSH/VNC/SPI/I2C/Serial Port/1-Wire, and disable Serial Console under the "Interfaces" tab
+#### * Disable "Auto login" 
 
-### 4. Click "OK" and reboot
+#### * Enable "Network at Boot" to "Wait for network"
+
+#### * Disable underscan if display has a black border
+
+### * Raspberry Pi Configuration > Interfaces
+
+#### * Enable SSH, VNC, SPI, I2C, Serial, and 1-Wire
+
+### * Click OK
+
+### * Click Yes for "Would you like to reboot now?"
 
 ## Lab C: Startup Mailer
 
-### 1. Open a command-line interface (CLI) Terminal
+### * The following steps require the internet access
 
-### 2. Clone IoT repository from GitHub
+### * Click the Terminal icon at the left of the menu bar to open a Terminal and enter 
 
-git clone https://github.com/kevinwlu/iot.git
+$ git clone https://github.com/kevinwlu/iot.git
 
-### 3. Copy startup_mailer.py to the current directory "."
+$ cp ~/iot/lesson1/startup_mailer.py .
 
-cp ~/iot/lesson1/startup_mailer.py .
+#### * "~" represents the directory /home/pi
 
-### 4. Open a Chromium browser and go to https://myaccount.google.com
+$ nano startup_mailer.py
 
-### 5. Click "Sign-in & security" and turn on 2-Step Verification
+### * Change RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD
 
-### 6. Select a second verification step with "Authenticator app"
+#### * My Account > Sign-in & security > Signing in to Google > 
 
-### 7. Generate a 16-digit "App password" with the app as "Mail" and device as "Raspberry Pi" 
+##### * 2-Step Verification > TURN ON > Select a second verification step > Authenticator app (Default)
 
-### 8. Edit startup_mailer.py by changing RECIPIENT_EMAIL, GMAIL_USERNAME, GOOGLE_APP_PASSWORD, and HOSTNAME
+##### * App passwords > Select the app (Mail) and device (Raspberry Pi) > GENERATE
 
-nano startup_mailer.py
+### * Replace HOSTNAME with the new Hostname
 
-### 9. Edit /etc/rc.local as in startup_mailer.txt
+### * Save the file by typing "control-x y enter" and enter
 
-sudo nano /etc/rc.local
+$ sudo nano /etc/rc.local
 
-### 10. Set up Wi-Fi as in wpa_supplicant.txt if necessary
+### * Add the following line above fi at the end as follows
 
-sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+python3 /home/pi/startup_mailer.py
+
+fi
+
+### * Save the file by typing "control-x y enter" and enter
+
+$ sudo reboot
+
+### * Disconnect the monitor, keyboard, and mouse
+
+### * Check RECIPIENT_EMAIL for Hostname IP address
+
+## Lab D: SSH and VNC
+
+### * On a laptop, download VNC Viewer https://www.realvnc.com/download/viewer
+
+### * Open a GNU Bash Terminal (or PuTTY) and enter
+
+$ ssh pi@155.246.x.x
+
+pi@raspberrypi:~ $ vncserver
+
+### * Open VNC Viewer, and enter 155.246.x.x:1, username pi, and password
+
+### * Click the Web Browser icon to launch Chromium
+
+### * Always shutdown Raspberry Pi properly from the applications menu or from the Terminal
+
+$ sudo shutdown -h now
+
+### * Always unplug the power after the Raspberry Pi green LED blinks ten times
