@@ -58,7 +58,7 @@ sudo i2cdetect -y 1
 
 ### 2. On a Terminal, enter the following commands to switch an LED on/off 
 
-pi@iotus:~ $ sudo su
+pi@raspberypi:~ $ sudo su
 
 root@raspberypi:/home/pi# echo 18 > /sys/class/gpio/export
 
@@ -78,7 +78,7 @@ root@raspberypi:/home/pi# exit
 
 exit
 
-pi@iotus:~ $
+pi@raspberypi:~ $
 
 ## Lab E: USB Webcam
 
