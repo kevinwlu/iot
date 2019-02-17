@@ -76,11 +76,11 @@ pi@raspberrypi:~ $ sudo pigpiod -n <CONTROLLING_ADDRESS>
 
 $ sudo pip3 install gpiozero pigpio
 
-$ PIGPIO_ADDR=<ADDRESS> python3 led.py
+$ PIGPIO_ADDR=<CONTROLLED_ADDRESS> python3 led.py
 
 ### 3. If the controlling computer is another Raspberry Pi, go to the iot/lesson3 directory and run the Python program with the environment variables GPIOZERO_PIN_FACTORY set to pigpio since the default pin factory is RPi.GPIO
 
-$ GPIOZERO_PIN_FACTORY=pigpio PIGPIO_ADDR=<ADDRESS> python3 led.py
+$ GPIOZERO_PIN_FACTORY=pigpio PIGPIO_ADDR=<CONTROLLED_ADDRESS> python3 led.py
   
 ## Lab D: 1-Wire
 
