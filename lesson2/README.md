@@ -80,9 +80,41 @@ exit
 
 pi@raspberypi:~ $
 
-## Lab E: USB Webcam
+## Lab E: 1-Wire
 
-#### Connect a USB webcam, install fswebcam, and save images:
+### Connect DS18B20 to Raspberry Pi as follows:
+
+* GND to GND
+
+* VDD to 3.3V or 5V
+
+* DQ to GPIO 4 (the 4th pin from the left of the bottom row) and through a 4.7kΩ resistor to VDD
+
+pi@raspberrypi:~ $ sudo modprobe w1-gpio
+
+pi@raspberrypi:~ $ sudo modprobe w1-therm
+
+pi@raspberrypi:~ $ cd /sys/bus/w1/devices
+
+pi@raspberrypi:/sys/bus/w1/devices $ ls
+
+28-0000064dc293  w1_bus_master1
+
+pi@raspberrypi:/sys/bus/w1/devices $ cd 28*
+
+pi@raspberrypi:/sys/bus/w1/devices/28-0000064dc293 $ cat w1_slave
+
+8f 01 4b 46 7f ff 01 10 14 : crc=14 YES
+
+8f 01 4b 46 7f ff 01 10 14 t=24937
+
+pi@raspberrypi:/sys/bus/w1/devices/28-0000064dc293 $ cd
+
+pi@raspberrypi:~ $ 
+
+## Lab F: USB Webcam
+
+### Connect a USB webcam, install fswebcam, and save images:
 
 sudo apt-get update
 
