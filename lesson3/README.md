@@ -66,7 +66,36 @@ nano hello.py
 
 sudo python3 hello.py
 
-## Lab C: Pypy
+## Lab C: Remote GPIO
+
+### 1. Launch the pigpio daemon using the −n flag to allow connections from a specific IP address of a controlling computer
+
+pi@raspberrypi:~ $ sudo pigpiod -n <CONTROLLING_ADDRESS>
+
+### 2. If the controlling computer uses other Linux distributions, macOS, or Windows, install GPIO Zero and pigpio, then run the Python program with the environment variable PIGPIO_ADDR set to the IP address of the controlled Raspberry Pi
+
+$ sudo pip3 install gpiozero pigpio
+
+$ PIGPIO_ADDR=<ADDRESS> python3 led.py
+
+### 3. If the controlling computer is another Raspberry Pi, go to the iot/lesson3 directory and run the Python program with the environment variables GPIOZERO_PIN_FACTORY set to pigpio since the default pin factory is RPi.GPIO
+
+$ GPIOZERO_PIN_FACTORY=pigpio PIGPIO_ADDR=<ADDRESS> python3 led.py
+  
+## Lab D: 1-Wire
+
+### Connect DS18B20 to Raspberry Pi and run the Python program:
+
+* GND to GND
+
+* VDD to 3.3V or 5V
+
+* DQ to GPIO 4 (the 4th pin from the left of the bottom row) and through a 4.7kΩ resistor to VDD
+
+pi@raspberrypi ~/iot/lesson3 $ sudo python3 temperature.py
+
+
+## Lab E: Pypy
 
 cd pypy
 
@@ -86,7 +115,7 @@ python -m cProfile test.py
 
 python3 -m cProfile test.py
 
-## Lab D: Doxygen
+## Lab F: Doxygen
 
 sudo apt-get install doxygen
 
