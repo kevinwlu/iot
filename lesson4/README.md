@@ -26,6 +26,10 @@ sudo apt-get install python3-mysqldb
 
 sudo mysql_secure_installation
 
+# Install psutil (process and system utilities)
+
+sudo pip3 install −U psutil
+
 # Install Adafruit_Python_DHT library
 
 git clone https://github.com/adafruit/Adafruit_Python_DHT.git
@@ -93,7 +97,3 @@ cd
 mysql -u root -p
 
 sudo service apache2 restart
-
-# Install psutil (process and system utilities)
-
-sudo pip3 install −U psutil
