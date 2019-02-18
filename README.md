@@ -18,6 +18,7 @@
 * <a href="https://sites.google.com/view/ece322" target="_blank">Engineering Design 6</a>
 * <a href="https://sites.google.com/view/ece423" target="_blank">Engineering Design 7/8</a>
 * <a href="https://sites.google.com/view/ece487" target="_blank">Digital System Design</a>
+* <a href="https://sites.google.com/view/ece-ecoes" target="_blank">ECOES: Exploring Career Options in Engineering and Science</a>
 
 pi@raspberrypi:~ $ git clone https://github.com/kevinwlu/iot.git
 
