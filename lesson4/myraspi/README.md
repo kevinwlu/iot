@@ -24,6 +24,8 @@ Enter password: PASSWORD
 
 MariaDB [(none)]> use mysql
 
+MariaDB [mysql]> create user pi@localhost identified by 'PASSWORD';
+
 MariaDB [mysql]> create database myraspi;
 
 MariaDB [mysql]> grant all privileges on myraspi.* to pi@localhost;
