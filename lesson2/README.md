@@ -38,7 +38,7 @@ gcc -o spidev_test spidev_test.c
 
 ./spidev_test -D /dev/spidev0.0
 
-### 2. Connect 3V3, GND, SDA, and SCL using four DuPont female-to-female jump wires with I2C devices (ADXL345 and BMP180), install i2c-tools, and test I2C addresses (53 and 77) in use on an SSH Terminal:
+### 2. Connect I2C devices (ADXL345 and BMP180) using four DuPont female-to-female jump wires with 3V3, GND, SDA, and SCL, install i2c-tools, and test I2C addresses (53 and 77) in use on an SSH Terminal:
 
 sudo apt-get install i2c-tools python-smbus
 
