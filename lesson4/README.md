@@ -26,8 +26,6 @@ sudo apt-get install python3-mysqldb
 
 sudo mysql_secure_installation
 
-sudo mysql -u root -p
-
 # Install psutil (process and system utilities)
 
 sudo pip3 install −U psutil
