@@ -128,9 +128,9 @@ pi@raspberrypi:~/myraspi $ python3 manage.py runserver
 
 # 2019-02-21 17:45:00 to the Dt List at http://127.0.0.1:8000/dt
 
-# 20 to the Tmp List at http://127.0.0.1:8000/tmp
+# 50 to the Tmp List at http://127.0.0.1:8000/tmp
 
-# 50 to the Cpu List at http://127.0.0.1:8000/cpu
+# 20 to the Cpu List at http://127.0.0.1:8000/cpu
 
 # Run native controller service on a separate terminal window
 
