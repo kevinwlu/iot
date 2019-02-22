@@ -28,7 +28,7 @@ sudo mysql_secure_installation
 
 # Install psutil (process and system utilities)
 
-sudo pip3 install −U psutil
+sudo pip3 install psutil
 
 # Install Adafruit_Python_DHT library
 
