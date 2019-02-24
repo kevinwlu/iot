@@ -72,9 +72,13 @@ sudo python3 hello.py
 
 pi@raspberrypi:~ $ sudo pigpiod -n <CONTROLLING_ADDRESS>
 
-### 2. If the controlling computer uses other Linux distributions, macOS, or Windows, install GPIO Zero and pigpio, then run the Python program with the environment variable PIGPIO_ADDR set to the IP address of the controlled Raspberry Pi
+### 2. If the controlling computer uses other Linux distributions, macOS, or Windows, install GPIO Zero and pigpio, git clone the iot repository, go to the iot/lesson3 directory, and run the Python program with the environment variable PIGPIO_ADDR set to the IP address of the controlled Raspberry Pi
 
 $ sudo pip3 install gpiozero pigpio
+
+$ git clone https://github.com/kevinwlu/iot.git
+
+$ cd ~/iot/lesson3
 
 $ PIGPIO_ADDR=<CONTROLLED_ADDRESS> python3 led.py
 
