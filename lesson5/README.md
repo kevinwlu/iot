@@ -2,6 +2,8 @@
 
 # Lab A: Install and run Crossbar.io publish on one tab and subscribe on another
 
+sudo apt-get install python3.pip python.dev libssl-dev
+
 sudo pip3 install -U crossbar==18.4.1
 
 crossbar version
