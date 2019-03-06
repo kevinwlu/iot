@@ -112,6 +112,20 @@ rm -rf wordpress latest.tar.gz
 
 cd
 
+### Create database and grant all privileges
+
+sudo mysql -u root -p
+
+Enter password: PASSWORD
+
+MariaDB [(none)]> use mysql
+
+MariaDB [mysql]> create database wordpress;
+
+MariaDB [mysql]> grant all privileges on wordpress.* to pi@localhost;
+
+MariaDB [mysql]> quit
+
 sudo service apache2 restart
 
 ### Open a Chromium browser and go to http://127.0.0.1 to configure Wordpress
