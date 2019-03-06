@@ -112,10 +112,10 @@ rm -rf wordpress latest.tar.gz
 
 cd
 
-mysql -u root -p
-
 sudo service apache2 restart
 
 ### Open a Chromium browser and go to http://127.0.0.1 to configure Wordpress
 
 nano wp-config.php
+
+### Copy the highlighted text, paste it, save wp-config.php, and run the installation
