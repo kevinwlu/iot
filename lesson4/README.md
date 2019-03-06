@@ -76,9 +76,21 @@ sudo apt-get install apache2
 
 sudo service apache2 restart
 
+### Open a Chromium browser and go to http://127.0.0.1 to view the Apache2 Debian Default Page
+
 sudo apt-get install php7.0
 
+cd /var/www/html
+
+ls
+
+sudo mv index.html index.html.bak
+
+sudo cp ~/iot/lesson4/index.php .
+
 sudo service apache2 restart
+
+### Open a Chromium browser and go to http://127.0.0.1 to view "Hello world!" and the PHP info
 
 ## Build a Linux-Apache-MySQL-PHP (LAMP) web server with WordPress 
 
@@ -103,3 +115,7 @@ cd
 mysql -u root -p
 
 sudo service apache2 restart
+
+### Open a Chromium browser and go to http://127.0.0.1 to configure Wordpress
+
+nano wp-config.php
