@@ -1,6 +1,8 @@
 # <a href="https://goo.gl/bhktY0">Lesson 4</a>: Django and Flask
 
-# Install Django and Django REST framework
+# Labs A and B: Django and Django REST
+
+## Install Django and Django REST framework
 
 pip3 -V
 
@@ -16,7 +18,7 @@ sudo pip3 install -U markdown
 
 sudo pip3 install -U requests
 
-# Install MySQL server and client
+## Install MySQL server and client
 
 sudo apt-get update
 
@@ -26,11 +28,11 @@ sudo apt-get install python3-mysqldb
 
 sudo mysql_secure_installation
 
-# Install psutil (process and system utilities)
+## Install psutil (process and system utilities)
 
 sudo pip3 install psutil
 
-# Install Adafruit_Python_DHT library
+## Install Adafruit_Python_DHT library
 
 git clone https://github.com/adafruit/Adafruit_Python_DHT.git
 
@@ -40,7 +42,7 @@ sudo python3 setup.py install
 
 cd
 
-# Install Adafruit_Python_BMP library
+## Install Adafruit_Python_BMP library
 
 git clone https://github.com/adafruit/Adafruit_Python_BMP.git
 
@@ -50,7 +52,9 @@ sudo python3 setup.py install
 
 cd
 
-# Install Flask-ask and Ngrok
+# Lab C: Flask
+
+## Install Flask-ask and Ngrok
 
 sudo pip3 install -U flask-ask
 
@@ -62,7 +66,9 @@ sudo unzip ngrok-stable-linux-arm.zip
 
 ./ngrok http 5000
 
-# Install Apache web server and PHP
+# Lab D: LAMP
+
+## Install Apache web server and PHP
 
 sudo apt-get update
 
@@ -74,7 +80,7 @@ sudo apt-get install php7.0
 
 sudo service apache2 restart
 
-# Build a Linux-Apache-MySQL-PHP (LAMP) web server with WordPress 
+## Build a Linux-Apache-MySQL-PHP (LAMP) web server with WordPress 
 
 sudo apt-get install php7.0-mysql
 
