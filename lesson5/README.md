@@ -26,7 +26,7 @@ sudo apt-get install mosquitto mosquitto-clients
 
 mosquitto_sub -h localhost -v -t test/topic &
 
-## Publish on another terminal
+## Publish "Hello" on another terminal, and control-c to stop subscribing on the previous terminal
 
 mosquitto_pub -h localhost -t test/topic -m "Hello"
 
