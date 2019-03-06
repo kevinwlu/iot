@@ -24,11 +24,11 @@ crossbar stop
 
 sudo apt-get install mosquitto mosquitto-clients
 
-mosquitto_sub -h localhost -v -t "\$SYS/#"
+mosquitto_sub -h localhost -v -t test/topic &
+
+## Publish on another terminal
 
 mosquitto_pub -h localhost -t test/topic -m "Hello"
-
-mosquitto_sub -h localhost -v -t test/topic &
 
 service mosquitto status
 
