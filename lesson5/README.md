@@ -32,8 +32,6 @@ service mosquitto status
 
 netstat -tln
 
-sudo service mosquitto stop
-
 # Install and run Paho to publish on one terminal and subscribe on another
 
 sudo pip3 install -U paho-mqtt
