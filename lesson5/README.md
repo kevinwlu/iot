@@ -24,6 +24,8 @@ crossbar stop
 
 sudo apt-get install mosquitto mosquitto-clients
 
+mosquitto_sub -h localhost -v -t "\$SYS/#"
+
 mosquitto_sub -h localhost -v -t test/topic &
 
 ## Publish "Hello" on another terminal, and control-c to stop subscribing on the previous terminal
