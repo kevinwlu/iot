@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/shPybk">Lesson 5</a>: Crossbar.io and Paho
 
-# Lab A: Install and run Crossbar.io publish on one tab and subscribe on another
+# Lab A: Install and run Crossbar.io to subscribe on one tab and publish on another
 
 sudo apt-get install python3.pip python.dev libssl-dev
 
@@ -20,7 +20,7 @@ crossbar start
 
 crossbar stop
 
-# Lab B: Install and run Mosquitto and Paho to publish on one terminal and subscribe on another
+# Lab B: Install and run Mosquitto and Paho to subscribe on one terminal and publish on another
 
 sudo apt-get install mosquitto mosquitto-clients
 
