@@ -74,7 +74,7 @@ $ sudo nano /etc/rc.local
 
 ### 6. Add the following line above fi at the end as follows
 
-python3 /home/pi/startup_mailer.py
+  python3 /home/pi/startup_mailer.py
 
 fi
 
