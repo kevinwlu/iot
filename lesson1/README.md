@@ -20,7 +20,7 @@
 
 * Click OK after "OS(es) Installed Successfully" to reboot
 
-### 4. After reboot, change Password (default: raspberry) and skip Wi-Fi and update
+### 4. After reboot, change Password (default: raspberry) and skip both Wi-Fi and update
 
 ## Lab B: Configuration
 
@@ -36,7 +36,9 @@
 
 ### 2. Raspberry Pi Configuration > Interfaces
 
-* Enable SSH, VNC, SPI, I2C, Serial, and 1-Wire
+* Enable SSH, VNC, SPI, I2C, Serial Port, 1-Wire, and Remote GPIO
+
+* Disable Serial Console
 
 ### 3. Click OK
 
