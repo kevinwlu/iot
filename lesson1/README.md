@@ -32,7 +32,7 @@
 
 * Enable "Network at Boot" to "Wait for network"
 
-* Disable underscan if display has a black border
+* Disable overscan if there is a black border on the display
 
 ### 2. Raspberry Pi Configuration > Interfaces
 
