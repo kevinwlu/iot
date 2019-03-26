@@ -20,7 +20,11 @@
 * <a href="https://sites.google.com/view/ece487" target="_blank">Digital System Design</a>
 * <a href="https://sites.google.com/view/ece-ecoes" target="_blank">ECOES: Exploring Career Options in Engineering and Science</a>
 
+## Clone the IoT repository on a Raspberry Pi
+
 pi@raspberrypi:~ $ git clone https://github.com/kevinwlu/iot.git
+
+## Update the IoT repository on a Raspberry Pi
 
 pi@raspberrypi:~ $ cd iot
 
