@@ -6,6 +6,8 @@ sudo apt-get install python3.pip python.dev libssl-dev
 
 sudo pip3 install -U crossbar==18.4.1
 
+sudo pip3 install -U autobahn==18.4.1
+
 crossbar version
 
 crossbar init --appdir hello
