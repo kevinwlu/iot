@@ -26,7 +26,7 @@ crossbar stop
 
 sudo apt-get install mosquitto mosquitto-clients
 
-mosquitto_sub -h localhost -v -t "\$SYS/#"
+mosquitto_sub -h localhost -v -t "\\\$SYS/#"
 
 ## Press control-c to stop mosquitto_sub
 
