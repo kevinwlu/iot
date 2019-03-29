@@ -72,7 +72,7 @@ $ nano startup_mailer.py
 
 $ sudo nano /etc/rc.local
 
-### 6. Add the following line above fi at the end as follows
+### 6. Add the following line with two-space indent above fi at the end as follows
 
 &nbsp;  python3 /home/pi/startup_mailer.py
 
