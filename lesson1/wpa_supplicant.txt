@@ -6,10 +6,20 @@ network={
         ssid="Stevens"
         key_mgmt=WPA-EAP
         identity="STEVENS_LOGIN"
-        password="PASSWORD"
+#        password="PASSWORD"
+#echo -n 'PASSWORD' | iconv -t utf16le | openssl md4
+#(stdin)= xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+        password=hash:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 }
 
 network={
         ssid="SSID"
         psk="PRE_SHARED_KEY"
 }
+
+#wpa_passphrase SSID Password
+#network={
+#        ssid="SSID"
+#        #psk="Password"
+#        psk=b99d2c0fb66194f93ad52b71051e1095dc76e12529321334b3feb18332608eb7
+#}
