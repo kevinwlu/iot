@@ -36,7 +36,10 @@ while True:
     print('CPU Usage in %: '+str(cpu))
     print('Temperature in C: ' +str(tmp))
     try:
-        worksheet.append_row((dat, cpu, tmp))
+        worksheet.append_row((str(dat), cpu, tmp))
+#        worksheet.append_row((dat, cpu, tmp))
+# gspread==0.6.2
+# https://github.com/burnash/gspread/issues/511  
     except:
         print('Append error, logging in again')
         worksheet = None
