@@ -2,7 +2,9 @@
 
 # Install and run pyang on a Raspberry Pi
 
-sudo pip3 install -U pyang
+sudo apt-get install libxml2-dev libxslt-dev
+
+sudo pip3 install -U lxml pyang
 
 cp ~/iot/lesson9/intrusiondetection.yang ~/demo
 
