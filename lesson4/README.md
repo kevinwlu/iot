@@ -52,6 +52,16 @@ sudo python3 setup.py install
 
 cd
 
+## Install Adafruit_Python_ADXL345 library
+
+git clone https://github.com/adafruit/Adafruit_Python_ADXL345.git
+
+cd Adafruit_Python_ADXL345
+
+sudo python3 setup.py install
+
+cd
+
 # Lab C: Flask
 
 ## Install Flask-ask and Ngrok
