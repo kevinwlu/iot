@@ -1,8 +1,10 @@
 # 2019 Spring
 
 * Abrar Alam, Ayushi Chaturvedi, and Shreyansh Sharma
-* Kyra DiFrancesco, "Peer-to-Peer Databases for the Decentralized Web," OrbitDB https://github.com/orbitdb/orbit-db
+* Kyra DiFrancesco, "OrbitDB Tested at Scale with MQTT Functionality Added," https://github.com/KyraDiF/EE629_final_project
+* Joshua Feldman, "Node.js-Particle," https://github.com/jfeldman24/Node.js-Particle
 * Jonathan Fishkin and Omar Elshayeb, "IOT-Project," https://github.com/TheFish1996/IOT-Project
+* Brett Holtzman, "Lidar_Data_Google_Sheets," https://github.com/BrettHoltzman/Lidar_Data_Google_Sheets
 * Sean Jones, "iot_led_game," https://github.com/512seanjones/iot_led_game
 * Satya Pasupuleti and Vikram Arunkumar, "gamerstrip," https://github.com/SatyaSujitPasupuleti/gamerstrip
 
