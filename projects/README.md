@@ -1,8 +1,10 @@
 # 2019 Spring
 
+* Abrar Alam, Ayushi Chaturvedi, and Shreyansh Sharma
 * Kyra DiFrancesco, "Peer-to-Peer Databases for the Decentralized Web," OrbitDB https://github.com/orbitdb/orbit-db
 * Jonathan Fishkin and Omar Elshayeb, "IOT-Project," https://github.com/TheFish1996/IOT-Project
 * Sean Jones, "iot_led_game," https://github.com/512seanjones/iot_led_game
+* Satya Pasupuleti and Vikram Arunkumar, "gamerstrip," https://github.com/SatyaSujitPasupuleti/gamerstrip
 
 # 2018 Fall
 
