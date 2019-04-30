@@ -11,7 +11,7 @@
 
 # 2018 Fall
 
-* Alhussain Almarhabi, "Different Languages Font Recognition Via Raspberry Pi," https://github.com/code-Eng
+* Alhussain Almarhabi, "Different Languages Font Recognition via Raspberry Pi," https://github.com/code-Eng
 * Liyan Chen, "Novel Classifier," https://github.com/lly00412/NovelClassifier
 * Tande Chen and Kai Zhang, "Intelligent Surveillance," https://github.com/zjzk99/EE-800-L
 * Tiancheng Gai, "IoT Smart Home," https://github.com/tcgai
