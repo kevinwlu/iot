@@ -1,12 +1,13 @@
 # 2019 Spring
 
 * Abrar Alam, Ayushi Chaturvedi, and Shreyansh Sharma
+* Vikram Arunkumar and Satya Pasupuleti, "Gamerstrip," https://github.com/SatyaSujitPasupuleti/gamerstrip
 * Kyra DiFrancesco, "OrbitDB Tested at Scale with MQTT Functionality Added," https://github.com/KyraDiF/EE629_final_project
 * Joshua Feldman, "Node.js-Particle," https://github.com/jfeldman24/Node.js-Particle
-* Jonathan Fishkin and Omar Elshayeb, "IOT-Project," https://github.com/TheFish1996/IOT-Project
-* Brett Holtzman, "Lidar_Data_Google_Sheets," https://github.com/BrettHoltzman/Lidar_Data_Google_Sheets
-* Sean Jones, "iot_led_game," https://github.com/512seanjones/iot_led_game
-* Satya Pasupuleti and Vikram Arunkumar, "gamerstrip," https://github.com/SatyaSujitPasupuleti/gamerstrip
+* Jonathan Fishkin and Omar Elshayeb, "Alexa Integration with Django REST Framework," https://github.com/TheFish1996/IOT-Project
+* Brett Holtzman, "Lidar Data Google Sheets," https://github.com/BrettHoltzman/Lidar_Data_Google_Sheets
+* Sean Jones, "IoT LED Game," https://github.com/512seanjones/iot_led_game
+* Jiangchuan Li, "An Alexa Smart Speaker Based on on Raspberry Pi," https://github.com/JCLiLC/EE629-Project-Pi-Alexa
 
 # 2018 Fall
 
