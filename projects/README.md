@@ -1,9 +1,13 @@
 # 2019 Spring
 
+* Abrar Alam, Ayushi Chaturvedi, and Shreyansh Sharma, "BitCoin Price Notification and Analysis," ttps://github.com/AyushiCh/Bitcoin-Price-Notification-and-Analysis-
 * Vikram Arunkumar and Satya Pasupuleti, "Gamerstrip," https://github.com/SatyaSujitPasupuleti/gamerstrip
+* Thomas Burrell, "Seven Segment Display Counter," https://github.com/tburrell7/Seven-Segment-Display-Counter#seven-segment-display-counter
 * Kyra DiFrancesco, "OrbitDB Tested at Scale with MQTT Functionality Added," https://github.com/KyraDiF/EE629_final_project
 * Joshua Feldman, "Node.js-Particle," https://github.com/jfeldman24/Node.js-Particle
 * Jonathan Fishkin and Omar Elshayeb, "Alexa Integration with Django REST Framework," https://github.com/TheFish1996/IOT-Project
+* David Gensheimer, "DoorbellCam," https://github.com/dgenshei/doorbellcam-iot-project
+* Mingju He, "Raspberry Pi Object Detection," https://github.com/SDxs5/raspberry_pi_object_detection
 * Brett Holtzman, "Lidar Data Google Sheets," https://github.com/BrettHoltzman/Lidar_Data_Google_Sheets
 * Sean Jones, "IoT LED Game," https://github.com/512seanjones/iot_led_game
 * Jiangchuan Li, "An Alexa Smart Speaker Based on on Raspberry Pi," https://github.com/JCLiLC/EE629-Project-Pi-Alexa
