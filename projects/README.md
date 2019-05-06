@@ -8,6 +8,8 @@
 * Sean Jones, "IoT LED Game," https://github.com/512seanjones/iot_led_game
 * Jiangchuan Li, "An Alexa Smart Speaker Based on on Raspberry Pi," https://github.com/JCLiLC/EE629-Project-Pi-Alexa
 * Yuqing Luo, "Flask Microblog," https://github.com/homsluo/Flask_Microblog
+* Yuanjie Shi, "Design an Auto-Drive Car based on a Rasberry Pi," https://github.com/yqcqsyj/auto-drive-car
+* Ruochao Weng, "People's Concerns of Two Different Regions," https://github.com/wruochao19/People_Concern
 * Yifang Yuan, "Raspberry Pi as Download Server," https://github.com/YifangY/IoTProject2019
 
 # 2018 Fall
