@@ -10,6 +10,7 @@
 * Mingju He, "Raspberry Pi Object Detection," https://github.com/SDxs5/raspberry_pi_object_detection
 * Brett Holtzman, "Lidar Data Google Sheets," https://github.com/BrettHoltzman/Lidar_Data_Google_Sheets
 * Sean Jones, "IoT LED Game," https://github.com/512seanjones/iot_led_game
+* Bowen Li, "Amazon Bestseller Classification," https://github.com/Millymiss/EE-629-iot-Finalproject
 * Jiangchuan Li, "An Alexa Smart Speaker Based on on Raspberry Pi," https://github.com/JCLiLC/EE629-Project-Pi-Alexa
 * Yuqing Luo, "Flask Microblog," https://github.com/homsluo/Flask_Microblog
 * Yuanjie Shi, "Design an Auto-Drive Car based on a Rasberry Pi," https://github.com/yqcqsyj/auto-drive-car
