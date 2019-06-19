@@ -10,6 +10,7 @@
 * <a href="https://goo.gl/6BsKOa" target="_blank">Lesson 7</a>: Cloud Platforms
 * <a href="https://goo.gl/ibFiqR" target="_blank">Lesson 8</a>: Data Analysis
 * <a href="https://goo.gl/RIzzfl" target="_blank">Lesson 9</a>: NETCONF and YANG
+* <a href="https://docs.google.com/presentation/d/1t4YSlCzr2ADTV10dcQIOL0OybbGUu3zZ5oSJCcsuX-0" target="_blank">Lesson 10</a>: Blockchain
 * <a href="http://www.hands-on-books-series.com" target="_blank">References</a>
 * <a href="https://github.com/kevinwlu/iot/tree/master/projects" target="_blank">Projects</a>
 * <a href="https://goo.gl/6EWVZb" target="_blank">IoT Talk</a>
