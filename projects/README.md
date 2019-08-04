@@ -1,6 +1,6 @@
 # 2019 Spring
 
-* Abrar Alam, Ayushi Chaturvedi, and Shreyansh Sharma, "BitCoin Price Notification and Analysis," ttps://github.com/AyushiCh/Bitcoin-Price-Notification-and-Analysis-
+* Abrar Alam, Ayushi Chaturvedi, and Shreyansh Sharma, "BitCoin Price Notification and Analysis," https://github.com/AyushiCh/Bitcoin-Price-Notification-and-Analysis-
 * Vikram Arunkumar and Satya Pasupuleti, "Gamerstrip," https://github.com/SatyaSujitPasupuleti/gamerstrip
 * Thomas Burrell, "Seven Segment Display Counter," https://github.com/tburrell7/Seven-Segment-Display-Counter#seven-segment-display-counter
 * Kyra DiFrancesco, "OrbitDB Tested at Scale with MQTT Functionality Added," https://github.com/KyraDiF/EE629_final_project
