@@ -1,3 +1,7 @@
+# 2019 Fall
+
+* 
+
 # 2019 Spring
 
 * Abrar Alam, Ayushi Chaturvedi, and Shreyansh Sharma, "BitCoin Price Notification and Analysis," https://github.com/AyushiCh/Bitcoin-Price-Notification-and-Analysis-
