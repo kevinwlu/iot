@@ -19,5 +19,7 @@ if [ "$_IP" ]; then
  printf "My IP address is %s\n" "$_IP"
  python3 /home/pi/startup_mailer.py        <<<------- ADD THIS LINE!!!
 fi
-
+if grep -q "RunServeoSSHOnStartup=1" /home/pi/startup.cnf; then
+  sudo /home/pi/sshscript.sh &
+fi
 exit 0
