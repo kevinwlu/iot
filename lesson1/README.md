@@ -42,9 +42,7 @@
 
     ...
     
-    if grep -q "RunServeoSSHOnStartup=1" /home/pi/startup.cnf; then
-      
-      sudo /home/pi/sshscript.sh & 
+    if grep -q "RunServeoSSHOnStartup=1" /home/pi/startup.cnf; then sudo /home/pi/sshscript.sh & 
     
     fi
     
