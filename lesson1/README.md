@@ -1,5 +1,15 @@
 # <a href="https://goo.gl/4aXo9L">Lesson 1</a>: Overview
 
+## VNC Connect
+
+* VNC Connect is included with the latest NOOBS for non-commercial use
+
+* Sign up for a free RealVNC https://www.realvnc.com account (need to be over 16) by an email address
+
+* On the Raspberry Pi desktop, click the VNC Server icon at the right of the menu bar and sign in to enable cloud connectivity
+
+* On a laptop, sign in to VNC Viewer
+
 ## Serveo Port Forwarder
 
 * On a Raspberry Pi, copy two files
