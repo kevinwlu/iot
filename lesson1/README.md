@@ -23,10 +23,15 @@
     pi@iotus:~ $ sudo nano sshscript.sh
 
     #!/bin/bash
+    
     while :
+    
     do
+    
     ssh -R UNIQUE_NAME:22:localhost:22 serveo.net
+    
     sleep 10
+    
     done
 
     pi@iotus:~ $ chmod +x sshscript.sh && sshscript.sh
@@ -36,9 +41,13 @@
     pi@iotus:~ $ sudo nano /etc/rc.local
 
     ...
+    
     if grep -q "RunServeoSSHOnStartup=1" /home/pi/startup.cnf; then
+      
       sudo /home/pi/sshscript.sh & 
+    
     fi
+    
     exit 0
 
 * On a laptop, run the following command
