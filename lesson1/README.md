@@ -14,9 +14,9 @@
 
 * On a Raspberry Pi, copy two files
 
-pi@iotus:~ $ cp ~/iot/lesson1/startup.cnf .
+    pi@iotus:~ $ cp ~/iot/lesson1/startup.cnf .
 
-pi@iotus:~ $ cp ~/iot/lesson1/sshscript.sh .
+    pi@iotus:~ $ cp ~/iot/lesson1/sshscript.sh .
 
 * Edit sshscript.sh
 
