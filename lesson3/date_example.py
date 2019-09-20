@@ -8,6 +8,6 @@ print('Year: ' + now.strftime('%Y'))
 midterm = date(2019, 10, 15)
 final = date(2019, 12, 2)
 timediff = midterm - now
-print('{:d} days to Midterm Exam'.format(timediff.days))
+print('{:d} days to Midterm'.format(timediff.days))
 timediff = final - now
-print('{:d} days to Final Exam'.format(timediff.days))
+print('{:d} days to Final'.format(timediff.days))
