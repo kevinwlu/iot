@@ -30,7 +30,7 @@ python3 address.py '40.7448397, -74.02531776875'
 
 python3 system_info.py
 
-### Run socket server from a Terminal, and run socket client from another Terminal of the same Raspberry Pi or a different one on the same subnetwork
+### Run socket server from a Terminal, and run socket client from ANOTHER Terminal of the same Raspberry Pi or a different one on the same subnetwork
 
 python3 socket_server.py
 
