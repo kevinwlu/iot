@@ -76,15 +76,15 @@ pi@raspberrypi:~/stevens/myapp/templates/myapp $ cp ~/iot/lesson4/stevens/index.
 
 pi@raspberrypi:~/stevens/myapp/templates/myapp $ cd ~/stevens/myapp/static
 
-pi@raspberrypi:~/stevens/myapp/static $ cp ~/iot/lesson4/stevens/favicon.ico .
+pi@raspberrypi:~/stevens/myapp/static $ cp ~/iot/lesson4/static/favicon.ico .
 
 pi@raspberrypi:~/stevens/myapp/static $ mkdir myapp
 
 pi@raspberrypi:~/stevens/myapp/static $ cd myapp
 
-pi@raspberrypi:~/stevens/myapp/static/myapp $ cp ~/iot/lesson4/stevens/*css .
+pi@raspberrypi:~/stevens/myapp/static/myapp $ cp ~/iot/lesson4/static/*css .
 
-pi@raspberrypi:~/stevens/myapp/static/myapp $ cp ~/iot/lesson4/stevens/*js .
+pi@raspberrypi:~/stevens/myapp/static/myapp $ cp ~/iot/lesson4/static/*js .
 
 pi@raspberrypi:~/stevens/myapp/static/myapp $ cd ~/stevens
 
