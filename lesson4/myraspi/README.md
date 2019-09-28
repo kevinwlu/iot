@@ -70,15 +70,15 @@ pi@raspberrypi:~/myraspi/myapp/templates/myapp $ cp ~/iot/lesson4/myraspi/index.
 
 pi@raspberrypi:~/myraspi/myapp/templates/myapp $ cd ~/myraspi/myapp/static
 
-pi@raspberrypi:~/myraspi/myapp/static $ cp ~/iot/lesson4/myraspi/favicon.ico .
+pi@raspberrypi:~/myraspi/myapp/static $ cp ~/iot/lesson4/static/favicon.ico .
 
 pi@raspberrypi:~/myraspi/myapp/static $ mkdir myapp
 
 pi@raspberrypi:~/myraspi/myapp/static $ cd myapp
 
-pi@raspberrypi:~/myraspi/myapp/static/myapp $ cp ~/iot/lesson4/myraspi/*css .
+pi@raspberrypi:~/myraspi/myapp/static/myapp $ cp ~/iot/lesson4/static/*css .
 
-pi@raspberrypi:~/myraspi/myapp/static/myapp $ cp ~/iot/lesson4/myraspi/*js .
+pi@raspberrypi:~/myraspi/myapp/static/myapp $ cp ~/iot/lesson4/static/*js .
 
 pi@raspberrypi:~/myraspi/myapp/static/myapp $ cd ~/myraspi
 
