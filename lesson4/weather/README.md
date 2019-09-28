@@ -74,15 +74,15 @@ pi@raspberrypi:~/weather/myapp/templates/myapp $ cp ~/iot/lesson4/weather/index.
 
 pi@raspberrypi:~/weather/myapp/templates/myapp $ cd ~/weather/myapp/static
 
-pi@raspberrypi:~/weather/myapp/static $ cp ~/iot/lesson4/weather/favicon.ico .
+pi@raspberrypi:~/weather/myapp/static $ cp ~/iot/lesson4/static/favicon.ico .
 
 pi@raspberrypi:~/weather/myapp/static $ mkdir myapp
 
 pi@raspberrypi:~/weather/myapp/static $ cd myapp
 
-pi@raspberrypi:~/weather/myapp/static/myapp $ cp ~/iot/lesson4/weather/*css .
+pi@raspberrypi:~/weather/myapp/static/myapp $ cp ~/iot/lesson4/static/*css .
 
-pi@raspberrypi:~/weather/myapp/static/myapp $ cp ~/iot/lesson4/weather/*js .
+pi@raspberrypi:~/weather/myapp/static/myapp $ cp ~/iot/lesson4/static/*js .
 
 pi@raspberrypi:~/weather/myapp/static/myapp $ cd ~/weather
 
