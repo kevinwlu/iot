@@ -18,11 +18,11 @@ sudo pip3 install -U markdown
 
 sudo pip3 install -U requests
 
-## Install MySQL server and client
+## Install MariaDB server and client
 
 sudo apt-get update
 
-sudo apt-get install mysql-server mysql-client
+sudo apt-get install mariadb-server mariadb-client
 
 sudo apt-get install python3-mysqldb
 
