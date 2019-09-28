@@ -88,7 +88,7 @@ sudo service apache2 restart
 
 ### Open a Chromium browser and go to http://127.0.0.1 to view the Apache2 Debian Default Page
 
-sudo apt-get install php7.0
+sudo apt-get install php7.3
 
 cd /var/www/html
 
@@ -104,7 +104,7 @@ sudo service apache2 restart
 
 ## Build a Linux-Apache-MySQL-PHP (LAMP) web server with WordPress 
 
-sudo apt-get install php7.0-mysql
+sudo apt-get install php7.3-mysql
 
 cd /var/www/html
 
