@@ -14,13 +14,13 @@
 
 * On a Raspberry Pi, copy two files
 
-    pi@iotus:~ $ cp ~/iot/lesson1/startup.cnf .
+    pi@UNIQUE_NAME:~ $ cp ~/iot/lesson1/startup.cnf .
 
-    pi@iotus:~ $ cp ~/iot/lesson1/sshscript.sh .
+    pi@UNIQUE_NAME:~ $ cp ~/iot/lesson1/sshscript.sh .
 
 * Edit sshscript.sh
 
-    pi@iotus:~ $ sudo nano sshscript.sh
+    pi@UNIQUE_NAME:~ $ sudo nano sshscript.sh
 
     #!/bin/bash
     
@@ -34,7 +34,7 @@
     
     done
 
-    pi@iotus:~ $ chmod +x sshscript.sh && sshscript.sh
+    pi@UNIQUE_NAME:~ $ chmod +x sshscript.sh && sshscript.sh
 
 * Edit /etc/rc.local
 
