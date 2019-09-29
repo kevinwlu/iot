@@ -140,9 +140,7 @@ $ sudo chmod +x /lib/systemd/system/rc-local.service
 
 $ sudo reboot
 
-### 9. Disconnect the monitor, keyboard, and mouse
-
-### 10. Check RECIPIENT_EMAIL for Hostname IP address
+### 9. Disconnect the monitor, keyboard, and mouse and check RECIPIENT_EMAIL for Hostname IP address
 
 ## Lab D: SSH and VNC
 
