@@ -96,11 +96,9 @@
 
 ### 4. Click Yes for "Would you like to reboot now?"
 
-## Lab C: Startup Mailer
+## Lab C: Startup Mailer - the following steps require the internet access
 
-### 1. The following steps require the internet access
-
-### 2. Click the Terminal icon at the left of the menu bar to open a Terminal and enter 
+### 1. Click the Terminal icon at the left of the menu bar to open a Terminal and enter 
 
 $ git clone https://github.com/kevinwlu/iot.git
 
@@ -110,7 +108,7 @@ $ cp ~/iot/lesson1/startup_mailer.py .
 
 $ nano startup_mailer.py
 
-### 3. Change RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD
+### 2. Change RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD
 
 * My Account > Sign-in & security > Signing in to Google > 
 
@@ -118,29 +116,29 @@ $ nano startup_mailer.py
 
 * App passwords > Select the app (Mail) and device (Raspberry Pi) > GENERATE
 
-### 4. Replace HOSTNAME with the new Hostname
+### 3. Replace HOSTNAME with the new Hostname
 
-### 5. Save the file by typing "control-x y enter" and enter
+### 4. Save the file by typing "control-x y enter" and enter
 
 $ sudo nano /etc/rc.local
 
-### 6. Add the following line with two-space indent above fi at the end as follows
+### 5. Add the following line with two-space indent above fi at the end as follows
 
 &nbsp;  python3 /home/pi/startup_mailer.py
 
 fi
 
-### 7. Make /lib/systemd/system/rc-local.service executable if it's not
+### 6. Make /lib/systemd/system/rc-local.service executable if it's not
 
 $ ls -l /lib/systemd/system/rc-local.service
 
 $ sudo chmod +x /lib/systemd/system/rc-local.service
 
-### 8. Save the file by typing "control-x y enter" and enter
+### 7. Save the file by typing "control-x y enter" and enter
 
 $ sudo reboot
 
-### 9. Disconnect the monitor, keyboard, and mouse and check RECIPIENT_EMAIL for Hostname IP address
+### 8. Disconnect the monitor, keyboard, and mouse and check RECIPIENT_EMAIL for Hostname IP address
 
 ## Lab D: SSH and VNC
 
