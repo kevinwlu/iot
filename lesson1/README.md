@@ -130,13 +130,19 @@ $ sudo nano /etc/rc.local
 
 fi
 
-### 7. Save the file by typing "control-x y enter" and enter
+### 7. Make /lib/systemd/system/rc-local.service executable if it's not
+
+$ ls -l /lib/systemd/system/rc-local.service
+
+$ sudo chmod +x /lib/systemd/system/rc-local.service
+
+### 8. Save the file by typing "control-x y enter" and enter
 
 $ sudo reboot
 
-### 8. Disconnect the monitor, keyboard, and mouse
+### 9. Disconnect the monitor, keyboard, and mouse
 
-### 9. Check RECIPIENT_EMAIL for Hostname IP address
+### 10. Check RECIPIENT_EMAIL for Hostname IP address
 
 ## Lab D: SSH and VNC
 
