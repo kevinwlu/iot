@@ -26,6 +26,8 @@ sudo apt-get install mariadb-server mariadb-client
 
 sudo apt-get install python3-mysqldb
 
+sudo pip3 install -U mysqlclient
+
 sudo mysql_secure_installation
 
 ## Install psutil (process and system utilities)
