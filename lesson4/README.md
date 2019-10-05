@@ -76,8 +76,6 @@ sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 
 sudo unzip ngrok-stable-linux-arm.zip
 
-./ngrok http 5000
-
 # Lab D: LAMP
 
 ## Install Apache web server and PHP
