@@ -1,14 +1,16 @@
 # <a href="https://goo.gl/shPybk">Lesson 5</a>: Crossbar.io and Paho
 
-# Install Docker on a Raspberry Pi
+### Install Docker on a Raspberry Pi
 
 curl -sSL get.docker.com | sh
 
-# Add pi to the Docker Group as a non-root user (Control-d to logout and reconnect via SSH for this to take effect)
+### Add pi to the Docker Group as a non-root user (Control-d to logout and reconnect via SSH for this to take effect)
 
 sudo usermod -aG docker pi
 
-# Run Docker images designed to work on ARM under the prefix armhf
+logout
+
+### Run Docker images designed to work on ARM under the prefix armhf
 
 docker run -it armhf/alpine /bin/sh
 
@@ -22,7 +24,7 @@ exit
 
 docker run armhf/alpine date
 
-# Build and run new image from Dockerfile
+### Build and run new image from Dockerfile
 
 docker images
 
@@ -36,7 +38,7 @@ docker run curl_docker
 
 docker images
 
-# Lab A: Install and run Crossbar.io to subscribe on one tab and publish on another
+## Lab A: Install and run Crossbar.io to subscribe on one tab and publish on another
 
 sudo apt-get install python3.pip python.dev libssl-dev
 
@@ -58,17 +60,17 @@ crossbar start
 
 crossbar stop
 
-# Lab B: Install and run Mosquitto and Paho to subscribe on one terminal and publish on another
+## Lab B: Install and run Mosquitto and Paho to subscribe on one terminal and publish on another
 
 sudo apt-get install mosquitto mosquitto-clients
 
 mosquitto_sub -h localhost -v -t "\\\$SYS/#"
 
-## Press control-c to stop mosquitto_sub
+### Press control-c to stop mosquitto_sub
 
 mosquitto_sub -h localhost -v -t test/topic &
 
-## Publish "Hello" on another terminal
+### Publish "Hello" on another terminal
 
 mosquitto_pub -h localhost -t test/topic -m "Hello"
 
