@@ -1,8 +1,8 @@
 # <a href="https://goo.gl/bhktY0">Lesson 4</a>: Django and Flask
 
-# Labs A and B: Django and Django REST
+## Labs A and B: Django and Django REST
 
-## Install Django and Django REST framework
+### Install Django and Django REST framework
 
 pip3 -V
 
@@ -18,7 +18,7 @@ sudo pip3 install -U markdown
 
 sudo pip3 install -U requests
 
-## Install MariaDB server and client
+### Install MariaDB server and client
 
 sudo apt-get update
 
@@ -30,11 +30,11 @@ sudo pip3 install -U mysqlclient
 
 sudo mysql_secure_installation
 
-## Install psutil (process and system utilities)
+### Install psutil (process and system utilities)
 
 sudo pip3 install -U psutil
 
-## Install Adafruit_Python_DHT library
+### Install Adafruit_Python_DHT library
 
 git clone https://github.com/adafruit/Adafruit_Python_DHT.git
 
@@ -44,7 +44,7 @@ sudo python3 setup.py install
 
 cd
 
-## Install Adafruit_Python_BMP library
+### Install Adafruit_Python_BMP library
 
 git clone https://github.com/adafruit/Adafruit_Python_BMP.git
 
@@ -54,7 +54,7 @@ sudo python3 setup.py install
 
 cd
 
-## Install Adafruit_Python_ADXL345 library
+### Install Adafruit_Python_ADXL345 library
 
 git clone https://github.com/adafruit/Adafruit_Python_ADXL345.git
 
@@ -64,9 +64,9 @@ sudo python3 setup.py install
 
 cd
 
-# Lab C: Flask
+## Lab C: Flask
 
-## Install Flask-ask and Ngrok
+### Install Flask-ask and Ngrok
 
 sudo pip3 install -U flask-ask
 
@@ -76,9 +76,9 @@ sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 
 sudo unzip ngrok-stable-linux-arm.zip
 
-# Lab D: LAMP
+## Lab D: LAMP
 
-## Install Apache web server and PHP
+### Install Apache web server and PHP
 
 sudo apt-get update
 
@@ -102,7 +102,7 @@ sudo service apache2 restart
 
 ### Open a Chromium browser and go to http://127.0.0.1 to view "Hello world!" and the PHP info
 
-## Build a Linux-Apache-MySQL-PHP (LAMP) web server with WordPress 
+### Build a Linux-Apache-MySQL-PHP (LAMP) web server with WordPress 
 
 sudo apt-get install php7.3-mysql
 
