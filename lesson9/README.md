@@ -33,39 +33,3 @@ pinta intrusiondetection.png
 gimp -h
 
 gimp -a intrusiondetection.png
-
-# Install Docker on a Raspberry Pi
-
-curl -sSL get.docker.com | sh
-
-# Add pi to the Docker Group as a non-root user (Control-d to logout and reconnect via SSH for this to take effect)
-
-sudo usermod -aG docker pi
-
-# Run Docker images designed to work on ARM under the prefix armhf
-
-docker run -it armhf/alpine /bin/sh
-
-cat /etc/os-release
-
-echo "Hi, this is a tiny Linux distribution!" | base64
-
-echo "SGksIHRoaXMgaXMgYSB0aW55IExpbnV4IGRpc3RyaWJ1dGlvbiEK" | base64 -d
-
-exit
-
-docker run armhf/alpine date
-
-# Build and run new image from Dockerfile
-
-docker images
-
-cp ~/iot/lesson9/Dockerfile ~/demo
-
-cd ~/demo
-
-docker build -t curl_docker .
-
-docker run curl_docker
-
-docker images
