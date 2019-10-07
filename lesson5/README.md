@@ -38,27 +38,29 @@ docker run curl_docker
 
 docker images
 
-## Lab A: Install and run Crossbar.io to subscribe on one tab and publish on another
+## Lab A: Crossbar.io
 
-sudo apt-get install python3.pip python.dev libssl-dev
+### Run Crossbar.io router on Terminal 1
 
-sudo pip3 install -U crossbar==18.4.1
+git clone https://github.com/crossbario/crossbar-examples
 
-sudo pip3 install -U autobahn==18.4.1
+cd crossbar-examples/getting-started
 
-crossbar version
+docker pull crossbario/crossbar-armhf
 
-crossbar init --appdir hello
+docker run -v $PWD:/node -u 0 --rm --name=crossbar -it -p 8080:8080 crossbario/crossbar-armhf
 
-cd ~/hello/web
+### Run publish-client on Terminal 2
 
-cp ~/iot/lesson5/favicon.ico .
+cd crossbar-examples/getting-started/1.hello-world/
 
-cd ~/hello
+python3 client_component_publish.py
 
-crossbar start
+### Run subscribe-client on Terminal 3
 
-crossbar stop
+cd crossbar-examples/getting-started/1.hello-world/
+
+python3 client_component_subscribe.py
 
 ## Lab B: Install and run Mosquitto and Paho to subscribe on one terminal and publish on another
 
