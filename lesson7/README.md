@@ -14,7 +14,9 @@ cd demo
 
 cp ~/iot/lesson7/thingspeak_cpu_loop.py .
 
-### Copy the Write API Key from https://thingspeak.com/channels
+### Copy the Write API Key from
+
+https://thingspeak.com/channels
 
 nano thingspeak_cpu_loop.py
 
