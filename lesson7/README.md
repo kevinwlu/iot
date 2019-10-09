@@ -20,7 +20,7 @@ nano thingspeak_cpu_loop.py
 
 python3 thingspeak_cpu_loop.py
 
-## Google sheet
+## Google Sheets
 
 ### Sign up and log in Google Cloud Identity and Access Management (IAM) at
 
@@ -46,7 +46,9 @@ cp ~/iot/lesson7/rpi_spreadsheet.py .
 
 mv ~/Downloads/rpidata-*.json ~/demo
 
-### Go to Google Sheets at https://docs.google.com/spreadsheets/u/0
+### Go to Google Sheets at
+
+https://docs.google.com/spreadsheets/u/0
 
 ### Start a new spreadsheet rpidata
 
