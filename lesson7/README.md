@@ -2,7 +2,9 @@
 
 ## ThingSpeak
 
-### Sign up and log in ThingSpeak at https://thingspeak.com
+### Sign up and log in ThingSpeak at
+
+https://thingspeak.com
 
 ### Create new channel cpu_loop with field1 cpu_pc and field2 mem_avail_mb
 
