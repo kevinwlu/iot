@@ -54,6 +54,8 @@ docker run -v $PWD:/node -u 0 --rm --name=crossbar -it -p 8080:8080 crossbario/c
 
 ### Run publish-client on Terminal 2
 
+sudo pip3 install -U autobahn
+
 cd crossbar-examples/getting-started/1.hello-world/
 
 python3 client_component_publish.py
