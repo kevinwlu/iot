@@ -40,6 +40,8 @@ docker images
 
 ## Lab A: Crossbar.io
 
+https://crossbar.io/docs/Getting-Started/
+
 ### Run Crossbar.io router on Terminal 1
 
 git clone https://github.com/crossbario/crossbar-examples
