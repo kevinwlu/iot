@@ -66,7 +66,7 @@ cd
 
 ## Lab C: Flask
 
-### Install Flask-ask and Ngrok
+### Install Flask-Ask and Ngrok
 
 sudo pip3 install -U flask-ask
 
