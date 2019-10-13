@@ -6,11 +6,9 @@ https://docs.particle.io/datasheets/discontinued/raspberry-pi/
 
 ### Sign up and log in Particle at https://www.particle.io
 
-### Install the Particle-Agent on Raspberry Pi and log in the Particle account
+### Install the Particle-Agent on Raspberry Pi, log in the Particle account, and claim Raspberry Pi to the Particle account
 
 bash <( curl -sL https://particle.io/install-pi )
-
-sudo particle-agent setup
 
 ### Download and open Particle Mobile App on a smartphone
 
