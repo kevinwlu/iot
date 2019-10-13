@@ -16,7 +16,7 @@ bash <( curl -sL https://particle.io/install-pi )
 
 ### Tinker > D7 > digitalWrite() > HIGH or LOW to toggle the green activity LED
 
-### Alternatively, install Particle CLI to /home/pi/bin
+### Alternatively, install Particle CLI and export /home/pi/bin to $PATH
 
 bash <( curl -sL https://particle.io/install-cli )
 
