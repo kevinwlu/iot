@@ -1,24 +1,40 @@
 # <a href="https://goo.gl/KDtocJ">Lesson 6</a>: Alternative Devices
 
-## Particle Raspberry Pi Project
+## Lab A: Particle Cloud
 
 https://docs.particle.io/datasheets/discontinued/raspberry-pi/
 
 ### Sign up and log in Particle at https://www.particle.io
 
-### Connect Raspberry Pi to Particle Cloud
+### Install the Particle-Agent on Raspberry Pi and log in the Particle account
 
 bash <( curl -sL https://particle.io/install-pi )
 
-sudo particle-agent help
+sudo particle-agent setup
 
-### Download Particle Mobile App for Android (4.0.3 or higher)
+### Download and open Particle Mobile App on a smartphone
 
-### Click the D7 LED with digitalWrite() to toggle the Raspberry Pi green activity LED
+### Log in Particle account and select Raspberry Pi
 
-### Inspect device information (device ID, last heard & IP address), data, and events
+### Tinker > D7 > digitalWrite() > HIGH or LOW to toggle the green activity LED
 
-## Run Node.js server at http://127.0.0.1:8080 on Raspberry Pi
+### Alternatively, install Particle CLI to /home/pi/bin
+
+bash <( curl -sL https://particle.io/install-cli )
+
+export PATH="/home/pi/bin:$PATH"
+
+particle login
+
+particle call <device_name> digitalwrite D7=HIGH
+
+particle call <device_name> digitalwrite D7=LOW
+
+particle logout
+
+## Lab B: Node.js
+
+### Run Node.js server at http://127.0.0.1:8080 on Raspberry Pi
 
 node -h
 
