@@ -4,7 +4,7 @@ from time import mktime, sleep
 from datetime import datetime
 from json import dumps
 class Client (object):
-    api_url = "https://api.altairsmartcore.com/streams"
+    api_url = "http://api.altairsmartcore.com/streams"
     def __init__(self, api_key=None, client_type='json'):
         self.client_type = client_type
         self.api_key = api_key
