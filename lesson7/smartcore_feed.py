@@ -4,14 +4,14 @@ from time import mktime, sleep
 from datetime import datetime
 from json import dumps
 class Client (object):
-    api_url = "http://api.carriots.com/streams"
+    api_url = "http://api.altairsmartcore.com/streams"
     def __init__(self, api_key=None, client_type='json'):
         self.client_type = client_type
         self.api_key = api_key
-        self.content_type = "application/vnd.carriots.api.v2+%s" % self.client_type
-        self.headers = {'User-Agent': 'Raspberry-Carriots',
+        self.content_type = "application/vnd.altairsc.api.v2+%s" % self.client_type
+        self.headers = {'User-Agent': 'Raspberry-SmartCore',
                         'Content-Type': self.content_type,
-                        'Accept': self.content_type, 'Carriots.apikey': self.api_key}
+                        'Accept': self.content_type, 'Apikey': self.api_key}
         self.data = None
         self.response = None
     def send(self, data):
@@ -35,7 +35,7 @@ def main():
     device = "YOUR DEVICE'S ID_DEVELOPER HERE"
     apikey = "YOUR APIKEY HERE"
     lights = off
-    client_carriots = Client(apikey)
+    client_smartcore = Client(apikey)
     while True:
         timestamp = int(mktime(datetime.utcnow().timetuple()))
         print(rc_time(24))
@@ -50,7 +50,7 @@ def main():
             data = {"protocol": "v2", "device": device, "at": timestamp, 
                     "data": dict(light=("ON" if new_lights is on
                     else "OFF"))}
-            carriots_response = client_carriots.send(data)
-            print(carriots_response.read())
+            smartcore_response = client_smartcore.send(data)
+            print(smartcore_response.read())
 if __name__ == '__main__':
     main()
