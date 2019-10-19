@@ -101,6 +101,7 @@ while True:
         worksheet = login_open_sheet(GDOCS_OAUTH_JSON, GDOCS_SPREADSHEET_NAME)
 
     # Attempt to get sensor reading.
+    dat = datetime.datetime.now()
     humidity, temp = Adafruit_DHT.read(DHT_TYPE, DHT_PIN)
 
     # Skip to the next reading if a valid measurement couldn't be taken.
@@ -110,12 +111,12 @@ while True:
         time.sleep(2)
         continue
 
-    print('Temperature: {0:0.1f} C'.format(temp))
-    print('Humidity:    {0:0.1f} %'.format(humidity))
+    print('Temperature: {0:0.1f} C'+str(temp))
+    print('Humidity:    {0:0.1f} %'+str(humidity))
  
     # Append the data in the spreadsheet, including a timestamp
     try:
-        worksheet.append_row((datetime.datetime.now(), temp, humidity))
+        worksheet.append_row((str(dat), temp, humidity))
     except:
         # Error appending data, most likely because credentials are stale.
         # Null out the worksheet so a login is performed at the top of the loop.
