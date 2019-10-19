@@ -1,3 +1,5 @@
+# As of 2019-10-18, carriots.py still works while smartcore.py doesn't
+# https://www.altairsmartworks.com/developers/tutorials/raspberrypi_carriots/alert_system
 import RPi.GPIO as GPIO
 from urllib.request import urlopen, Request
 from time import mktime, sleep
