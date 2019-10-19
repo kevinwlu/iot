@@ -95,6 +95,7 @@ while True:
         worksheet = login_open_sheet(GDOCS_OAUTH_JSON, GDOCS_SPREADSHEET_NAME)
 
     # Attempt to get sensor reading.
+    dat = datetime.datetime.now()
     temp = bmp.read_temperature()
     pressure = bmp.read_pressure()
     altitude = bmp.read_altitude()
@@ -106,13 +107,13 @@ while True:
     #	time.sleep(2)
     #	continue
 
-    print('Temperature: {0:0.1f} C'.format(temp))
-    print('Pressure:    {0:0.1f} Pa'.format(pressure))
-    print('Altitude:    {0:0.1f} m'.format(altitude))
+    print('Temperature: {0:0.1f} C'+str(temp))
+    print('Pressure:    {0:0.1f} Pa'+str(pressure))
+    print('Altitude:    {0:0.1f} m'+str(altitude))
 
     # Append the data in the spreadsheet, including a timestamp
     try:
-        worksheet.append_row((datetime.datetime.now(), temp, pressure, altitude))
+        worksheet.append_row((str(dat), temp, pressure, altitude))
     except:
         # Error appending data, most likely because credentials are stale.
         # Null out the worksheet so a login is performed at the top of the loop.
