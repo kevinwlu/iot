@@ -1,4 +1,4 @@
-import plotly.plotly as py
+import chart_studio.plotly as py
 import json
 import time
 import readadc
