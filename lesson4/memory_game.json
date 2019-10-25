@@ -31,7 +31,7 @@
                         "{first} {second} {third}",
                         "{first} {second} and {third}"
                     ]
-                }
+                },
                 {
                     "name": "AMAZON.StopIntent",
                     "samples": [
