@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import numpy as np
 import pylab as P
+import scipy.stats
 
 #
 # The hist() function now has a lot more options
@@ -17,7 +18,7 @@ n, bins, patches = P.hist(x, 50, density=1, histtype='stepfilled')
 P.setp(patches, 'facecolor', 'g', 'alpha', 0.75)
 
 # add a line showing the expected distribution
-y = P.normpdf( bins, mu, sigma)
+y = scipy.stats.norm.pdf( bins, mu, sigma)
 l = P.plot(bins, y, 'k--', linewidth=1.5)
 
 
@@ -38,7 +39,7 @@ P.figure()
 n, bins, patches = P.hist(x, 50, density=1, histtype='step', cumulative=True)
 
 # add a line showing the expected distribution
-y = P.normpdf( bins, mu, sigma).cumsum()
+y = scipy.stats.norm.pdf( bins, mu, sigma).cumsum()
 y /= y[-1]
 l = P.plot(bins, y, 'k--', linewidth=1.5)
 
@@ -49,7 +50,7 @@ x = mu + sigma2*P.randn(10000)
 n, bins, patches = P.hist(x, bins=bins, density=1, histtype='step', cumulative=True)
 
 # add a line showing the expected distribution
-y = P.normpdf( bins, mu, sigma2).cumsum()
+y = scipy.stats.norm.pdf( bins, mu, sigma2).cumsum()
 y /= y[-1]
 l = P.plot(bins, y, 'r--', linewidth=1.5)
 
