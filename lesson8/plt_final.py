@@ -17,7 +17,7 @@ plt.title('Iotu 2017-04-28')
 # Histogram of CPU usage
 plt.figure()
 num_bins = 35
-n, bins, patches = plt.hist(x, num_bins, normed=1, facecolor='blue', alpha=0.5)
+n, bins, patches = plt.hist(x, num_bins, density=1, facecolor='blue', alpha=0.5)
 plt.xlabel('CPU Usage %')
 plt.ylabel('Probability')
 plt.title('Iotu 2017-04-28')
@@ -25,7 +25,7 @@ plt.title('Iotu 2017-04-28')
 # Histogram of temperature
 plt.figure()
 num_bins = 30
-n, bins, patches = plt.hist(y, num_bins, normed=1, facecolor='red', alpha=0.5)
+n, bins, patches = plt.hist(y, num_bins, density=1, facecolor='red', alpha=0.5)
 plt.xlabel('Temperature C')
 plt.ylabel('Probability')
 plt.title('Iotu 2017-04-28')
