@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib.mlab as mlab
+import scipy.stats
 import matplotlib.pyplot as plt
 # example data
 mu = 100  # mean of distribution
@@ -9,7 +9,7 @@ num_bins = 50
 # the histogram of the data
 n, bins, patches = plt.hist(x, num_bins, density=1, facecolor='green', alpha=0.5)
 # add a 'best fit' line
-y = mlab.normpdf(bins, mu, sigma)
+y = scipy.stats.norm.pdf(bins, mu, sigma)
 plt.plot(bins, y, 'r--')
 plt.xlabel('Smarts')
 plt.ylabel('Probability')
