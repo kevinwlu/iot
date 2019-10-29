@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/ibFiqR">Lesson 8</a>: Data Analysis
 
-# Install SciPy, Matplotlib, pandas, and dependencies on Raspberry Pi
+## Install SciPy, Matplotlib, pandas, and dependencies on Raspberry Pi
 
 sudo apt-get update
 
@@ -20,7 +20,7 @@ sudo apt-get install libopenblas-dev
 
 sudo apt-get install libatlas-base-dev
 
-# Install NumPy, scikit-learn, TensorFlow, and Keras on Raspberry Pi
+## Install NumPy, scikit-learn, TensorFlow, and Keras on Raspberry Pi
 
 sudo pip3 install -U numpy
 
@@ -30,7 +30,7 @@ sudo pip3 install -U tensorflow
 
 sudo pip3 install -U keras
 
-# Either enable X11 forwarding with SSH -X (or SSH -Y if trusted) or use VNC Viewer
+## Either enable X11 forwarding with SSH -X (or SSH -Y if trusted) or use VNC Viewer
 
 cd ~/iot/lesson8
 
@@ -76,7 +76,7 @@ python3 plot_cv_predict.py
 
 python3 plot_cv_diabetes.py
 
-# Titanic example
+## Titanic example
 
 cp train.csv ~/demo
 
@@ -92,7 +92,7 @@ python3 titanic_1.py
 
 python3 titanic_2.py
 
-# Keras and TensorFlow
+## Keras and TensorFlow
 
 cd ~/iot/lesson8
 
