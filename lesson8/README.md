@@ -32,6 +32,18 @@ sudo pip3 install -U keras
 
 ## Either enable X11 forwarding with SSH -X (or SSH -Y if trusted) or use VNC Viewer
 
+### For Windows, download, install, and configure PuTTY and Xming according to the instructions
+
+https://www.putty.org/
+
+https://sourceforge.net/projects/xming/
+
+http://laptops.eng.uci.edu/software-installation/using-linux/how-to-configure-xming-putty
+
+### For macOS, download and install XQuartz
+
+https://www.xquartz.org/
+
 cd ~/iot/lesson8
 
 python3 pyplot_simple.py
