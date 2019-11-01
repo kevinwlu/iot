@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/RIzzfl">Lesson 10</a>: Blockchain
 
-# Build the tiniest blockchain (by Gerald Nash)
+## Build the tiniest blockchain (by Gerald Nash)
 
 cd ~/iot/lesson10
 
