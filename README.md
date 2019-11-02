@@ -15,11 +15,14 @@
 * <a href="https://github.com/kevinwlu/iot/tree/master/projects" target="_blank">Projects</a>
 * <a href="https://goo.gl/6EWVZb" target="_blank">IoT Talk</a>
 * <a href="https://goo.gl/5wH7D7" target="_blank">TMT Talk</a>
+* <a href="https://tinyurl.com/IndustryCareers" target="_blank">Careers in Industry Talk</a>
+* <a href="https://tinyurl.com/y33xabn3" target="_blank">AI Ethics Talk</a>
 * <a href="https://sites.google.com/view/ece800" target="_blank">Special Problems</a>
 * <a href="https://sites.google.com/view/ece322" target="_blank">Engineering Design 6</a>
 * <a href="https://sites.google.com/view/ece423" target="_blank">Engineering Design 7/8</a>
 * <a href="https://sites.google.com/view/ece487" target="_blank">Digital System Design</a>
 * <a href="https://sites.google.com/view/ece-ecoes" target="_blank">ECOES: Exploring Career Options in Engineering and Science</a>
+
 
 ## Clone the IoT repository on a Raspberry Pi
 
