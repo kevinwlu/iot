@@ -24,7 +24,7 @@ python3 -m plantuml intrusiondetection.uml
 
 ## Install and run GIMP and Pinta to display a PNG file
 
-## Alternatives to VNC Viewer
+### Alternatives to VNC Viewer
 
 ### On macOS with XQuartz, run SSH -Y to enable X11 forwarding
 
