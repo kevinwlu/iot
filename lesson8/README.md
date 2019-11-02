@@ -30,17 +30,17 @@ sudo pip3 install -U tensorflow
 
 sudo pip3 install -U keras
 
-## Either enable X11 forwarding with SSH -X (or SSH -Y if trusted) or use VNC Viewer
+## Either enable X11 forwarding with SSH -Y or use VNC Viewer
 
-### For Windows, download, install, and configure PuTTY and Xming according to the instructions
-
-https://www.putty.org/
-
-https://sourceforge.net/projects/xming/
+### follow the instructions, install and configure Xming, and always open Xming before running PuTTY with SSH and X11 forwarding
 
 http://laptops.eng.uci.edu/software-installation/using-linux/how-to-configure-xming-putty
 
-### For macOS, download and install XQuartz
+https://sourceforge.net/projects/xming/
+
+https://www.putty.org/
+
+### For macOS, download and install XQuartz, and enter "ssh -Y" in a terminal
 
 https://www.xquartz.org/
 
