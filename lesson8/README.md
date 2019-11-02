@@ -44,6 +44,8 @@ https://www.putty.org/
 
 https://www.xquartz.org/
 
+http://man.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/ssh.1#Y
+
 cd ~/iot/lesson8
 
 python3 pyplot_simple.py
