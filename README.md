@@ -28,6 +28,7 @@ pi@raspberrypi:~/iot $ git pull
 
 * <a href="https://sites.google.com/view/ece900" target="_blank">Thesis</a>
 * <a href="https://sites.google.com/view/ece800" target="_blank">Special Problems</a>
+* <a href="https://sites.google.com/view/ece629" target="_blank">Internet of Things</a>
 * <a href="https://sites.google.com/view/ece322" target="_blank">Engineering Design 6</a>
 * <a href="https://sites.google.com/view/ece423" target="_blank">Engineering Design 7/8</a>
 * <a href="https://sites.google.com/view/ece487" target="_blank">Digital System Design</a>
