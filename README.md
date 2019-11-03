@@ -39,4 +39,5 @@ pi@raspberrypi:~/iot $ git pull
 * <a href="https://goo.gl/6EWVZb" target="_blank">IoT</a>
 * <a href="https://goo.gl/5wH7D7" target="_blank">TMT</a>
 * <a href="https://tinyurl.com/IndustryCareers" target="_blank">Careers in Industry</a>
+* <a href="https://goo.gl/a2RSKB" target="_blank">A Balanced Skill Set</a>
 * <a href="https://tinyurl.com/y33xabn3" target="_blank">AI Ethics</a>
