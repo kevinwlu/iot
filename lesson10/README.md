@@ -12,7 +12,7 @@ python3 hash_value.py
 
 python3 snakecoin.py
 
-## IOTA Tangle (by Robert Lie)
+## Send DHT11 sensor data to the IOTA Tangle using MAM (by Robert Lie)
 
 https://www.youtube.com/watch?v=atJ-ZT7aKoA
 
