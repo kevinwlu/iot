@@ -22,9 +22,13 @@ https://github.com/robertlie/dht11-raspi3
 
 https://www.mobilefish.com/services/cryptocurrency/mam.html
 
+### Download and build the C library for BCM2835
+
 http://www.airspayce.com/mikem/bcm2835/index.html
 
-### Install library
+https://github.com/nRF24/RF24/issues/517
+
+https://groups.google.com/forum/#!topic/bcm2835/BwZXVsDRtwI
 
 wget http://www.airspayce.com/mikem/bcm2835/bcm2835-1.60.tar.gz
 
@@ -60,11 +64,15 @@ nano mam_sensor.js
 
 ### Run mam_publish.js on one terminal and mam_receive.js on another
 
+#### Press CTRL+Z to stop
+
 node mam_publish.js
 
 node mam_receive.js YOUR_ROOT
 
 ### Publish sensor data on one terminal and receive on another
+
+#### Press CTRL+Z to stop
 
 node sensor.js
 
