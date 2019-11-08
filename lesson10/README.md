@@ -22,6 +22,8 @@ https://github.com/robertlie/dht11-raspi3
 
 https://www.mobilefish.com/services/cryptocurrency/mam.html
 
+### Install library
+
 wget http://www.airspayce.com/mikem/bcm2835/bcm2835-1.56.tar.gz
 
 tar zxvf bcm2835-1.56.tar.gz
@@ -38,11 +40,23 @@ sudo make install
 
 cd
 
+### Clone repo
+
 git clone https://github.com/robertlie/dht11-raspi3.git
 
 cd dht11-raspi3
 
 npm install
+
+### Change nodes.testnet.iota.org to nodes.devnet.iota.org
+
+nano mam_publish.js
+
+nano mam_receive.js
+
+nano mam_sensor.js
+
+### Run example code
 
 node mam_publish.js
 
