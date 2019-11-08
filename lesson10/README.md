@@ -36,6 +36,8 @@ sudo make check
 
 sudo make install
 
+cd
+
 git clone https://github.com/robertlie/dht11-raspi3.git
 
 cd dht11-raspi3
