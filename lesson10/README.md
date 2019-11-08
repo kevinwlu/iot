@@ -22,6 +22,8 @@ https://github.com/robertlie/dht11-raspi3
 
 https://www.mobilefish.com/services/cryptocurrency/mam.html
 
+http://www.airspayce.com/mikem/bcm2835/index.html
+
 ### Install library
 
 wget http://www.airspayce.com/mikem/bcm2835/bcm2835-1.56.tar.gz
@@ -64,7 +66,7 @@ node mam_receive.js YOUR_ROOT
 
 ### Publish sensor data on one terminal and receive on another
 
-#### Raspberry Pi 4B gives Segmentation fault with "bcm2835_init: gpio mmap failed: Cannot allocate memory"
+#### Raspberry Pi 4B and NOOBS 3.2.1 have a segmentation fault with "bcm2835_init: gpio mmap failed: Cannot allocate memory"
 
 node sensor.js
 
