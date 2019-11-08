@@ -56,11 +56,13 @@ nano mam_receive.js
 
 nano mam_sensor.js
 
-### Run example code
+### Run mam_publish.js on one terminal and mam_receive.js on another
 
 node mam_publish.js
 
 node mam_receive.js YOUR_ROOT
+
+### Publish sensor data on one terminal and receive on another
 
 node sensor.js
 
