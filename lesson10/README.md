@@ -46,7 +46,7 @@ sudo make install
 
 cd
 
-### Clone repo
+### Clone the code repository
 
 git clone https://github.com/robertlie/dht11-raspi3.git
 
@@ -72,7 +72,7 @@ node mam_receive.js YOUR_ROOT
 
 ### Publish sensor data on one terminal and receive on another
 
-#### Press CTRL+Z to stop
+#### Press control-z to stop
 
 node sensor.js
 
