@@ -66,7 +66,7 @@ node mam_receive.js YOUR_ROOT
 
 ### Publish sensor data on one terminal and receive on another
 
-#### Raspberry Pi 4B and NOOBS 3.2.1 have a segmentation fault with "bcm2835_init: gpio mmap failed: Cannot allocate memory"
+#### Raspberry Pi 4B and NOOBS 3.2.1: Segmentation fault with "bcm2835_init: gpio mmap failed: Cannot allocate memory"
 
 node sensor.js
 
