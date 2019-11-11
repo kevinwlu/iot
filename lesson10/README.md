@@ -72,6 +72,12 @@ node mam_receive.js YOUR_ROOT
 
 ### Publish sensor data on one terminal and receive on another
 
+#### Change sensor type to DHT22 and GPIO pin to 24
+
+nano sensor.js
+
+nano mam_sensor.js
+
 #### Press control-z to stop
 
 node sensor.js
