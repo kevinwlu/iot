@@ -38,6 +38,10 @@
                         "stop",
                         "over"
                     ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
                 }
             ],
             "types": []
