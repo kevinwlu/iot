@@ -28,7 +28,7 @@ docker run armhf/alpine date
 
 docker images
 
-cp ~/iot/lesson9/Dockerfile ~/demo
+cp ~/iot/lesson5/Dockerfile ~/demo
 
 cd ~/demo
 
