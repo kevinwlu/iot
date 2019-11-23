@@ -1,4 +1,5 @@
 # https://tutorials-raspberrypi.com/raspberry-pi-servo-motor-control/
+# http://www.towerpro.com.tw/product/sg90-7
 import RPi.GPIO as GPIO
 import time
 
