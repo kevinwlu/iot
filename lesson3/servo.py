@@ -1,6 +1,6 @@
-# https://learn.adafruit.com/adafruits-raspberry-pi-lesson-8-using-a-servo-motor/overview
-# sudo pip3 install wiringpi
 # Servo Control
+# sudo pip3 install wiringpi
+# https://learn.adafruit.com/adafruits-raspberry-pi-lesson-8-using-a-servo-motor/overview
 import time
 import wiringpi
  
