@@ -1,6 +1,7 @@
 # Servo Control
 # sudo pip3 install wiringpi
 # https://learn.adafruit.com/adafruits-raspberry-pi-lesson-8-using-a-servo-motor/overview
+# http://www.towerpro.com.tw/product/sg90-7
 import time
 import wiringpi
  
