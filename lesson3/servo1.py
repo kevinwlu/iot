@@ -1,5 +1,6 @@
 # Servo1.py
 # http://www.python-exemplary.com/index_en.php?inhalt_links=navigation_en.inc.php&inhalt_mitte=raspi/en/servomotors.inc.php
+# http://www.towerpro.com.tw/product/sg90-7
 
 import RPi.GPIO as GPIO
 import time
