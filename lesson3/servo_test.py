@@ -1,6 +1,6 @@
 # servo_test.py - Test functionality of SG90 Micro Servo
-## Written By: David Such
-## http://reefwingrobotics.blogspot.com/2017/02/raspberry-pi-and-towerpro-sg90-micro.html
+# Written By: David Such
+# http://reefwingrobotics.blogspot.com/2017/02/raspberry-pi-and-towerpro-sg90-micro.html
 
 import RPi.GPIO as GPIO
 import time
