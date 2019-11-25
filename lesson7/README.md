@@ -40,7 +40,7 @@ https://console.developers.google.com/projectselector/iam-admin/iam
 
 ### Install gspread and oauth2client
 
-sudo pip3 install gspread==0.6.2 oauth2client
+sudo pip3 install gspread oauth2client
 
 cd demo
 
