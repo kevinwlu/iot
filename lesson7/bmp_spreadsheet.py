@@ -61,7 +61,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 # Then use the File -> Share... command in the spreadsheet to share it with read
 # and write acess to the email address above.  If you don't do this step then the
 # updates to the sheet will fail!
-GDOCS_OAUTH_JSON       = 'bmpdata-*.json'
+GDOCS_OAUTH_JSON       = 'bmpdata-xxxxxxxxxxxx.json'
 
 # Google Docs spreadsheet name.
 GDOCS_SPREADSHEET_NAME = 'bmpdata'
