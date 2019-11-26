@@ -26,21 +26,19 @@ python3 thingspeak_cpu_loop.py
 
 ## Google Sheets
 
-### Sign up and log in Google Cloud Identity and Access Management (IAM) at
+### Sign up and log in the Google Cloud Platform Identity and Access Management (IAM) at
 
 https://console.developers.google.com/projectselector/iam-admin/iam
 
-### Click "Create" and enter the project name rpidata
+### Click "Create" and enter the project name, e.g., rpidata
 
-### Click  Google APIs, select Google Drive API, then enable it
+### &equiv; > APIs & Services > + Enable APIs & Services > Enable Drive API and Sheets API
 
-### Click Create Credentials, select service account, then create
-
-### Select JSON key type and click Create key to download rpidata-*.json
+### Credential > Create Credentials > Create service account key > Service account > rpidata > JSON key type > Create > download rpidata-xxxxxxxxxxxx.json
 
 ### Install gspread and oauth2client
 
-sudo pip3 install gspread oauth2client
+sudo pip3 install -U gspread oauth2client
 
 cd demo
 
@@ -48,7 +46,11 @@ cp ~/iot/lesson3/system_info.py .
 
 cp ~/iot/lesson7/rpi_spreadsheet.py .
 
+### Ether move or secure copy the JSON key file to the same directory as rpi_spreadsheet.py
+
 mv ~/Downloads/rpidata-*.json ~/demo
+
+scp rpidata-*.json pi@155.246.200.x:/home/pi/demo
 
 ### Go to Google Sheets at
 
@@ -57,6 +59,8 @@ https://docs.google.com/spreadsheets/u/0
 ### Start a new spreadsheet rpidata
 
 ### Share the spreadsheet with the "client_email" address in the .json file, select “Can edit,” and click "Send"
+
+#### Will receive an email with the subject "Delivery Status Notification (Failure)" and the message "Address not found" from mailer-daemon@google.com
 
 ### Delete Rows 2 to 1000, and enter Date / Time, CPU Usage %, Temperature C to header cells
 
