@@ -54,6 +54,10 @@ pi@raspberrypi:~/myraspi/myapp $ cp ~/iot/lesson4/myraspi/models.py .
 
 pi@raspberrypi:~/myraspi/myapp $ cp ~/iot/lesson4/myraspi/views.py .
 
+## Change the default password 'raspberry' in views.py
+
+pi@raspberrypi:~/myraspi/myapp $ nano views.py
+
 pi@raspberrypi:~/myraspi/myapp $ cp ~/iot/lesson4/myraspi/serializers.py .
 
 # Copy index.html and static files
@@ -82,9 +86,15 @@ pi@raspberrypi:~/myraspi/myapp/static/myapp $ cp ~/iot/lesson4/static/*js .
 
 pi@raspberrypi:~/myraspi/myapp/static/myapp $ cd ~/myraspi
 
-# Copy controller.py to ~/myraspi
+# Copy  and system_info.py controller.py to ~/myraspi
+
+pi@raspberrypi:~/myraspi $ cp ~/iot/lesson3/system_info.py .
 
 pi@raspberrypi:~/myraspi $ cp ~/iot/lesson4/myraspi/controller.py .
+
+## Change the default password 'raspberry' in controller.py
+
+pi@raspberrypi:~/myraspi $ nano controller.py
 
 # After the first time, skip these three steps if no changes
 
