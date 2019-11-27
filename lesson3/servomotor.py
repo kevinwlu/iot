@@ -1,5 +1,5 @@
 # Source: https://tutorials-raspberrypi.com/raspberry-pi-servo-motor-control/
-# 2019-11-27: tested with Raspberry Pi 4B and 6V power supply by a 4-AA-battery holder
+# 2019-11-27: tested with Raspberry Pi 4B and 6V power supply by a 4xAA battery holder
 # TowerPro SG90 http://www.towerpro.com.tw/product/sg90-7
 # Emax ES3001 https://emaxmodel.com/es3001-43g-analog-servo.html
 # Parallax Continuous Rotation Servo https://www.parallax.com/product/900-00008
