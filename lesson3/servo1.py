@@ -1,7 +1,6 @@
-# servo1.py
-# http://www.python-exemplary.com/index_en.php?inhalt_links=navigation_en.inc.php&inhalt_mitte=raspi/en/servomotors.inc.php
-# 2019-11-27 Tested with TowerPro SG90 http://www.towerpro.com.tw/product/sg90-7
-# 2019-11-27 Tested with Emax ES3001 https://emaxmodel.com/es3001-43g-analog-servo.html
+# Source: http://www.python-exemplary.com/index_en.php?inhalt_links=navigation_en.inc.php&inhalt_mitte=raspi/en/servomotors.inc.php
+# 2019-11-27: tested with TowerPro SG90 http://www.towerpro.com.tw/product/sg90-7
+# 2019-11-27: tested with Emax ES3001 https://emaxmodel.com/es3001-43g-analog-servo.html
 
 import RPi.GPIO as GPIO
 import time
