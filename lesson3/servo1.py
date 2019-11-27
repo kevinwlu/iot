@@ -12,7 +12,7 @@ b = 2
 
 def setup():
     global pwm
-    GPIO.setmode(GPIO.BOARD)
+    GPIO.setmode(GPIO.BCM)
     GPIO.setup(P_SERVO, GPIO.OUT)
     pwm = GPIO.PWM(P_SERVO, fPWM)
     pwm.start(0)
