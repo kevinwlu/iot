@@ -1,5 +1,6 @@
-# https://tutorials-raspberrypi.com/raspberry-pi-servo-motor-control/
-# http://www.towerpro.com.tw/product/sg90-7
+# Source: https://tutorials-raspberrypi.com/raspberry-pi-servo-motor-control/
+# 2019-11-27: tested with TowerPro SG90 http://www.towerpro.com.tw/product/sg90-7
+# 2019-11-27: tested with Emax ES3001 https://emaxmodel.com/es3001-43g-analog-servo.html
 import RPi.GPIO as GPIO
 import time
 
