@@ -72,7 +72,7 @@ pi@raspberrypi:~/weather/myapp/templates $ cd myapp
 
 pi@raspberrypi:~/weather/myapp/templates/myapp $ cp ~/iot/lesson4/weather/index.html .
 
-# Edit index.html and add Google Maps API key
+## Edit index.html and add the Google Maps API key
 
 pi@raspberrypi:~/weather/myapp/templates/myapp $ nano index.html
 
