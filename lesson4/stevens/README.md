@@ -38,9 +38,9 @@ MariaDB [mysql]> quit
 
 # Edit settings.py in ~/stevens/stevens
 
-# Follow ~/iot/lesson4/stevens/settings.txt
+## Follow ~/iot/lesson4/stevens/settings.txt
 
-# Remember to change PASSWORD for MySQL user
+## Remember to change PASSWORD for MySQL user
 
 pi@raspberrypi:~/stevens $ cd stevens
 
@@ -62,7 +62,7 @@ pi@raspberrypi:~/stevens/myapp $ cp ~/iot/lesson4/stevens/models.py .
 
 pi@raspberrypi:~/stevens/myapp $ cp ~/iot/lesson4/stevens/views.py .
 
-# Copy index.html and static files
+# Copy index.html
 
 pi@raspberrypi:~/stevens/myapp $ mkdir static templates
 
@@ -73,6 +73,20 @@ pi@raspberrypi:~/stevens/myapp/templates $ mkdir myapp
 pi@raspberrypi:~/stevens/myapp/templates $ cd myapp
 
 pi@raspberrypi:~/stevens/myapp/templates/myapp $ cp ~/iot/lesson4/stevens/index.html .
+
+# Enable Google Maps API
+
+https://cloud.google.com/maps-platform
+
+https://developers.google.com/maps/documentation/javascript/get-api-key
+
+https://churchthemes.com/page-didnt-load-google-maps-correctly
+
+# Edit index.html to add the API key
+
+pi@raspberrypi:~/stevens/myapp/templates/myapp $ nano index.html
+
+# Copy static files
 
 pi@raspberrypi:~/stevens/myapp/templates/myapp $ cd ~/stevens/myapp/static
 
@@ -110,20 +124,20 @@ pi@raspberrypi:~/stevens $ python3 manage.py runserver
 
 # Open the Chromium browser on Raspberry Pi via VNC Viewer
 
-# Go to http://127.0.0.1:8000/admin
+## Go to http://127.0.0.1:8000/admin
 
-# Login with Django administration username (pi) and password
+### Login with Django administration username (pi) and password
 
-# Click temperature data to add 
+### Click temperature data to add 
 
-# Date and time in YYYY-MM-DD HH:MM:SS
+#### Date and time in YYYY-MM-DD HH:MM:SS
 
-# Temperature in Fahrenheit
+#### Temperature in Fahrenheit
 
-# Latitude 40.7451
+#### Latitude 40.7451
 
-# Longitude -74.0255
+#### Longitude -74.0255
 
-# Click SAVE
+## Click SAVE
 
 # View app at http://127.0.0.1:8000
