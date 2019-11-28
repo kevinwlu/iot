@@ -72,7 +72,7 @@ pi@raspberrypi:~/myraspi/myapp/templates $ cd myapp
 
 pi@raspberrypi:~/myraspi/myapp/templates/myapp $ cp ~/iot/lesson4/myraspi/index.html .
 
-# Edit index.html to add the Google Maps API key
+## Edit index.html to add the Google Maps API key
 
 pi@raspberrypi:~/myraspi/myapp/templates/myapp $ nano index.html
 
@@ -126,27 +126,27 @@ pi@raspberrypi:~/myraspi $ python3 manage.py runserver
 
 # Open the Chromium browser on Raspberry Pi via VNC Viewer
 
-# At the first time, go to http://127.0.0.1:8000/admin
+## At the first time, go to http://127.0.0.1:8000/admin
 
-# Login with Django administration username (pi) and password
+## Login with Django administration username (pi) and password
 
-# Click location data to add 
+## Click location data to add 
 
-# Location Stevens
+### Location Stevens
 
-# Latitude 40.7451
+### Latitude 40.7451
 
-# Longitude -74.0255
+### Longitude -74.0255
 
-# Click SAVE
+## Click SAVE
 
-# Post the following in HTML form:
+## Post the following in HTML form:
 
-# 2019-02-21 17:45:00 to the Dt List at http://127.0.0.1:8000/dt
+### 2019-02-21 17:45:00 to the Dt List at http://127.0.0.1:8000/dt
 
-# 50 to the Tmp List at http://127.0.0.1:8000/tmp
+### 50 to the Tmp List at http://127.0.0.1:8000/tmp
 
-# 20 to the Cpu List at http://127.0.0.1:8000/cpu
+### 20 to the Cpu List at http://127.0.0.1:8000/cpu
 
 # Run native controller service on a separate terminal window
 
