@@ -34,9 +34,9 @@ MariaDB [mysql]> quit
 
 # Edit settings.py in ~/weather/weather
 
-# Follow ~/iot/lesson4/weather/settings.txt
+## Follow ~/iot/lesson4/weather/settings.txt
 
-# Remember to change PASSWORD for MySQL user
+## Remember to change PASSWORD for MySQL user
 
 pi@raspberrypi:~/weather $ cd weather
 
@@ -60,7 +60,7 @@ pi@raspberrypi:~/weather/myapp $ cp ~/iot/lesson4/weather/views.py .
 
 pi@raspberrypi:~/weather/myapp $ cp ~/iot/lesson4/weather/serializers.py .
 
-# Copy index.html and static files
+# Copy index.html
 
 pi@raspberrypi:~/weather/myapp $ mkdir static templates
 
@@ -71,6 +71,12 @@ pi@raspberrypi:~/weather/myapp/templates $ mkdir myapp
 pi@raspberrypi:~/weather/myapp/templates $ cd myapp
 
 pi@raspberrypi:~/weather/myapp/templates/myapp $ cp ~/iot/lesson4/weather/index.html .
+
+# Edit index.html and add Google Maps API key
+
+pi@raspberrypi:~/weather/myapp/templates/myapp $ nano index.html
+
+# Copy static files
 
 pi@raspberrypi:~/weather/myapp/templates/myapp $ cd ~/weather/myapp/static
 
@@ -114,27 +120,27 @@ pi@raspberrypi:~/weather $ python3 manage.py runserver
 
 # Open the Chromium browser on Raspberry Pi via VNC Viewer
 
-# At the first time, go to http://127.0.0.1:8000/admin
+## At the first time, go to http://127.0.0.1:8000/admin
 
-# Login with Django administration username (pi) and password
+## Login with Django administration username (pi) and password
 
-# Click location data to add 
+## Click location data to add 
 
-# Location Stevens
+### Location Stevens
 
-# Latitude 40.7451
+### Latitude 40.7451
 
-# Longitude -74.0255
+### Longitude -74.0255
 
-# Click SAVE
+## Click SAVE
 
-# Post the following in HTML form:
+## Post the following in HTML form:
 
-# 2018-02-11 17:45:00 to the Dt List at http://127.0.0.1:8000/dt
+### 2018-02-11 17:45:00 to the Dt List at http://127.0.0.1:8000/dt
 
-# 20 to the Tmp List at http://127.0.0.1:8000/tmp
+### 20 to the Tmp List at http://127.0.0.1:8000/tmp
 
-# 50 to the Hmd List at http://127.0.0.1:8000/hmd
+### 50 to the Hmd List at http://127.0.0.1:8000/hmd
 
 # Run native controller service on a separate terminal window
 
