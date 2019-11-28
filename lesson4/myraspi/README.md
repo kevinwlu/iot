@@ -60,7 +60,7 @@ pi@raspberrypi:~/myraspi/myapp $ nano views.py
 
 pi@raspberrypi:~/myraspi/myapp $ cp ~/iot/lesson4/myraspi/serializers.py .
 
-# Copy index.html and static files
+# Copy index.html
 
 pi@raspberrypi:~/myraspi/myapp $ mkdir static templates
 
@@ -71,6 +71,12 @@ pi@raspberrypi:~/myraspi/myapp/templates $ mkdir myapp
 pi@raspberrypi:~/myraspi/myapp/templates $ cd myapp
 
 pi@raspberrypi:~/myraspi/myapp/templates/myapp $ cp ~/iot/lesson4/myraspi/index.html .
+
+# Edit index.html to add the Google Maps API key
+
+pi@raspberrypi:~/myraspi/myapp/templates/myapp $ nano index.html
+
+# Copy static files
 
 pi@raspberrypi:~/myraspi/myapp/templates/myapp $ cd ~/myraspi/myapp/static
 
