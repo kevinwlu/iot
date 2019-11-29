@@ -46,7 +46,15 @@
 
 ## Lab C: Startup Mailer - the following steps require the internet access
 
-### 1. Click the Terminal icon at the left of the menu bar to open a Terminal and enter 
+### 1. Enable Google 2-Step Verification and generate a Google App password
+
+* My Account > Sign-in & security > Signing in to Google > 
+
+* 2-Step Verification > TURN ON > Select a second verification step > Authenticator app (Default)
+
+* App passwords > Select the app (Mail) and device (Raspberry Pi) > GENERATE
+
+### 2. Click the Terminal icon at the left of the menu bar to open a Terminal and enter 
 
 ```sh
 $ git clone https://github.com/kevinwlu/iot.git
@@ -57,35 +65,29 @@ $ cp ~/iot/lesson1/startup_mailer.py .
 ```sh
 $ nano startup_mailer.py
 ```
-### 2. Change RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD
-
-* My Account > Sign-in & security > Signing in to Google > 
-
-* 2-Step Verification > TURN ON > Select a second verification step > Authenticator app (Default)
-
-* App passwords > Select the app (Mail) and device (Raspberry Pi) > GENERATE
-
-### 3. Replace HOSTNAME with the new Hostname
-
-### 4. Save the file by typing "control-x y enter" and enter
+* Change RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD
+* Replace HOSTNAME with the new Hostname
+* Save the file by typing "control-x y enter" and enter
 ```sh
 $ sudo nano /etc/rc.local
 ```
-### 5. Add the following line with two-space indent above fi at the end as follows
+* Add the following line with two-space indent above fi at the end as follows
 ```sh
   python3 /home/pi/startup_mailer.py
 fi
 ```
-### 6. Make /lib/systemd/system/rc-local.service executable if it's not
+* Make /lib/systemd/system/rc-local.service executable if it's not
 ```sh
 $ ls -l /lib/systemd/system/rc-local.service
 $ sudo chmod +x /lib/systemd/system/rc-local.service
 ```
-### 7. Save the file by typing "control-x y enter" and enter
+* Save the file by typing "control-x y enter"
 ```sh
 $ sudo reboot
 ```
-### 8. Disconnect the monitor, keyboard, and mouse and check RECIPIENT_EMAIL for Hostname IP address
+### 3. Check RECIPIENT_EMAIL for Hostname IP address
+
+### 4. Disconnect the monitor, keyboard, and mouse
 
 ## Lab D: SSH and VNC
 
