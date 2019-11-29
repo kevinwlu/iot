@@ -48,7 +48,6 @@ pi@raspberrypi:~/parking/parking $ cd ..
 ## Copy admin.py, models.py, views.py, and serializers.py to ~/parking/myapp
 ```sh
 pi@raspberrypi:~/parking $ cd myapp
-pi@raspberrypi:~/parking/myapp $ cp ~/iot/lesson4/parking/admin.py .
 pi@raspberrypi:~/parking/myapp $ cp ~/iot/lesson4/parking/models.py .
 pi@raspberrypi:~/parking/myapp $ cp ~/iot/lesson4/parking/views.py .
 pi@raspberrypi:~/parking/myapp $ cp ~/iot/lesson4/parking/serializers.py .
