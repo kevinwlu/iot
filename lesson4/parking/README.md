@@ -64,10 +64,6 @@ pi@raspberrypi:~/parking/myapp/templates $ mkdir myapp
 pi@raspberrypi:~/parking/myapp/templates $ cd myapp
 pi@raspberrypi:~/parking/myapp/templates/myapp $ cp ~/iot/lesson4/parking/index.html .
 ```
-## Edit index.html and add the Google Maps API key
-```sh
-pi@raspberrypi:~/parking/myapp/templates/myapp $ nano index.html
-```
 ## Copy static files
 ```sh
 pi@raspberrypi:~/parking/myapp/templates/myapp $ cd ~/parking/myapp/static
@@ -76,6 +72,7 @@ pi@raspberrypi:~/parking/myapp/static $ mkdir myapp
 pi@raspberrypi:~/parking/myapp/static $ cd myapp
 pi@raspberrypi:~/parking/myapp/static/myapp $ cp ~/iot/lesson4/static/*css .
 pi@raspberrypi:~/parking/myapp/static/myapp $ cp ~/iot/lesson4/static/*js .
+pi@raspberrypi:~/parking/myapp/static/myapp $ cp ~/iot/lesson4/static/*png .
 pi@raspberrypi:~/parking/myapp/static/myapp $ cd ~/parking
 ```
 ## Copy controller.py to ~/parking
