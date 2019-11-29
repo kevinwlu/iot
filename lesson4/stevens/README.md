@@ -1,4 +1,4 @@
-# Django Project Stevens 
+# Django Project "Stevens"
 
 ## Start a Django project
 ```sh
