@@ -123,7 +123,7 @@ pi@raspberrypi:~/weather $ python3 manage.py runserver
 
 ### Click SAVE
 
-## Post the following in HTML form:
+### Post the following in HTML form:
 
 * 2018-02-11 17:45:00 to the Dt List at http://127.0.0.1:8000/dt
 
