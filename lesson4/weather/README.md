@@ -53,6 +53,10 @@ pi@raspberrypi:~/weather/myapp $ cp ~/iot/lesson4/weather/models.py .
 pi@raspberrypi:~/weather/myapp $ cp ~/iot/lesson4/weather/views.py .
 pi@raspberrypi:~/weather/myapp $ cp ~/iot/lesson4/weather/serializers.py .
 ```
+## Change the default password 'raspberry' in views.py
+```sh
+pi@raspberrypi:~/weather/myapp $ nano views.py
+```
 ## Copy index.html
 ```sh
 pi@raspberrypi:~/weather/myapp $ mkdir static templates
@@ -78,6 +82,10 @@ pi@raspberrypi:~/weather/myapp/static/myapp $ cd ~/weather
 ## Copy controller.py to ~/weather
 ```sh
 pi@raspberrypi:~/weather $ cp ~/iot/lesson4/weather/controller.py .
+```
+## Change the default password 'raspberry' in controller.py
+```sh
+pi@raspberrypi:~/weather $ nano controller.py
 ```
 ## After the first time, skip these three steps if no changes
 ```sh
