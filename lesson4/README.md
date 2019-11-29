@@ -45,6 +45,8 @@ $ cd Adafruit_Python_ADXL345
 $ sudo python3 setup.py install
 $ cd
 ```
+### Follow the instruction for Django projects stevens, weather, myraspi, lighting, parking, and sensing
+
 ## Lab C: Flask
 
 ### Install Flask-Ask and Ngrok
@@ -90,9 +92,13 @@ $ cd
 $ sudo mysql -u root -p
 ```
 Enter password: PASSWORD
+
 MariaDB [(none)]> use mysql
+
 MariaDB [mysql]> create database wordpress;
+
 MariaDB [mysql]> grant all privileges on wordpress.* to pi@localhost;
+
 MariaDB [mysql]> quit
 ```sh
 $ sudo service apache2 restart
