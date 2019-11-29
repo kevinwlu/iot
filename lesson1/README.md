@@ -142,7 +142,7 @@ $ sudo shutdown -h now
 ```
 * Edit /etc/rc.local
 ```sh
-    pi@iotus:~ $ sudo nano /etc/rc.local
+    $ sudo nano /etc/rc.local
 ```
 ```sh
     ...
