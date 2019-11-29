@@ -130,7 +130,6 @@ pi@raspberrypi:~/myraspi $ python3 manage.py runserver
 
 ## Run native controller service on a separate terminal window
 ```sh
-pi@raspberrypi:~/myraspi $ cp ~/iot/lesson3/system_info.py .
 pi@raspberrypi:~/myraspi $ python3 controller.py
 ```
 ## View app at http://127.0.0.1:8000/home
