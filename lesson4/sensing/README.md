@@ -47,7 +47,7 @@ pi@raspberrypi:~/sensing/sensing $ nano settings.py
 pi@raspberrypi:~/sensing/sensing $ cp ~/iot/lesson4/sensing/urls.py .
 pi@raspberrypi:~/sensing/sensing $ cd ..
 ```
-## Copy admin.py, models.py, views.py, and serializers.py to ~/sensing/myapp
+## Copy models.py, views.py, and serializers.py to ~/sensing/myapp
 ```sh
 pi@raspberrypi:~/sensing $ cd myapp
 pi@raspberrypi:~/sensing/myapp $ cp ~/iot/lesson4/sensing/models.py .
@@ -101,7 +101,7 @@ Password (again): PASSWORD
 
 Superuser created successfully.
 
-## Run Django server
+## Terminal 1: Run Django server
 ```sh
 pi@raspberrypi:~/sensing $ python3 manage.py runserver
 ```
@@ -112,7 +112,7 @@ pi@raspberrypi:~/sensing $ python3 manage.py runserver
 * no to the state list at http://127.0.0.1:8000/room
 * closed to the state list at http://127.0.0.1:8000/door
 
-## Run native controller service on a separate terminal window
+## Terminal 2: Run native controller service
 ```sh
 pi@raspberrypi:~/sensing $ sudo python3 controller.py
 ```
