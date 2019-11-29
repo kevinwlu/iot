@@ -84,7 +84,7 @@ pi@raspberrypi:~/parking $ cp ~/iot/lesson4/parking/controller.py .
 ```
 ## Change the default password 'raspberry' in controller.py
 ```sh
-pi@raspberrypi:~/parking/myapp $ nano controller.py
+pi@raspberrypi:~/parking $ nano controller.py
 ```
 ## After the first time, skip these three steps if no changes
 ```sh
