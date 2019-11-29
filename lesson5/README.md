@@ -68,7 +68,7 @@ $ git clone https://github.com/eclipse/paho.mqtt.python.git
 $ cd ~/iot/lesson5
 $ python3 client.py
 ```
-#### Terminal 1
+#### Terminal 1 (control-c to exit)
 ```sh
 $ python3 sub.py
 ```
@@ -76,7 +76,7 @@ $ python3 sub.py
 ```sh
 $ python3 pub.py
 ```
-#### Terminal 1
+#### Terminal 1 (control-c to exit)
 ```sh
 $ python3 sub-multiple.py
 ```
@@ -84,7 +84,7 @@ $ python3 sub-multiple.py
 ```sh
 $ python3 pub-multiple.py
 ```
-#### Terminal 1
+#### Terminal 1 (control-c to exit)
 ```sh
 python3 subraspi.py
 ```
