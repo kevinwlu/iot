@@ -17,7 +17,6 @@ $ sudo reboot
 * Install and run Minicom
 ```sh
 $ sudo apt-get install minicom
-
 $ minicom -b 115200 -o -D /dev/ttyS0
 ```
 * Enable new line
@@ -47,9 +46,9 @@ control-a x
 
 * Connect the SPI MOSI and MISO pins (the 10th and 11th pins from the left of the bottom row) using one DuPont female-to-female jump wire, and enter the following three commands on a Terminal:
 ```sh
-wget https://raw.githubusercontent.com/raspberrypi/linux/rpi-3.10.y/Documentation/spi/spidev_test.c
-gcc -o spidev_test spidev_test.c
-./spidev_test -D /dev/spidev0.0
+$ wget https://raw.githubusercontent.com/raspberrypi/linux/rpi-3.10.y/Documentation/spi/spidev_test.c
+$ gcc -o spidev_test spidev_test.c
+$ ./spidev_test -D /dev/spidev0.0
 ```
 ## Lab C: I2C
 
