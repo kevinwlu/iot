@@ -124,7 +124,7 @@ pi@raspberrypi:~/weather $ python3 manage.py runserver
 * 50 to the Hmd List at http://127.0.0.1:8000/hmd
 
 ## Run native controller service on a separate terminal window
-
+```sh
 pi@raspberrypi:~/weather $ sudo python3 controller.py
-
+```
 ## View app at http://127.0.0.1:8000/home
