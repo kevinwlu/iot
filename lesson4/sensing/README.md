@@ -1,5 +1,7 @@
 # Django REST Project "Sensing"
 
+This project needs a door sensor and a PIR (passive infrared) motion sensor such as DYP-ME003 or HC-SR501.
+
 ## Start a Django project
 ```sh
 pi@raspberrypi:~ $ django-admin startproject sensing
