@@ -93,7 +93,7 @@ $ sudo chmod +x /lib/systemd/system/rc-local.service
 
 ### 1. On a laptop, download VNC Viewer https://www.realvnc.com/download/viewer
 
-### 2. Open a GNU Bash Terminal (or PuTTY) and enter
+### 2. Open a Terminal (or PuTTY) and enter
 ```sh
 $ ssh pi@155.246.x.x
 pi@raspberrypi:~ $ vncserver
