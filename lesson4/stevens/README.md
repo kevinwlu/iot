@@ -37,7 +37,7 @@ MariaDB [mysql]> quit
 
 ## Follow ~/iot/lesson4/stevens/settings.txt
 
-## Remember to change PASSWORD for MySQL user
+## Remember to change PASSWORD for MySQL user pi
 ```sh
 pi@raspberrypi:~/stevens $ cd stevens
 pi@raspberrypi:~/stevens/stevens $ nano settings.py
