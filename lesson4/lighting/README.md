@@ -76,7 +76,7 @@ Password (again): PASSWORD
 
 Superuser created successfully.
 
-## Run Django server
+## Terminal 1: Run Django server
 ```sh
 pi@raspberrypi:~/lighting $ python3 manage.py runserver
 ```
@@ -87,7 +87,7 @@ pi@raspberrypi:~/lighting $ python3 manage.py runserver
 * auto to the state list at http://127.0.0.1:8000/mode
 * off to the state list at http://127.0.0.1:8000/state
 
-## Run native controller service on a separate terminal window
+## Terminal 2: Run native controller service
 ```sh
 pi@raspberrypi:~/lighting $ sudo python3 controller.py
 ```
