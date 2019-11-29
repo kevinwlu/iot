@@ -24,11 +24,13 @@ $ minicom -b 115200 -o -D /dev/ttyS0
 control-a a
 hello
 ```
+hello
 * Enable echo
 ```sh
 control-a e
 hello
 ```
+hheelllloo
 * Exit Minicom
 ```sh
 control-a x
@@ -37,28 +39,78 @@ control-a x
 ### 3. Optionally, perform serial test between two Raspberry Pi's using three DuPont female-to-female jump wires
 
 * Connect TX of a Raspberry Pi to RX of the other Raspberry Pi
-
 * Connect RX of a Raspberry Pi to TX of the other Raspberry Pi
-
 * Connect GND of both Raspberry Pi's
+$ minicom -b 115200 -o -D /dev/ttyS0
+```
+* Enable new line
+```sh
+control-a a
+hello
+```
+* Enable echo
+```sh
+control-a e
+hello
+```
+hello
+* Exit Minicom
+```sh
+control-a x
+```
 
 ## Lab B: SPI
 
-* Connect the SPI MOSI and MISO pins (the 10th and 11th pins from the left of the bottom row) using one DuPont female-to-female jump wire, and enter the following three commands on a Terminal:
+* Connect the SPI MOSI and MISO pins (the 10th and 11th pins from the left of the bottom row) using one DuPont female-to-female jump wire
+* Enter the following three commands on a Terminal:
 ```sh
 $ wget https://raw.githubusercontent.com/raspberrypi/linux/rpi-3.10.y/Documentation/spi/spidev_test.c
 $ gcc -o spidev_test spidev_test.c
 $ ./spidev_test -D /dev/spidev0.0
+spi mode: 0
+bits per word: 8
+max speed: 500000 Hz (500 KHz)
+
+FF FF FF FF FF FF 
+40 00 00 00 00 95 
+FF FF FF FF FF FF 
+FF FF FF FF FF FF 
+FF FF FF FF FF FF 
+DE AD BE EF BA AD 
+F0 0D 
 ```
+
 ## Lab C: I2C
 
-* Connect I2C devices (ADXL345 and BMP180) using four DuPont female-to-female jump wires with 3V3, GND, SDA, and SCL
-
-* Install i2c-tools, and test I2C addresses (53 and 77) in use on an SSH Terminal:
+* Connect I2C device ADXL345 (3-axis accelerometer) to 3V3, GND, SDA, and SCL of a Raspberry Pi using four DuPont female-to-female jump wires
+* Install i2c-tools, and test I2C addresses
 ```sh
 $ sudo apt-get install i2c-tools python-smbus
 $ sudo i2cdetect -y 1
+   0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
+00:          -- -- -- -- -- -- -- -- -- -- -- -- -- 
+10: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+20: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+30: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+40: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+50: -- -- -- 53 -- -- -- -- -- -- -- -- -- -- -- -- 
+60: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+70: -- -- -- -- -- -- -- -- 
 ```
+* Connect I2C device BMP180 (barometric pressure sensor) to 3V3, GND, SDA, and SCL of a Raspberry Pi using four DuPont female-to-female jump wires
+```sh
+$ sudo i2cdetect -y 1
+   0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
+00:          -- -- -- -- -- -- -- -- -- -- -- -- -- 
+10: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+20: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+30: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+40: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+50: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+60: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+70: -- -- -- -- -- -- -- 77 
+```
+
 ## Lab D: Fritzing
 
 ### 1. On laptop, download Fritzing (before the class since it takes time), install, and run 
@@ -89,9 +141,7 @@ root@raspberypi:/home/pi# exit
 ### Connect DS18B20 to Raspberry Pi as follows:
 
 * GND to GND
-
 * VDD to 3.3V or 5V
-
 * DQ to GPIO 4 (the 4th pin from the left of the bottom row) and through a 4.7kΩ resistor to VDD
 ```sh
 pi@raspberrypi:~ $ sudo modprobe w1-gpio
