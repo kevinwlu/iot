@@ -37,9 +37,9 @@ MariaDB [mysql]> quit
 
 ## Edit settings.py in ~/stevens/stevens
 
-### Follow ~/iot/lesson4/stevens/settings.txt
+* Follow ~/iot/lesson4/stevens/settings.txt
 
-### Remember to change PASSWORD for MySQL user pi
+* Remember to change PASSWORD for MySQL user pi
 ```sh
 pi@raspberrypi:~/stevens $ cd stevens
 pi@raspberrypi:~/stevens/stevens $ nano settings.py
@@ -122,4 +122,4 @@ pi@raspberrypi:~/stevens $ python3 manage.py runserver
 
 ### Click SAVE
 
-## View app at http://127.0.0.1:8000
+### View app at http://127.0.0.1:8000
