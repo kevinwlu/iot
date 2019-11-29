@@ -53,6 +53,7 @@ $ git clone https://github.com/kevinwlu/iot.git
 $ cp ~/iot/lesson1/startup_mailer.py .
 ```
 * "~" represents the directory /home/pi
+* "." represents the current directory
 ```sh
 $ nano startup_mailer.py
 ```
