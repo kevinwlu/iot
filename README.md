@@ -24,7 +24,6 @@ pi@raspberrypi:~ $ git clone https://github.com/kevinwlu/iot.git
 
 ```sh
 pi@raspberrypi:~ $ cd iot
-
 pi@raspberrypi:~/iot $ git pull
 ```
 
