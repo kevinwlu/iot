@@ -1,4 +1,4 @@
-# Django REST Project Weather
+# Django REST Project "Weather"
 
 ## Start a Django project
 ```sh
