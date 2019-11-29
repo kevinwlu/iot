@@ -17,7 +17,7 @@
     pi@UNIQUE_NAME:~ $ cp ~/iot/lesson1/startup.cnf .
     pi@UNIQUE_NAME:~ $ cp ~/iot/lesson1/sshscript.sh .
 ```
-* Edit sshscript.sh
+* Edit sshscript.sh with a unique hostname
 ```sh
     pi@UNIQUE_NAME:~ $ sudo nano sshscript.sh
 ```
