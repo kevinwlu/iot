@@ -1,51 +1,5 @@
 # <a href="https://goo.gl/4aXo9L">Lesson 1</a>: Overview
 
-## VNC Connect
-
-* VNC Connect is included with the latest NOOBS for non-commercial use
-
-* Sign up for a free RealVNC https://www.realvnc.com account (need to be over 16) by an email address
-
-* On the Raspberry Pi desktop, click the VNC Server icon at the right of the menu bar and sign in to enable cloud connectivity
-
-* On a laptop, sign in to VNC Viewer
-
-## Serveo Port Forwarder
-
-* On a Raspberry Pi, copy two files
-```sh
-    pi@UNIQUE_NAME:~ $ cp ~/iot/lesson1/startup.cnf .
-    pi@UNIQUE_NAME:~ $ cp ~/iot/lesson1/sshscript.sh .
-```
-* Edit sshscript.sh with a unique hostname
-```sh
-    pi@UNIQUE_NAME:~ $ sudo nano sshscript.sh
-```
-```sh
-    #!/bin/bash   
-    while :   
-    do   
-    ssh -R UNIQUE_NAME:22:localhost:22 serveo.net   
-    sleep 10  
-    done
-```
-```sh
-    pi@UNIQUE_NAME:~ $ chmod +x sshscript.sh && sshscript.sh
-```
-* Edit /etc/rc.local
-```sh
-    pi@iotus:~ $ sudo nano /etc/rc.local
-```
-```sh
-    ...
-    if grep -q "RunServeoSSHOnStartup=1" /home/pi/startup.cnf; then sudo /home/pi/sshscript.sh &  
-    fi 
-    exit 0
-```
-* On a laptop, run the following command
-```sh
-    $ ssh -J serveo.net pi@UNIQUE_NAME
-```
 ## Lab A: NOOBS and Wi-Fi
 
 ### 1. Raspberry Pi only supports SDHC (High Capacity up to 32GB) cards with the FAT (File Allocation Table) file system
@@ -150,3 +104,50 @@ pi@raspberrypi:~ $ vncserver
 $ sudo shutdown -h now
 ```
 ### 6. Always unplug the power after the Raspberry Pi green LED blinks ten times
+
+## Alternative 1: VNC Connect
+
+* VNC Connect is included with the latest NOOBS for non-commercial use
+
+* Sign up for a free RealVNC https://www.realvnc.com account (need to be over 16) by an email address
+
+* On the Raspberry Pi desktop, click the VNC Server icon at the right of the menu bar and sign in to enable cloud connectivity
+
+* On a laptop, sign in to VNC Viewer
+
+## ALternative 2: Serveo Port Forwarder
+
+* On a Raspberry Pi, copy two files
+```sh
+    pi@UNIQUE_NAME:~ $ cp ~/iot/lesson1/startup.cnf .
+    pi@UNIQUE_NAME:~ $ cp ~/iot/lesson1/sshscript.sh .
+```
+* Edit sshscript.sh with a unique hostname
+```sh
+    pi@UNIQUE_NAME:~ $ sudo nano sshscript.sh
+```
+```sh
+    #!/bin/bash   
+    while :   
+    do   
+    ssh -R UNIQUE_NAME:22:localhost:22 serveo.net   
+    sleep 10  
+    done
+```
+```sh
+    pi@UNIQUE_NAME:~ $ chmod +x sshscript.sh && sshscript.sh
+```
+* Edit /etc/rc.local
+```sh
+    pi@iotus:~ $ sudo nano /etc/rc.local
+```
+```sh
+    ...
+    if grep -q "RunServeoSSHOnStartup=1" /home/pi/startup.cnf; then sudo /home/pi/sshscript.sh &  
+    fi 
+    exit 0
+```
+* On a laptop, run the following command
+```sh
+    $ ssh -J serveo.net pi@UNIQUE_NAME
+```
