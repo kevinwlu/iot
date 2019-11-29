@@ -13,10 +13,8 @@
 ## Serveo Port Forwarder
 
 * On a Raspberry Pi, copy two files
-
 ```sh
     pi@UNIQUE_NAME:~ $ cp ~/iot/lesson1/startup.cnf .
-
     pi@UNIQUE_NAME:~ $ cp ~/iot/lesson1/sshscript.sh .
 ```
 * Edit sshscript.sh
@@ -24,16 +22,11 @@
     pi@UNIQUE_NAME:~ $ sudo nano sshscript.sh
 ```
 ```sh
-    #!/bin/bash
-    
-    while :
-    
-    do
-    
-    ssh -R UNIQUE_NAME:22:localhost:22 serveo.net
-    
-    sleep 10
-    
+    #!/bin/bash   
+    while :   
+    do   
+    ssh -R UNIQUE_NAME:22:localhost:22 serveo.net   
+    sleep 10  
     done
 ```
 ```sh
@@ -45,11 +38,8 @@
 ```
 ```sh
     ...
-    
-    if grep -q "RunServeoSSHOnStartup=1" /home/pi/startup.cnf; then sudo /home/pi/sshscript.sh & 
-    
-    fi
-    
+    if grep -q "RunServeoSSHOnStartup=1" /home/pi/startup.cnf; then sudo /home/pi/sshscript.sh &  
+    fi 
     exit 0
 ```
 * On a laptop, run the following command
@@ -106,7 +96,6 @@
 
 ```sh
 $ git clone https://github.com/kevinwlu/iot.git
-
 $ cp ~/iot/lesson1/startup_mailer.py .
 ```
 * "~" represents the directory /home/pi
@@ -129,14 +118,12 @@ $ sudo nano /etc/rc.local
 ```
 ### 5. Add the following line with two-space indent above fi at the end as follows
 ```sh
-&nbsp;  python3 /home/pi/startup_mailer.py
-
+  python3 /home/pi/startup_mailer.py
 fi
 ```
 ### 6. Make /lib/systemd/system/rc-local.service executable if it's not
 ```sh
 $ ls -l /lib/systemd/system/rc-local.service
-
 $ sudo chmod +x /lib/systemd/system/rc-local.service
 ```
 ### 7. Save the file by typing "control-x y enter" and enter
@@ -152,7 +139,6 @@ $ sudo reboot
 ### 2. Open a GNU Bash Terminal (or PuTTY) and enter
 ```sh
 $ ssh pi@155.246.x.x
-
 pi@raspberrypi:~ $ vncserver
 ```
 ### 3. Open VNC Viewer, and enter 155.246.x.x:1, username pi, and password
