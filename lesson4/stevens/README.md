@@ -124,4 +124,4 @@ pi@raspberrypi:~/stevens $ python3 manage.py runserver
 
 ### Click SAVE
 
-## View app at http://127.0.0.1:8000
+### View app at http://127.0.0.1:8000
