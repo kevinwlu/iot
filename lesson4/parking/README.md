@@ -49,7 +49,7 @@ pi@raspberrypi:~/parking/parking $ nano settings.py
 pi@raspberrypi:~/parking/parking $ cp ~/iot/lesson4/parking/urls.py .
 pi@raspberrypi:~/parking/parking $ cd ..
 ```
-## Copy admin.py, models.py, views.py, and serializers.py to ~/parking/myapp
+## Copy models.py, views.py, and serializers.py to ~/parking/myapp
 ```sh
 pi@raspberrypi:~/parking $ cd myapp
 pi@raspberrypi:~/parking/myapp $ cp ~/iot/lesson4/parking/models.py .
@@ -103,7 +103,7 @@ Password (again): PASSWORD
 
 Superuser created successfully.
 
-## Run Django server
+## Terminal 1: Run Django server
 ```sh
 pi@raspberrypi:~/parking $ python3 manage.py runserver
 ```
@@ -113,7 +113,7 @@ pi@raspberrypi:~/parking $ python3 manage.py runserver
 
 * empty to the state list at http://127.0.0.1:8000/state
 
-## Run native controller service on a separate terminal window
+## Terminal 2: Run native controller service
 ```sh
 pi@raspberrypi:~/parking $ sudo python3 controller.py
 ```
