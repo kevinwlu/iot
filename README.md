@@ -16,13 +16,17 @@
 
 ## Clone the IoT repository on a Raspberry Pi
 
+```sh
 pi@raspberrypi:~ $ git clone https://github.com/kevinwlu/iot.git
+```
 
 ## Update the IoT repository on a Raspberry Pi
 
+```sh
 pi@raspberrypi:~ $ cd iot
 
 pi@raspberrypi:~/iot $ git pull
+```
 
 ## Courses
 
