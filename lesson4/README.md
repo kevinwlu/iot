@@ -45,7 +45,7 @@ $ cd Adafruit_Python_ADXL345
 $ sudo python3 setup.py install
 $ cd
 ```
-### Follow the instruction for Django projects stevens, weather, myraspi, lighting, parking, and sensing
+### Follow the instructions for Django projects stevens, weather, myraspi, lighting, parking, and sensing
 
 ## Lab C: Flask
 
