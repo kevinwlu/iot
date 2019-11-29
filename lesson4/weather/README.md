@@ -103,7 +103,7 @@ Password (again): PASSWORD
 
 Superuser created successfully.
 
-## Run Django server
+## Terminal 1: Run Django server
 ```sh
 pi@raspberrypi:~/weather $ python3 manage.py runserver
 ```
@@ -131,7 +131,7 @@ pi@raspberrypi:~/weather $ python3 manage.py runserver
 
 * 50 to the Hmd List at http://127.0.0.1:8000/hmd
 
-## Run native controller service on a separate terminal window
+## Terminal 2: Run native controller service
 ```sh
 pi@raspberrypi:~/weather $ sudo python3 controller.py
 ```
