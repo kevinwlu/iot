@@ -1,5 +1,9 @@
 # Django REST Project "Parking"
 
+This project needs a ultrasonic distance sensor HC-SR04:
+
+https://www.adafruit.com/product/3942
+
 ## Start a Django project
 ```sh
 pi@raspberrypi:~ $ django-admin startproject parking
