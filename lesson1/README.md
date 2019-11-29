@@ -67,7 +67,7 @@ $ nano startup_mailer.py
 ```
 * Change RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD
 * Replace HOSTNAME with the new Hostname
-* Save the file by typing "control-x y enter" and enter
+* Save the file by typing "control-x y enter"
 ```sh
 $ sudo nano /etc/rc.local
 ```
@@ -76,18 +76,18 @@ $ sudo nano /etc/rc.local
   python3 /home/pi/startup_mailer.py
 fi
 ```
-* Make /lib/systemd/system/rc-local.service executable if it's not
-```sh
-$ ls -l /lib/systemd/system/rc-local.service
-$ sudo chmod +x /lib/systemd/system/rc-local.service
-```
 * Save the file by typing "control-x y enter"
 ```sh
 $ sudo reboot
 ```
-### 3. Check RECIPIENT_EMAIL for Hostname IP address
+### 3. Make /lib/systemd/system/rc-local.service executable if it's not
+```sh
+$ ls -l /lib/systemd/system/rc-local.service
+$ sudo chmod +x /lib/systemd/system/rc-local.service
+```
+### 4. Check RECIPIENT_EMAIL for Hostname IP address
 
-### 4. Disconnect the monitor, keyboard, and mouse
+### 5. Disconnect the monitor, keyboard, and mouse
 
 ## Lab D: SSH and VNC
 
