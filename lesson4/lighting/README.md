@@ -1,6 +1,6 @@
 # Django REST Project "Lighting"
 
-This project needs a light-dependent resistor (LDR), light-emitting diode (LED), 1kΩ and 10kΩ resistors, 
+This project requires a light-dependent resistor (LDR), light-emitting diode (LED), 1kΩ and 10kΩ resistors, 
 MCP3008 analog-to-digital converter (ADC), and SRD-05VDC-SL-C relay.
 
 ## Start a Django project
