@@ -2,24 +2,29 @@ ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
 update_config=1
 country=US
 
+# ENTERPRISE WI-FI NETWORK
+# Generate hash value of PASSWORD as follows:
+# $ echo -n 'PASSWORD' | iconv -t utf16le | openssl md4
+# (stdin)= xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 network={
         ssid="Stevens"
         key_mgmt=WPA-EAP
         identity="STEVENS_LOGIN"
-#        password="PASSWORD"
-#echo -n 'PASSWORD' | iconv -t utf16le | openssl md4
-#(stdin)= xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#       password="PASSWORD"
         password=hash:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 }
 
+# HOME WI-FI NETWORK OR PERSONAL HOTSPOT
+# Generate wpa_passphrase using both SSID and Password as follows:
+# $ wpa_passphrase SSID Password
 network={
         ssid="SSID"
-        psk="PRE_SHARED_KEY"
+#       psk="PRE_SHARED_KEY"
+        psk=b99d2c0fb66194f93ad52b71051e1095dc76e12529321334b3feb18332608eb7
 }
 
-#wpa_passphrase SSID Password
-#network={
-#        ssid="SSID"
-#        #psk="Password"
-#        psk=b99d2c0fb66194f93ad52b71051e1095dc76e12529321334b3feb18332608eb7
-#}
+# UNSECURED WI-FI NETWORK
+network={
+    ssid="Stevens-Guest"
+    key_mgmt=NONE
+}
