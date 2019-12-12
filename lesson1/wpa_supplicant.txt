@@ -7,14 +7,14 @@ country=US
 # $ echo -n 'PASSWORD' | iconv -t utf16le | openssl md4
 # (stdin)= xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 network={
-        ssid="Stevens"
+        ssid="SSID"
         key_mgmt=WPA-EAP
-        identity="STEVENS_LOGIN"
+        identity="LOGIN"
 #       password="PASSWORD"
         password=hash:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 }
 
-# HOME WI-FI NETWORK OR PERSONAL HOTSPOT
+# HOME WI-FI NETWORK OR PERSONAL/PORTABLE WI-FI HOTSPOT
 # Generate wpa_passphrase using both SSID and Password as follows:
 # $ wpa_passphrase SSID Password
 network={
@@ -25,6 +25,6 @@ network={
 
 # UNSECURED WI-FI NETWORK
 network={
-    ssid="Stevens-Guest"
+    ssid="SSID"
     key_mgmt=NONE
 }
