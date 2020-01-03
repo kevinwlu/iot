@@ -12,6 +12,14 @@ https://gist.github.com/aunyks/8f2c2fd51cc17f342737917e1c2582e2
 $ cd ~/iot/lesson10
 $ python3 hash_value.py
 $ python3 snakecoin.py
+$ python3
+>>> import hashlib
+>>> m=hashlib.sha256(b"hello, world")
+>>> m.hexdigest()
+>>> m.digest_size
+>>> m.block_size
+>>> exit()
+$
 ```
 ### Terminal 1
 ```sh
