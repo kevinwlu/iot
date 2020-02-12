@@ -39,19 +39,15 @@ control-a x
 * Connect TX of a Raspberry Pi to RX of the other Raspberry Pi
 * Connect RX of a Raspberry Pi to TX of the other Raspberry Pi
 * Connect GND of both Raspberry Pi's
+```sh
 $ minicom -b 115200 -o -D /dev/ttyS0
 ```
-* Enable new line
+* Enable new line and echo
 ```sh
 control-a a
-hello
-```
-* Enable echo
-```sh
 control-a e
 hello
 ```
-hello
 * Exit Minicom
 ```sh
 control-a x
