@@ -153,10 +153,8 @@ pi@raspberrypi:/sys/bus/w1/devices $ ls
 ```sh
 pi@raspberrypi:/sys/bus/w1/devices $ cd 28*
 pi@raspberrypi:/sys/bus/w1/devices/28-0000064dc293 $ cat w1_slave
-```
 8f 01 4b 46 7f ff 01 10 14 : crc=14 YES
 8f 01 4b 46 7f ff 01 10 14 t=24937
-```sh
 pi@raspberrypi:/sys/bus/w1/devices/28-0000064dc293 $ cd
 pi@raspberrypi:~ $ 
 ```
