@@ -24,13 +24,11 @@ $ minicom -b 115200 -o -D /dev/ttyS0
 control-a a
 hello
 ```
-hello
 * Enable echo
 ```sh
 control-a e
-hello
-```
 hheelllloo
+```
 * Exit Minicom
 ```sh
 control-a x
