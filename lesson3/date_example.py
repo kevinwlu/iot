@@ -8,6 +8,6 @@ print('Year: ' + now.strftime('%Y'))
 first = date(2020, 1, 21)
 last = date(2020, 5, 6)
 timediff = now - first
-print('{:d} days from the first day of classes'.format(timediff.days))
+print('{:d} days since the first day of classes'.format(timediff.days))
 timediff = last - now
 print('{:d} days to the last day of classes'.format(timediff.days))
