@@ -9,7 +9,7 @@ timezone = city.timezone
 print('Timezone: %s' % timezone)
 print('Latitude: %.02f; Longitude: %.02f\n' % (city.latitude, city.longitude))
 s = sun(city.observer, date=date.today())
-print('Dawn:    %s' % str(localize(s['dawn'])))
+print('Dawn:    %s' % str(pytz.UTC.localize(s['dawn'])))
 print('Sunrise: %s' % str(s['sunrise']))
 print('Noon:    %s' % str(s['noon']))
 print('Sunset:  %s' % str(s['sunset']))
