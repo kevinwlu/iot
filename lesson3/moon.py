@@ -1,8 +1,7 @@
 from datetime import date, timedelta
-from astral import Astral
+from astral import moon
 now = date.today()
-a = Astral()
 for i in range(30):
     day = now + timedelta(days=i)
-    moon = a.moon_phase(day)
-    print(day.isoformat() + ' Moon Phase: %d' % moon)
+    moon_phase = moon.phase(day)
+    print(day.isoformat() + ' Moon Phase: %d' % moon_phase)
