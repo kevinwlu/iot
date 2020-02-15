@@ -4,7 +4,7 @@ from astral import LocationInfo
 from astral.sun import sun
 city_name = sys.argv[1]
 city = LocationInfo(city_name)
-print('Information for %s/%s\n' % (city_name, city.region))
+print('Information for %s/%s\n' % (city.name, city.region))
 timezone = city.timezone
 print('Timezone: %s' % timezone)
 print('Latitude: %.02f; Longitude: %.02f\n' % (city.latitude, city.longitude))
