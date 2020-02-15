@@ -8,7 +8,7 @@ print('Information for %s/%s\n' % (city.name, city.region))
 timezone = city.timezone
 print('Timezone: %s' % timezone)
 print('Latitude: %.02f; Longitude: %.02f\n' % (city.latitude, city.longitude))
-s = sun(city.observer, date=date.today(), tzinfo=timezone)
+s = sun(city.observer, date=date.today(), tzinfo=local)
 print('Dawn:    %s' % str(s['dawn']))
 print('Sunrise: %s' % str(s['sunrise']))
 print('Noon:    %s' % str(s['noon']))
