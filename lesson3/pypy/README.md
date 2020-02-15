@@ -1,3 +1,4 @@
+```sh
 $ gcc -o test test.c
 
 $ time ./test
@@ -13,3 +14,4 @@ $ pypy -m cProfile test.py
 $ python -m cProfile test.py
 
 $ python3 -m cProfile test.py
+```
