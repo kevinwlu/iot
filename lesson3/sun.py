@@ -1,9 +1,9 @@
 import sys
 from datetime import date
-from astral import LocationInfo
+from astral.geocoder import database, lookup
 from astral.sun import sun
 city_name = sys.argv[1]
-city = LocationInfo(city_name)
+city = lookup(city_name, database())
 print('Information for %s/%s\n' % (city.name, city.region))
 timezone = city.timezone
 print('Timezone: %s' % timezone)
