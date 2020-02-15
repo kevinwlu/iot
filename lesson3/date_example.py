@@ -5,9 +5,9 @@ print('Date: ' + now.strftime('%m-%d-%y'))
 print('Day of Week: ' + now.strftime('%A'))
 print('Month: ' + now.strftime('%B'))
 print('Year: ' + now.strftime('%Y'))
-midterm = date(2019, 10, 15)
-final = date(2019, 12, 2)
-timediff = midterm - now
-print('{:d} days to midterm'.format(timediff.days))
-timediff = final - now
-print('{:d} days to final'.format(timediff.days))
+first = date(2020, 1, 21)
+last = date(2020, 5, 6)
+timediff = now - first
+print('{:d} days from the first day of classes'.format(timediff.days))
+timediff = last - now
+print('{:d} days to the last day of classes'.format(timediff.days))
