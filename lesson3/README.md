@@ -86,10 +86,12 @@ $ python3 -m cProfile test.py
 ```
 ## Lab F: Doxygen
 ```sh
-$ sudo apt-get install doxygen
+$ sudo apt install doxygen html2text
 $ cd demo
 $ cp ~/iot/lesson3/pyexample.py .
 $ doxygen -g doxygen.config
 $ nano doxygen.config
 $ doxygen doxygen.config
+$ cd html
+$ html2text annotated.html
 ```
