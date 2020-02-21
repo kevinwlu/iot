@@ -14,9 +14,9 @@ $ sudo pip3 install -U requests
 ```
 ### Install MariaDB server and client
 ```sh
-$ sudo apt-get update
-$ sudo apt-get install mariadb-server mariadb-client
-$ sudo apt-get install python3-mysqldb
+$ sudo apt update
+$ sudo apt install mariadb-server mariadb-client
+$ sudo apt install python3-mysqldb
 $ sudo pip3 install -U mysqlclient
 $ sudo mysql_secure_installation
 ```
@@ -60,13 +60,13 @@ $ sudo unzip ngrok-stable-linux-arm.zip
 
 ### Install Apache web server and PHP
 ```sh
-$ sudo apt-get update
-$ sudo apt-get install apache2
+$ sudo apt update
+$ sudo apt install apache2
 $ sudo service apache2 restart
 ```
 ### Open a Chromium browser and go to http://127.0.0.1 to view the Apache2 Debian Default Page
 ```sh
-$ sudo apt-get install php7.3
+$ sudo apt install php7.3
 $ cd /var/www/html
 $ ls
 $ sudo mv index.html index.html.bak
@@ -77,7 +77,7 @@ $ sudo service apache2 restart
 
 ### Build a Linux-Apache-MySQL-PHP (LAMP) web server with WordPress 
 ```sh
-$ sudo apt-get install php7.3-mysql
+$ sudo apt install php7.3-mysql
 $ cd /var/www/html
 $ sudo chown pi: .
 $ mv index.php index.php.bak
