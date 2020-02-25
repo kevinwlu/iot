@@ -157,8 +157,8 @@ pi@raspberrypi:~ $
 
 ### Connect a USB webcam, install fswebcam, and save images:
 ```sh
-$ sudo apt-get update
-$ sudo apt-get install fswebcam
+$ sudo apt update
+$ sudo apt install fswebcam
 $ fswebcam image.jpg
 $ fswebcam -r 1280x720 image2.jpg
 $ fswebcam -r 1280x720 --no-banner image3.jpg
