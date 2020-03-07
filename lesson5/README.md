@@ -51,7 +51,7 @@ $ python3 client_component_subscribe.py
 ```
 ## Lab B: Install and run Mosquitto and Paho to subscribe on one terminal and publish on another
 ```sh
-$ sudo apt-get install mosquitto mosquitto-clients
+$ sudo apt install mosquitto mosquitto-clients
 $ mosquitto_sub -h localhost -v -t "\$SYS/#"
 ```
 ### Press control-c to stop mosquitto_sub
