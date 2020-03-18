@@ -105,13 +105,11 @@ $ sudo i2cdetect -y 1
 70: -- -- -- -- -- -- -- 77 
 ```
 
-## Lab D: Fritzing
+## Lab D: Breadboard
 
-### 1. On laptop, download Fritzing (before the class since it takes time), install, and run 
+### 1. Shorter lead (−) of the LED to a 330-Ω resistor then to Ground, the 3rd pin from the left of the top row
 
-### 2. Click Breadboard, drag and drop parts including Raspberry Pi, LED, and resistor
-
-### 3. Click File menu, save the file, and export as image
+### 2. Longer lead (+) of the LED to GPIO 18, the 6th pin from the left of the top row
 
 ## Lab E: GPIO and LED
 
