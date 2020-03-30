@@ -30,7 +30,7 @@ https://console.developers.google.com/projectselector/iam-admin/iam
 
 ### Click "Create" and enter the project name, e.g., rpidata
 
-### &equiv; > APIs & Services > + Enable APIs & Services > Enable Drive API and Sheets API
+### &equiv; > APIs & Services > + Enable APIs & Services > Enable both Drive API and Sheets API
 
 ### Credential > Create Credentials > Create service account key > Service account > rpidata > JSON key type > Create > download rpidata-xxxxxxxxxxxx.json
 
