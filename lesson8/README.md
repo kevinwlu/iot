@@ -18,7 +18,7 @@ $ sudo pip3 install --only-binary :all: -U scikit-learn
 $ sudo pip3 install -U tensorflow
 $ sudo pip3 install -U keras
 ```
-### Either enable X11 forwarding with SSH -Y or use VNC Viewer
+### If not using VNC Viewer, enable X11 forwarding with SSH -Y
 
 #### follow the instructions, install and configure Xming, and always open Xming before running PuTTY with SSH and X11 forwarding
 
