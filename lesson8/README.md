@@ -50,6 +50,7 @@ $ python3 legend_demo.py
 
 ## Lab B: Data Analysis
 
+### Histograms, Boxplots, Regression, and Classification
 ```sh
 $ python3 scatter_demo.py
 $ python3 histogram_demo_features.py
@@ -61,6 +62,10 @@ $ python3 interpolation.py
 $ python3 plot_lda.py
 $ python3 plot_lda_qda.py
 $ python3 plt_final.py
+```
+
+### Cross-validation
+```sh
 $ python3 plt_cv2.py
 $ python3 plot_cv_predict.py
 $ python3 plot_cv_diabetes.py
@@ -68,7 +73,6 @@ $ python3 plot_cv_diabetes.py
 
 ### Keras and TensorFlow
 ```sh
-$ cd ~/iot/lesson8
 $ python3 keras_diabetes.py
 ```
 
