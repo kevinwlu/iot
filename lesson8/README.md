@@ -20,7 +20,7 @@ $ sudo pip3 install -U keras
 ```
 ### If not using VNC Viewer, enable X11 forwarding with SSH -Y
 
-#### follow the instructions, install and configure Xming, and always open Xming before running PuTTY with SSH and X11 forwarding
+#### For Windows, follow the instructions, install and configure Xming, and always open Xming before running PuTTY with SSH and X11 forwarding
 
 http://laptops.eng.uci.edu/software-installation/using-linux/how-to-configure-xming-putty
 
