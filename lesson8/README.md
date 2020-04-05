@@ -52,12 +52,12 @@ $ python3 histogram_demo_extended.py
 $ python3 boxplot_demo.py
 $ python3 linreg.py
 $ python3 interpolation.py
+$ python3 plot_lda.py
+$ python3 plot_lda_qda.py
 $ python3 plt_final.py
 $ python3 plt_cv2.py
 $ python3 plot_cv_predict.py
 $ python3 plot_cv_diabetes.py
-$ python3 plot_lda.py
-$ python3 plot_lda_qda.py
 ```
 ## Lab B: Data Analysis
 
