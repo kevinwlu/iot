@@ -18,7 +18,7 @@ $ sudo pip3 install --only-binary :all: -U scikit-learn
 $ sudo pip3 install -U tensorflow
 $ sudo pip3 install -U keras
 ```
-### If not using VNC Viewer, enable X11 forwarding with SSH -Y
+### Enable X11 forwarding with SSH -Y on a PC to run code on Raspberry Pi without VNC Viewer
 
 #### For Windows, follow the instructions, install and configure Xming, and always open Xming before running PuTTY with SSH and X11 forwarding
 
