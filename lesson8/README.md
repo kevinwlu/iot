@@ -50,7 +50,7 @@ $ python3 legend_demo.py
 
 ## Lab B: Data Analysis
 
-### Histograms, Box Plots, Regression, and Classification
+### Histograms, box plots, regression, and classification
 ```sh
 $ python3 scatter_demo.py
 $ python3 histogram_demo_features.py
