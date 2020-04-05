@@ -33,6 +33,7 @@ https://www.putty.org/
 https://www.xquartz.org/
 
 http://man.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/ssh.1#Y
+
 ```sh
 $ cd ~/iot/lesson8
 $ python3 pyplot_simple.py
@@ -45,6 +46,11 @@ $ python3 pyplot_scales.py
 $ python3 pyplot_annotate.py
 $ python3 major_minor_demo1.py
 $ python3 legend_demo.py
+```
+
+## Lab B: Data Analysis
+
+```sh
 $ python3 scatter_demo.py
 $ python3 histogram_demo_features.py
 $ python3 pyplot_text.py
@@ -59,7 +65,12 @@ $ python3 plt_cv2.py
 $ python3 plot_cv_predict.py
 $ python3 plot_cv_diabetes.py
 ```
-## Lab B: Data Analysis
+
+### Keras and TensorFlow
+```sh
+$ cd ~/iot/lesson8
+$ python3 keras_diabetes.py
+```
 
 ### Titanic example
 ```sh
@@ -70,9 +81,4 @@ $ cp titanic_2.py ~/demo
 $ cd demo
 $ python3 titanic_1.py
 $ python3 titanic_2.py
-```
-### Keras and TensorFlow
-```sh
-$ cd ~/iot/lesson8
-$ python3 keras_diabetes.py
 ```
