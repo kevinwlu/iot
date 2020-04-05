@@ -4,15 +4,12 @@
 
 ### Install SciPy, Matplotlib, pandas, and dependencies on Raspberry Pi
 ```sh
-$ sudo apt-get update
-$ sudo apt-get install build-essential
-$ sudo apt-get install python3-dev
-$ sudo apt-get install python3-setuptools
-$ sudo apt-get install python3-scipy
-$ sudo apt-get install python3-matplotlib
-$ sudo apt-get install python3-pandas
-$ sudo apt-get install libopenblas-dev
-$ sudo apt-get install libatlas-base-dev
+$ sudo apt update
+$ sudo apt install python3-scipy
+$ sudo apt install python3-matplotlib
+$ sudo apt install python3-pandas
+$ sudo apt install libopenblas-dev
+$ sudo apt install libatlas-base-dev
 ```
 ### Install NumPy, scikit-learn, TensorFlow, and Keras on Raspberry Pi
 ```sh
