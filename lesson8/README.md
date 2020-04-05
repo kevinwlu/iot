@@ -86,7 +86,7 @@ $ cp train.csv ~/demo
 $ cp test.csv ~/demo
 $ cp titanic_1.py ~/demo
 $ cp titanic_2.py ~/demo
-$ cd demo
+$ cd ~/demo
 $ python3 titanic_1.py
 $ python3 titanic_2.py
 ```
