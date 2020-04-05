@@ -3,8 +3,9 @@
 Plotting Cross-Validated Predictions
 ====================================
 
-This example shows how to use `cross_val_predict` to visualize prediction
-errors.
+This example shows how to use `cross_val_predict` with 
+Lasso (least absolute shrinkage and selection operator)
+to visualize prediction errors.
 
 """
 from sklearn import datasets
