@@ -4,7 +4,7 @@
 
 ### Install and run pyang on a Raspberry Pi
 ```sh
-$ sudo apt-get install libxml2-dev libxslt1-dev
+$ sudo apt install libxml2-dev libxslt1-dev
 $ sudo pip3 install -U lxml pyang
 $ cp ~/iot/lesson9/intrusiondetection.yang ~/demo
 $ cd demo
@@ -28,8 +28,8 @@ $ python3 -m plantuml intrusiondetection.uml
 #### On Windows, run Xming then PuTTY with SSH and X11 forwarding
 ```sh
 $ cd
-$ sudo apt-get update
-$ sudo apt-get install gimp pinta
+$ sudo apt update
+$ sudo apt install gimp pinta
 $ cd demo
 $ pinta intrusiondetection.png
 $ gimp -h
