@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/RIzzfl">Lesson 9</a>: NETCONF and YANG
 
-## Lab: YANG
+## Lab: <a href="https://en.wikipedia.org/wiki/YANG">YANG</a>
 
 ### Install and run pyang on a Raspberry Pi
 ```sh
