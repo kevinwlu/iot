@@ -2,7 +2,7 @@
 
 ## Lab: <a href="https://en.wikipedia.org/wiki/YANG">YANG</a>
 
-### Install and run pyang on a Raspberry Pi
+### Install and run <a href="https://github.com/mbj4668/pyang">pyang</a> on a Raspberry Pi
 ```sh
 $ sudo apt install libxml2-dev libxslt1-dev
 $ sudo pip3 install -U lxml pyang
