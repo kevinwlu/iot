@@ -15,11 +15,11 @@ $ pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereo
 ```sh
 $ sudo pip3 install -U plantuml
 ```
-### Run PlantUML to create a sequence diagram in PNG
+### Run PlantUML to create a sequence diagram in <a href="https://en.wikipedia.org/wiki/Portable_Network_Graphics">PNG</a>
 ```sh
 $ python3 -m plantuml intrusiondetection.uml
 ```
-### Install and run GIMP and Pinta to display a PNG file
+### Install and run <a href="https://en.wikipedia.org/wiki/GIMP">GIMP</a> and <a href="https://en.wikipedia.org/wiki/Pinta_(software)">Pinta</a> to display a PNG file
 
 #### Alternatives to VNC Viewer
 
