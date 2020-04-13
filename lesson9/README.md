@@ -11,7 +11,7 @@ $ cd ~/demo
 $ pyang -f yin -o intrusiondetection.yin intrusiondetection.yang
 $ pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereotypes,annotation,typedef
 ```
-### Install PlantUML on a laptop or Raspberry Pi
+### Install <a href="https://en.wikipedia.org/wiki/PlantUML">PlantUML</a> on a laptop or Raspberry Pi
 ```sh
 $ sudo pip3 install -U plantuml
 ```
