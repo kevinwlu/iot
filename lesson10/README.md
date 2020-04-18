@@ -21,7 +21,7 @@ $ python3
 >>> exit()
 $ cd
 ```
-### Terminal 1
+### Terminal 1 (Press CTRL+C to quit)
 ```sh
 $ git clone https://github.com/satwikkansal/python_blockchain_app.git
 $ export FLASK_APP=node_server.py
@@ -29,7 +29,7 @@ $ cd ~/python_blockchain_app
 $ flask run --port 8000
 ```
 
-### Terminal 2
+### Terminal 2 (Press CTRL+C to quit)
 ```sh
 $ cd ~/python_blockchain_app
 $ python3 run_app.py
