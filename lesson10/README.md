@@ -88,29 +88,35 @@ $ npm install
 ```
 ### Change nodes.testnet.iota.org to nodes.devnet.iota.org
 ```sh
+$ cd ~/dht11-raspi3
 $ nano mam_publish.js
 $ nano mam_receive.js
 $ nano mam_sensor.js
 ```
 ### Terminal 1: Run mam_publish.js (Press CTRL+Z to stop)
 ```sh
+$ cd ~/dht11-raspi3
 $ node mam_publish.js
 ```
 ### Terminal 2: Run mam_receive.js (Press CTRL+Z to stop)
 ```sh
+$ cd ~/dht11-raspi3
 $ node mam_receive.js YOUR_ROOT
 ```
 ### Change sensor type to DHT22 and GPIO pin to 24
 ```sh
+$ cd ~/dht11-raspi3
 $ nano sensor.js
 $ nano mam_sensor.js
 $ node sensor.js
 ```
 ### Terminal 1: Run mam_sensor.js (Press CTRL+Z to stop)
 ```sh
+$ cd ~/dht11-raspi3
 $ node mam_sensor.js
 ```
 ### Terminal 2: Run mam_receive.js (Press CTRL+Z to stop)
 ```sh
+$ cd ~/dht11-raspi3
 $ node mam_receive.js YOUR_ROOT
 ```
