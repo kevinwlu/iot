@@ -19,13 +19,13 @@ $ python3
 >>> m.digest_size
 >>> m.block_size
 >>> exit()
-$
+$ cd
 ```
 ### Terminal 1
 ```sh
 $ git clone https://github.com/satwikkansal/python_blockchain_app.git
 $ export FLASK_APP=node_server.py
-$ cd python_blockchain_app
+$ cd ~/python_blockchain_app
 $ flask run --port 8000
 ```
 * Serving Flask app "node_server"
@@ -33,7 +33,7 @@ $ flask run --port 8000
 
 ### Terminal 2
 ```sh
-$ cd python_blockchain_app
+$ cd ~/python_blockchain_app
 $ python3 run_app.py
 ```
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
