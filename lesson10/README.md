@@ -40,9 +40,11 @@ $ python3 run_app.py
 $ vncserver
 ```
 
-Via VNC viewer, open a browser on Raspberry Pi and go to http://127.0.0.1:5000/ 
+Via VNC viewer, open a browser on Raspberry Pi and go to YourNet running at at http://127.0.0.1:5000/ 
 
-Enter content and post name, click "Request to mine," then "Resync"
+Enter content and post name, click "Request to mine" that generate "Block #1 is mined" at http://127.0.0.1:8000/mine
+
+At YourNet, click "Resync" to view Block #1
 
 ## Lab B: IOTA
 
