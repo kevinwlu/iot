@@ -43,11 +43,13 @@ $ python3 run_app.py
 
 ## Lab B: IOTA
 
-### PyOTA (IOTA Python Client Library) and IRI (IOTA Reference Implementation)
+### [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library) and [IRI](https://docs.iota.org/docs/node-software/0.1/iri/introduction/overview) (IOTA Reference Implementation)
 
-[PyOTA] (https://github.com/iotaledger/iota.py)
-
-[IRI] (https://docs.iota.org/docs/node-software/0.1/iri/introduction/overview)
+```sh
+$ sudo pip3 install pyota[ccurl]
+$ cd ~/iot/lesson10
+$ python3 
+```
 
 ### Send DHT11 sensor data to the IOTA Tangle using MAM (by Robert Lie)
 
