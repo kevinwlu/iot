@@ -28,18 +28,21 @@ $ export FLASK_APP=node_server.py
 $ cd ~/python_blockchain_app
 $ flask run --port 8000
 ```
-* Serving Flask app "node_server"
-* Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
 
 ### Terminal 2
 ```sh
 $ cd ~/python_blockchain_app
 $ python3 run_app.py
 ```
-* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-* Restarting with inotify reloader
-* Debugger is active!
-* Debugger PIN: 184-619-943
+
+### Terminal 3
+```sh
+$ vncserver
+```
+
+Via VNC viewer, open a browser on Raspberry Pi and go to http://127.0.0.1:5000/ 
+
+Enter content and post name, click "Request to mine," then "Resync"
 
 ## Lab B: IOTA
 
