@@ -49,6 +49,7 @@ $ python3 run_app.py
 $ sudo pip3 install pyota[ccurl]
 $ cd ~/iot/lesson10
 $ python3 iri_node_info.py
+$ cd
 ```
 
 ### Send DHT11 sensor data to the IOTA Tangle using MAM (by Robert Lie)
