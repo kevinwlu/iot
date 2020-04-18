@@ -103,7 +103,7 @@ $ node mam_publish.js
 $ cd ~/dht11-raspi3
 $ node mam_receive.js YOUR_ROOT
 ```
-### Change sensor type to DHT22 and GPIO pin to 24
+### Change sensor type to DHT22 and GPIO pin to 24 (DHT22 is required)
 ```sh
 $ cd ~/dht11-raspi3
 $ nano sensor.js
