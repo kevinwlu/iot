@@ -1,29 +1,30 @@
-from qiskit import QuantumCircuit, execute, Aer, IBMQ
+from qiskit import QuantumCircuit, execute
+from qiskit import Aer, IBMQ
 from qiskit.providers.aer.noise import NoiseModel
 
-# Choose a real device to simulate
-IBMQ.load_account()
-provider = IBMQ.get_provider(group='open')
-device = provider.get_backend('ibmq_16_melbourne')
-coupling_map = device.configuration().coupling_map
+# Choose a real device to simulate from IBMQ provider
+provider = IBMQ.load_account()
+backend = provider.get_backend('ibmq_vigo')
+coupling_map = backend.configuration().coupling_map
 
 # Generate an Aer noise model for device
-noise_model = NoiseModel.from_backend(properties)
+noise_model = NoiseModel.from_backend(backend)
 basis_gates = noise_model.basis_gates
 
-# Generate a quantum circuit
-qc = QuantumCircuit(2, 2)
-
-qc.h(0)
-qc.cx(0, 1)
-qc.measure([0, 1], [0, 1])
+# Generate 3-qubit GHZ state
+num_qubits = 3
+circ = QuantumCircuit(3, 3)
+circ.h(0)
+circ.cx(0, 1)
+circ.cx(1, 2)
+circ.measure([0, 1, 2], [0, 1 ,2])
 
 # Perform noisy simulation
 backend = Aer.get_backend('qasm_simulator')
-job_sim = execute(qc, backend,
-                  coupling_map=coupling_map,
-                  noise_model=noise_model,
-                  basis_gates=basis_gates)
+job = execute(circ, backend,
+              coupling_map=coupling_map,
+              noise_model=noise_model,
+              basis_gates=basis_gates)
+result = job.result()
 
-sim_result = job_sim.result()
-print(sim_result.get_counts(qc))
+print(result.get_counts(0))
