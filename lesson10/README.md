@@ -31,13 +31,9 @@ $ flask run --port 8000
 
 ### Terminal 2 (Press CTRL+C to quit)
 ```sh
+$ vncserver
 $ cd ~/python_blockchain_app
 $ python3 run_app.py
-```
-
-### Terminal 3
-```sh
-$ vncserver
 ```
 
 Via VNC viewer, open a browser on Raspberry Pi and go to YourNet running at at http://127.0.0.1:5000/ 
