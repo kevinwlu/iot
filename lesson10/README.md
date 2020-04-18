@@ -43,6 +43,10 @@ $ python3 run_app.py
 
 ## Lab B: IOTA
 
+### [PyOTA] (https://github.com/iotaledger/iota.py) and [IRI] (https://docs.iota.org/docs/node-software/0.1/iri/introduction/overview)
+
+
+
 ### Send DHT11 sensor data to the IOTA Tangle using MAM (by Robert Lie)
 
 https://www.youtube.com/watch?v=atJ-ZT7aKoA
