@@ -38,14 +38,25 @@ $ gimp -a intrusiondetection.png
 
 ## Bonus Lab: [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
 
-### Install qiskit on a laptop and run example code
+### Install qiskit on a laptop, create an [IBM Quantum Experience account](https://quantum-computing.ibm.com/), copy API token from [account](https://quantum-computing.ibm.com/account), and save API token
 
 ```sh
 $ sudo pip3 install qiskit
 $ sudo pip3 install qiskit-terra[visualization]
+$ python3
+>>> from qiskit import IBMQ
+>>> IBMQ.save_account('MY_API_TOKEN')
+>>> exit()
+```
+
+### Run examples of Qiskit
+
+```sh
 $ cd ~/iot/lesson9
 $ python3 qiskit_terra_example.py
 $ python3 qiskit_aqua_example.py
 $ python3 qiskit_aer_example.py
 $ python3 qiskit_ignis_example.py
 ```
+
+### Alternatively, create Qiskit Notebook [here](https://quantum-computing.ibm.com/jupyter)
