@@ -54,8 +54,8 @@ $ python3
 ```sh
 $ cd ~/iot/lesson9
 $ python3 qiskit_terra_example.py
-$ python3 qiskit_aqua_example.py
 $ python3 qiskit_aer_example.py
+$ python3 qiskit_aqua_example.py
 $ python3 qiskit_ignis_example.py
 ```
 
