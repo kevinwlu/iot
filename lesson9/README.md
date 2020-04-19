@@ -38,7 +38,7 @@ $ gimp -a intrusiondetection.png
 
 ## Bonus Lab: [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
 
-### Install qiskit on a laptop, create an [IBM Quantum Experience account](https://quantum-computing.ibm.com/), copy API token from [account](https://quantum-computing.ibm.com/account), and save API token
+### Install qiskit on a laptop (not Raspberry Pi), create an [IBM Quantum Experience account](https://quantum-computing.ibm.com/), copy API token from [account](https://quantum-computing.ibm.com/account), and save API token
 
 ```sh
 $ sudo pip3 install qiskit
