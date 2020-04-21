@@ -1,8 +1,37 @@
+# 2020 Spring
+
 # 2019 Fall
 
 * Soorya Ashokan, [Security System Using Raspberry Pi](https://github.com/sooryanivedhaashokan/IoT-security-system-using-Raspberry-Pi)
 * Thomas Carbonaro, [Smart Parking Garage Model](https://github.com/tcarbona/IoT)
 * Han-Chung Chang, [Automatic Weather Station](https://github.com/hcchang501/EE629-IOT-Automatic-Weather-Station-Project)
+* Yixie Chen, [Raspberry Pi DOSBox](https://sites.google.com/stevens.edu/iot-ee629yixie/project/dos-game)
+* Yixie Chen, [Twitch Bot](https://sites.google.com/stevens.edu/iot-ee629yixie/project/twitch-bot)
+* Xintang He, [Smart Car Based on Raspberry Pi](https://github.com/xhe27/iot_Xintang_He)
+* Pranati Kaza, [Thermal & RPM Data Logger](https://sites.google.com/stevens.edu/pranati/home/data-logger-using-raspberry-pi)
+* Kai Li, [Burglar Surveillance](https://github.com/likaistevens/Graduate/tree/master/629_IOT)
+* Zhujie Li, [Blockchain and IOTA in Python](https://github.com/Lizhujie/raspi_blockchain-and-Iota)
+* Zhujie Li, [Kaggle Game Prediction](https://github.com/Lizhujie/Kaggle_Game_prediction)
+* Feng Liu, [Integral Point Announce](https://github.com/fengliu1227/Feng_Liu)
+* Yuan Liu, [Blockchain Python Example Verifications](https://sites.google.com/view/yuanl/home/final-project)
+* Yueran Liu, [24h Low-power Live on Bilibili](https://github.com/YueranLiu/629)
+* Yufeng Liu, [Automobile Assembly Line Controller and Monitor](https://github.com/Chappelliu/IoTproject)
+* Zheng Liu, [Smart Lock](https://github.com/hungrylz/Iot_courses)
+* Aldin Llolla, [Chainlink Node Operator](https://sites.google.com/stevens.edu/ece629aldin/project)
+* Julie McEldoon, [Aquarium Bot](https://github.com/jmac97/Aquarium-Bot)
+* Raveena Mehta, Monami Mukhopadhyay, Rida Zainab, [Raspberry Pi AI Assistant](https://github.com/monamim1989/Raspberry-Pi-AI-Assistant)
+* Jeet Patel, [Remote Access of Devices Connected to Raspberry Pi](https://github.com/JeetPatel301095/EE-629-IOT)
+* Rohan Ratwani, Kishan Teli, [TelegramBot](https://github.com/RohanRatwani/Telegram_Bot)
+* Mingxin Ruan, [Cloud-based Cooling System](https://github.com/R9MX4/iot)
+* Yi Tian, [Human Face Recognition](https://github.com/YiTian0902/lot)
+* Jiawei Wang, [Check Time Record](https://github.com/540792740/Iot_project_time_checkin_checkout)
+* Ruochao Weng, [Birds Detection with Raspberry Pi and YOLO](https://github.com/wruochao19/Deep-learning-camera/tree/master)
+* Jiajiang Xie, [Smart Car with HC-SR04](https://github.com/jxie10/EE629Project)
+* Huajie Xu, [Weather Sensor and Forecaster](https://github.com/xuhuajie19/629)
+* Samuel Yakovlev, [Anomaly Detection in Vessel Tracks based on AIS Data](https://github.com/BigHairyYak/SRI-2019-AIS-Anomaly-Detection)
+* Xiaolin Yang, [Weather Station with Raspberry Pi](https://github.com/xiaolinyang927/iot)
+* Peiyao Zhang, [Raspberry Pi Google Assistant](https://github.com/stlchz/Raspberry-Pi-Google-Assistant)
+* Qianwen Zhao, [Self-Driving Car](https://sites.google.com/stevens.edu/qianwen-zhao/iot-project)
 
 # 2019 Spring
 
