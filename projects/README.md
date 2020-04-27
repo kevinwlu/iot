@@ -1,5 +1,7 @@
 # 2020 Spring
 
+* Jie Yang, [Object Detection Based on R-CNN](https://github.com/smallsunjj/ECE800)
+
 # 2019 Fall
 
 * Soorya Ashokan, [Security System Using Raspberry Pi](https://github.com/sooryanivedhaashokan/IoT-security-system-using-Raspberry-Pi)
