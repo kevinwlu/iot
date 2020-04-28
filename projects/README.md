@@ -1,6 +1,6 @@
 # 2020 Spring
 
-* Julie McEldoon, [Digital Hearbeat](https://github.com/jmac97/Digital-Heartbeat)
+* Julie McEldoon, [Digital Heartbeat](https://github.com/jmac97/Digital-Heartbeat)
 * Jie Yang, [Object Detection Based on R-CNN](https://github.com/smallsunjj/ECE800)
 
 # 2019 Fall
