@@ -28,7 +28,7 @@
 * Mingxin Ruan, [Cloud-based Cooling System](https://github.com/R9MX4/iot)
 * Yi Tian, [Human Face Recognition](https://github.com/YiTian0902/lot)
 * Jiawei Wang, [Check Time Record](https://github.com/540792740/Iot_project_time_checkin_checkout)
-* Ruochao Weng, [Birds Detection with Raspberry Pi and YOLO](https://github.com/wruochao19/Deep-learning-camera/tree/master)
+* Ruochao Weng, [Birds Detection with Raspberry Pi and YOLO](https://github.com/wruochao19/Deep-learning-camera)
 * Jiajiang Xie, [Smart Car with HC-SR04](https://github.com/jxie10/EE629Project)
 * Huajie Xu, [Weather Sensor and Forecaster](https://github.com/xuhuajie19/629)
 * Samuel Yakovlev, [Anomaly Detection in Vessel Tracks based on AIS Data](https://github.com/BigHairyYak/SRI-2019-AIS-Anomaly-Detection)
