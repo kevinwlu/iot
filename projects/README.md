@@ -1,5 +1,6 @@
 # 2020 Spring
 
+* Jiahao Lu, Qihang Zhang, [Distinguishing Fake Face or Real Face by VGG](https://github.com/qihang720/EE-800-face-recognition)
 * Julie McEldoon, [Digital-Heartbeat](https://github.com/jmac97/Digital-Heartbeat)
 * Jie Yang, [Object Detection Based on R-CNN](https://github.com/smallsunjj/ECE800)
 
