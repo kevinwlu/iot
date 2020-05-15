@@ -1,8 +1,11 @@
 # 2020 Spring
 
+* Mitko Bozinov and Ethan Jones, [Pi-hole](https://github.com/mbozinov/EE-629-IoT)
+* Yohanes Steven Gunarso, [YouTube Karaoke](https://github.com/ygunarso/ee629)
 * Yarong Liu, [Research for Object Detection Based on Deep Learning](https://github.com/MadgeLiu/Object_Detection_Research)
 * Jiahao Lu, Qihang Zhang, [Distinguishing Fake Face or Real Face by VGG](https://github.com/qihang720/EE-800-face-recognition)
 * Julie McEldoon, [Digital-Heartbeat](https://github.com/jmac97/Digital-Heartbeat)
+* Alex Walker, [Raspberry Pi Proxy](https://github.com/awalker2/EE-629-IOT/tree/master/pi-proxy-project)
 * Jie Yang, [Object Detection Based on R-CNN](https://github.com/smallsunjj/ECE800)
 
 # 2019 Fall
