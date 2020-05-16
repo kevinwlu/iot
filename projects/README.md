@@ -2,6 +2,7 @@
 
 * Mitko Bozinov and Ethan Jones, [Pi-hole](https://github.com/mbozinov/EE-629-IoT)
 * Yohanes Steven Gunarso, [YouTube Karaoke](https://github.com/ygunarso/ee629)
+* Nicole Hilden, [Twitter Analysis Program](https://github.com/nhilden1114/ee629)
 * Yarong Liu, [Research for Object Detection Based on Deep Learning](https://github.com/MadgeLiu/Object_Detection_Research)
 * Jiahao Lu, Qihang Zhang, [Distinguishing Fake Face or Real Face by VGG](https://github.com/qihang720/EE-800-face-recognition)
 * Julie McEldoon, [Digital-Heartbeat](https://github.com/jmac97/Digital-Heartbeat)
