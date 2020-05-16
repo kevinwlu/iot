@@ -1,7 +1,7 @@
 # 2020 Spring
 
 * Mitko Bozinov and Ethan Jones, [Pi-hole](https://github.com/mbozinov/EE-629-IoT)
-* Lun-Wei Chang, [Inddor Weather Monitor](https://github.com/lun-weichang/EE629_S2020)
+* Lun-Wei Chang, [Indoor Weather Monitor](https://github.com/lun-weichang/EE629_S2020)
 * Yohanes Steven Gunarso, [YouTube Karaoke](https://github.com/ygunarso/ee629)
 * Nicole Hilden, [Twitter Analysis Program](https://github.com/nhilden1114/ee629)
 * Yarong Liu, [Research for Object Detection Based on Deep Learning](https://github.com/MadgeLiu/Object_Detection_Research)
