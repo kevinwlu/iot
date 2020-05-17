@@ -35,6 +35,7 @@ $ sudo python3 auto.py
 ```
 ### 3. Copy, edit (replace GMAIL_ADDRESS, RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD), and run the following two python programs
 ```sh
+$ cd
 $ mkdir demo
 $ cd demo
 $ cp ~/iot/lesson3/test_email.py .
