@@ -75,7 +75,7 @@ pi@raspberrypi ~/iot/lesson3 $ sudo python3 temperature.py
 
 ## Lab E: Pypy
 ```sh
-$ cd pypy
+$ cd ~/iot/lesson3/pypy
 $ gcc -o test test.c
 $ time ./test
 $ time pypy test.py
