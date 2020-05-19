@@ -1,6 +1,6 @@
 # [Lesson 9](https://goo.gl/RIzzfl): NETCONF and YANG
 
-## Lab: [YANG](https://en.wikipedia.org/wiki/YANG) ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
+## Lab 9A: [YANG](https://en.wikipedia.org/wiki/YANG) ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
 
 ### Install and run [pyang](https://github.com/mbj4668/pyang) on a Raspberry Pi
 ```sh
@@ -36,7 +36,7 @@ $ gimp -h
 $ gimp -a intrusiondetection.png
 ```
 
-## Bonus Lab: [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
+## Lab 9B: [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
 
 ### Install qiskit on a laptop (not Raspberry Pi), create an [IBM Quantum Experience account](https://quantum-computing.ibm.com/), copy API token from [account](https://quantum-computing.ibm.com/account), and save API token
 
