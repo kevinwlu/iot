@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/F0H9jW">Lesson 3</a>: Python
 
-## Lab A: Python
+## Lab 3A: Python
 
 ### On a Raspberry Pi, install packages, update the IoT repository, and run python programs
 ```sh
@@ -23,7 +23,7 @@ $ python3 system_info.py
 $ python3 socket_server.py
 $ python3 socket_client.py '155.246.x.x'
 ```
-## Lab B: Breadboard
+## Lab 3B: Breadboard
 
 ### 1. Connect the breadboard to Raspberry Pi 3V3, GND, GPIO 18, GPIO 24, and GPIO 25 using five DuPont male-to-female jump wires
 
@@ -45,7 +45,7 @@ $ cp ~/iot/lesson3/hello.py .
 $ nano hello.py
 $ sudo python3 hello.py
 ```
-## Lab C: Remote GPIO
+## Lab 3C: Remote GPIO
 
 ### 1. Launch the pigpio daemon using the −n flag to allow connections from a specific IP address of a controlling computer
 ```sh
@@ -62,7 +62,7 @@ $ PIGPIO_ADDR=<CONTROLLED_ADDRESS> python3 led.py
 ```sh
 $ GPIOZERO_PIN_FACTORY=pigpio PIGPIO_ADDR=<CONTROLLED_ADDRESS> python3 led.py
 ```
-## Lab D: 1-Wire
+## Lab 3D: 1-Wire
 
 ### Connect DS18B20 to Raspberry Pi and run the Python program:
 
@@ -73,7 +73,7 @@ $ GPIOZERO_PIN_FACTORY=pigpio PIGPIO_ADDR=<CONTROLLED_ADDRESS> python3 led.py
 pi@raspberrypi ~/iot/lesson3 $ sudo python3 temperature.py
 ```
 
-## Lab E: Pypy
+## Lab 3E: Pypy
 ```sh
 $ cd ~/iot/lesson3/pypy
 $ gcc -o test test.c
@@ -85,7 +85,7 @@ $ pypy -m cProfile test.py
 $ python -m cProfile test.py
 $ python3 -m cProfile test.py
 ```
-## Lab F: Doxygen
+## Lab 3F: Doxygen
 ```sh
 $ sudo apt install doxygen html2text
 $ cd ~/demo
