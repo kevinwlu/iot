@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/4aXo9L">Lesson 1</a>: Overview
 
-## Lab A: NOOBS and Wi-Fi
+## Lab 1A: NOOBS and Wi-Fi
 
 ### 1. Raspberry Pi only supports SDHC (High Capacity up to 32GB) cards with the FAT (File Allocation Table) file system
 
@@ -22,7 +22,7 @@
 
 ### 4. After reboot, change Password (default: raspberry) and skip both Wi-Fi and update
 
-## Lab B: Configuration
+## Lab 1B: Configuration
 
 ### 1. Click the Raspberry Pi icon at the left of the menu bar to open applications menu > Preferences > Raspberry Pi Configuration > System
 
@@ -44,7 +44,7 @@
 
 ### 4. Click Yes for "Would you like to reboot now?"
 
-## Lab C: Startup Mailer - the following steps require the internet access
+## Lab 1C: Startup Mailer - the following steps require the internet access
 
 ### 1. Enable Google 2-Step Verification and generate a Google App password
 
@@ -89,7 +89,7 @@ $ sudo chmod +x /lib/systemd/system/rc-local.service
 
 ### 5. Disconnect the monitor, keyboard, and mouse
 
-## Lab D: SSH and VNC
+## Lab 1D: SSH and VNC
 
 ### 1. On a laptop, download VNC Viewer https://www.realvnc.com/download/viewer
 
