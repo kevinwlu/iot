@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/KDtocJ">Lesson 6</a>: Alternative Devices
 
-## Lab A: Particle Cloud
+## Lab 6A: Particle Cloud
 
 https://docs.particle.io/datasheets/discontinued/raspberry-pi/
 
@@ -25,7 +25,7 @@ $ particle call <device_name> digitalwrite D7=HIGH
 $ particle call <device_name> digitalwrite D7=LOW
 $ particle logout
 ```
-## Lab B: Node.js
+## Lab 6B: Node.js
 
 ### Run Node.js server at http://127.0.0.1:8080 on Raspberry Pi
 ```sh
