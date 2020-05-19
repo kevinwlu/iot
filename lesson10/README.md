@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/RIzzfl">Lesson 10</a>: Blockchain
 
-## Lab A: Blockchain
+## Lab 10A: Blockchain
 
 ### Build the tiniest blockchain (by Gerald Nash)
 
@@ -42,7 +42,7 @@ Enter content and post name, click "Request to mine" that generate "Block #1 is 
 
 At YourNet, click "Resync" to view Block #1
 
-## Lab B: IOTA
+## Lab 10B: IOTA
 
 ### [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library) and [IRI](https://docs.iota.org/docs/node-software/0.1/iri/introduction/overview) (IOTA Reference Implementation)
 
