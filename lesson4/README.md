@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/bhktY0">Lesson 4</a>: Django and Flask
 
-## Labs A and B: Django and Django REST
+## Labs 4A and 4B: Django and Django REST
 
 ### Install Django and Django REST framework
 ```sh
@@ -45,9 +45,9 @@ $ cd Adafruit_Python_ADXL345
 $ sudo python3 setup.py install
 $ cd
 ```
-### Follow the instructions for Django projects stevens, weather, myraspi, lighting, parking, and sensing
+### Follow the instructions for Django projects [stevens](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens), [weather](https://github.com/kevinwlu/iot/tree/master/lesson4/weather), [myraspi](https://github.com/kevinwlu/iot/tree/master/lesson4/myraspi), [lighting](https://github.com/kevinwlu/iot/tree/master/lesson4/lighting), [parking](https://github.com/kevinwlu/iot/tree/master/lesson4/parking), and [sensing](https://github.com/kevinwlu/iot/tree/master/lesson4/sensing)
 
-## Lab C: Flask
+## Lab 4C: Flask
 
 ### Install Flask-Ask and Ngrok
 ```sh
@@ -56,7 +56,7 @@ $ sudo pip3 install 'cryptography<2.2'
 $ sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 $ sudo unzip ngrok-stable-linux-arm.zip
 ```
-## Lab D: LAMP
+## Lab 4D: LAMP
 
 ### Install Apache web server and PHP
 ```sh
