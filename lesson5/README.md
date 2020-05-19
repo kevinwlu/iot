@@ -1,5 +1,7 @@
 # <a href="https://goo.gl/shPybk">Lesson 5</a>: Crossbar.io and Paho
 
+## Lab 5A: [Crossbar.io](https://crossbar.io/docs/Getting-Started/)
+
 ### Install Docker on a Raspberry Pi
 ```sh
 $ curl -sSL get.docker.com | sh
@@ -27,9 +29,6 @@ $ docker build -t curl_docker .
 $ docker run curl_docker
 $ docker images
 ```
-## Lab 5A: Crossbar.io
-
-https://crossbar.io/docs/Getting-Started/
 
 ### Run Crossbar.io router on Terminal 1
 ```sh
@@ -49,7 +48,9 @@ $ python3 client_component_publish.py
 $ cd crossbar-examples/getting-started/1.hello-world/
 $ python3 client_component_subscribe.py
 ```
-## Lab 5B: Install and run Mosquitto and Paho to subscribe on one terminal and publish on another
+## Lab 5B: [Paho](https://www.eclipse.org/paho/)
+
+### Install and run Mosquitto and Paho to subscribe on one terminal and publish on another
 ```sh
 $ sudo apt install mosquitto mosquitto-clients
 $ mosquitto_sub -h localhost -v -t "\$SYS/#"
