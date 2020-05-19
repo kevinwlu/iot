@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/6BsKOa">Lesson 7</a>: Cloud Platforms
 
-## Lab A: ThingSpeak
+## Lab 7A: ThingSpeak
 
 ### Sign up and log in ThingSpeak at
 
@@ -22,7 +22,7 @@ $ nano thingspeak_cpu_loop.py
 ```sh
 python3 thingspeak_cpu_loop.py
 ```
-## Lab B: Google Sheets
+## Lab 7B: Google Sheets
 
 ### Sign up and log in the Google Cloud Platform Identity and Access Management (IAM) at
 
