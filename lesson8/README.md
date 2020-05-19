@@ -1,6 +1,6 @@
 # <a href="https://goo.gl/ibFiqR">Lesson 8</a>: Data Analysis
 
-## Lab A: Examples
+## Lab 8A: Examples
 
 ### Install SciPy, Matplotlib, pandas, and dependencies on Raspberry Pi
 ```sh
@@ -48,7 +48,7 @@ $ python3 major_minor_demo1.py
 $ python3 legend_demo.py
 ```
 
-## Lab B: Data Analysis
+## Lab 8B: Data Analysis
 
 ### Histograms, box plots, regression, and classification
 ```sh
