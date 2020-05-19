@@ -45,7 +45,7 @@ $ cd Adafruit_Python_ADXL345
 $ sudo python3 setup.py install
 $ cd
 ```
-### Follow the instructions for Django projects [stevens](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens), [weather](https://github.com/kevinwlu/iot/tree/master/lesson4/weather), [myraspi](https://github.com/kevinwlu/iot/tree/master/lesson4/myraspi), [lighting](https://github.com/kevinwlu/iot/tree/master/lesson4/lighting), [parking](https://github.com/kevinwlu/iot/tree/master/lesson4/parking), and [sensing](https://github.com/kevinwlu/iot/tree/master/lesson4/sensing)
+### Follow the instructions for Django project [stevens](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens), and Django REST projects [weather](https://github.com/kevinwlu/iot/tree/master/lesson4/weather), [myraspi](https://github.com/kevinwlu/iot/tree/master/lesson4/myraspi), [lighting](https://github.com/kevinwlu/iot/tree/master/lesson4/lighting), [parking](https://github.com/kevinwlu/iot/tree/master/lesson4/parking), and [sensing](https://github.com/kevinwlu/iot/tree/master/lesson4/sensing)
 
 ## Lab 4C: Flask
 
