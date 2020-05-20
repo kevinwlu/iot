@@ -25,7 +25,7 @@
 * Mounika Yakasiri, [Raspberry Pi Web Server Environmental Sensing](https://github.com/Mounika-2197/IoT-Project)
 * Jie Yang, [Object Detection Based on R-CNN](https://github.com/smallsunjj/ECE800)
 * Hejun Zhan, [Face Tracking](https://github.com/hejunzhan/EE629/tree/master/ee629)
-* iyuan Zhu, [Stock Tracking via Twitter](https://github.com/zhusiyuan-456/cpe-629-Iot)
+* Siyuan Zhu, [Stock Tracking via Twitter](https://github.com/zhusiyuan-456/cpe-629-Iot)
 
 # 2019 Fall
 
