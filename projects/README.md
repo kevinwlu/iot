@@ -22,7 +22,9 @@
 * Alex Walker, [Raspberry Pi Proxy](https://github.com/awalker2/EE-629-IOT/tree/master/pi-proxy-project)
 * Yinghao Wang, [Raspberry Pi Dynamic Monitor Display Based on Kali System](https://github.com/yinghaowang95/EE629-Course)
 * Haojie Xu, [Interfacing Arduino With Raspberry Pi](https://github.com/jasperxu1233/EE-629)
+* Mounika Yakasiri, [Raspberry Pi Web Server Environmental Sensing](https://github.com/Mounika-2197/IoT-Project)
 * Jie Yang, [Object Detection Based on R-CNN](https://github.com/smallsunjj/ECE800)
+* Hejun Zhan, [Face Tracking](https://github.com/hejunzhan/EE629/tree/master/ee629)
 
 # 2019 Fall
 
