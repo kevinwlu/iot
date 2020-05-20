@@ -4,6 +4,7 @@
 * Lun-Wei Chang, [Indoor Weather Monitor](https://github.com/lun-weichang/EE629_S2020)
 * Yohanes Steven Gunarso, [YouTube Karaoke](https://github.com/ygunarso/ee629)
 * Nicole Hilden, [Twitter Analysis Program](https://github.com/nhilden1114/ee629)
+* Sanket Jain, Mansi Joshi, Neel Haria, [Environment Sensing and Monitoring](https://github.com/MrJay37/EE629_Project_Environment_Sensing)
 * Yarong Liu, [Research for Object Detection Based on Deep Learning](https://github.com/MadgeLiu/Object_Detection_Research)
 * Jiahao Lu, Qihang Zhang, [Distinguishing Fake Face or Real Face by VGG](https://github.com/qihang720/EE-800-face-recognition)
 * Julie McEldoon, [Digital-Heartbeat](https://github.com/jmac97/Digital-Heartbeat)
