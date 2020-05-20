@@ -1,7 +1,10 @@
 # 2020 Spring
 
+* Abdullah Alnutayfat, [Monitoring Temperature](https://github.com/AbdullahAlnutayfat/EE-629-A/tree/master/finalproject)
 * Mitko Bozinov and Ethan Jones, [Pi-hole](https://github.com/mbozinov/EE-629-IoT)
 * Lun-Wei Chang, [Indoor Weather Monitor](https://github.com/lun-weichang/EE629_S2020)
+* Seshasai Chaturvedula, [Controlling PC Using Kafka and Arduino Nano BLE Sense](https://github.com/csash7/raspberrypi)
+* Junyan Chen, [Raspberry Pi Temperature Detection Alarm](https://github.com/lilburger/EE629/tree/master/CPU%20Temperature%20of%20raspeberry%20pi)
 * Yohanes Steven Gunarso, [YouTube Karaoke](https://github.com/ygunarso/ee629)
 * Nicole Hilden, [Twitter Analysis Program](https://github.com/nhilden1114/ee629)
 * Sanket Jain, Mansi Joshi, Neel Haria, [Environment Sensing and Monitoring](https://github.com/MrJay37/EE629_Project_Environment_Sensing)
