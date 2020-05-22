@@ -13,6 +13,7 @@
 * Yarong Liu, [Research for Object Detection Based on Deep Learning](https://github.com/MadgeLiu/Object_Detection_Research)
 * Jiahao Lu, Qihang Zhang, [Distinguishing Fake Face or Real Face by VGG](https://github.com/qihang720/EE-800-face-recognition)
 * Julie McEldoon, [Digital-Heartbeat](https://github.com/jmac97/Digital-Heartbeat)
+* Avro Mukherjee, [ALERTME - Essential Notifications Cloud Application](https://github.com/jeshu54/Hubmaster)
 * Abhinandan Nuli, [Driverless Car](https://github.com/AbhinandanNuli/IoT-Autonomous-Robocar)
 * Nisarg Parikh, [Internet Speed Monitor](https://github.com/Nisarg9196/EE629_Internet_Speed_Monitor)
 * Luca Pasquariello, [Mopidy Setup in a Docker Container](https://github.com/lpasquar/ee629)
