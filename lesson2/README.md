@@ -12,7 +12,7 @@ $ sudo nano /boot/cmdline.txt
 $ sudo reboot
 ```
 
-### 2. Serial loopback test
+### 2. Serial [loopback](https://en.wikipedia.org/wiki/Loopback) test
 * Connect two serial pins (the 4th and 5th pins from the left of the top row) using one DuPont female-to-female jump wire
 * Install and run Minicom
 ```sh
