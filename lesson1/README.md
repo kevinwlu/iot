@@ -29,7 +29,7 @@
 * Change Hostname (default: raspberrypi)
 * Disable "Auto login" 
 * Enable "Network at Boot" to "Wait for network"
-* Enable "Splash Screen" (default)
+* Enable "[Splash Screen](https://en.wikipedia.org/wiki/Splash_screen)" (default)
 
 ### 2. Raspberry Pi Configuration > Display
 
