@@ -111,6 +111,8 @@ $ sudo i2cdetect -y 1
 
 ### 2. Longer lead (+) of the LED to GPIO 18, the 6th pin from the left of the top row
 
+![lesson2_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/lesson2_bb.png)
+
 ## Lab 2E: [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO) and [light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED)
 
 ### 1. Connect an LED on a breadboard to the Raspberry Pi GPIO using two DuPont male-to-female jump wires as shown in Lab C
