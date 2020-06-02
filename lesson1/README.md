@@ -118,7 +118,7 @@ $ sudo shutdown -h now
 
 * On a laptop, sign in to VNC Viewer
 
-## Alternative 2: Serveo Port Forwarder
+## Alternative 2: [Serveo](https://github.com/milio48/serveo) Port Forwarder
 
 * On a Raspberry Pi, copy two files
 ```sh
