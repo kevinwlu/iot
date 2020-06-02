@@ -39,7 +39,7 @@ pi@raspberrypi:~/iot $ git pull
 ## Talks
 
 * [IoT](https://goo.gl/6EWVZb)
-* [TMT](https://goo.gl/5wH7D7)
+* [The Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
 * [Careers in Industry](https://tinyurl.com/IndustryCareers)
 * [A Balanced Skill Set](https://goo.gl/a2RSKB)
 * [AI Ethics](https://tinyurl.com/y33xabn3)
