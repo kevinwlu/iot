@@ -27,22 +27,26 @@
 ### 1. Click the Raspberry Pi icon at the left of the menu bar to open applications menu > Preferences > Raspberry Pi Configuration > System
 
 * Change Hostname (default: raspberrypi)
-
 * Disable "Auto login" 
-
 * Enable "Network at Boot" to "Wait for network"
+* Enable "Splash Screen" (default)
 
-* Disable overscan if there is a black border on the display
+### 2. Raspberry Pi Configuration > Display
 
-### 2. Raspberry Pi Configuration > Interfaces
+* Disable "[Overscan](https://en.wikipedia.org/wiki/Overscan)" if there is a black border on the display
+* Disable "Pixel Doubling" (default)
+* Disable "Composite Video" (default)
+* Enable "Screen Blanking" (default)
+
+### 3. Raspberry Pi Configuration > Interfaces
 
 * Enable SSH, VNC, SPI, I2C, Serial Port, 1-Wire, and Remote GPIO
 
 * Disable Serial Console
 
-### 3. Click OK
+### 4. Click OK
 
-### 4. Click Yes for "Would you like to reboot now?"
+### 5. Click Yes for "Would you like to reboot now?"
 
 ## Lab 1C: Startup Mailer - the following steps require the internet access
 
