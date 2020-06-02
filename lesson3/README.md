@@ -1,6 +1,6 @@
-# <a href="https://goo.gl/F0H9jW">Lesson 3</a>: Python
+# Lesson 3: Python
 
-## Lab 3A: Python
+## Lab 3A: [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ### On a Raspberry Pi, install packages, update the IoT repository, and run python programs
 ```sh
@@ -73,7 +73,7 @@ $ GPIOZERO_PIN_FACTORY=pigpio PIGPIO_ADDR=<CONTROLLED_ADDRESS> python3 led.py
 pi@raspberrypi ~/iot/lesson3 $ sudo python3 temperature.py
 ```
 
-## Lab 3E: Pypy
+## Lab 3E: [Pypy](https://en.wikipedia.org/wiki/PyPy)
 ```sh
 $ cd ~/iot/lesson3/pypy
 $ gcc -o test test.c
@@ -85,7 +85,7 @@ $ pypy -m cProfile test.py
 $ python -m cProfile test.py
 $ python3 -m cProfile test.py
 ```
-## Lab 3F: Doxygen
+## Lab 3F: [Doxygen](https://en.wikipedia.org/wiki/Doxygen)
 ```sh
 $ sudo apt install doxygen html2text
 $ cd ~/demo
