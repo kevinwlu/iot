@@ -11,8 +11,8 @@
 * <a href="https://goo.gl/ibFiqR" target="_blank">Lesson 8</a>: Data Analysis
 * <a href="https://goo.gl/RIzzfl" target="_blank">Lesson 9</a>: NETCONF and YANG
 * <a href="https://docs.google.com/presentation/d/1t4YSlCzr2ADTV10dcQIOL0OybbGUu3zZ5oSJCcsuX-0" target="_blank">Lesson 10</a>: Blockchain
-* <a href="http://www.hands-on-books-series.com" target="_blank">References</a>
-* <a href="https://github.com/kevinwlu/iot/tree/master/projects" target="_blank">Projects</a>
+* [References](http://www.hands-on-books-series.com)
+* [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
 
 ## Clone the IoT repository on a Raspberry Pi
 
@@ -29,18 +29,19 @@ pi@raspberrypi:~/iot $ git pull
 
 ## Courses
 
-* <a href="https://sites.google.com/view/ece900" target="_blank">Thesis</a>
-* <a href="https://sites.google.com/view/ece800" target="_blank">Special Problems</a>
-* <a href="https://sites.google.com/view/ece629" target="_blank">Internet of Things</a>
-* <a href="https://sites.google.com/view/ece322" target="_blank">Engineering Design 6</a>
-* <a href="https://sites.google.com/view/ece423" target="_blank">Engineering Design 7/8</a>
-* <a href="https://sites.google.com/view/ece487" target="_blank">Digital System Design</a>
-* <a href="https://sites.google.com/view/ece-ecoes" target="_blank">ECOES: Exploring Career Options in Engineering and Science</a>
+* [ECOES: Exploring Career Options in Engineering and Science](https://sites.google.com/view/ece-ecoes)
+* [Engineering Design VI](https://sites.google.com/view/ece322)
+* [Engineering Design VII-VIII](https://sites.google.com/view/ece423)
+* [Digital System Design](https://sites.google.com/view/ece487)
+* [Internet of Things](https://sites.google.com/view/ece629)
+* [Special Problem](https://sites.google.com/view/ece800)
+* [Thesis](https://sites.google.com/view/ece900)
 
 ## Talks
 
-* <a href="https://goo.gl/6EWVZb" target="_blank">IoT</a>
-* <a href="https://goo.gl/5wH7D7" target="_blank">TMT</a>
-* <a href="https://tinyurl.com/IndustryCareers" target="_blank">Careers in Industry</a>
-* <a href="https://goo.gl/a2RSKB" target="_blank">A Balanced Skill Set</a>
-* <a href="https://tinyurl.com/y33xabn3" target="_blank">AI Ethics</a>
+* [IoT](https://goo.gl/6EWVZb)
+* [TMT](https://goo.gl/5wH7D7)
+* [Careers in Industry](https://tinyurl.com/IndustryCareers)
+* [A Balanced Skill Set](https://goo.gl/a2RSKB)
+* [AI Ethics](https://tinyurl.com/y33xabn3)
+* [IEEE Writing Style](https://docs.google.com/presentation/d/1TIWfYpBYfumA1rgMLDP6UkM7fC9rC8EK4up3Q28t6MQ)
