@@ -10,11 +10,11 @@
 * [Lesson 8](https://github.com/kevinwlu/iot/tree/master/lesson8): Data Analysis
 * [Lesson 9](https://github.com/kevinwlu/iot/tree/master/lesson9): NETCONF and YANG
 * [Lesson 10](https://github.com/kevinwlu/iot/tree/master/lesson10): Blockchain
-* [References](http://www.hands-on-books-series.com)
 * [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
 
 ## References
 
+* [Books](http://www.hands-on-books-series.com)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
