@@ -1,6 +1,6 @@
-# <a href="https://goo.gl/hRoMYW">Lesson 2</a>: Raspberry Pi
+# Lesson 2: Raspberry Pi
 
-## Lab 2A: Serial
+## Lab 2A: [Serial communication](https://en.wikipedia.org/wiki/Serial_communication)
 
 ### 1. Open a Terminal (or PuTTY) and make sure Serial Council is disabled
 ```sh
@@ -53,7 +53,7 @@ hello
 control-a x
 ```
 
-## Lab 2B: SPI
+## Lab 2B: [Serial Peripheral Interface](https://en.wikipedia.org/wiki/Serial_communication) (SPI)
 
 * Connect the SPI MOSI and MISO pins (the 10th and 11th pins from the left of the bottom row) using one DuPont female-to-female jump wire
 * Enter the following three commands on a Terminal:
@@ -74,7 +74,7 @@ DE AD BE EF BA AD
 F0 0D 
 ```
 
-## Lab 2C: I2C
+## Lab 2C: [Inter-Integrated Circuit](https://en.wikipedia.org/wiki/I%C2%B2C) (I2C)
 
 * Connect I2C device ADXL345 (3-axis accelerometer) to 3V3, GND, SDA, and SCL of a Raspberry Pi using four DuPont female-to-female jump wires
 * Install i2c-tools, and test I2C addresses
@@ -105,7 +105,7 @@ $ sudo i2cdetect -y 1
 70: -- -- -- -- -- -- -- 77 
 ```
 
-## Lab 2D: Breadboard
+## Lab 2D: [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
 
 ### 1. Shorter lead (−) of the LED to a 330-Ω resistor then to Ground, the 3rd pin from the left of the top row
 
@@ -128,7 +128,7 @@ root@raspberypi:/home/pi# echo 18 > /sys/class/gpio/unexport
 root@raspberypi:/home/pi# exit
 ```
 
-## Lab 2F: 1-Wire
+## Lab 2F: [1-Wire](https://en.wikipedia.org/wiki/1-Wire)
 
 ### Connect DS18B20 to Raspberry Pi as follows:
 
@@ -151,7 +151,7 @@ pi@raspberrypi:/sys/bus/w1/devices/28-0000064dc293 $ cd
 pi@raspberrypi:~ $ 
 ```
 
-## Lab 2G: USB Webcam
+## Lab 2G: USB [Webcam](https://en.wikipedia.org/wiki/Webcam)
 
 ### Connect a USB webcam, install fswebcam, and save images:
 ```sh
