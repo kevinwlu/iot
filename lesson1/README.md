@@ -2,12 +2,7 @@
 
 ## References
 
-* [Hands-on books series](http://www.hands-on-books-series.com)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)
-* [GitHub](https://en.wikipedia.org/wiki/GitHub)
-* [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
-* [Markdown](https://en.wikipedia.org/wiki/Markdown)
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
 
 ## Lab 1A: NOOBS and Wi-Fi
