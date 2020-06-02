@@ -7,17 +7,13 @@
 ### 2. On a laptop, download the latest New Out-Of-Box Software ([NOOBS](https://www.raspberrypi.org/downloads/noobs/)) zip file and extract the zip file to a folder
 
 * Insert a new or reformatted SD card, go to the folder, select all items, then drag and drop them to the SD card
-
 * Eject the SD card properly, and insert it to Raspberry Pi SD card slot
 
 ### 3. Install NOOBS first at Burchard 123 on the Stevens [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) network by connecting Raspberry Pi to a monitor, keyboard, and mouse, then to power
 
 * Click "Wifi network (w)," select "Stevens," enter Stevens Username and Password — once connected, more operating systems become available
-
 * Select "Raspbian Full [RECOMMENDED]" and "English (US) Language and Keyboard"
-
 * Click "Install (i)" and OK — installable without the internet access
-
 * Click OK after "OS(es) Installed Successfully" to reboot
 
 ### 4. After reboot, change Password (default: raspberry) and skip both Wi-Fi and update
@@ -41,7 +37,6 @@
 ### 3. Raspberry Pi Configuration > Interfaces
 
 * Enable SSH, VNC, SPI, I2C, Serial Port, 1-Wire, and Remote GPIO
-
 * Disable Serial Console
 
 ### 4. Click OK
@@ -53,9 +48,7 @@
 ### 1. Enable Google 2-Step Verification and generate a Google App password
 
 * My Account > Sign-in & security > Signing in to Google > 
-
 * 2-Step Verification > TURN ON > Select a second verification step > Authenticator app (Default)
-
 * App passwords > Select the app (Mail) and device (Raspberry Pi) > GENERATE
 
 ### 2. Click the [Terminal](https://en.wikipedia.org/wiki/Terminal_emulator) icon at the left of the menu bar to open a [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) Terminal
@@ -129,11 +122,8 @@ $ sudo shutdown -h now
 ## Alternative 1: VNC Connect
 
 * VNC Connect is included with the latest NOOBS for non-commercial use
-
 * Sign up for a free [RealVNC](https://www.realvnc.com) account (need to be over 16) by an email address
-
 * On the Raspberry Pi desktop, click the VNC Server icon at the right of the menu bar and sign in to enable cloud connectivity
-
 * On a laptop, sign in to VNC Viewer
 
 ## Alternative 2: [Serveo](https://github.com/milio48/serveo) Port Forwarder
