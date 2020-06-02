@@ -137,6 +137,9 @@ root@raspberypi:/home/pi# exit
 * GND to GND
 * VDD to 3.3V or 5V
 * DQ to GPIO 4 (the 4th pin from the left of the bottom row) and through a 4.7kΩ resistor to VDD
+
+![1-wire_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/1-wire_bb.png)
+
 ```sh
 pi@raspberrypi:~ $ sudo modprobe w1-gpio
 pi@raspberrypi:~ $ sudo modprobe w1-therm
