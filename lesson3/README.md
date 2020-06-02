@@ -71,6 +71,9 @@ $ GPIOZERO_PIN_FACTORY=pigpio PIGPIO_ADDR=<CONTROLLED_ADDRESS> python3 led.py
 * GND to GND
 * VDD to 3.3V or 5V
 * DQ to GPIO 4 (the 4th pin from the left of the bottom row) and through a 4.7kΩ resistor to VDD
+
+![1-wire_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson3/1-wire_bb.png)
+
 ```h
 pi@raspberrypi ~/iot/lesson3 $ sudo python3 temperature.py
 ```
