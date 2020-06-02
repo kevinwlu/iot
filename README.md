@@ -38,7 +38,7 @@ pi@raspberrypi:~/iot $ git pull
 
 ## Talks
 
-* [IoT](https://goo.gl/6EWVZb)
+* [A Hands-on Approach to the Internet of Things](https://goo.gl/6EWVZb)
 * [The Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
 * [Careers in Industry](https://tinyurl.com/IndustryCareers)
 * [A Balanced Skill Set](https://goo.gl/a2RSKB)
