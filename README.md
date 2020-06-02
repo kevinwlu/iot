@@ -45,9 +45,9 @@ pi@raspberrypi:~/iot $ git pull
 
 ## Presentations (Google Slides)
 
-* [A Hands-on Approach to the Internet of Things](https://goo.gl/6EWVZb)
-* [The Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
+* [Hands-on Approach to the Internet of Things](https://goo.gl/6EWVZb)
+* [Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
 * [Careers in Industry](https://tinyurl.com/IndustryCareers)
-* [A Balanced Skill Set](https://goo.gl/a2RSKB)
+* [Balanced Skill Set](https://goo.gl/a2RSKB)
 * [Ethics of Autonomous and Intelligent Systems](https://tinyurl.com/y33xabn3)
 * [IEEE Writing Style](https://docs.google.com/presentation/d/1TIWfYpBYfumA1rgMLDP6UkM7fC9rC8EK4up3Q28t6MQ)
