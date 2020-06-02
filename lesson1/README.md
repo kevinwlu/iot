@@ -35,7 +35,7 @@
 
 * Disable "[Overscan](https://en.wikipedia.org/wiki/Overscan)" if there is a black border on the display
 * Disable "Pixel Doubling" (default)
-* Disable "Composite Video" (default)
+* Disable "[Composite Video](https://en.wikipedia.org/wiki/Composite_video)" (default)
 * Enable "Screen Blanking" (default)
 
 ### 3. Raspberry Pi Configuration > Interfaces
