@@ -1,5 +1,15 @@
 # Lesson 1: Overview
 
+## References
+
+* [Hands-on books series](http://www.hands-on-books-series.com)
+* [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)
+* [GitHub](https://en.wikipedia.org/wiki/GitHub)
+* [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
+* [Markdown](https://en.wikipedia.org/wiki/Markdown)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
+
 ## Lab 1A: NOOBS and Wi-Fi
 
 ### 1. Raspberry Pi only supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system
@@ -56,8 +66,22 @@
 
 ### 2. Click the [Terminal](https://en.wikipedia.org/wiki/Terminal_emulator) icon at the left of the menu bar to open a Terminal and enter 
 
+#### Clone the IoT repository on a Raspberry Pi
+
 ```sh
-$ git clone https://github.com/kevinwlu/iot.git
+pi@raspberrypi:~ $ git clone https://github.com/kevinwlu/iot.git
+```
+
+#### Update the IoT repository on a Raspberry Pi afterwards
+
+```sh
+pi@raspberrypi:~ $ cd iot
+pi@raspberrypi:~/iot $ git pull
+```
+
+#### Copy any file out of the IoT repository to edit
+
+```sh
 $ cp ~/iot/lesson1/startup_mailer.py .
 ```
 * "~" represents the directory /home/pi
