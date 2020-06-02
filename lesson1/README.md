@@ -114,7 +114,7 @@ pi@raspberrypi:~ $ vncserver
 ```
 ### 3. Open VNC Viewer, and enter 155.246.x.x:1, username pi, and password
 
-### 4. Click the Web Browser icon to launch Chromium
+### 4. Click the Web Browser icon to launch [Chromium](https://en.wikipedia.org/wiki/Chromium_(web_browser))
 
 ### 5. Always shutdown Raspberry Pi properly from the applications menu or from the Terminal
 ```sh
