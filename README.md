@@ -1,16 +1,15 @@
 # The Internet of Things (<a href="https://sites.google.com/view/ece629" target="_blank">IoT</a>)
 
-* <a href="https://goo.gl/Ga1wxY" target="_blank">Lesson 0</a>: Syllabus
-* <a href="https://goo.gl/4aXo9L" target="_blank">Lesson 1</a>: Overview
-* <a href="https://goo.gl/hRoMYW" target="_blank">Lesson 2</a>: Raspberry Pi
-* <a href="https://goo.gl/F0H9jW" target="_blank">Lesson 3</a>: Python
-* <a href="https://goo.gl/bhktY0" target="_blank">Lesson 4</a>: Django and Flask
-* <a href="https://goo.gl/shPybk" target="_blank">Lesson 5</a>: Crossbar.io and Paho
-* <a href="https://goo.gl/KDtocJ" target="_blank">Lesson 6</a>: Alternative Devices
-* <a href="https://goo.gl/6BsKOa" target="_blank">Lesson 7</a>: Cloud Platforms
-* <a href="https://goo.gl/ibFiqR" target="_blank">Lesson 8</a>: Data Analysis
-* <a href="https://goo.gl/RIzzfl" target="_blank">Lesson 9</a>: NETCONF and YANG
-* <a href="https://docs.google.com/presentation/d/1t4YSlCzr2ADTV10dcQIOL0OybbGUu3zZ5oSJCcsuX-0" target="_blank">Lesson 10</a>: Blockchain
+* [Lesson 1](https://github.com/kevinwlu/iot/tree/master/lesson1): Overview
+* [Lesson 2](https://github.com/kevinwlu/iot/tree/master/lesson2): Raspberry Pi
+* [Lesson 3](https://github.com/kevinwlu/iot/tree/master/lesson3): Python
+* [Lesson 4](https://github.com/kevinwlu/iot/tree/master/lesson4): Django and Flask
+* [Lesson 5](https://github.com/kevinwlu/iot/tree/master/lesson5): Crossbar.io and Paho
+* [Lesson 6](https://github.com/kevinwlu/iot/tree/master/lesson6): Alternative Devices
+* [Lesson 7](https://github.com/kevinwlu/iot/tree/master/lesson7): Cloud Platforms
+* [Lesson 8](https://github.com/kevinwlu/iot/tree/master/lesson8): Data Analysis
+* [Lesson 9](https://github.com/kevinwlu/iot/tree/master/lesson9): NETCONF and YANG
+* [Lesson 10](https://github.com/kevinwlu/iot/tree/master/lesson10): Blockchain
 * [References](http://www.hands-on-books-series.com)
 * [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
 
