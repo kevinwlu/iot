@@ -15,25 +15,10 @@
 ## References
 
 * [Hands-on books series](http://www.hands-on-books-series.com)
-* [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)
-* [GitHub](https://en.wikipedia.org/wiki/GitHub)
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
+* [GitHub](https://en.wikipedia.org/wiki/GitHub)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
-
-## Clone the IoT repository on a Raspberry Pi
-
-```sh
-pi@raspberrypi:~ $ git clone https://github.com/kevinwlu/iot.git
-```
-
-## Update the IoT repository on a Raspberry Pi
-
-```sh
-pi@raspberrypi:~ $ cd iot
-pi@raspberrypi:~/iot $ git pull
-```
 
 ## Courses (Google Sites)
 
