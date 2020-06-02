@@ -17,7 +17,7 @@
 
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
-* [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)
+* [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
 * [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
 
 ## Clone the IoT repository on a Raspberry Pi
