@@ -54,7 +54,7 @@
 
 * App passwords > Select the app (Mail) and device (Raspberry Pi) > GENERATE
 
-### 2. Click the Terminal icon at the left of the menu bar to open a Terminal and enter 
+### 2. Click the [Terminal](https://en.wikipedia.org/wiki/Terminal_emulator) icon at the left of the menu bar to open a Terminal and enter 
 
 ```sh
 $ git clone https://github.com/kevinwlu/iot.git
