@@ -10,7 +10,7 @@
 
 * Eject the SD card properly, and insert it to Raspberry Pi SD card slot
 
-### 3. Install NOOBS first at Burchard 123 on the Stevens Wi-Fi network by connecting Raspberry Pi to a monitor, keyboard, and mouse, then to power
+### 3. Install NOOBS first at Burchard 123 on the Stevens [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) network by connecting Raspberry Pi to a monitor, keyboard, and mouse, then to power
 
 * Click "Wifi network (w)," select "Stevens," enter Stevens Username and Password — once connected, more operating systems become available
 
