@@ -26,7 +26,7 @@ pi@raspberrypi:~ $ cd iot
 pi@raspberrypi:~/iot $ git pull
 ```
 
-## Courses
+## Courses in Google Sites
 
 * [ECOES: Exploring Career Options in Engineering and Science](https://sites.google.com/view/ece-ecoes)
 * [Engineering Design VI](https://sites.google.com/view/ece322)
@@ -36,7 +36,7 @@ pi@raspberrypi:~/iot $ git pull
 * [Special Problem](https://sites.google.com/view/ece800)
 * [Thesis](https://sites.google.com/view/ece900)
 
-## Talks
+## Talks in Google Slides
 
 * [A Hands-on Approach to the Internet of Things](https://goo.gl/6EWVZb)
 * [The Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
