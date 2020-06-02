@@ -1,13 +1,8 @@
 # Lesson 1: Overview
 
-## References
-
-* [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)
-* [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
-
 ## Lab 1A: NOOBS and Wi-Fi
 
-### 1. Raspberry Pi only supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system
+### 1. [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) only supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system
 
 ### 2. On a laptop, download the latest New Out-Of-Box Software ([NOOBS](https://www.raspberrypi.org/downloads/noobs/)) zip file and extract the zip file to a folder
 
@@ -59,7 +54,7 @@
 
 * App passwords > Select the app (Mail) and device (Raspberry Pi) > GENERATE
 
-### 2. Click the [Terminal](https://en.wikipedia.org/wiki/Terminal_emulator) icon at the left of the menu bar to open a Terminal and enter 
+### 2. Click the [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) [Terminal](https://en.wikipedia.org/wiki/Terminal_emulator) icon at the left of the menu bar to open a Terminal and enter 
 
 #### Clone the IoT repository on a Raspberry Pi
 
