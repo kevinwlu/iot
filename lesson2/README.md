@@ -2,7 +2,7 @@
 
 ## Lab 2A: [Serial communication](https://en.wikipedia.org/wiki/Serial_communication)
 
-### 1. Open a Terminal (or PuTTY) and make sure Serial Council is disabled
+### 1. Open a Terminal (or [PuTTY](https://en.wikipedia.org/wiki/PuTTY)) and make sure Serial Council is disabled
 ```sh
 $ sudo nano /boot/cmdline.txt
 ```
@@ -34,7 +34,7 @@ hheelllloo
 control-a x
 ```
 
-### 3. Optionally, perform serial test between two Raspberry Pi's using three DuPont female-to-female jump wires
+### 3. Optionally, perform serial test between two Raspberry Pi's using three DuPont female-to-female [jump wires](https://en.wikipedia.org/wiki/Jump_wire)
 
 * Connect TX of a Raspberry Pi to RX of the other Raspberry Pi
 * Connect RX of a Raspberry Pi to TX of the other Raspberry Pi
@@ -111,7 +111,7 @@ $ sudo i2cdetect -y 1
 
 ### 2. Longer lead (+) of the LED to GPIO 18, the 6th pin from the left of the top row
 
-## Lab 2E: GPIO and LED
+## Lab 2E: [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO) and [light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED)
 
 ### 1. Connect an LED on a breadboard to the Raspberry Pi GPIO using two DuPont male-to-female jump wires as shown in Lab C
 
