@@ -4,7 +4,7 @@
 
 ### 1. Raspberry Pi only supports SDHC (High Capacity up to 32GB) cards with the FAT (File Allocation Table) file system
 
-### 2. On a laptop, download the latest New Out-Of-Box Software (<a href="https://www.raspberrypi.org/downloads/noobs/">NOOBS</a>) zip file and extract the zip file to a folder
+### 2. On a laptop, download the latest New Out-Of-Box Software ([NOOBS](https://www.raspberrypi.org/downloads/noobs/)) zip file and extract the zip file to a folder
 
 * Insert a new or reformatted SD card, go to the folder, select all items, then drag and drop them to the SD card
 
@@ -91,7 +91,7 @@ $ sudo chmod +x /lib/systemd/system/rc-local.service
 
 ## Lab 1D: SSH and VNC
 
-### 1. On a laptop, download VNC Viewer https://www.realvnc.com/download/viewer
+### 1. On a laptop, download [VNC Viewer](https://www.realvnc.com/download/viewer)
 
 ### 2. Open a Terminal (or PuTTY) and enter
 ```sh
@@ -112,7 +112,7 @@ $ sudo shutdown -h now
 
 * VNC Connect is included with the latest NOOBS for non-commercial use
 
-* Sign up for a free RealVNC https://www.realvnc.com account (need to be over 16) by an email address
+* Sign up for a free [RealVNC](https://www.realvnc.com) account (need to be over 16) by an email address
 
 * On the Raspberry Pi desktop, click the VNC Server icon at the right of the menu bar and sign in to enable cloud connectivity
 
