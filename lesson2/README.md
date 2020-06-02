@@ -2,7 +2,7 @@
 
 ## Lab 2A: [Serial communication](https://en.wikipedia.org/wiki/Serial_communication)
 
-### 1. Open a Terminal (or [PuTTY](https://en.wikipedia.org/wiki/PuTTY)) and make sure Serial Council is disabled
+### 1. Open a Terminal (or PuTTY) and make sure Serial Council is disabled
 ```sh
 $ sudo nano /boot/cmdline.txt
 ```
