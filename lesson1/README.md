@@ -1,4 +1,4 @@
-# <a href="https://goo.gl/4aXo9L">Lesson 1</a>: Overview
+# Lesson 1: Overview
 
 ## Lab 1A: NOOBS and Wi-Fi
 
