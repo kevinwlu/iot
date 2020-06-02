@@ -1,4 +1,4 @@
-# The Internet of Things (<a href="https://sites.google.com/view/ece629" target="_blank">IoT</a>)
+# The Internet of Things (IoT)
 
 * [Lesson 1](https://github.com/kevinwlu/iot/tree/master/lesson1): Overview
 * [Lesson 2](https://github.com/kevinwlu/iot/tree/master/lesson2): Raspberry Pi
@@ -13,6 +13,13 @@
 * [References](http://www.hands-on-books-series.com)
 * [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
 
+## References
+
+* [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)
+* [GitHub](https://en.wikipedia.org/wiki/GitHub)
+* [Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)
+* [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
+
 ## Clone the IoT repository on a Raspberry Pi
 
 ```sh
@@ -26,7 +33,7 @@ pi@raspberrypi:~ $ cd iot
 pi@raspberrypi:~/iot $ git pull
 ```
 
-## Courses in Google Sites
+## Courses (Google Sites)
 
 * [ECOES: Exploring Career Options in Engineering and Science](https://sites.google.com/view/ece-ecoes)
 * [Engineering Design VI](https://sites.google.com/view/ece322)
@@ -36,7 +43,7 @@ pi@raspberrypi:~/iot $ git pull
 * [Special Problem](https://sites.google.com/view/ece800)
 * [Thesis](https://sites.google.com/view/ece900)
 
-## Talks in Google Slides
+## Presentations (Google Slides)
 
 * [A Hands-on Approach to the Internet of Things](https://goo.gl/6EWVZb)
 * [The Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
