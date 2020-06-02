@@ -42,5 +42,5 @@ pi@raspberrypi:~/iot $ git pull
 * [The Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
 * [Careers in Industry](https://tinyurl.com/IndustryCareers)
 * [A Balanced Skill Set](https://goo.gl/a2RSKB)
-* [AI Ethics](https://tinyurl.com/y33xabn3)
+* [Ethics of Autonomous and Intelligent Systems](https://tinyurl.com/y33xabn3)
 * [IEEE Writing Style](https://docs.google.com/presentation/d/1TIWfYpBYfumA1rgMLDP6UkM7fC9rC8EK4up3Q28t6MQ)
