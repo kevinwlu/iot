@@ -2,7 +2,7 @@
 
 ## Lab 1A: NOOBS and Wi-Fi
 
-### 1. Raspberry Pi only supports SDHC (High Capacity up to 32GB) cards with the FAT (File Allocation Table) file system
+### 1. Raspberry Pi only supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system
 
 ### 2. On a laptop, download the latest New Out-Of-Box Software ([NOOBS](https://www.raspberrypi.org/downloads/noobs/)) zip file and extract the zip file to a folder
 
