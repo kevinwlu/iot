@@ -1,4 +1,4 @@
-# The Internet of Things (IoT)
+# Internet of Things (IoT)
 
 * [Lesson 1](https://github.com/kevinwlu/iot/tree/master/lesson1): Overview
 * [Lesson 2](https://github.com/kevinwlu/iot/tree/master/lesson2): Raspberry Pi
@@ -14,7 +14,7 @@
 
 ## References
 
-* [Books](http://www.hands-on-books-series.com)
+* [Hands-on books series](http://www.hands-on-books-series.com)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
