@@ -1,6 +1,6 @@
 # Lesson 2: Raspberry Pi
 
-## Lab 2A: [Serial communication](https://en.wikipedia.org/wiki/Serial_communication)
+## Lab 2A:  [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO) and [Serial communication](https://en.wikipedia.org/wiki/Serial_communication)
 
 ### 1. Open a Terminal on macOS/Linux or [Git Bash](https://gitforwindows.org/) on Windows, and make sure Serial Council is disabled
 ```sh
@@ -74,7 +74,7 @@ DE AD BE EF BA AD
 F0 0D 
 ```
 
-## Lab 2C: [Breadboard](https://en.wikipedia.org/wiki/Breadboard) and [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO)
+## Lab 2C: [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
 
 ### 1. Shorter lead (−) of the LED to a 330-Ω resistor then to Ground, the 3rd pin from the left of the top row
 
