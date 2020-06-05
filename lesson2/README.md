@@ -15,7 +15,7 @@ $ sudo reboot
 ### 2. Serial [loopback](https://en.wikipedia.org/wiki/Loopback) test
 * Connect two serial pins (the 4th and 5th pins from the left of the top row) using one DuPont female-to-female [jump wires](https://en.wikipedia.org/wiki/Jump_wire)
 
-* Install and run Minicom
+* Install and run [Minicom](https://en.wikipedia.org/wiki/Minicom)
 ```sh
 $ sudo apt-get install minicom
 $ minicom -b 115200 -o -D /dev/ttyS0
