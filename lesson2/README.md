@@ -74,7 +74,7 @@ DE AD BE EF BA AD
 F0 0D 
 ```
 
-## Lab 2C: [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
+## Lab 2C: [Breadboard](https://en.wikipedia.org/wiki/Breadboard) and [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO)
 
 ### 1. Shorter lead (−) of the LED to a 330-Ω resistor then to Ground, the 3rd pin from the left of the top row
 
@@ -82,7 +82,7 @@ F0 0D
 
 ![lesson2_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/lesson2_bb.png)
 
-## Lab 2D: [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO) and [light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED)
+## Lab 2D: [light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED)
 
 ### 1. Connect an LED on a breadboard to the Raspberry Pi GPIO using two DuPont male-to-female jump wires as shown in Lab C
 
