@@ -74,7 +74,32 @@ DE AD BE EF BA AD
 F0 0D 
 ```
 
-## Lab 2C: [Inter-Integrated Circuit](https://en.wikipedia.org/wiki/I%C2%B2C) (I2C)
+## Lab 2C: [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
+
+### 1. Shorter lead (−) of the LED to a 330-Ω resistor then to Ground, the 3rd pin from the left of the top row
+
+### 2. Longer lead (+) of the LED to GPIO 18, the 6th pin from the left of the top row
+
+![lesson2_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/lesson2_bb.png)
+
+## Lab 2D: [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO) and [light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED)
+
+### 1. Connect an LED on a breadboard to the Raspberry Pi GPIO using two DuPont male-to-female jump wires as shown in Lab C
+
+### 2. On a Terminal, enter the following commands to switch an LED on/off 
+```sh
+pi@raspberypi:~ $ sudo su
+root@raspberypi:/home/pi# echo 18 > /sys/class/gpio/export
+root@raspberypi:/home/pi# cd /sys/class/gpio/gpio18
+root@raspberypi:/sys/class/gpio/gpio18# echo out > direction
+root@raspberypi:/sys/class/gpio/gpio18# echo 1 > value
+root@raspberypi:/sys/class/gpio/gpio18# echo 0 > value
+root@raspberypi:/sys/class/gpio/gpio18# cd /home/pi
+root@raspberypi:/home/pi# echo 18 > /sys/class/gpio/unexport
+root@raspberypi:/home/pi# exit
+```
+
+## Lab 2E: [Inter-Integrated Circuit](https://en.wikipedia.org/wiki/I%C2%B2C) (I2C)
 
 * Install i2c-tools, and test I2C addresses
 * Connect I2C device ADXL345 (3-axis accelerometer) to 3V3, GND, SDA, and SCL of a Raspberry Pi using four DuPont female-to-female jump wires
@@ -109,31 +134,6 @@ $ sudo i2cdetect -y 1
 50: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
 60: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
 70: -- -- -- -- -- -- -- 77 
-```
-
-## Lab 2D: [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
-
-### 1. Shorter lead (−) of the LED to a 330-Ω resistor then to Ground, the 3rd pin from the left of the top row
-
-### 2. Longer lead (+) of the LED to GPIO 18, the 6th pin from the left of the top row
-
-![lesson2_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/lesson2_bb.png)
-
-## Lab 2E: [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO) and [light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED)
-
-### 1. Connect an LED on a breadboard to the Raspberry Pi GPIO using two DuPont male-to-female jump wires as shown in Lab C
-
-### 2. On a Terminal, enter the following commands to switch an LED on/off 
-```sh
-pi@raspberypi:~ $ sudo su
-root@raspberypi:/home/pi# echo 18 > /sys/class/gpio/export
-root@raspberypi:/home/pi# cd /sys/class/gpio/gpio18
-root@raspberypi:/sys/class/gpio/gpio18# echo out > direction
-root@raspberypi:/sys/class/gpio/gpio18# echo 1 > value
-root@raspberypi:/sys/class/gpio/gpio18# echo 0 > value
-root@raspberypi:/sys/class/gpio/gpio18# cd /home/pi
-root@raspberypi:/home/pi# echo 18 > /sys/class/gpio/unexport
-root@raspberypi:/home/pi# exit
 ```
 
 ## Lab 2F: [1-Wire](https://en.wikipedia.org/wiki/1-Wire)
