@@ -76,10 +76,11 @@ F0 0D
 
 ## Lab 2C: [Inter-Integrated Circuit](https://en.wikipedia.org/wiki/I%C2%B2C) (I2C)
 
-
-
-* Connect I2C device ADXL345 (3-axis accelerometer) to 3V3, GND, SDA, and SCL of a Raspberry Pi using four DuPont female-to-female jump wires
 * Install i2c-tools, and test I2C addresses
+* Connect I2C device ADXL345 (3-axis accelerometer) to 3V3, GND, SDA, and SCL of a Raspberry Pi using four DuPont female-to-female jump wires
+
+![adxl345_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/adxl345_bb.png)
+
 ```sh
 $ sudo apt-get install i2c-tools python-smbus
 $ sudo i2cdetect -y 1
@@ -94,6 +95,9 @@ $ sudo i2cdetect -y 1
 70: -- -- -- -- -- -- -- -- 
 ```
 * Connect I2C device BMP180 (barometric pressure sensor) to 3V3, GND, SDA, and SCL of a Raspberry Pi using four DuPont female-to-female jump wires
+
+![bmp180_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/bmp180_bb.png)
+
 ```sh
 $ sudo i2cdetect -y 1
    0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
