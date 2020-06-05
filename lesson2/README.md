@@ -82,7 +82,7 @@ F0 0D
 
 ![lesson2_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/lesson2_bb.png)
 
-## Lab 2D: [light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED)
+## Lab 2D: [Light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED)
 
 ### 1. Connect an LED on a breadboard to the Raspberry Pi GPIO using two DuPont male-to-female jump wires as shown in Lab C
 
