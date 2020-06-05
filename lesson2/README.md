@@ -1,6 +1,6 @@
 # Lesson 2: Raspberry Pi
 
-## Lab 2A:  [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO) and [Serial communication](https://en.wikipedia.org/wiki/Serial_communication)
+## Lab 2A:  [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO) and [serial communication](https://en.wikipedia.org/wiki/Serial_communication)
 
 ### 1. Open a Terminal on macOS/Linux or [Git Bash](https://gitforwindows.org/) on Windows, and make sure Serial Council is disabled
 ```sh
