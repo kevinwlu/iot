@@ -13,7 +13,8 @@ $ sudo reboot
 ```
 
 ### 2. Serial [loopback](https://en.wikipedia.org/wiki/Loopback) test
-* Connect two serial pins (the 4th and 5th pins from the left of the top row) using one DuPont female-to-female jump wire
+* Connect two serial pins (the 4th and 5th pins from the left of the top row) using one DuPont female-to-female [jump wires](https://en.wikipedia.org/wiki/Jump_wire)
+
 * Install and run Minicom
 ```sh
 $ sudo apt-get install minicom
@@ -34,8 +35,7 @@ hheelllloo
 control-a x
 ```
 
-### 3. Optionally, perform serial test between two Raspberry Pi's using three DuPont female-to-female [jump wires](https://en.wikipedia.org/wiki/Jump_wire)
-
+### 3. Optionally, perform serial test between two Raspberry Pi's using three DuPont female-to-female jump wire
 * Connect TX of a Raspberry Pi to RX of the other Raspberry Pi
 * Connect RX of a Raspberry Pi to TX of the other Raspberry Pi
 * Connect GND of both Raspberry Pi's
