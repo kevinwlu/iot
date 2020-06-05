@@ -2,7 +2,7 @@
 
 ## Lab 2A: [Serial communication](https://en.wikipedia.org/wiki/Serial_communication)
 
-### 1. Open a Terminal in macOS/Linux or [Git Bash](https://gitforwindows.org/) on Windows, and make sure Serial Council is disabled
+### 1. Open a Terminal on macOS/Linux or [Git Bash](https://gitforwindows.org/) on Windows, and make sure Serial Council is disabled
 ```sh
 $ sudo nano /boot/cmdline.txt
 ```
@@ -75,6 +75,8 @@ F0 0D
 ```
 
 ## Lab 2C: [Inter-Integrated Circuit](https://en.wikipedia.org/wiki/I%C2%B2C) (I2C)
+
+
 
 * Connect I2C device ADXL345 (3-axis accelerometer) to 3V3, GND, SDA, and SCL of a Raspberry Pi using four DuPont female-to-female jump wires
 * Install i2c-tools, and test I2C addresses
