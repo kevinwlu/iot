@@ -28,6 +28,10 @@ $ ssh -Y pi@xxx.xxx.xxx.xxx
 #### For macOS, download and install [XQuartz](https://www.xquartz.org/), and open a terminal
 ```sh
 $ ssh -Y pi@xxx.xxx.xxx.xxx
+```
+#### For Linux (most distributions have the X server installed), open a terminal
+```sh
+$ ssh -Y pi@xxx.xxx.xxx.xxx
 $ cd ~/iot/lesson8
 $ python3 pyplot_simple.py
 $ python3 simple_plot.py
