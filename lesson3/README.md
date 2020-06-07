@@ -36,7 +36,7 @@ $ python3 system_info.py
 ### Run [network socket](https://en.wikipedia.org/wiki/Network_socket) server from a Terminal, and run network socket client from ANOTHER Terminal of the same Raspberry Pi or a different one on the same subnetwork
 ```sh
 $ python3 socket_server.py
-$ python3 socket_client.py '155.246.x.x'
+$ python3 socket_client.py 'xxx.xxx.xxx.xxx'
 ```
 ## Lab 3B: Breadboard
 
