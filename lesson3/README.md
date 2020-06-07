@@ -7,6 +7,9 @@
 * Open Git Bash
 ```sh
 $ python -m pip install --upgrade pip
+$ python -i
+...
+>>> exit()
 ```
 
 ### On a Raspberry Pi, install packages, update the IoT repository, and run python programs
