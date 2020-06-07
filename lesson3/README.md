@@ -13,7 +13,7 @@ $ python -m pip install --upgrade pip
 $ python -m pip install jdcal astral geopy
 ```
 
-### On a Raspberry Pi, install packages, update the IoT repository, and run python programs
+### On a Raspberry Pi, run pip3 to install/upgrade packages, update the IoT repository, and run Python 3 programs
 ```sh
 $ sudo pip3 install -U jdcal astral geopy
 $ cd iot
