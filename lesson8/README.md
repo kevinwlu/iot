@@ -2,7 +2,15 @@
 
 ## Lab 8A: Examples
 
-### Install SciPy, Matplotlib, pandas, and dependencies on Raspberry Pi
+### On Windows, open Git Bash and install Python packages as follows
+```sh
+$ python -m pip install -U numpy scipy scikit-learn matplotlib pandas keras
+```
+### On macOS, open a terminal and install Python packages as follows
+```sh
+$ sudo pip3 install -U numpy scipy scikit-learn matplotlib pandas keras
+```
+### on Raspberry Pi, install SciPy, Matplotlib, pandas, and dependencies 
 ```sh
 $ sudo apt update
 $ sudo apt install python3-scipy
