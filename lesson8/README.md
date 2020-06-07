@@ -18,23 +18,16 @@ $ sudo pip3 install --only-binary :all: -U scikit-learn
 $ sudo pip3 install -U tensorflow
 $ sudo pip3 install -U keras
 ```
-### Enable X11 forwarding with SSH -Y on a PC to run code on Raspberry Pi without VNC Viewer
+### Enable X11 forwarding with [SSH -Y](http://man.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/ssh.1#Y) on a PC to run code on Raspberry Pi without VNC Viewer
 
-#### For Windows, follow the instructions, install and configure Xming, and always open Xming before running PuTTY with SSH and X11 forwarding
-
-http://laptops.eng.uci.edu/software-installation/using-linux/how-to-configure-xming-putty
-
-https://sourceforge.net/projects/xming/
-
-https://www.putty.org/
-
-#### For macOS, download and install XQuartz, and enter "ssh -Y" in a terminal
-
-https://www.xquartz.org/
-
-http://man.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/ssh.1#Y
-
+#### For Windows, download and install [Xming](https://sourceforge.net/projects/xming/), and open Git Bash
 ```sh
+$ export DISPLAY=localhost:0
+$ ssh -Y pi@xxx.xxx.xxx.xxx
+```
+#### For macOS, download and install [XQuartz](https://www.xquartz.org/), and open a terminal
+```sh
+$ ssh -Y pi@xxx.xxx.xxx.xxx
 $ cd ~/iot/lesson8
 $ python3 pyplot_simple.py
 $ python3 simple_plot.py
