@@ -70,8 +70,7 @@ $ python3 plot_cv_diabetes.py
 
 ### Keras and TensorFlow
 
-https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
-
+[Deep learning project in Python with Keras](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 ```sh
 $ python3 keras_diabetes.py
 $ python3 keras_first_network.py
