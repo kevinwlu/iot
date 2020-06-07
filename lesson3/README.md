@@ -19,7 +19,7 @@ $ python julian.py
 ...
 ```
 
-### On macOS or Linux such as Raspbian with Python 2 and Python 3 preinstalled, run pip3 to install/upgrade packages, update the IoT repository, and run Python 3 programs
+### On macOS or Linux such as Raspbian with both Python 2 and Python 3 preinstalled, run pip3 to install/upgrade packages, update the IoT repository, and run Python 3 programs
 ```sh
 $ sudo pip3 install -U jdcal astral geopy
 $ cd iot
