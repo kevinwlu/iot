@@ -8,7 +8,7 @@ $ python -m pip install -U numpy scipy scikit-learn matplotlib pandas keras
 ```
 ### On macOS/Linux, open a terminal and install Python packages as follows
 ```sh
-$ sudo pip3 install -U numpy scipy scikit-learn matplotlib pandas keras
+$ sudo pip3 install -U numpy scipy scikit-learn matplotlib pandas tensorflow keras
 ```
 ### On Raspberry Pi, install SciPy, Matplotlib, pandas, and dependencies 
 ```sh
