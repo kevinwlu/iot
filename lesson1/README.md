@@ -43,7 +43,8 @@
 
 ### 5. Click Yes for "Would you like to reboot now?"
 
-## Lab 1C: Startup Mailer - the following steps require the internet access
+## Lab 1C: Startup Mailer
+* The following steps that require the internet access are necessary only if the IP address of Raspberry Pi is unknown
 
 ### 1. Enable Google 2-Step Verification and generate a Google App password
 
@@ -106,10 +107,10 @@ $ sudo chmod +x /lib/systemd/system/rc-local.service
 
 ### 2. Open a Terminal on macOS/Linux or [Git Bash](https://gitforwindows.org/) on Windows, and enter
 ```sh
-$ ssh pi@155.246.x.x
+$ ssh pi@xxx.xxx.xxx.xxx
 pi@raspberrypi:~ $ vncserver
 ```
-### 3. Open VNC Viewer, and enter 155.246.x.x:1, username pi, and password
+### 3. Open VNC Viewer, and enter xxx.xxx.xxx.xxx:1, username pi, and password
 
 ### 4. Click the Web Browser icon to launch [Chromium](https://en.wikipedia.org/wiki/Chromium_(web_browser))
 
