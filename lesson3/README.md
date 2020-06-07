@@ -4,12 +4,12 @@
 
 ### On Windows, [download](https://www.python.org/downloads/windows/) and install the latest version of Python 3
 * Edit path in "System Properties > Advanced > Environment Variables" and add C:\Users\...\AppData\Local\Programs\Python\Python... and C:\Users\...\AppData\Local\Programs\Python\Python...\Scripts
-* Open Git Bash
+* Open Git Bash, run Python and upgrade [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) 
 ```sh
-$ python -m pip install --upgrade pip
 $ python -i
 ...
 >>> exit()
+$ python -m pip install --upgrade pip
 ```
 
 ### On a Raspberry Pi, install packages, update the IoT repository, and run python programs
