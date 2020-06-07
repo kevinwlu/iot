@@ -26,6 +26,8 @@ $ python3 date_example.py
 $ python3 datetime_example.py
 $ python3 time_example.py
 $ python3 sun.py 'New York'
+$ python3 sun.py 'Beijing'
+$ python3 sun.py 'New Delhi'
 $ python3 moon.py
 $ python3 coordinates.py 'SC Williams Library'
 $ python3 address.py '40.7448397, -74.02531776875'
