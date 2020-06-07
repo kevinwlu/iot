@@ -4,7 +4,7 @@
 
 ### On Windows, open Git Bash and install Python packages as follows
 ```sh
-$ python -m pip install -U numpy scipy scikit-learn matplotlib pandas keras
+$ python -m pip install -U numpy scipy scikit-learn matplotlib pandas
 ```
 ### On macOS/Linux, open a terminal and install Python packages as follows
 ```sh
