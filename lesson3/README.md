@@ -2,6 +2,13 @@
 
 ## Lab 3A: [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
+#### On Windows, [download](https://www.python.org/downloads/windows/) and install the latest version of Python 3
+* Edit path in "System Properties > Advanced > Environment Variables" and add C:\Users\...\AppData\Local\Programs\Python\Python... and C:\Users\...\AppData\Local\Programs\Python\Python...\Scripts
+* Open Git Bash
+```sh
+$ python -m pip install --upgrade pip
+```
+
 ### On a Raspberry Pi, install packages, update the IoT repository, and run python programs
 ```sh
 $ sudo pip3 install -U jdcal astral geopy
