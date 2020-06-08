@@ -4,7 +4,11 @@
 
 ### On Windows, open Git Bash and install Python packages as follows
 ```sh
-$ python -m pip install -U numpy scipy scikit-learn matplotlib pandas
+$ python -m pip install -U numpy scipy scikit-learn matplotlib pandas tensorflow keras
+```
+* If could not find a version that satisfies the requirement tensorflow (from versons: none) or no matching distribution found for tensorflow, install [Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/) then download a [TensorFlow Docker image](https://www.tensorflow.org/install/docker)
+```sh
+$ docker pull tensorflow/tensorflow 
 ```
 ### On macOS/Linux, open a terminal and install Python packages as follows
 ```sh
