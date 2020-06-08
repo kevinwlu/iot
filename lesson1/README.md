@@ -2,7 +2,7 @@
 
 ## Lab 1A: NOOBS and Wi-Fi
 
-### 1. [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) only supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system
+### 1. [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32 GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system only (cannot use SDXC cards with [exFAT](https://en.wikipedia.org/wiki/ExFAT))
 
 ### 2. On a laptop, download the latest New Out-Of-Box Software ([NOOBS](https://www.raspberrypi.org/downloads/noobs/)) zip file and extract the zip file to a folder
 
