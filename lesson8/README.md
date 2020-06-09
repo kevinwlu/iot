@@ -18,6 +18,7 @@ $ docker run -it tensorflow/tensorflow bash
 # cd iot/lesson8
 # python keras_diabetes.py
 # python keras_first_network.py
+# exit
 ```
 ### On macOS/Linux, open a terminal and install Python packages as follows
 ```sh
