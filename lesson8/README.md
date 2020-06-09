@@ -23,7 +23,7 @@ $ docker run -it tensorflow/tensorflow bash
 ```sh
 $ sudo pip3 install -U numpy scipy scikit-learn matplotlib pandas tensorflow keras
 ```
-### On Raspberry Pi, install SciPy, Matplotlib, pandas, and dependencies 
+### On Raspberry Pi, open a terminal and install Python packages as follows
 ```sh
 $ sudo apt update
 $ sudo apt install python3-scipy
@@ -31,9 +31,6 @@ $ sudo apt install python3-matplotlib
 $ sudo apt install python3-pandas
 $ sudo apt install libopenblas-dev
 $ sudo apt install libatlas-base-dev
-```
-### Install NumPy, scikit-learn, TensorFlow, and Keras on Raspberry Pi
-```sh
 $ sudo pip3 install -U numpy
 $ sudo pip3 install --only-binary :all: -U scikit-learn
 $ sudo pip3 install -U tensorflow
