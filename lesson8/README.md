@@ -8,7 +8,13 @@ $ python -m pip install -U numpy scipy scikit-learn matplotlib pandas tensorflow
 ```
 * If could not find a version that satisfies the requirement tensorflow (from versons: none) or no matching distribution found for tensorflow, install [Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/) then download a [TensorFlow Docker image](https://www.tensorflow.org/install/docker)
 ```sh
-$ docker pull tensorflow/tensorflow 
+$ docker pull tensorflow/tensorflow
+$ docker run -it tensorflow/tensorflow bash
+# apt update
+# apt full-upgrade
+# apt install git-all
+# git clone https://github.com/kevinwlu/iot.git
+# pip install keras
 ```
 ### On macOS/Linux, open a terminal and install Python packages as follows
 ```sh
