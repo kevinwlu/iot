@@ -2,7 +2,7 @@
 
 ## Lab 10A: Blockchain
 
-### [Hash function](https://en.wikipedia.org/wiki/Hash_function) and Secure Hash Algorithm [SHA-2](https://en.wikipedia.org/wiki/SHA-2)
+### [Hash function](https://en.wikipedia.org/wiki/Hash_function) and [SHA-2](https://en.wikipedia.org/wiki/SHA-2) Secure Hash Algorithm
 ```sh
 $ python3
 >>> import hashlib
@@ -20,7 +20,8 @@ $ cd ~/iot/lesson10
 $ python3 snakecoin.py
 $ cd
 ```
-### Terminal 1: Run node_server.py (Press CTRL+C to quit)
+### Python blockchain app by Satwik Kansal
+#### Terminal 1: Run node_server.py (Press CTRL+C to quit)
 ```sh
 $ git clone https://github.com/satwikkansal/python_blockchain_app.git
 $ export FLASK_APP=node_server.py
@@ -28,7 +29,7 @@ $ cd ~/python_blockchain_app
 $ flask run --port 8000
 ```
 
-### Terminal 2: Run run_app.py (Press CTRL+C to quit)
+#### Terminal 2: Run run_app.py (Press CTRL+C to quit)
 ```sh
 $ vncserver
 $ cd ~/python_blockchain_app
