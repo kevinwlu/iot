@@ -15,6 +15,9 @@ $ docker run -it tensorflow/tensorflow bash
 # apt install git-all
 # git clone https://github.com/kevinwlu/iot.git
 # pip install keras
+# cd iot/lesson8
+# python keras_diabetes.py
+# python keras_first_network.py
 ```
 ### On macOS/Linux, open a terminal and install Python packages as follows
 ```sh
