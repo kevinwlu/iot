@@ -5,8 +5,8 @@
 ### On Windows, [download](https://www.python.org/downloads/windows/) and install the latest version of Python 3
 * Edit path in "System Properties > Advanced > Environment Variables" and add 
 ```sh  
-C:\Users\\...\AppData\Local\Programs\Python\Python... 
-C:\Users\\...\AppData\Local\Programs\Python\Python...\Scripts
+C:\Users\...\AppData\Local\Programs\Python\Python... 
+C:\Users\...\AppData\Local\Programs\Python\Python...\Scripts
 ```
 * Open Git Bash, run Python and install/upgrade Python packages with [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) 
 ```sh
