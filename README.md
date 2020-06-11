@@ -12,13 +12,15 @@
 * [Lesson 10](https://github.com/kevinwlu/iot/tree/master/lesson10): Blockchain
 * [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
 
-## Additional Repositories
+## List of Repositories
 
 * [ThingsBoard](https://github.com/thingsboard)
+* [Microsoft IoT](https://github.com/ms-iot)
+* [Awesome IoT](https://github.com/phodal/awesome-iot)
+* [Awesome IoT Projects](https://github.com/phodal/awesome-iot-projects)
+* [.NET Core IoT Libraries](https://github.com/dotnet/iot)
 * [IBM Watson IoT](https://github.com/ibm-watson-iot)
 * [Intel IoT Developer Kit](https://github.com/intel-iot-devkit)
-* [Microsoft IoT](https://github.com/ms-iot)
-* [.NET Core IoT Libraries](https://github.com/dotnet/iot)
 
 ## References
 
