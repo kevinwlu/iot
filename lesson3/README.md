@@ -41,10 +41,14 @@ $ python3 coordinates.py 'SC Williams Library'
 $ python3 address.py '40.7448397, -74.02531776875'
 $ python3 system_info.py
 ```
+### Run ifconfig on Raspberry Pi (macOS or Linux) or ipconfig on Windows to find IP address 
+```sh
+$ ifconfig
+```
 ### Run [network socket](https://en.wikipedia.org/wiki/Network_socket) server from a Terminal, and run network socket client from ANOTHER Terminal of the same Raspberry Pi or a different one on the same subnetwork
 ```sh
 $ python3 socket_server.py
-$ python3 socket_client.py 'xxx.xxx.xxx.xxx'
+$ python3 socket_client.py '192.168.1.xxx'
 ```
 ## Lab 3B: Breadboard
 
