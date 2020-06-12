@@ -53,7 +53,7 @@ hello
 control-a x
 ```
 
-## Lab 2B: [Serial Peripheral Interface](https://en.wikipedia.org/wiki/Serial_communication) (SPI)
+## Lab 2B: [Serial Peripheral Interface](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (SPI)
 
 * Connect the SPI MOSI and MISO pins (the 10th and 11th pins from the left of the bottom row) using one DuPont female-to-female jump wire
 * Enter the following three commands on a Terminal:
