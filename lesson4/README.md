@@ -49,13 +49,40 @@ $ cd
 
 ## Lab 4C: [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
 
-### Install Flask-Ask and Ngrok
+### Terminal 1: Install [Flask-Ask](https://github.com/johnwheeler/flask-ask) and [Ngrok](https://ngrok.com/) for Alexa Skill
 ```sh
 $ sudo pip3 install -U flask-ask
 $ sudo pip3 install 'cryptography<2.2'
 $ sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 $ sudo unzip ngrok-stable-linux-arm.zip
+$ ./ngrok http 5000
 ```
+### Terminal 2: Memory Game 
+```sh
+$ cd ~/iot/lesson4
+python3 memory_game.py
+```
+### [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask)
+* Click "Create Skill" > Enter Skill Name in title case: Memory Game > Custom (SELECTED) > Click "Create Skill" > Start from scratch (SELECTED) > Click "Choose"
+* Interaction Model > 
+  * Invocation > Enter Skill Invocation Name in lowercase: memory game
+  * JSON Editor > Copy and paste intent schema and sample utterances from iot/lesson4/memory_game.json
+    AMAZON.StopIntent, one of the Standard Built-in Intents, is required*
+  * > Save Model > Build Model
+* Endpoint >
+  * Service Endpoint Type: HTTPS
+  * Default Region: https://xxxxxxxx.ngrok.io
+  * Select "My development endpoint is a sub-domain of a domain that has a wildcard certificate from a certificate authority"
+  * > Save Endpoints
+* Click "Test" tab and enable test for this skill
+  * Type or click and hold the microphone button to speak
+  * "memory game"
+    "Welcome to memory game. I'm going to say three numbers for you to repeat backwards. Ready?"
+  * "yes"
+    "Can you repeat the numbers 0, 9, 6 backwards?"
+  * "six nine zero"
+    "Good job!"
+
 ## Lab 4D: [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
 
 ### Install [Apache HTTP server](https://en.wikipedia.org/wiki/Apache_HTTP_Server) and [PHP](https://en.wikipedia.org/wiki/PHP)
