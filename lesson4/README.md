@@ -68,12 +68,12 @@ python3 memory_game.py
   * Invocation > Enter Skill Invocation Name in lowercase: memory game
   * JSON Editor > Copy and paste intent schema and sample utterances from iot/lesson4/memory_game.json
     AMAZON.StopIntent, one of the Standard Built-in Intents, is required*
-  * > Save Model > Build Model
+  * Save Model > Build Model
 * Endpoint >
   * Service Endpoint Type: HTTPS
   * Default Region: https://xxxxxxxx.ngrok.io
   * Select "My development endpoint is a sub-domain of a domain that has a wildcard certificate from a certificate authority"
-  * > Save Endpoints
+  * Save Endpoints
 * Click "Test" tab and enable test for this skill
   * Type or click and hold the microphone button to speak
   * "memory game"
