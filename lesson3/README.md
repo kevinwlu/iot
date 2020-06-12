@@ -105,7 +105,7 @@ $ GPIOZERO_PIN_FACTORY=pigpio PIGPIO_ADDR=<CONTROLLED_ADDRESS> python3 led.py
 pi@raspberrypi ~/iot/lesson3 $ sudo python3 temperature.py
 ```
 
-## Lab 3E: [Pypy](https://en.wikipedia.org/wiki/PyPy)
+## Lab 3E: [PyPy](https://en.wikipedia.org/wiki/PyPy)
 ```sh
 $ cd ~/iot/lesson3/pypy
 $ gcc -o test test.c
