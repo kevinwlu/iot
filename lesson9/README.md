@@ -1,4 +1,4 @@
-# [Lesson 9](https://goo.gl/RIzzfl): NETCONF and YANG
+# Lesson 9: NETCONF and YANG
 
 ## Lab 9A: [YANG](https://en.wikipedia.org/wiki/YANG) ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
 
