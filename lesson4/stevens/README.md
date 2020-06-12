@@ -66,6 +66,8 @@ pi@raspberrypi:~/stevens/myapp/templates/myapp $ cp ~/iot/lesson4/stevens/index.
 ```
 ## Enable Google Maps API
 
+[Application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface) (API)
+
 https://cloud.google.com/maps-platform
 
 https://developers.google.com/maps/documentation/javascript/get-api-key
