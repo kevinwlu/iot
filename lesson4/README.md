@@ -62,7 +62,7 @@ $ ./ngrok http 5000
 $ cd ~/iot/lesson4
 python3 memory_game.py
 ```
-### [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask)
+### Open a browser and sign in [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask)
 * Click "Create Skill" > Enter Skill Name in title case: Memory Game > Custom (SELECTED) > Click "Create Skill" > Start from scratch (SELECTED) > Click "Choose"
 * Interaction Model > 
   * Invocation > Enter Skill Invocation Name in lowercase: memory game
