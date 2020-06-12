@@ -46,7 +46,7 @@
 ### 5. Click Yes for "Would you like to reboot now?"
 
 ## Lab 1C: Startup Mailer
-* The following steps that require the internet access are necessary only if the IP address of Raspberry Pi is unknown without a monitor
+* The following steps that require the internet access are necessary only if the IP address of Raspberry Pi is unknown
 
 ### 1. Enable Google 2-Step Verification and generate a Google App password
 
