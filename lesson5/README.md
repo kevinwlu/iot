@@ -52,7 +52,7 @@ $ python3 client_component_publish.py
 $ cd crossbar-examples/getting-started/1.hello-world/
 $ python3 client_component_subscribe.py
 ```
-## Lab 5B: [Paho](https://www.eclipse.org/paho/)
+## Lab 5B: [Eclipse Mosquitto](https://mosquitto.org/) and [Eclipse Paho](https://en.wikipedia.org/wiki/Eclipse_Paho)
 
 ### Install and run Mosquitto and Paho to subscribe on one terminal and publish on another
 ```sh
