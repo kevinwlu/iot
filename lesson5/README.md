@@ -1,5 +1,7 @@
 # <a href="https://goo.gl/shPybk">Lesson 5</a>: Crossbar.io and Paho
 
+* [Publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
+
 ## Lab 5A: [Crossbar.io](https://crossbar.io/docs/Getting-Started/)
 
 ### Install Docker on a Raspberry Pi
