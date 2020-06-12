@@ -1,4 +1,4 @@
-# <a href="https://goo.gl/RIzzfl">Lesson 10</a>: Blockchain
+# Lesson 10: Blockchain
 
 ## Lab 10A: [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
 
