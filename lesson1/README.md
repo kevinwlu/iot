@@ -9,14 +9,16 @@
 * Insert a new or reformatted SD card, go to the folder, select all items, then drag and drop them to the SD card
 * Eject the SD card properly, and insert it to Raspberry Pi SD card slot
 
-### 3. Install NOOBS first at Burchard 123 on the Stevens [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) network by connecting Raspberry Pi to a monitor, keyboard, and mouse, then to power
+### 3. Install NOOBS by connecting Raspberry Pi to a monitor, keyboard, and mouse, then power on to access a [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) network
 
 * Click "Wifi network (w)," select "Stevens," enter Stevens Username and Password — once connected, more operating systems become available
 * Select "Raspbian Full [RECOMMENDED]" and "English (US) Language and Keyboard"
 * Click "Install (i)" and OK — installable without the internet access
 * Click OK after "OS(es) Installed Successfully" to reboot
 
-### 4. After reboot, change Password (default: raspberry) and skip both Wi-Fi and update
+### 4. After reboot, change Password (default: raspberry) and skip Wi-Fi (that has been set up) and update (that may take a while)
+
+### 5. Point (not click) the curser to the Wi-Fi icon at the right of the menu bar to see and write down the [IP address](https://en.wikipedia.org/wiki/IP_address) such as 192.168.1.xxx excluding the CIDR ([Classless Inter-Domain Routing ](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)) notation of /24 suffix indicating the number of bits of the prefix
 
 ## Lab 1B: Configuration
 
@@ -44,7 +46,7 @@
 ### 5. Click Yes for "Would you like to reboot now?"
 
 ## Lab 1C: Startup Mailer
-* The following steps that require the internet access are necessary only if the IP address of Raspberry Pi is unknown
+* The following steps that require the internet access are necessary only if the IP address of Raspberry Pi is unknown without a monitor
 
 ### 1. Enable Google 2-Step Verification and generate a Google App password
 
@@ -107,10 +109,10 @@ $ sudo chmod +x /lib/systemd/system/rc-local.service
 
 ### 2. Open a Terminal on macOS/Linux or [Git Bash](https://gitforwindows.org/) on Windows, and enter
 ```sh
-$ ssh pi@xxx.xxx.xxx.xxx
+$ ssh pi@192.168.1.xxx
 pi@raspberrypi:~ $ vncserver
 ```
-### 3. Open VNC Viewer, and enter xxx.xxx.xxx.xxx:1, username pi, and password
+### 3. Open VNC Viewer, and enter 192.168.1.xxx:1, username pi, and password
 
 ### 4. Click the Web Browser icon to launch [Chromium](https://en.wikipedia.org/wiki/Chromium_(web_browser))
 
