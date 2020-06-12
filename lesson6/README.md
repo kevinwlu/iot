@@ -1,4 +1,4 @@
-# <a href="https://goo.gl/KDtocJ">Lesson 6</a>: Alternative Devices
+# Lesson 6: Alternative Devices
 
 ## Lab 6A: Particle Cloud
 
