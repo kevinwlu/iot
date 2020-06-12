@@ -57,7 +57,7 @@ $ sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 $ sudo unzip ngrok-stable-linux-arm.zip
 $ ./ngrok http 5000
 ```
-### Terminal 2: Memory Game 
+### Terminal 2: [Memory Game](https://developer.amazon.com/blogs/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development)
 ```sh
 $ cd ~/iot/lesson4
 python3 memory_game.py
