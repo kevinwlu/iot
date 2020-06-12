@@ -37,7 +37,7 @@ $ sudo pip3 install --only-binary :all: -U scikit-learn
 $ sudo pip3 install -U tensorflow
 $ sudo pip3 install -U keras
 ```
-### Enable X11 forwarding with [SSH -Y](http://man.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/ssh.1#Y) on a PC to run code on Raspberry Pi without VNC Viewer
+### Enable [X11](https://en.wikipedia.org/wiki/X_Window_System) forwarding with [SSH -Y](http://man.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/ssh.1#Y) on a PC to run code on Raspberry Pi without VNC Viewer
 
 #### For Windows, download and install [Xming](https://sourceforge.net/projects/xming/), and open Git Bash
 ```sh
