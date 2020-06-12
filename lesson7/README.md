@@ -1,4 +1,4 @@
-# <a href="https://goo.gl/6BsKOa">Lesson 7</a>: Cloud Platforms
+# Lesson 7: Cloud Platforms
 
 ## Lab 7A: ThingSpeak
 
