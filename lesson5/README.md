@@ -4,7 +4,7 @@
 
 ## Lab 5A: [Crossbar.io](https://crossbar.io/docs/Getting-Started/)
 
-### Install Docker on a Raspberry Pi
+### Install [Docker](https://en.wikipedia.org/wiki/Docker_(software)) on a Raspberry Pi
 ```sh
 $ curl -sSL get.docker.com | sh
 ```
