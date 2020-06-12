@@ -39,7 +39,7 @@ $ python3 run_app.py
 * Enter content and post name, click "Request to mine" that generate "Block #1 is mined" at http://127.0.0.1:8000/mine
 * At YourNet, click "Resync" to view Block #1
 
-## Lab 10B: IOTA
+## Lab 10B: [IOTA](https://en.wikipedia.org/wiki/IOTA_(technology))
 
 ### [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library) and [IRI](https://docs.iota.org/docs/node-software/0.1/iri/introduction/overview) (IOTA Reference Implementation)
 
