@@ -1,4 +1,4 @@
-# <a href="https://goo.gl/ibFiqR">Lesson 8</a>: Data Analysis
+# Lesson 8: Data Analysis
 
 ## Lab 8A: Examples
 
