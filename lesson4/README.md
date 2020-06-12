@@ -49,7 +49,7 @@ $ cd
 
 ## Lab 4C: [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
 
-### Terminal 1: Install [Flask-Ask](https://github.com/johnwheeler/flask-ask) and [Ngrok](https://ngrok.com/) for Alexa Skill
+### Terminal 1: Install [Flask-Ask](https://github.com/johnwheeler/flask-ask) and [Ngrok](https://ngrok.com/) for Alexa Skill Kit (ASK)
 ```sh
 $ sudo pip3 install -U flask-ask
 $ sudo pip3 install 'cryptography<2.2'
