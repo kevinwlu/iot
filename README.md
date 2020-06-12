@@ -29,8 +29,8 @@
 * [Industrial internent of things](https://en.wikipedia.org/wiki/Industrial_internet_of_things)
 * [Industry 4.0](https://en.wikipedia.org/wiki/Industry_4.0)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
-* [Markdown](https://en.wikipedia.org/wiki/Markdown)
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  * [Markdown](https://en.wikipedia.org/wiki/Markdown)
+  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Courses (Google Sites)
 
