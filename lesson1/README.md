@@ -100,16 +100,16 @@ $ sudo chmod +x /lib/systemd/system/rc-local.service
 
 ### 5. Disconnect the monitor, keyboard, and mouse
 
-## Lab 1D: SSH and VNC
+## Lab 1D: [SSH](https://en.wikipedia.org/wiki/Secure_Shell) and [VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing)
 
 ### 1. On a laptop, download [VNC Viewer](https://www.realvnc.com/download/viewer)
 
 ### 2. Open a Terminal on macOS/Linux or [Git Bash](https://gitforwindows.org/) on Windows, and enter
 ```sh
-$ ssh pi@192.168.1.xxx
+$ ssh pi@192.168.x.xxx
 pi@raspberrypi:~ $ vncserver
 ```
-### 3. Open VNC Viewer, and enter 192.168.1.xxx:1, username pi, and password
+### 3. Open VNC Viewer, and enter 192.168.x.xxx:1, username pi, and password
 
 ### 4. Click the Web Browser icon to launch [Chromium](https://en.wikipedia.org/wiki/Chromium_(web_browser))
 
