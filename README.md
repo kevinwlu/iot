@@ -1,5 +1,4 @@
 # Internet of Things (IoT)
-
 * [Lesson 1](https://github.com/kevinwlu/iot/tree/master/lesson1): Overview
 * [Lesson 2](https://github.com/kevinwlu/iot/tree/master/lesson2): Raspberry Pi
 * [Lesson 3](https://github.com/kevinwlu/iot/tree/master/lesson3): Python
@@ -12,8 +11,13 @@
 * [Lesson 10](https://github.com/kevinwlu/iot/tree/master/lesson10): Blockchain
 * [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
 
-## List of Repositories
+## Basics
+* [Git](https://en.wikipedia.org/wiki/Git)
+* [GitHub](https://en.wikipedia.org/wiki/GitHub)
+* [Markdown](https://en.wikipedia.org/wiki/Markdown)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
+## IoT Repositories
 * [ThingsBoard](https://github.com/thingsboard)
 * [Microsoft IoT](https://github.com/ms-iot)
 * [Awesome IoT](https://github.com/phodal/awesome-iot)
@@ -23,17 +27,12 @@
 * [Intel IoT Developer Kit](https://github.com/intel-iot-devkit)
 
 ## References
-
 * [Hands-on books series](http://www.hands-on-books-series.com)
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
 * [Industrial internent of things](https://en.wikipedia.org/wiki/Industrial_internet_of_things)
 * [Industry 4.0](https://en.wikipedia.org/wiki/Industry_4.0)
-* [GitHub](https://en.wikipedia.org/wiki/GitHub)
-  * [Markdown](https://en.wikipedia.org/wiki/Markdown)
-  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Courses (Google Sites)
-
 * [ECOES: Exploring Career Options in Engineering and Science](https://sites.google.com/view/ece-ecoes)
 * [Engineering Design VI](https://sites.google.com/view/ece322)
 * [Engineering Design VII-VIII](https://sites.google.com/view/ece423)
