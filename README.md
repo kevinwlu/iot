@@ -17,7 +17,7 @@
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-## IoT Repositories
+## Repositories
 * [ThingsBoard](https://github.com/thingsboard)
 * [Microsoft IoT](https://github.com/ms-iot)
 * [Awesome IoT](https://github.com/phodal/awesome-iot)
