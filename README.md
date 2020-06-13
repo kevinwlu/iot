@@ -1,4 +1,6 @@
 # Internet of Things (IoT)
+
+* [Instructor](https://web.stevens.edu/facultyprofile/?id=2081)
 * [Lesson 1](https://github.com/kevinwlu/iot/tree/master/lesson1): Overview
 * [Lesson 2](https://github.com/kevinwlu/iot/tree/master/lesson2): Raspberry Pi
 * [Lesson 3](https://github.com/kevinwlu/iot/tree/master/lesson3): Python
