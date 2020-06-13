@@ -11,6 +11,12 @@
 * [Lesson 10](https://github.com/kevinwlu/iot/tree/master/lesson10): Blockchain
 * [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
 
+## References
+* [Hands-on books series](http://www.hands-on-books-series.com)
+* [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
+* [Industrial internent of things](https://en.wikipedia.org/wiki/Industrial_internet_of_things)
+* [Industry 4.0](https://en.wikipedia.org/wiki/Industry_4.0)
+
 ## Basics
 * [Git](https://en.wikipedia.org/wiki/Git)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
@@ -25,12 +31,6 @@
 * [.NET Core IoT Libraries](https://github.com/dotnet/iot)
 * [IBM Watson IoT](https://github.com/ibm-watson-iot)
 * [Intel IoT Developer Kit](https://github.com/intel-iot-devkit)
-
-## References
-* [Hands-on books series](http://www.hands-on-books-series.com)
-* [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
-* [Industrial internent of things](https://en.wikipedia.org/wiki/Industrial_internet_of_things)
-* [Industry 4.0](https://en.wikipedia.org/wiki/Industry_4.0)
 
 ## Courses (Google Sites)
 * [ECOES: Exploring Career Options in Engineering and Science](https://sites.google.com/view/ece-ecoes)
