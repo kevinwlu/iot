@@ -54,23 +54,20 @@
 * 2-Step Verification > TURN ON > Select a second verification step > Authenticator app (Default)
 * App passwords > Select the app (Mail) and device (Raspberry Pi) > GENERATE
 
-### 2. Click the [Terminal](https://en.wikipedia.org/wiki/Terminal_emulator) icon at the left of the menu bar to open a [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) Terminal
+### 2. Click the [Terminal](https://en.wikipedia.org/wiki/Terminal_emulator) icon at the left of the menu bar
 
 #### Clone the IoT repository on a Raspberry Pi
-
 ```sh
 pi@raspberrypi:~ $ git clone https://github.com/kevinwlu/iot.git
 ```
 
 #### Update the IoT repository on a Raspberry Pi afterwards
-
 ```sh
 pi@raspberrypi:~ $ cd iot
 pi@raspberrypi:~/iot $ git pull
 ```
 
 #### Copy any file out of the IoT repository to edit
-
 ```sh
 $ cp ~/iot/lesson1/startup_mailer.py .
 ```
