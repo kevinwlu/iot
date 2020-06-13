@@ -53,7 +53,7 @@ hello
 control-a x
 ```
 
-## Lab 2B: [Serial Peripheral Interface](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (SPI)
+## Lab 2B: [Serial peripheral interface](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (SPI)
 
 * Connect the SPI MOSI and MISO pins (the 10th and 11th pins from the left of the bottom row) using one DuPont female-to-female jump wire
 * Enter the following three commands on a Terminal:
@@ -99,7 +99,7 @@ root@raspberypi:/home/pi# echo 18 > /sys/class/gpio/unexport
 root@raspberypi:/home/pi# exit
 ```
 
-## Lab 2E: [Inter-Integrated Circuit](https://en.wikipedia.org/wiki/I%C2%B2C) (I2C)
+## Lab 2E: [Inter-integrated circuit](https://en.wikipedia.org/wiki/I%C2%B2C) (I2C)
 
 * Install i2c-tools, and test I2C addresses
 * Connect I2C device ADXL345 (3-axis accelerometer) to 3V3, GND, SDA, and SCL of a Raspberry Pi using four DuPont female-to-female jump wires
