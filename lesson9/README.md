@@ -5,7 +5,7 @@
 * [GIMP](https://en.wikipedia.org/wiki/GIMP)
 * [Pinta](https://en.wikipedia.org/wiki/Pinta_(software))
 * [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
-* [Quiskit](https://en.wikipedia.org/wiki/Qiskit)
+* [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
 
 ## Lab 9A: YANG ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
 
