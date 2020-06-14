@@ -1,6 +1,6 @@
 # Lesson 1: Overview
 
-![architecture.png](https://github.com/kevinwlu/iot/edit/master/lesson1/architecture.png)
+![architecture.png](https://github.com/kevinwlu/iot/blob/master/lesson1/architecture.png)
 
 ## Lab 1A: NOOBS and Wi-Fi
 
