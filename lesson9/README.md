@@ -1,6 +1,12 @@
 # Lesson 9: NETCONF and YANG
+* [NETCONF]()
+* [YANG](https://en.wikipedia.org/wiki/YANG)
+* [PlantUML](https://en.wikipedia.org/wiki/PlantUML)
+* [GIMP](https://en.wikipedia.org/wiki/GIMP)
+* [Pinta](https://en.wikipedia.org/wiki/Pinta_(software))
+* [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
 
-## Lab 9A: [YANG](https://en.wikipedia.org/wiki/YANG) ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
+## Lab 9A: YANG ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
 
 ### Install and run [pyang](https://github.com/mbj4668/pyang) on a Raspberry Pi
 ```sh
@@ -11,21 +17,21 @@ $ cd ~/demo
 $ pyang -f yin -o intrusiondetection.yin intrusiondetection.yang
 $ pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereotypes,annotation,typedef
 ```
-### Install [PlantUML](https://en.wikipedia.org/wiki/PlantUML) on a laptop or Raspberry Pi
+### Install PlantUML on a laptop or Raspberry Pi
 ```sh
 $ sudo pip3 install -U plantuml
 ```
-### Run PlantUML to create a sequence diagram in <a href="https://en.wikipedia.org/wiki/Portable_Network_Graphics">PNG</a>
+### Run PlantUML to create a sequence diagram in PNG
 ```sh
 $ python3 -m plantuml intrusiondetection.uml
 ```
-### Install and run [GIMP](https://en.wikipedia.org/wiki/GIMP) and [Pinta](https://en.wikipedia.org/wiki/Pinta_(software)) to display a PNG file
+### Install and run GIMP and Pinta to display a PNG file
 
-#### Alternatives to VNC Viewer
+#### Alternativly, run SSH -Y to enable X11 forwarding
 
-#### On macOS with XQuartz, run SSH -Y to enable X11 forwarding
+#### On macOS with XQuartz
 
-#### On Windows, run Xming then PuTTY with SSH and X11 forwarding
+#### On Windows with Xming
 ```sh
 $ cd
 $ sudo apt update
