@@ -2,9 +2,7 @@
 
 ## Lab 7A: ThingSpeak
 
-### Sign up and log in ThingSpeak at
-
-https://thingspeak.com
+### Sign up and log in [ThingSpeak](https://thingspeak.com)
 
 ### Create new channel cpu_loop with field1 cpu_pc and field2 mem_avail_mb
 ```sh
@@ -24,9 +22,7 @@ python3 thingspeak_cpu_loop.py
 ```
 ## Lab 7B: Google Sheets
 
-### Sign up and log in the Google Cloud Platform Identity and Access Management (IAM) at
-
-https://console.developers.google.com/projectselector/iam-admin/iam
+### Sign up and log in the Google Cloud Platform Identity and Access Management [(IAM)](https://console.developers.google.com/projectselector/iam-admin/iam)
 
 ### Click "Create" and enter the project name, e.g., rpidata
 
@@ -50,9 +46,7 @@ $ scp rpidata-*.json pi@155.246.200.x:/home/pi/demo
 $ mv ~/Downloads/rpidata-*.json ~/demo
 ```
 
-### Go to Google Sheets at
-
-https://docs.google.com/spreadsheets/u/0
+### Go to [Google Sheets](https://docs.google.com/spreadsheets/u/0)
 
 ### Start a new spreadsheet rpidata
 
