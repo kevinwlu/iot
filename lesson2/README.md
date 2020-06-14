@@ -1,5 +1,11 @@
 # Lesson 2: Raspberry Pi
-
+* [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
+* [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
+* [GNU](https://en.wikipedia.org/wiki/GNU)
+* [Linux](https://en.wikipedia.org/wiki/Linux)
+* [Debian](https://en.wikipedia.org/wiki/Debian)
+* [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
+* [LXDE](https://en.wikipedia.org/wiki/LXDE)
 ## Lab 2A:  [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO) and [serial communication](https://en.wikipedia.org/wiki/Serial_communication)
 
 ### 1. Open a Terminal on macOS/Linux or [Git Bash](https://gitforwindows.org/) on Windows, and make sure Serial Council is disabled
