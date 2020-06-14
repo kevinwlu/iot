@@ -18,7 +18,7 @@
 
 ### 4. After reboot, change Password (default: raspberry) and skip Wi-Fi (that has been set up) and update (that may take a while)
 
-### 5. Point (not click) the curser to the Wi-Fi icon at the right of the menu bar to see and write down the [IP address](https://en.wikipedia.org/wiki/IP_address) such as 192.168.x.xxx excluding the CIDR ([Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)) notation of /24 suffix indicating the number of bits of the prefix
+### 5. Point (not click) the curser to the Wi-Fi icon at the right of the menu bar to see and write down the [IP address](https://en.wikipedia.org/wiki/IP_address) such as 192.168.x.xxx excluding the CIDR ([Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)) notation of /24 suffix that indicates the number of bits of the prefix
 
 ## Lab 1B: Configuration
 
