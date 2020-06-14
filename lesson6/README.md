@@ -10,21 +10,28 @@ https://docs.particle.io/datasheets/discontinued/raspberry-pi/
 ```sh
 $ bash <( curl -sL https://particle.io/install-pi )
 ```
-### Download and open Particle Mobile App on a smartphone
+### Download, install, and open Particle Mobile App on a smartphone
 
 ### Log in Particle account and select Raspberry Pi
 
 ### Tinker > D7 > digitalWrite() > HIGH or LOW to toggle the green activity LED
 
-### Alternatively, install Particle CLI on macOS and export /home/pi/bin to the shell PATH
+### Alternately, install [Particle CLI](https://docs.particle.io/tutorials/developer-tools/cli/) on a laptop
+
+#### Windows
+
+* [Windows CLI installer](https://binaries.particle.io/cli/installer/windows/ParticleCLISetup.exe)
+
+#### macOS or Linux
+
 ```sh
 $ bash <( curl -sL https://particle.io/install-cli )
-$ export PATH="/home/pi/bin:$PATH"
 $ particle login
 $ particle call <device_name> digitalwrite D7=HIGH
 $ particle call <device_name> digitalwrite D7=LOW
 $ particle logout
 ```
+
 ## Lab 6B: Node.js
 
 ### Run Node.js server at http://127.0.0.1:8080 on Raspberry Pi
