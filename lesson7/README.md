@@ -10,9 +10,7 @@ $ sudo pip3 install -U psutil
 $ cd demo
 $ cp ~/iot/lesson7/thingspeak_cpu_loop.py .
 ```
-### Copy the Write API Key from
-
-https://thingspeak.com/channels
+### Copy the Write API Key from [channels](https://thingspeak.com/channels)
 ```sh
 $ nano thingspeak_cpu_loop.py
 ```
