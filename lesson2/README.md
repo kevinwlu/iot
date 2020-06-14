@@ -82,6 +82,8 @@ F0 0D
 
 ## Lab 2C: [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
 
+![Breadboard](breadboard.jpg)
+
 ### 1. Shorter lead (−) of the LED to a 330-Ω resistor then to Ground, the 3rd pin from the left of the top row
 
 ### 2. Longer lead (+) of the LED to GPIO 18, the 6th pin from the left of the top row
