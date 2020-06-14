@@ -26,13 +26,8 @@ $ sudo pip3 install -U plantuml
 ```sh
 $ python3 -m plantuml intrusiondetection.uml
 ```
-### Install and run GIMP and Pinta to display a PNG file
-
-#### Alternativly, run SSH -Y to enable X11 forwarding
-
-#### On macOS with XQuartz
-
-#### On Windows with Xming
+### Install and run GIMP and Pinta to display a PNG file via VNC Viewer
+* Alternativly, run SSH -Y to enable X11 forwarding on macOS with XQuartz or on Windows with Xming
 ```sh
 $ cd
 $ sudo apt update
