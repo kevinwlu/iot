@@ -5,6 +5,7 @@
 * [GIMP](https://en.wikipedia.org/wiki/GIMP)
 * [Pinta](https://en.wikipedia.org/wiki/Pinta_(software))
 * [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
+* [Quiskit](https://en.wikipedia.org/wiki/Qiskit)
 
 ## Lab 9A: YANG ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
 
@@ -42,7 +43,7 @@ $ gimp -h
 $ gimp -a intrusiondetection.png
 ```
 
-## Lab 9B: [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
+## Lab 9B: Qiskit
 
 ### Install qiskit on a laptop (not Raspberry Pi), create an [IBM Quantum Experience account](https://quantum-computing.ibm.com/), copy API token from [account](https://quantum-computing.ibm.com/account), and save API token
 
