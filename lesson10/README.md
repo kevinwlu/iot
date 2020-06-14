@@ -1,8 +1,13 @@
 # Lesson 10: Blockchain
 * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
-## Lab 10A: [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+* [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+* [Hash function](https://en.wikipedia.org/wiki/Hash_function)
+* [SHA-2](https://en.wikipedia.org/wiki/SHA-2)
+* [IOTA](https://en.wikipedia.org/wiki/IOTA_(technology))
 
-### [Hash function](https://en.wikipedia.org/wiki/Hash_function) and [SHA-2](https://en.wikipedia.org/wiki/SHA-2) Secure Hash Algorithm
+## Lab 10A: Blockchain
+
+### Hash function and SHA-2 Secure Hash Algorithm
 ```sh
 $ python3
 >>> import hashlib
@@ -39,7 +44,7 @@ $ python3 run_app.py
 * Enter content and post name, click "Request to mine" that generate "Block #1 is mined" at http://127.0.0.1:8000/mine
 * At YourNet, click "Resync" to view Block #1
 
-## Lab 10B: [IOTA](https://en.wikipedia.org/wiki/IOTA_(technology))
+## Lab 10B: IOTA
 
 ### [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library) and [IRI](https://docs.iota.org/docs/node-software/0.1/iri/introduction/overview) (IOTA Reference Implementation)
 
