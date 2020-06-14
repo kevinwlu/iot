@@ -100,7 +100,7 @@ $ sudo mv index.html index.html.bak
 $ sudo cp ~/iot/lesson4/index.php .
 $ sudo service apache2 restart
 ```
-### Open a Chromium browser and go to http://127.0.0.1 to view "Hello world!" and the PHP info
+### Open a Chromium browser and go to http://127.0.0.1, i.e., [localhost](https://en.wikipedia.org/wiki/Localhost), to view "Hello world!" and the PHP info
 
 ### Build a Linux-Apache-MySQL-PHP (LAMP) web server with [WordPress](https://en.wikipedia.org/wiki/WordPress)
 ```sh
