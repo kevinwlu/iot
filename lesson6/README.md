@@ -2,7 +2,7 @@
 
 ## Lab 6A: Particle Cloud
 
-https://docs.particle.io/datasheets/discontinued/raspberry-pi/
+[The Particle on Raspberry Pi project has been discontinued](https://docs.particle.io/datasheets/discontinued/raspberry-pi/)
 
 ### Sign up and log in Particle at https://www.particle.io
 
