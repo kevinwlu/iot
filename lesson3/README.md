@@ -126,9 +126,13 @@ $ doxygen -g doxygen.config
 $ nano doxygen.config
 ```
 > ...
+
 > PROJECT_NAME           = "pyexample"
+
 > ...
+
 > OPTIMIZE_OUTPUT_JAVA   = YES
+
 > ...
 ```sh
 $ doxygen doxygen.config
