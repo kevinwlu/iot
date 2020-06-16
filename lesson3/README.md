@@ -124,6 +124,11 @@ $ cd ~/demo
 $ cp ~/iot/lesson3/pyexample.py .
 $ doxygen -g doxygen.config
 $ nano doxygen.config
+>...
+> PROJECT_NAME           = "pyexample"
+>...
+> OPTIMIZE_OUTPUT_JAVA   = YES
+>...
 $ doxygen doxygen.config
 $ cd html
 $ html2text annotated.html
