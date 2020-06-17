@@ -18,10 +18,10 @@ $ logout
 ### Run Docker images designed to work on ARM under the prefix armhf
 ```sh
 $ docker run -it armhf/alpine /bin/sh
-$ cat /etc/os-release
-$ echo "Hi, this is a tiny Linux distribution!" | base64
-$ echo "SGksIHRoaXMgaXMgYSB0aW55IExpbnV4IGRpc3RyaWJ1dGlvbiEK" | base64 -d
-$ exit
+/ # cat /etc/os-release
+/ # echo "Hi, this is a tiny Linux distribution!" | base64
+/ # echo "SGksIHRoaXMgaXMgYSB0aW55IExpbnV4IGRpc3RyaWJ1dGlvbiEK" | base64 -d
+/ # exit
 $ docker run armhf/alpine date
 ```
 ### Build and run new image from Dockerfile
