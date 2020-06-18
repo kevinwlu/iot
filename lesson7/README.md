@@ -37,7 +37,7 @@ $ cp ~/iot/lesson7/rpi_spreadsheet.py .
 ```
 ### If the JSON key file (* = xxxxxxxxxxxx) is on a laptop computer, secure copy it to the same directory as rpi_spreadsheet.py
 ```sh
-$ scp rpidata-*.json pi@155.246.200.x:/home/pi/demo
+$ scp rpidata-*.json pi@192.168.x.xxx:/home/pi/demo
 ```
 ### If the the JSON key file is on a Raspberry Pi, move it to the same directory as rpi_spreadsheet.py
 ```sh
