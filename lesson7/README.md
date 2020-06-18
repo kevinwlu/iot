@@ -16,7 +16,7 @@ $ nano thingspeak_cpu_loop.py
 ```
 ### Run thingspeak_cpu_loop.py
 ```sh
-python3 thingspeak_cpu_loop.py
+$ python3 thingspeak_cpu_loop.py
 ```
 ## Lab 7B: Google Sheets
 
