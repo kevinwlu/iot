@@ -10,13 +10,17 @@
 ```sh
 $ bash <( curl -sL https://particle.io/install-pi )
 ```
+### If the Raspberry Pi hostname has changed, run particle-agent again
+```sh
+sudo particle-agent setup
+```
 ### Download, install, and open Particle Mobile App on a smartphone
 
 ### Log in Particle account and select Raspberry Pi
 
 ### Tinker > D7 > digitalWrite() > HIGH or LOW to toggle the green activity LED
 
-### Alternately, install [Particle CLI](https://docs.particle.io/tutorials/developer-tools/cli/) on a laptop
+### Alternately, install [Particle CLI](https://docs.particle.io/tutorials/developer-tools/cli/) on a laptop (not recommended for Raspberry Pi since it disables the color in Bash)
 
 #### Windows
 
