@@ -22,11 +22,9 @@ $ python3 thingspeak_cpu_loop.py
 
 ### Sign up and log in the Google Cloud Platform Identity and Access Management [(IAM)](https://console.developers.google.com/projectselector/iam-admin/iam)
 
-### Click "Create" and enter the project name, e.g., rpidata
-
-### &equiv; > APIs & Services > + Enable APIs & Services > Enable both Drive API and Sheets API
-
-### Credential > Create Credentials > Create service account key > Service account > rpidata > JSON key type > Create > download rpidata-xxxxxxxxxxxx.json
+* Click "Create" and enter the project name, e.g., rpidata
+* &equiv; > APIs & Services > + Enable APIs & Services > Enable both Drive API and Sheets API
+* Credential > Create Credentials > Create service account key > Service account > rpidata > JSON key type > Create > download rpidata-xxxxxxxxxxxx.json
 
 ### Install gspread and oauth2client
 ```sh
