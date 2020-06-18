@@ -54,7 +54,7 @@ $ mv ~/Downloads/rpidata-*.json ~/demo
 ```sh
 $ nano rpi_spreadsheet.py
 ```
-> GDOCS_OAUTH_JSON = 'rpidata-*.json'
+> GDOCS_OAUTH_JSON = 'rpidata-xxxxxxxxxxxx.json'
 
 > GDOCS_SPREADSHEET_NAME = 'rpidata'
 
