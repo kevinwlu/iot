@@ -20,7 +20,7 @@ $ sudo particle-agent setup
 
 ### Tinker > D7 > digitalWrite() > HIGH or LOW to toggle the green activity LED
 
-### Alternately, install [Particle CLI](https://docs.particle.io/tutorials/developer-tools/cli/) on a laptop (not recommended for Raspberry Pi since it disables the color in Bash)
+### Alternately, install [Particle CLI](https://docs.particle.io/tutorials/developer-tools/cli/) on a laptop (not recommended for Raspberry Pi since it disables the Bash color prompt)
 
 #### Windows
 
@@ -38,7 +38,7 @@ $ particle logout
 
 ## Lab 6B: Node.js
 
-### Run Node.js server at http://127.0.0.1:8080 on Raspberry Pi
+### Run and view Node.js server at http://127.0.0.1:8080 on Raspberry Pi via VNC viewer or directly at http://192.168.x.xxx:8080 on a laptop computer
 ```sh
 $ node -h
 $ node -v
