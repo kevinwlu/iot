@@ -12,7 +12,7 @@ $ bash <( curl -sL https://particle.io/install-pi )
 ```
 ### If the Raspberry Pi hostname has changed, run particle-agent again
 ```sh
-sudo particle-agent setup
+$ sudo particle-agent setup
 ```
 ### Download, install, and open Particle Mobile App on a smartphone
 
