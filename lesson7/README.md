@@ -46,19 +46,20 @@ $ mv ~/Downloads/rpidata-*.json ~/demo
 
 ### Go to [Google Sheets](https://docs.google.com/spreadsheets/u/0)
 
-### Start a new spreadsheet rpidata
+* Start a new spreadsheet rpidata
+* Share the spreadsheet with the "client_email" address in the .json file, select “Can edit,” and click "Send"
+  * Will receive an email with the subject "Delivery Status Notification (Failure)" and the message "Address not found" from mailer-daemon@google.com
+* Delete Rows 2 to 1000, and enter Date / Time, CPU Usage %, Temperature C to header cells
 
-### Share the spreadsheet with the "client_email" address in the .json file, select “Can edit,” and click "Send"
-
-#### Will receive an email with the subject "Delivery Status Notification (Failure)" and the message "Address not found" from mailer-daemon@google.com
-
-### Delete Rows 2 to 1000, and enter Date / Time, CPU Usage %, Temperature C to header cells
-
-### GDOCS_OAUTH_JSON = 'rpidata-*.json' and GDOCS_SPREADSHEET_NAME = 'rpidata'
+### Edit rpi_spreadsheet.py
 
 ```sh
 $ nano rpi_spreadsheet.py
 ```
+> GDOCS_OAUTH_JSON = 'rpidata-*.json'
+
+> GDOCS_SPREADSHEET_NAME = 'rpidata'
+
 ### Run rpi_spreadsheet.py
 ```sh
 $ python3 rpi_spreadsheet.py
