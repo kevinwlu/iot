@@ -42,7 +42,7 @@ $ sudo apt install libatlas-base-dev
 $ sudo pip3 install -U numpy
 $ sudo pip3 install --only-binary :all: -U scikit-learn
 $ sudo pip3 install -U tensorflow
-$ sudo pip3 install -U keras
+$ sudo pip3 install -U keras==2.3.1
 ```
 ### Enable [X11](https://en.wikipedia.org/wiki/X_Window_System) forwarding with [SSH -Y](http://man.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/ssh.1#Y) on a PC to run code on Raspberry Pi without VNC Viewer
 
