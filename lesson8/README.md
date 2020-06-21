@@ -58,6 +58,9 @@ $ ssh -Y pi@xxx.xxx.xxx.xxx
 #### For Linux (most distributions have the X server installed), open a terminal
 ```sh
 $ ssh -Y pi@xxx.xxx.xxx.xxx
+```
+### Run Python code
+```sh
 $ cd ~/iot/lesson8
 $ python3 pyplot_simple.py
 $ python3 simple_plot.py
@@ -70,7 +73,6 @@ $ python3 pyplot_annotate.py
 $ python3 major_minor_demo1.py
 $ python3 legend_demo.py
 ```
-
 ## Lab 8B: Data Analysis
 
 ### Histograms, box plots, regression, and classification
