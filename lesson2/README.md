@@ -6,7 +6,17 @@
 * [Debian](https://en.wikipedia.org/wiki/Debian)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
 * [LXDE](https://en.wikipedia.org/wiki/LXDE)
-## Lab 2A:  [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO) and [serial communication](https://en.wikipedia.org/wiki/Serial_communication)
+* [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO)
+* [Serial communication](https://en.wikipedia.org/wiki/Serial_communication)
+* [Serial peripheral interface](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (SPI)
+* [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
+* [Light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED)
+* [Inter-integrated circuit](https://en.wikipedia.org/wiki/I%C2%B2C) (I2C)
+* [1-Wire](https://en.wikipedia.org/wiki/1-Wire)
+* [Universal Serial Bus](https://en.wikipedia.org/wiki/USB) (USB)
+* [Webcam](https://en.wikipedia.org/wiki/Webcam)
+
+## Lab 2A:  General-purpose input/output (GPIO) and serial communication
 
 ### 1. Open a Terminal on macOS/Linux or [Git Bash](https://gitforwindows.org/) on Windows, and make sure Serial Council is disabled
 ```sh
@@ -59,7 +69,7 @@ hello
 control-a x
 ```
 
-## Lab 2B: [Serial peripheral interface](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (SPI)
+## Lab 2B: Serial peripheral interface (SPI)
 
 * Connect the SPI MOSI and MISO pins (the 10th and 11th pins from the left of the bottom row) using one DuPont female-to-female jump wire
 * Enter the following three commands on a Terminal:
@@ -80,7 +90,7 @@ DE AD BE EF BA AD
 F0 0D 
 ```
 
-## Lab 2C: [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
+## Lab 2C: Breadboard
 
 ![breadboard.jpg](https://github.com/kevinwlu/iot/blob/master/lesson2/breadboard.jpg)
 
@@ -90,7 +100,7 @@ F0 0D
 
 ![lesson2_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/lesson2_bb.png)
 
-## Lab 2D: [Light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED)
+## Lab 2D: Light-emitting diode (LED)
 
 ### 1. Connect an LED on a breadboard to the Raspberry Pi GPIO using two DuPont male-to-female jump wires as shown in Lab C
 
@@ -107,7 +117,7 @@ root@raspberypi:/home/pi# echo 18 > /sys/class/gpio/unexport
 root@raspberypi:/home/pi# exit
 ```
 
-## Lab 2E: [Inter-integrated circuit](https://en.wikipedia.org/wiki/I%C2%B2C) (I2C)
+## Lab 2E: Inter-integrated circuit (I2C)
 
 * Install i2c-tools, and test I2C addresses
 * Connect I2C device ADXL345 (3-axis accelerometer) to 3V3, GND, SDA, and SCL of a Raspberry Pi using four DuPont female-to-female jump wires
@@ -144,7 +154,7 @@ $ sudo i2cdetect -y 1
 70: -- -- -- -- -- -- -- 77 
 ```
 
-## Lab 2F: [1-Wire](https://en.wikipedia.org/wiki/1-Wire)
+## Lab 2F: 1-Wire
 
 ### Connect DS18B20 to Raspberry Pi as follows:
 
@@ -168,7 +178,7 @@ pi@raspberrypi:/sys/bus/w1/devices/28-0000064dc293 $ cd
 pi@raspberrypi:~ $ 
 ```
 
-## Lab 2G: USB [Webcam](https://en.wikipedia.org/wiki/Webcam)
+## Lab 2G: USB Webcam
 
 ### Connect a USB webcam, install fswebcam, and save images:
 ```sh
