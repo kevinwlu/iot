@@ -44,7 +44,7 @@ d2.shape = (-1, 1)
 # same length.  If they are not, then use a list instead.
 # This is actually more efficient because boxplot converts
 # a 2-D array into a list of vectors internally anyway.
-# Added np.array with dtype=object (https://github.com/numpy/numpy/pull/14674/files/f8bf0cab75c63dd0e65b5d7a7176f605e105ae46)
+# 2020-06-22 Numpy 1.19: Added np.array with dtype=object (https://github.com/numpy/numpy/pull/14674/files/f8bf0cab75c63dd0e65b5d7a7176f605e105ae46)
 data = np.array([data, d2, d2[::2, 0]], dtype=object)
 # multiple box plots on one figure
 plt.figure()
