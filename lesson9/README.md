@@ -6,8 +6,8 @@
 * [Pinta](https://en.wikipedia.org/wiki/Pinta_(software))
 * [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
 * [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
-* [Cloud Native Computing Foundation](https://en.wikipedia.org/wiki/Cloud_Native_Computing_Foundation)
-* [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes)
+* [Cloud Native Computing Foundation](https://en.wikipedia.org/wiki/Cloud_Native_Computing_Foundation) (CNCF)
+* [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) (K8s)
 
 ## Lab 9A: YANG ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
 
