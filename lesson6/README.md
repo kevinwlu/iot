@@ -1,5 +1,8 @@
 # Lesson 6: Alternative Devices
 
+* [Node.js](https://en.wikipedia.org/wiki/Node.js)
+* [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack))
+
 ## Lab 6A: Particle Cloud
 
 [The Particle on Raspberry Pi project has been discontinued](https://docs.particle.io/datasheets/discontinued/raspberry-pi/)
