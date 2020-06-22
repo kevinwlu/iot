@@ -2,11 +2,16 @@
 
 * [Publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
 * [Web application messaging protocol](https://en.wikipedia.org/wiki/Web_Application_Messaging_Protocol) (WAMP)
+* [cURL](https://en.wikipedia.org/wiki/CURL)
+* [Docker](https://en.wikipedia.org/wiki/Docker_(software))
+* [Crossbar.io](https://crossbar.io/docs/Getting-Started/)
 * [Message queuing telemetry transport](https://en.wikipedia.org/wiki/MQTT) (MQTT)
+* [Eclipse Mosquitto](https://mosquitto.org/)
+* [Eclipse Paho](https://en.wikipedia.org/wiki/Eclipse_Paho)
 
-## Lab 5A: [Crossbar.io](https://crossbar.io/docs/Getting-Started/)
+## Lab 5A: Crossbar.io
 
-### Install [Docker](https://en.wikipedia.org/wiki/Docker_(software)) on a Raspberry Pi
+### Install Docker on a Raspberry Pi
 ```sh
 $ curl -sSL get.docker.com | sh
 ```
@@ -52,7 +57,7 @@ $ python3 client_component_publish.py
 $ cd crossbar-examples/getting-started/1.hello-world/
 $ python3 client_component_subscribe.py
 ```
-## Lab 5B: [Eclipse Mosquitto](https://mosquitto.org/) and [Eclipse Paho](https://en.wikipedia.org/wiki/Eclipse_Paho)
+## Lab 5B: Eclipse Mosquitto and Eclipse Paho
 
 ### Install and run Mosquitto and Paho to subscribe on one terminal and publish on another
 ```sh
