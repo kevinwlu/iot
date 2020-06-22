@@ -1,6 +1,11 @@
 # Lesson 3: Python
 
-## Lab 3A: [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [CPython](https://en.wikipedia.org/wiki/CPython)
+* [PyPy](https://en.wikipedia.org/wiki/PyPy)
+* [Doxygen](https://en.wikipedia.org/wiki/Doxygen)
+
+## Lab 3A: Python
 
 ### On Windows, [download](https://www.python.org/downloads/windows/) and install the latest version of Python 3
 * Edit path in "System Properties > Advanced > Environment Variables" and add 
@@ -105,7 +110,7 @@ $ GPIOZERO_PIN_FACTORY=pigpio PIGPIO_ADDR=<CONTROLLED_ADDRESS> python3 led.py
 pi@raspberrypi ~/iot/lesson3 $ sudo python3 temperature.py
 ```
 
-## Lab 3E: [PyPy](https://en.wikipedia.org/wiki/PyPy)
+## Lab 3E: PyPy
 ```sh
 $ cd ~/iot/lesson3/pypy
 $ gcc -o test test.c
@@ -117,7 +122,7 @@ $ pypy -m cProfile test.py
 $ python -m cProfile test.py
 $ python3 -m cProfile test.py
 ```
-## Lab 3F: [Doxygen](https://en.wikipedia.org/wiki/Doxygen)
+## Lab 3F: Doxygen
 ```sh
 $ sudo apt install doxygen html2text
 $ cd ~/demo
