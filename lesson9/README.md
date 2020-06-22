@@ -1,11 +1,13 @@
 # Lesson 9: NETCONF and YANG
-* [NETCONF]()
+* [NETCONF](https://en.wikipedia.org/wiki/NETCONF)
 * [YANG](https://en.wikipedia.org/wiki/YANG)
 * [PlantUML](https://en.wikipedia.org/wiki/PlantUML)
 * [GIMP](https://en.wikipedia.org/wiki/GIMP)
 * [Pinta](https://en.wikipedia.org/wiki/Pinta_(software))
 * [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
 * [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
+* [Cloud Native Computing Foundation](https://en.wikipedia.org/wiki/Cloud_Native_Computing_Foundation)
+* [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes)
 
 ## Lab 9A: YANG ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
 
