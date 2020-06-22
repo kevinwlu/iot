@@ -117,7 +117,7 @@ w2[:len(x2)//2] = 0.5
 
 
 P.figure()
-
-n, bins, patches = P.hist( [x0,x1,x2], 10, weights=[w0, w1, w2], histtype='bar')
+# Added np.array with dtype=object (https://github.com/numpy/numpy/pull/14674/files/f8bf0cab75c63dd0e65b5d7a7176f605e105ae46)
+n, bins, patches = P.hist( np.array([x0,x1,x2], dtype=object), 10, weights=np.array([w0, w1, w2], dtype=object), histtype='bar')
 
 P.show()
