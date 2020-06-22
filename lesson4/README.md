@@ -1,7 +1,10 @@
 # Lesson 4: Django and Flask
 
+* [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) (WWW)
+* [Uniform Resource Locator](https://en.wikipedia.org/wiki/URL) (URL)
 * [Internet Engineering Task Force](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (IETF)
 * [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (HTTP)
+* [Hypertext Transfer Protocol Secure](https://en.wikipedia.org/wiki/HTTPS) (HTTPS)
 * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security) (TLS)
 
 ## Labs 4A and 4B: Django and Django REST
