@@ -1,5 +1,9 @@
 # Lesson 4: Django and Flask
 
+* [Internet Engineering Task Force](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (IETF)
+* [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (HTTP)
+* [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security) (TLS)
+
 ## Labs 4A and 4B: Django and Django REST
 
 ### Install [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) and Django REST ([representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)) framework
