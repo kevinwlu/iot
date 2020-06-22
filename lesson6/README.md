@@ -1,5 +1,7 @@
 # Lesson 6: Alternative Devices
 
+* [Arduino](https://en.wikipedia.org/wiki/Arduino)
+* [BeagleBoard](https://en.wikipedia.org/wiki/BeagleBoard)
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
 * [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack))
 
