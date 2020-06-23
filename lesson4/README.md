@@ -102,7 +102,7 @@ python3 memory_game.py
   * "six nine zero"
     "Good job!"
 
-## Lab 4D: [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
+## Lab 4D: LAMP
 
 ### Install [Apache HTTP server](https://en.wikipedia.org/wiki/Apache_HTTP_Server) and [PHP](https://en.wikipedia.org/wiki/PHP)
 ```sh
