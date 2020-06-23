@@ -13,32 +13,12 @@ $ python3
 >>> import hashlib
 >>> m=hashlib.sha256(b"hello, world")
 >>> m.hexdigest()
-```
-> '09ca7e4eaa6e8ae9c7d261167129184883644d07dfba7cbfbc4c8a2e08360d5b'
-```sh
 >>> m.digest_size
-```
-> 32
-```sh
 >>> m.block_size
-```
-> 64
-```sh
 >>> exit()
 $ cd ~/iot/lesson10
 $ python3 hash_value.py
 ```
-> The hash for 1 is: 1
-
-> The hash for 1.0 is: 1
-
-> The hash for 3.14 is: 1846836513
-
-> The hash for Python is: -1193541367
-
-> The hash for a tuple of vowels is: 1526184924
-
-> The hash for an object of person is: -962585949
 
 ### [Build the tiniest blockchain](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b) in [less than 50 lines of Python](https://gist.github.com/aunyks/8f2c2fd51cc17f342737917e1c2582e2) by Gerald Nash
 ```sh
