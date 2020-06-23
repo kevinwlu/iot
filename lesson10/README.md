@@ -1,4 +1,9 @@
 # Lesson 10: Blockchain
+
+* [Double-spending problem](https://en.wikipedia.org/wiki/Double-spending)
+* [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+* [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
 * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
 * [Hash function](https://en.wikipedia.org/wiki/Hash_function)
