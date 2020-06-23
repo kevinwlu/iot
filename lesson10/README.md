@@ -13,6 +13,7 @@ $ python3
 >>> import hashlib
 >>> m=hashlib.sha256(b"hello, world")
 >>> m.hexdigest()
+>'09ca7e4eaa6e8ae9c7d261167129184883644d07dfba7cbfbc4c8a2e08360d5b'
 >>> m.digest_size
 >>> m.block_size
 >>> exit()
