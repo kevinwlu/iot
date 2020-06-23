@@ -4,14 +4,14 @@
 * [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 * [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
-* [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
-* [Ripple](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
-* [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
-* [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
 * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
 * [Hash function](https://en.wikipedia.org/wiki/Hash_function)
 * [SHA-2](https://en.wikipedia.org/wiki/SHA-2)
+* [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
+* [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
+* [Ripple](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
+* [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
 * [IOTA](https://en.wikipedia.org/wiki/IOTA_(technology))
 
 ## Lab 10A: Blockchain
