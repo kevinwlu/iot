@@ -1,5 +1,7 @@
 # Lesson 2: Raspberry Pi
 * [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
+* [ARM architecture](https://en.wikipedia.org/wiki/ARM_architecture)
+* [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) (Reduced instruction set computer)
 * [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
 * [GNU](https://en.wikipedia.org/wiki/GNU)
 * [Linux](https://en.wikipedia.org/wiki/Linux)
