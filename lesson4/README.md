@@ -2,7 +2,7 @@
 
 * [Django](https://en.wikipedia.org/wiki/Django_(web_framework))
 * [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
-* [representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)) (REST)
+* [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer) (REST)
 * [MariaDB](https://en.wikipedia.org/wiki/MariaDB)
 * [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySQL, PHP/Perl/Python)
 * [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) (WWW)
