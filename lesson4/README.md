@@ -1,5 +1,10 @@
 # Lesson 4: Django and Flask
 
+* [Django](https://en.wikipedia.org/wiki/Django_(web_framework))
+* [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
+* [representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)) (REST)
+* [MariaDB](https://en.wikipedia.org/wiki/MariaDB)
+* [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySQL, PHP/Perl/Python)
 * [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) (WWW)
 * [Web 2.0](https://en.wikipedia.org/wiki/Web_2.0)
 * [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web)
@@ -16,7 +21,7 @@
 
 ## Labs 4A and 4B: Django and Django REST
 
-### Install [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) and Django REST ([representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)) framework
+### Install Django and Django REST framework
 ```sh
 $ pip3 -V
 $ sudo pip3 install -U setuptools
@@ -26,7 +31,7 @@ $ sudo pip3 install -U django-filter
 $ sudo pip3 install -U markdown
 $ sudo pip3 install -U requests
 ```
-### Install [MariaDB](https://en.wikipedia.org/wiki/MariaDB) server and client
+### Install MariaDB server and client
 ```sh
 $ sudo apt update
 $ sudo apt install mariadb-server mariadb-client
@@ -61,7 +66,7 @@ $ cd
 ```
 ### Follow the instructions for Django project [stevens](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens); Django REST project [myraspi](https://github.com/kevinwlu/iot/tree/master/lesson4/myraspi); and four Django REST projects that require sensors: [weather](https://github.com/kevinwlu/iot/tree/master/lesson4/weather), [lighting](https://github.com/kevinwlu/iot/tree/master/lesson4/lighting), [parking](https://github.com/kevinwlu/iot/tree/master/lesson4/parking), and [sensing](https://github.com/kevinwlu/iot/tree/master/lesson4/sensing)
 
-## Lab 4C: [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
+## Lab 4C: Flask
 
 ### Terminal 1: Install [Flask-Ask](https://github.com/johnwheeler/flask-ask) and [Ngrok](https://ngrok.com/) for Alexa Skill Kit (ASK)
 ```sh
