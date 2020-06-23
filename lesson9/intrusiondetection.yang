@@ -108,7 +108,7 @@ module intrusiondetection {
 
     enum disarmed {
     description
-     "The system was armed.";
+     "The system was disarmed.";
     }   
 
     enum error {
