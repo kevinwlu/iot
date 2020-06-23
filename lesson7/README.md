@@ -1,5 +1,10 @@
 # Lesson 7: Cloud Platforms
 
+* [MATLAB](https://en.wikipedia.org/wiki/MATLAB) (Matrix Laboratory)
+* [ThingSpeak](https://en.wikipedia.org/wiki/ThingSpeak)
+* [OAuth](https://en.wikipedia.org/wiki/OAuth)
+* [OpenID Connect](https://en.wikipedia.org/wiki/OpenID_Connect) (OIDC)
+
 ## Lab 7A: ThingSpeak
 
 ### Sign up and log in [ThingSpeak](https://thingspeak.com)
