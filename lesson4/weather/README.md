@@ -1,5 +1,7 @@
 # Django REST Project "Weather"
 
+![dht22_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson4/weather/dht22_bb.png)
+
 ## Start a Django project
 ```sh
 pi@raspberrypi:~ $ django-admin startproject weather
