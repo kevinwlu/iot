@@ -1,11 +1,13 @@
 # Lesson 10: Blockchain
 
 * [Double-spending problem](https://en.wikipedia.org/wiki/Double-spending)
+* [Proof of work](https://en.wikipedia.org/wiki/Proof_of_work)
 * [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 * [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
 * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+* [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
 * [Hash function](https://en.wikipedia.org/wiki/Hash_function)
 * [SHA-2](https://en.wikipedia.org/wiki/SHA-2)
 * [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
@@ -13,6 +15,7 @@
 * [Ripple](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 * [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
 * [IOTA](https://en.wikipedia.org/wiki/IOTA_(technology))
+* [Directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (DAG)
 
 ## Lab 10A: Blockchain
 
