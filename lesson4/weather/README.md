@@ -136,3 +136,9 @@ pi@raspberrypi:~/weather $ python3 manage.py runserver
 pi@raspberrypi:~/weather $ sudo python3 controller.py
 ```
 ## View app at http://127.0.0.1:8000/home
+
+## Alternatively, run Django server at [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)
+```sh
+pi@raspberrypi:~/weather $ python3 manage.py runserver 0.0.0.0:8000
+```
+## Open a laptop browser and go to the Raspbbery Pi IP address as opposed to the localhost
