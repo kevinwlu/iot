@@ -2,6 +2,7 @@
 
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [CPython](https://en.wikipedia.org/wiki/CPython)
+* [Unicode](https://en.wikipedia.org/wiki/Unicode)
 * [PyPy](https://en.wikipedia.org/wiki/PyPy)
 * [Doxygen](https://en.wikipedia.org/wiki/Doxygen)
 
