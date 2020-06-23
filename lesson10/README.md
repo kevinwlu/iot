@@ -20,13 +20,13 @@ $ cd ~/iot/lesson10
 $ python3 hash_value.py
 ```
 
-### [Build the tiniest blockchain](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b) in [less than 50 lines of Python](https://gist.github.com/aunyks/8f2c2fd51cc17f342737917e1c2582e2) by Gerald Nash
+### [Build the tiniest blockchain](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b) in [less than 50 lines of Python](https://gist.github.com/aunyks/8f2c2fd51cc17f342737917e1c2582e2) by [Gerald Nash](https://github.com/aunyks)
 ```sh
 $ cd ~/iot/lesson10
 $ python3 snakecoin.py
 $ cd
 ```
-### Python blockchain app by Satwik Kansal
+### Python blockchain app by [Satwik Kansal](https://github.com/satwikkansal)
 #### Terminal 1: Run node_server.py (Press CTRL+C to quit)
 ```sh
 $ git clone https://github.com/satwikkansal/python_blockchain_app.git
@@ -56,7 +56,7 @@ $ python3 iri_node_info.py
 $ cd
 ```
 
-### Send DHT11 sensor data to the IOTA Tangle using MAM (by Robert Lie)
+### Send DHT11 sensor data to the IOTA Tangle using MAM by [Robert Lie](https://github.com/robertlie)
 * [Tutorial](https://www.youtube.com/watch?v=atJ-ZT7aKoA)
 * [IOTA quick guides](https://www.mobilefish.com/developer/iota/iota_quickguide_raspi_mam.html)
 * [Send DHT11 sensor data to the IOTA Tangle using MAM and Raspberry Pi 3](https://github.com/robertlie/dht11-raspi3)
