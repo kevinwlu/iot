@@ -4,6 +4,7 @@
 * [Web 2.0](https://en.wikipedia.org/wiki/Web_2.0)
 * [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web)
 * [Uniform Resource Locator](https://en.wikipedia.org/wiki/URL) (URL)
+* [Hypertext Markup Language](https://en.wikipedia.org/wiki/HTML) (HTML)
 * [Internet Engineering Task Force](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (IETF)
 * [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (HTTP)
 * [Hypertext Transfer Protocol Secure](https://en.wikipedia.org/wiki/HTTPS) (HTTPS)
