@@ -74,6 +74,8 @@ $ cd
 * [Send DHT11 sensor data to the IOTA Tangle using MAM and Raspberry Pi 3](https://github.com/robertlie/dht11-raspi3)
 * [IOTA masked authenticated messaging demo](https://www.mobilefish.com/services/cryptocurrency/mam.html)
 
+![dht22_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson10/dht22_bb.png)
+
 ### Download and build the C library for BCM2835
 * [C library for Broadcom BCM 2835 as used in Raspberry Pi](http://www.airspayce.com/mikem/bcm2835/index.html)
 * [BCM 2835 error on Raspberry Pi 4](https://github.com/nRF24/RF24/issues/517)
