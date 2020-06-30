@@ -108,7 +108,7 @@ $ nano mam_sensor.js
 $ cd ~/dht11-raspi3
 $ node mam_publish.js
 ```
-### Terminal 2: Run mam_receive.js (Press CTRL+Z to stop)
+### Terminal 2 on the same or another Raspberry Pi: Run mam_receive.js (Press CTRL+Z to stop)
 ```sh
 $ cd ~/dht11-raspi3
 $ node mam_receive.js YOUR_ROOT
@@ -125,7 +125,7 @@ $ node sensor.js
 $ cd ~/dht11-raspi3
 $ node mam_sensor.js
 ```
-### Terminal 2: Run mam_receive.js (Press CTRL+Z to stop)
+### Terminal 2 on the same or another Raspberry Pi: Run mam_receive.js (Press CTRL+Z to stop)
 ```sh
 $ cd ~/dht11-raspi3
 $ node mam_receive.js YOUR_ROOT
