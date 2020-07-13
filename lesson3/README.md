@@ -17,10 +17,12 @@ C:\Users\...\AppData\Local\Programs\Python\Python...\Scripts
 * Open Git Bash, run Python and install/upgrade Python packages with [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) 
 ```sh
 $ python -i
-...
+>>> import math
+>>> math.sqrt(64)
+8.0
 >>> exit()
 $ python -m pip install --upgrade pip
-$ python -m pip install jdcal astral geopy
+$ pip install jdcal astral geopy
 $ cd
 $ cd iot
 $ git pull
