@@ -53,7 +53,7 @@ $ python3 moon.py
 $ python3 coordinates.py 'SC Williams Library'
 $ python3 address.py '40.7448397, -74.02531776875'
 ```
-### On Raspberry Pi
+### On Raspberry Pi only
 ```sh
 $ python3 system_info.py
 ```
