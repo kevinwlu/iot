@@ -26,9 +26,16 @@ $ cd iot
 $ git pull
 $ cd lesson3
 $ python julian.py
-...
+$ python date_example.py
+$ python datetime_example.py
+$ python time_example.py
+$ python sun.py 'New York'
+$ python sun.py 'Beijing'
+$ python sun.py 'New Delhi'
+$ python moon.py
+$ python coordinates.py 'SC Williams Library'
+$ python address.py '40.7448397, -74.02531776875'
 ```
-
 ### On Raspberry Pi (or macOS or Linux) with both Python 2 and Python 3 preinstalled, run pip3 to install/upgrade packages, update the IoT repository, and run Python 3 programs
 ```sh
 $ sudo pip3 install -U jdcal astral geopy
@@ -45,6 +52,9 @@ $ python3 sun.py 'New Delhi'
 $ python3 moon.py
 $ python3 coordinates.py 'SC Williams Library'
 $ python3 address.py '40.7448397, -74.02531776875'
+```
+### On Raspberry Pi
+```sh
 $ python3 system_info.py
 ```
 ### Run ifconfig on Raspberry Pi (macOS or Linux) or ipconfig on Windows to find IP address 
