@@ -1,6 +1,6 @@
 # 2020 Summer
 
-* 
+* Yibin Wang, [Absence Checker](https://github.com/Travel-Cat/Travel-Cat.github.io)
 
 # 2020 Spring
 
