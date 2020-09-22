@@ -10,4 +10,5 @@ while True:
         green.off()
         sleep(2)
     except KeyboardInterrupt:
+        green.close()
         exit()
