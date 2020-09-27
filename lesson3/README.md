@@ -36,7 +36,7 @@ $ python sun.py 'Beijing'
 $ python sun.py 'New Delhi'
 $ python moon.py
 $ python coordinates.py 'SC Williams Library'
-$ python address.py '40.7448397, -74.02531776875'
+$ python address.py '40.74480675, -74.02532862031404'
 ```
 ### On Raspberry Pi (or macOS or Linux) with both Python 2 and Python 3 preinstalled, run pip3 to install/upgrade packages, update the IoT repository, and run Python 3 programs
 ```sh
@@ -53,7 +53,7 @@ $ python3 sun.py 'Beijing'
 $ python3 sun.py 'New Delhi'
 $ python3 moon.py
 $ python3 coordinates.py 'SC Williams Library'
-$ python3 address.py '40.7448397, -74.02531776875'
+$ python3 address.py '40.74480675, -74.02532862031404'
 ```
 ### On Raspberry Pi only
 ```sh
