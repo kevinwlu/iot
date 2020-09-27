@@ -122,7 +122,7 @@ pi@raspberrypi:~/myraspi $ python3 manage.py runserver
 
 ### Post the following in HTML form:
 
-* 2019-02-21 17:45:00 to the Dt List at http://127.0.0.1:8000/dt
+* 2020 to the Dt List at http://127.0.0.1:8000/dt
 
 * 50 to the Tmp List at http://127.0.0.1:8000/tmp
 
