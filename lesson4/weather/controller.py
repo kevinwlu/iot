@@ -1,10 +1,10 @@
 import time
 import datetime
-import Adafruit_DHT
+import board
+import adafruit_dht
 import sys
 import requests
-DHT_TYPE = Adafruit_DHT.DHT22
-DHT_PIN  = 24
+dhtDevice = adafruit_dht.DHT22(board.D24)
 def runController():
     now = datetime.datetime.now()
     dt = now.replace(microsecond=0)
@@ -25,7 +25,8 @@ def setHmdState(val):
     r = requests.put('http://127.0.0.1:8000/hmd/1/', data=values, auth=('pi', 'raspberry'))
 while True:
     try:
-        hmd, tmp = Adafruit_DHT.read(DHT_TYPE, DHT_PIN)
+        hmd = dhtDevice.humidity
+        tmp = dhtDevice.temperature
         if hmd is None or tmp is None:
             time.sleep(2)
             continue
