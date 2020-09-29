@@ -133,7 +133,7 @@ pi@raspberrypi:~/weather $ python3 manage.py runserver
 
 * 50 to the Hmd List at http://127.0.0.1:8000/hmd
 
-## Terminal 2: Run native controller service
+## Terminal 2: Run native controller service without sudo
 ```sh
 pi@raspberrypi:~/weather $ python3 controller.py
 ```
