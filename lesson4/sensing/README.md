@@ -114,7 +114,7 @@ pi@raspberrypi:~/sensing $ python3 manage.py runserver
 
 ## Terminal 2: Run native controller service
 ```sh
-pi@raspberrypi:~/sensing $ sudo python3 controller.py
+pi@raspberrypi:~/sensing $ python3 controller.py
 ```
 ## View app at http://127.0.0.1:8000/home
 
