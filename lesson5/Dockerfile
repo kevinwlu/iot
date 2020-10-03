@@ -1,4 +1,4 @@
-FROM resin/rpi-raspbian:latest  
+FROM balenalib/rpi-raspbian:latest  
 ENTRYPOINT []
 
 RUN apt-get update && \  
