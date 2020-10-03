@@ -76,9 +76,9 @@ $ python3 socket_client.py '192.168.x.xxx'
 
 ### 2. Run the following three python programs
 ```sh
-$ sudo python3 blink.py
-$ sudo python3 manual.py
-$ sudo python3 auto.py
+$ python3 blink.py
+$ python3 manual.py
+$ python3 auto.py
 ```
 ### 3. Copy, edit (replace GMAIL_ADDRESS, RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD), and run the following two python programs
 ```sh
@@ -90,7 +90,7 @@ $ nano test_email.py
 $ python3 test_email.py
 $ cp ~/iot/lesson3/hello.py .
 $ nano hello.py
-$ sudo python3 hello.py
+$ python3 hello.py
 ```
 ## Lab 3C: Remote GPIO
 
@@ -120,7 +120,7 @@ $ GPIOZERO_PIN_FACTORY=pigpio PIGPIO_ADDR=<CONTROLLED_ADDRESS> python3 led.py
 ![1-wire_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson3/1-wire_bb.png)
 
 ```h
-pi@raspberrypi ~/iot/lesson3 $ sudo python3 temperature.py
+pi@raspberrypi ~/iot/lesson3 $ python3 temperature.py
 ```
 
 ## Lab 3E: PyPy
