@@ -1,15 +1,16 @@
 import time
 import datetime
-import Adafruit_DHT
+import board
+import adafruit_dht
 import paho.mqtt.client as mqtt
-DHT_TYPE = Adafruit_DHT.DHT22
-DHT_PIN  = 24
+dhtDevice = adafruit_dht.DHT22(board.D24)
 mqttc = mqtt.Client()
 mqttc.connect("mqtt.eclipse.org", 1883, 60)
 mqttc.loop_start()
 while True:
     try:  
-        humidity, temp = Adafruit_DHT.read(DHT_TYPE, DHT_PIN)
+        humidity = dhtDevice.humidity
+        temp = adtDevice.temperature
         if humidity is None or temp is None:
             time.sleep(2)
             continue
