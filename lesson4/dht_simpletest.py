@@ -28,7 +28,7 @@ while True:
         time.sleep(2.0)
         continue
     except Exception as error:
-        dhtDevice.exit()
+        exit()
         raise error
 
     time.sleep(2.0)
