@@ -24,4 +24,4 @@ while True:
         mqttc.publish("rpi/dht", "Humidity:    %.1f %%" % humidity)
         time.sleep(10)
     except KeyboardInterrupt:
-        exit()
+        dhtDevice.exit()
