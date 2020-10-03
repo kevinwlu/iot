@@ -38,6 +38,11 @@ $ cd ~/demo
 $ docker build -t curl_docker .
 $ docker run curl_docker
 $ docker images
+$ docker run -it balenalib/rpi-raspbian /bin/sh
+# cat /etc/os-release
+# pwd
+# ls
+# exit
 ```
 
 ### Run Crossbar.io router on Terminal 1
