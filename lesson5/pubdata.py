@@ -10,7 +10,7 @@ mqttc.loop_start()
 while True:
     try:  
         humidity = dhtDevice.humidity
-        temp = adtDevice.temperature
+        temp = dhtDevice.temperature
         if humidity is None or temp is None:
             time.sleep(2)
             continue
