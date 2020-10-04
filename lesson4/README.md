@@ -39,10 +39,6 @@ $ sudo apt install python3-mysqldb
 $ sudo pip3 install -U mysqlclient
 $ sudo mysql_secure_installation
 ```
-### Install psutil (process and system utilities)
-```sh
-$ sudo pip3 install -U psutil
-```
 ### Follow the instructions for Django project [stevens](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens); Django REST project [myraspi](https://github.com/kevinwlu/iot/tree/master/lesson4/myraspi); and four Django REST projects that require sensors: [weather](https://github.com/kevinwlu/iot/tree/master/lesson4/weather), [lighting](https://github.com/kevinwlu/iot/tree/master/lesson4/lighting), [parking](https://github.com/kevinwlu/iot/tree/master/lesson4/parking), and [sensing](https://github.com/kevinwlu/iot/tree/master/lesson4/sensing)
 
 ## Lab 4C: Flask
