@@ -39,7 +39,13 @@ $ sudo apt install python3-mysqldb
 $ sudo pip3 install -U mysqlclient
 $ sudo mysql_secure_installation
 ```
-### Follow the instructions for Django project [stevens](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens); Django REST project [myraspi](https://github.com/kevinwlu/iot/tree/master/lesson4/myraspi); and four Django REST projects that require sensors: [weather](https://github.com/kevinwlu/iot/tree/master/lesson4/weather), [lighting](https://github.com/kevinwlu/iot/tree/master/lesson4/lighting), [parking](https://github.com/kevinwlu/iot/tree/master/lesson4/parking), and [sensing](https://github.com/kevinwlu/iot/tree/master/lesson4/sensing)
+### Start Django project [stevens](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens)
+### Start Django REST project [myraspi](https://github.com/kevinwlu/iot/tree/master/lesson4/myraspi)
+### Start four Django REST projects that require sensors
+1. [weather](https://github.com/kevinwlu/iot/tree/master/lesson4/weather)
+2. [lighting](https://github.com/kevinwlu/iot/tree/master/lesson4/lighting)
+3. [parking](https://github.com/kevinwlu/iot/tree/master/lesson4/parking)
+4. [sensing](https://github.com/kevinwlu/iot/tree/master/lesson4/sensing)
 
 ## Lab 4C: Flask
 
