@@ -84,6 +84,10 @@ pi@raspberrypi:~/myraspi $ cp ~/iot/lesson4/myraspi/controller.py .
 ```sh
 pi@raspberrypi:~/myraspi $ nano controller.py
 ```
+## Install (or upgrade) psutil (process and system utilities)
+```sh
+$ sudo pip3 install -U psutil
+```
 ## After the first time, skip these three steps if no changes
 ```sh
 pi@raspberrypi:~/myraspi $ python3 manage.py makemigrations myapp
