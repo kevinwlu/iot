@@ -89,6 +89,16 @@ pi@raspberrypi:~/weather $ cp ~/iot/lesson4/weather/controller.py .
 ```sh
 pi@raspberrypi:~/weather $ nano controller.py
 ```
+## Install [Adafruit](https://en.wikipedia.org/wiki/Adafruit_Industries) CircuitPython-DHT library
+```sh
+$ pip3 install adafruit-blinka
+$ cd ~/iot/lesson4
+$ python3 blinkatest.py
+$ pip3 install adafruit-circuitpython-dht
+$ sudo apt-get install libgpiod2
+$ python3 dht_simpletest.py
+$ cd
+```
 ## After the first time, skip these three steps if no changes
 ```sh
 pi@raspberrypi:~/weather $ python3 manage.py makemigrations myapp
