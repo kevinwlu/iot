@@ -33,7 +33,7 @@
 * [Raspberry Pi Dynamic Monitor Display Based on Kali System](https://github.com/yinghaowang95/EE629-Course) <!--Yinghao Wang-->
 * [Interfacing Arduino With Raspberry Pi](https://github.com/jasperxu1233/EE-629) <!--Haojie Xu-->
 * [Raspberry Pi Web Server Environmental Sensing](https://github.com/Mounika-2197/IoT-Project) <!--Mounika Yakasiri-->
-* [Object Detection Based on R-CNN](https://github.com/smallsunjj/ECE800) <!--Jie Yang-->
+* [Object Detection Based on R-CNN](https://github.com/smallsunjj) <!--Jie Yang-->
 * [Face Tracking](https://github.com/hejunzhan/EE629/tree/master/ee629) <!--Hejun Zhan-->
 * [Stock Tracking via Twitter](https://github.com/zhusiyuan-456/cpe-629-Iot) <!--Siyuan Zhu-->
 
