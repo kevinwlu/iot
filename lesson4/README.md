@@ -71,7 +71,7 @@ python3 memory_game.py
   * Save Model > Build Model
 * Endpoint >
   * Service Endpoint Type: HTTPS
-  * Default Region: https://xxxxxxxx.ngrok.io
+  * Default Region: https://xxxxxxxx.ngrok.io (copy and paste the endpoint from Ngrok)
   * Select "My development endpoint is a sub-domain of a domain that has a wildcard certificate from a certificate authority"
   * Save Endpoints
 * Click "Test" tab and enable test for this skill
