@@ -1,14 +1,18 @@
 import time
-import Adafruit_DHT
+import board
+import adafruit_dht
 from beebotte import *
 bbt = BBT('API_KEY', 'SECRET_KEY')
 period = 60 # seconds
-pin = 24
+#pin = 24
+dhtDevice = adafruit_dht.DHT22(board.D24)
 temp_resource = Resource(bbt, 'RaspberryPi', 'temperature')
 humid_resource = Resource(bbt, 'RaspberryPi', 'humidity')
 def run():
     while True:
-        humidity, temperature = Adafruit_DHT.read_retry(Adafruit_DHT.DHT22, pin)
+#        humidity, temperature = Adafruit_DHT.read_retry(Adafruit_DHT.DHT22, pin)
+        humidity = dhtDevice.humidity
+        temperature_c = dhtDevice.temperature
         if humidity is not None and temperature is not None:
             print("Temp={0:f}*C  Humidity={1:f}%".format(temperature, humidity))
             try:
