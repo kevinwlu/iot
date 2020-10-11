@@ -12,7 +12,7 @@ def run():
     while True:
 #        humidity, temperature = Adafruit_DHT.read_retry(Adafruit_DHT.DHT22, pin)
         humidity = dhtDevice.humidity
-        temperature_c = dhtDevice.temperature
+        temperature = dhtDevice.temperature
         if humidity is not None and temperature is not None:
             print("Temp={0:f}*C  Humidity={1:f}%".format(temperature, humidity))
             try:
