@@ -63,7 +63,7 @@ $ cd ~/iot/lesson4
 python3 memory_game.py
 ```
 ### Open a browser and sign in [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask)
-* Click "Create Skill" > Enter Skill name in title case: Memory Game > Choose a model: Custom (SELECTED) | Choose a host: Provision your own (SELECTED) > Click "Create skill" > Choose a template: Hello World Skill > Click "Choose"
+* Click "Create Skill" > Enter Skill name in title case: Memory Game > 1. Choose a model: Custom (SELECTED) > 2. Choose a host: Provision your own (SELECTED) > Click "Create skill" > Choose a template: Hello World Skill > Click "Choose"
 * Invocation > Enter Skill Invocation Name in lowercase: memory game
 * Interaction Model > 
   * JSON Editor > Replace all intent schema and sample utterances with iot/lesson4/memory_game.json
@@ -73,7 +73,7 @@ python3 memory_game.py
   * Default Region: https://xxxxxxxxxxxx.ngrok.io (copy and paste the endpoint provided by Ngrok)
   * Select "My development endpoint is a sub-domain of a domain that has a wildcard certificate from a certificate authority"
   * Save Endpoints
-* Click "Test" tab and enable test for this skill
+* Click "Test" tab > Enable skill testing from "Off" to "Development"
   * Type or click and hold the microphone button to speak
   * "memory game"
     
