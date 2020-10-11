@@ -76,11 +76,14 @@ python3 memory_game.py
 * Click "Test" tab and enable test for this skill
   * Type or click and hold the microphone button to speak
   * "memory game"
-    "Welcome to memory game. I'm going to say three numbers for you to repeat backwards. Ready?"
+    
+    Alexa: "Welcome to memory game. I'm going to say three numbers for you to repeat backwards. Ready?"
   * "yes"
-    "Can you repeat the numbers 0, 9, 6 backwards?"
+    
+    Alexa: "Can you repeat the numbers 0, 9, 6 backwards?"
   * "six nine zero"
-    "Good job!"
+    
+    Alexa: "Good job!"
 
 ## Lab 4D: LAMP
 
