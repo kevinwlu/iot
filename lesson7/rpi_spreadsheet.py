@@ -33,8 +33,8 @@ while True:
     cpu = psutil.cpu_percent()
     tmp = get_temperature()
     print(dat)
-    print('CPU Usage in %: '+str(cpu))
-    print('Temperature in C: ' +str(tmp))
+    print('CPU Usage:   {0:0.1f} %'.format(cpu))
+    print('Temperature: {0:0.1f} C'.format(tmp))
     try:
         worksheet.append_row((str(dat), cpu, tmp))
 #        worksheet.append_row((dat, cpu, tmp))
