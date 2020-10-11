@@ -2,6 +2,11 @@
     "interactionModel": {
         "languageModel": {
             "invocationName": "memory game",
+            "modelConfiguration": {
+                "fallbackIntentSensitivity": {
+                    "level": "LOW"
+                }
+            },
             "intents": [
                 {
                     "name": "YesIntent",
@@ -33,6 +38,14 @@
                     ]
                 },
                 {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
                     "name": "AMAZON.StopIntent",
                     "samples": [
                         "stop",
@@ -41,6 +54,10 @@
                 },
                 {
                     "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
                     "samples": []
                 }
             ],
