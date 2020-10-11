@@ -37,16 +37,17 @@ import json
 import sys
 import time
 import datetime
-
-import Adafruit_DHT
+import board
+import adafruit_dht
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
 # Type of sensor, can be Adafruit_DHT.DHT11, Adafruit_DHT.DHT22, or Adafruit_DHT.AM2302.
-DHT_TYPE = Adafruit_DHT.DHT22
+#DHT_TYPE = Adafruit_DHT.DHT22
+dhtDevice = adafruit_dht.DHT22(board.D24)
 
 # Example of sensor connected to Raspberry Pi pin 24
-DHT_PIN  = 24
+#DHT_PIN  = 24
 # Example of sensor connected to Beaglebone Black pin P8_11
 #DHT_PIN  = 'P8_11'
 
@@ -102,7 +103,9 @@ while True:
 
     # Attempt to get sensor reading.
     dat = datetime.datetime.now()
-    humidity, temp = Adafruit_DHT.read(DHT_TYPE, DHT_PIN)
+    #humidity, temp = Adafruit_DHT.read(DHT_TYPE, DHT_PIN)
+    humidity = dhtDevice.humidity
+    temp = dhtDevice.temperature
 
     # Skip to the next reading if a valid measurement couldn't be taken.
     # This might happen if the CPU is under a lot of load and the sensor
