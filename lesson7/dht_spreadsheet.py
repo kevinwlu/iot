@@ -114,8 +114,8 @@ while True:
         time.sleep(2)
         continue
 
-    print('Temperature: {0:0.1f} C'+str(temp))
-    print('Humidity:    {0:0.1f} %'+str(humidity))
+    print('Temperature: {0:0.1f} C'.format(temp))
+    print('Humidity:    {0:0.1f} %'.format(humidity))
  
     # Append the data in the spreadsheet, including a timestamp
     try:
