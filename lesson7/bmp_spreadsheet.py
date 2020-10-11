@@ -107,9 +107,9 @@ while True:
     #	time.sleep(2)
     #	continue
 
-    print('Temperature: {0:0.1f} C'+str(temp))
-    print('Pressure:    {0:0.1f} Pa'+str(pressure))
-    print('Altitude:    {0:0.1f} m'+str(altitude))
+    print('Temperature: {0:0.1f} C'.format(temp))
+    print('Pressure:    {0:0.1f} Pa'.format(pressure))
+    print('Altitude:    {0:0.1f} m'.format(altitude))
 
     # Append the data in the spreadsheet, including a timestamp
     try:
