@@ -32,7 +32,7 @@ while True:
         print(datetime.datetime.now(), temp_C)
 
         # delay between stream posts
-        time.sleep(1)
+        time.sleep(10)
     except KeyboardInterrupt:
         GPIO.cleanup()
         exit()
