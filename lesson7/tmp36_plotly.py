@@ -1,8 +1,6 @@
 # Source: https://github.com/plotly/raspberrypi
-# Updated on 2019-10-20
-# The plotly.plotly module is deprecated,
-# please install the chart-studio package and use the
-# chart_studio.plotly module instead.
+# Updated on 2019-10-20: The plotly.plotly module is deprecated, install the chart-studio package and use the chart_studio.plotly module instead
+# Updated on 2020-10-12: Streaming is no longer supported in Chart Studio Cloud
 import chart_studio.plotly as py
 import json
 import time
