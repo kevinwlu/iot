@@ -33,8 +33,8 @@ $ docker run armhf/alpine date
 ### Build and run new image from Dockerfile
 ```sh
 $ docker images
-$ cp ~/iot/lesson5/Dockerfile ~/demo
 $ cd ~/demo
+$ cp ~/iot/lesson5/Dockerfile .
 $ docker build -t curl_docker .
 $ docker run curl_docker
 $ docker images
