@@ -28,7 +28,7 @@ def readMoisture():
 def runController():
     level = readMoisture()
 
-Check moisture level
+# Check moisture level
     if (level < threshold):
         GPIO.output(TRIGGER_PIN, True)
     else:
