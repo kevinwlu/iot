@@ -13,6 +13,8 @@
 ## Lab 5A: Crossbar.io
 
 ### Install Docker on a Raspberry Pi
+#### [Docker Get Started](https://www.docker.com/get-started) includes
+##### Docker Desktop download for Mac or Windows and Docker Engine for Linux
 ```sh
 $ curl -sSL get.docker.com | sh
 ```
