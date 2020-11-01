@@ -66,6 +66,6 @@ plt.xlabel('n_features / n_samples')
 plt.ylabel('Classification accuracy')
 
 plt.legend(loc=3, prop={'size': 12})
-plt.suptitle('Linear Discriminant Analysis vs. \\
+plt.suptitle('Linear Discriminant Analysis vs. \
 shrinkage Linear Discriminant Analysis (1 discriminative feature)')
 plt.show()
