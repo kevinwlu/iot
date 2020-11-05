@@ -4,6 +4,12 @@ from django.template import RequestContext
 
 # Create your views here.
 def home(request):
+    """
+    Returns the home page.
+
+    Args:
+        request: (todo): write your description
+    """
     tempData = TemperatureData.objects.order_by('-id')[0]
     date_time = tempData.date_time
     temperature = tempData.temperature

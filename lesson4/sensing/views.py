@@ -16,6 +16,12 @@ class DoorViewSet(viewsets.ModelViewSet):
     serializer_class = DoorSerializer
 
 def home(request):
+    """
+    Displays the user
+
+    Args:
+        request: (todo): write your description
+    """
     roomstate = 'no'
     r = requests.get('http://127.0.0.1:8000/room/1/', auth=('pi', 'raspberry'))
     result = r.text

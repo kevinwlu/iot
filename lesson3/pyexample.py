@@ -6,6 +6,11 @@
 #
 #  More details.
 def func():
+    """
+    Decor function that will be called function.
+
+    Args:
+    """
     pass
 ## Documentation for a class.
 #
@@ -14,11 +19,23 @@ class PyClass:
    
     ## The constructor.
     def __init__(self):
+        """
+        Initialize the memory.
+
+        Args:
+            self: (todo): write your description
+        """
         self._memVar = 0;
    
     ## Documentation for a method.
     #  @param self The object pointer.
     def PyMethod(self):
+        """
+        Reset the current instance.
+
+        Args:
+            self: (todo): write your description
+        """
         pass
      
     ## A class variable.

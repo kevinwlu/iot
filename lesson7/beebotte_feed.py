@@ -9,6 +9,11 @@ dhtDevice = adafruit_dht.DHT22(board.D24)
 temp_resource = Resource(bbt, 'RaspberryPi', 'temperature')
 humid_resource = Resource(bbt, 'RaspberryPi', 'humidity')
 def run():
+    """
+    Run the humidity.
+
+    Args:
+    """
     while True:
 #        humidity, temperature = Adafruit_DHT.read_retry(Adafruit_DHT.DHT22, pin)
         humidity = dhtDevice.humidity

@@ -9,11 +9,21 @@ logging.getLogger("flask_ask").setLevel(logging.DEBUG)
 
 @ask.launch
 def new_game():
+    """
+    Return a new game.
+
+    Args:
+    """
     welcome_msg = render_template('welcome')
     return question(welcome_msg)
 
 @ask.intent("YesIntent")
 def next_round():
+    """
+    Returns a random number of numbers.
+
+    Args:
+    """
     numbers = [randint(0, 9) for _ in range(3)]
     round_msg = render_template('round', numbers=numbers)
     session.attributes['numbers'] = numbers[::-1]  # reverse
@@ -21,6 +31,14 @@ def next_round():
 
 @ask.intent("AnswerIntent", convert={'first': int, 'second': int, 'third': int})
 def answer(first, second, third):
+    """
+    Display a answer.
+
+    Args:
+        first: (todo): write your description
+        second: (todo): write your description
+        third: (todo): write your description
+    """
     winning_numbers = session.attributes['numbers']
     if [first, second, third] == winning_numbers:
         msg = render_template('win')

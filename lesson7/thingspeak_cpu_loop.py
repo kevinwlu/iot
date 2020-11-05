@@ -3,6 +3,11 @@ from time import localtime, strftime
 import psutil
 import time
 def doit():
+    """
+    ::
+
+    Args:
+    """
 	cpu_pc = psutil.cpu_percent()
 	mem = psutil.virtual_memory()
 	mem_avail_mb = mem.available/(1024*1024)

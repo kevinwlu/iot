@@ -11,6 +11,13 @@ GDOCS_OAUTH_JSON       = 'KEY_FILE_NAME.json'
 GDOCS_SPREADSHEET_NAME = 'SPREADSHEET_NAME'
 FREQUENCY_SECONDS      = 10
 def login_open_sheet(oauth_key_file, spreadsheet):
+    """
+    Opens a worksheet to the given worksheet.
+
+    Args:
+        oauth_key_file: (str): write your description
+        spreadsheet: (todo): write your description
+    """
     try:
         credentials = ServiceAccountCredentials.from_json_keyfile_name(oauth_key_file, 
                       scopes = ['https://spreadsheets.google.com/feeds',

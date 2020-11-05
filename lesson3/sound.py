@@ -8,6 +8,12 @@ GPIO.setmode(GPIO.BCM)
 GPIO.setup(channel, GPIO.IN)
 
 def callback(channel):
+    """
+    Callback function
+
+    Args:
+        channel: (int): write your description
+    """
         if GPIO.input(channel):
                 print("Sound Detected!")
         else:

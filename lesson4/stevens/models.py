@@ -7,4 +7,10 @@ class TemperatureData(models.Model):
     latitude = models.CharField(max_length=20)
     longitude = models.CharField(max_length=20)
     def __str__(self):
+        """
+        Returns the string representation of the date.
+
+        Args:
+            self: (todo): write your description
+        """
         return self.date_time

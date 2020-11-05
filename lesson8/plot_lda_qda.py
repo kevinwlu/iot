@@ -53,6 +53,16 @@ def dataset_cov():
 ###############################################################################
 # plot functions
 def plot_data(lda, X, y, y_pred, fig_index):
+    """
+    Plot the data.
+
+    Args:
+        lda: (todo): write your description
+        X: (array): write your description
+        y: (array): write your description
+        y_pred: (array): write your description
+        fig_index: (int): write your description
+    """
     splot = plt.subplot(2, 2, fig_index)
     if fig_index == 1:
         plt.title('Linear Discriminant Analysis')
@@ -104,6 +114,15 @@ def plot_data(lda, X, y, y_pred, fig_index):
 
 
 def plot_ellipse(splot, mean, cov, color):
+    """
+    Plot a 2d ellipse. ellipse.
+
+    Args:
+        splot: (todo): write your description
+        mean: (todo): write your description
+        cov: (array): write your description
+        color: (str): write your description
+    """
     v, w = linalg.eigh(cov)
     u = w[0] / linalg.norm(w[0])
     angle = np.arctan(u[1] / u[0])
@@ -120,11 +139,25 @@ def plot_ellipse(splot, mean, cov, color):
 
 
 def plot_lda_cov(lda, splot):
+    """
+    Plot the covariance matrix.
+
+    Args:
+        lda: (array): write your description
+        splot: (bool): write your description
+    """
     plot_ellipse(splot, lda.means_[0], lda.covariance_, 'red')
     plot_ellipse(splot, lda.means_[1], lda.covariance_, 'blue')
 
 
 def plot_qda_cov(qda, splot):
+    """
+    Plots the covariance.
+
+    Args:
+        qda: (array): write your description
+        splot: (bool): write your description
+    """
     plot_ellipse(splot, qda.means_[0], qda.covariance_[0], 'red')
     plot_ellipse(splot, qda.means_[1], qda.covariance_[1], 'blue')
 

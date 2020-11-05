@@ -15,6 +15,11 @@ a = 10
 b = 2
 
 def setup():
+    """
+    Initialize the pwm
+
+    Args:
+    """
     global pwm
     GPIO.setmode(GPIO.BCM)
     GPIO.setup(P_SERVO, GPIO.OUT)
@@ -22,6 +27,12 @@ def setup():
     pwm.start(0)
 
 def setDirection(direction):
+    """
+    Sets the direction.
+
+    Args:
+        direction: (str): write your description
+    """
     duty = a / 180 * direction + b
     pwm.ChangeDutyCycle(duty)
     print("direction =", direction, "-> duty =", duty)

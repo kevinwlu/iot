@@ -2,6 +2,11 @@
 import subprocess
 import os
 def get_ram():
+    """
+    Returns the total number of ram ram ram
+
+    Args:
+    """
 # Returns a tuple (total ram, available ram) in megabytes. See www.linuxatemyram.com
     try:
         s = (subprocess.check_output(['free','-m'])).decode()
@@ -11,6 +16,11 @@ def get_ram():
         return 0
 
 def get_process_count():
+    """
+    Returns the number of subprocess in the process
+
+    Args:
+    """
 # Returns the number of processes
     try:
         s = (subprocess.check_output(['ps','-e'])).decode()
@@ -19,6 +29,11 @@ def get_process_count():
         return 0
 
 def get_up_stats():
+    """
+    Return the number of the repository.
+
+    Args:
+    """
 # Returns a tuple (uptime, 5 min load average)
     try:
         s = (subprocess.check_output(['uptime'])).decode()
@@ -32,6 +47,11 @@ def get_up_stats():
         return '' , 0
 
 def get_connections():
+    """
+    Returns a list of connections
+
+    Args:
+    """
 # Returns the number of network connections
     try:
         s = (subprocess.check_output(['netstat','-tun'])).decode()
@@ -40,6 +60,11 @@ def get_connections():
         return 0
 
 def get_temperature():
+    """
+    Returns the temperature as float
+
+    Args:
+    """
 # Returns the temperature in degrees C
     try:
         s = (subprocess.check_output(['/opt/vc/bin/vcgencmd','measure_temp'])).decode()
@@ -48,6 +73,11 @@ def get_temperature():
         return 0
 
 def get_ipaddress():
+    """
+    Returns the ip address of the given ip address.
+
+    Args:
+    """
 # Returns the current IP address
     arg='ip route list'
     p=subprocess.Popen(arg,shell=True,stdout=subprocess.PIPE)
@@ -57,6 +87,11 @@ def get_ipaddress():
     return ipaddr
 
 def get_cpu_speed():
+    """
+    Returns the current cpu speed
+
+    Args:
+    """
 # Returns the current CPU speed
     f = os.popen('/opt/vc/bin/vcgencmd get_config arm_freq')
     cpu = f.read()

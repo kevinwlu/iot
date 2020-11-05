@@ -7,6 +7,12 @@ LDR_PIN = 24
 LIGHT_PIN = 18
 
 def readLDR(PIN):
+    """
+    Reads a number of bytes from the device.
+
+    Args:
+        PIN: (todo): write your description
+    """
     count = 0
     GPIO.setup(PIN, GPIO.OUT)
     GPIO.output(PIN, False)
@@ -17,10 +23,22 @@ def readLDR(PIN):
     return count
 
 def switchOnLight(PIN):
+    """
+    Takes an output of the switch.
+
+    Args:
+        PIN: (int): write your description
+    """
     GPIO.setup(PIN, GPIO.OUT)
     GPIO.output(PIN, True)
 
 def switchOffLight(PIN):
+    """
+    Sets the output of the switch.
+
+    Args:
+        PIN: (int): write your description
+    """
     GPIO.setup(PIN, GPIO.OUT)
     GPIO.output(PIN, False)
 

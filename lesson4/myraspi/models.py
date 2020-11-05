@@ -6,6 +6,12 @@ class LocationData(models.Model):
     latitude = models.CharField(max_length=20)
     longitude = models.CharField(max_length=20)
     def __str__(self):
+        """
+        Return the string representation of this node.
+
+        Args:
+            self: (todo): write your description
+        """
         return self.location
 
 class Dt(models.Model):

@@ -12,6 +12,12 @@ class StateViewSet(viewsets.ModelViewSet):
     serializer_class = StateSerializer
 
 def home(request):
+    """
+    Displays the home page
+
+    Args:
+        request: (todo): write your description
+    """
     currentstate = 'empty'
     r = requests.get('http://127.0.0.1:8000/state/1/',
                     auth=('pi', 'raspberry'))

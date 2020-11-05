@@ -12,6 +12,12 @@ GPIO.setup(18, GPIO.OUT)
 state = False
 
 def toggleLED(pin):
+    """
+    Toggle the state of the specified pin.
+
+    Args:
+        pin: (todo): write your description
+    """
     global state
     state = not state
     GPIO.output(pin, state)

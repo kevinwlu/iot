@@ -9,6 +9,11 @@ TRIGGER_PIN = 18
 threshold = 10
 
 def readUltrasonicSensor():
+    """
+    Reads the current state from the device.
+
+    Args:
+    """
     GPIO.setup(TRIGGER_PIN, GPIO.OUT)
     GPIO.setup(SENSOR_PIN, GPIO.IN)
     GPIO.output(TRIGGER_PIN, GPIO.LOW)
@@ -28,6 +33,11 @@ def readUltrasonicSensor():
         return 0
 
 def runController():
+    """
+    Set the state of the pin.
+
+    Args:
+    """
     pinState = readUltrasonicSensor()
     if pinState == 1:
         print('Occupied')
@@ -37,6 +47,12 @@ def runController():
         setCurrentState('empty')
 
 def setCurrentState(val):
+    """
+    Sets the logged - only.
+
+    Args:
+        val: (todo): write your description
+    """
     values = {'name': val}
     r = requests.put('http://127.0.0.1:8000/state/1/', data=values,
                      auth=('pi', 'raspberry'))

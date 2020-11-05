@@ -20,6 +20,12 @@ class CpuViewSet(viewsets.ModelViewSet):
     serializer_class = CpuSerializer
 
 def home(request):
+    """
+    Renders page of a given location.
+
+    Args:
+        request: (todo): write your description
+    """
     locData = LocationData.objects.order_by('-id')[0]
     lat = locData.latitude
     lon = locData.longitude

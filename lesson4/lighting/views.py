@@ -16,6 +16,12 @@ class StateViewSet(viewsets.ModelViewSet):
     serializer_class = StateSerializer
 
 def home(request):
+    """
+    Displays the home.
+
+    Args:
+        request: (todo): write your description
+    """
     out = ''
     currentmode = 'auto'
     currentstate = 'off'

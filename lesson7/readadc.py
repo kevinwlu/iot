@@ -11,6 +11,11 @@ class PINS:
 
  # set up the SPI interface pins
 def initialize():
+    """
+    Initializes the usb mode.
+
+    Args:
+    """
     GPIO.setmode(GPIO.BCM)
     GPIO.setwarnings(False)
     GPIO.setup(PINS.SPICLK, GPIO.OUT)
@@ -21,6 +26,16 @@ def initialize():
 # Function to read data from Analog Pin 1 from MCP3008
 # This function will be called in our loop to get the current sensor value
 def readadc(adcnum, clockpin, mosipin, misopin, cspin):
+    """
+    Read an adcnum
+
+    Args:
+        adcnum: (int): write your description
+        clockpin: (todo): write your description
+        mosipin: (todo): write your description
+        misopin: (str): write your description
+        cspin: (todo): write your description
+    """
     if ((adcnum > 7) or (adcnum < 0)):
             return -1
     GPIO.output(cspin, True)

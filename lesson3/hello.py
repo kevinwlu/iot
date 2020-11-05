@@ -19,6 +19,19 @@ def sendmail(from_addr, to_addr_list, cc_addr_list,
              subject, message,
              login, password,
              smtpserver):
+    """
+    Sends an email.
+
+    Args:
+        from_addr: (str): write your description
+        to_addr_list: (list): write your description
+        cc_addr_list: (list): write your description
+        subject: (str): write your description
+        message: (str): write your description
+        login: (str): write your description
+        password: (str): write your description
+        smtpserver: (str): write your description
+    """
 
     header = 'From: %s \n' % from_addr
     header += 'To: %s \n' % ','.join(to_addr_list)

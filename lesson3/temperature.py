@@ -15,6 +15,11 @@ device_file = device_folder + '/w1_slave'
  
 # A function that reads the sensors data
 def read_temp_raw():
+    """
+    Read a list of the raw string.
+
+    Args:
+    """
     f = open(device_file, 'r') # Opens the temperature device file
     lines = f.readlines() # Returns the text
     f.close()
@@ -22,6 +27,11 @@ def read_temp_raw():
  
 # Convert the value of the sensor into a temperature
 def read_temp():
+    """
+    Reads the number of the terminal.
+
+    Args:
+    """
     lines = read_temp_raw() # Read the temperature 'device file'
  
   # While the first line does not contain 'YES', wait for 0.2s

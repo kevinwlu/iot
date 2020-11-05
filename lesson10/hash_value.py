@@ -21,11 +21,32 @@ print('The hash for a tuple of vowels is:', hash(vowels))
 # hash for a custom object
 class Person:
     def __init__(self, age, name):
+        """
+        Initialize a new age.
+
+        Args:
+            self: (todo): write your description
+            age: (str): write your description
+            name: (str): write your description
+        """
         self.age = age
         self.name = name
     def __eq__(self, other):
+        """
+        Determine if other.
+
+        Args:
+            self: (todo): write your description
+            other: (todo): write your description
+        """
         return self.age == other.age and self.name == other.name
     def __hash__(self):
+        """
+        Returns the hash of the field
+
+        Args:
+            self: (todo): write your description
+        """
         return hash((self.age, self.name))
 person = Person(23, 'Adam')
 print('The hash for an object of person is:', hash(person))

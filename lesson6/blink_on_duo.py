@@ -2,12 +2,22 @@ import serial
 import time
 s = None
 def setup():
+    """
+    Sets global serialization.
+
+    Args:
+    """
     global s
     # open serial COM port to /dev/ttyS0, which maps to UART0(D0/D1) 
     # the baudrate is set to 57600 and should be the same as the one 
     # specified in the Arduino sketch uploaded to ATMega32U4.
     s = serial.Serial("/dev/ttyS0", 57600)
 def loop():
+    """
+    Main loop.
+
+    Args:
+    """
     # send "1" to the Arduino sketch on ATMega32U4.
     # the sketch will turn on the LED attached to D13 on the board
     s.write("1")

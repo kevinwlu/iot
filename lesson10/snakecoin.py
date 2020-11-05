@@ -5,6 +5,16 @@ import datetime as date
 # Define what a Snakecoin block is
 class Block:
   def __init__(self, index, timestamp, data, previous_hash):
+      """
+      Initialize the block to the index.
+
+      Args:
+          self: (todo): write your description
+          index: (int): write your description
+          timestamp: (int): write your description
+          data: (todo): write your description
+          previous_hash: (int): write your description
+      """
     self.index = index
     self.timestamp = timestamp
     self.data = data
@@ -12,18 +22,35 @@ class Block:
     self.hash = self.hash_block()
   
   def hash_block(self):
+      """
+      Hash the hash of the block.
+
+      Args:
+          self: (todo): write your description
+      """
     sha = hasher.sha256()
     sha.update(str(self.index).encode() + str(self.timestamp).encode() + str(self.data).encode() + str(self.previous_hash).encode())
     return sha.hexdigest()
 
 # Generate genesis block
 def create_genesis_block():
+    """
+    Generate a block.
+
+    Args:
+    """
   # Manually construct a block with
   # index zero and arbitrary previous hash
   return Block(0, date.datetime.now(), "Genesis Block", "0")
 
 # Generate all later blocks in the blockchain
 def next_block(last_block):
+    """
+    Get the next block in the blockchain.
+
+    Args:
+        last_block: (todo): write your description
+    """
   this_index = last_block.index + 1
   this_timestamp = date.datetime.now()
   this_data = "Hey! I'm block " + str(this_index)

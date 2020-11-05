@@ -5,6 +5,11 @@ adxl345 = ADXL345()
 print("ADXL345 on address 0x%x:" % (adxl345.address))
 
 def runController():
+    """
+    Run the specified run.
+
+    Args:
+    """
     axes = adxl345.getAxes(True)
     print('x = %.3f y = %.3f z = %.3f' % (axes['x'], axes['y'], axes['z']))
 

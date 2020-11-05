@@ -23,11 +23,23 @@ spi.open(0, 0)
 
 # Function to read SPI data from MCP3008 chip
 def ReadChannel(channel):
+    """
+    Read a channel.
+
+    Args:
+        channel: (todo): write your description
+    """
     adc = spi.xfer2([1, (8 + channel) << 4, 0])
     data = ((adc[1] & 3) << 8) + adc[2]
     return data
 
 def get_resistance(channel):
+    """
+    Get a channel
+
+    Args:
+        channel: (todo): write your description
+    """
     result = ReadChannel(channel)
     if result == 0:
         resistance = 0
@@ -36,6 +48,13 @@ def get_resistance(channel):
     return resistance
 
 def converttoppm(rs, conversions):
+    """
+    Converttttm )
+
+    Args:
+        rs: (todo): write your description
+        conversions: (int): write your description
+    """
     rsper = 100 * (float(rs) / r0)
     for a in conversions:
         if a[0][0] >= rsper > a[0][1]:
@@ -46,6 +65,11 @@ def converttoppm(rs, conversions):
         return 0
 
 def get_NO2():
+    """
+    Get the 2 - tuple of 2 - 2 2 2.
+
+    Args:
+    """
     rs = get_resistance(NO2_CHANNEL)
     ppm = converttoppm(rs, NO2_Conversions)
     return ppm
@@ -57,6 +81,11 @@ def get_NO2():
 
 # Controller main function
 def runController():
+    """
+    Runs out - line.
+
+    Args:
+    """
     NO2_reading = get_NO2()
 #    CO_reading = get_CO()
 #    print('CO={0:0.5f} ppm  NO2={1:0.5f} ppm'.format(CO_reading, NO2_reading))

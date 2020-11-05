@@ -8,6 +8,12 @@ spi.open(0,0)
 
 # Read SPI data from MCP3008, Channel must be an integer 0-7
 def ReadADC(ch):
+    """
+    Reads a c { ch } from the packet.
+
+    Args:
+        ch: (todo): write your description
+    """
     if ((ch > 7) or (ch < 0)):
        return -1
     adc = spi.xfer2([1,(8+ch)<<4,0])
@@ -16,12 +22,26 @@ def ReadADC(ch):
 
 # Convert data to voltage level
 def ReadVolts(data,deci):
+    """
+    Reads a number of bytes.
+
+    Args:
+        data: (array): write your description
+        deci: (todo): write your description
+    """
     volts = (data * 3.3) / 1023
     volts = round(volts,deci)
     return volts
 
 # Calculate temperature from TMP36 data
 def ConvertTemp(data,deci):
+    """
+    Convert data to temp string.
+
+    Args:
+        data: (array): write your description
+        deci: (todo): write your description
+    """
     temp = (data - 0.413) * 100
     temp = round(temp,deci)
     return temp

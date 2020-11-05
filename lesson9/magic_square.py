@@ -3,6 +3,16 @@
 from qiskit import *
 #The following function sets up the initial entanglement between Alice and Bob
 def share_bell_state(qc,a,b,c,d): 
+    """
+    Share state of the state of a.
+
+    Args:
+        qc: (todo): write your description
+        a: (int): write your description
+        b: (int): write your description
+        c: (int): write your description
+        d: (int): write your description
+    """
     qc.h(a)
     qc.h(b)
     qc.cx(a,c)
@@ -10,6 +20,15 @@ def share_bell_state(qc,a,b,c,d):
     
 #The following functions represent the U(gamma) and V(gamma) controlled Cliffords.
 def U(qc,gamma,a,b):
+    """
+    Evaluate the gamma function.
+
+    Args:
+        qc: (todo): write your description
+        gamma: (todo): write your description
+        a: (int): write your description
+        b: (int): write your description
+    """
     if gamma==1:
         qc.h(a)
         qc.i(b)
@@ -25,6 +44,15 @@ def U(qc,gamma,a,b):
         qc.cx(a,b)
     
 def V(qc,gamma,a,b):
+    """
+    Swap qcumulative equation.
+
+    Args:
+        qc: (todo): write your description
+        gamma: (todo): write your description
+        a: (int): write your description
+        b: (int): write your description
+    """
     if gamma==1:
         qc.h(a)
         qc.h(b)

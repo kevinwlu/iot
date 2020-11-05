@@ -20,6 +20,12 @@ class HmdViewSet(viewsets.ModelViewSet):
     serializer_class = HmdSerializer
 
 def home(request):
+    """
+    Renders the dataframe.
+
+    Args:
+        request: (todo): write your description
+    """
     locData = LocationData.objects.order_by('-id')[0]
     lat = locData.latitude
     lon = locData.longitude
