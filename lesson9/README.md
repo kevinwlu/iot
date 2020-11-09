@@ -62,6 +62,7 @@ $ python3
 >>> IBMQ.save_account('MY_API_TOKEN')
 >>> exit()
 ```
+### [Learn quantum computing using Qiskit](https://qiskit.org/textbook/preface.html)
 
 ### Run examples of Qiskit
 
