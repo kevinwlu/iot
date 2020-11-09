@@ -54,7 +54,13 @@ $
 
 ### [Learn quantum computation using Qiskit](https://qiskit.org/textbook/preface.html)
 
-### Install qiskit on a laptop (not Raspberry Pi), create an [IBM Quantum Experience account](https://quantum-computing.ibm.com/), copy API token from [account](https://quantum-computing.ibm.com/account), and save API token
+### Create an [IBM Quantum Experience account](https://quantum-computing.ibm.com/)
+
+### Create Qiskit Notebook [here](https://quantum-computing.ibm.com/jupyter)
+
+### Alternatively, install qiskit on a laptop (not Raspberry Pi)
+
+### Copy API token from [account](https://quantum-computing.ibm.com/account), and save API token
 
 ```sh
 $ sudo pip3 install qiskit
@@ -74,5 +80,3 @@ $ python3 qiskit_aer_example.py
 $ python3 qiskit_aqua_example.py
 $ python3 qiskit_ignis_example.py
 ```
-
-### Alternatively, create Qiskit Notebook [here](https://quantum-computing.ibm.com/jupyter)
