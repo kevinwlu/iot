@@ -54,7 +54,7 @@ $
 
 ### Learn quantum computation using Qiskit [textbook](https://qiskit.org/textbook/preface.html)
 
-### Create an [IBM Quantum Experience account](https://quantum-computing.ibm.com/)
+### Create an IBM Quantum Experience [account](https://quantum-computing.ibm.com/)
 
 ### IBM Quantum Lab [Qiskit Tutorials](https://quantum-computing.ibm.com/jupyter) include a core reference set of notebooks outlining the features of Qiskit
 
