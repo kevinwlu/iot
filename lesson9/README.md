@@ -52,6 +52,8 @@ $
 
 ## Lab 9B: Qiskit
 
+### [Learn quantum computation using Qiskit](https://qiskit.org/textbook/preface.html)
+
 ### Install qiskit on a laptop (not Raspberry Pi), create an [IBM Quantum Experience account](https://quantum-computing.ibm.com/), copy API token from [account](https://quantum-computing.ibm.com/account), and save API token
 
 ```sh
@@ -62,7 +64,6 @@ $ python3
 >>> IBMQ.save_account('MY_API_TOKEN')
 >>> exit()
 ```
-### [Learn quantum computation using Qiskit](https://qiskit.org/textbook/preface.html)
 
 ### Run examples of Qiskit
 
