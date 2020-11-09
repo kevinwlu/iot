@@ -46,7 +46,6 @@ $ cd ~/demo
 $ pinta intrusiondetection.png
 $ gimp -h
 $ gimp -a intrusiondetection.png
-^C
 $
 ```
 
