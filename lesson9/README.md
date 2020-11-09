@@ -1,6 +1,7 @@
 # Lesson 9: NETCONF and YANG
 * [NETCONF](https://en.wikipedia.org/wiki/NETCONF)
 * [YANG](https://en.wikipedia.org/wiki/YANG)
+* [Namespace](https://en.wikipedia.org/wiki/Namespace)
 * [Extensible Markup Language](https://en.wikipedia.org/wiki/XML) (XML)
 * [Extensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT) (XSLT)
 * [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language) (UML)
@@ -20,7 +21,9 @@ $ sudo apt install libxml2-dev libxslt1-dev
 $ sudo pip3 install -U lxml pyang
 $ cp ~/iot/lesson9/intrusiondetection.yang ~/demo
 $ cd ~/demo
+$ cat intrusiondetection.yang
 $ pyang -f yin -o intrusiondetection.yin intrusiondetection.yang
+$ cat intrusiondetection.yin
 $ pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereotypes,annotation,typedef
 ```
 ### Install PlantUML on a laptop or Raspberry Pi
