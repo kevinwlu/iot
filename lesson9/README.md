@@ -2,6 +2,7 @@
 * [NETCONF](https://en.wikipedia.org/wiki/NETCONF)
 * [YANG](https://en.wikipedia.org/wiki/YANG)
 * [Namespace](https://en.wikipedia.org/wiki/Namespace)
+* [Remote procedure call](https://en.wikipedia.org/wiki/Remote_procedure_call)
 * [Extensible Markup Language](https://en.wikipedia.org/wiki/XML) (XML)
 * [Extensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT) (XSLT)
 * [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language) (UML)
