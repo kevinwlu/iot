@@ -52,7 +52,7 @@ $
 
 ## Lab 9B: Qiskit
 
-### [Learn quantum computation using Qiskit](https://qiskit.org/textbook/preface.html)
+### Learn quantum computation using Qiskit [textbook](https://qiskit.org/textbook/preface.html)
 
 ### Create an [IBM Quantum Experience account](https://quantum-computing.ibm.com/)
 
