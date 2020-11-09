@@ -56,7 +56,7 @@ $
 
 ### Create an IBM Quantum Experience [account](https://quantum-computing.ibm.com/)
 
-### IBM Quantum Lab [Qiskit Tutorials](https://quantum-computing.ibm.com/jupyter) include a core reference set of notebooks outlining the features of Qiskit
+### IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
 
 ### Alternatively, install qiskit on a laptop (not Raspberry Pi)
 
