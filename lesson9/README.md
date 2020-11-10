@@ -57,7 +57,7 @@ $
 
 ### IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
 
-### Alternatively on macOS, install qiskit and copy API token from [account](https://quantum-computing.ibm.com/account), save API token, and run examples of Qiskit
+### Alternatively on macOS, install Qiskit and copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples of Qiskit
 
 ```sh
 $ sudo pip3 install qiskit qiskit-terra[visualization]
@@ -72,7 +72,7 @@ $ python3 qiskit_aqua_example.py
 $ python3 qiskit_ignis_example.py
 ```
 
-### Or open Git Bash on Windows, install qiskit, and copy API token from [account](https://quantum-computing.ibm.com/account), save API token, and run examples of Qiskit
+### Or open Git Bash on Windows, install Qiskit, and copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples of Qiskit
 
 ```sh
 $ python -m pip install qiskit qiskit-terra[visualization]
