@@ -29,12 +29,15 @@ $ python3
 >>> m.block_size
 >>> exit()
 $ cd ~/iot/lesson10
+$ cat hash_value.py
+$ python3 hash_value.py
 $ python3 hash_value.py
 ```
 
 ### [Build the tiniest blockchain](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b) in [less than 50 lines of Python](https://gist.github.com/aunyks/8f2c2fd51cc17f342737917e1c2582e2) by [Gerald Nash](https://github.com/aunyks)
 ```sh
 $ cd ~/iot/lesson10
+$ cat snakecoin.py
 $ python3 snakecoin.py
 $ cd
 ```
