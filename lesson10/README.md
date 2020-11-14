@@ -67,6 +67,7 @@ $ python3 run_app.py
 ```sh
 $ sudo pip3 install pyota[ccurl]
 $ cd ~/iot/lesson10
+$ cat iri_node_info.py
 $ python3 iri_node_info.py
 $ cd
 ```
