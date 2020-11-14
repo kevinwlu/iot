@@ -6,8 +6,7 @@ Its purpose is to allow repeatable hashing, such as for selftests for the interp
 The integer must be a decimal number in the range [0,4294967295]. Specifying the value 0 will disable hash randomization.
 
 https://www.programiz.com/python-programming/methods/built-in/hash
-hash(object) returns the hash value of the object (if it has one).
-Hash values are integers.
+hash(object) returns the hash value of the object (if it has one). Hash values are integers.
 They are used to quickly compare dictionary keys during a dictionary lookup.
 Numeric values that compare equal have the same hash value even if they are of different types, as is the case for 1 and 1.0.
 For objects with custom __hash__() methods, note that hash() truncates the return value based on the bit width of the host machine.
