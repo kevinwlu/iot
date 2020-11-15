@@ -101,6 +101,7 @@ $ cd dht11-raspi3
 $ npm install
 ```
 ### Change nodes.testnet.iota.org to [nodes.devnet.iota.org](https://docs.iota.org/docs/getting-started/0.1/network/iota-networks)
+#### Transactions in the Devnet must use a [minimum weight magnitude](https://docs.iota.org/docs/getting-started/1.1/first-steps/sending-transactions#doing-proof-of-work) (MWM) of 9 to be valid.
 ```sh
 $ cd ~/dht11-raspi3
 $ nano mam_publish.js
