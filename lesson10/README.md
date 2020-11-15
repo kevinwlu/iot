@@ -108,6 +108,9 @@ $ nano mam_publish.js
 $ nano mam_receive.js
 $ nano mam_sensor.js
 ```
+### Change mwm from 14 to 9 in Line 23375 of mam.client.js
+$ cd ~/dht11-raspi3/lib
+$ nano mam.client.js
 ### Terminal 1: Run mam_publish.js (Press CTRL+Z to stop)
 ```sh
 $ cd ~/dht11-raspi3
