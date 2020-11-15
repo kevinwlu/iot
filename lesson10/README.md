@@ -72,11 +72,11 @@ $ python3 iri_node_info.py
 $ cd
 ```
 
-### Send DHT11 sensor data to the IOTA Tangle using MAM by [Robert Lie](https://github.com/robertlie)
+### Send DHT11 sensor data to the IOTA Tangle using Masked Authenticated Messaging (MAM) by [Robert Lie](https://github.com/robertlie)
 * [Tutorial](https://www.youtube.com/watch?v=atJ-ZT7aKoA)
 * [IOTA quick guides](https://www.mobilefish.com/developer/iota/iota_quickguide_raspi_mam.html)
 * Send DHT11 sensor data to the IOTA Tangle using MAM and Raspberry Pi 3 [GitHub repo](https://github.com/robertlie/dht11-raspi3)
-* [IOTA masked authenticated messaging demo](https://www.mobilefish.com/services/cryptocurrency/mam.html)
+* [IOTA MAM demo](https://www.mobilefish.com/services/cryptocurrency/mam.html)
 
 ![dht22_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson10/dht22_bb.png)
 
