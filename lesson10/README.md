@@ -100,7 +100,7 @@ $ git clone https://github.com/robertlie/dht11-raspi3.git
 $ cd dht11-raspi3
 $ npm install
 ```
-### Change nodes.testnet.iota.org to nodes.devnet.iota.org
+### Change nodes.testnet.iota.org to [nodes.devnet.iota.org](https://docs.iota.org/docs/getting-started/0.1/network/iota-networks)
 ```sh
 $ cd ~/dht11-raspi3
 $ nano mam_publish.js
