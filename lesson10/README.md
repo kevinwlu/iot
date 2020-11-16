@@ -19,7 +19,7 @@
 
 ## Lab 10A: Blockchain
 
-### Hash function
+### Hash function with randomization
 ```sh
 $ cd ~/iot/lesson10
 $ cat hash_value.py
