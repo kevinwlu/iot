@@ -9,7 +9,7 @@
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
 * [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
 * [Hash function](https://en.wikipedia.org/wiki/Hash_function)
-* [SHA-2](https://en.wikipedia.org/wiki/SHA-2)
+* Secure Hash Algorithm 2 ([SHA-2](https://en.wikipedia.org/wiki/SHA-2))
 * [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
 * [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
 * [Ripple](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
