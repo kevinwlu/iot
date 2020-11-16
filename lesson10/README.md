@@ -62,7 +62,7 @@ $ python3 run_app.py
 
 ## Lab 10B: IOTA
 
-### [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library) and [IRI](https://docs.iota.org/docs/node-software/0.1/iri/introduction/overview) (IOTA Reference Implementation)
+### [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library) and [IRI](https://docs.iota.org/docs/node-software/1.0/overview) (IOTA Reference Implementation)
 
 ```sh
 $ sudo pip3 install pyota[ccurl]
