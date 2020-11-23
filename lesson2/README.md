@@ -35,7 +35,7 @@ $ sudo reboot
 
 * Install and run [Minicom](https://en.wikipedia.org/wiki/Minicom)
 ```sh
-$ sudo apt-get install minicom
+$ sudo apt install minicom
 $ minicom -b 115200 -o -D /dev/ttyS0
 ```
 * Enable new line
@@ -127,7 +127,7 @@ root@raspberypi:/home/pi# exit
 ![adxl345_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/adxl345_bb.png)
 
 ```sh
-$ sudo apt-get install i2c-tools python-smbus
+$ sudo apt install i2c-tools python-smbus
 $ sudo i2cdetect -y 1
    0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
 00:          -- -- -- -- -- -- -- -- -- -- -- -- -- 
