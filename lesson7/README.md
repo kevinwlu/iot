@@ -10,6 +10,24 @@
 ### Sign up and log in [ThingSpeak](https://thingspeak.com)
 
 ### Create new channel cpu_loop with field1 cpu_pc and field2 mem_avail_mb
+
+Create a new Channel
+<img src="https://i.ibb.co/BjtjmXt/Screen-Shot-2020-11-25-at-11-22-37-PM.png" alt="New Channel Button - Screen Shot" border="0">
+
+Some sample parameters (title and names of fields are only for your reference)
+<img src="https://i.ibb.co/JvxD53R/Io-T-Lab-New-Channel-Fields.png" alt="Fields in New Channel - Screen Shot" border="0">
+
+At the bottom of the page, hit the following button.
+<img src="https://i.ibb.co/RTHV4Np/Screen-Shot-2020-11-25-at-11-29-51-PM.png" alt="Create New Channel Button - Screen Shot" border="0">
+
+To get API Keys, click here.
+<img src="https://i.ibb.co/y04jM8q/Get-API-Keys.png" alt="Get API Keys - Screen Shot" border="0">
+
+Copy the write API key, not read.
+<img src="https://i.ibb.co/kgbwR4T/API-Keys-to-Copy.png" alt="Write API Keys to Copy - Screen Shot" border="0">
+
+### Download dependencies and run
+
 ```sh
 $ sudo pip3 install -U psutil
 $ cd demo
