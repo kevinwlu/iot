@@ -13,7 +13,7 @@
 
 ### Copy the Write API Key from [channels](https://thingspeak.com/channels)
 
-### Run thingspeak_feed.py
+### Review and run thingspeak_feed.py
 ```sh
 $ sudo pip3 install -U psutil
 $ cd ~/iot/lesson7
