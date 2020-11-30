@@ -10,18 +10,15 @@
 ### Sign up and log in [ThingSpeak](https://thingspeak.com)
 
 ### Create new channel cpu_loop with field1 cpu_pc and field2 mem_avail_mb
+
+### Copy the Write API Key from [channels](https://thingspeak.com/channels)
+
+### Run thingspeak_feed.py
 ```sh
 $ sudo pip3 install -U psutil
-$ cd demo
-$ cp ~/iot/lesson7/thingspeak_cpu_loop.py .
-```
-### Copy the Write API Key from [channels](https://thingspeak.com/channels)
-```sh
-$ nano thingspeak_cpu_loop.py
-```
-### Run thingspeak_cpu_loop.py
-```sh
-$ python3 thingspeak_cpu_loop.py
+$ cd ~/iot/lesson7
+$ cat thingspeak_feed.py
+$ python3 thingspeak_feed.py
 ```
 ## Lab 7B: Google Sheets
 
