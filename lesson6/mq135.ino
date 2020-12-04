@@ -21,5 +21,5 @@ void loop()
     digitalWrite(pin8, LOW);
   }
 
-  delay(5000);                        // wait 100ms for next reading
+  delay(5000);                        // wait 5000 ms for next reading
 }
