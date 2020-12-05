@@ -12,6 +12,7 @@ threshold = 10
 # Open SPI bus
 spi = spidev.SpiDev()
 spi.open(0, 0)
+spi.max_speed_hz = 976000
 
 # Function to read SPI data from MCP3008 chip
 def ReadChannel(channel):
