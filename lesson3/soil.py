@@ -39,5 +39,9 @@ def runController():
     print("Moisture: %s" % level)
 
 while True:
-    runController()
-    time.sleep(10)
+    try:
+        runController()
+        time.sleep(10)
+    except KeyboardInterrupt:
+        GPIO.cleanup()
+        exit()    
