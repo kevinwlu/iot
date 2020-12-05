@@ -30,7 +30,7 @@ def readMoisture():
 def runController():
     level = readMoisture()
 
-# If the moisture level is lower.higher than the threshold, turn on/off the actuators
+# If the moisture level is lower/higher than the threshold, turn on/off the actuators
     if (level < threshold):
         GPIO.output(TRIGGER_PIN, True)
     else:
