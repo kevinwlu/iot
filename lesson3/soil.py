@@ -3,7 +3,7 @@ import time
 import spidev
 
 # Moisture sensor channel on MCP3008
-moisture_channel = 0
+moisture_channel = 2
 
 GPIO.setmode(GPIO.BCM)
 TRIGGER_PIN = 18
