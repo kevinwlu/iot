@@ -1,3 +1,4 @@
+import time
 import spidev
 channel = 1
 
