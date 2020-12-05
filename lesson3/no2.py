@@ -20,6 +20,7 @@ NO2_Conversions = [((0, 100), (0, 0.25)), ((100, 133), (0.25, 0.325)),
 # Open SPI bus
 spi = spidev.SpiDev()
 spi.open(0, 0)
+spi.max_speed_hz = 976000
 
 # Function to read SPI data from MCP3008 chip
 def ReadChannel(channel):
