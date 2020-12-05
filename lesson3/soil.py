@@ -8,7 +8,7 @@ moisture_channel = 0
 GPIO.setmode(GPIO.BCM)
 TRIGGER_PIN = 18
 GPIO.setup(TRIGGER_PIN, GPIO.OUT)
-threshold = 500 # 10k ohm pull-up resistor between analog output (AO) and MCP3008
+threshold = 1000
 
 # Open SPI bus
 spi = spidev.SpiDev()
@@ -23,14 +23,14 @@ def ReadChannel(channel):
 
 # Function to read sensor connected to MCP3008
 def readMoisture():
-    level = ReadChannel(moisture_channel)
+    level = 1023 - ReadChannel(moisture_channel)
     return level
 
 # Controller main function
 def runController():
     level = readMoisture()
 
-# Check moisture level
+# If the moisture level is lower.higher than the threshold, turn on/off the actuators
     if (level < threshold):
         GPIO.output(TRIGGER_PIN, True)
     else:
