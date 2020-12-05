@@ -7,6 +7,7 @@ moisture_channel = 0
 
 GPIO.setmode(GPIO.BCM)
 TRIGGER_PIN = 18
+GPIO.setup(TRIGGER_PIN, GPIO.OUT)
 threshold = 10
 
 # Open SPI bus
