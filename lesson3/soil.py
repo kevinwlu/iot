@@ -8,7 +8,7 @@ moisture_channel = 0
 GPIO.setmode(GPIO.BCM)
 TRIGGER_PIN = 18
 GPIO.setup(TRIGGER_PIN, GPIO.OUT)
-threshold = 10
+threshold = 1000
 
 # Open SPI bus
 spi = spidev.SpiDev()
