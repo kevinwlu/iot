@@ -24,5 +24,8 @@ def runController():
     print('level={0:0.5f}'.format(level))
 
 while True:
-    runController()
-    time.sleep(10)
+    try:
+        runController()
+        time.sleep(10)
+    except KeyboardInterrupt:
+        exit()
