@@ -5,6 +5,7 @@ import os
 # open(bus, device) : open(X,Y) will open /dev/spidev-X.Y
 spi = spidev.SpiDev()
 spi.open(0,0)
+spi.max_speed_hz = 976000
 
 # Read SPI data from MCP3008, Channel must be an integer 0-7
 def ReadADC(ch):
