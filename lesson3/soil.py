@@ -8,7 +8,7 @@ moisture_channel = 0
 GPIO.setmode(GPIO.BCM)
 TRIGGER_PIN = 18
 GPIO.setup(TRIGGER_PIN, GPIO.OUT)
-threshold = 1000
+threshold = 500 # 10k ohm pull-up resistor between analog output (AO) and MCP3008
 
 # Open SPI bus
 spi = spidev.SpiDev()
