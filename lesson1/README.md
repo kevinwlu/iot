@@ -4,16 +4,16 @@
 
 * IoT architecture source: [IERC-European Research Cluster on the Internet of Things](http://www.internet-of-things-research.eu/pdf/IoT-From%20Research%20and%20Innovation%20to%20Market%20Deployment_IERC_Cluster_eBook_978-87-93102-95-8_P.pdf)
 
-## Lab 1A: NOOBS and Wi-Fi
+## Lab 1A: Raspberry Pi and Wi-Fi
 
 ### 1. [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32 GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system only (cannot use SDXC cards with [exFAT](https://en.wikipedia.org/wiki/ExFAT))
 
-### 2. On a laptop, download the latest New Out-Of-Box Software ([NOOBS](https://www.raspberrypi.org/downloads/noobs/)) zip file and extract the zip file to a folder
+### 2. On a laptop, download the latest [Raspberry Pi OS](https://www.raspberrypi.org/software/operating-systems/) imager or image with desktop and recommended software and extract the zip file to a folder
 
 * Insert a new or reformatted SD card, go to the folder, select all items, then drag and drop them to the SD card
 * Eject the SD card properly, and insert it to Raspberry Pi SD card slot
 
-### 3. Install NOOBS by connecting Raspberry Pi to a monitor, keyboard, and mouse, then power on to access a [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) network
+### 3. Install Raspberry Pi OS by connecting Raspberry Pi to a monitor, keyboard, and mouse, then power on to access a [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) network
 
 * Click "Wifi network (w)," select "Stevens," enter Stevens Username and Password — once connected, more operating systems become available
 * Select "Raspbian Full [RECOMMENDED]" and "English (US) Language and Keyboard"
