@@ -23,6 +23,7 @@
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)
 * [Git](https://en.wikipedia.org/wiki/Git)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
+* [GitHub Pages](https://pages.github.com/)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
