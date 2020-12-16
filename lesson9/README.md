@@ -57,6 +57,41 @@ $
 
 ### IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
 
+### SSH -Y to Raspberry Pi, install Qiskit and copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
+
+```sh
+$ sudo sed -i 's/CONF_SWAPSIZE=100/CONF_SWAPSIZE=1024/' /etc/dphys-swapfile
+$ sudo /etc/init.d/dphys-swapfile stop
+$ sudo /etc/init.d/dphys-swapfile start
+$ pip3 install setuptools-rust
+$ curl -o get_rustup.sh -s https://sh.rustup.rs
+$ sh ./get_rustup.sh -y
+$ source ~/.cargo/env
+$ pip3 install --prefer-binary retworkx
+$ sudo apt -y install cmake libatlas-base-dev git
+$ git clone https://github.com/sunqm/libcint.git
+$ mkdir -p libcint/build && cd libcint/build
+$ cmake -DCMAKE_INSTALL_PREFIX:PATH=/usr/local/ ..
+$ sudo make install
+$ cd
+$ pip3 install --prefer-binary pyscf cython
+$ pip3 install --prefer-binary qiskit-terra
+$ pip3 install --prefer-binary qiskit-ignis
+$ pip3 install --prefer-binary qiskit-ibmq-provider
+$ pip3 install --prefer-binary qiskit-aqua
+$ pip3 install --prefer-binary qiskit-aer
+$ pip3 install --prefer-binary qiskit[visualization]
+$ python3
+>>> from qiskit import IBMQ
+>>> IBMQ.save_account('MY_API_TOKEN')
+>>> exit()
+$ cd ~/iot/lesson9
+$ python3 qiskit_terra_example.py
+$ python3 qiskit_aer_example.py
+$ python3 qiskit_aqua_example.py
+$ python3 qiskit_ignis_example.py
+```
+
 ### Alternatively on macOS, install Qiskit and copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
 
 ```sh
