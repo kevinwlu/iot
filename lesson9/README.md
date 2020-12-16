@@ -57,7 +57,7 @@ $
 
 ### IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
 
-### SSH -Y to Raspberry Pi, install Qiskit and copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
+### SSH -Y to Raspberry Pi, follow [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133) to install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
 
 ```sh
 $ sudo sed -i 's/CONF_SWAPSIZE=100/CONF_SWAPSIZE=1024/' /etc/dphys-swapfile
