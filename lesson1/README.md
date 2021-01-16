@@ -8,7 +8,7 @@
 
 ### 1. [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32 GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system only (cannot use SDXC cards with [exFAT](https://en.wikipedia.org/wiki/ExFAT))
 
-### 2. On a laptop, download the latest [Raspberry Pi OS](https://www.raspberrypi.org/software/operating-systems/) imager or image with desktop and recommended software and extract the zip file to a folder
+### 2. On a laptop, download the latest [Raspberry Pi OS](https://www.raspberrypi.org/software/) imager and install Raspberry Pi OS with desktop and recommended software on an SD card
 
 * Insert a new or reformatted SD card, go to the folder, select all items, then drag and drop them to the SD card
 * Eject the SD card properly, and insert it to Raspberry Pi SD card slot
