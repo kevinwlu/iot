@@ -1,6 +1,47 @@
-# 2020 Fall
+# 2021 Spring
 
 * 
+
+# 2020 Fall
+
+* [Machine Lifetime Prediction Using Pi Camera and Google Cloud](https://github.com/ace26597/EE-629-Project_Augmented-Reality-based-Smart-Manufacuturing)
+* [Face Identification Based on JavaScript](https://github.com/Jugram-Chen/EE629Project)
+* [DIY Nest Smart Thermosta](https://github.com/ndimaria/IoT)
+* [Home Security Camera](https://github.com/HenryFung-SIT/EE-629-Repository)
+* [Recommendation System for Instacart](https://github.com/ShengyuHu/EE629/tree/master/Project)
+* [Machine Olfactory System for Human Activity Recognition](https://github.com/xhu29/EE629-IoT)
+* [Smart Home Automation Based on Home-Assistant.io](https://github.com/Gry1995/Iot-Project)
+* [Motion-Triggered Safety System](https://github.com/rasalaslu/EE-629)
+* [IoT Garden Monitor](https://github.com/gmohamedstevens/EE629_IoT_Garden)
+* [LCD Displays Using I2C Protocol](https://github.com/gousemoodhin/EE629_course)
+* [Mobile Gyroscope Controlled Surveillance Robot Using Raspberry Pi](https://github.com/SenSudi/EE-629-IoT/tree/FinalProject-RaspberryPi_robot)
+* [Distance Measurement and Weather Information](https://github.com/abdulellah8777/EE-629-project)
+* [Pi Weather Information Screen](https://github.com/henry90/EE-629_IoT)
+* [Security Camera](https://github.com/ashokouh/EE-629A)
+* [Amazon Comments Analysis](https://github.com/JYS333/AmazonCommentsAnalysis)
+* [Using Fitbit's API to Acquire, Visualize, and Analyze Data in Python](https://github.com/tehreemt/EE629-InternetOfThings/tree/master/Final_Project)
+* [Temperature and Social Distancing Monitoring Device](https://github.com/drouendal/EE629DVR)
+* [IoT Video Processing Based on Hardware](https://github.com/Crispangle/EE629-IOT/tree/master/project)
+* [Smart Flask Mailer](https://github.com/MingyuYao/EE629-IoT/tree/master/Project)
+* [Online Air Conditioning Control System Based on Aliyun and Raspberry Pi](https://github.com/ChenjieJia/IOT_CJ1)
+* [Using HC-SR04 and Arduino UNO to Measure Distance](https://github.com/jyfly819/jyfly/tree/master/project)
+* [Online Insurance System](https://github.com/kongdayan/EE-629-IoT)
+* [Face Detection and Intranet Penetration](https://github.com/Ostrich96/iot-JichenLi)
+* [Controlling the LED by Gesture](https://github.com/15522361091/EE629-IoT)
+* [Video Monitor on a Raspberry Pi](https://github.com/YUEQIN18/IoT)
+* [Play Music on Raspberry Pi by Python](https://github.com/Yipeng-sun97/IOT)
+* [Mask Detection](https://github.com/alitootoon/Mask-detection)
+* [Real-Time Video Streaming Based on Flask](https://github.com/JiaqiTu/EE629-IOT)
+* [LAN Instant Communication System Based on Raspberry Pi](https://github.com/plkjiet/mygit)
+* [Weather Reporting System](https://github.com/kai-w0/EE629/tree/master/project)
+* [Face Recognition](https://github.com/Xeyi/EE-IoT)
+* [Facial Recognition Using Raspberry Pi](https://github.com/bxiong1/stevensEE629)
+* [Remote Control of Personal Computers via Emails](https://github.com/diy16102/iot.ydc)
+* [Temperature and Humidity Monitor](https://github.com/yijirong/iot)
+* [Face Recognition](https://github.com/fzxqb/EE629)
+* [Face Recognition](https://github.com/SteveZwl/Face-Recognition)
+* [CPU Temperature Log](https://github.com/mackenzie4148/Temperature-Log)
+* [Face Recognition](https://github.com/Dongfang777/EE629)
 
 # 2020 Summer
 
