@@ -43,8 +43,8 @@
 
 * [IEEE Standards Association IoT Initiatives](https://standards.ieee.org/initiatives/iot/index.html)
 * [IEEE IoT Architecture Working Group](https://sagroups.ieee.org/2413/)
-* [IEEE IoT related standards](https://standards.ieee.org/initiatives/iot/stds.html)
-* [IEEE IoT related standards in development](https://standards.ieee.org/initiatives/iot/projects.html)
+* [IEEE IoT Related Standards](https://standards.ieee.org/initiatives/iot/stds.html)
+* [IEEE IoT Related Standards in Development](https://standards.ieee.org/initiatives/iot/projects.html)
 
 ## Courses (Google Sites)
 * [ECOES: Exploring Career Options in Engineering and Science](https://sites.google.com/view/ece-ecoes)
