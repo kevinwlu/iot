@@ -8,6 +8,7 @@
 * [Machine Olfactory System for Human Activity Recognition](https://github.com/xhu29/EE629-IoT)
 * [Smart Home Automation Based on Home-Assistant.io](https://github.com/Gry1995/Iot-Project)
 * [Motion-Triggered Safety System](https://github.com/rasalaslu/EE-629)
+* [COVID-19 Tracker Application With Flask Hosted on AWS](https://github.com/mzq737/COVID-19-Tracker)
 * [IoT Garden Monitor](https://github.com/gmohamedstevens/EE629_IoT_Garden)
 * [LCD Displays Using I2C Protocol](https://github.com/gousemoodhin/EE629_course)
 * [Mobile Gyroscope Controlled Surveillance Robot Using Raspberry Pi](https://github.com/SenSudi/EE-629-IoT/tree/FinalProject-RaspberryPi_robot)
