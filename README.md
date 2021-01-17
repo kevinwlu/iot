@@ -39,6 +39,13 @@
 * [IBM Watson IoT](https://github.com/ibm-watson-iot)
 * [Intel IoT Developer Kit](https://github.com/intel-iot-devkit)
 
+## Standards
+
+* [IEEE Standards Association IoT Initiatives](https://standards.ieee.org/initiatives/iot/index.html)
+* [IEEE IoT Architecture Working Group](https://sagroups.ieee.org/2413/)
+* [IEEE IoT related standards](https://standards.ieee.org/initiatives/iot/stds.html)
+* [IEEE IoT related standards in development](https://standards.ieee.org/initiatives/iot/projects.html)
+
 ## Courses (Google Sites)
 * [ECOES: Exploring Career Options in Engineering and Science](https://sites.google.com/view/ece-ecoes)
 * [Engineering Design VI](https://sites.google.com/view/ece322)
