@@ -12,7 +12,7 @@
 * [Lesson 9](https://github.com/kevinwlu/iot/tree/master/lesson9): NETCONF and YANG
 * [Lesson 10](https://github.com/kevinwlu/iot/tree/master/lesson10): Blockchain
 * [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
-* [Special Problems](https://github.com/kevinwlu/iot/tree/master/projects)
+* [Special problems](https://github.com/kevinwlu/iot/tree/master/projects)
 
 ## References
 * [Hands-on books series](http://www.hands-on-books-series.com)
@@ -41,10 +41,10 @@
 
 ## Standards
 
-* [IEEE Standards Association IoT Initiatives](https://standards.ieee.org/initiatives/iot/index.html)
+* [IEEE Standards Association IoT initiatives](https://standards.ieee.org/initiatives/iot/index.html)
 * [IEEE IoT Architecture Working Group](https://sagroups.ieee.org/2413/)
-* [IEEE IoT Related Standards](https://standards.ieee.org/initiatives/iot/stds.html)
-* [IEEE IoT Related Standards in Development](https://standards.ieee.org/initiatives/iot/projects.html)
+* [IEEE IoT related standards](https://standards.ieee.org/initiatives/iot/stds.html)
+* [IEEE IoT related standards in development](https://standards.ieee.org/initiatives/iot/projects.html)
 
 ## Courses (Google Sites)
 * [ECOES: Exploring Career Options in Engineering and Science](https://sites.google.com/view/ece-ecoes)
