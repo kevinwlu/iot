@@ -34,10 +34,10 @@
 * [ThingsBoard](https://github.com/thingsboard)
 * [Microsoft IoT](https://github.com/ms-iot)
 * [Awesome IoT](https://github.com/phodal/awesome-iot)
-* [Awesome IoT Projects](https://github.com/phodal/awesome-iot-projects)
-* [.NET Core IoT Libraries](https://github.com/dotnet/iot)
+* [Awesome IoT projects](https://github.com/phodal/awesome-iot-projects)
+* [.NET Core IoT libraries](https://github.com/dotnet/iot)
 * [IBM Watson IoT](https://github.com/ibm-watson-iot)
-* [Intel IoT Developer Kit](https://github.com/intel-iot-devkit)
+* [Intel IoT developer kit](https://github.com/intel-iot-devkit)
 
 ## Standards
 
