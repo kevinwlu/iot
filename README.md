@@ -12,6 +12,7 @@
 * [Lesson 9](https://github.com/kevinwlu/iot/tree/master/lesson9): NETCONF and YANG
 * [Lesson 10](https://github.com/kevinwlu/iot/tree/master/lesson10): Blockchain
 * [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
+* [Special Problems](https://github.com/kevinwlu/iot/tree/master/projects)
 
 ## References
 * [Hands-on books series](http://www.hands-on-books-series.com)
