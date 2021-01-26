@@ -5,6 +5,7 @@
 * [Unicode](https://en.wikipedia.org/wiki/Unicode)
 * [PyPy](https://en.wikipedia.org/wiki/PyPy)
 * [MicroPython](https://en.wikipedia.org/wiki/MicroPython)
+* [CircuitPython](https://en.wikipedia.org/wiki/CircuitPython)
 * [Doxygen](https://en.wikipedia.org/wiki/Doxygen)
 
 ## Lab 3A: Python
