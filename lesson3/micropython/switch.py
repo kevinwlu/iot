@@ -4,6 +4,7 @@ import utime
     button = machine.Pin(14, machine.Pin.IN)
 while True:
     if button.value() == 1:
+        print("You pressed the button!")
         led_external.value(1)
         utime.sleep(2)
     led_external.value(0)
