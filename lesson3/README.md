@@ -4,6 +4,7 @@
 * [CPython](https://en.wikipedia.org/wiki/CPython)
 * [Unicode](https://en.wikipedia.org/wiki/Unicode)
 * [PyPy](https://en.wikipedia.org/wiki/PyPy)
+* [MicroPython](https://en.wikipedia.org/wiki/MicroPython)
 * [Doxygen](https://en.wikipedia.org/wiki/Doxygen)
 
 ## Lab 3A: Python
