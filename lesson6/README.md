@@ -6,7 +6,18 @@
 * [Node-RED](https://en.wikipedia.org/wiki/Node-RED)
 * [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack))
 
-## Lab 6A: Particle Cloud
+## Lab 6A: Node.js
+
+### Run and view Node.js server at http://127.0.0.1:8080 on Raspberry Pi via VNC viewer or directly at http://192.168.x.xxx:8080 on a laptop computer
+```sh
+$ node -h
+$ node -v
+$ cd ~/iot/lesson6
+$ node hello.js
+$ node http.js
+```
+
+## Lab 6B: Particle Cloud
 
 [The Particle on Raspberry Pi project has been discontinued](https://docs.particle.io/datasheets/discontinued/raspberry-pi/)
 
@@ -40,15 +51,4 @@ $ particle login
 $ particle call <device_name> digitalwrite D7=HIGH
 $ particle call <device_name> digitalwrite D7=LOW
 $ particle logout
-```
-
-## Lab 6B: Node.js
-
-### Run and view Node.js server at http://127.0.0.1:8080 on Raspberry Pi via VNC viewer or directly at http://192.168.x.xxx:8080 on a laptop computer
-```sh
-$ node -h
-$ node -v
-$ cd ~/iot/lesson6
-$ node hello.js
-$ node http.js
 ```
