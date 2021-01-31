@@ -2,9 +2,13 @@
 
 * [Arduino](https://en.wikipedia.org/wiki/Arduino)
 * [BeagleBoard](https://en.wikipedia.org/wiki/BeagleBoard)
+* [RSP8266](https://en.wikipedia.org/wiki/ESP8266)
+* [Hayes command set](https://en.wikipedia.org/wiki/Hayes_command_set)
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
 * [Node-RED](https://en.wikipedia.org/wiki/Node-RED)
+* [MATLAB Mobile](https://www.mathworks.com/products/matlab-mobile.html)
 * [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack))
+* [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
 
 ## Lab 6A: Node.js
 
@@ -19,7 +23,7 @@ $ node http.js
 
 ## Lab 6B: Particle Cloud
 
-[The Particle on Raspberry Pi project has been discontinued](https://docs.particle.io/datasheets/discontinued/raspberry-pi/)
+[The Particle on Raspberry Pi project has been discontinued](https://docs.particle.io/raspberry-pi/)
 
 ### Sign up and log in Particle at https://www.particle.io
 
