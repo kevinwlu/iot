@@ -17,12 +17,11 @@
 
 * Avram Piltch, [How to Set Up a Headless Raspberry Pi, Without Ever Attaching a Monitor](https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html), June 25, 2020
 
-#### Set up Raspberry Pi using a display, keyboard, and mouse
+#### Set up Raspberry Pi with a display, keyboard, and mouse
 
-* Power on to access a [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) network
-* Click "Wifi network (w)," select "Stevens," enter Stevens Username and Password — once connected, more operating systems become available
+* Connect power to Raspberry Pi and access a [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) network
 * Select "Raspbian Full [RECOMMENDED]" and "English (US) Language and Keyboard"
-* Click "Install (i)" and OK — installable without the internet access
+* Click "Install (i)" and OK
 * Click OK after "OS(es) Installed Successfully" to reboot
 
 ### 4. After reboot, change Password (default: raspberry) and skip Wi-Fi (that has been set up) and update (that may take a while)
