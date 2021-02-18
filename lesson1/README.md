@@ -13,8 +13,13 @@
 * Insert a new or reformatted SD card, go to the folder, select all items, then drag and drop them to the SD card
 * Eject the SD card properly, and insert it to Raspberry Pi SD card slot
 
-### 3. Install Raspberry Pi OS by connecting Raspberry Pi to a monitor, keyboard, and mouse, then power on to access a [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) network
+### 3. Install Raspberry Pi OS
 
+* Avram Piltch, [How to Set Up a Headless Raspberry Pi, Without Ever Attaching a Monitor](https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html), June 25, 2020
+
+#### Set up Raspberry Pi using a display, keyboard, and mouse
+
+* Power on to access a [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) network
 * Click "Wifi network (w)," select "Stevens," enter Stevens Username and Password — once connected, more operating systems become available
 * Select "Raspbian Full [RECOMMENDED]" and "English (US) Language and Keyboard"
 * Click "Install (i)" and OK — installable without the internet access
