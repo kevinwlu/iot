@@ -17,7 +17,7 @@
 
 * Avram Piltch, [How to Set Up a Headless Raspberry Pi, Without Ever Attaching a Monitor](https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html), June 25, 2020
 
-#### Set up Raspberry Pi with a display, keyboard, and mouse
+#### Alternatively, set up Raspberry Pi with a display, keyboard, and mouse
 
 * Connect power to Raspberry Pi and access a [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) network
 * Select "Raspbian Full [RECOMMENDED]" and "English (US) Language and Keyboard"
