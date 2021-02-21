@@ -10,7 +10,7 @@
 
 #### [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32 GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system only (cannot use SDXC cards with [exFAT](https://en.wikipedia.org/wiki/ExFAT))
 
-* Insert the SD card to the laptop computer
+* Insert an SD card to the laptop computer
 * Click "CHOOSE OS" and select "Raspberry Pi OS (32-bit)" or "Erase (Format card as FAT32)"
 * Click "CHOOSE SD CARD" and select the SD card
 * Click "WRITE"
