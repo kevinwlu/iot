@@ -6,29 +6,36 @@
 
 ## Lab 1A: Raspberry Pi and Wi-Fi
 
-### 1. [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32 GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system only (cannot use SDXC cards with [exFAT](https://en.wikipedia.org/wiki/ExFAT))
+### 1. On a laptop computer, download and open [Raspberry Pi Imager](https://www.raspberrypi.org/software/) 
 
-### 2. On a laptop, download [Raspberry Pi Imager](https://www.raspberrypi.org/software/) and install Raspberry Pi OS with desktop and recommended software on an SD card
+#### [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32 GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system only (cannot use SDXC cards with [exFAT](https://en.wikipedia.org/wiki/ExFAT))
 
-* Insert a new or reformatted SD card, go to the folder, select all items, then drag and drop them to the SD card
-* Eject the SD card properly, and insert it to Raspberry Pi SD card slot
+* Insert the SD card to the laptop computer
+* Click "CHOOSE OS" and select "Raspberry Pi OS (32-bit)" or "Erase (Format card as FAT32)"
+* Click "CHOOSE SD CARD" and select the SD card
+* Click "WRITE"
+* Eject the SD card properly
 
-### 3. Install Raspberry Pi OS
+### 2. Boot up a Raspberry Pi with the SD card for the first time
 
-*  Connect Raspberry Pi with a display, keyboard, and mouse 
-*  Connect power to Raspberry Pi 
+* Insert the SD card to the Raspberry Pi SD card slot
+* Connect the Raspberry Pi with a display, keyboard, and mouse 
+* Connect power to the Raspberry Pi
 
 #### Alternatively, set up Raspberry Pi without a display, keyboard, and mouse
 
 * Avram Piltch, [How to Set Up a Headless Raspberry Pi, Without Ever Attaching a Monitor](https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html), June 25, 2020
 
-### 4. Change Password (default: raspberry), set up Wi-Fi, and update software (that may take a while)
+### 3. Set up Raspberry Pi OS
 
-* Select a [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) network
-* Select English (US) Language and Keyboard
-* Click OK to reboot
+* Select "Use English language" and "Use US keyboard"
+* Change password (default: raspberry)
+* Select if "This screen shows a black border around the desktop"
+* Select wirless network and enter wireless network password
+* Update software (it may take a while)
+* Click "Restart" to reboot
 
-### 5. Point (not click) the curser to the Wi-Fi icon at the right of the menu bar to see and write down the [IP address](https://en.wikipedia.org/wiki/IP_address) such as 192.168.x.xxx excluding the CIDR ([Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)) notation of /24 suffix that indicates the number of bits of the prefix
+### 4. Point (not click) the curser to the Wi-Fi icon at the right of the menu bar to see and write down the [IP address](https://en.wikipedia.org/wiki/IP_address) such as 192.168.x.xxx excluding the CIDR ([Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)) notation of /24 suffix that indicates the number of bits of the prefix
 
 ## Lab 1B: Configuration
 
