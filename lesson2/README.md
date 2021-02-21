@@ -32,7 +32,7 @@ $ sudo reboot
 
 ### 2. Serial [loopback](https://en.wikipedia.org/wiki/Loopback) test
 
-![rpi4b_tx_rx.png](https://github.com/kevinwlu/iot/blob/master/lesson2/rpi_tx_rx.png)
+![rpi4b_tx_rx.png](https://github.com/kevinwlu/iot/blob/master/lesson2/rpi4b_tx_rx.png)
 
 * Connect two serial pins (the 4th and 5th pins from the left of the top row) using one DuPont female-to-female [jump wires](https://en.wikipedia.org/wiki/Jump_wire)
 
