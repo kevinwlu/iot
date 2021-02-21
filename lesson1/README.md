@@ -28,11 +28,12 @@
 
 ### 3. Set up Raspberry Pi OS
 
-* Select "Use English language" and "Use US keyboard"
+* Set country, language, and timezone
+* Select "Use English language" and "Use US keyboard" if applicable
 * Change password (default: raspberry)
 * Select if "This screen shows a black border around the desktop"
 * Select wirless network and enter wireless network password
-* Update software (it may take a while)
+* Check and update software if necessary (this may involve a large download)
 * Click "Restart" to reboot
 
 ### 4. Point (not click) the curser to the Wi-Fi icon at the right of the menu bar to see and write down the [IP address](https://en.wikipedia.org/wiki/IP_address) such as 192.168.x.xxx excluding the CIDR ([Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)) notation of /24 suffix that indicates the number of bits of the prefix
@@ -48,13 +49,13 @@
 
 ### 2. Raspberry Pi Configuration > Display
 
-* Disable "[Overscan](https://en.wikipedia.org/wiki/Overscan)" if there is a black border on the display
+* Disable "[Overscan](https://en.wikipedia.org/wiki/Overscan)" if the screen shows a black border around the desktop
 * Disable "Pixel Doubling" (default)
-* Disable "[Composite Video](https://en.wikipedia.org/wiki/Composite_video)" (default)
 * Enable "Screen Blanking" (default)
 
 ### 3. Raspberry Pi Configuration > Interfaces
 
+* Enable Camera to use J3 Camera Serial Interface (CSI) 
 * Enable SSH, VNC, SPI, I2C, Serial Port, 1-Wire, and Remote GPIO
 * Disable Serial Console
 
