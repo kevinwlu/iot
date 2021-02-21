@@ -31,7 +31,7 @@
 * Set country, language, and timezone
 * Select "Use English language" and "Use US keyboard" if applicable
 * Change password (default: raspberry)
-* Select if "This screen shows a black border around the desktop"
+* Select if "this screen shows a black border around the desktop"
 * Select wirless network and enter wireless network password
 * Check and update software if necessary (this may involve a large download)
 * Click "Restart" to reboot
