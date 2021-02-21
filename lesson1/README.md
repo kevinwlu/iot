@@ -113,10 +113,9 @@ $ sudo reboot
 
 ### 3. Check RECIPIENT_EMAIL for Hostname IP address
 
-If not, make sure /lib/systemd/system/rc-local.service is executable
+If not receiving an email from the Raspberry Pi, make sure startup_mailer.py is working
 ```sh
-$ ls -l /lib/systemd/system/rc-local.service
-$ sudo chmod +x /lib/systemd/system/rc-local.service
+$ python3 ~/startup_mailer.py
 ```
 
 ### 4. Disconnect the monitor, keyboard, and mouse
