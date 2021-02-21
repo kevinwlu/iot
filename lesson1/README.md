@@ -36,7 +36,7 @@
 * Check and update software if necessary (this may involve a large download)
 * Click "Restart" to reboot
 
-### 4. Point (not click) the curser to the Wi-Fi icon at the right of the menu bar to see and write down the [IP address](https://en.wikipedia.org/wiki/IP_address) such as 192.168.x.xxx excluding the CIDR ([Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)) notation of /24 suffix that indicates the number of bits of the prefix
+#### Point (not click) the curser to the Wi-Fi icon at the right of the menu bar to see and write down the [IP address](https://en.wikipedia.org/wiki/IP_address) such as 192.168.x.xxx excluding the CIDR ([Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)) notation of /24 suffix that indicates the number of bits of the prefix
 
 ## Lab 1B: Configuration
 
@@ -59,9 +59,7 @@
 * Enable SSH, VNC, SPI, I2C, Serial Port, 1-Wire, and Remote GPIO
 * Disable Serial Console
 
-### 4. Click OK
-
-### 5. Click Yes for "Would you like to reboot now?"
+### 4. Click OK and click Yes for "Would you like to reboot now?"
 
 ## Lab 1C: Startup Mailer
 * The following steps that require the internet access are necessary only if the IP address of Raspberry Pi is unknown
