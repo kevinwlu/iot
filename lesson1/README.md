@@ -100,14 +100,16 @@ fi
 ```sh
 $ sudo reboot
 ```
-### 3. Make /lib/systemd/system/rc-local.service executable if it's not
+
+### 3. Check RECIPIENT_EMAIL for Hostname IP address
+
+If not, make sure /lib/systemd/system/rc-local.service is executable
 ```sh
 $ ls -l /lib/systemd/system/rc-local.service
 $ sudo chmod +x /lib/systemd/system/rc-local.service
 ```
-### 4. Check RECIPIENT_EMAIL for Hostname IP address
 
-### 5. Disconnect the monitor, keyboard, and mouse
+### 4. Disconnect the monitor, keyboard, and mouse
 
 ## Lab 1D: [SSH](https://en.wikipedia.org/wiki/Secure_Shell) and [VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing)
 
