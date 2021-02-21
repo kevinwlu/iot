@@ -76,7 +76,7 @@ control-a x
 
 ## Lab 2B: Serial peripheral interface (SPI)
 
-* Connect the SPI MOSI and MISO pins (the 10th and 11th pins from the left of the bottom row) using one DuPont female-to-female jump wire
+* Connect the SPI COPI and CIPO pins (the 10th and 11th pins from the left of the bottom row) using one DuPont female-to-female jump wire
 
 ![spi.png](https://github.com/kevinwlu/iot/blob/master/lesson2/spi.png)
 
