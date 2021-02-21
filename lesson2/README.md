@@ -34,7 +34,7 @@ $ sudo reboot
 
 * Connect two serial pins (the 4th and 5th pins from the left of the top row) using one DuPont female-to-female [jump wires](https://en.wikipedia.org/wiki/Jump_wire)
 
-![rpi4b_tx_rx.png](https://github.com/kevinwlu/iot/blob/master/lesson2/rpi4b_tx_rx.png)
+![serial.png](https://github.com/kevinwlu/iot/blob/master/lesson2/serial.png)
 
 * Install and run [Minicom](https://en.wikipedia.org/wiki/Minicom)
 ```sh
@@ -77,6 +77,9 @@ control-a x
 ## Lab 2B: Serial peripheral interface (SPI)
 
 * Connect the SPI MOSI and MISO pins (the 10th and 11th pins from the left of the bottom row) using one DuPont female-to-female jump wire
+
+![spi.png](https://github.com/kevinwlu/iot/blob/master/lesson2/spi.png)
+
 * Enter the following three commands on a Terminal:
 ```sh
 $ wget https://raw.githubusercontent.com/raspberrypi/linux/rpi-3.10.y/Documentation/spi/spidev_test.c
