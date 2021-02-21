@@ -56,7 +56,7 @@
 ## Lab 1C: Startup Mailer
 * The following steps that require the internet access are necessary only if the IP address of Raspberry Pi is unknown
 
-### 1. Enable Google 2-Step Verification and generate a Google App password
+### 1. Enable Google 2-Step Verification and generate a Google App 16-letter password
 
 * My Account > Sign-in & security > Signing in to Google > 
 * 2-Step Verification > TURN ON > Select a second verification step > Authenticator app (Default)
@@ -81,11 +81,12 @@ $ cp ~/iot/lesson1/startup_mailer.py .
 ```
 * "~" represents the directory /home/pi
 * "." represents the current directory
+* ".." represents the parent directory
 ```sh
 $ nano startup_mailer.py
 ```
 * Change RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD
-* Replace HOSTNAME with the new Hostname
+* Replace HOSTNAME with the new Hostname in two instances
 * Save the file by typing "control-x y enter"
 ```sh
 $ sudo nano /etc/rc.local
