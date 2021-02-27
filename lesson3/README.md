@@ -74,7 +74,7 @@ $ python3 socket_client.py '192.168.x.xxx'
 
 ### 1. Connect the breadboard to Raspberry Pi 3V3, GND, GPIO 18, GPIO 24, and GPIO 25 using five DuPont male-to-female jump wires
 
-![lesson3_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson3/lesson3_bb.png)
+![ldr.png](https://github.com/kevinwlu/iot/blob/master/lesson3/ldr.png)
 
 ### 2. Run the following three python programs
 ```sh
