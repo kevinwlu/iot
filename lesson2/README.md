@@ -106,7 +106,7 @@ F0 0D
 
 ### 2. Longer lead (+) of the LED to GPIO 18, the 6th pin from the left of the top row
 
-![lesson2_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/lesson2_bb.png)
+![led_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/lesson2_bb.png)
 
 ## Lab 2D: Light-emitting diode (LED)
 
