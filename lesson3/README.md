@@ -122,7 +122,7 @@ $ GPIOZERO_PIN_FACTORY=pigpio PIGPIO_ADDR=<CONTROLLED_ADDRESS> python3 led.py
 ![1-wire_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson3/1-wire_bb.png)
 
 ```h
-pi@raspberrypi ~/iot/lesson3 $ python3 temperature.py
+pi@raspberrypi:~/iot/lesson3 $ python3 temperature.py
 ```
 
 ## Lab 3E: PyPy
