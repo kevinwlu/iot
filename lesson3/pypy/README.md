@@ -1,6 +1,6 @@
 # PyPy
 
-Most Python code runs well on [PyPy](https://en.wikipedia.org/wiki/PyPy) except for code that depends on CPython extensions, which either does not work or incurs some overhead when run in PyPy.
+Most Python code runs well on [PyPy](https://en.wikipedia.org/wiki/PyPy) except for code that depends on [CPython](https://en.wikipedia.org/wiki/CPython) extensions, which either does not work or incurs some overhead when run in PyPy.
 
 ```sh
 $ gcc -o test test.c
