@@ -1,3 +1,3 @@
 # MicroPython on Raspberry Pi Pico
 
-[*Get Started With MicroPython on Raspberry Pi Pico*](https://hackspace.raspberrypi.org/books/micropython-pico)
+Gareth Halfacree and Ben Everard, [*Get Started With MicroPython on Raspberry Pi Pico*](https://hackspace.raspberrypi.org/books/micropython-pico), 2021
