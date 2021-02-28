@@ -201,6 +201,7 @@ $ fswebcam -r 1280x720 --no-banner image3.jpg
 
 ### Connect a USB microphone and 3.5-mm headphones to Raspberry Pi
 ```sh
+$ man arecord
 $ arecord -l
 **** List of CAPTURE Hardware Devices ****
 card 1: Device [USB PnP Sound Device], device 0: USB Audio [USB Audio]
@@ -218,6 +219,7 @@ card 0: Headphones [bcm2835 Headphones], device 0: bcm2835 Headphones [bcm2835 H
   Subdevice #5: subdevice #5
   Subdevice #6: subdevice #6
   Subdevice #7: subdevice #7
-$ arecord --device=hw:1,0 --format S16_LE --rate 44100 -c1 test.wav
+$ arecord --device=hw:1,0 --format S16_LE --rate 44100 -c1 test.wavq
+control-c
 $ aplay test.wav
 ```
