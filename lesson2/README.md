@@ -219,7 +219,7 @@ card 0: Headphones [bcm2835 Headphones], device 0: bcm2835 Headphones [bcm2835 H
   Subdevice #5: subdevice #5
   Subdevice #6: subdevice #6
   Subdevice #7: subdevice #7
-$ arecord --device=hw:1,0 --format S16_LE --rate 44100 -c1 test.wavq
+$ arecord --device=hw:1,0 --format S16_LE --rate 44100 -c1 test.wav
 control-c
 $ aplay test.wav
 ```
