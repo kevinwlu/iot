@@ -1,7 +1,7 @@
 import machine
 import utime
     led_external = machine.Pin(15, machine.Pin.OUT)
-    button = machine.Pin(14, machine.Pin.IN)
+    button = machine.Pin(14, machine.Pin.IN, machine.Pin.PULL_DOWN)
 while True:
     if button.value() == 1:
         print("You pressed the button!")
