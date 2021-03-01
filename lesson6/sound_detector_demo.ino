@@ -4,6 +4,7 @@
  * Byron Jacquot @ SparkFun Electronics
  * February 19, 2014
  * https://github.com/sparkfun/Sound_Detector
+ * https://learn.sparkfun.com/tutorials/sound-detector-hookup-guide
  * 
  * This sketch demonstrates the use of the Sparkfun Sound Detector board.
  *
