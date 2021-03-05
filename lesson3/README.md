@@ -72,7 +72,7 @@ $ python3 socket_client.py '192.168.x.xxx'
 ```
 ## Lab 3B: Breadboard
 
-### 1. Connect the breadboard components (including a 1$\mu M$F capacitor) to Raspberry Pi 3V3, GND, GPIO 18, GPIO 24, and GPIO 25 using five DuPont male-to-female jump wires
+### 1. Connect the breadboard components (including a 1$\mu$F capacitor) to Raspberry Pi 3V3, GND, GPIO 18, GPIO 24, and GPIO 25 using five DuPont male-to-female jump wires
 
 ![ldr_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson3/ldr_bb.png)
 
