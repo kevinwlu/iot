@@ -20,7 +20,7 @@
 
 ## Lab 2A:  General-purpose input/output (GPIO) and serial communication
 
-### 1. Open a Terminal on macOS/Linux or [Git Bash](https://gitforwindows.org/) on Windows, and make sure Serial Council is disabled
+### 1. Open a Terminal on macOS/Linux or [Git Bash](https://gitforwindows.org/) on Windows, run SSH to login Raspberry Pi, and make sure Serial Council is disabled
 ```sh
 $ sudo nano /boot/cmdline.txt
 ```
