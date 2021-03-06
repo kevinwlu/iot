@@ -39,6 +39,7 @@ $ sudo reboot
 * Install and run [Minicom](https://en.wikipedia.org/wiki/Minicom)
 ```sh
 $ sudo apt install minicom
+$ man minicom
 $ minicom -b 115200 -o -D /dev/ttyS0
 ```
 * Enable new line
