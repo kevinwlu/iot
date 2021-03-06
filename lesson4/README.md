@@ -38,6 +38,14 @@ $ sudo apt install mariadb-server mariadb-client
 $ sudo apt install python3-mysqldb
 $ sudo pip3 install -U mysqlclient
 $ sudo mysql_secure_installation
+Enter current password for root (enter for none): 
+Set root password? [Y/n] 
+New password: 
+Re-enter new password: 
+Remove anonymous users? [Y/n] 
+Disallow root login remotely? [Y/n] 
+Remove test database and access to it? [Y/n] 
+Reload privilege tables now? [Y/n] 
 ```
 ### Start Django project [stevens](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens)
 ### Start Django REST project [myraspi](https://github.com/kevinwlu/iot/tree/master/lesson4/myraspi)
