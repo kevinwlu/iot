@@ -74,7 +74,7 @@ https://developers.google.com/maps/documentation/javascript/get-api-key
 
 https://churchthemes.com/page-didnt-load-google-maps-correctly
 
-## Edit index.html to add the API key
+## Edit index.html to add the Google Maps API key
 ```sh
 pi@raspberrypi:~/stevens/myapp/templates/myapp $ nano index.html
 ```
