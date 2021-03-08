@@ -7,32 +7,24 @@
 pi@raspberrypi:~ $ django-admin startproject weather
 pi@raspberrypi:~ $ cd weather
 pi@raspberrypi:~/weather $ ls
-```
 manage.py  weather
-
+```
 ## Start a Django app
 ```sh
 pi@raspberrypi:~/weather $ python3 manage.py startapp myapp
 pi@raspberrypi:~/weather $ ls
-```
 manage.py  myapp  weather
-
+```
 ## Create MySQL database
 ```sh
 pi@raspberrypi:~ $ sudo mysql -u root -p
-```
 Enter password: PASSWORD
-
 MariaDB [(none)]> use mysql
-
 MariaDB [mysql]> create user pi@localhost identified by 'PASSWORD';
-
 MariaDB [mysql]> create database weather;
-
 MariaDB [mysql]> grant all privileges on weather.* to pi@localhost;
-
 MariaDB [mysql]> quit
-
+```
 ## Edit settings.py in ~/weather/weather
 
 * Follow ~/iot/lesson4/weather/settings.txt
@@ -104,17 +96,12 @@ $ cd
 pi@raspberrypi:~/weather $ python3 manage.py makemigrations myapp
 pi@raspberrypi:~/weather $ python3 manage.py migrate
 pi@raspberrypi:~/weather $ python3 manage.py createsuperuser
-```
 Username (leave blank to use 'pi'):
-
 Email address: EMAIL_ADDRESS
-
 Password: PASSWORD
-
 Password (again): PASSWORD
-
 Superuser created successfully.
-
+```
 ## Terminal 1: Run Django server
 ```sh
 pi@raspberrypi:~/weather $ python3 manage.py runserver
