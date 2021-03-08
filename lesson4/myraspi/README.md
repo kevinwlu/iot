@@ -5,32 +5,24 @@
 pi@raspberrypi:~ $ django-admin startproject myraspi
 pi@raspberrypi:~ $ cd myraspi
 pi@raspberrypi:~/myraspi $ ls
-```
 manage.py  myraspi
-
+```
 ## Start a Django app
 ```sh
 pi@raspberrypi:~/myraspi $ python3 manage.py startapp myapp
 pi@raspberrypi:~/myraspi $ ls
-```
 manage.py  myapp  myraspi
-
+```
 ## Create MySQL database
 ```sh
 pi@raspberrypi:~ $ sudo mysql -u root -p
-```
 Enter password: PASSWORD
-
 MariaDB [(none)]> use mysql
-
 MariaDB [mysql]> create user pi@localhost identified by 'PASSWORD';
-
 MariaDB [mysql]> create database myraspi;
-
 MariaDB [mysql]> grant all privileges on myraspi.* to pi@localhost;
-
 MariaDB [mysql]> quit
-
+```
 ## Edit settings.py in ~/myraspi/myraspi as in settings.txt
 ```sh
 pi@raspberrypi:~/myraspi $ cd myraspi
@@ -93,17 +85,12 @@ $ sudo pip3 install -U psutil
 pi@raspberrypi:~/myraspi $ python3 manage.py makemigrations myapp
 pi@raspberrypi:~/myraspi $ python3 manage.py migrate
 pi@raspberrypi:~/myraspi $ python3 manage.py createsuperuser
-```
 Username (leave blank to use 'pi'):
-
 Email address: EMAIL_ADDRESS
-
 Password: PASSWORD
-
 Password (again): PASSWORD
-
 Superuser created successfully.
-
+```
 ## Run Django server
 ```sh
 pi@raspberrypi:~/myraspi $ python3 manage.py runserver
