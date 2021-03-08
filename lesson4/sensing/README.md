@@ -7,32 +7,24 @@ This project needs a door sensor and a PIR (passive infrared) motion sensor such
 pi@raspberrypi:~ $ django-admin startproject sensing
 pi@raspberrypi:~ $ cd sensing
 pi@raspberrypi:~/sensing $ ls
-```
 manage.py  sensing
-
+```
 ## Start a Django app
 ```sh
 pi@raspberrypi:~/sensing $ python3 manage.py startapp myapp
 pi@raspberrypi:~/sensing $ ls
-```
 manage.py  myapp  sensing
-
+```
 ## Create MySQL database
 ```sh
 pi@raspberrypi:~ $ sudo mysql -u root -p
-```
 Enter password: PASSWORD
-
 MariaDB [(none)]> use mysql
-
 MariaDB [mysql]> create user pi@localhost identified by 'PASSWORD';
-
 MariaDB [mysql]> create database sensing;
-
 MariaDB [mysql]> grant all privileges on sensing.* to pi@localhost;
-
 MariaDB [mysql]> quit
-
+```
 ## Edit settings.py in ~/sensing/sensing
 
 * Follow ~/iot/lesson4/sensing/settings.txt
@@ -90,17 +82,12 @@ pi@raspberrypi:~/sensing $ nano controller.py
 pi@raspberrypi:~/snesing $ python3 manage.py makemigrations myapp
 pi@raspberrypi:~/sensing $ python3 manage.py migrate
 pi@raspberrypi:~/sensing $ python3 manage.py createsuperuser
-```
 Username (leave blank to use 'pi'):
-
 Email address: EMAIL_ADDRESS
-
 Password: PASSWORD
-
 Password (again): PASSWORD
-
 Superuser created successfully.
-
+```
 ## Terminal 1: Run Django server
 ```sh
 pi@raspberrypi:~/sensing $ python3 manage.py runserver
