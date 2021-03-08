@@ -8,16 +8,14 @@ MCP3008 analog-to-digital converter (ADC), and SRD-05VDC-SL-C relay.
 pi@raspberrypi:~ $ django-admin startproject lighting
 pi@raspberrypi:~ $ cd lighting
 pi@raspberrypi:~/lighting $ ls
-```
 manage.py  lighting
-
+```
 ## Start a Django app
 ```sh
 pi@raspberrypi:~/lighting $ python3 manage.py startapp myapp
 pi@raspberrypi:~/lighting $ ls
-```
 manage.py  myapp  lighting
-
+```
 ## Edit settings.py in ~/lighting/lighting
 
 * Follow ~/iot/lesson4/lighting/settings.txt
@@ -65,17 +63,12 @@ pi@raspberrypi:~/lighting $ cp ~/iot/lesson4/lighting/controller.py .
 pi@raspberrypi:~/lighting $ python3 manage.py makemigrations myapp
 pi@raspberrypi:~/lighting $ python3 manage.py migrate
 pi@raspberrypi:~/lighting $ python3 manage.py createsuperuser
-```
 Username (leave blank to use 'pi'):
-
 Email address: EMAIL_ADDRESS
-
 Password: PASSWORD
-
 Password (again): PASSWORD
-
 Superuser created successfully.
-
+```
 ## Terminal 1: Run Django server
 ```sh
 pi@raspberrypi:~/lighting $ python3 manage.py runserver
