@@ -24,11 +24,11 @@ def wordCount(contents):
                 wordCountDict[word] = wordCountDict[word] + 1
             else:
                 wordCountDict[word] = 1
-    print "Word Count: %d" % (wordCount)
+    print("Word Count: %d" % (wordCount))
     return wordCountDict
 def topTenWords(wordCountDict):
     topTenWords = sorted(wordCountDict.iteritems(), key=lambda x: -x[1])[:10]
-    print "Top Ten Words: " + str(topTenWords)
+    print("Top Ten Words: " + str(topTenWords))
 def main():
     filename = sys.argv[1]
     contents = readFile(filename)
