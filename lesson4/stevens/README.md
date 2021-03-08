@@ -85,17 +85,12 @@ pi@raspberrypi:~/stevens/myapp/static/myapp $ cd ~/stevens
 pi@raspberrypi:~/stevens $ python3 manage.py makemigrations myapp
 pi@raspberrypi:~/stevens $ python3 manage.py migrate
 pi@raspberrypi:~/stevens $ python3 manage.py createsuperuser
-```
 Username (leave blank to use 'pi'):
-
 Email address: EMAIL_ADDRESS
-
 Password: PASSWORD
-
 Password (again): PASSWORD
-
 Superuser created successfully.
-
+```
 ## Run Django server
 ```sh
 pi@raspberrypi:~/stevens $ python3 manage.py runserver
