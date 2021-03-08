@@ -20,7 +20,7 @@ def wordCount(contents):
         word = word.strip(string.punctuation)
         wordCount = wordCount + 1
         if not word in stopWords:
-            if wordCountDict.has_key(word):
+            if word in wordCountDict:
                 wordCountDict[word] = wordCountDict[word] + 1
             else:
                 wordCountDict[word] = 1
