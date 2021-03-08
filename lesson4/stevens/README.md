@@ -18,23 +18,15 @@ manage.py  myapp  stevens
 ## Create MySQL database
 ```sh
 pi@raspberrypi:~ $ sudo mysql -u root -p
-```
 Enter password: PASSWORD
-
 MariaDB [(none)]> use mysql
-
 MariaDB [mysql]> select user, host from mysql.user;
-
 MariaDB [mysql]> create user pi@localhost identified by 'PASSWORD';
-
 MariaDB [mysql]> show databases;
-
 MariaDB [mysql]> create database stevens;
-
 MariaDB [mysql]> grant all privileges on stevens.* to pi@localhost;
-
 MariaDB [mysql]> quit
-
+```
 ## Edit settings.py in ~/stevens/stevens
 
 * Follow ~/iot/lesson4/stevens/settings.txt
