@@ -57,6 +57,11 @@ Reload privilege tables now? [Y/n]
 
 ## Lab 4C: Flask
 
+### Run Flask server and open a Chromium browser via VNC Viewer and go to http://127.0.0.1:5000/
+```sh
+$ cd ~/iot/lesson4
+python3 hello_world.py
+```
 ### Terminal 1: Install [Flask-Ask](https://github.com/johnwheeler/flask-ask) and [Ngrok](https://ngrok.com/) for Alexa Skill Kit (ASK)
 ```sh
 $ sudo pip3 install -U flask-ask
