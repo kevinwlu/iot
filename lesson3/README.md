@@ -42,6 +42,7 @@ $ python address.py '40.74480675, -74.02532862031404'
 $ python documentstats.py document.txt
 ```
 ### On Raspberry Pi (or macOS or Linux) with both Python 2 and Python 3 preinstalled, run pip3 to install/upgrade packages, update the IoT repository, and run Python 3 programs
+#### Note: Don't upgrade Python or PIP on Raspberry Pi OS
 ```sh
 $ sudo pip3 install -U jdcal astral geopy
 $ cd iot
