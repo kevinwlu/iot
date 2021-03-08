@@ -27,7 +27,7 @@ def wordCount(contents):
     print("Word Count: %d" % (wordCount))
     return wordCountDict
 def topTenWords(wordCountDict):
-    topTenWords = sorted(wordCountDict.iteritems(), key=lambda x: -x[1])[:10]
+    topTenWords = sorted(wordCountDict.items(), key=lambda x: -x[1])[:10]
     print("Top Ten Words: " + str(topTenWords))
 def main():
     filename = sys.argv[1]
