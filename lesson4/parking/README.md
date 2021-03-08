@@ -9,32 +9,24 @@ https://www.adafruit.com/product/3942
 pi@raspberrypi:~ $ django-admin startproject parking
 pi@raspberrypi:~ $ cd parking
 pi@raspberrypi:~/parking $ ls
-```
 manage.py  parking
-
+```
 ## Start a Django app
 ```sh
 pi@raspberrypi:~/parking $ python3 manage.py startapp myapp
 pi@raspberrypi:~/parking $ ls
-```
 manage.py  myapp  parking
-
+```
 ## Create MySQL database
 ```sh
 pi@raspberrypi:~ $ sudo mysql -u root -p
-```
 Enter password: PASSWORD
-
 MariaDB [(none)]> use mysql
-
 MariaDB [mysql]> create user pi@localhost identified by 'PASSWORD';
-
 MariaDB [mysql]> create database parking;
-
 MariaDB [mysql]> grant all privileges on parking.* to pi@localhost;
-
 MariaDB [mysql]> quit
-
+```
 ## Edit settings.py in ~/parking/parking
 
 * Follow ~/iot/lesson4/parking/settings.txt
@@ -92,17 +84,12 @@ pi@raspberrypi:~/parking $ nano controller.py
 pi@raspberrypi:~/parking $ python3 manage.py makemigrations myapp
 pi@raspberrypi:~/parking $ python3 manage.py migrate
 pi@raspberrypi:~/parking $ python3 manage.py createsuperuser
-```
 Username (leave blank to use 'pi'):
-
 Email address: EMAIL_ADDRESS
-
 Password: PASSWORD
-
 Password (again): PASSWORD
-
 Superuser created successfully.
-
+```
 ## Terminal 1: Run Django server
 ```sh
 pi@raspberrypi:~/parking $ python3 manage.py runserver
