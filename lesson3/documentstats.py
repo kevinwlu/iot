@@ -1,4 +1,4 @@
-# IoT Textbook Chapter 6 Lab Exercises: Word count and top ten words
+# IoT Textbook Chapter 6 Lab Exercises: Word Count and Top Ten Words
 
 import sys
 import string
