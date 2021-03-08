@@ -5,15 +5,15 @@
 pi@raspberrypi:~ $ django-admin startproject stevens
 pi@raspberrypi:~ $ cd stevens
 pi@raspberrypi:~/stevens $ ls
-```
 manage.py  stevens
+```
 
 ## Start a Django app
 ```sh
 pi@raspberrypi:~/stevens $ python3 manage.py startapp myapp
 pi@raspberrypi:~/stevens $ ls
-```
 manage.py  myapp  stevens
+```
 
 ## Create MySQL database
 ```sh
