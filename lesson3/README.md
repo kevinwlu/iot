@@ -85,7 +85,7 @@ $ python3 blink.py
 $ python3 manual.py
 $ python3 auto.py
 ```
-### 3. Copy, edit (replace GMAIL_ADDRESS, RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD), and run the following two python programs
+### 3. Make a new directory, copy files to the current directory (in a single dot as opposed to the parent directory in double dots), edit (replace GMAIL_ADDRESS, RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD), and run the following two python programs
 ```sh
 $ cd
 $ mkdir demo
