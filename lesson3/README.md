@@ -99,7 +99,7 @@ $ python3 hello.py
 ```
 ## Lab 3C: Remote GPIO
 
-### 1. Launch the pigpio daemon using the −n flag to allow connections from a specific IP address of a controlling computer
+### 1. Launch the pigpio [daemon](https://en.wikipedia.org/wiki/Daemon_(computing)) using the −n flag to allow connections from a specific IP address of a controlling computer
 ```sh
 pi@raspberrypi:~ $ sudo pigpiod -n <CONTROLLING_ADDRESS>
 ```
