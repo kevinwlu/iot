@@ -68,7 +68,7 @@ $ python3 system_info.py
 ```sh
 $ ifconfig
 ```
-### Run [network socket](https://en.wikipedia.org/wiki/Network_socket) server from a Terminal, and run network socket client from ANOTHER Terminal of the same Raspberry Pi or a different one on the same subnetwork
+### Run [network socket](https://en.wikipedia.org/wiki/Network_socket) server from a Terminal, and run network socket client from ANOTHER Terminal of the same Raspberry Pi or a different one on the same subnetwork using the IP address with quotation marks
 ```sh
 $ python3 socket_server.py
 $ python3 socket_client.py '192.168.x.xxx'
@@ -99,7 +99,7 @@ $ python3 hello.py
 ```
 ## Lab 3C: Remote GPIO
 
-### 1. Launch the pigpio [daemon](https://en.wikipedia.org/wiki/Daemon_(computing)) using the −n flag to allow connections from a specific IP address of a controlling computer
+### 1. Launch the pigpio [daemon](https://en.wikipedia.org/wiki/Daemon_(computing)) using the −n flag to allow connections from a specific IP address of a controlling computer without quotation marks
 ```sh
 pi@raspberrypi:~ $ sudo pigpiod -n <CONTROLLING_ADDRESS>
 ```
