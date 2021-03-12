@@ -3,6 +3,8 @@
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [CPython](https://en.wikipedia.org/wiki/CPython)
 * [Unicode](https://en.wikipedia.org/wiki/Unicode)
+* [GPIO Zero](https://gpiozero.readthedocs.io/en/stable)
+* [pigpio](http://abyz.me.uk/rpi/pigpio)
 * [PyPy](https://en.wikipedia.org/wiki/PyPy)
 * [MicroPython](https://en.wikipedia.org/wiki/MicroPython)
 * [CircuitPython](https://en.wikipedia.org/wiki/CircuitPython)
