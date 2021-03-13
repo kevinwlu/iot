@@ -29,10 +29,14 @@ $ logout
 ```sh
 $ docker images
 $ docker run -it armhf/alpine /bin/sh
-/ # date
 / # cat /etc/os-release
 / # echo "Hi, this is a tiny Linux distribution!" | base64
 / # echo "SGksIHRoaXMgaXMgYSB0aW55IExpbnV4IGRpc3RyaWJ1dGlvbiEK" | base64 -d
+/ # pwd
+/ # ls
+/ # date
+/ # cal -y
+/ # busybox
 / # exit
 $ docker run armhf/alpine date
 ```
