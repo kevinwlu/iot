@@ -16,6 +16,7 @@
 * [Docker Get Started](https://www.docker.com/get-started) includes Docker Desktop download for Mac or Windows and Docker Engine for Linux (Fedora, CentOS, AWS, Azure, Ubuntu, Debian)
 ```sh
 $ curl -sSL get.docker.com | sh
+$ sudo docker version
 ```
 ### Add pi to the Docker Group as a non-root user (Control-d to logout and reconnect via SSH for this to take effect)
 ```sh
@@ -24,6 +25,7 @@ $ logout
 ```
 ### Run Docker images designed to work on ARM under the prefix armhf
 ```sh
+$ docker images
 $ docker run -it armhf/alpine /bin/sh
 / # cat /etc/os-release
 / # echo "Hi, this is a tiny Linux distribution!" | base64
