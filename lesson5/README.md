@@ -24,6 +24,8 @@ $ sudo usermod -aG docker pi
 $ logout
 ```
 ### Run Docker images designed to work on ARM under the prefix armhf
+* [Alpine Linux](https://en.wikipedia.org/wiki/Alpine_Linux) is built around [musl](https://en.wikipedia.org/wiki/Musl) [libc](https://en.wikipedia.org/wiki/C_standard_library) and [BusyBox](https://en.wikipedia.org/wiki/BusyBox)
+* [Base64](https://en.wikipedia.org/wiki/Base64) is a group of binary-to-text encoding shcemes
 ```sh
 $ docker images
 $ docker run -it armhf/alpine /bin/sh
