@@ -13,11 +13,14 @@
 
 ## Lab 5A: Crossbar.io
 
-### Install Docker on a Raspberry Pi
+### Install Docker on Raspberry Pi OS
 * [Docker Get Started](https://www.docker.com/get-started) includes Docker Desktop download for Mac or Windows and Docker Engine for Linux (Fedora, CentOS, AWS, Azure, Ubuntu, Debian)
+* [Docker on Raspberry Pi OS](https://withblue.ink/2020/06/24/docker-and-docker-compose-on-raspberry-pi-os.html) provides instructions for installing Docker on Raspberry Pi OS
 ```sh
-$ curl -sSL get.docker.com | sh
 $ sudo docker version
+$ sudo docker images
+$ sudo docker run --rm hello-world
+$ sudo docker images
 ```
 ### Add pi to the Docker Group as a non-root user (Control-d to logout and reconnect via SSH for this to take effect)
 ```sh
