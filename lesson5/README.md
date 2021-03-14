@@ -26,14 +26,20 @@ $ sudo docker images
 ```sh
 $ git clone https://github.com/crossbario/crossbar-examples
 $ cd crossbar-examples/getting-started
+$ tree
 $ docker pull crossbario/crossbar-armhf
 $ docker run -v $PWD:/node -u 0 --rm --name=crossbar -it -p 8080:8080 crossbario/crossbar-armhf
 ```
-* Open a browser and go to 192.168.x.xxx:8080/info (or 127.0.0.1:8080/info via VNC Viewer) to see the Crossbar.io router status
+* Open a browser and go to 192.168.x.xxx:8080/info (or 127.0.0.1:8080/info via VNC Viewer) to view the Crossbar.io node information
 ### Run publish-client on Terminal 2
 ```sh
 $ sudo pip3 install -U autobahn[twisted,encryption,serialization,xbr]
-$ cd crossbar-examples/getting-started/1.hello-world/
+$ cd crossbar-examples/getting-started
+$ cd .crossbar
+$ ls
+$ cat config.json
+$ cd ..
+$ cd 1.hello-world
 $ python3 client_component_publish.py
 ```
 ### Run subscribe-client on Terminal 3
@@ -41,7 +47,7 @@ $ python3 client_component_publish.py
 $ cd crossbar-examples/getting-started/1.hello-world/
 $ python3 client_component_subscribe.py
 ```
-* Press control-c to stop in the reverse order, i.e., subscribe-client > publish-client > router
+* Press control-c to stop subscribe-client > publish-client > router
 ## Lab 5B: Eclipse Mosquitto and Eclipse Paho
 
 ### Install and run Mosquitto to subscribe on one terminal and publish on another
@@ -88,9 +94,9 @@ $ python3 pub-multiple.py
 ```
 #### Terminal 1 (control-c to exit)
 ```sh
-python3 subraspi.py
+$ python3 subraspi.py
 ```
 #### Terminal 2 on Raspberry Pi or another computer
 ```sh
-python3 pubraspi.py
+$ python3 pubraspi.py
 ```
