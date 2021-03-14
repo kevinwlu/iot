@@ -46,6 +46,7 @@ $ python3 client_component_subscribe.py
 
 ### Install and run Mosquitto and Paho to subscribe on one terminal and publish on another
 ```sh
+$ sudo apt update
 $ sudo apt install mosquitto mosquitto-clients
 $ mosquitto_sub -h localhost -v -t "\$SYS/#"
 ```
