@@ -1,3 +1,8 @@
+# Required installation of adafruit-blinka and CircuitPython-DHT library
+# pip3 install adafruit-circuitpython-dht
+# sudo apt update
+# sudo apt install libgpiod2
+# 
 import time
 import datetime
 import board
