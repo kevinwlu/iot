@@ -22,44 +22,6 @@ $ sudo docker images
 $ sudo docker run --rm hello-world
 $ sudo docker images
 ```
-### Add pi to the Docker Group as a non-root user (Control-d to logout and reconnect via SSH for this to take effect)
-```sh
-$ sudo usermod -aG docker pi
-$ logout
-```
-### Run Docker images designed to work on ARM under the prefix armhf
-* [Alpine Linux](https://en.wikipedia.org/wiki/Alpine_Linux) is built around [musl](https://en.wikipedia.org/wiki/Musl) [libc](https://en.wikipedia.org/wiki/C_standard_library) and [BusyBox](https://en.wikipedia.org/wiki/BusyBox)
-* [Base64](https://en.wikipedia.org/wiki/Base64) is a group of binary-to-text encoding shcemes
-```sh
-$ docker images
-$ docker run -it armhf/alpine /bin/sh
-/ # cat /etc/os-release
-/ # echo "Hi, this is a tiny Linux distribution!" | base64
-/ # echo "SGksIHRoaXMgaXMgYSB0aW55IExpbnV4IGRpc3RyaWJ1dGlvbiEK" | base64 -d
-/ # pwd
-/ # ls
-/ # date
-/ # cal -y
-/ # busybox
-/ # exit
-$ docker run armhf/alpine date
-```
-### Build and run new image from Dockerfile
-```sh
-$ docker images
-$ cd ~/demo
-$ cp ~/iot/lesson5/Dockerfile .
-$ cat Dockerfile
-$ docker build -t curl_docker .
-$ docker run curl_docker
-$ docker images
-$ docker run -it balenalib/rpi-raspbian /bin/sh
-# cat /etc/os-release
-# pwd
-# ls
-# exit
-```
-
 ### Run Crossbar.io router on Terminal 1
 ```sh
 $ git clone https://github.com/crossbario/crossbar-examples
