@@ -46,6 +46,7 @@ $ docker run armhf/alpine date
 $ docker images
 $ cd ~/demo
 $ cp ~/iot/lesson5/Dockerfile .
+$ cat Dockerfile
 $ docker build -t curl_docker .
 $ docker run curl_docker
 $ docker images
