@@ -41,30 +41,36 @@ $ python3 client_component_publish.py
 $ cd crossbar-examples/getting-started/1.hello-world/
 $ python3 client_component_subscribe.py
 ```
-* Enter control-c to exit in the reverse order, i.e., subscribe-client > publish-client > router
+* Press control-c to stop in the reverse order, i.e., subscribe-client > publish-client > router
 ## Lab 5B: Eclipse Mosquitto and Eclipse Paho
 
-### Install and run Mosquitto and Paho to subscribe on one terminal and publish on another
+### Install and run Mosquitto to subscribe on one terminal and publish on another
 ```sh
 $ sudo apt update
 $ sudo apt install mosquitto mosquitto-clients
 $ mosquitto_sub -h localhost -v -t "\$SYS/#"
 ```
-### Press control-c to stop mosquitto_sub
+* Press control-c to stop mosquitto_sub
+```sh
+$ service mosquitto status
+$ netstat -tln
+```
+#### Terminal 1
 ```sh
 $ mosquitto_sub -h localhost -v -t test/topic &
 ```
-### Publish "Hello" on another terminal
+#### Terminal 2
 ```sh
 $ mosquitto_pub -h localhost -t test/topic -m "Hello"
-$ service mosquitto status
-$ netstat -tln
+```
+### Intall Paho and run code to subscribe on one terminal and publish on another
+```sh
 $ sudo pip3 install -U paho-mqtt
 $ git clone https://github.com/eclipse/paho.mqtt.python.git
 $ cd ~/iot/lesson5
 $ python3 client.py
 ```
-#### Terminal 1 (control-c to exit)
+#### Terminal 1 (press control-c to stop)
 ```sh
 $ python3 sub.py
 ```
@@ -72,7 +78,7 @@ $ python3 sub.py
 ```sh
 $ python3 pub.py
 ```
-#### Terminal 1 (control-c to exit)
+#### Terminal 1 (press control-c to stop)
 ```sh
 $ python3 sub-multiple.py
 ```
