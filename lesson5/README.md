@@ -41,7 +41,7 @@ $ python3 client_component_publish.py
 $ cd crossbar-examples/getting-started/1.hello-world/
 $ python3 client_component_subscribe.py
 ```
-* Enter control-c to exit in the reverse order, i.e., subscribe > publish > router
+* Enter control-c to exit in the reverse order, i.e., subscribe-client > publish-client > router
 ## Lab 5B: Eclipse Mosquitto and Eclipse Paho
 
 ### Install and run Mosquitto and Paho to subscribe on one terminal and publish on another
