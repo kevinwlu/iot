@@ -74,7 +74,7 @@ $ python3 client.py
 ```sh
 $ python3 sub.py
 ```
-#### Terminal 2 on the same or another Raspberry Pi
+#### Terminal 2
 ```sh
 $ python3 pub.py
 ```
@@ -82,7 +82,7 @@ $ python3 pub.py
 ```sh
 $ python3 sub-multiple.py
 ```
-#### Terminal 2 on the same or another Raspberry Pi
+#### Terminal 2
 ```sh
 $ python3 pub-multiple.py
 ```
@@ -90,7 +90,7 @@ $ python3 pub-multiple.py
 ```sh
 python3 subraspi.py
 ```
-#### Terminal 2 on the same or another Raspberry Pi
+#### Terminal 2 on Raspberry Pi or another computer
 ```sh
 python3 pubraspi.py
 ```
