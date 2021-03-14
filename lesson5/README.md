@@ -29,6 +29,7 @@ $ cd crossbar-examples/getting-started
 $ docker pull crossbario/crossbar-armhf
 $ docker run -v $PWD:/node -u 0 --rm --name=crossbar -it -p 8080:8080 crossbario/crossbar-armhf
 ```
+* Open a browser and go to 192.168._._:8080/info (or 127.0.0.1:8080/info via VNC Viewer) to see the Crossbar.io router status
 ### Run publish-client on Terminal 2
 ```sh
 $ sudo pip3 install -U autobahn[twisted,encryption,serialization,xbr]
@@ -40,6 +41,7 @@ $ python3 client_component_publish.py
 $ cd crossbar-examples/getting-started/1.hello-world/
 $ python3 client_component_subscribe.py
 ```
+* Enter control-c to exit in the reverse order, i.e., subscribe > publish > router
 ## Lab 5B: Eclipse Mosquitto and Eclipse Paho
 
 ### Install and run Mosquitto and Paho to subscribe on one terminal and publish on another
