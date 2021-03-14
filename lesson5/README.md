@@ -29,7 +29,7 @@ $ cd crossbar-examples/getting-started
 $ docker pull crossbario/crossbar-armhf
 $ docker run -v $PWD:/node -u 0 --rm --name=crossbar -it -p 8080:8080 crossbario/crossbar-armhf
 ```
-* Open a browser and go to 192.168._._:8080/info (or 127.0.0.1:8080/info via VNC Viewer) to see the Crossbar.io router status
+* Open a browser and go to 192.168.x.xxx:8080/info (or 127.0.0.1:8080/info via VNC Viewer) to see the Crossbar.io router status
 ### Run publish-client on Terminal 2
 ```sh
 $ sudo pip3 install -U autobahn[twisted,encryption,serialization,xbr]
