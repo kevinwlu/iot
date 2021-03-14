@@ -2,8 +2,6 @@
 
 * [Publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
 * [Web application messaging protocol](https://en.wikipedia.org/wiki/Web_Application_Messaging_Protocol) (WAMP)
-* [cURL](https://en.wikipedia.org/wiki/CURL)
-* [example.com](https://en.wikipedia.org/wiki/Example.com)
 * [Docker](https://en.wikipedia.org/wiki/Docker_(software))
 * [Crossbar.io](https://crossbar.io/docs/Getting-Started/)
 * [Message queuing telemetry transport](https://en.wikipedia.org/wiki/MQTT) (MQTT)
@@ -16,7 +14,11 @@
 ### Install Docker on Raspberry Pi OS
 * [Docker Get Started](https://www.docker.com/get-started) includes Docker Desktop download for Mac or Windows and Docker Engine for Linux (Fedora, CentOS, AWS, Azure, Ubuntu, Debian)
 * Install Docker on Raspberry Pi OS by following these [instructions](https://withblue.ink/2020/06/24/docker-and-docker-compose-on-raspberry-pi-os.html)
+* Run [cURL](https://en.wikipedia.org/wiki/CURL) to download data from [example.com](https://en.wikipedia.org/wiki/Example.com) with or without the progress meter
 ```sh
+$ curl example.com
+$ curl -o example.txt example.com
+$ cat example.txt
 $ sudo docker version
 $ sudo docker images
 $ sudo docker run --rm hello-world
