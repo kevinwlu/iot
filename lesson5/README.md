@@ -16,6 +16,7 @@
 * Install Docker on Raspberry Pi OS by following these [instructions](https://withblue.ink/2020/06/24/docker-and-docker-compose-on-raspberry-pi-os.html)
 * Run [cURL](https://en.wikipedia.org/wiki/CURL) to download data from [example.com](https://en.wikipedia.org/wiki/Example.com) with or without the progress meter
 ```sh
+$ man curl
 $ curl example.com
 $ curl -o example.txt example.com
 $ cat example.txt
