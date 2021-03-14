@@ -1,7 +1,7 @@
 FROM balenalib/rpi-raspbian:latest  
 ENTRYPOINT []
 
-RUN apt-get update && \  
-    apt-get -qy install curl ca-certificates
+RUN apt update && \  
+    apt -qy install curl ca-certificates
 
 CMD ["curl", "https://docker.com"]
