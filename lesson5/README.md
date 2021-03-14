@@ -15,7 +15,7 @@
 
 ### Install Docker on Raspberry Pi OS
 * [Docker Get Started](https://www.docker.com/get-started) includes Docker Desktop download for Mac or Windows and Docker Engine for Linux (Fedora, CentOS, AWS, Azure, Ubuntu, Debian)
-* Install Docker on Raspberry Pi OS by following the [instructions](https://withblue.ink/2020/06/24/docker-and-docker-compose-on-raspberry-pi-os.html)
+* Install Docker on Raspberry Pi OS by following these [instructions](https://withblue.ink/2020/06/24/docker-and-docker-compose-on-raspberry-pi-os.html)
 ```sh
 $ sudo docker version
 $ sudo docker images
