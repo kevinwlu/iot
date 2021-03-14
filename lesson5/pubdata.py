@@ -5,7 +5,7 @@ import adafruit_dht
 import paho.mqtt.client as mqtt
 dhtDevice = adafruit_dht.DHT22(board.D24)
 mqttc = mqtt.Client()
-mqttc.connect("mqtt.eclipse.org", 1883, 60)
+mqttc.connect("mqtt.eclipseprojects.io", 1883, 60)
 mqttc.loop_start()
 while True:
     try:  
