@@ -104,7 +104,7 @@ $ python3 sub-multiple.py
 ```sh
 $ python3 pub-multiple.py
 ```
-#### Terminal 1 (control-c to exit)
+#### Terminal 1 (press control-c to exit)
 ```sh
 $ python3 subraspi.py
 ```
