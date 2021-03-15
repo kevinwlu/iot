@@ -108,7 +108,7 @@ $ python3 pub-multiple.py
 * Copy ~/iot/lesson5/subraspi.py to ~/demo
 * Copy ~/iot/lesson5/pubraspi.py to ~/demo
 * Replace topic "Raspberry Pi" with a unique hostname in both subraspi.py and pubraspi.py
-* Run pubraspi.py and subraspi.py
+* Run subraspi.py on Terminal 1 and pubraspi.py on Terminal 2
 #### Terminal 1 (press control-c to exit)
 ```sh
 $ cd ~/demo
