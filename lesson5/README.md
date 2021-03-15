@@ -104,11 +104,23 @@ $ python3 sub-multiple.py
 ```sh
 $ python3 pub-multiple.py
 ```
+* Copy ~/iot/lesson5/system_info.py to ~/demo
+* Copy ~/iot/lesson5/subraspi.py to ~/demo
+* Copy ~/iot/lesson5/pubraspi.py to ~/demo
+* Replace topic "Raspberry Pi" with a unique hostname in both subraspi.py and pubraspi.py
+* Run pubraspi.py and subraspi.py
 #### Terminal 1 (press control-c to exit)
 ```sh
+$ cd ~/demo
+$ cp ~/iot/lesson5/subraspi.py .
+$ nano subraspi.py
 $ python3 subraspi.py
 ```
-#### Terminal 2 on Raspberry Pi or another computer
+#### Terminal 2 on Raspberry Pi or another computer (press control-c to exit)
 ```sh
+$ cd ~/demo
+$ cp ~/iot/lesson5/system_info.py .
+$ cp ~/iot/lesson5/pubraspi.py .
+$ nano pubraspi.py
 $ python3 pubraspi.py
 ```
