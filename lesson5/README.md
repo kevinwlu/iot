@@ -15,6 +15,8 @@
 * [Docker Get Started](https://www.docker.com/get-started) includes Docker Desktop download for Mac or Windows and Docker Engine for Linux (Fedora, CentOS, AWS, Azure, Ubuntu, Debian)
 * Install Docker on Raspberry Pi OS by following these [instructions](https://withblue.ink/2020/06/24/docker-and-docker-compose-on-raspberry-pi-os.html)
 * Run [cURL](https://en.wikipedia.org/wiki/CURL) to download data from [example.com](https://en.wikipedia.org/wiki/Example.com) with or without the progress meter
+* Run Docker commands and hello-world
+* Add pi to the Docker group as a non-root user, logout SSH, and reconnect SSH for this to take effect
 ```sh
 $ man curl
 $ curl example.com
@@ -24,6 +26,8 @@ $ sudo docker version
 $ sudo docker images
 $ sudo docker run --rm hello-world
 $ sudo docker images
+$ sudo usermod -aG docker pi
+$ logout
 ```
 ### Run Crossbar.io router on Terminal 1
 ```sh
