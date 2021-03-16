@@ -4,7 +4,7 @@ from system_info import get_temperature
 import psutil
 import paho.mqtt.client as mqtt
 mqttc = mqtt.Client()
-mqttc.connect("mqtt.eclipse.org", 1883, 60)
+mqttc.connect("mqtt.eclipseprojects.io", 1883, 60)
 mqttc.loop_start()
 while True:
     try:  
