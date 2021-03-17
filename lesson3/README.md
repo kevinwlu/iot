@@ -12,13 +12,13 @@
 
 ## Lab 3A: Python
 
-### If Python has not been installed on Windows, [download](https://www.python.org/downloads/windows/) and install the latest version of Python 3
-* Edit path in "System Properties > Advanced > Environment Variables" and add 
+* If Python has not been installed on Windows 10, [download](https://www.python.org/downloads/windows/) and install the latest version of Python 3
+* On Windows 10, edit path in "System Properties > Advanced > Environment Variables" and add 
 ```sh  
 C:\Users\...\AppData\Local\Programs\Python\Python... 
 C:\Users\...\AppData\Local\Programs\Python\Python...\Scripts
 ```
-* Open Git Bash, run Python and install/upgrade Python packages with [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) 
+* Open Git Bash on Windows 10, run Python and install/upgrade Python packages with [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) 
 ```sh
 $ python -i
 >>> import math
@@ -43,8 +43,9 @@ $ python coordinates.py 'SC Williams Library'
 $ python address.py '40.74480675, -74.02532862031404'
 $ python documentstats.py document.txt
 ```
-### On Raspberry Pi (or macOS or Linux) with both Python 2 and Python 3 preinstalled, run pip3 to install/upgrade packages, update the IoT repository, and run Python 3 programs
-#### Note: Don't upgrade Python or PIP on Raspberry Pi OS
+### NOTE: Raspberry Pi OS (or macOS or Linux) has both Python 2 and Python 3 already preinstalled
+### WARNING: Don't upgrade the preinstalled Python or PIP on Raspberry Pi OS
+* Run pip3 to install/upgrade packages, update the IoT repository, and run Python 3 programs
 ```sh
 $ sudo pip3 install -U jdcal astral geopy
 $ cd iot
