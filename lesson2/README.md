@@ -7,7 +7,6 @@
 * [Linux](https://en.wikipedia.org/wiki/Linux)
 * [Debian](https://en.wikipedia.org/wiki/Debian)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
-* [APT](https://en.wikipedia.org/wiki/APT_(software))
 * [LXDE](https://en.wikipedia.org/wiki/LXDE)
 * [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO)
 * [Serial communication](https://en.wikipedia.org/wiki/Serial_communication)
@@ -37,7 +36,7 @@ $ sudo reboot
 
 ![serial.png](https://github.com/kevinwlu/iot/blob/master/lesson2/serial.png)
 
-* Install and run [Minicom](https://en.wikipedia.org/wiki/Minicom)
+* Run [APT](https://en.wikipedia.org/wiki/APT_(software)) to install [Minicom](https://en.wikipedia.org/wiki/Minicom)
 ```sh
 $ sudo apt install minicom
 $ man minicom
