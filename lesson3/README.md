@@ -2,6 +2,7 @@
 
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [CPython](https://en.wikipedia.org/wiki/CPython)
+* [pip](https://en.wikipedia.org/wiki/Pip_(package_manager))
 * [Unicode](https://en.wikipedia.org/wiki/Unicode)
 * [GPIO Zero](https://gpiozero.readthedocs.io/en/stable)
 * [pigpio](http://abyz.me.uk/rpi/pigpio)
@@ -18,7 +19,7 @@
 C:\Users\...\AppData\Local\Programs\Python\Python... 
 C:\Users\...\AppData\Local\Programs\Python\Python...\Scripts
 ```
-* Open Git Bash on Windows 10, run Python and install/upgrade Python packages with [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) 
+* Open Git Bash on Windows 10, run Python and install/upgrade Python packages with pip
 ```sh
 $ python -i
 >>> import math
