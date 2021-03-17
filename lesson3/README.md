@@ -44,7 +44,7 @@ $ python coordinates.py 'SC Williams Library'
 $ python address.py '40.74480675, -74.02532862031404'
 $ python documentstats.py document.txt
 ```
-### NOTE: Raspberry Pi OS (or macOS or Linux) has both Python 2 and Python 3 already preinstalled
+### NOTE: Raspberry Pi OS (or macOS/Linux) has both Python 2 and Python 3 already preinstalled
 ### WARNING: Don't upgrade the preinstalled Python or PIP on Raspberry Pi OS
 * Run pip3 to install/upgrade packages, update the IoT repository, and run Python 3 programs
 ```sh
