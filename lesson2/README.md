@@ -38,6 +38,7 @@ $ sudo reboot
 
 * Run [APT](https://en.wikipedia.org/wiki/APT_(software)) to install [Minicom](https://en.wikipedia.org/wiki/Minicom)
 ```sh
+$ sudo apt update
 $ sudo apt install minicom
 $ man minicom
 $ minicom -b 115200 -o -D /dev/ttyS0
