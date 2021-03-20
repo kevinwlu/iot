@@ -21,6 +21,7 @@
 $ node -h
 $ node -v
 $ cd ~/iot/lesson6
+$ cat hello.js
 $ node hello.js
 Server running at http://127.0.0.1:8080/
 response end call done
@@ -28,6 +29,7 @@ request end event fired
 response end call done
 request end event fired
 ^C
+$ cat hello.js
 $ node http.js
 0
 
