@@ -2,7 +2,7 @@
 
 * [Arduino](https://en.wikipedia.org/wiki/Arduino)
 * [BeagleBoard](https://en.wikipedia.org/wiki/BeagleBoard)
-* [RSP8266](https://en.wikipedia.org/wiki/ESP8266)
+* [ESP8266](https://en.wikipedia.org/wiki/ESP8266)
 * [Hayes command set](https://en.wikipedia.org/wiki/Hayes_command_set)
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
 * [Node-RED](https://en.wikipedia.org/wiki/Node-RED)
