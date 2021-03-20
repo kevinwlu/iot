@@ -6,13 +6,17 @@
 * [Hayes command set](https://en.wikipedia.org/wiki/Hayes_command_set)
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
 * [Node-RED](https://en.wikipedia.org/wiki/Node-RED)
+* [Mustache](https://en.wikipedia.org/wiki/Mustache_(template_system)) and Handlebars.js
+* [Pystache](https://github.com/defunkt/pystache)
 * [MATLAB Mobile](https://www.mathworks.com/products/matlab-mobile.html)
 * [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack))
 * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
 
 ## Lab 6A: Node.js
 
-### On Raspberry Pi via VNC Viewer, click the application menu on the left upper corner, select Programming to chck whether Node-RED is installed, if not select Preferences > Recommended Software to install Node-RED
+### On Raspberry Pi via VNC Viewer, click the application menu on the left upper corner, select Programming to chck whether Node-RED is installed
+
+### If Node-RED is not installed, select Preferences > Recommended Software to install Node-RED
 
 ### Run and view Node.js server at http://127.0.0.1:8080 on Raspberry Pi via VNC viewer or directly at http://192.168.x.xxx:8080 on a laptop computer
 
