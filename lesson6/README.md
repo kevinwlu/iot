@@ -15,12 +15,26 @@
 ### On Raspberry Pi via VNC Viewer, click the application menu on the left upper corner, select Programming to chck whether Node-RED is installed, if not select Preferences > Recommended Software to install Node-RED
 
 ### Run and view Node.js server at http://127.0.0.1:8080 on Raspberry Pi via VNC viewer or directly at http://192.168.x.xxx:8080 on a laptop computer
+
+### Reload the web page and press control-c (^C) to quit
 ```sh
 $ node -h
 $ node -v
 $ cd ~/iot/lesson6
 $ node hello.js
+Server running at http://127.0.0.1:8080/
+response end call done
+request end event fired
+response end call done
+request end event fired
+^C
 $ node http.js
+0
+
+1
+2
+^C
+$
 ```
 
 ## Lab 6B: Particle Cloud
