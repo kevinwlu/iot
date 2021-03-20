@@ -12,6 +12,8 @@
 
 ## Lab 6A: Node.js
 
+### On Raspberry Pi via VNC Viewer, click the application menu on the left upper corner, select Programming to chck whether Node-RED is installed, if not select Preferences > Recommended Software to install Node-RED
+
 ### Run and view Node.js server at http://127.0.0.1:8080 on Raspberry Pi via VNC viewer or directly at http://192.168.x.xxx:8080 on a laptop computer
 ```sh
 $ node -h
