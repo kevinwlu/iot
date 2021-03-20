@@ -16,7 +16,7 @@
 
 ### Run and view Node.js server at http://127.0.0.1:8080 on Raspberry Pi via VNC viewer or directly at http://192.168.x.xxx:8080 on a laptop computer
 
-### Reload the web page and press control-c (^C) to quit
+### Reload the web page to see the server responses and press control-c (^C) to quit
 ```sh
 $ node -h
 $ node -v
