@@ -12,7 +12,7 @@ hello = SayHello()
 renderer = pystache.Renderer()
 print(renderer.render(hello))
 
-# 
+# Pre-parse a template
 parsed = pystache.parse('Hey {{#who}}{{.}}!{{/who}}')
 print(parsed)
 print(renderer.render(parsed, {'who': 'Google'}))
