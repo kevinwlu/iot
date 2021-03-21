@@ -42,8 +42,18 @@ $ node http.js
 ^C
 $
 ```
+## Lab 6B: Pystache
 
-## Lab 6B: Particle Cloud
+### Install Pystache and run example code
+```
+$ sudo pip3 install pystache
+$ cd ~/iot/lesson6
+$ cat say_hello.mastache
+$ cat say_hello.py
+$ python3 say_hello.py
+```
+
+## Optional Lab 6C: Particle Cloud
 
 [The Particle on Raspberry Pi project has been discontinued](https://docs.particle.io/raspberry-pi/)
 
@@ -53,7 +63,7 @@ $
 ```sh
 $ bash <( curl -sL https://particle.io/install-pi )
 ```
-### If the Raspberry Pi hostname has changed, run particle-agent again
+### If the Raspberry Pi hostname has changed, unclaim it on [Particle Console](https://console.particle.io/devices), and run particle-agent again
 ```sh
 $ sudo particle-agent setup
 ```
