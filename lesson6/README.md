@@ -57,6 +57,8 @@ $ python3 say_hello.py
 
 [The Particle on Raspberry Pi project has been discontinued](https://docs.particle.io/raspberry-pi/)
 
+* Error claiming Raspberry Pi 4B to the Particle account
+
 ### Sign up and log in Particle at https://www.particle.io
 
 ### Install the Particle-Agent on Raspberry Pi, log in the Particle account, and claim Raspberry Pi to the Particle account
