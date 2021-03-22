@@ -6,12 +6,12 @@
 * [Hayes command set](https://en.wikipedia.org/wiki/Hayes_command_set)
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
 * [Node-RED](https://en.wikipedia.org/wiki/Node-RED)
+* [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack))
 * [Mustache](https://en.wikipedia.org/wiki/Mustache_(template_system))
 * [Handlebars.js](https://handlebarsjs.com/)
 * [Pystache](https://github.com/defunkt/pystache)
-* [MATLAB Mobile](https://www.mathworks.com/products/matlab-mobile.html)
-* [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack))
 * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
+* [MATLAB Mobile](https://www.mathworks.com/products/matlab-mobile.html)
 
 ## Lab 6A: Node.js
 
