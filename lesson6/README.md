@@ -15,7 +15,7 @@
 
 ## Lab 6A: Node.js
 
-### On Raspberry Pi via VNC Viewer, click the application menu on the left upper corner, select Programming to chck whether Node-RED is installed
+### On Raspberry Pi via VNC Viewer, click the application menu on the left upper corner, select Programming to check whether Node-RED is installed
 
 ### If Node-RED is not installed, select Preferences > Recommended Software to install Node-RED
 
