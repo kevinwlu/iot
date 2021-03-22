@@ -34,7 +34,7 @@ request end event fired
 response end call done
 request end event fired
 ^C
-$ cat hello.js
+$ cat http.js
 $ node http.js
 0
 
