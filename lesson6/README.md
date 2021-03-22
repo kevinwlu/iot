@@ -49,7 +49,7 @@ $
 ```
 $ sudo pip3 install pystache
 $ cd ~/iot/lesson6
-$ cat say_hello.mastache
+$ cat say_hello.mustache
 $ cat say_hello.py
 $ python3 say_hello.py
 ```
