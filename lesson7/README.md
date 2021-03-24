@@ -3,6 +3,7 @@
 * [MATLAB](https://en.wikipedia.org/wiki/MATLAB) (Matrix Laboratory)
 * [Pickle](https://docs.python.org/3/library/pickle.html): Python object serialization
 * [ThingSpeak](https://en.wikipedia.org/wiki/ThingSpeak)
+* [gspread](https://gspread.readthedocs.io/en/latest)
 * [OAuth](https://en.wikipedia.org/wiki/OAuth)
 * [OpenID Connect](https://en.wikipedia.org/wiki/OpenID_Connect) (OIDC)
 
