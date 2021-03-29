@@ -18,7 +18,10 @@
 ### Review and run thingspeak_feed.py
 ```sh
 $ sudo pip3 install -U psutil
-$ cd ~/iot/lesson7
+$ cd ~/demo
+$ cp ~/iot/lesson7/thingspeak_cpu_loop.py .
+$ cp ~/iot/lesson7/thingspeak_feed.py .
+$ cat thingspeak_cpu_loop.py
 $ cat thingspeak_feed.py
 $ python3 thingspeak_feed.py
 An API key savefile was not found. Enter Write API Key >>>
