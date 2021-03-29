@@ -21,6 +21,8 @@ $ sudo pip3 install -U psutil
 $ cd ~/iot/lesson7
 $ cat thingspeak_feed.py
 $ python3 thingspeak_feed.py
+An API key savefile was not found. Enter Write API Key >>>
+Should we save this key for future use? [y/N] >>>
 ```
 ## Lab 7B: Google Sheets
 
