@@ -1,3 +1,4 @@
+# https://learn.sparkfun.com/tutorials/adxl345-hookup-guide/all
 # https://pimylifeup.com/raspberry-pi-accelerometer-adxl345/
 # sudo apt-get install python3-dev python3-pip python3-smbus i2c-tools -y
 # sudo i2cdetect -y 1
