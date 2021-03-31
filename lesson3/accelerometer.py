@@ -3,6 +3,7 @@
 # sudo apt-get install python3-dev python3-pip python3-smbus i2c-tools -y
 # sudo i2cdetect -y 1
 # sudo pip3 install adafruit-circuitpython-ADXL34x
+# python3 accelerometer.py
 import time
 import board
 import busio
