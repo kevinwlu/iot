@@ -21,7 +21,7 @@
 * [Industry 4.0](https://en.wikipedia.org/wiki/Industry_4.0)
 
 ## Basics
-* [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)
+* [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
 * [Git](https://en.wikipedia.org/wiki/Git)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
 * [GitHub Pages](https://pages.github.com/)
