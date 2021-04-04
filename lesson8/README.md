@@ -61,7 +61,7 @@ $ ssh -Y pi@xxx.xxx.xxx.xxx
 ```sh
 $ ssh -Y pi@xxx.xxx.xxx.xxx
 ```
-### Run Python code
+### Review and Run Python code
 ```sh
 $ cd ~/iot/lesson8
 $ python3 pyplot_simple.py
