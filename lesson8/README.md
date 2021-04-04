@@ -1,6 +1,6 @@
 # Lesson 8: Data Analysis
-* [ATLAS](https://en.wikipedia.org/wiki/Automatically_Tuned_Linear_Algebra_Software) (Automatically Tuned Linear Algebra Software)
-* [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) (Basic Linear Algebra Subprograms)
+* [Automatically Tuned Linear Algebra Software](https://en.wikipedia.org/wiki/Automatically_Tuned_Linear_Algebra_Software) (ATLAS)
+* [Basic Linear Algebra Subprograms](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) (BLAS)
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
 * [SciPy](https://en.wikipedia.org/wiki/SciPy)
 * [Scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn)
