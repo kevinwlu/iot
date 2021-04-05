@@ -9,7 +9,7 @@
 * [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
 * [Keras](https://en.wikipedia.org/wiki/Keras)
 
-## Lab 8A: NumPy and Matplotlib
+## Lab 8A: Examples
 
 ### On Windows, open Git Bash and install Python packages as follows
 ```sh
@@ -75,7 +75,6 @@ $ python3 pyplot_annotate.py
 $ python3 major_minor_demo1.py
 $ python3 legend_demo.py
 ```
-## Lab 8B: Data Analysis
 
 ### Histograms, box plots, regression, and classification
 ```sh
@@ -88,12 +87,10 @@ $ python3 linreg.py
 $ python3 interpolation.py
 $ python3 plot_lda.py
 $ python3 plot_lda_qda.py
-$ python3 plt_final.py
 ```
 
 ### Cross-validation
 ```sh
-$ python3 plt_cv2.py
 $ python3 plot_cv_predict.py
 $ python3 plot_cv_diabetes.py
 ```
@@ -115,4 +112,17 @@ $ cp titanic_2.py ~/demo
 $ cd ~/demo
 $ python3 titanic_1.py
 $ python3 titanic_2.py
+```
+
+## Lab 8B: Data Analysis
+
+### Analyze Raspberry Pi date/time and CPU usage/temperature of Lab 7B
+
+* [Insert four charts](https://support.google.com/docs/answer/63824) including time series, two histograms, and a scatter plot with a linear trendline
+* Save the sheet in CSV format
+* Edit ~/iot/lesson8/plt_final.py and plt_cv2.py to read the CSV file and show seven figures including time series, two histograms, two box plots, a scatter plot with a linear regression line, and cross-validation prediction with temperature as target
+* Include required title/labels, and add legend or adjust ticks as needed
+```sh
+$ python3 plt_final.py
+$ python3 plt_cv2.py
 ```
