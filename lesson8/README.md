@@ -123,6 +123,8 @@ $ python3 titanic_2.py
 * Edit ~/iot/lesson8/plt_final.py and plt_cv2.py to read the CSV file and show seven figures including time series, two histograms, two box plots, a scatter plot with a linear regression line, and cross-validation prediction with temperature as target
 * Include required title/labels, and add legend or adjust ticks as needed
 ```sh
+$ nano plt_final.py
 $ python3 plt_final.py
+$ nano plt_cv2.py
 $ python3 plt_cv2.py
 ```
