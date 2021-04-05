@@ -129,7 +129,9 @@ $ nano plt_final.py
 ```sh
 $ nano plt_cv2.py
 ```
-> data = read_csv('rpidata1.csv')
+> X = read_csv('rpidata.csv', usecols=[1])
+
+> y = read_csv('rpidata.csv', usecols=[2])
 ```sh
 $ python3 plt_final.py
 $ python3 plt_cv2.py
