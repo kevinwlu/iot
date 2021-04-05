@@ -120,9 +120,14 @@ $ python3 titanic_2.py
 
 * [Insert four charts](https://support.google.com/docs/answer/63824) including time series, two histograms, and a scatter plot with a linear trendline
 * Save the Google sheet in CSV format
-* Edit ~/iot/lesson8/plt_final.py and plt_cv2.py to read the CSV file and show seven figures including time series, two histograms, two box plots, a scatter plot with a linear regression line, and cross-validation prediction with temperature as target
+* Copy ~/iot/lesson8/plt_final.py and plt_cv2.py to ~/demo
+* Edit them to read the CSV file
+* Show seven figures including time series, two histograms, two box plots, a scatter plot with a linear regression line, and cross-validation prediction with temperature as target
 * Include required title/labels, and add legend or adjust ticks as needed
 ```sh
+$ cd ~/demo
+$ cp ~/iot/lesson8/plt_final.py .
+$ cp ~/iot/lesson8/plt_cv2.py .
 $ nano plt_final.py
 ```
 > data = read_csv('rpidata.csv')
