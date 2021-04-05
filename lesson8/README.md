@@ -124,7 +124,9 @@ $ python3 titanic_2.py
 * Include required title/labels, and add legend or adjust ticks as needed
 ```sh
 $ nano plt_final.py
-$ python3 plt_final.py
+> data = read_csv('rpidata.csv')
 $ nano plt_cv2.py
+> data = read_csv('rpidata1.csv')
+$ python3 plt_final.py
 $ python3 plt_cv2.py
 ```
