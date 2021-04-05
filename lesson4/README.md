@@ -73,7 +73,7 @@ $ ./ngrok http 5000
 ### Terminal 2: [Memory Game](https://developer.amazon.com/blogs/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development)
 ```sh
 $ cd ~/iot/lesson4
-python3 memory_game.py
+$ python3 memory_game.py
 ```
 ### Open a browser and sign in [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask)
 * Click "Create Skill" > Enter Skill name in title case: Memory Game > 1. Choose a model: Custom (SELECTED) > 2. Choose a host: Provision your own (SELECTED) > Click "Create skill" > Choose a template: Hello World Skill > Click "Choose"
