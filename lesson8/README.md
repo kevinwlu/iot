@@ -119,7 +119,7 @@ $ python3 titanic_2.py
 ### Analyze Raspberry Pi date/time and CPU usage/temperature of Lab 7B
 
 * [Insert four charts](https://support.google.com/docs/answer/63824) including time series, two histograms, and a scatter plot with a linear trendline
-* Save the sheet in CSV format
+* Save the Google sheet in CSV format
 * Edit ~/iot/lesson8/plt_final.py and plt_cv2.py to read the CSV file and show seven figures including time series, two histograms, two box plots, a scatter plot with a linear regression line, and cross-validation prediction with temperature as target
 * Include required title/labels, and add legend or adjust ticks as needed
 ```sh
