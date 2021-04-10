@@ -76,6 +76,13 @@ $ sudo particle-agent setup
 
 ### Tinker > D7 > digitalWrite() > HIGH or LOW to toggle the green activity LED
 
+### To remove the Particle Agent and its dependencies
+```sh
+$ sudo apt remove particle-agent
+$ sudo apt autoremove
+$ sudo rm -rf /var/lib/particle
+```
+
 ### Alternately, install [Particle CLI](https://docs.particle.io/tutorials/developer-tools/cli/) on a laptop (not recommended for Raspberry Pi since it disables the Bash color prompt)
 
 #### Windows
