@@ -58,7 +58,7 @@ $ python3 say_hello.py
 
 [The Particle on Raspberry Pi project has been discontinued](https://docs.particle.io/raspberry-pi/)
 
-* Uninstall Particle Agent and it dependencies if 
+* Uninstall Particle Agent and it dependencies on Raspberry Pi 4B if 
     * Error claiming Raspberry Pi 4B to the Particle account
     * Raspberry Pi 4B green LED is on constantly
 
