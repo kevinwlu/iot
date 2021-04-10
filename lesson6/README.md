@@ -64,7 +64,7 @@ $ python3 say_hello.py
 
 ### Sign up and log in Particle at https://www.particle.io
 
-### Install the Particle-Agent on Raspberry Pi, log in the Particle account, and claim Raspberry Pi to the Particle account
+### Install the [Particle Agent](https://prerelease-docs.particle.io/reference/discontinued/particle-agent/) on Raspberry Pi, log in the Particle account, and claim Raspberry Pi to the Particle account
 ```sh
 $ bash <( curl -sL https://particle.io/install-pi )
 ```
