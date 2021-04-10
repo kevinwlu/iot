@@ -78,7 +78,7 @@ $ sudo particle-agent setup
 
 ### Tinker > D7 > digitalWrite() > HIGH or LOW to toggle the green activity LED
 
-### To remove the Particle Agent and its dependencies
+### To remove the [Particle Agent](https://prerelease-docs.particle.io/reference/discontinued/particle-agent/) and its dependencies
 ```sh
 $ sudo apt remove particle-agent
 $ sudo apt autoremove
