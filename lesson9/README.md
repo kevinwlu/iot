@@ -118,6 +118,21 @@ $ python3
 <AccountProvider for IBMQ(hub='ibm-q', group='open', project='main')>
 >>> IBMQ.providers()
 [<AccountProvider for IBMQ(hub='ibm-q', group='open', project='main')>]
+>>> provider = IBMQ.get_provider(hub='ibm-q')
+>>> provider.backends()
+[<IBMQSimulator('ibmq_qasm_simulator') from IBMQ(hub='ibm-q', group='open', project='main')>, 
+<IBMQBackend('ibmqx2') from IBMQ(hub='ibm-q', group='open', project='main')>, 
+<IBMQBackend('ibmq_16_melbourne') from IBMQ(hub='ibm-q', group='open', project='main')>, 
+<IBMQBackend('ibmq_armonk') from IBMQ(hub='ibm-q', group='open', project='main')>, 
+<IBMQBackend('ibmq_athens') from IBMQ(hub='ibm-q', group='open', project='main')>, 
+<IBMQBackend('ibmq_santiago') from IBMQ(hub='ibm-q', group='open', project='main')>, 
+<IBMQBackend('ibmq_lima') from IBMQ(hub='ibm-q', group='open', project='main')>, 
+<IBMQBackend('ibmq_belem') from IBMQ(hub='ibm-q', group='open', project='main')>, 
+<IBMQBackend('ibmq_quito') from IBMQ(hub='ibm-q', group='open', project='main')>, 
+<IBMQSimulator('simulator_statevector') from IBMQ(hub='ibm-q', group='open', project='main')>, 
+<IBMQSimulator('simulator_mps') from IBMQ(hub='ibm-q', group='open', project='main')>, 
+<IBMQSimulator('simulator_extended_stabilizer') from IBMQ(hub='ibm-q', group='open', project='main')>, 
+<IBMQSimulator('simulator_stabilizer') from IBMQ(hub='ibm-q', group='open', project='main')>]
 >>> exit()
 $ cd ~/iot/lesson9
 $ python3 qiskit_terra_example.py
