@@ -63,7 +63,7 @@ $
 
 ### [Start Qiskit on the cloud](https://qiskit.org/documentation/getting_started.html)
 
-### Start Qiskit locally on Windows, macOS, or Raspberry Pi
+### Installing the latest Qiskit (such as qiskit-aqua) on Windows, macOS, or Raspberry Pi may not be successful
 
 #### Open Git Bash on Windows, install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
 ```sh
