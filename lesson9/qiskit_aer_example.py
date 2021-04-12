@@ -4,7 +4,7 @@ from qiskit.providers.aer.noise import NoiseModel
 
 # Choose a real device to simulate from IBMQ provider
 provider = IBMQ.load_account()
-backend = provider.get_backend('ibmq_valencia')
+backend = provider.get_backend('ibmq_lima')
 coupling_map = backend.configuration().coupling_map
 
 # Generate an Aer noise model for device
