@@ -61,7 +61,11 @@ $
 
 ### Learn quantum computation using Qiskit: [textbook](https://qiskit.org/textbook/preface.html)
 
-### Open Git Bash on Windows, install Qiskit, and copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
+### [Start Qiskit on the cloud](https://qiskit.org/documentation/getting_started.html)
+
+### Start Qiskit locally on Windows, macOS, or Raspberry Pi
+
+#### Open Git Bash on Windows, install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
 ```sh
 $ pip install qiskit qiskit[visualization]
 $ python -i
@@ -74,7 +78,7 @@ $ python qiskit_aer_example.py
 $ python qiskit_aqua_example.py
 $ python qiskit_ignis_example.py
 ```
-### On macOS, install Qiskit and copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
+#### On macOS, install Qiskit and copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
 ```sh
 $ sudo pip3 install qiskit qiskit[visualization]
 $ python3
@@ -88,7 +92,7 @@ $ python3 qiskit_aqua_example.py
 $ python3 qiskit_ignis_example.py
 ```
 
-### SSH -Y to Raspberry Pi, follow [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133) to install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
+#### SSH -Y to Raspberry Pi, follow [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133) to install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
 ```sh
 $ sudo sed -i 's/CONF_SWAPSIZE=100/CONF_SWAPSIZE=1024/' /etc/dphys-swapfile
 $ sudo /etc/init.d/dphys-swapfile stop
