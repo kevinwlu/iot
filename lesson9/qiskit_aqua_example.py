@@ -15,6 +15,6 @@ p cnf 3 5
 backend = Aer.get_backend('qasm_simulator')
 oracle = LogicalExpressionOracle(sat_cnf)
 algorithm = Grover(oracle)
-result = algorithm.run(backend)
+assignment = algorithm.run(backend)
 
-print(result["result"])
+print(assignment["assignment"])
