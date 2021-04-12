@@ -54,10 +54,8 @@ $
 ### [IBM Quantum Computing](https://www.ibm.com/quantum-computing/)
 
 ### Create an IBM Quantum Experience [account](https://quantum-computing.ibm.com/)
-
-### [Access systems with your account](https://quantum-computing.ibm.com/docs/manage/account/ibmq)
-
-### [User Guides](https://quantum-computing.ibm.com/docs/)
+* [User Guides](https://quantum-computing.ibm.com/docs/)
+* [Access systems with your account](https://quantum-computing.ibm.com/docs/manage/account/ibmq)
 
 ### IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
 
