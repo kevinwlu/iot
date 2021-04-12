@@ -63,9 +63,9 @@ $
 
 ### [Start Qiskit on the cloud](https://qiskit.org/documentation/getting_started.html)
 
-### Installing the latest Qiskit (such as qiskit-aqua) on Windows, macOS, or Raspberry Pi may not be successful
+### Install Qiskit on Raspberry Pi OS, Windows, or macOS
 
-#### SSH -Y to Raspberry Pi, follow [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133) to install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
+#### SSH -Y to Raspberry Pi, refer to [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133) for installing Qiskit on Raspberry Pi OS, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
 ```sh
 $ sudo sed -i 's/CONF_SWAPSIZE=100/CONF_SWAPSIZE=1024/' /etc/dphys-swapfile
 $ sudo /etc/init.d/dphys-swapfile stop
@@ -81,13 +81,8 @@ $ mkdir -p libcint/build && cd libcint/build
 $ cmake -DCMAKE_INSTALL_PREFIX:PATH=/usr/local/ ..
 $ sudo make install
 $ cd
-$ pip3 install --prefer-binary pyscf cython
-$ pip3 install --prefer-binary qiskit-terra
-$ pip3 install --prefer-binary qiskit-ignis
-$ pip3 install --prefer-binary qiskit-ibmq-provider
-$ pip3 install --prefer-binary qiskit-aqua
-$ pip3 install --prefer-binary qiskit-aer
-$ pip3 install --prefer-binary qiskit[visualization]
+$ sudo pip3 install --prefer-binary pyscf cython
+$ sudo pip3 install --prefer-binary 'qiskit[visualization]==0.23.1'
 $ python3
 >>> from qiskit import IBMQ
 >>> IBMQ.save_account('MY_API_TOKEN')
