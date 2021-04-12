@@ -63,7 +63,7 @@ $
 
 ### Open Git Bash on Windows, install Qiskit, and copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
 ```sh
-$ python -m pip install qiskit qiskit-terra[visualization]
+$ pip install qiskit qiskit[visualization]
 $ python -i
 >>> from qiskit import IBMQ
 >>> IBMQ.save_account('MY_API_TOKEN')
@@ -76,7 +76,7 @@ $ python qiskit_ignis_example.py
 ```
 ### On macOS, install Qiskit and copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
 ```sh
-$ sudo pip3 install qiskit qiskit-terra[visualization]
+$ sudo pip3 install qiskit qiskit[visualization]
 $ python3
 >>> from qiskit import IBMQ
 >>> IBMQ.save_account('MY_API_TOKEN')
