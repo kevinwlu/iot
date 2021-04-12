@@ -133,6 +133,9 @@ $ python3
 <IBMQSimulator('simulator_mps') from IBMQ(hub='ibm-q', group='open', project='main')>, 
 <IBMQSimulator('simulator_extended_stabilizer') from IBMQ(hub='ibm-q', group='open', project='main')>, 
 <IBMQSimulator('simulator_stabilizer') from IBMQ(hub='ibm-q', group='open', project='main')>]
+>>> backend = provider.get_backend('ibmq_lima')
+>>> backend
+<IBMQBackend('ibmq_lima') from IBMQ(hub='ibm-q', group='open', project='main')>
 >>> exit()
 $ cd ~/iot/lesson9
 $ python3 qiskit_terra_example.py
