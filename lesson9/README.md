@@ -51,15 +51,17 @@ $
 
 ## Lab 9B: Qiskit
 
-### Learn quantum computation using Qiskit: [textbook](https://qiskit.org/textbook/preface.html)
+### [IBM Quantum Computing](https://www.ibm.com/quantum-computing/)
 
 ### Create an IBM Quantum Experience [account](https://quantum-computing.ibm.com/)
 
-### [IBM Quantum Computation Center](https://www.ibm.com/blogs/research/2019/09/quantum-computation-center/)
-
 ### [Access systems with your account](https://quantum-computing.ibm.com/docs/manage/account/ibmq)
 
+### [User Guides](https://quantum-computing.ibm.com/docs/)
+
 ### IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
+
+### Learn quantum computation using Qiskit: [textbook](https://qiskit.org/textbook/preface.html)
 
 ### Open Git Bash on Windows, install Qiskit, and copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
 ```sh
