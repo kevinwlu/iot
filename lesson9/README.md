@@ -55,6 +55,8 @@ $
 
 ### Create an IBM Quantum Experience [account](https://quantum-computing.ibm.com/)
 
+### [IBM Quantum Computation Center](https://www.ibm.com/blogs/research/2019/09/quantum-computation-center/)
+
 ### IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
 
 ### Open Git Bash on Windows, install Qiskit, and copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
