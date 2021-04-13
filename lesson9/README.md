@@ -61,9 +61,7 @@ $
 * IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
 * Learn quantum computation using Qiskit: [textbook](https://qiskit.org/textbook/preface.html)
 
-### Install Qiskit on Raspberry Pi OS, Windows, or macOS
-
-#### SSH -Y to Raspberry Pi, refer to [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133) for installing Qiskit on Raspberry Pi OS, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
+### SSH -Y to Raspberry Pi, refer to [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133) for installing Qiskit on Raspberry Pi OS, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
 ```sh
 $ sudo sed -i 's/CONF_SWAPSIZE=100/CONF_SWAPSIZE=1024/' /etc/dphys-swapfile
 $ sudo /etc/init.d/dphys-swapfile stop
@@ -106,32 +104,6 @@ $ python3
 >>> backend = provider.get_backend('ibmq_lima')
 >>> backend
 <IBMQBackend('ibmq_lima') from IBMQ(hub='ibm-q', group='open', project='main')>
->>> exit()
-$ cd ~/iot/lesson9
-$ python3 qiskit_terra_example.py
-$ python3 qiskit_aer_example.py
-$ python3 qiskit_aqua_example.py
-$ python3 qiskit_ignis_example.py
-```
-#### Open Git Bash on Windows, install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
-```sh
-$ pip install qiskit qiskit[visualization]
-$ python -i
->>> from qiskit import IBMQ
->>> IBMQ.save_account('MY_API_TOKEN')
->>> exit()
-$ cd ~/iot/lesson9
-$ python qiskit_terra_example.py
-$ python qiskit_aer_example.py
-$ python qiskit_aqua_example.py
-$ python qiskit_ignis_example.py
-```
-#### On macOS, install Qiskit and copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run examples
-```sh
-$ sudo pip3 install qiskit qiskit[visualization]
-$ python3
->>> from qiskit import IBMQ
->>> IBMQ.save_account('MY_API_TOKEN')
 >>> exit()
 $ cd ~/iot/lesson9
 $ python3 qiskit_terra_example.py
