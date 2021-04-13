@@ -56,12 +56,10 @@ $
 ### Create an [account](https://quantum-computing.ibm.com/) for the IBM Quantum Composer and the IBM Quantum Lab previously known collectively as the [IBM Quantum Experience](https://en.wikipedia.org/wiki/IBM_Quantum_Experience)
 * [User Guides](https://quantum-computing.ibm.com/docs/)
 * [Access systems with your account](https://quantum-computing.ibm.com/docs/manage/account/ibmq)
-
-### IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
-
-### Learn quantum computation using Qiskit: [textbook](https://qiskit.org/textbook/preface.html)
-
-### [Start Qiskit on the cloud](https://qiskit.org/documentation/getting_started.html)
+* [Getting started with Qiskit](https://qiskit.org/documentation/getting_started.html)
+* [Qiskit tutorials](https://qiskit.org/documentation/tutorials.html)
+* IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
+* Learn quantum computation using Qiskit: [textbook](https://qiskit.org/textbook/preface.html)
 
 ### Install Qiskit on Raspberry Pi OS, Windows, or macOS
 
