@@ -5,6 +5,8 @@
 * [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 * [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
+* [Block list](https://btc.com/block) since 2009-01-03
+* [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/) (CBECI)
 * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
 * [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
