@@ -2,6 +2,7 @@
 
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [CPython](https://en.wikipedia.org/wiki/CPython)
+* [2to3](https://docs.python.org/3/library/2to3.html)
 * [pip](https://en.wikipedia.org/wiki/Pip_(package_manager))
 * [Unicode](https://en.wikipedia.org/wiki/Unicode)
 * [GPIO Zero](https://gpiozero.readthedocs.io/en/stable)
@@ -32,6 +33,7 @@ $ cd
 $ cd iot
 $ git pull
 $ cd lesson3
+$ 2to3 2example.py
 $ python julian.py
 $ python date_example.py
 $ python datetime_example.py
@@ -52,6 +54,7 @@ $ sudo pip3 install -U jdcal astral geopy
 $ cd iot
 $ git pull
 $ cd lesson3
+$ 2to3 2example.py
 $ python3 julian.py
 $ python3 date_example.py
 $ python3 datetime_example.py
