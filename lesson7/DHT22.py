@@ -1,4 +1,5 @@
 # http://abyz.me.uk/rpi/pigpio/examples.html#Python_DHT22_py
+# sudo pigpiod
 #!/usr/bin/env python
 
 # 2014-07-11 DHT22.py
