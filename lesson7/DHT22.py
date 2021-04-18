@@ -1,4 +1,4 @@
-# Source: http://abyz.me.uk/rpi/pigpio/examples.html#Python_DHT22_py
+# Source: joan2937, http://abyz.me.uk/rpi/pigpio/examples.html#Python_DHT22_py
 # Change DHT22 GPIO pin at Line 260, run "sudo pigpiod" before "python3 DHT22.py"
 #!/usr/bin/env python
 
