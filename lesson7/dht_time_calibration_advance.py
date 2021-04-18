@@ -18,7 +18,8 @@ import board
 import adafruit_dht
 
 # Change the pin used below
-pin_to_use = "PG6"
+#pin_to_use = "PG6"
+pin_to_use = "D24"
 
 # Maximum number of tries per timing
 max_retries_per_time = 10
