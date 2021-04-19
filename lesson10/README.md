@@ -47,12 +47,12 @@ $ cat snakecoin.py
 $ python3 snakecoin.py
 ```
 ### [Let’s Make the Tiniest Blockchain Bigger](https://medium.com/crypto-currently/lets-make-the-tiniest-blockchain-bigger-ac360a328f4d) Part 2: [With More Lines of Python](https://gist.github.com/aunyks/47d157f8bc7d1829a729c2a6a919c173) by Gerald Nash (2017-07-23)
-* Running on http://127.0.0.1:5000/mine (Reload the page to mine and press CTRL+C to quit)
 ```sh
 $ cat snakecoin-server-full-code.py
 $ python3 snakecoin-server-full-code.py
 $ cd
 ```
+* Running on http://127.0.0.1:5000/mine (Reload the page to mine and press CTRL+C to quit)
 ### Python blockchain app by [Satwik Kansal](https://github.com/satwikkansal)
 #### Terminal 1: Run node_server.py (Press CTRL+C to quit)
 ```sh
@@ -61,7 +61,6 @@ $ export FLASK_APP=node_server.py
 $ cd ~/python_blockchain_app
 $ flask run --port 8000
 ```
-
 #### Terminal 2: Run run_app.py (Press CTRL+C to quit)
 ```sh
 $ vncserver
@@ -71,7 +70,6 @@ $ python3 run_app.py
 * Via VNC viewer, open a browser on Raspberry Pi and go to YourNet running at at http://127.0.0.1:5000/ 
 * Enter content and post name, click "Request to mine" that generate "Block #1 is mined" at http://127.0.0.1:8000/mine
 * At YourNet, click "Resync" to view Block #1
-
 ## Lab 10B: IOTA
 
 ### [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library) and [IRI](https://docs.iota.org/docs/node-software/1.0/overview) (IOTA Reference Implementation)
