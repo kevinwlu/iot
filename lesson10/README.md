@@ -6,7 +6,7 @@
   * "[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)," [Oct. 31, 2008](https://archive.is/20121228025845/http://article.gmane.org/gmane.comp.encryption.general/12588/#selection-179.7-179.30)
 * [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
 * [Bitcoin network](https://en.wikipedia.org/wiki/Bitcoin_network)
-* [Block list](https://btc.com/block) since 2009-01-03
+* [Block list](https://btc.com/block) since [2009-01-03](https://btc.com/block?date=2009-01-03)
 * [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/) (CBECI)
 * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
