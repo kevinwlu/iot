@@ -35,7 +35,7 @@ $ python3 hash_value.py
 ```
 ### SHA-2 Secure Hash Algorithm
 * SHA-256 hash values or digests are 256 bits or 32 bytes
-* Each hexadecimal digit represents four binary digits, a [nibble](https://en.wikipedia.org/wiki/Nibble), which is half a byte
+* Each [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) digit represents four binary digits, a [nibble](https://en.wikipedia.org/wiki/Nibble), which is half a byte
 ```sh
 $ python3
 >>> import hashlib
