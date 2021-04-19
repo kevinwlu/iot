@@ -18,6 +18,9 @@
 * [Ripple](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 * [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
 * [IOTA](https://en.wikipedia.org/wiki/IOTA_(technology))
+  * [IOTA Tangle Utilities](https://utils.iota.org/)
+  * [IOTA Tangle MainNet](http://tangle.glumb.de/)
+  * [IOTA Tangle Explorer](https://thetangle.org/) by [Peter Willemsen](https://github.com/peterwilli) and contributors
 * [Directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (DAG)
 
 ## Lab 10A: Blockchain
