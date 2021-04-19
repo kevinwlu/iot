@@ -53,7 +53,8 @@ $ python3 snakecoin-server-full-code.py
 $ cd
 ```
 * Running on http://127.0.0.1:5000/mine (Reload the page to mine and press CTRL+C to quit)
-### Python blockchain app by [Satwik Kansal](https://github.com/satwikkansal)
+
+### [Python blockchain app](https://github.com/satwikkansal/python_blockchain_app) by [Satwik Kansal](https://github.com/satwikkansal)
 #### Terminal 1: Run node_server.py (Press CTRL+C to quit)
 ```sh
 $ git clone https://github.com/satwikkansal/python_blockchain_app.git
@@ -70,6 +71,7 @@ $ python3 run_app.py
 * Via VNC viewer, open a browser on Raspberry Pi and go to YourNet running at at http://127.0.0.1:5000/ 
 * Enter content and post name, click "Request to mine" that generate "Block #1 is mined" at http://127.0.0.1:8000/mine
 * At YourNet, click "Resync" to view Block #1
+
 ## Lab 10B: IOTA
 
 ### [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library) and [IRI](https://docs.iota.org/docs/node-software/1.0/overview) (IOTA Reference Implementation)
