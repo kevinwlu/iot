@@ -121,7 +121,7 @@ $ nano mam_receive.js
 $ nano mam_sensor.js
 ```
 ### Transactions in the Devnet must use a [minimum weight magnitude](https://docs.iota.org/docs/getting-started/1.1/first-steps/sending-transactions#doing-proof-of-work) (MWM) of 9 to be valid
-### Edit mam.client.js with ^W to search mwm and change it from 14 to 9 in Line 23375
+### Edit mam.client.js with ^W to search mwm and change it from 14 to 9 at the end of Line 23375
 ```sh
 $ cd ~/dht11-raspi3/lib
 $ nano mam.client.js
