@@ -1,6 +1,6 @@
 """
 https://docs.python.org/3/using/cmdline.html#envvar-PYTHONHASHSEED
-If PYTHONHASHSEED is not set or set to random, a random value is used to to seed the hases of str and bytes objects.
+If PYTHONHASHSEED is not set or set to random, a random value is used to to seed the hashes of str and bytes objects.
 If PYTHONHASHSEED is set to an integer value, it is used as a fixed seed for generating the hash() of the types covered by the hash randomization.
 Its purpose is to allow repeatable hashing, such as for selftests for the interpreter itself, or to allow a cluster of python processes to share hash values.
 The integer must be a decimal number in the range [0,4294967295]. Specifying the value 0 will disable hash randomization.
