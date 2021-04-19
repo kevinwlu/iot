@@ -1,4 +1,4 @@
-# 
+# Gerald Nash, "Let’s Make the Tiniest Blockchain Bigger Part 2: With More Lines of Python"
 from flask import Flask
 from flask import request
 import json
@@ -55,10 +55,10 @@ def transaction():
   this_nodes_transactions.append(new_txion)
   # Because the transaction was successfully
   # submitted, we log it to our console
-  print "New transaction"
-  print "FROM: {}".format(new_txion['from'].encode('ascii','replace'))
-  print "TO: {}".format(new_txion['to'].encode('ascii','replace'))
-  print "AMOUNT: {}\n".format(new_txion['amount'])
+  print("New transaction")
+  print("FROM: {}".format(new_txion['from'].encode('ascii','replace')))
+  print("TO: {}".format(new_txion['to'].encode('ascii','replace')))
+  print("AMOUNT: {}\n".format(new_txion['amount']))
   # Then we let the client know it worked out
   return "Transaction submission successful\n"
 
