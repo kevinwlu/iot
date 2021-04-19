@@ -47,7 +47,7 @@ $ cat snakecoin.py
 $ python3 snakecoin.py
 ```
 ### [Let’s Make the Tiniest Blockchain Bigger](https://medium.com/crypto-currently/lets-make-the-tiniest-blockchain-bigger-ac360a328f4d) Part 2: [With More Lines of Python](https://gist.github.com/aunyks/47d157f8bc7d1829a729c2a6a919c173) by Gerald Nash (2017-07-23)
-* Use VNC Viewer, open Chromium, and go to http://127.0.0.1:5000/mine (Reload the page to mine and press CTRL+C to quit)
+* Running on http://127.0.0.1:5000/mine (Reload the page to mine and press CTRL+C to quit)
 ```sh
 $ cat snakecoin-server-full-code.py
 $ python3 snakecoin-server-full-code.py
