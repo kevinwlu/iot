@@ -3,7 +3,7 @@
 * [Double-spending problem](https://en.wikipedia.org/wiki/Double-spending)
 * [Proof of work](https://en.wikipedia.org/wiki/Proof_of_work)
 * [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
-  * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+  * [_Bitcoin: A Peer-to-Peer Electronic Cash System_](https://bitcoin.org/bitcoin.pdf)
 * [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
 * [Bitcoin network](https://en.wikipedia.org/wiki/Bitcoin_network)
 * [Block list](https://btc.com/block) since 2009-01-03
