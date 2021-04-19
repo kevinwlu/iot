@@ -1,6 +1,6 @@
 # Gerald Nash, "Let’s Make the Tiniest Blockchain Bigger Part 2: With More Lines of Python"
 # Referred to https://www.pythonanywhere.com/forums/topic/12382/ that fixed sha.update() TypeError: Unicode-objects must be encoded before hashing
-# Running on http://127.0.0.1:5000/mine (Press CTRL+C to quit)
+# Running on http://127.0.0.1:5000/mine (Reload the page to mine and press CTRL+C to quit)
 from flask import Flask
 from flask import request
 import json
