@@ -26,6 +26,7 @@
 ## Lab 10A: Blockchain
 
 ### Hash function with randomization
+* Run hash_value.py twice and compare results
 ```sh
 $ cd ~/iot/lesson10
 $ cat hash_value.py
