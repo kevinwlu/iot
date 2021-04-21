@@ -20,7 +20,7 @@
 * [Industrial internent of things](https://en.wikipedia.org/wiki/Industrial_internet_of_things)
 * [Industry 4.0](https://en.wikipedia.org/wiki/Industry_4.0)
 
-## Basics
+## GitHub Basics
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
 * [Git](https://en.wikipedia.org/wiki/Git)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
