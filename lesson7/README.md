@@ -11,7 +11,7 @@
   * Adafruit Python DHT [repository](https://github.com/adafruit/Adafruit_Python_DHT) - Deprecated
 * [BMP280](https://www.adafruit.com/product/2651) I2C or SPI barometric pressure-temperature-altitude sensor
   * Adafruit CircuitPython BMP280 [repository](https://github.com/adafruit/Adafruit_CircuitPython_BMP280)
-* [BMP180](https://www.adafruit.com/product/1603) barometric pressure-temperature-altitude sensor - Discontinued
+* [BMP180](https://www.adafruit.com/product/1603) I2C barometric pressure-temperature-altitude sensor - Discontinued
   * Adafruit Python BMP [repository](https://github.com/adafruit/Adafruit_Python_BMP) - Deprecated
 
 ## Lab 7A: ThingSpeak
