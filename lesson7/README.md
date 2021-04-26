@@ -6,6 +6,13 @@
 * [gspread](https://gspread.readthedocs.io/en/latest)
 * [OAuth](https://en.wikipedia.org/wiki/OAuth)
 * [OpenID Connect](https://en.wikipedia.org/wiki/OpenID_Connect) (OIDC)
+* [DHT22](https://www.adafruit.com/product/385) and [AM2302](https://www.adafruit.com/product/393)
+  * Adafruit CircuitPython DHT [repository](https://github.com/adafruit/Adafruit_CircuitPython_DHT)
+  * Adafruit Python DHT [repository](https://github.com/adafruit/Adafruit_Python_DHT) - Deprecated
+* [BMP280](https://www.adafruit.com/product/2651)
+  * Adafruit CircuitPython BMP280 [repository](https://github.com/adafruit/Adafruit_CircuitPython_BMP280)
+* [BMP180](https://www.adafruit.com/product/1603) - Discontinued
+  * Adafruit Python BMP [repository](https://github.com/adafruit/Adafruit_Python_BMP) - Deprecated
 
 ## Lab 7A: ThingSpeak
 
