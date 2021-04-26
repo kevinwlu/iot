@@ -3,6 +3,7 @@
 * [Ambient Temperature and Humidity Observer](https://github.com/tylercona/project)
 * [Crypto Miner](https://github.com/vapork/IOT)
 * [Homebridge](https://github.com/homebridge/homebridge)
+* [Raspberry Pi Twitter Bot](https://github.com/bip63/EE629)
 
 # 2020 Fall
 
