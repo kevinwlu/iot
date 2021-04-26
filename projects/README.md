@@ -1,6 +1,7 @@
 # 2021 Spring
 
 * [Ambient Temperature and Humidity Observer](https://github.com/tylercona/project)
+* [Crypto Miner](https://github.com/vapork/IOT)
 * [Homebridge](https://github.com/homebridge/homebridge)
 
 # 2020 Fall
