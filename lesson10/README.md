@@ -141,15 +141,15 @@ $ node mam_receive.js YOUR_ROOT
 ```
 
 ### Change sensor type from DHT11 to DHT22 and GPIO pin from 4 to 24 (The sensor is required)
-
-![dht22_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson10/dht22_bb.png)
-
 ```sh
 $ cd ~/dht11-raspi3
 $ nano sensor.js
 $ nano mam_sensor.js
 $ node sensor.js
 ```
+
+![dht22_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson10/dht22_bb.png)
+
 ### Terminal 1: Run mam_sensor.js (Press CTRL+Z to stop)
 ```sh
 $ cd ~/dht11-raspi3
