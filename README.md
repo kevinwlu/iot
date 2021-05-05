@@ -17,6 +17,7 @@
 ## References
 * [Hands-on books series](http://www.hands-on-books-series.com)
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
+  * [ETSI](https://en.wikipedia.org/wiki/ETSI) White Paper No. 45: [_ETSI Technology Radar_](https://www.etsi.org/images/files/ETSIWhitePapers/etsi_wp45_ETSI_technology_radar.pdf)
 * [Industrial internent of things](https://en.wikipedia.org/wiki/Industrial_internet_of_things)
 * [Industry 4.0](https://en.wikipedia.org/wiki/Industry_4.0)
 
