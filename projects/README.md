@@ -3,6 +3,7 @@
 * [Ambient Temperature and Humidity Observer](https://github.com/tylercona/project)
 * [Crypto Miner](https://github.com/vapork/IOT)
 * [Homebridge](https://github.com/homebridge/homebridge)
+* [Home Security Camera](https://github.com/Ibrahim-Alqarni/IoT)
 * [Intrusion Detection System](https://github.com/anasaqeel/EE-629_IoT)
 * [Plant Monitoring System](https://github.com/errski/EE629IoT)
 * [Raspberry Pi Twitter Bot](https://github.com/bip63/EE629)
