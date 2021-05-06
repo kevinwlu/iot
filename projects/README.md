@@ -1,6 +1,7 @@
 # 2021 Spring
 
 * [Ambient Temperature and Humidity Observer](https://github.com/tylercona/project)
+* [COVID-19 Data Analysis](https://github.com/Jraffone/EE629)
 * [Crypto Miner](https://github.com/vapork/IOT)
 * [Decision Tree Model in Python](https://github.com/Yuxuan291/ee629)
 * [Homebridge](https://github.com/homebridge/homebridge)
