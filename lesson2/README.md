@@ -10,11 +10,19 @@
 * [LXDE](https://en.wikipedia.org/wiki/LXDE)
 * [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO)
 * [Serial communication](https://en.wikipedia.org/wiki/Serial_communication)
+  * Universal asynchronous receiver-transmitter (UART)
 * [Serial peripheral interface](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (SPI)
+  * Main/microcontroller in secondary/sensor out (MISO)
+  * Main/microcontroller out secondary/sensor in (MOSI)
+  * Serial clock (SCLK)
+  * Chip enable (CE0/CE1)
+* [Inter-integrated circuit](https://en.wikipedia.org/wiki/I%C2%B2C) (I2C)
+  * Serial data line (SDA)
+  * Serial clock line (SCL)
+* [1-Wire](https://en.wikipedia.org/wiki/1-Wire)
+  * Data input/output (DQ)
 * [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
 * [Light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED)
-* [Inter-integrated circuit](https://en.wikipedia.org/wiki/I%C2%B2C) (I2C)
-* [1-Wire](https://en.wikipedia.org/wiki/1-Wire)
 * [Universal Serial Bus](https://en.wikipedia.org/wiki/USB) (USB)
 * [Webcam](https://en.wikipedia.org/wiki/Webcam)
 
@@ -78,7 +86,7 @@ control-a x
 
 ## Lab 2B: Serial peripheral interface (SPI)
 
-* Connect the SPI COPI and CIPO pins (the 10th and 11th pins from the left of the bottom row) using one DuPont female-to-female jump wire
+* Connect the SPI MOSI and MISO pins (the 10th and 11th pins from the left of the bottom row) using one DuPont female-to-female jump wire
 
 ![spi.png](https://github.com/kevinwlu/iot/blob/master/lesson2/spi.png)
 
