@@ -9,6 +9,8 @@
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
 * [LXDE](https://en.wikipedia.org/wiki/LXDE)
 * [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO)
+* [Sensor](https://en.wikipedia.org/wiki/Sensor)
+* [Actuator](https://en.wikipedia.org/wiki/Actuator)
 * [Serial communication](https://en.wikipedia.org/wiki/Serial_communication)
   * [Universal asynchronous receiver-transmitter](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter) (UART)
 * [Serial peripheral interface](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (SPI)
