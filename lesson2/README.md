@@ -155,7 +155,7 @@ $ sudo i2cdetect -y 1
 60: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
 70: -- -- -- -- -- -- -- -- 
 ```
-* Connect I2C device BMP180 (barometric pressure sensor) to 3V3, GND, SDA, and SCL of a Raspberry Pi
+* Connect I2C device BMP180 or BMP280 (barometric pressure sensor) to 3V3, GND, SDA, and SCL of a Raspberry Pi
 
 ![bmp180_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/bmp180_bb.png)
 
