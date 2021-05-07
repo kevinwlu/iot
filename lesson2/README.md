@@ -10,7 +10,7 @@
 * [LXDE](https://en.wikipedia.org/wiki/LXDE)
 * [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO)
 * [Serial communication](https://en.wikipedia.org/wiki/Serial_communication)
-  * Universal asynchronous receiver-transmitter (UART)
+  * [Universal asynchronous receiver-transmitter](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter) (UART)
 * [Serial peripheral interface](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (SPI)
   * Main/microcontroller in secondary/sensor out (MISO)
   * Main/microcontroller out secondary/sensor in (MOSI)
