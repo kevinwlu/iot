@@ -9,7 +9,7 @@
   * [Block list](https://btc.com/block) since [2009-01-03](https://btc.com/block?date=2009-01-03)
   * [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/) (CBECI)
   * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
-  * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+* [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
   * [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
   * [Hash function](https://en.wikipedia.org/wiki/Hash_function)
   * [SHA-2](https://en.wikipedia.org/wiki/SHA-2) (Secure Hash Algorithm 2)
@@ -18,6 +18,7 @@
   * [Blockchain oracle](https://en.wikipedia.org/wiki/Blockchain_oracle)
   * [Chainlink](https://en.wikipedia.org/wiki/Chainlink_(cryptocurrency))
 * [Ripple](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
+* [Diem](https://en.wikipedia.org/wiki/Diem_(digital_currency)), formly Libra
 * [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
 * [IOTA](https://en.wikipedia.org/wiki/IOTA_(technology))
   * [Directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (DAG)
