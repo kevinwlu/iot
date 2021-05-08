@@ -80,6 +80,8 @@ $ python3 run_app.py
 
 ## Lab 10B: IOTA
 
+* Only sensor.js and mam_sensor.js require DHT11 or DHT22 humidity and temperature sensor
+
 ### [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library) and [IRI](https://docs.iota.org/docs/node-software/1.0/overview) (IOTA Reference Implementation)
 
 ```sh
