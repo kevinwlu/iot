@@ -18,7 +18,8 @@
   * [Blockchain oracle](https://en.wikipedia.org/wiki/Blockchain_oracle)
   * [Chainlink](https://en.wikipedia.org/wiki/Chainlink_(cryptocurrency))
 * [Ripple](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
-* [Diem](https://en.wikipedia.org/wiki/Diem_(digital_currency)), formly Libra
+* [Diem](https://en.wikipedia.org/wiki/Diem_(digital_currency)) (formly Libra)
+  * [Diem Blockchain](https://developers.diem.com/main)
   * [Byzantine fault](https://en.wikipedia.org/wiki/Byzantine_fault) tolerance (BFT)
 * [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
 * [IOTA](https://en.wikipedia.org/wiki/IOTA_(technology))
