@@ -1,5 +1,9 @@
 # Lesson 10: Blockchain
 
+* [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+  * [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
+  * [Hash function](https://en.wikipedia.org/wiki/Hash_function)
+  * [SHA-2](https://en.wikipedia.org/wiki/SHA-2) (Secure Hash Algorithm 2)
 * [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
   * [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto), "[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)," [Oct. 31, 2008](https://archive.is/20121228025845/http://article.gmane.org/gmane.comp.encryption.general/12588/#selection-179.7-179.30)
   * [Double-spending problem](https://en.wikipedia.org/wiki/Double-spending)
@@ -8,10 +12,6 @@
   * [Block list](https://btc.com/block) since [2009-01-03](https://btc.com/block?date=2009-01-03)
   * [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/) (CBECI)
   * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
-* [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
-  * [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
-  * [Hash function](https://en.wikipedia.org/wiki/Hash_function)
-  * [SHA-2](https://en.wikipedia.org/wiki/SHA-2) (Secure Hash Algorithm 2)
 * [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
   * [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
   * [Blockchain oracle](https://en.wikipedia.org/wiki/Blockchain_oracle)
