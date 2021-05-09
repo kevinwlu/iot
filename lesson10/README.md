@@ -1,10 +1,9 @@
 # Lesson 10: Blockchain
 
-* [Double-spending problem](https://en.wikipedia.org/wiki/Double-spending)
-* [Proof of work](https://en.wikipedia.org/wiki/Proof_of_work)
-* [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
-  * "[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)," [Oct. 31, 2008](https://archive.is/20121228025845/http://article.gmane.org/gmane.comp.encryption.general/12588/#selection-179.7-179.30)
 * [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
+  * [Double-spending problem](https://en.wikipedia.org/wiki/Double-spending)
+  * [Proof of work](https://en.wikipedia.org/wiki/Proof_of_work)
+  * [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto), "[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)," [Oct. 31, 2008](https://archive.is/20121228025845/http://article.gmane.org/gmane.comp.encryption.general/12588/#selection-179.7-179.30)
   * [Bitcoin network](https://en.wikipedia.org/wiki/Bitcoin_network)
   * [Block list](https://btc.com/block) since [2009-01-03](https://btc.com/block?date=2009-01-03)
   * [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/) (CBECI)
