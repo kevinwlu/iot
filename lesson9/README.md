@@ -11,6 +11,7 @@
 * [GNU Image Manipulation Program](https://en.wikipedia.org/wiki/GIMP) (GIMP)
 * [Pinta](https://en.wikipedia.org/wiki/Pinta_(software))
 * [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
+  * [Qubit](https://en.wikipedia.org/wiki/Qubit)
 * [Cloud Native Computing Foundation](https://en.wikipedia.org/wiki/Cloud_Native_Computing_Foundation) (CNCF)
 * [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) (K8s)
     * [Numeronym](https://en.wikipedia.org/wiki/Numeronym)
