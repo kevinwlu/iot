@@ -8,6 +8,7 @@
 * [Intrusion Detection System](https://github.com/anasaqeel/EE-629_IoT)
 * [Plant Monitoring System](https://github.com/errski/EE629IoT)
 * [Raspberry Pi Twitter Bot](https://github.com/bip63/EE629)
+* [SnoopFi](https://github.com/jtrugman/SnoopFi)
 
 # 2020 Fall
 
