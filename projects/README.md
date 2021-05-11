@@ -4,7 +4,6 @@
 * [COVID-19 Data Analysis](https://github.com/Jraffone/EE629)
 * [Crypto Miner](https://github.com/vapork/IOT)
 * [Decision Tree Model in Python](https://github.com/Yuxuan291/ee629)
-* [Homebridge](https://github.com/homebridge/homebridge)
 * [Home Security Camera](https://github.com/Ibrahim-Alqarni/IoT)
 * [Intrusion Detection System](https://github.com/anasaqeel/EE-629_IoT)
 * [Plant Monitoring System](https://github.com/errski/EE629IoT)
