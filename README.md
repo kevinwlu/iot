@@ -39,6 +39,7 @@
 * [.NET Core IoT libraries](https://github.com/dotnet/iot)
 * [IBM Watson IoT](https://github.com/ibm-watson-iot)
 * [Intel IoT developer kit](https://github.com/intel-iot-devkit)
+* [Homebridge](https://github.com/homebridge/homebridge)
 
 ## Standards
 
