@@ -6,9 +6,11 @@
 
 ## Lab 1A: Raspberry Pi and Wi-Fi
 
-### 1. On a laptop computer, download and open [Raspberry Pi Imager](https://www.raspberrypi.org/software/) 
+* [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) only supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32 GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system
+* Any SD card larger than 32 GB is an SDXC card with the [exFAT](https://en.wikipedia.org/wiki/ExFAT)) file system that needs to be reformatted as FAT32 first
+  * [Formatting an SXDC card](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md)
 
-#### [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32 GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system only (cannot use SDXC cards with [exFAT](https://en.wikipedia.org/wiki/ExFAT))
+### 1. On a laptop computer, download and open [Raspberry Pi Imager](https://www.raspberrypi.org/software/) 
 
 * Insert an SD card to the laptop computer
 * Click "CHOOSE OS" and select "Raspberry Pi OS (32-bit)" or "Erase (Format card as FAT32)"
