@@ -14,7 +14,9 @@
   * [Qubit](https://en.wikipedia.org/wiki/Qubit)
 * [Cloud Native Computing Foundation](https://en.wikipedia.org/wiki/Cloud_Native_Computing_Foundation) (CNCF)
 * [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) (K8s)
-    * [Numeronym](https://en.wikipedia.org/wiki/Numeronym)
+  * [Numeronym](https://en.wikipedia.org/wiki/Numeronym)
+* [Microservices](https://en.wikipedia.org/wiki/Microservices)
+  * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
 
 ## Lab 9A: YANG ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
 
