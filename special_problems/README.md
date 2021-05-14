@@ -1,5 +1,7 @@
 # 2021 Spring
 
+* Picture [Quality Enhancing](https://github.com/fordreamever/EE800SuperResolution) and [Style Conversion](https://github.com/fordreamever/EE800StyleConversion)
+
 # 2020 Fall
 
 * [Gesture Recognition Using Deep Learning](https://github.com/csash7/gesture_recognition)
