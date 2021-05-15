@@ -1,3 +1,4 @@
+# KeyboardInterrupt: press Control-C to stop time_example.py
 import time
 while True:
     try:
