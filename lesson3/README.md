@@ -1,10 +1,10 @@
 # Lesson 3: Python
 
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+  * [CPython](https://en.wikipedia.org/wiki/CPython)
   * [Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution))
   * [Keyboard interrupt](https://en.wikipedia.org/wiki/Keyboard_interrupt)
   * [Control-C](https://en.wikipedia.org/wiki/Control-C)
-* [CPython](https://en.wikipedia.org/wiki/CPython)
 * [2to3](https://docs.python.org/3/library/2to3.html)
 * [pip](https://en.wikipedia.org/wiki/Pip_(package_manager))
 * [Unicode](https://en.wikipedia.org/wiki/Unicode)
