@@ -79,6 +79,7 @@ $ python3 system_info.py
 $ ifconfig
 ```
 ### Run [network socket](https://en.wikipedia.org/wiki/Network_socket) server from a Terminal, and run network socket client from ANOTHER Terminal of the same Raspberry Pi or a different one on the same subnetwork using the IP address with quotation marks
+* 'The Server IP Address' is a placeholder to be replaced with the real IP address such as '192.168.1.200'
 ```sh
 $ python3 socket_server.py
 $ python3 socket_client.py 'The Server IP Address'
