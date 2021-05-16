@@ -97,7 +97,8 @@ $ python3 manual.py
 $ python3 auto.py
 ```
 ### 3. Make a new directory, copy files to the current directory (in a single dot as opposed to the parent directory in double dots), edit (replace GMAIL_ADDRESS, RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD)
-* Note: hello.py requires a button to be pressed for sending an email
+* test_email.py doesn't require the breadboard
+* hello.py requires a button to be pressed for sending an email
 ```sh
 $ cd
 $ mkdir demo
