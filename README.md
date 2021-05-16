@@ -28,8 +28,7 @@
 * [GitHub Pages](https://pages.github.com/)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [GIPHY Capture](https://giphy.com/apps/giphycapture)
-* [MP4 to GIF](https://www.onlineconverter.com/mp4-to-gif)
+* [How to convert video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
 
 ## Repositories
 * [ThingsBoard](https://github.com/thingsboard)
