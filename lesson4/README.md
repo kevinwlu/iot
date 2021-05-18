@@ -79,7 +79,7 @@ $ python3 memory_game.py
 * Click "Create Skill" > Enter Skill name in title case: Memory Game > 1. Choose a model: Custom (SELECTED) > 2. Choose a host: Provision your own (SELECTED) > Click "Create skill" > Choose a template: Hello World Skill > Click "Choose"
 * Invocation > Enter Skill Invocation Name in lowercase: memory game
 * Interaction Model > 
-  * JSON Editor > Replace all intent schema and sample utterances with iot/lesson4/memory_game.json
+  * JSON Editor > Replace all intent schema and sample utterances with the entire contents of ~/iot/lesson4/memory_game.json
   * Save Model > Build Model
 * Endpoint >
   * Service Endpoint Type: HTTPS
