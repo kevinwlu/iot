@@ -14,6 +14,7 @@ pi@raspberrypi:~/myraspi $ ls
 manage.py  myapp  myraspi
 ```
 ## Create MySQL database
+* Skip the step to create user pi@localhost if it has been created
 ```sh
 pi@raspberrypi:~ $ sudo mysql -u root -p
 Enter password: PASSWORD
