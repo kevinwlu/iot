@@ -137,8 +137,8 @@ pi@raspberrypi:~ $ vncserver
 ```sh
 $ sudo shutdown -h now
 ```
-### 6. Always unplug the power after the Raspberry Pi green LED blinks ten times
-
+### 6. After the Raspberry Pi green LED blinks ten times, it's safe to pull the power
+* The Raspberry Pi 4 uses the onboard [EEPROM](https://en.wikipedia.org/wiki/EEPROM) instead of bootcode.bin in the [boot folder](https://www.raspberrypi.org/documentation/configuration/boot_folder.md)
 ## Alternative 1: VNC Connect
 
 * VNC Connect is included with the latest NOOBS for non-commercial use
