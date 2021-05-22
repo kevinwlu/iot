@@ -124,11 +124,11 @@ $ python3 ~/startup_mailer.py
 
 ### 1. On a laptop, download [VNC Viewer](https://www.realvnc.com/download/viewer)
 
-### 2. Open a Terminal on macOS/Linux or any of the following on Windows
+### 2. Open a Terminal on macOS/Linux or any of the following [terminal emulators](https://en.wikipedia.org/wiki/Terminal_emulator) on Windows
 * [Windows Terminal](https://en.wikipedia.org/wiki/Windows_Terminal)
 * [Git Bash](https://gitforwindows.org/)
 * [PuTTY](https://en.wikipedia.org/wiki/PuTTY)
-### 3. Run SSH client to log into Raspberry Pi
+### 3. Run an SSH client to log into Raspberry Pi
 ```sh
 $ ssh pi@192.168.x.xxx
 pi@raspberrypi:~ $ vncserver
