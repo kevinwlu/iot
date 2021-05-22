@@ -124,20 +124,24 @@ $ python3 ~/startup_mailer.py
 
 ### 1. On a laptop, download [VNC Viewer](https://www.realvnc.com/download/viewer)
 
-### 2. Open a Terminal on macOS/Linux or [Git Bash](https://gitforwindows.org/) on Windows, and enter
+### 2. Open a Terminal on macOS/Linux or any of the following on Windows
+* [Windows Terminal](https://en.wikipedia.org/wiki/Windows_Terminal)
+* [Git Bash](https://gitforwindows.org/)
+* [PuTTY](https://en.wikipedia.org/wiki/PuTTY)
+### 3. Run SSH client to log into Raspberry Pi
 ```sh
 $ ssh pi@192.168.x.xxx
 pi@raspberrypi:~ $ vncserver
 ```
-### 3. Open VNC Viewer, and enter 192.168.x.xxx:1, username pi, and password
+### 4. Open VNC Viewer, and enter 192.168.x.xxx:1, username pi, and password
 
-### 4. Click the Web Browser icon to launch [Chromium](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+### 5. Click the Web Browser icon to launch [Chromium](https://en.wikipedia.org/wiki/Chromium_(web_browser))
 
-### 5. Always shutdown Raspberry Pi properly from the applications menu or from the Terminal
+### 6. Always shutdown Raspberry Pi properly from the applications menu or from the Terminal
 ```sh
 $ sudo shutdown -h now
 ```
-### 6. After the Raspberry Pi green LED blinks ten times, it's safe to pull the power
+### 7. After the Raspberry Pi green LED blinks ten times, it's safe to pull the power
 * The Raspberry Pi 4 uses the onboard [EEPROM](https://en.wikipedia.org/wiki/EEPROM) instead of bootcode.bin in the [boot folder](https://www.raspberrypi.org/documentation/configuration/boot_folder.md)
 ## Alternative 1: VNC Connect
 
