@@ -72,7 +72,7 @@
 * 2-Step Verification > TURN ON > Select a second verification step > Authenticator app (Default)
 * App passwords > Select the app (Mail) and device (Raspberry Pi) > GENERATE
 
-### 2. Click the [Terminal](https://en.wikipedia.org/wiki/Terminal_emulator) icon at the left of the menu bar
+### 2. Click the [Terminal](https://www.raspberrypi.org/documentation/usage/terminal/) icon at the left of the menu bar
 
 #### Clone the IoT repository on a Raspberry Pi
 ```sh
