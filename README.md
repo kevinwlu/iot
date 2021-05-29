@@ -32,17 +32,18 @@
 * [How to Convert Video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
 
 ## Tutorials
-* I[BM Developer IoT Tutorials](https://developer.ibm.com/technologies/iot/tutorials/)
+* [IBM Developer IoT Tutorials](https://developer.ibm.com/technologies/iot/tutorials/)
 
 ## Repositories
-* [ThingsBoard](https://github.com/thingsboard)
-* [Microsoft IoT](https://github.com/ms-iot)
 * [Awesome IoT](https://github.com/phodal/awesome-iot)
-* [Awesome IoT projects](https://github.com/phodal/awesome-iot-projects)
-* [.NET Core IoT libraries](https://github.com/dotnet/iot)
+  * [Awesome IoT projects](https://github.com/phodal/awesome-iot-projects)
+* [Microsoft IoT](https://github.com/ms-iot)
+  * [.NET Core IoT libraries](https://github.com/dotnet/iot)
+* [Homebridge](https://github.com/homebridge/homebridge)
 * [IBM Watson IoT](https://github.com/ibm-watson-iot)
 * [Intel IoT developer kit](https://github.com/intel-iot-devkit)
-* [Homebridge](https://github.com/homebridge/homebridge)
+* [ThingsBoard](https://github.com/thingsboard)
+* [TinyML](https://github.com/mit-han-lab/tinyml)
 
 ## Standards
 
