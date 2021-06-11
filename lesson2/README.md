@@ -68,7 +68,7 @@ hheelllloo
 control-a x
 ```
 
-### 3. Optionally, perform serial test between two Raspberry Pi's using three DuPont female-to-female jump wire
+### 3. Optionally, perform serial test between two Raspberry Pi's using three DuPont jump wire
 * Connect TX of a Raspberry Pi to RX of the other Raspberry Pi
 * Connect RX of a Raspberry Pi to TX of the other Raspberry Pi
 * Connect GND of both Raspberry Pi's
@@ -88,7 +88,7 @@ control-a x
 
 ## Lab 2B: Serial peripheral interface (SPI)
 
-* Connect the SPI MOSI and MISO pins (the 10th and 11th pins from the left of the bottom row) using one DuPont female-to-female jump wire
+* Connect the SPI MOSI and MISO pins (the 10th and 11th pins from the left of the bottom row) using one DuPont jump wire
 
 ![spi.png](https://github.com/kevinwlu/iot/blob/master/lesson2/spi.png)
 
@@ -122,7 +122,7 @@ F0 0D
 
 ## Lab 2D: Light-emitting diode (LED)
 
-### 1. Connect an LED on a breadboard to the Raspberry Pi GPIO using two DuPont male-to-female jump wires as shown in Lab C
+### 1. Connect an LED on a breadboard to the Raspberry Pi GPIO using two DuPont jump wires as shown in Lab C
 
 ### 2. On a Terminal, enter the following commands to switch an LED on/off 
 ```sh
