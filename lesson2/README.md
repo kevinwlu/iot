@@ -42,7 +42,7 @@ $ sudo reboot
 
 ### 2. Serial [loopback](https://en.wikipedia.org/wiki/Loopback) test
 
-* Connect two serial pins (the 4th and 5th pins from the left of the top row) using one DuPont female-to-female [jump wires](https://en.wikipedia.org/wiki/Jump_wire)
+* Connect two serial pins (the 4th and 5th pins from the left of the top row) using one DuPont [jump wires](https://en.wikipedia.org/wiki/Jump_wire)
 
 ![serial.png](https://github.com/kevinwlu/iot/blob/master/lesson2/serial.png)
 
