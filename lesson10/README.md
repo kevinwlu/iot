@@ -132,17 +132,18 @@ $ nano mam_receive.js
 $ nano mam_sensor.js
 ```
 ### Transactions in the Devnet must use a [minimum weight magnitude](https://docs.iota.org/docs/getting-started/1.1/first-steps/sending-transactions#doing-proof-of-work) (MWM) of 9 to be valid
-### Edit mam.client.js with ^W to search mwm and change it from 14 to 9 at the end of Line 23375
+### Edit mam.client.js to search mwm and change it from 14 to 9 at the end of Line 23375
+* In the [GNU nano](https://en.wikipedia.org/wiki/GNU_nano) text editor, Ctrl+W (shown as as ^W) goes to the search menu
 ```sh
 $ cd ~/dht11-raspi3/lib
 $ nano mam.client.js
 ```
-### Terminal 1: Run mam_publish.js (Press CTRL+Z to stop)
+### Terminal 1: Run mam_publish.js (Press Ctrl+Z to stop)
 ```sh
 $ cd ~/dht11-raspi3
 $ node mam_publish.js
 ```
-### Terminal 2 on the same or another Raspberry Pi: Run mam_receive.js (Press CTRL+Z to stop)
+### Terminal 2 on the same or another Raspberry Pi: Run mam_receive.js (Press Ctrl+Z to stop)
 ```sh
 $ cd ~/dht11-raspi3
 $ node mam_receive.js YOUR_ROOT
@@ -158,12 +159,12 @@ $ node sensor.js
 
 ![dht22_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson10/dht22_bb.png)
 
-### Terminal 1: Run mam_sensor.js (Press CTRL+Z to stop)
+### Terminal 1: Run mam_sensor.js (Press Ctrl+Z to stop)
 ```sh
 $ cd ~/dht11-raspi3
 $ node mam_sensor.js
 ```
-### Terminal 2 on the same or another Raspberry Pi: Run mam_receive.js (Press CTRL+Z to stop)
+### Terminal 2 on the same or another Raspberry Pi: Run mam_receive.js (Press Ctrl+Z to stop)
 ```sh
 $ cd ~/dht11-raspi3
 $ node mam_receive.js YOUR_ROOT
