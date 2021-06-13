@@ -64,17 +64,17 @@ $ cat snakecoin-server-full-code.py
 $ python3 snakecoin-server-full-code.py
 $ cd
 ```
-* Running on http://127.0.0.1:5000/mine (Reload the page to mine and press CTRL+C to quit)
+* Running on http://127.0.0.1:5000/mine (Reload the page to mine and press Ctrl+C to quit)
 
 ### [Python blockchain app](https://github.com/satwikkansal/python_blockchain_app) by [Satwik Kansal](https://github.com/satwikkansal)
-#### Terminal 1: Run node_server.py (Press CTRL+C to quit)
+#### Terminal 1: Run node_server.py (Press Ctrl+C to quit)
 ```sh
 $ git clone https://github.com/satwikkansal/python_blockchain_app.git
 $ export FLASK_APP=node_server.py
 $ cd ~/python_blockchain_app
 $ flask run --port 8000
 ```
-#### Terminal 2: Run run_app.py (Press CTRL+C to quit)
+#### Terminal 2: Run run_app.py (Press Ctrl+C to quit)
 ```sh
 $ vncserver
 $ cd ~/python_blockchain_app
