@@ -92,6 +92,7 @@ $ cp ~/iot/lesson1/startup_mailer.py .
 * "~" represents the directory /home/pi
 * "." represents the current directory
 * ".." represents the parent directory
+* Use a text editor such as the [GNU nano](https://en.wikipedia.org/wiki/GNU_nano)
 ```sh
 $ nano startup_mailer.py
 ```
