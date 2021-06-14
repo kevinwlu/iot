@@ -1,9 +1,6 @@
 # 2021 Spring
 
 * [Ambient Temperature and Humidity Observer](https://github.com/tylercona/project)
-* Contact Tracing App
-  * [Front End](https://github.com/BriannaPGarland/ContactTracingApp-FrontEnd)
-  * [Back End](https://github.com/BriannaPGarland/ContactTracingApp-BackEnd)
 * [COVID-19 Data Analysis](https://github.com/Jraffone/EE629)
 * [Crypto Miner](https://github.com/vapork/IOT)
 * [Decision Tree Model in Python](https://github.com/Yuxuan291/ee629)
@@ -15,6 +12,9 @@
 * [Raspberry Pi Twitter Bot](https://github.com/bip63/EE629)
 * [Room Temperature and Humidity Monitor](https://github.com/wastelander47/629IoT/tree/main/Project)
 * [SnoopFi](https://github.com/jtrugman/SnoopFi)
+* [TraQ Contact Tracing App](https://sites.google.com/stevens.edu/traq)
+  * [Front End](https://github.com/BriannaPGarland/ContactTracingApp-FrontEnd)
+  * [Back End](https://github.com/BriannaPGarland/ContactTracingApp-BackEnd)
 
 # 2020 Fall
 
