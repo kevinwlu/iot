@@ -75,6 +75,7 @@
 * [YouTube Karaoke](https://github.com/ygunarso/ee629) <!--Yohanes Steven Gunarso-->
 * [Twitter Analysis Program](https://github.com/nhilden1114/ee629) <!--Nicole Hilden-->
 * [Environment Sensing and Monitoring](https://github.com/MrJay37/EE629_Project_Environment_Sensing) <!--Sanket Jain, Mansi Joshi, Neel Haria-->
+* [Fake Review Detection System](https://github.com/awurst3/CPE322)
 * [Digital-Heartbeat](https://github.com/jmac97/Digital-Heartbeat) <!--Julie McEldoon-->
 * [ALERTME - Essential Notifications Cloud Application](https://github.com/jeshu54/Hubmaster) <!--Avro Mukherjee-->
 * [Driverless Car](https://github.com/AbhinandanNuli/IoT-Autonomous-Robocar) <!--Abhinandan Nuli-->
