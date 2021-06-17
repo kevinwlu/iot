@@ -60,8 +60,8 @@
 
 # 2020 Summer
 
-* [HomeKit by ESP8266](https://github.com/hanzhenglong/homekit-by-esp8266-) <!--Zhenglong Han-->
 * [Absence Checker for Online Meetings](https://github.com/Travel-Cat/Travel-Cat.github.io) <!--Yibin Wang-->
+* [HomeKit by ESP8266](https://github.com/hanzhenglong/homekit-by-esp8266-) <!--Zhenglong Han-->
 
 # 2020 Spring
 
