@@ -65,31 +65,31 @@
 
 # 2020 Spring
 
-* [Monitoring Temperature](https://github.com/AbdullahAlnutayfat/EE-629-A/tree/master/finalproject) <!--Abdullah Alnutayfat-->
-* [Pi-hole](https://github.com/mbozinov/EE-629-IoT) <!--Mitko Bozinov, Ethan Jones-->
-* [Indoor Weather Monitor](https://github.com/lun-weichang/EE629_S2020) <!--Lun-Wei Chang-->
-* [Controlling PC Using Kafka and Arduino Nano BLE Sense](https://github.com/csash7/raspberrypi) <!--Seshasai Chaturvedula-->
-* [Raspberry Pi Temperature Detection Alarm](https://github.com/lilburger/EE629/tree/master/CPU%20Temperature%20of%20raspeberry%20pi) <!--Junyan Chen-->
-* [Raspberry Status and NetEase Player](https://github.com/ChenWei1018/EE629-IOT) <!--Wei Chen-->
-* [Motion-Triggered Photograph](https://github.com/pding5/ee629) <!--Peizhi Ding-->
-* [YouTube Karaoke](https://github.com/ygunarso/ee629) <!--Yohanes Steven Gunarso-->
-* [Twitter Analysis Program](https://github.com/nhilden1114/ee629) <!--Nicole Hilden-->
-* [Environment Sensing and Monitoring](https://github.com/MrJay37/EE629_Project_Environment_Sensing) <!--Sanket Jain, Mansi Joshi, Neel Haria-->
-* [Fake Review Detection System](https://github.com/awurst3/CPE322)
-* [Digital-Heartbeat](https://github.com/jmac97/Digital-Heartbeat) <!--Julie McEldoon-->
 * [ALERTME - Essential Notifications Cloud Application](https://github.com/jeshu54/Hubmaster) <!--Avro Mukherjee-->
+* [Controlling PC Using Kafka and Arduino Nano BLE Sense](https://github.com/csash7/raspberrypi) <!--Seshasai Chaturvedula-->
+* [Digital-Heartbeat](https://github.com/jmac97/Digital-Heartbeat) <!--Julie McEldoon-->
 * [Driverless Car](https://github.com/AbhinandanNuli/IoT-Autonomous-Robocar) <!--Abhinandan Nuli-->
+* [Environment Sensing and Monitoring](https://github.com/MrJay37/EE629_Project_Environment_Sensing) <!--Sanket Jain, Mansi Joshi, Neel Haria-->
+* [Face Tracking](https://github.com/hejunzhan/EE629/tree/master/ee629) <!--Hejun Zhan-->
+* [Fake Review Detection System](https://github.com/awurst3/CPE322)
+* [Indoor Weather Monitor](https://github.com/lun-weichang/EE629_S2020) <!--Lun-Wei Chang-->
+* [Interfacing Arduino With Raspberry Pi](https://github.com/jasperxu1233/EE-629) <!--Haojie Xu-->
 * [Internet Speed Monitor](https://github.com/Nisarg9196/EE629_Internet_Speed_Monitor) <!--Nisarg Parikh-->
+* [Monitoring Temperature](https://github.com/AbdullahAlnutayfat/EE-629-A/tree/master/finalproject) <!--Abdullah Alnutayfat-->
 * [Mopidy Setup in a Docker Container](https://github.com/lpasquar/ee629) <!--Luca Pasquariello-->
-* [Speech Translator](https://github.com/pavanpp15/IoT) <!--Pavan Patel-->
+* [Motion-Triggered Photograph](https://github.com/pding5/ee629) <!--Peizhi Ding-->
+* [Pi-hole](https://github.com/mbozinov/EE-629-IoT) <!--Mitko Bozinov, Ethan Jones-->
+* [Raspberry Pi Dynamic Monitor Display Based on Kali System](https://github.com/yinghaowang95/EE629-Course) <!--Yinghao Wang-->
+* [Raspberry Pi Proxy](https://github.com/awalker2/EE-629-IOT/tree/master/pi-proxy-project) <!--Alex Walker-->
+* [Raspberry Pi Status and NetEase Player](https://github.com/ChenWei1018/EE629-IOT) <!--Wei Chen-->
+* [Raspberry Pi Temperature Detection Alarm](https://github.com/lilburger/EE629/tree/master/CPU%20Temperature%20of%20raspeberry%20pi) <!--Junyan Chen-->
+* [Raspberry Pi Web Server Environmental Sensing](https://github.com/Mounika-2197/IoT-Project) <!--Mounika Yakasiri-->
 * [Secure HouseHold (Shh)](https://github.com/danpinto97/EE629) <!--Daniel Pinto-->
 * [Sleep Monitoring Based on EEG Characteristics](https://github.com/shichao4657125/EE629FinalProject) <!--Chao Shi-->
-* [Raspberry Pi Proxy](https://github.com/awalker2/EE-629-IOT/tree/master/pi-proxy-project) <!--Alex Walker-->
-* [Raspberry Pi Dynamic Monitor Display Based on Kali System](https://github.com/yinghaowang95/EE629-Course) <!--Yinghao Wang-->
-* [Interfacing Arduino With Raspberry Pi](https://github.com/jasperxu1233/EE-629) <!--Haojie Xu-->
-* [Raspberry Pi Web Server Environmental Sensing](https://github.com/Mounika-2197/IoT-Project) <!--Mounika Yakasiri-->
-* [Face Tracking](https://github.com/hejunzhan/EE629/tree/master/ee629) <!--Hejun Zhan-->
+* [Speech Translator](https://github.com/pavanpp15/IoT) <!--Pavan Patel-->
 * [Stock Tracking via Twitter](https://github.com/zhusiyuan-456/cpe-629-Iot) <!--Siyuan Zhu-->
+* [Twitter Analysis Program](https://github.com/nhilden1114/ee629) <!--Nicole Hilden-->
+* [YouTube Karaoke](https://github.com/ygunarso/ee629) <!--Yohanes Steven Gunarso-->
 
 # 2019 Fall
 
