@@ -93,36 +93,36 @@
 
 # 2019 Fall
 
-* [Security System Using Raspberry Pi](https://github.com/sooryanivedhaashokan/IoT-security-system-using-Raspberry-Pi) <!--Soorya Ashokan-->
-* [Smart Parking Garage Model](https://github.com/tcarbona/IoT) <!--Thomas Carbonaro-->
-* [Automatic Weather Station](https://github.com/hcchang501/EE629-IOT-Automatic-Weather-Station-Project) <!--Han-Chung Chang-->
-* [Raspberry Pi DOSBox](https://sites.google.com/stevens.edu/iot-ee629yixie/project/dos-game) <!--Yixie Chen-->
-* [Twitch Bot](https://sites.google.com/stevens.edu/iot-ee629yixie/project/twitch-bot) <!--Yixie Chen-->
-* [Smart Car Based on Raspberry Pi](https://github.com/xhe27/iot_Xintang_He) <!--Xintang He-->
-* [Thermal & RPM Data Logger](https://sites.google.com/stevens.edu/pranati/home/data-logger-using-raspberry-pi) <!--Pranati Kaza-->
-* [Burglar Surveillance](https://github.com/likaistevens/Graduate/tree/master/629_IOT) <!--Kai Li-->
-* [Blockchain and IOTA in Python](https://github.com/Lizhujie/raspi_blockchain-and-Iota) <!--Zhujie Li-->
-* [Kaggle Game Prediction](https://github.com/Lizhujie/Kaggle_Game_prediction) <!--Zhujie Li-->
-* [Integral Point Announce](https://github.com/fengliu1227/Feng_Liu) <!--Feng Liu-->
-* [Blockchain Python Example Verifications](https://sites.google.com/view/yuanl/home/final-project) <!--Yuan Liu-->
 * [24h Low-power Live on Bilibili](https://github.com/YueranLiu/629) <!--Yueran Liu-->
-* [Automobile Assembly Line Controller and Monitor](https://github.com/Chappelliu/IoTproject) <!--Yufeng Liu-->
-* [Smart Lock](https://github.com/hungrylz/Iot_courses) <!--Zheng Liu-->
-* [Chainlink Node Operator](https://sites.google.com/stevens.edu/ece629aldin/project) <!--Aldin Llolla-->
+* [Anomaly Detection in Vessel Tracks based on AIS Data](https://github.com/BigHairyYak/SRI-2019-AIS-Anomaly-Detection) <!--Samuel Yakovlev-->
 * [Aquarium Bot](https://github.com/jmac97/Aquarium-Bot) <!--Julie McEldoon-->
-* [Raspberry Pi AI Assistant](https://github.com/monamim1989/Raspberry-Pi-AI-Assistant) <!--Raveena Mehta, Monami Mukhopadhyay, Rida Zainab-->
-* [Remote Access of Devices Connected to Raspberry Pi](https://github.com/JeetPatel301095/EE-629-IOT) <!--Jeet Patel-->
-* [TelegramBot](https://github.com/RohanRatwani/Telegram_Bot) <!--Rohan Ratwani, Kishan Teli-->
+* [Automatic Weather Station](https://github.com/hcchang501/EE629-IOT-Automatic-Weather-Station-Project) <!--Han-Chung Chang-->
+* [Automobile Assembly Line Controller and Monitor](https://github.com/Chappelliu/IoTproject) <!--Yufeng Liu-->
+* [Birds Detection with Raspberry Pi and YOLO](https://github.com/wruochao19/Deep-learning-camera) <!--Ruochao Weng-->
+* [Blockchain and IOTA in Python](https://github.com/Lizhujie/raspi_blockchain-and-Iota) <!--Zhujie Li-->
+* [Blockchain Python Example Verifications](https://sites.google.com/view/yuanl/home/final-project) <!--Yuan Liu-->
+* [Burglar Surveillance](https://github.com/likaistevens/Graduate/tree/master/629_IOT) <!--Kai Li-->
+* [Chainlink Node Operator](https://sites.google.com/stevens.edu/ece629aldin/project) <!--Aldin Llolla-->
+* [Check Time Record](https://github.com/540792740/Iot_project_time_checkin_checkout) <!--Jiawei Wang-->
 * [Cloud-based Cooling System](https://github.com/R9MX4/iot) <!--Mingxin Ruan-->
 * [Human Face Recognition](https://github.com/YiTian0902/lot) <!--Yi Tian-->
-* [Check Time Record](https://github.com/540792740/Iot_project_time_checkin_checkout) <!--Jiawei Wang-->
-* [Birds Detection with Raspberry Pi and YOLO](https://github.com/wruochao19/Deep-learning-camera) <!--Ruochao Weng-->
-* [Smart Car with HC-SR04](https://github.com/jxie10/EE629Project) <!--Jiajiang Xie-->
-* [Weather Sensor and Forecaster](https://github.com/xuhuajie19/629) <!--Huajie Xu-->
-* [Anomaly Detection in Vessel Tracks based on AIS Data](https://github.com/BigHairyYak/SRI-2019-AIS-Anomaly-Detection) <!--Samuel Yakovlev-->
-* [Weather Station with Raspberry Pi](https://github.com/xiaolinyang927/iot) <!--Xiaolin Yang-->
+* [Integral Point Announce](https://github.com/fengliu1227/Feng_Liu) <!--Feng Liu-->
+* [Kaggle Game Prediction](https://github.com/Lizhujie/Kaggle_Game_prediction) <!--Zhujie Li-->
+* [Raspberry Pi AI Assistant](https://github.com/monamim1989/Raspberry-Pi-AI-Assistant) <!--Raveena Mehta, Monami Mukhopadhyay, Rida Zainab-->
+* [Raspberry Pi DOSBox](https://sites.google.com/stevens.edu/iot-ee629yixie/project/dos-game) <!--Yixie Chen-->
 * [Raspberry Pi Google Assistant](https://github.com/stlchz/Raspberry-Pi-Google-Assistant) <!--Peiyao Zhang-->
+* [Remote Access of Devices Connected to Raspberry Pi](https://github.com/JeetPatel301095/EE-629-IOT) <!--Jeet Patel-->
+* [Security System Using Raspberry Pi](https://github.com/sooryanivedhaashokan/IoT-security-system-using-Raspberry-Pi) <!--Soorya Ashokan-->
 * [Self-Driving Car](https://sites.google.com/stevens.edu/qianwen-zhao/iot-project) <!--Qianwen Zhao-->
+* [Smart Car Based on Raspberry Pi](https://github.com/xhe27/iot_Xintang_He) <!--Xintang He-->
+* [Smart Car With HC-SR04](https://github.com/jxie10/EE629Project) <!--Jiajiang Xie-->
+* [Smart Lock](https://github.com/hungrylz/Iot_courses) <!--Zheng Liu-->
+* [Smart Parking Garage Model](https://github.com/tcarbona/IoT) <!--Thomas Carbonaro-->
+* [TelegramBot](https://github.com/RohanRatwani/Telegram_Bot) <!--Rohan Ratwani, Kishan Teli-->
+* [Thermal & RPM Data Logger](https://sites.google.com/stevens.edu/pranati/home/data-logger-using-raspberry-pi) <!--Pranati Kaza-->
+* [Twitch Bot](https://sites.google.com/stevens.edu/iot-ee629yixie/project/twitch-bot) <!--Yixie Chen-->
+* [Weather Sensor and Forecaster](https://github.com/xuhuajie19/629) <!--Huajie Xu-->
+* [Weather Station with Raspberry Pi](https://github.com/xiaolinyang927/iot) <!--Xiaolin Yang-->
 
 # 2019 Spring
 
