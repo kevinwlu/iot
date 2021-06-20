@@ -94,17 +94,17 @@
 # 2019 Fall
 
 * [24h Low-power Live on Bilibili](https://github.com/YueranLiu/629) <!--Yueran Liu-->
-* [Anomaly Detection in Vessel Tracks based on AIS Data](https://github.com/BigHairyYak/SRI-2019-AIS-Anomaly-Detection) <!--Samuel Yakovlev-->
+* [Anomaly Detection in Vessel Tracks Based on AIS Data](https://github.com/BigHairyYak/SRI-2019-AIS-Anomaly-Detection) <!--Samuel Yakovlev-->
 * [Aquarium Bot](https://github.com/jmac97/Aquarium-Bot) <!--Julie McEldoon-->
 * [Automatic Weather Station](https://github.com/hcchang501/EE629-IOT-Automatic-Weather-Station-Project) <!--Han-Chung Chang-->
 * [Automobile Assembly Line Controller and Monitor](https://github.com/Chappelliu/IoTproject) <!--Yufeng Liu-->
-* [Birds Detection with Raspberry Pi and YOLO](https://github.com/wruochao19/Deep-learning-camera) <!--Ruochao Weng-->
+* [Birds Detection With Raspberry Pi and YOLO](https://github.com/wruochao19/Deep-learning-camera) <!--Ruochao Weng-->
 * [Blockchain and IOTA in Python](https://github.com/Lizhujie/raspi_blockchain-and-Iota) <!--Zhujie Li-->
 * [Blockchain Python Example Verifications](https://sites.google.com/view/yuanl/home/final-project) <!--Yuan Liu-->
 * [Burglar Surveillance](https://github.com/likaistevens/Graduate/tree/master/629_IOT) <!--Kai Li-->
 * [Chainlink Node Operator](https://sites.google.com/stevens.edu/ece629aldin/project) <!--Aldin Llolla-->
 * [Check Time Record](https://github.com/540792740/Iot_project_time_checkin_checkout) <!--Jiawei Wang-->
-* [Cloud-based Cooling System](https://github.com/R9MX4/iot) <!--Mingxin Ruan-->
+* [Cloud-Based Cooling System](https://github.com/R9MX4/iot) <!--Mingxin Ruan-->
 * [Human Face Recognition](https://github.com/YiTian0902/lot) <!--Yi Tian-->
 * [Integral Point Announce](https://github.com/fengliu1227/Feng_Liu) <!--Feng Liu-->
 * [Kaggle Game Prediction](https://github.com/Lizhujie/Kaggle_Game_prediction) <!--Zhujie Li-->
@@ -122,24 +122,24 @@
 * [Thermal & RPM Data Logger](https://sites.google.com/stevens.edu/pranati/home/data-logger-using-raspberry-pi) <!--Pranati Kaza-->
 * [Twitch Bot](https://sites.google.com/stevens.edu/iot-ee629yixie/project/twitch-bot) <!--Yixie Chen-->
 * [Weather Sensor and Forecaster](https://github.com/xuhuajie19/629) <!--Huajie Xu-->
-* [Weather Station with Raspberry Pi](https://github.com/xiaolinyang927/iot) <!--Xiaolin Yang-->
+* [Weather Station With Raspberry Pi](https://github.com/xiaolinyang927/iot) <!--Xiaolin Yang-->
 
 # 2019 Spring
 
-* [BitCoin Price Notification and Analysis](https://github.com/AyushiCh/Bitcoin-Price-Notification-and-Analysis-) <!--Abrar Alam, Ayushi Chaturvedi, Shreyansh Sharma-->
-* [Gamerstrip](https://github.com/SatyaSujitPasupuleti/gamerstrip) <!--Vikram Arunkumar, Satya Pasupuleti-->
-* [Seven Segment Display Counter](https://github.com/tburrell7/Seven-Segment-Display-Counter#seven-segment-display-counter) <!--Thomas Burrell-->
-* [OrbitDB Tested at Scale with MQTT Functionality Added](https://github.com/KyraDiF/EE629_final_project) <!--Kyra DiFrancesco-->
-* [Node.js-Particle](https://github.com/jfeldman24/Node.js-Particle) <!--Joshua Feldman-->
-* [Alexa Integration with Django REST Framework](https://github.com/TheFish1996/IOT-Project) <!--Jonathan Fishkin and Omar Elshayeb-->
-* [Doorbell Cam](https://github.com/dgenshei/doorbellcam-iot-project) <!--David Gensheimer-->
-* [Raspberry Pi Object Detection](https://github.com/SDxs5/raspberry_pi_object_detection) <!--Mingju He-->
-* [Lidar Data Google Sheets](https://github.com/BrettHoltzman/Lidar_Data_Google_Sheets) <!--Brett Holtzman-->
-* [IoT LED Game](https://github.com/512seanjones/iot_led_game) <!--Sean Jones-->
+* [Alexa Integration With Django REST Framework](https://github.com/TheFish1996/IOT-Project) <!--Jonathan Fishkin and Omar Elshayeb-->
 * [Amazon Bestseller Classification](https://github.com/Millymiss/EE-629-iot-Finalproject) <!--Bowen Li-->
 * [An Alexa Smart Speaker Based on on Raspberry Pi](https://github.com/JCLiLC/EE629-Project-Pi-Alexa) <!--Jiangchuan Li-->
+* [BitCoin Price Notification and Analysis](https://github.com/AyushiCh/Bitcoin-Price-Notification-and-Analysis-) <!--Abrar Alam, Ayushi Chaturvedi, Shreyansh Sharma-->
+* [Doorbell Cam](https://github.com/dgenshei/doorbellcam-iot-project) <!--David Gensheimer-->
 * [Flask Microblog](https://github.com/homsluo/Flask_Microblog) <!--Yuqing Luo-->
+* [Gamerstrip](https://github.com/SatyaSujitPasupuleti/gamerstrip) <!--Vikram Arunkumar, Satya Pasupuleti-->
+* [IoT LED Game](https://github.com/512seanjones/iot_led_game) <!--Sean Jones-->
+* [Lidar Data Google Sheets](https://github.com/BrettHoltzman/Lidar_Data_Google_Sheets) <!--Brett Holtzman-->
+* [Node.js-Particle](https://github.com/jfeldman24/Node.js-Particle) <!--Joshua Feldman-->
+* [OrbitDB Tested at Scale With MQTT Functionality Added](https://github.com/KyraDiF/EE629_final_project) <!--Kyra DiFrancesco-->
 * [Raspberry Pi as Download Server](https://github.com/YifangY/IoTProject2019) <!--Yifang Yuan-->
+* [Raspberry Pi Object Detection](https://github.com/SDxs5/raspberry_pi_object_detection) <!--Mingju He-->
+* [Seven Segment Display Counter](https://github.com/tburrell7/Seven-Segment-Display-Counter#seven-segment-display-counter) <!--Thomas Burrell-->
 
 # 2016 Fall
 
