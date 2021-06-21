@@ -143,13 +143,13 @@
 
 # 2016 Fall
 
+* [Fingerprint Authentication and Attendance Analysis](https://github.com/touqeer-ahmad/zfm60) <!--Touqeer Ahmad, Nishil Parikh-->
+* [Good Morning / Good Night](https://github.com/Daniel0729/moring_night) <!--Matthew Melachrinos, Songnian Yin-->
+* [Home Security System Using Email and Dropbox](https://github.com/yanldst/Home-Security-System) <!--Mofadal Alymani, Hassan Bediry, Lei Yan, Ahmed Abdalla, Arpit Nagbhidkar-->
+* [Noise Monitoring System](https://github.com/djdietrick/djangoNoiseMonitoring) <!--David Dietrick, Lucy Morcos-->
+* [PiThermostat](https://github.com/xcong1/810PiThermostat) <!--Xiaotian Cong, Liuyi Chen-->
 * [SmartCam](https://github.com/touqeer-ahmad/SmartCam) <!--Touqeer Ahmad-->
 * [Temperature Data on Twitter](https://github.com/touqeer-ahmad/tweaks) <!--Touqeer Ahmad, Nishil Parikh-->
-* [Fingerprint Authentication and Attendance Analysis](https://github.com/touqeer-ahmad/zfm60) <!--Touqeer Ahmad, Nishil Parikh-->
-* [Home Security System Using Email and Dropbox](https://github.com/yanldst/Home-Security-System) <!--Mofadal Alymani, Hassan Bediry, Lei Yan, Ahmed Abdalla, Arpit Nagbhidkar-->
-* [PiThermostat](https://github.com/xcong1/810PiThermostat) <!--Xiaotian Cong, Liuyi Chen-->
-* [Noise Monitoring System](https://github.com/djdietrick/djangoNoiseMonitoring) <!--David Dietrick, Lucy Morcos-->
-* [Good Morning / Good Night](https://github.com/Daniel0729/moring_night) <!--Matthew Melachrinos, Songnian Yin-->
 
 # 2015 Fall
 
