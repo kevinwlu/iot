@@ -4,13 +4,13 @@
 
 # 2020 Fall
 
+* [Face Recognition Using Deep Learning](https://github.com/KishanTeli/Face-Recognition-800)
 * [Gesture Recognition Using Deep Learning](https://github.com/csash7/gesture_recognition)
+* [Mechanisms of Action (MoA) Prediction](https://github.com/smallsunjj/MoA-Prediction)
+* [Object Detection Based on Deep Learning](https://github.com/piggyjehong/Wuwei-Zhu-EE800-2020Fall)
+* [Object Detection Based on R-CNN, YOLO, and SSD](https://github.com/xyu32/EE800_F2020)
 * [Object Detection on Deep Learning Based on YOLO, Faster R-CNN, and Mask R-CNN](https://github.com/Lizhujie/Object_Detection_YOLO)
 * [Voice Recognition in Access Systems](https://github.com/i5331234/EE800-for-Jiahao-Lu)
-* [Face Recognition Using Deep Learning](https://github.com/KishanTeli/Face-Recognition-800)
-* [Mechanisms of Action (MoA) Prediction](https://github.com/smallsunjj/MoA-Prediction)
-* [Object Detection Based on R-CNN, YOLO, and SSD](https://github.com/xyu32/EE800_F2020)
-* [Object Detection Based on Deep Learning](https://github.com/piggyjehong/Wuwei-Zhu-EE800-2020Fall)
 
 # 2020 Spring
 
