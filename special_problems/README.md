@@ -14,9 +14,9 @@
 
 # 2020 Spring
 
-* [Research for Object Detection Based on Deep Learning](https://github.com/MadgeLiu/Object_Detection_Research) <!--Yarong Liu-->
 * [Distinguishing Fake Face or Real Face by VGG](https://github.com/qihang720/EE-800-face-recognition) <!--Jiahao Lu, Qihang Zhang-->
 * [Object Detection Based on R-CNN](https://github.com/smallsunjj/ECE800) <!--Jie Yang-->
+* [Research for Object Detection Based on Deep Learning](https://github.com/MadgeLiu/Object_Detection_Research) <!--Yarong Liu-->
 
 # 2019 Spring
 
