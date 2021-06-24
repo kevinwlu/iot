@@ -35,12 +35,12 @@
 
 # 2018 Spring
 
-* [Nexus: A Smarter, More Connected Environment](https://github.com/kemanu/SIT_RFID) <!--Kyle Emanuele-->
 * [Automatic Greenhouse System](https://github.com/YanghongboLu/StevensProjects) <!--Yanghongbo Lu-->
-* [VisionDL](https://github.com/shrinivasshetty21/Projects/tree/master/Saliency%20Mapping) <!--Shrinivas Shetty-->
+* [Embedded AR RFID Reader](https://github.com/peterzhu9210/virtualAR) <!--Erwi Zhu-->
+* [Nexus: A Smarter, More Connected Environment](https://github.com/kemanu/SIT_RFID) <!--Kyle Emanuele-->
 * [Smart Mirror with Artificial Intelligence](https://github.com/jeffgv/Mymirror) <!--Jeffin Varghese-->
 * [Video Quality Enhancing](https://github.com/ifamec/Video-Quality-Enhancing) <!--Zhihuan Zhang-->
-* [Embedded AR RFID Reader](https://github.com/peterzhu9210/virtualAR) <!--Erwi Zhu-->
+* [VisionDL](https://github.com/shrinivasshetty21/Projects/tree/master/Saliency%20Mapping) <!--Shrinivas Shetty-->
 
 # 2017 Fall
 
