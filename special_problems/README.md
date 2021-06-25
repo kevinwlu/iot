@@ -50,9 +50,9 @@
 
 # 2017 Spring
 
-* [Performance Data](https://github.com/Nagrajan23/performance-data) <!--Nagrajan Chandrasekaran, Piyush Rao-->
 * [Alexa-Pi](https://github.com/bkumar080/alexa-pi) <!--Bharath Kumar, Vijayrahul Rajathiruvenkatapathy-->
 * [License Plate Recoginition](https://github.com/fwangrotk/license-plate-recognition) <!--Fulong Wang-->
+* [Performance Data](https://github.com/Nagrajan23/performance-data) <!--Nagrajan Chandrasekaran, Piyush Rao-->
 
 # 2016 Fall
 
