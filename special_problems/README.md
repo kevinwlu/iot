@@ -38,7 +38,7 @@
 * [Automatic Greenhouse System](https://github.com/YanghongboLu/StevensProjects) <!--Yanghongbo Lu-->
 * [Embedded AR RFID Reader](https://github.com/peterzhu9210/virtualAR) <!--Erwi Zhu-->
 * [Nexus: A Smarter, More Connected Environment](https://github.com/kemanu/SIT_RFID) <!--Kyle Emanuele-->
-* [Smart Mirror with Artificial Intelligence](https://github.com/jeffgv/Mymirror) <!--Jeffin Varghese-->
+* [Smart Mirror With Artificial Intelligence](https://github.com/jeffgv/Mymirror) <!--Jeffin Varghese-->
 * [Video Quality Enhancing](https://github.com/ifamec/Video-Quality-Enhancing) <!--Zhihuan Zhang-->
 * [VisionDL](https://github.com/shrinivasshetty21/Projects/tree/master/Saliency%20Mapping) <!--Shrinivas Shetty-->
 
@@ -60,6 +60,6 @@
 
 # 2016 Spring
 
-* [Induction Cooktop](https://github.com/gabimachado/cooktop-IoT) <!--Natalie Bezerra, Gabriella Machado Pereira-->
 * [Cobweb-iot](https://github.com/cm5168/Cobweb-iot) <!--Meng Cao, Huashan Xiong, Haiyang Yun, Cong Zhang, Chang Zhao-->
+* [Induction Cooktop](https://github.com/gabimachado/cooktop-IoT) <!--Natalie Bezerra, Gabriella Machado Pereira-->
 * [Smart Sleep Monitor and Analyzer](https://github.com/li1993qing1993/Arduino-Sleep-Monitor) <!--Qing Li-->
