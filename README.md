@@ -53,7 +53,7 @@
 * [IEEE IoT related standards in development](https://standards.ieee.org/initiatives/iot/projects.html)
 
 ## Courses (Google Sites)
-* [ECOES: Exploring Career Options in Engineering and Science](https://sites.google.com/view/ece-ecoes)
+* [Pre-College Program: Electrical and Computer Engineering](https://sites.google.com/view/ece-ecoes)
 * [Engineering Design VI](https://sites.google.com/view/ece322)
 * [Engineering Design VII-VIII](https://sites.google.com/view/ece423)
 * [Digital System Design](https://sites.google.com/view/ece487)
