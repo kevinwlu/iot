@@ -19,6 +19,8 @@
 * [PennyLane](https://github.com/PennyLaneAI/pennylane)
 * [Microsoft Quantum Development Kit Samples](https://github.com/microsoft/Quantum)
 * [Xanadu Strawberry Fields](https://github.com/XanaduAI/strawberryfields)
+* IEEE [P7130](https://standards.ieee.org/project/7130.html) Standard for Quantum Technologies Definitions
+* IEEE [P7131](https://standards.ieee.org/project/7131.html) Standard for Quantum Computing Performance Metrics and Performance Benchmarking
 * [Cloud Native Computing Foundation](https://en.wikipedia.org/wiki/Cloud_Native_Computing_Foundation) (CNCF)
 * [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) (K8s)
   * [Numeronym](https://en.wikipedia.org/wiki/Numeronym)
