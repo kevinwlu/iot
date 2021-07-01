@@ -27,6 +27,7 @@
 * [Light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED)
 * [Universal Serial Bus](https://en.wikipedia.org/wiki/USB) (USB)
 * [Webcam](https://en.wikipedia.org/wiki/Webcam)
+* [Microphone](https://en.wikipedia.org/wiki/Microphone)
 
 ## Lab 2A:  General-purpose input/output (GPIO) and serial communication
 
