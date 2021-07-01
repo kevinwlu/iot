@@ -3,6 +3,7 @@
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
   * [CPython](https://en.wikipedia.org/wiki/CPython)
   * [Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution))
+  * [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter)
   * [Keyboard interrupt](https://en.wikipedia.org/wiki/Keyboard_interrupt)
   * [Control-C](https://en.wikipedia.org/wiki/Control-C)
 * [2to3](https://docs.python.org/3/library/2to3.html)
