@@ -23,6 +23,7 @@
 
 ## GitHub Basics
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
+  * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) (GUI)
 * [Git](https://en.wikipedia.org/wiki/Git)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
   * [Camel case](https://en.wikipedia.org/wiki/Camel_case)
@@ -30,8 +31,9 @@
 * [GitHub Pages](https://pages.github.com/)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Best Tools for Taking and Editing Screenshots in Linux](https://itsfoss.com/take-screenshot-linux/)
-* [How to Convert Video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
+* [GIF](https://en.wikipedia.org/wiki/GIF) (Graphics Interchange Format)
+  * [Best Tools for Taking and Editing Screenshots in Linux](https://itsfoss.com/take-screenshot-linux/)
+  * [How to Convert Video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
 
 ## Tutorials
 * [IBM Developer IoT Tutorials](https://developer.ibm.com/technologies/iot/tutorials/)
