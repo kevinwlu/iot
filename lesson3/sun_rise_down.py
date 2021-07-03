@@ -3,7 +3,7 @@
 import datetime
 import astral
 
-location_XiChong = astral.Location(('XiChong', 'China',  22.484786,114.549965, 'Asia/Shanghai', 0))
+location_XiChong = astral.LocationInfo(('XiChong', 'China',  22.484786,114.549965, 'Asia/Shanghai', 0))
  # Record the location of Xichong, pay attention to the longitude first and then the latitude
 sunrise=location_XiChong.sunrise(date=datetime.date(2019, 8, 17),local=True)
  # Calculate the sunrise at the corresponding time
