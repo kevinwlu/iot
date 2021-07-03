@@ -25,9 +25,11 @@
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
 * [Git](https://en.wikipedia.org/wiki/Git)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
+  * [Camel case](https://en.wikipedia.org/wiki/Camel_case)
+  * [Snake case](https://en.wikipedia.org/wiki/Snake_case)
 * [GitHub Pages](https://pages.github.com/)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Best Tools for Taking and Editing Screenshots in Linux](https://itsfoss.com/take-screenshot-linux/)
 * [How to Convert Video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
 
