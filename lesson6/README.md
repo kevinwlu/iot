@@ -5,6 +5,7 @@
 * [ESP8266](https://en.wikipedia.org/wiki/ESP8266)
 * [Hayes command set](https://en.wikipedia.org/wiki/Hayes_command_set)
 * [Hirose U.FL](https://en.wikipedia.org/wiki/Hirose_U.FL) connectors
+* [Lithium-ion polymer battery](https://en.wikipedia.org/wiki/Lithium_polymer_battery)
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
 * [Node-RED](https://en.wikipedia.org/wiki/Node-RED)
 * [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack))
