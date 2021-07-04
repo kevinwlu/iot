@@ -38,7 +38,7 @@
 * Check and update software if necessary (this may involve a large download)
 * Click "Restart" to reboot
 
-#### Point (not click) the curser to the Wi-Fi icon at the right of the menu bar to see and write down the [IP address](https://en.wikipedia.org/wiki/IP_address) such as 192.168.x.xxx excluding the CIDR ([Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)) notation of /24 suffix that indicates the number of bits of the prefix
+#### Point (not click) the curser to the Wi-Fi icon at the right of the menu bar to see and write down the [IP address](https://en.wikipedia.org/wiki/IP_address) such as 192.168.1.204 excluding the CIDR ([Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)) notation of /24 suffix that indicates the number of bits of the prefix
 
 ## Lab 1B: Configuration
 
@@ -131,10 +131,10 @@ $ python3 ~/startup_mailer.py
 * [PuTTY](https://en.wikipedia.org/wiki/PuTTY)
 ### 3. Run an SSH client to log into Raspberry Pi
 ```sh
-$ ssh pi@192.168.x.xxx
+$ ssh pi@192.168.1.204
 pi@raspberrypi:~ $ vncserver
 ```
-### 4. Open VNC Viewer, and enter 192.168.x.xxx:1, username pi, and password
+### 4. Open VNC Viewer, and enter 192.168.1.204:1, username pi, and password
 
 ### 5. Click the Web Browser icon to launch [Chromium](https://en.wikipedia.org/wiki/Chromium_(web_browser))
 
