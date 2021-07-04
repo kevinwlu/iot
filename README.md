@@ -20,6 +20,7 @@
   * [ETSI](https://en.wikipedia.org/wiki/ETSI) White Paper No. 45: [_ETSI Technology Radar_](https://www.etsi.org/images/files/ETSIWhitePapers/etsi_wp45_ETSI_technology_radar.pdf)
 * [Industrial internent of things](https://en.wikipedia.org/wiki/Industrial_internet_of_things)
 * [Industry 4.0](https://en.wikipedia.org/wiki/Industry_4.0)
+* [Aritificial intelligence of things](https://en.wikipedia.org/wiki/Artificial_intelligence_of_things) (AIoT)
 
 ## GitHub Basics
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
