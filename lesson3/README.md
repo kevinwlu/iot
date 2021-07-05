@@ -19,7 +19,6 @@
 
 ## Lab 3A: Python
 
-* Join the [Windows Insiders Program](https://insider.windows.com/en-us/getting-started) and install [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) (WSL)
 * If Python has not been installed on Windows, [download](https://www.python.org/downloads/windows/) and install the latest version of Python 3
 * On Windows, edit path in "System Properties > Advanced > Environment Variables" and add 
 ```sh  
@@ -28,6 +27,7 @@ C:\Users\...\AppData\Local\Programs\Python\Python...\Scripts
 ```
 * Open Command Promt or PowerShell on Windows, enter python
   * Alternatively, download and open [Git Bash](https://gitforwindows.org/) on Windows, enter python -i
+  * To SSH Raspberry Pi, join the [Windows Insiders Program](https://insider.windows.com/en-us/getting-started) and install [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) (WSL)
 * Numbers: int, float, complex
 ```sh
 $ python
