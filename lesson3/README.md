@@ -225,12 +225,8 @@ $ python
 >>> printID('Mary', 'id: 8776', 'major: ECE')
 >>> exit()
 ```
-* Install/upgrade Python packages with pip
-```sh
-$ python -m pip install --upgrade pip
-$ pip install jdcal astral geopy
-```
-* If haven't done so, clone the IoT repository
+* Modules
+  * If haven't done so, clone the IoT repository
 ```sh
 $ cd
 $ git clone https://github.com/kevinwlu/iot.git
@@ -249,7 +245,32 @@ $ python
 >>> from student import averageGrade
 >>> avg=averageGrade(students)
 >>> print('The average is {:0.2f}'.format(avg))
+```
+* Read and write files
+```sh
+>>> fp=open('file.txt', 'r')
+>>> content=fp.read()
+>>> print(content)
+>>> fp.close()
 >>> exit()
+$ cd
+$ mkdir demo
+$ cd demo
+$ python
+>>> fo=open('file1.txt', 'w')
+>>> content='This is an example of writing to a file in Python.'
+>>> fo.write(content)
+>>> fo.close()
+>>> exit()
+$ cat file1.txt
+```
+* Install/upgrade Python packages with pip
+```sh
+$ python -m pip install --upgrade pip
+$ pip install jdcal astral geopy
+```
+$ cd
+$ cd iot/lesson3
 $ 2to3 2example.py
 $ python julian.py
 $ python date_example.py
