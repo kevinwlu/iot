@@ -5,8 +5,9 @@
 * IoT architecture source: [IERC-European Research Cluster on the Internet of Things](http://www.internet-of-things-research.eu/pdf/IoT-From%20Research%20and%20Innovation%20to%20Market%20Deployment_IERC_Cluster_eBook_978-87-93102-95-8_P.pdf)
 * [Open Systems Interconnecton (OSI) model](https://en.wikipedia.org/wiki/OSI_model)
 * [Machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine) (M2M) communication
-* [Software-defined networking](https://en.wikipedia.org/wiki/Software-defined_networking)
-* [Network function virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization)
+* [Software-defined networking](https://en.wikipedia.org/wiki/Software-defined_networking) (SDN)
+* [Network function virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization) (NFV)
+* [Network slicing](https://en.wikipedia.org/wiki/5G_network_slicing)
 * [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
 * [As a service](https://en.wikipedia.org/wiki/As_a_service)
 * [Quality of service](https://en.wikipedia.org/wiki/Quality_of_service) (QoS)
