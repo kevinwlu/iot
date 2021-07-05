@@ -5,6 +5,7 @@
 * [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
 * [GNU](https://en.wikipedia.org/wiki/GNU)
 * [Linux](https://en.wikipedia.org/wiki/Linux)
+  * [GNU/Linux Distributions Timeline](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 * [Debian](https://en.wikipedia.org/wiki/Debian)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
 * [LXDE](https://en.wikipedia.org/wiki/LXDE)
