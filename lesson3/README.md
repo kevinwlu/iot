@@ -19,7 +19,7 @@
 ## Lab 3A: Python
 
 * If Python has not been installed on Windows, [download](https://www.python.org/downloads/windows/) and install the latest version of Python 3
-* On Windows 10, edit path in "System Properties > Advanced > Environment Variables" and add 
+* On Windows, edit path in "System Properties > Advanced > Environment Variables" and add 
 ```sh  
 C:\Users\...\AppData\Local\Programs\Python\Python... 
 C:\Users\...\AppData\Local\Programs\Python\Python...\Scripts
