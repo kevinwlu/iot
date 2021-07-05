@@ -24,7 +24,7 @@
 C:\Users\...\AppData\Local\Programs\Python\Python... 
 C:\Users\...\AppData\Local\Programs\Python\Python...\Scripts
 ```
-* Open Git Bash on Windows 10, run Python and install/upgrade Python packages with pip
+* Download and open [Git Bash](https://gitforwindows.org/) on Windows 10, run Python and install/upgrade Python packages with pip
 ```sh
 $ python -i
 >>> import math
@@ -33,9 +33,12 @@ $ python -i
 >>> exit()
 $ python -m pip install --upgrade pip
 $ pip install jdcal astral geopy
+```
+* If haven't done so, clone the IoT repository
+```sh
 $ cd
+$ git clone https://github.com/kevinwlu/iot.git
 $ cd iot
-$ git pull
 $ cd lesson3
 $ 2to3 2example.py
 $ python julian.py
