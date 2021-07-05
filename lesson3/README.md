@@ -7,6 +7,7 @@
   * [Keyboard interrupt](https://en.wikipedia.org/wiki/Keyboard_interrupt)
   * [Control-C](https://en.wikipedia.org/wiki/Control-C)
 * [2to3](https://docs.python.org/3/library/2to3.html)
+* [Bitwise operators](https://wiki.python.org/moin/BitwiseOperators)
 * [pip](https://en.wikipedia.org/wiki/Pip_(package_manager))
 * [Unicode](https://en.wikipedia.org/wiki/Unicode)
 * [GPIO Zero](https://gpiozero.readthedocs.io/en/stable)
@@ -27,9 +28,128 @@ C:\Users\...\AppData\Local\Programs\Python\Python...\Scripts
 * Download and open [Git Bash](https://gitforwindows.org/) on Windows, run Python and install/upgrade Python packages with pip
 ```sh
 $ python -i
+>>> a=3
+>>> a
+>>> type(a)
+>>> x=2.1
+>>> x;type(x)
+>>> a+x
+>>> a-x
+>>> a*x
+>>> x/a
+>>> a**2
+>>> y=2+3j
+>>> y;type(y)
+>>> y.real
+>>> y.imag
 >>> import math
 >>> math.sqrt(64)
-8.0
+>>> s='Hello World!'
+>>> type(s)
+>>> s.upper()
+>>> s.lower()
+>>> s.strip('!')
+>>> s[0]
+>>> s[6:]
+>>> s[6:-1]
+>>> len(s)
+>>> b=s.encode()
+>>> b
+>>> type(b)
+>>> c=b.decode()
+>>> c
+>>> type(c)
+>>> t=' This is a simple program.'
+>>> s+t
+>>> print('"{:s}" has {:d} characters.'.format(s, len(s)))
+>>> veggies=('beet', 'corn', 'kale')
+>>> type(veggies)
+>>> len(veggies)
+>>> veggies[0:2]
+>>> veggies+('leek', 'okra')
+>>> fruits=['apple', 'banana', 'mango']
+>>> type(fruits)
+>>> len(fruits)
+>>> fruits[0:2]
+>>> fruits+['orange', 'papaya']
+>>> fruits.append('orange')
+>>> fruits
+>>> fruits.remove('mango')
+>>> fruits
+>>> fruits.insert(1, 'mango')
+>>> fruits
+>>> student={'name': 'Mary', 'id': '8776'}
+>>> type(student)
+>>> student['name']
+>>> student.items()
+>>> student.keys()
+>>> student.values()
+>>> students={'1': {'name': 'Alex', 'grade': 3.8}, 
+...           '2': {'name': 'Barb', 'grade': 2.5}, 
+...           '3': {'name': 'Dave', 'grade': 4.2},
+...           '4': {'name': 'John', 'grade': 4.1},
+...           '5': {'name': 'Mary', 'grade': 3.5}}
+>>> students.keys()
+>>> z=25**5
+>>> if z>1000000:
+...     print('More')
+... else:
+...     print('Less')
+...
+>>> if not 'major' in student.keys():
+...     student['major']='ECE'
+...
+>>> student
+>>> for v in s:
+...     print(v, end=' ')
+...
+>>> i=0
+>>> for item in fruits:
+...     print('Fruit {:d}: {:s}'.format(i, item))
+...     i=i+1
+...
+>>> for key in student:
+...     print('{:s}: {:s}'.format(key, student[key]))
+...
+>>> i=0
+>>> while i<=10:
+...     if i%2==0:
+...         print(i, end=' ')
+...     i=i+1
+...
+>>> m=1
+>>> for n in range(4, 256, 4):
+...     m=m*n
+...     if m>512:
+...         break
+...     print(m)
+...
+>>> grains=['oat', 'rice', 'rye', 'wheat']
+>>> for item in grains:
+...     if item=='rice':
+...         continue
+...     else:
+...         print(item, end=' ')
+...
+>>> r=range(10)
+>>> r
+>>> r[::-1]
+>>> r[::2]
+>>> r[1::3]
+>>> range(10, 110, 10)
+>>> def printList(list):
+...     print('{:d} items on the list:'.format(len(list)))
+...     for item in list:
+...         print(item, end=' ')
+...
+>>> def averageGrade(dict):
+...     sum=0.0
+...     for key in dict:
+...         sum=sum+dict[key]['grade']
+...     average=sum/len(dict)
+...     return average
+...
+>>> averageGrade(students)
 >>> exit()
 $ python -m pip install --upgrade pip
 $ pip install jdcal astral geopy
