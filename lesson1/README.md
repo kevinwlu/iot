@@ -9,6 +9,7 @@
 * [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
 * [As a service](https://en.wikipedia.org/wiki/As_a_service)
 * [Quality of service](https://en.wikipedia.org/wiki/Quality_of_service) (QoS)
+* [Authentication, Authorization, and Accounting](https://en.wikipedia.org/wiki/AAA_(computer_security)) (AAA)
 
 ## Lab 1A: Raspberry Pi and Wi-Fi
 
