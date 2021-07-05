@@ -44,8 +44,6 @@ $ python
 >>> y;type(y)
 >>> y.real
 >>> y.imag
->>> import math
->>> math.sqrt(64)
 ```
 * Strings: text and binary data
 ```sh
@@ -164,7 +162,24 @@ $ python
 ...         print(item, end=' ')
 ...
 ```
-* Built-in functions
+* Mathematical functions
+```sh
+>>> import math
+>>> math.ceil(1.5)
+>>> math.floor(1.5)
+>>> math.factorial(10)
+>>> math.fmod(10,3)
+>>> 10%3
+>>> math.sqrt(64)
+>>> math.exp(1)
+>>> math.log(4,2)
+>>> math.degrees(1.5707963267948966)
+>>> math.radians(90)
+>>> math.asin(1)
+>>> math.sin(1.5707963267948966)
+>>> math.cos(math.pi)
+```
+* Other built-in functions
 ```sh
 >>> r=range(10)
 >>> r
@@ -173,7 +188,7 @@ $ python
 >>> r[1::3]
 >>> range(10, 110, 10)
 ```
-* Functions
+* Defining functions
 ```sh
 >>> def printList(list):
 ...     print('{:d} items on the list:'.format(len(list)))
@@ -190,7 +205,7 @@ $ python
 >>> averageGrade(students)
 >>> exit()
 ```
-* Keywaor arguments
+* Keyword arguments
 ```sh
 >>> def printID(name, **kwargs):
 ...     print('Student Name: ', name, sep='')
