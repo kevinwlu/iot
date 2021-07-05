@@ -27,6 +27,7 @@ C:\Users\...\AppData\Local\Programs\Python\Python...\Scripts
 ```
 * Open Command Promt or PowerShell on Windows, enter python
   * Alternatively, download and open [Git Bash](https://gitforwindows.org/) on Windows, enter python -i
+* Numbers: int, float, complex
 ```sh
 $ python
 >>> a=3
@@ -45,6 +46,9 @@ $ python
 >>> y.imag
 >>> import math
 >>> math.sqrt(64)
+```
+* Strings: text and binary data
+```sh
 >>> s='Hello World!'
 >>> type(s)
 >>> s.upper()
@@ -63,11 +67,17 @@ $ python
 >>> t=' This is a simple program.'
 >>> s+t
 >>> print('"{:s}" has {:d} characters.'.format(s, len(s)))
+```
+* Tuples
+```sh
 >>> veggies=('beet', 'corn', 'kale')
 >>> type(veggies)
 >>> len(veggies)
 >>> veggies[0:2]
 >>> veggies+('leek', 'okra')
+```
+* Lists
+```sh
 >>> fruits=['apple', 'banana', 'mango']
 >>> type(fruits)
 >>> len(fruits)
@@ -79,6 +89,9 @@ $ python
 >>> fruits
 >>> fruits.insert(1, 'mango')
 >>> fruits
+```
+* Dictionaries
+```sh
 >>> student={'name': 'Mary', 'id': '8776'}
 >>> type(student)
 >>> student['name']
@@ -91,16 +104,25 @@ $ python
 ...           '4': {'name': 'John', 'grade': 4.1},
 ...           '5': {'name': 'Mary', 'grade': 3.5}}
 >>> students.keys()
+```
+* If else
+```sh
 >>> z=25**5
 >>> if z>1000000:
 ...     print('More')
 ... else:
 ...     print('Less')
 ...
+```
+* If not
+```sh
 >>> if not 'major' in student.keys():
 ...     student['major']='ECE'
 ...
 >>> student
+```
+* For
+```sh
 >>> for v in s:
 ...     print(v, end=' ')
 ...
@@ -112,12 +134,18 @@ $ python
 >>> for key in student:
 ...     print('{:s}: {:s}'.format(key, student[key]))
 ...
+```
+* While
+```sh
 >>> i=0
 >>> while i<=10:
 ...     if i%2==0:
 ...         print(i, end=' ')
 ...     i=i+1
 ...
+```
+* Break
+```sh
 >>> m=1
 >>> for n in range(4, 256, 4):
 ...     m=m*n
@@ -125,6 +153,9 @@ $ python
 ...         break
 ...     print(m)
 ...
+```
+* Continue (or pass)
+```sh
 >>> grains=['oat', 'rice', 'rye', 'wheat']
 >>> for item in grains:
 ...     if item=='rice':
@@ -132,12 +163,18 @@ $ python
 ...     else:
 ...         print(item, end=' ')
 ...
+```
+* Built-in functions
+```sh
 >>> r=range(10)
 >>> r
 >>> r[::-1]
 >>> r[::2]
 >>> r[1::3]
 >>> range(10, 110, 10)
+```
+* Functions
+```sh
 >>> def printList(list):
 ...     print('{:d} items on the list:'.format(len(list)))
 ...     for item in list:
@@ -153,6 +190,26 @@ $ python
 >>> averageGrade(students)
 >>> exit()
 ```
+* Keywaor arguments
+```sh
+>>> def printID(name, **kwargs):
+...     print('Student Name: ', name, sep='')
+...     for key in kwargs:
+...         print(key, ': ', kwargs[key], sep='')
+...
+>>> printID(name='Mary', id='8776', major='ECE')
+```
+* Variable-length arguments
+```sh
+>>> def printID(name, *varargs):
+...     print('Student Name:', name)
+...     for item in varargs:
+...         print(item)
+...
+>>> printID('Barb')
+>>> printID('Mary', 'id: 8776', 'major: ECE')
+>>> exit()
+```
 * Install/upgrade Python packages with pip
 ```sh
 $ python -m pip install --upgrade pip
@@ -164,6 +221,20 @@ $ cd
 $ git clone https://github.com/kevinwlu/iot.git
 $ cd iot
 $ cd lesson3
+$ python
+>>> import student
+>>> students={'1':{'name':'Alex','grade':3.8},
+...           '2':{'name':'Barb','grade':2.5}, 
+...           '3':{'name':'Dave','grade':4.2},
+...           '4':{'name':'John','grade':4.1},
+...           '5':{'name':'Mary','grade':3.5}}
+>>> student.printRecords(students)
+>>> avg=student.averageGrade(students)
+>>> print('The average is {:0.2f}'.format(avg))
+>>> from student import averageGrade
+>>> avg=averageGrade(students)
+>>> print('The average is {:0.2f}'.format(avg))
+>>> exit()
 $ 2to3 2example.py
 $ python julian.py
 $ python date_example.py
