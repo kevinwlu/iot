@@ -3,6 +3,7 @@
 ![architecture.png](https://github.com/kevinwlu/iot/blob/master/lesson1/architecture.png)
 
 * IoT architecture source: [IERC-European Research Cluster on the Internet of Things](http://www.internet-of-things-research.eu/pdf/IoT-From%20Research%20and%20Innovation%20to%20Market%20Deployment_IERC_Cluster_eBook_978-87-93102-95-8_P.pdf)
+* [Open Systems Interconnecton (OSI) model](https://en.wikipedia.org/wiki/OSI_model)
 * [Machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine) (M2M) communication
 * [Software-defined networking](https://en.wikipedia.org/wiki/Software-defined_networking)
 * [Network function virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization)
