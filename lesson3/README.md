@@ -25,9 +25,10 @@
 C:\Users\...\AppData\Local\Programs\Python\Python... 
 C:\Users\...\AppData\Local\Programs\Python\Python...\Scripts
 ```
-* Download and open [Git Bash](https://gitforwindows.org/) on Windows, run Python and install/upgrade Python packages with pip
+* Open Command Promt or PowerShell on Windows, enter python
+  * Alternatively, download and open [Git Bash](https://gitforwindows.org/) on Windows, enter python -i
 ```sh
-$ python -i
+$ python
 >>> a=3
 >>> a
 >>> type(a)
@@ -151,6 +152,9 @@ $ python -i
 ...
 >>> averageGrade(students)
 >>> exit()
+```
+* Install/upgrade Python packages with pip
+```sh
 $ python -m pip install --upgrade pip
 $ pip install jdcal astral geopy
 ```
