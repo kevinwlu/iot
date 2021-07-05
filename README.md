@@ -18,6 +18,7 @@
 * [Hands-on books series](http://www.hands-on-books-series.com)
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
   * [ETSI](https://en.wikipedia.org/wiki/ETSI) White Paper No. 45: [_ETSI Technology Radar_](https://www.etsi.org/images/files/ETSIWhitePapers/etsi_wp45_ETSI_technology_radar.pdf)
+  * [Machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine) (M2M) communication
 * [Industrial internent of things](https://en.wikipedia.org/wiki/Industrial_internet_of_things)
 * [Fourth Industrial Revolution](https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution) (Industry 4.0)
   * [Automation](https://en.wikipedia.org/wiki/Automation)
