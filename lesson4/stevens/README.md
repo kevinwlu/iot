@@ -1,5 +1,8 @@
 # Django Project "Stevens"
 
+* On Windows or macOS without MariaDB, use the default SQLite database
+* In case "python manage.py createsuperuser" leads to "Superuser creation skipped due to not running in a TTY," enter "winpty python manage.py createsuperuser"
+
 ## Start a Django project
 ```sh
 pi@raspberrypi:~ $ django-admin startproject stevens
