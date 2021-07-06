@@ -9,6 +9,7 @@
 * [Linux](https://en.wikipedia.org/wiki/Linux)
   * [GNU/Linux Distributions Timeline](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
   * [Linux Foundation](https://en.wikipedia.org/wiki/Linux_Foundation) (LF)
+  * [Linux GitHub repository](https://github.com/torvalds/linux)
 * [Debian](https://en.wikipedia.org/wiki/Debian)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
 * [LXDE](https://en.wikipedia.org/wiki/LXDE)
