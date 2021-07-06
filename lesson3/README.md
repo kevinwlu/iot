@@ -6,9 +6,12 @@
   * [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter)
   * [Keyboard interrupt](https://en.wikipedia.org/wiki/Keyboard_interrupt)
   * [Control-C](https://en.wikipedia.org/wiki/Control-C)
-* [2to3](https://docs.python.org/3/library/2to3.html)
 * [Bitwise operators](https://wiki.python.org/moin/BitwiseOperators)
 * [pip](https://en.wikipedia.org/wiki/Pip_(package_manager))
+  * [2to3](https://docs.python.org/3/library/2to3.html)
+  * [Astral](https://astral.readthedocs.io/en/latest/)
+  * [GeoPy](https://geopy.readthedocs.io/en/stable/)
+  * [psutil](https://pypi.org/project/psutil/)
 * [Unicode](https://en.wikipedia.org/wiki/Unicode)
 * [GPIO Zero](https://gpiozero.readthedocs.io/en/stable)
 * [pigpio](http://abyz.me.uk/rpi/pigpio)
@@ -282,6 +285,7 @@ $ python sun.py 'New Delhi'
 $ python moon.py
 $ python coordinates.py 'SC Williams Library'
 $ python address.py '40.74480675, -74.02532862031404'
+$ python cpu_percent.py
 $ python documentstats.py document.txt
 ```
 ### NOTE: Raspberry Pi OS (or macOS/Linux) has both Python 2 and Python 3 already preinstalled
