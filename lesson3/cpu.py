@@ -6,7 +6,7 @@ print('The number of logical CPUs = ', log)
 phy = psutil.cpu_count(logical=False)
 print('The number of physical cores = ', phy)
 # Return hardware temperatures
-tmp = psutil.sensors_temperatures()
+tmp = psutil.temperatures()
 print('Hardware emperatures in degrees Celsius')
 print(tmp)
 # Returns a list of floats representing the utilization as a percentage for each CPU
