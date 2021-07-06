@@ -11,6 +11,7 @@
   * [Linux Foundation](https://en.wikipedia.org/wiki/Linux_Foundation) (LF)
   * [Linux GitHub repository](https://github.com/torvalds/linux)
 * [Debian](https://en.wikipedia.org/wiki/Debian)
+  * [APT](https://en.wikipedia.org/wiki/APT_(software)) (Advanced Package Tool)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
 * [LXDE](https://en.wikipedia.org/wiki/LXDE)
 * [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO)
