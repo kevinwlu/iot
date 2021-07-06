@@ -20,7 +20,7 @@
 * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security) (TLS)
 * [Apache Software Foundation](https://en.wikipedia.org/wiki/The_Apache_Software_Foundation)
 
-## For Windows, install [Chocolatey](https://chocolatey.org/)
+## [Chocolatey](https://chocolatey.org/) for Windows and [Homebrew](https://brew.sh/) for macOS may be required
 
 ## Labs 4A and 4B: Django and Django REST
 
