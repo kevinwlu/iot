@@ -39,6 +39,7 @@ $ sudo pip3 install -U markdown
 $ sudo pip3 install -U requests
 ```
 ### Install MariaDB server and client on Raspberry Pi
+### By default, Django uses [SQLite](https://en.wikipedia.org/wiki/SQLite)
 ```sh
 $ sudo apt update
 $ sudo apt install mariadb-server mariadb-client
@@ -54,7 +55,7 @@ Disallow root login remotely? [Y/n]
 Remove test database and access to it? [Y/n] 
 Reload privilege tables now? [Y/n] 
 ```
-### Start Django project [stevens](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens)
+### Start Django project [stevens](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens) 
 ### Start Django REST project [myraspi](https://github.com/kevinwlu/iot/tree/master/lesson4/myraspi)
 ### Start four Django REST projects that require sensors
 1. [weather](https://github.com/kevinwlu/iot/tree/master/lesson4/weather)
