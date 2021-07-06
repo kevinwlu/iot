@@ -82,7 +82,7 @@ pi@raspberrypi:~/stevens/myapp/static/myapp $ cp ~/iot/lesson4/static/*js .
 pi@raspberrypi:~/stevens/myapp/static/myapp $ cd ~/stevens
 ```
 ## After the first time, skip these three steps if no changes
-* In case "python manage.py createsuperuser" leads to "Superuser creation skipped due to not running in a TTY," enter "winpty python manage.py createsuperuser"
+* From Git Bash on Windows, if "python manage.py createsuperuser" leads to "Superuser creation skipped due to not running in a TTY," enter "winpty python manage.py createsuperuser"
 ```sh
 pi@raspberrypi:~/stevens $ python3 manage.py makemigrations myapp
 pi@raspberrypi:~/stevens $ python3 manage.py migrate
