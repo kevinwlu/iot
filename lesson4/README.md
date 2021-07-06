@@ -20,9 +20,11 @@
 * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security) (TLS)
 * [Apache Software Foundation](https://en.wikipedia.org/wiki/The_Apache_Software_Foundation)
 
-## [APT](https://en.wikipedia.org/wiki/APT_(software)) is used to install software on Raspberry Pi and [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) is used to install Python packages
+### [APT](https://en.wikipedia.org/wiki/APT_(software)) is used to install software on Raspberry Pi and [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) is used to install Python packages
 
-## [Chocolatey](https://chocolatey.org/) for Windows and [Homebrew](https://brew.sh/) for macOS may be required to install software
+### [Chocolatey](https://chocolatey.org/) may be used to install software on Windows
+
+### [Homebrew](https://brew.sh/) may be used to install software on macOS
 
 ## Labs 4A and 4B: Django and Django REST
 
