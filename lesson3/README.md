@@ -285,7 +285,8 @@ $ python sun.py 'New Delhi'
 $ python moon.py
 $ python coordinates.py 'SC Williams Library'
 $ python address.py '40.74480675, -74.02532862031404'
-$ python cpu_percent.py
+$ python cpu.py
+$ python battery.py
 $ python documentstats.py document.txt
 ```
 ### NOTE: Raspberry Pi OS (or macOS/Linux) has both Python 2 and Python 3 already preinstalled
@@ -307,6 +308,8 @@ $ python3 sun.py 'New Delhi'
 $ python3 moon.py
 $ python3 coordinates.py 'SC Williams Library'
 $ python3 address.py '40.74480675, -74.02532862031404'
+$ python3 cpu.py
+$ python3 battery.py
 $ python3 documentstats.py document.txt
 ```
 ### On Raspberry Pi only
