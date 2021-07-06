@@ -7,7 +7,7 @@
 * [Machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine) (M2M) communication
 * [Wide area network](https://en.wikipedia.org/wiki/Wide_area_network) (WAN)
 * [Local area network](https://en.wikipedia.org/wiki/Local_area_network) (LAN)
-* [Personal arear network](https://en.wikipedia.org/wiki/Personal_area_network) (PAN)
+* [Personal area network](https://en.wikipedia.org/wiki/Personal_area_network) (PAN)
 * [6LoWPAN](https://en.wikipedia.org/wiki/6LoWPAN) (IPv6 over Low-Power Wireless Personal Area Network)
 * [Software-defined networking](https://en.wikipedia.org/wiki/Software-defined_networking) (SDN)
 * [Network function virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization) (NFV)
