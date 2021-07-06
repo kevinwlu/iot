@@ -1,6 +1,4 @@
 import psutil
-from time import sleep
 for x in range(10):
-    cpu = psutil.cpu_percent()
+    cpu = psutil.cpu_percent(interval=1, percpu=True)
     print(cpu)
-    sleep(1)
