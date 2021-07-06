@@ -20,9 +20,11 @@
 * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security) (TLS)
 * [Apache Software Foundation](https://en.wikipedia.org/wiki/The_Apache_Software_Foundation)
 
+## For Windows, install [Chocolatey](https://chocolatey.org/)
+
 ## Labs 4A and 4B: Django and Django REST
 
-### Install Django and Django REST framework
+### Install Django and Django REST framework on Raspberry Pi
 ```sh
 $ pip3 -V
 $ sudo pip3 install -U setuptools
@@ -32,7 +34,7 @@ $ sudo pip3 install -U django-filter
 $ sudo pip3 install -U markdown
 $ sudo pip3 install -U requests
 ```
-### Install MariaDB server and client
+### Install MariaDB server and client on Raspberry Pi
 ```sh
 $ sudo apt update
 $ sudo apt install mariadb-server mariadb-client
