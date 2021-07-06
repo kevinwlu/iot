@@ -6,6 +6,7 @@
   * [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter)
   * [Keyboard interrupt](https://en.wikipedia.org/wiki/Keyboard_interrupt)
   * [Control-C](https://en.wikipedia.org/wiki/Control-C)
+  * [Python Software Foundation](https://en.wikipedia.org/wiki/Python_Software_Foundation)
 * [Bitwise operators](https://wiki.python.org/moin/BitwiseOperators)
 * [pip](https://en.wikipedia.org/wiki/Pip_(package_manager))
   * [2to3](https://docs.python.org/3/library/2to3.html)
