@@ -268,7 +268,7 @@ $ cat file1.txt
 * Install/upgrade Python packages with pip
 ```sh
 $ python -m pip install --upgrade pip
-$ pip install jdcal astral geopy
+$ pip install 2to3 jdcal astral geopy
 $ cd
 $ cd iot/lesson3
 $ 2to3 2example.py
