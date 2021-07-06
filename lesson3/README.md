@@ -180,7 +180,7 @@ $ python
 >>> math.sin(1.5707963267948966)
 >>> math.cos(math.pi)
 ```
-* Other built-in functions
+* [Built-in functions](https://docs.python.org/3/library/functions.html)
 ```sh
 >>> r=range(10)
 >>> r
