@@ -1,6 +1,7 @@
 # Lesson 4: Django and Flask
 
 * [Django](https://en.wikipedia.org/wiki/Django_(web_framework))
+  * [Django Software Foundation](https://en.wikipedia.org/wiki/Django_Software_Foundation)
 * [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
 * [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer) (REST)
 * [MariaDB](https://en.wikipedia.org/wiki/MariaDB)
