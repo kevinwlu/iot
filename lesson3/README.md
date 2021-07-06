@@ -28,7 +28,7 @@ C:\Users\...\AppData\Local\Programs\Python\Python...\Scripts
 * Open Command Promt or PowerShell on Windows, enter python
   * Alternatively, download and open [Git Bash](https://gitforwindows.org/) on Windows, enter python -i
   * To SSH Raspberry Pi, join the [Windows Insiders Program](https://insider.windows.com/en-us/getting-started) and install [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) (WSL)
-* Numbers: int, float, complex
+* Numbers: int, float, and complex
 ```sh
 $ python
 >>> a=3
