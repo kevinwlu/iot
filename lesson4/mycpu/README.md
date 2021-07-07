@@ -19,7 +19,7 @@ manage.py  myapp/  mycpu/
 ~/mycpu $ cd myraspi
 ~/mycpu/mycpu $ nano settings.py
 ```
-## Copy urls.py to ~/myraspi/myraspi
+## Copy urls.py to ~/mycpu/mycpu
 ```sh
 ~/mycpu/mycpu $ cp ~/iot/lesson4/myraspi/urls.py .
 ~/mycpu/mycpu $ cd ..
