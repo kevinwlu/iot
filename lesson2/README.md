@@ -6,6 +6,7 @@
 * [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) (Reduced instruction set computer)
 * [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
 * [GNU](https://en.wikipedia.org/wiki/GNU)
+  * [GNU nano](https://en.wikipedia.org/wiki/GNU_nano) text editor
 * [Linux](https://en.wikipedia.org/wiki/Linux)
   * [GNU/Linux Distributions Timeline](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
   * [Linux Foundation](https://en.wikipedia.org/wiki/Linux_Foundation) (LF)
