@@ -8,6 +8,7 @@
 * [MySQL](https://en.wikipedia.org/wiki/MySQL)
 * [SQLite](https://en.wikipedia.org/wiki/SQLite)
 * [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySQL, PHP)
+  * [WordPress](https://en.wikipedia.org/wiki/WordPress)
 * [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) (WWW)
 * [Web 2.0](https://en.wikipedia.org/wiki/Web_2.0)
 * [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web)
