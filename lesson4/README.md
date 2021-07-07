@@ -34,6 +34,7 @@
 ### Install Django and Django REST framework on Raspberry Pi
 ```sh
 $ pip3 -V
+$ pip3 list
 $ sudo pip3 install -U setuptools
 $ sudo pip3 install -U django
 $ sudo pip3 install -U djangorestframework
