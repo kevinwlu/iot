@@ -70,9 +70,9 @@ https://churchthemes.com/page-didnt-load-google-maps-correctly
 ## After the first time, skip these three steps if no changes
 * From Git Bash on Windows, if "python manage.py createsuperuser" leads to "Superuser creation skipped due to not running in a TTY," enter "winpty python manage.py createsuperuser"
 ```sh
-~/stevens $ python manage.py makemigrations myapp
-~/stevens $ python manage.py migrate
-~/stevens $ python manage.py createsuperuser
+~/xidian $ python manage.py makemigrations myapp
+~/xidian $ python manage.py migrate
+~/xidian $ python manage.py createsuperuser
 Username (leave blank to use '_'): admin
 Email address: EMAIL_ADDRESS
 Password: PASSWORD
