@@ -1,1 +1,110 @@
-# Django Project
+# Django Project "Xidian"
+
+## Start a Django project
+```sh
+~ $ django-admin startproject xidian
+~ $ cd xidian
+~/xidian $ ls
+manage.py  xidian/
+```
+
+## Start a Django app
+```sh
+~/xidian $ python manage.py startapp myapp
+~/xidian $ ls
+manage.py  myapp/  xidian/
+```
+
+## Edit settings.py in ~/xidian/xidian
+
+* Follow ~/iot/lesson4/xidian/settings.txt
+
+```sh
+~/xidian $ cd xidian
+~/xidian/xidian $ nano settings.py
+```
+## Copy urls.py to ~/xidian/xidian
+```sh
+~/xidian/xidian $ cp ~/iot/lesson4/stevens/urls.py .
+~/xidian/xidian $ cd ..
+```
+## Copy admin.py, models.py, and views.py to ~/xidian/myapp
+```sh
+~/xidian $ cd myapp
+~/xidian/myapp $ cp ~/iot/lesson4/stevens/admin.py .
+~/xidian/myapp $ cp ~/iot/lesson4/stevens/models.py .
+~/xidian/myapp $ cp ~/iot/lesson4/stevens/views.py .
+```
+## Copy index.html
+```sh
+~/xidian/myapp $ mkdir static templates
+~/xidian/myapp $ cd templates
+~/xidian/myapp/templates $ mkdir myapp
+~/xidian/myapp/templates $ cd myapp
+~/xidian/myapp/templates/myapp $ cp ~/iot/lesson4/stevens/index.html .
+```
+## Enable Google Maps API
+
+[Application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface) (API)
+
+https://cloud.google.com/maps-platform
+
+https://developers.google.com/maps/documentation/javascript/get-api-key
+
+https://churchthemes.com/page-didnt-load-google-maps-correctly
+
+## Edit index.html to add the Google Maps API key
+```sh
+~/xidian/myapp/templates/myapp $ nano index.html
+```
+## Copy static files
+```sh
+~/xidian/myapp/templates/myapp $ cd ~/xidian/myapp/static
+~/xidian/myapp/static $ cp ~/iot/lesson4/static/xidian/favicon.ico .
+~/xidian/myapp/static $ mkdir myapp
+~/xidian/myapp/static $ cd myapp
+~/xidian/myapp/static/myapp $ cp ~/iot/lesson4/static/*css .
+~/xidian/myapp/static/myapp $ cp ~/iot/lesson4/static/*js .
+~/xidian/myapp/static/myapp $ cd ~/xidian
+```
+## After the first time, skip these three steps if no changes
+* From Git Bash on Windows, if "python manage.py createsuperuser" leads to "Superuser creation skipped due to not running in a TTY," enter "winpty python manage.py createsuperuser"
+```sh
+~/stevens $ python manage.py makemigrations myapp
+~/stevens $ python manage.py migrate
+~/stevens $ python manage.py createsuperuser
+Username (leave blank to use '_'): admin
+Email address: EMAIL_ADDRESS
+Password: PASSWORD
+Password (again): PASSWORD
+Superuser created successfully.
+```
+## Run Django server
+```sh
+~/xidian $ python manage.py runserver
+```
+## Open a browser
+
+### Go to http://127.0.0.1:8000/admin
+
+### Login with Django administration username (admin) and PASSWORD
+
+### Click temperature data to add 
+
+* Date and time in YYYY-MM-DD HH:MM:SS
+
+* Temperature in Celsius
+
+* Latitude 34.12250
+
+* Longitude 108.84029
+
+### Click SAVE
+
+### View app at http://127.0.0.1:8000
+
+## Alternatively, run Django server at [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)
+```sh
+~/xidian $ python3 manage.py runserver 0.0.0.0:8000
+```
+## Open a browser on another laptop and go to the server IP address
