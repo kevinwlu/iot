@@ -58,6 +58,8 @@ $ python3 client_component_subscribe.py
 * Press control-c to stop subscribe-client > publish-client > router
 ## Lab 5B: Eclipse Mosquitto and Eclipse Paho
 
+* For Windows, download Mosquitto [here](https://mosquitto.org/download/)
+
 ### Install and run Mosquitto to subscribe on one terminal and publish on another
 ```sh
 $ sudo apt update
