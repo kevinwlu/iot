@@ -13,8 +13,13 @@
 
 ## Lab 5A: Crossbar.io
 
+### [Docker Get Started](https://www.docker.com/get-started) includes
+
+* Docker Desktop download for [macOS](https://docs.docker.com/docker-for-mac/install/) or [Windows](https://docs.docker.com/docker-for-windows/install/)
+* Docker Engine for [Linux](https://docs.docker.com/engine/install/) (CentOS, Debian, Fedora, Raspberry Pi OS, and Ubuntu)
+
 ### On Raspberry Pi, install Docker
-* [Docker Get Started](https://www.docker.com/get-started) includes Docker Desktop download for Mac or Windows and Docker Engine for Linux (Fedora, CentOS, AWS, Azure, Ubuntu, Debian)
+* 
 * Install Docker on Raspberry Pi OS by following these [instructions](https://withblue.ink/2020/06/24/docker-and-docker-compose-on-raspberry-pi-os.html)
 * Run [cURL](https://en.wikipedia.org/wiki/CURL) to download data from [example.com](https://en.wikipedia.org/wiki/Example.com) with or without the progress meter
 * Run Docker commands and hello-world
