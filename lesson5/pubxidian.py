@@ -15,8 +15,8 @@ while True:
         dt = now.replace(microsecond=0)
         print(dt)
         print('CPU Usage:   {0:0.1f} %'.format(cpu))
-        mqttc.publish("CPU", "%s" % dt)
-        mqttc.publish("CPU", "CPU Usage:   %.1f %%" % cpu)
+        mqttc.publish("Xidian", "%s" % dt)
+        mqttc.publish("Xidian", "CPU Usage:   %.1f %%" % cpu)
         time.sleep(10)
     except KeyboardInterrupt:
         exit()
