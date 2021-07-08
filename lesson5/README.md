@@ -17,6 +17,18 @@
 
 * Docker Desktop download for [macOS](https://docs.docker.com/docker-for-mac/install/) or [Windows](https://docs.docker.com/docker-for-windows/install/)
 * Docker Engine for [Linux](https://docs.docker.com/engine/install/) (CentOS, Debian, Fedora, Raspberry Pi OS, and Ubuntu)
+```sh
+$ docker version
+$ docker images
+$ docker 
+$ docker run -rm hello-world
+$ docker run -it ubuntu bash
+# pwd
+# ls
+# cat /etc/os-release
+# date
+# exit
+```
 
 ### On Raspberry Pi, install Docker
 * Install Docker on Raspberry Pi OS by following these [instructions](https://withblue.ink/2020/06/24/docker-and-docker-compose-on-raspberry-pi-os.html)
