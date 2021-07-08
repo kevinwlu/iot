@@ -8,7 +8,7 @@
 * [Message queuing telemetry transport](https://en.wikipedia.org/wiki/MQTT) (MQTT)
   * [Eclipse Foundation](https://en.wikipedia.org/wiki/Eclipse_Foundation)
   * [Eclipse Mosquitto](https://mosquitto.org/)
-    * [Cedalo](https://cedalo.com/)
+  * [Cedalo](https://cedalo.com/)
   * [Eclipse Paho](https://en.wikipedia.org/wiki/Eclipse_Paho)
 
 ## Lab 5A: Crossbar.io
