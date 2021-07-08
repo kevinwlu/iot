@@ -1,6 +1,6 @@
 # Lesson 5: Crossbar.io and Paho
 
-* [Publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
+* [Publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) (Pub/Sub)
 * [Web application messaging protocol](https://en.wikipedia.org/wiki/Web_Application_Messaging_Protocol) (WAMP)
   * [cURL](https://en.wikipedia.org/wiki/CURL) (Client URL)
   * [Docker](https://en.wikipedia.org/wiki/Docker_(software))
