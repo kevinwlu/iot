@@ -19,7 +19,6 @@
 * Docker Engine for [Linux](https://docs.docker.com/engine/install/) (CentOS, Debian, Fedora, Raspberry Pi OS, and Ubuntu)
 
 ### On Raspberry Pi, install Docker
-* 
 * Install Docker on Raspberry Pi OS by following these [instructions](https://withblue.ink/2020/06/24/docker-and-docker-compose-on-raspberry-pi-os.html)
 * Run [cURL](https://en.wikipedia.org/wiki/CURL) to download data from [example.com](https://en.wikipedia.org/wiki/Example.com) with or without the progress meter
 * Run Docker commands and hello-world
