@@ -2,13 +2,13 @@
 
 * [Publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
 * [Web application messaging protocol](https://en.wikipedia.org/wiki/Web_Application_Messaging_Protocol) (WAMP)
-* [cURL](https://en.wikipedia.org/wiki/CURL)
-* [Docker](https://en.wikipedia.org/wiki/Docker_(software))
-* [Crossbar.io](https://crossbar.io/docs/Getting-Started/)
+  * [cURL](https://en.wikipedia.org/wiki/CURL)
+  * [Docker](https://en.wikipedia.org/wiki/Docker_(software))
+  * [Crossbar.io](https://crossbar.io/docs/Getting-Started/)
 * [Message queuing telemetry transport](https://en.wikipedia.org/wiki/MQTT) (MQTT)
-* [Eclipse Foundation](https://en.wikipedia.org/wiki/Eclipse_Foundation)
-* [Eclipse Mosquitto](https://mosquitto.org/)
-* [Eclipse Paho](https://en.wikipedia.org/wiki/Eclipse_Paho)
+  * [Eclipse Foundation](https://en.wikipedia.org/wiki/Eclipse_Foundation)
+  * [Eclipse Mosquitto](https://mosquitto.org/)
+  * [Eclipse Paho](https://en.wikipedia.org/wiki/Eclipse_Paho)
 
 ## Lab 5A: Crossbar.io
 
