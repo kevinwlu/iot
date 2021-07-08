@@ -35,7 +35,7 @@ $ sudo docker images
 $ sudo usermod -aG docker pi
 $ logout
 ```
-### Run Crossbar.io router on Terminal 1
+### Run Crossbar.io router on Raspberry Pi Terminal 1
 ```sh
 $ git clone https://github.com/crossbario/crossbar-examples
 $ cd crossbar-examples/getting-started
@@ -44,7 +44,7 @@ $ docker pull crossbario/crossbar-armhf
 $ docker run -v $PWD:/node -u 0 --rm --name=crossbar -it -p 8080:8080 crossbario/crossbar-armhf
 ```
 * Open a browser and go to 192.168.x.xxx:8080/info (or 127.0.0.1:8080/info via VNC Viewer) to view the Crossbar.io node information
-### Run publish-client on Terminal 2
+### Run publish-client on Raspberry Pi Terminal 2
 ```sh
 $ sudo pip3 install -U autobahn[twisted,encryption,serialization,xbr]
 $ cd crossbar-examples/getting-started
@@ -55,7 +55,7 @@ $ cd ..
 $ cd 1.hello-world
 $ python3 client_component_publish.py
 ```
-### Run subscribe-client on Terminal 3
+### Run subscribe-client on Raspberry Pi Terminal 3
 ```sh
 $ cd crossbar-examples/getting-started/1.hello-world/
 $ python3 client_component_subscribe.py
