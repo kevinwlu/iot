@@ -12,7 +12,7 @@
 
 ## Lab 5A: Crossbar.io
 
-### Install Docker on Raspberry Pi OS
+### On Raspberry Pi, install Docker
 * [Docker Get Started](https://www.docker.com/get-started) includes Docker Desktop download for Mac or Windows and Docker Engine for Linux (Fedora, CentOS, AWS, Azure, Ubuntu, Debian)
 * Install Docker on Raspberry Pi OS by following these [instructions](https://withblue.ink/2020/06/24/docker-and-docker-compose-on-raspberry-pi-os.html)
 * Run [cURL](https://en.wikipedia.org/wiki/CURL) to download data from [example.com](https://en.wikipedia.org/wiki/Example.com) with or without the progress meter
@@ -58,7 +58,8 @@ $ python3 client_component_subscribe.py
 * Press control-c to stop subscribe-client > publish-client > router
 ## Lab 5B: Eclipse Mosquitto and Eclipse Paho
 
-### On Windows, [download](https://mosquitto.org/download/) and install Mosquitto, go to System Properties > Environment Variables > Path > New, and enter C:\Program Files\Mosquitto
+### On Windows, [download](https://mosquitto.org/download/) and install Mosquitto
+* o to System Properties > Environment Variables > Path > New, and enter C:\Program Files\Mosquitto
 ### On macOS, install Mosquitto with
 ```sh
 brew install mosquitto
