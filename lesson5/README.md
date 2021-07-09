@@ -76,7 +76,7 @@ $ python3 client_component_subscribe.py
 ## Lab 5B: Eclipse Mosquitto and Eclipse Paho
 
 ### On Windows, [download](https://mosquitto.org/download/) and install Mosquitto
-* o to System Properties > Environment Variables > Path > New, and enter C:\Program Files\Mosquitto
+* Go to System Properties > Environment Variables > Path > New, and enter C:\Program Files\Mosquitto
 ### On macOS, install Mosquitto with
 ```sh
 brew install mosquitto
