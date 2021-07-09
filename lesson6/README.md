@@ -20,7 +20,7 @@
 ## Lab 6A: Node.js
 
 ### [Node.js Downloads](https://nodejs.org/en/download/) include latest Long Term Support (LTS) version and npm
-* Pre-built installer and binary for Windows with an option to install the necessary tools such as Chocalatey, Visual Studio, and Python
+* Pre-built installer and binary for Windows with an option to install (or upgrade) the necessary tools such as Chocalatey, Python, and Visual Studio
 * Pre-built installer and binary for macOS (/usr/local/bin)
 * Linux binaries for x64 and ARM
 ### On Raspberry Pi via VNC Viewer, click the application menu on the left upper corner, select Programming to check whether Node-RED is installed
