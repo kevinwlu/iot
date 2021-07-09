@@ -45,6 +45,8 @@ manage.py  myapp/  xidian/
 ```
 ## Enable Google Maps API
 
+* Alternatively, use [Amap API](https://lbs.amap.com/) (see [AutoNavi](https://en.wikipedia.org/wiki/AutoNavi))
+
 [Application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface) (API)
 
 https://cloud.google.com/maps-platform
