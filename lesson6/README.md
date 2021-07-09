@@ -8,6 +8,7 @@
 * [Lithium-ion polymer (LiPo) battery](https://en.wikipedia.org/wiki/Lithium_polymer_battery)
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
   * [npm](https://en.wikipedia.org/wiki/Npm_(software)) (Node Package Manager)
+  * [nvm](https://github.com/nvm-sh/nvm) (Node Version Manager)
   * [Node-RED](https://en.wikipedia.org/wiki/Node-RED)
 * [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack))
 * [Mustache](https://en.wikipedia.org/wiki/Mustache_(template_system))
