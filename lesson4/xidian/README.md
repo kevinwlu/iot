@@ -48,12 +48,9 @@ manage.py  myapp/  xidian/
 * Alternatively, use [Amap API](https://lbs.amap.com/) (see [AutoNavi](https://en.wikipedia.org/wiki/AutoNavi))
 
 [Application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface) (API)
-
-https://cloud.google.com/maps-platform
-
-https://developers.google.com/maps/documentation/javascript/get-api-key
-
-https://churchthemes.com/page-didnt-load-google-maps-correctly
+[Google Maps Platform](https://cloud.google.com/maps-platform)
+[Get Google Maps API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
+[How to fix “This page didn’t load Google Maps correctly” error](https://churchthemes.com/page-didnt-load-google-maps-correctly)
 
 ## Edit index.html to add the Google Maps API key
 ```sh
