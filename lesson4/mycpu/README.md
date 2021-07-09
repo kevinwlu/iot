@@ -45,6 +45,7 @@ manage.py  myapp/  mycpu/
 ~/mycpu/myapp/templates/myapp $ cp ~/iot/lesson4/myraspi/index.html .
 ```
 ## Edit index.html to add the Google Maps API key
+* Alternatively, use [Amap API](https://lbs.amap.com/) (see [AutoNavi](https://en.wikipedia.org/wiki/AutoNavi))
 ```sh
 ~/mycpu/myapp/templates/myapp $ nano index.html
 ```
