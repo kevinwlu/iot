@@ -7,7 +7,8 @@
 * [Hirose U.FL](https://en.wikipedia.org/wiki/Hirose_U.FL) connectors
 * [Lithium-ion polymer (LiPo) battery](https://en.wikipedia.org/wiki/Lithium_polymer_battery)
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
-* [Node-RED](https://en.wikipedia.org/wiki/Node-RED)
+  * [npm](https://en.wikipedia.org/wiki/Npm_(software)) (Node Package Manager)
+  * [Node-RED](https://en.wikipedia.org/wiki/Node-RED)
 * [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack))
 * [Mustache](https://en.wikipedia.org/wiki/Mustache_(template_system))
 * [Handlebars.js](https://handlebarsjs.com/)
@@ -17,13 +18,13 @@
 
 ## Lab 6A: Node.js
 
-### On Raspberry Pi via VNC Viewer, click the application menu on the left upper corner, select Programming to check whether Node-RED is installed
-
-### If Node-RED is not installed, select Preferences > Recommended Software to install Node-RED
-
-### Run and view Node.js server at http://127.0.0.1:8080 on Raspberry Pi via VNC viewer or directly at http://192.168.x.xxx:8080 on a laptop computer
-
-### Reload the web page to see the server responses and press control-c (^C) to quit
+[Node.js Downloads](https://nodejs.org/en/download/) include latest Long Term Support (LTS) version and npm
+* Pre-built installers and binaries for Windows and macOS
+* Linux binaries for x64 and ARM
+On Raspberry Pi via VNC Viewer, click the application menu on the left upper corner, select Programming to check whether Node-RED is installed
+* If Node-RED is not installed, select Preferences > Recommended Software to install Node-RED
+* Run and view Node.js server at http://127.0.0.1:8080 on Raspberry Pi via VNC viewer or directly at http://192.168.x.xxx:8080 on a laptop computer
+* Reload the web page to see the server responses and press control-c (^C) to quit
 ```sh
 $ node -h
 $ node -v
