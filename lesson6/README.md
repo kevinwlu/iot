@@ -10,6 +10,7 @@
   * [npm](https://en.wikipedia.org/wiki/Npm_(software)) (Node Package Manager)
   * [nvm](https://github.com/nvm-sh/nvm) (Node Version Manager)
   * [Node-RED](https://en.wikipedia.org/wiki/Node-RED)
+  * [Low-code development platofrm](https://en.wikipedia.org/wiki/Low-code_development_platform) (LCDP)
 * [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack))
 * [Mustache](https://en.wikipedia.org/wiki/Mustache_(template_system))
 * [Handlebars.js](https://handlebarsjs.com/)
