@@ -1,0 +1,18 @@
+# Edit settings.py that was generated from the command 'django-admin startproject mycpu'
+
+# Add '*' to ALLOWED_HOSTS
+
+ALLOWED_HOSTS = ['*']
+
+# Add 'myapp'and 'rest_framework' to INSTALLED_APPS
+
+INSTALLED_APPS = [
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    'myapp',
+    'rest_framework',
+]
