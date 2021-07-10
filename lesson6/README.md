@@ -23,6 +23,7 @@
 
 ### [Node.js Downloads](https://nodejs.org/en/download/) include latest Long Term Support (LTS) version and npm
 * Pre-built installer and binary for Windows with an option to install (or upgrade) the necessary tools such as Chocalatey, Python, and Visual Studio
+  * WARNING: Upgrading Python resets pip list with only pip and setuptools, requiring package reinstallation
 * Pre-built installer and binary for macOS (/usr/local/bin)
 * Linux binaries for x64 and ARM
 ### On Raspberry Pi via VNC Viewer, click the application menu on the left upper corner, select Programming to check whether Node-RED is installed
