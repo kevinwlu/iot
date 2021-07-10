@@ -4,6 +4,7 @@
   * [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
   * [Hash function](https://en.wikipedia.org/wiki/Hash_function)
   * [SHA-2](https://en.wikipedia.org/wiki/SHA-2) (Secure Hash Algorithm 2)
+  * [SHA-3](https://en.wikipedia.org/wiki/SHA-3) (Secure Hash Algorithm 3)
   * [Blockchain repositories](https://github.com/blockchain)
 * [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
   * [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto), "[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)," [Oct. 31, 2008](https://archive.is/20121228025845/http://article.gmane.org/gmane.comp.encryption.general/12588/#selection-179.7-179.30)
