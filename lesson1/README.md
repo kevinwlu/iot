@@ -17,6 +17,9 @@
 * [Orchestration](https://en.wikipedia.org/wiki/Orchestration_(computing))
 * [Quality of service](https://en.wikipedia.org/wiki/Quality_of_service) (QoS)
 * [Authentication, Authorization, and Accounting](https://en.wikipedia.org/wiki/AAA_(computer_security)) (AAA)
+* [SSH](https://en.wikipedia.org/wiki/Secure_Shell)
+  * [ECDSA](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm) (Elliptic Curve Digital Signature Algorithm)
+* [VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing)
 
 ## Lab 1A: Raspberry Pi and Wi-Fi
 
