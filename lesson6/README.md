@@ -6,6 +6,7 @@
 * [Hayes command set](https://en.wikipedia.org/wiki/Hayes_command_set)
 * [Hirose U.FL](https://en.wikipedia.org/wiki/Hirose_U.FL) connectors
 * [Lithium-ion polymer (LiPo) battery](https://en.wikipedia.org/wiki/Lithium_polymer_battery)
+* [Advanced Encryption Standard](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) (AES)
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
   * [npm](https://en.wikipedia.org/wiki/Npm_(software)) (Node Package Manager)
   * [nvm](https://github.com/nvm-sh/nvm) (Node Version Manager)
