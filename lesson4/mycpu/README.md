@@ -14,23 +14,23 @@ manage.py  mycpu/
 manage.py  myapp/  mycpu/
 ```
 ## Edit settings.py in ~/mycpu/mycpu
-* Follow ~/iot/lesson4/xidian/settings.txt
+* Follow ~/iot/lesson4/mycpu/settings.txt
 ```sh
 ~/mycpu $ cd myraspi
 ~/mycpu/mycpu $ nano settings.py
 ```
 ## Copy urls.py to ~/mycpu/mycpu
 ```sh
-~/mycpu/mycpu $ cp ~/iot/lesson4/myraspi/urls.py .
+~/mycpu/mycpu $ cp ~/iot/lesson4/mycpu/urls.py .
 ~/mycpu/mycpu $ cd ..
 ```
 ## Copy admin.py, models.py, views.py, and serializers.py to ~/mycpu/myapp
 ```sh
 ~/mycpu $ cd myapp
-~/mycpu/myapp $ cp ~/iot/lesson4/myraspi/admin.py .
-~/mycpu/myapp $ cp ~/iot/lesson4/myraspi/models.py .
-~/mycpu/myapp $ cp ~/iot/lesson4/myraspi/views.py .
-~/mycpu/myapp $ cp ~/iot/lesson4/myraspi/serializers.py .
+~/mycpu/myapp $ cp ~/iot/lesson4/mycpu/admin.py .
+~/mycpu/myapp $ cp ~/iot/lesson4/mycpu/models.py .
+~/mycpu/myapp $ cp ~/iot/lesson4/mycpu/views.py .
+~/mycpu/myapp $ cp ~/iot/lesson4/mycpu/serializers.py .
 ```
 ## Change the default password 'raspberry' in views.py
 ```sh
@@ -42,7 +42,7 @@ manage.py  myapp/  mycpu/
 ~/mycpu/myapp $ cd templates
 ~/mycpu/myapp/templates $ mkdir myapp
 ~/mycpu/myapp/templates $ cd myapp
-~/mycpu/myapp/templates/myapp $ cp ~/iot/lesson4/myraspi/index.html .
+~/mycpu/myapp/templates/myapp $ cp ~/iot/lesson4/mycpu/index.html .
 ```
 ## Edit index.html to add the Google Maps API key
 * Alternatively, use [Amap API](https://lbs.amap.com/) (see [AutoNavi](https://en.wikipedia.org/wiki/AutoNavi))
@@ -59,11 +59,9 @@ manage.py  myapp/  mycpu/
 ~/mycpu/myapp/static/myapp $ cp ~/iot/lesson4/static/*js .
 ~/mycpu/myapp/static/myapp $ cd ~/mycpu
 ```
-## Copy system_info.py and controller.py to ~/myraspi
-* system_info.py only runs on Raspberry Pi
-* On Windows or macOS, replace CPU temperature with other [psutil](https://pypi.org/project/psutil/) information
+## Copy controller.py to ~/myraspi
 ```sh
-~/mycpu $ cp ~/iot/lesson4/myraspi/controller.py .
+~/mycpu $ cp ~/iot/lesson4/mycpu/controller.py .
 ```
 ## Change the default password 'raspberry' in controller.py
 ```sh
@@ -81,8 +79,8 @@ manage.py  myapp/  mycpu/
 ~/mycpu $ python manage.py createsuperuser
 Username (leave blank to use '_'): admin
 Email address: EMAIL_ADDRESS
-Password: PASSWORD
-Password (again): PASSWORD
+Password: admin
+Password (again): admin
 Superuser created successfully.
 ```
 ## Run Django server
@@ -93,14 +91,12 @@ Superuser created successfully.
 
 ### At the first time, go to http://127.0.0.1:8000/admin
 
-### Login with Django administration username (admin) and PASSWORD
+### Login with Django administration username (admin) and password (admin)
 
 ### Click location data to add 
 
 * Location Xidian
-
 * Latitude 34.12250
-
 * Longitude 108.84029
 
 ### Click SAVE
@@ -108,19 +104,17 @@ Superuser created successfully.
 ### Post the following in HTML form:
 
 * 2021 to the Dt List at http://127.0.0.1:8000/dt
-
-* 50 to the Tmp List at http://127.0.0.1:8000/tmp
-
 * 20 to the Cpu List at http://127.0.0.1:8000/cpu
+* 20 to the Mem List at http://127.0.0.1:8000/mem
 
 ## Run native controller service on a separate terminal window
 ```sh
-~/mycpu $ python3 controller.py
+~/mycpu $ python controller.py
 ```
 ## View app at http://127.0.0.1:8000/home
 
 ## Alternatively, run Django server at [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)
 ```sh
-~/mycpu $ python3 manage.py runserver 0.0.0.0:8000
+~/mycpu $ python manage.py runserver 0.0.0.0:8000
 ```
 ## Open a browser on another laptop and go to the server IP address
