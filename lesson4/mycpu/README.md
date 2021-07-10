@@ -9,8 +9,8 @@ manage.py  mycpu/
 ```
 ## Start a Django app
 ```sh
-~/myraspi $ python manage.py startapp myapp
-~/myraspi $ ls
+~/mycpu $ python manage.py startapp myapp
+~/mycpu $ ls
 manage.py  myapp/  mycpu/
 ```
 ## Edit settings.py in ~/mycpu/mycpu
@@ -32,7 +32,7 @@ manage.py  myapp/  mycpu/
 ~/mycpu/myapp $ cp ~/iot/lesson4/mycpu/views.py .
 ~/mycpu/myapp $ cp ~/iot/lesson4/mycpu/serializers.py .
 ```
-## Change the default password 'raspberry' in views.py
+## Change the default password 'admin' in views.py
 ```sh
 ~/mycpu/myapp $ nano views.py
 ```
@@ -59,11 +59,11 @@ manage.py  myapp/  mycpu/
 ~/mycpu/myapp/static/myapp $ cp ~/iot/lesson4/static/*js .
 ~/mycpu/myapp/static/myapp $ cd ~/mycpu
 ```
-## Copy controller.py to ~/myraspi
+## Copy controller.py to ~/mycpu
 ```sh
 ~/mycpu $ cp ~/iot/lesson4/mycpu/controller.py .
 ```
-## Change the default password 'raspberry' in controller.py
+## Change the default password 'admin' in controller.py
 ```sh
 ~/mycpu $ nano controller.py
 ```
@@ -79,8 +79,8 @@ manage.py  myapp/  mycpu/
 ~/mycpu $ python manage.py createsuperuser
 Username (leave blank to use '_'): admin
 Email address: EMAIL_ADDRESS
-Password: admin
-Password (again): admin
+Password: PASSWORD
+Password (again): PASSWORD
 Superuser created successfully.
 ```
 ## Run Django server
@@ -91,7 +91,7 @@ Superuser created successfully.
 
 ### At the first time, go to http://127.0.0.1:8000/admin
 
-### Login with Django administration username (admin) and password (admin)
+### Login with Django administration username (admin) and password (PASSWORD)
 
 ### Click location data to add 
 
