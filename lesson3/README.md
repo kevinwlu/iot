@@ -9,6 +9,7 @@
   * [Python Software Foundation](https://en.wikipedia.org/wiki/Python_Software_Foundation) (PSF)
 * [Bitwise operators](https://wiki.python.org/moin/BitwiseOperators)
 * [pip](https://en.wikipedia.org/wiki/Pip_(package_manager))
+  * [Setuptools](https://en.wikipedia.org/wiki/Setuptools)
   * [2to3](https://docs.python.org/3/library/2to3.html)
   * [Astral](https://astral.readthedocs.io/en/latest/)
   * [GeoPy](https://geopy.readthedocs.io/en/stable/)
