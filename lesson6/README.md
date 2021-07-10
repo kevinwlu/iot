@@ -6,6 +6,7 @@
 * [Hayes command set](https://en.wikipedia.org/wiki/Hayes_command_set)
 * [Narrowband IoT](https://en.wikipedia.org/wiki/Narrowband_IoT) (NB-IoT)
 * [LTE-M](https://en.wikipedia.org/wiki/LTE-M) Machine Type Communication
+* [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System) (GPS)
 * [Hirose U.FL](https://en.wikipedia.org/wiki/Hirose_U.FL) connectors
 * [Lithium-ion polymer (LiPo) battery](https://en.wikipedia.org/wiki/Lithium_polymer_battery)
 * [Advanced Encryption Standard](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) (AES)
