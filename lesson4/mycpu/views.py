@@ -24,7 +24,7 @@ def home(request):
     lat = locData.latitude
     lon = locData.longitude
 
-    dtstate = '2021-07-07'
+    dtstate = '2021'
     r = requests.get('http://127.0.0.1:8000/dt/1/', auth=('admin', 'admin'))
     result = r.text
     output = json.loads(result)
@@ -36,7 +36,7 @@ def home(request):
     output = json.loads(result)
     memstate = output['name']
 
-    cpustate = '50'
+    cpustate = '20'
     r = requests.get('http://127.0.0.1:8000/cpu/1/', auth=('admin', 'admin'))
     result = r.text
     output = json.loads(result)
