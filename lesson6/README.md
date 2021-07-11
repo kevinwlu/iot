@@ -37,8 +37,9 @@
 * Run and view Node.js server at http://127.0.0.1:8080 on Raspberry Pi via VNC viewer or directly on a laptop computer at the Raspberry Pi IP address such as http://192.168.1.204:8080
 * Reload the web page to see the server responses and press control-c (^C) to quit
 ```sh
-$ node -h
 $ node -v
+$ npm -v
+$ node -h
 $ cd ~/iot/lesson6
 $ cat hello.js
 $ node hello.js
