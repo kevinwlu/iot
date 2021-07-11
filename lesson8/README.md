@@ -3,6 +3,7 @@
 * [Basic Linear Algebra Subprograms](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) (BLAS)
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
 * [SciPy](https://en.wikipedia.org/wiki/SciPy)
+  * [Linear regression](https://en.wikipedia.org/wiki/Linear_regression)
 * [Scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn)
 * [Matplotlib](https://en.wikipedia.org/wiki/Matplotlib)
 * [Pandas](https://en.wikipedia.org/wiki/Pandas_(software))
