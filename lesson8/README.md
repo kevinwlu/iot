@@ -8,6 +8,7 @@
   * [Interpolation](https://en.wikipedia.org/wiki/Interpolation)
   * [Overfitting](https://en.wikipedia.org/wiki/Overfitting)
 * [Scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn)
+  * [Statistical classification](https://en.wikipedia.org/wiki/Statistical_classification)
   * [Cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
   * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
   * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning)
