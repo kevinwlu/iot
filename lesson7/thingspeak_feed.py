@@ -37,7 +37,7 @@ def doit():
 		conn.close()
 	except:
 		print("connection failed")
-#sleep for 60 seconds (api limit of 15 secs)
+#sleep for 60 seconds (message update interval limit of 15 seconds)
 if __name__ == "__main__":
 #caching the Write Key for the ThingSpeak API
 	if file_exists(PICKLE_FILE_NAME) and is_file(PICKLE_FILE_NAME):
