@@ -18,12 +18,10 @@
 
 ## Lab 7A: ThingSpeak
 
-### Sign up and log in [ThingSpeak](https://thingspeak.com)
-
-### Create new channel cpu_loop with field1 cpu_pc and field2 mem_avail_mb
-
-### Copy the Write API Key from [channels](https://thingspeak.com/channels)
-
+* Sign up and log in [ThingSpeak](https://thingspeak.com)
+* Create new channel cpu_loop with field1 cpu_pc and field2 mem_avail_mb
+* Copy the Write API Key from [channels](https://thingspeak.com/channels)
+* [ThingSpeak licensing FAQ](https://thingspeak.com/pages/license_faq) (frequently asked questions)
 ### Review and run thingspeak_feed.py
 ```sh
 $ sudo pip3 install -U psutil
