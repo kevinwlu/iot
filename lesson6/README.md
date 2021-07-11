@@ -3,7 +3,7 @@
 * [Arduino](https://en.wikipedia.org/wiki/Arduino)
 * [BeagleBoard](https://en.wikipedia.org/wiki/BeagleBoard)
 * [ESP8266](https://en.wikipedia.org/wiki/ESP8266)
-* [Hayes command set](https://en.wikipedia.org/wiki/Hayes_command_set)
+* [Hayes command set](https://en.wikipedia.org/wiki/Hayes_command_set) or AT command set
 * [Narrowband IoT](https://en.wikipedia.org/wiki/Narrowband_IoT) (NB-IoT)
 * [LTE-M](https://en.wikipedia.org/wiki/LTE-M) Machine Type Communication
 * [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System) (GPS)
