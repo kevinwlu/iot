@@ -75,6 +75,54 @@ $ ssh -Y pi@xxx.xxx.xxx.xxx
 ```sh
 $ ssh -Y pi@xxx.xxx.xxx.xxx
 ```
+### Numpy array
+```sh
+$ python3
+>>> import numpy as np
+>>> a=np.arange(6)
+>>> a
+>>> b=np.arange(12).reshape(4,3)
+>>> b
+>>> c=np.arange(24).reshape(2,3,4)
+>>> c
+>>> b.shape
+>>> b.reshape(-1)
+>>> b.reshape(-1,1)
+>>> b.reshape(2,-1)
+>>> d=np.array([20,30,40,50])
+>>> e=np.arange(4)
+>>> f=d-e
+>>> f
+>>> e**2
+>>> A=np.array([[1, 1], [0, 1]])
+>>> B=np.array([[2, 0], [3, 4]])
+>>> A*B
+>>> A.dot(B)
+>>> np.dot(A, B)
+>>> g=np.ones((2, 3), dtype=int)
+>>> g
+>>> h=np.random.random((2, 3))
+>>> h
+>>> g*=3
+>>> g
+>>> h+=g
+>>> h
+>>> k=np.random.random((2, 3))
+>>> k
+>>> k.sum()
+>>> k.min()
+>>> k.max()
+>>> m = np.arange(12).reshape(3, 4)
+>>> m
+>>> m.sum(axis=0)
+>>> m.min(axis=1)
+>>> m.cumsum(axis=1)
+>>> n = np.arange(5)
+>>> n
+>>> n[[1, 3, 4]] = 0
+>>> n
+>>> exit()
+```
 ### Review and Run Python code
 ```sh
 $ cd ~/iot/lesson8
