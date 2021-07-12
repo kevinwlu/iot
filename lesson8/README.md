@@ -2,6 +2,7 @@
 * [Automatically Tuned Linear Algebra Software](https://en.wikipedia.org/wiki/Automatically_Tuned_Linear_Algebra_Software) (ATLAS)
 * [Basic Linear Algebra Subprograms](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) (BLAS)
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
+  * [Quickstart](https://numpy.org/devdocs/user/quickstart.html)
 * [SciPy](https://en.wikipedia.org/wiki/SciPy)
   * [Linear regression](https://en.wikipedia.org/wiki/Linear_regression)
   * [Lasso](https://en.wikipedia.org/wiki/Lasso_(statistics))
