@@ -150,7 +150,7 @@ $ python3 linreg.py
 $ python3 interpolation.py
 ```
 
-### Classification, cross-validation (CV) and support-vector machine (SVM)
+### Classification, cross-validation (CV), and support-vector machine (SVM)
 ```sh
 $ python3 plot_lda.py
 $ python3 plot_lda_qda.py
