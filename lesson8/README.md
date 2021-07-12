@@ -139,7 +139,7 @@ $ python3 major_minor_demo1.py
 $ python3 legend_demo.py
 ```
 
-### Histograms, box plots, regression, and classification
+### Histograms, box plots, regression, and interpolation
 ```sh
 $ python3 scatter_demo.py
 $ python3 histogram_demo_features.py
@@ -148,12 +148,12 @@ $ python3 histogram_demo_extended.py
 $ python3 boxplot_demo.py
 $ python3 linreg.py
 $ python3 interpolation.py
-$ python3 plot_lda.py
-$ python3 plot_lda_qda.py
 ```
 
-### Cross-validation (CV) and Support-vector machine (SVM)
+### Classification, cross-validation (CV) and support-vector machine (SVM)
 ```sh
+$ python3 plot_lda.py
+$ python3 plot_lda_qda.py
 $ python3 plot_cv_predict.py
 $ python3 plot_cv_diabetes.py
 $ python3 traffic.py
