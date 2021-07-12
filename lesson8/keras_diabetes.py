@@ -1,7 +1,7 @@
 # https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 # Create your first MLP in Keras
-from keras.models import Sequential
-from keras.layers import Dense
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
 import numpy
 # fix random seed for reproducibility
 numpy.random.seed(7)
