@@ -12,13 +12,14 @@
 * [Advanced Encryption Standard](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) (AES)
 * [KASUMI](https://en.wikipedia.org/wiki/KASUMI) block cipher
 * [Zuc stream cipher](https://en.wikipedia.org/wiki/Zuc_stream_cipher)
+* [HarmonyOS](https://en.wikipedia.org/wiki/HarmonyOS)
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
   * [npm](https://en.wikipedia.org/wiki/Npm_(software)) (Node Package Manager)
   * [nvm](https://github.com/nvm-sh/nvm) (Node Version Manager)
 * [Node-RED](https://en.wikipedia.org/wiki/Node-RED)
   * [Low-code development platofrm](https://en.wikipedia.org/wiki/Low-code_development_platform) (LCDP)
 * [OpenJS Foundation](https://en.wikipedia.org/wiki/OpenJS_Foundation#JS_Foundation)
-* [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack))
+* [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)): MongoDB, Express.js, AngularJS, and Node.js
 * [Mustache](https://en.wikipedia.org/wiki/Mustache_(template_system))
 * [Handlebars.js](https://handlebarsjs.com/)
 * [Pystache](https://github.com/defunkt/pystache)
