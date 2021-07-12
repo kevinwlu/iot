@@ -1,8 +1,8 @@
 # https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 # first neural network with keras tutorial
 from numpy import loadtxt
-from keras.models import Sequential
-from keras.layers import Dense
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
 # load the dataset
 dataset = loadtxt('pima-indians-diabetes.csv', delimiter=',')
 # split into input (X) and output (y) variables
