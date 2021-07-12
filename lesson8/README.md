@@ -152,10 +152,11 @@ $ python3 plot_lda.py
 $ python3 plot_lda_qda.py
 ```
 
-### Cross-validation
+### Cross-validation (CV) and Support-vector machine (SVM)
 ```sh
 $ python3 plot_cv_predict.py
 $ python3 plot_cv_diabetes.py
+$ python3 traffic.py
 ```
 
 ### Keras and TensorFlow
