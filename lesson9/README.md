@@ -12,17 +12,18 @@
   * [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics) (Portable Network Graphics)
   * [GIMP](https://en.wikipedia.org/wiki/GIMP) (GNU Image Manipulation Program)
   * [Pinta](https://en.wikipedia.org/wiki/Pinta_(software))
-* [NQI](https://en.wikipedia.org/wiki/National_Quantum_Initiative_Act) (The National Quantum Initiative Act)
-  * [QED-C](https://quantumconsortium.org/) (The Quantum Economic Development Consortium)
-* [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
+* [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
   * [Qubit](https://en.wikipedia.org/wiki/Qubit)
+  * [NQI](https://en.wikipedia.org/wiki/National_Quantum_Initiative_Act) (The National Quantum Initiative Act)
+  * [QED-C](https://quantumconsortium.org/) (The Quantum Economic Development Consortium)
+  * IEEE [P7130](https://standards.ieee.org/project/7130.html) Standard for Quantum Technologies Definitions
+  * IEEE [P7131](https://standards.ieee.org/project/7131.html) Standard for Quantum Computing Performance Metrics and Performance Benchmarking
+* [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
   * [Qiskit repo](https://github.com/Qiskit)
   * [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133)
-* [PennyLane](https://github.com/PennyLaneAI/pennylane)
-* [Microsoft Quantum Development Kit Samples](https://github.com/microsoft/Quantum)
-* [Xanadu Strawberry Fields](https://github.com/XanaduAI/strawberryfields)
-* IEEE [P7130](https://standards.ieee.org/project/7130.html) Standard for Quantum Technologies Definitions
-* IEEE [P7131](https://standards.ieee.org/project/7131.html) Standard for Quantum Computing Performance Metrics and Performance Benchmarking
+  * [PennyLane](https://github.com/PennyLaneAI/pennylane)
+  * [Microsoft Quantum Development Kit Samples](https://github.com/microsoft/Quantum)
+  * [Xanadu Strawberry Fields](https://github.com/XanaduAI/strawberryfields)
 * [Cloud Native Computing Foundation](https://en.wikipedia.org/wiki/Cloud_Native_Computing_Foundation) (CNCF)
 * [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) (K8s)
   * [Numeronym](https://en.wikipedia.org/wiki/Numeronym)
