@@ -87,7 +87,7 @@ $ gimp -a intrusiondetection.png
 * Previously known collectively as the [IBM Quantum Experience](https://en.wikipedia.org/wiki/IBM_Quantum_Experience)
 * [User Guides](https://quantum-computing.ibm.com/docs/)
 * [Access systems with your account](https://quantum-computing.ibm.com/docs/manage/account/ibmq)
-* [Qiskit installation](https://qiskit.org/documentation/getting_started.html)
+* [Qiskit installation](https://qiskit.org/documentation/getting_started.html): Windows, macOS, and Ubuntu
 * [Qiskit tutorials](https://qiskit.org/documentation/tutorials.html)
 * IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
 * Learn quantum computation using Qiskit: [textbook](https://qiskit.org/textbook/preface.html)
