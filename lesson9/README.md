@@ -1,5 +1,6 @@
 # Lesson 9: NETCONF and YANG
 * [NETCONF](https://en.wikipedia.org/wiki/NETCONF)
+  * [IETF RFC 6241](https://datatracker.ietf.org/doc/html/rfc6241)
 * [YANG](https://en.wikipedia.org/wiki/YANG) ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
   * [IETF RFC 7950](https://datatracker.ietf.org/doc/html/rfc7950)
   * [Namespace](https://en.wikipedia.org/wiki/Namespace)
