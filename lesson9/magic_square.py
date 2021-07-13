@@ -1,5 +1,6 @@
 #https://medium.com/qiskit/this-proof-demonstrates-a-quantum-advantage-even-for-noisy-quantum-computers-b44a738801ad
 #https://gist.github.com/ryanfmandelbaum/a174f044dddec988baea90222c1b0457#file-magic_square-py
+#https://hub-binder.mybinder.ovh/user/janlahmann-fun-with-quantum-a00jsj40/notebooks/Mermin%E2%80%93Peres-Game.ipynb
 from qiskit import *
 #The following function sets up the initial entanglement between Alice and Bob
 def share_bell_state(qc,a,b,c,d): 
