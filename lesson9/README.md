@@ -28,6 +28,9 @@
   * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
 
 ## Lab 9A: YANG
+* [IETF RFC 7950](https://datatracker.ietf.org/doc/html/rfc7950)
+* A YANG module can be translated into an alternative XML-based syntax called YIN
+* The translated module is called a YIN module
 ### On Windows with [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install-win10), run PowerShell as Adminstrator and install [pyang](https://github.com/mbj4668/pyang) and PlantUML
 ```sh
 $ pip install pyang plantuml
