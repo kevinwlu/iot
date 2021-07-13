@@ -83,7 +83,8 @@ $ gimp -a intrusiondetection.png
 
 ### [IBM Quantum Computing](https://www.ibm.com/quantum-computing/)
 
-### Create an [account](https://quantum-computing.ibm.com/) for the IBM Quantum Composer and the IBM Quantum Lab previously known collectively as the [IBM Quantum Experience](https://en.wikipedia.org/wiki/IBM_Quantum_Experience)
+### Create an [account](https://quantum-computing.ibm.com/) for the IBM Quantum Composer and the IBM Quantum Lab
+$ Previously known collectively as the [IBM Quantum Experience](https://en.wikipedia.org/wiki/IBM_Quantum_Experience)
 * [User Guides](https://quantum-computing.ibm.com/docs/)
 * [Access systems with your account](https://quantum-computing.ibm.com/docs/manage/account/ibmq)
 * [Qiskit installation](https://qiskit.org/documentation/getting_started.html)
