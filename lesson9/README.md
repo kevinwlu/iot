@@ -1,6 +1,6 @@
 # Lesson 9: NETCONF and YANG
 * [NETCONF](https://en.wikipedia.org/wiki/NETCONF)
-* [YANG](https://en.wikipedia.org/wiki/YANG)
+* [YANG](https://en.wikipedia.org/wiki/YANG) ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
 * [Namespace](https://en.wikipedia.org/wiki/Namespace)
 * [Remote procedure call](https://en.wikipedia.org/wiki/Remote_procedure_call) (RPC)
 * [Extensible Markup Language](https://en.wikipedia.org/wiki/XML) (XML)
@@ -27,7 +27,7 @@
 * [Microservices](https://en.wikipedia.org/wiki/Microservices)
   * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
 
-## Lab 9A: YANG ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
+## Lab 9A: YANG
 ### On Windows, run PowerShell as Adminstrator and install [pyang](https://github.com/mbj4668/pyang) and PlantUML
 ```sh
 pip install pyang plantuml
