@@ -28,8 +28,11 @@
   * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
 
 ## Lab 9A: YANG ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
-
-### Install and run [pyang](https://github.com/mbj4668/pyang) on a Raspberry Pi
+### On Windows, run PowerShell as Adminstrator and install Pyang and PlantUML
+```sh
+pip install pyang plantuml
+```
+### On Raspbery Pi, install and run [pyang](https://github.com/mbj4668/pyang)
 ```sh
 $ sudo apt install libxml2-dev libxslt1-dev
 $ sudo pip3 install -U lxml pyang
@@ -41,7 +44,7 @@ $ cat intrusiondetection.yin
 $ pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereotypes,annotation,typedef
 $ cat intrusiondetection.uml
 ```
-### Install PlantUML on a laptop or Raspberry Pi
+### Install PlantUML
 ```sh
 $ sudo pip3 install -U plantuml
 ```
