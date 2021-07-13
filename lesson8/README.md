@@ -26,9 +26,9 @@
 
 ## Lab 8A: Examples
 
-### On Windows, open Git Bash and install Python packages as follows
+### On Windows, open Administrator Windows PowerShell and install Python packages as follows
 ```sh
-$ python -m pip install -U numpy scipy scikit-learn matplotlib pandas tensorflow keras
+$ pip install -U numpy scipy scikit-learn matplotlib pandas tensorflow keras
 ```
 * If could not find a version that satisfies the requirement tensorflow (from versons: none) or no matching distribution found for tensorflow, turn on Developer Mode, join Windows Insider Program, upgrade Windows, install [Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/), download a [TensorFlow Docker image](https://www.tensorflow.org/install/docker), open Windows PowerShell, and run the following commands
 ```sh
