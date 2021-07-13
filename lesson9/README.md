@@ -12,6 +12,7 @@
   * [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics) (Portable Network Graphics)
   * [GIMP](https://en.wikipedia.org/wiki/GIMP) (GNU Image Manipulation Program)
   * [Pinta](https://en.wikipedia.org/wiki/Pinta_(software))
+* [Quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)
 * [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
   * [Qubit](https://en.wikipedia.org/wiki/Qubit)
   * [NQI](https://en.wikipedia.org/wiki/National_Quantum_Initiative_Act) (The National Quantum Initiative Act)
