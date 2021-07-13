@@ -26,7 +26,7 @@
 
 ## Lab 8A: Examples
 
-### On Windows, open Administrator Windows PowerShell and install Python packages as follows
+### On Windows with [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install-win10), run PowerShell as Administrator Windows and install Python packages as follows
 ```sh
 $ pip install -U numpy scipy scikit-learn matplotlib pandas tensorflow keras
 ```
