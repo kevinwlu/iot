@@ -40,7 +40,7 @@ $ pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereo
 $ cat intrusiondetection.uml
 $ python -m plantuml intrusiondetection.uml
 ```
-### On Raspbery Pi, 
+### On Raspbery Pi
 * Install and run pyang
 ```sh
 $ sudo apt install libxml2-dev libxslt1-dev
