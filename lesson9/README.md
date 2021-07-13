@@ -1,12 +1,13 @@
 # Lesson 9: NETCONF and YANG
 * [NETCONF](https://en.wikipedia.org/wiki/NETCONF)
 * [YANG](https://en.wikipedia.org/wiki/YANG) ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
-* [Namespace](https://en.wikipedia.org/wiki/Namespace)
-* [Remote procedure call](https://en.wikipedia.org/wiki/Remote_procedure_call) (RPC)
-* [Extensible Markup Language](https://en.wikipedia.org/wiki/XML) (XML)
-* [Extensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT) (XSLT)
-* [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language) (UML)
+  * [IETF RFC 7950](https://datatracker.ietf.org/doc/html/rfc7950)
+  * [Namespace](https://en.wikipedia.org/wiki/Namespace)
+  * [Remote procedure call](https://en.wikipedia.org/wiki/Remote_procedure_call) (RPC)
+  * [Extensible Markup Language](https://en.wikipedia.org/wiki/XML) (XML)
+  * [Extensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT) (XSLT)
 * [PlantUML](https://en.wikipedia.org/wiki/PlantUML)
+  * [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language) (UML)
   * [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics) (Portable Network Graphics)
   * [GIMP](https://en.wikipedia.org/wiki/GIMP) (GNU Image Manipulation Program)
   * [Pinta](https://en.wikipedia.org/wiki/Pinta_(software))
@@ -28,7 +29,6 @@
   * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
 
 ## Lab 9A: YANG
-* [IETF RFC 7950](https://datatracker.ietf.org/doc/html/rfc7950)
 * A YANG module can be translated into an alternative XML-based syntax called YIN
 * The translated module is called a YIN module
 ### On Windows with [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install-win10), run PowerShell as Adminstrator and install [pyang](https://github.com/mbj4668/pyang) and PlantUML
