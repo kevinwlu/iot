@@ -71,7 +71,6 @@ $ cd ~/demo
 $ pinta intrusiondetection.png
 $ gimp -h
 $ gimp -a intrusiondetection.png
-$
 ```
 
 ## Lab 9B: Qiskit
