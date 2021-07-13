@@ -30,9 +30,18 @@
 ## Lab 9A: YANG
 ### On Windows, run PowerShell as Adminstrator and install [pyang](https://github.com/mbj4668/pyang) and PlantUML
 ```sh
-pip install pyang plantuml
+$ pip install pyang plantuml
+$ cp ~/iot/lesson9/intrusiondetection.yang ~/demo
+$ cd ~/demo
+$ cat intrusiondetection.yang
+$ pyang -f yin -o intrusiondetection.yin intrusiondetection.yang
+$ cat intrusiondetection.yin
+$ pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereotypes,annotation,typedef
+$ cat intrusiondetection.uml
+$ python -m plantuml intrusiondetection.uml
 ```
-### On Raspbery Pi, install and run pyang
+### On Raspbery Pi, 
+* Install and run pyang
 ```sh
 $ sudo apt install libxml2-dev libxslt1-dev
 $ sudo pip3 install -U lxml pyang
@@ -44,15 +53,15 @@ $ cat intrusiondetection.yin
 $ pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereotypes,annotation,typedef
 $ cat intrusiondetection.uml
 ```
-### Install PlantUML
+* Install PlantUML
 ```sh
 $ sudo pip3 install -U plantuml
 ```
-### Run PlantUML to create a sequence diagram in PNG
+* Run PlantUML to create a sequence diagram in PNG
 ```sh
 $ python3 -m plantuml intrusiondetection.uml
 ```
-### Install and run GIMP and Pinta to display a PNG file via VNC Viewer
+* Install and run GIMP and Pinta to display a PNG file via VNC Viewer
 * Alternativly, run SSH -Y to enable X11 forwarding on macOS with XQuartz or on Windows with Xming
 ```sh
 $ cd
