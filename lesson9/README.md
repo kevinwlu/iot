@@ -20,6 +20,7 @@
   * IEEE [P7131](https://standards.ieee.org/project/7131.html) Standard for Quantum Computing Performance Metrics and Performance Benchmarking
 * [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
   * [Qiskit repo](https://github.com/Qiskit)
+  * [Fun With Quantum](https://github.com/JanLahmann/Fun-with-Quantum)
   * [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133)
   * [PennyLane](https://github.com/PennyLaneAI/pennylane)
   * [Microsoft Quantum Development Kit Samples](https://github.com/microsoft/Quantum)
