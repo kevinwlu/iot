@@ -7,9 +7,9 @@
 * [Extensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT) (XSLT)
 * [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language) (UML)
 * [PlantUML](https://en.wikipedia.org/wiki/PlantUML)
-* [Portable Network Graphics](https://en.wikipedia.org/wiki/Portable_Network_Graphics) (PNG)
-* [GNU Image Manipulation Program](https://en.wikipedia.org/wiki/GIMP) (GIMP)
-* [Pinta](https://en.wikipedia.org/wiki/Pinta_(software))
+  * [Portable Network Graphics](https://en.wikipedia.org/wiki/Portable_Network_Graphics) (PNG)
+  * [GNU Image Manipulation Program](https://en.wikipedia.org/wiki/GIMP) (GIMP)
+  * [Pinta](https://en.wikipedia.org/wiki/Pinta_(software))
 * [The National Quantum Initiative (NQI) Act](https://en.wikipedia.org/wiki/National_Quantum_Initiative_Act)
   * [The Quantum Economic Development Consortium (QED-C)](https://quantumconsortium.org/)
 * [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
@@ -28,11 +28,11 @@
   * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
 
 ## Lab 9A: YANG ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
-### On Windows, run PowerShell as Adminstrator and install Pyang and PlantUML
+### On Windows, run PowerShell as Adminstrator and install [pyang](https://github.com/mbj4668/pyang) and PlantUML
 ```sh
 pip install pyang plantuml
 ```
-### On Raspbery Pi, install and run [pyang](https://github.com/mbj4668/pyang)
+### On Raspbery Pi, install and run pyang
 ```sh
 $ sudo apt install libxml2-dev libxslt1-dev
 $ sudo pip3 install -U lxml pyang
