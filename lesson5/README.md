@@ -11,6 +11,9 @@
   * [OASIS](https://en.wikipedia.org/wiki/OASIS_(organization)) (Organization for the Advancement of Structured Information Standards)
   * [Eclipse Foundation](https://en.wikipedia.org/wiki/Eclipse_Foundation)
   * [Eclipse Mosquitto](https://mosquitto.org/)
+  * [Eclipse IoT Sandboxes](https://iot.eclipse.org/projects/sandboxes/)
+  * [Sandbox (software development)](https://en.wikipedia.org/wiki/Sandbox_(software_development))
+  * [Sandbox (computer security)](https://en.wikipedia.org/wiki/Sandbox_(computer_security))
   * [Cedalo](https://cedalo.com/) ([AG](https://en.wikipedia.org/wiki/Aktiengesellschaft))
   * [Eclipse Paho](https://en.wikipedia.org/wiki/Eclipse_Paho)
 
