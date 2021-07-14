@@ -42,7 +42,7 @@
 ### On Windows with [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install-win10), run PowerShell as Adminstrator and install [pyang](https://github.com/mbj4668/pyang) and PlantUML
 ```sh
 $ pip install pyang plantuml
-$ mkdir demo
+$ mkdir ~/demo
 $ cp ~/iot/lesson9/intrusiondetection.yang ~/demo
 $ cd ~/demo
 $ cat intrusiondetection.yang
