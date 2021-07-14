@@ -31,7 +31,7 @@
 * [Chaos engineering](https://en.wikipedia.org/wiki/Chaos_engineering)
 * [Cloud Native Computing Foundation](https://en.wikipedia.org/wiki/Cloud_Native_Computing_Foundation) (CNCF)
 * [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) (K8s)
-  * [Numeronym](https://en.wikipedia.org/wiki/Numeronym) such as i18n and l10n ([internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization))
+  * Other [numeronym](https://en.wikipedia.org/wiki/Numeronym) such as i18n and l10n ([internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization))
   * [Raspberry Pi Kubernetes Cluster](https://wiki.learnlinux.tv/index.php/How_to_build_your_own_Raspberry_Pi_Kubernetes_Cluster)
 * [Microservices](https://en.wikipedia.org/wiki/Microservices)
   * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
