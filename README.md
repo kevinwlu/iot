@@ -57,13 +57,18 @@
 
 * [ANSI](https://en.wikipedia.org/wiki/American_National_Standards_Institute) (American National Standards Institute)
 * [ETSI](https://en.wikipedia.org/wiki/ETSI) (European Telecommunications Standards Institute)
+* [IEC](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) (International Electrotechnical Commission)
 * [IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (Institute of Electrical and Electronics Engineers)
   * [IEEE Standards Association IoT initiatives](https://standards.ieee.org/initiatives/iot/index.html)
   * [IEEE IoT Architecture Working Group](https://sagroups.ieee.org/2413/)
   * [IEEE IoT related standards](https://standards.ieee.org/initiatives/iot/stds.html)
   * [IEEE IoT related standards in development](https://standards.ieee.org/initiatives/iot/projects.html)
 * [IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (Internet Engineering Task Force)
+* [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) (International Organization for Standardization)
+* [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
+* [NFPA](https://en.wikipedia.org/wiki/National_Fire_Protection_Association) (National Fire Protection Association)
 * [OASIS](https://en.wikipedia.org/wiki/OASIS_(organization)) (Organization for the Advancement of Structured Information Standards)
+* [oneM2M](https://en.wikipedia.org/wiki/OneM2M)
 * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
 
 ## Courses (Google Sites)
