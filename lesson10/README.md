@@ -3,6 +3,7 @@
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
   * [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
   * [Hash function](https://en.wikipedia.org/wiki/Hash_function)
+  * [Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
   * [SHA-2](https://en.wikipedia.org/wiki/SHA-2) (Secure Hash Algorithm 2)
   * [SHA-3](https://en.wikipedia.org/wiki/SHA-3) (Secure Hash Algorithm 3)
   * [Blockchain repositories](https://github.com/blockchain)
