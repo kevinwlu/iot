@@ -1,6 +1,6 @@
 module intrusiondetection {
 
- namespace "http://netconfcentral.org/ns/intrusiondetection";
+ namespace "http://netconfcentral.org";
 
  prefix "intrusion";
 
