@@ -55,12 +55,16 @@
 
 ## Standards
 
-* [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (IEEE)
+* [ANSI](https://en.wikipedia.org/wiki/American_National_Standards_Institute) (American National Standards Institute)
+* [ETSI](https://en.wikipedia.org/wiki/ETSI) (European Telecommunications Standards Institute)
+* [IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (Institute of Electrical and Electronics Engineers)
   * [IEEE Standards Association IoT initiatives](https://standards.ieee.org/initiatives/iot/index.html)
   * [IEEE IoT Architecture Working Group](https://sagroups.ieee.org/2413/)
   * [IEEE IoT related standards](https://standards.ieee.org/initiatives/iot/stds.html)
   * [IEEE IoT related standards in development](https://standards.ieee.org/initiatives/iot/projects.html)
-* [Internet Engineering Task Force](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (IETF)
+* [IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (Internet Engineering Task Force)
+* [OASIS](https://en.wikipedia.org/wiki/OASIS_(organization)) (Organization for the Advancement of Structured Information Standards)
+* [SAE International](https://en.wikipedia.org/wiki/SAE_International)
 
 ## Courses (Google Sites)
 * [Pre-College Program: Electrical and Computer Engineering](https://sites.google.com/view/ece-ecoes)
