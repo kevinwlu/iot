@@ -13,6 +13,7 @@
   * [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
   * [Zigbee](https://en.wikipedia.org/wiki/Zigbee)
 * [6LoWPAN](https://en.wikipedia.org/wiki/6LoWPAN) (IPv6 over Low-Power Wireless Personal Area Network)
+* [OpenBCI](https://en.wikipedia.org/wiki/OpenBCI)
 * [Software-defined networking](https://en.wikipedia.org/wiki/Software-defined_networking) (SDN)
 * [Network function virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization) (NFV)
 * [Network slicing](https://en.wikipedia.org/wiki/5G_network_slicing)
