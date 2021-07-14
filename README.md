@@ -71,6 +71,7 @@
 * [OMA](https://en.wikipedia.org/wiki/Open_Mobile_Alliance) (Open Mobile Alliance)
 * [oneM2M](https://en.wikipedia.org/wiki/OneM2M)
 * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
+* [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) (World Wide Web Consortium)
 
 ## Courses (Google Sites)
 * [Pre-College Program: Electrical and Computer Engineering](https://sites.google.com/view/ece-ecoes)
