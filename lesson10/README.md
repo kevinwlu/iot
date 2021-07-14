@@ -24,7 +24,7 @@
   * [Proof of stake](https://en.wikipedia.org/wiki/Proof_of_stake)
   * [Byzantine fault](https://en.wikipedia.org/wiki/Byzantine_fault) tolerance (BFT)
 * [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
-* [Non-fingible token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT)
+* [Non-fungible token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT)
 * [IOTA](https://en.wikipedia.org/wiki/IOTA_(technology))
   * [Directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (DAG)
   * [IOTA Tangle Utilities](https://utils.iota.org/)
