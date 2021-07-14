@@ -42,7 +42,7 @@ $ python3 hash_value.py
 $ python3 hash_value.py
 ```
 ### SHA-2 Secure Hash Algorithm
-* SHA-256 hash values or digests are 256 bits or 32 bytes
+* SHA-256 hash values or digests are 256 [bits](https://en.wikipedia.org/wiki/Bit) or 32 [bytes](https://en.wikipedia.org/wiki/Byte)
 * Each [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) digit represents four binary digits, a [nibble](https://en.wikipedia.org/wiki/Nibble), which is half a byte
 ```sh
 $ python3
