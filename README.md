@@ -68,6 +68,7 @@
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
 * [NFPA](https://en.wikipedia.org/wiki/National_Fire_Protection_Association) (National Fire Protection Association)
 * [OASIS](https://en.wikipedia.org/wiki/OASIS_(organization)) (Organization for the Advancement of Structured Information Standards)
+* [OMA](https://en.wikipedia.org/wiki/Open_Mobile_Alliance) (Open Mobile Alliance)
 * [oneM2M](https://en.wikipedia.org/wiki/OneM2M)
 * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
 
