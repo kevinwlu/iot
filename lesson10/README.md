@@ -31,6 +31,10 @@
   * [IOTA Tangle Utilities](https://utils.iota.org/)
   * [IOTA Tangle MainNet](http://tangle.glumb.de/)
   * [IOTA Tangle Explorer](https://thetangle.org/) by [Peter Willemsen](https://github.com/peterwilli) and contributors
+* [Ruuvi](https://ruuvi.com/) Innovations Ltd ([Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)), Finland
+  * [RuuviTag](https://ruuvi.com/ruuvitag/) wireless temperature sensor
+  * Ruuvi GitHub [Repositories](https://github.com/ruuvi)
+  * [RuuviLab](https://lab.ruuvi.com/) community
 
 ## Lab 10A: Blockchain
 
