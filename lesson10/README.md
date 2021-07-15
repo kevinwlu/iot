@@ -48,7 +48,7 @@ $ python3 hash_value.py
 ```sh
 $ python3
 >>> import hashlib
->>> m=hashlib.sha256(b"hello, world")
+>>> m = hashlib.sha256(b"hello, world")
 >>> m.hexdigest()
 >>> m.digest_size
 >>> m.block_size
