@@ -62,12 +62,19 @@ $ cat snakecoin.py
 $ python3 snakecoin.py
 ```
 ### [Let’s Make the Tiniest Blockchain Bigger](https://medium.com/crypto-currently/lets-make-the-tiniest-blockchain-bigger-ac360a328f4d) Part 2: [With More Lines of Python](https://gist.github.com/aunyks/47d157f8bc7d1829a729c2a6a919c173) by Gerald Nash (2017-07-23)
+#### Terminal 1: Run the SnakeCoin server on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```sh
 $ cat snakecoin-server-full-code.py
 $ python3 snakecoin-server-full-code.py
 $ cd
 ```
-* Running on http://127.0.0.1:5000/mine (Reload the page to mine and press Ctrl+C to quit)
+#### Terminal 2: Create a transaction and mine a new block
+```sh
+$ curl "localhost:5000/txion" \
+     -H "Content-Type: application/json" \
+     -d '{"from": "akjflw", "to":"fjlakdj", "amount": 3}'
+$ curl localhost:5000/mine
+```
 
 ### [Python blockchain app](https://github.com/satwikkansal/python_blockchain_app) by [Satwik Kansal](https://github.com/satwikkansal)
 #### Terminal 1: Run node_server.py (Press Ctrl+C to quit)
