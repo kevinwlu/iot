@@ -7,6 +7,8 @@ import json
 import requests
 import hashlib as hasher
 import datetime as date
+from flask import send_from_directory
+import os
 node = Flask(__name__)
 
 # Define what a Snakecoin block is
@@ -173,7 +175,7 @@ def mine():
 
 @node.route('/favicon.ico')
 def favicon():
-    return send_from_directory(os.path.join(app.root_path, 'static'),
+    return send_from_directory(os.path.join(node.root_path, 'static'),
                                'favicon.ico', 
                                mimetype='image/vnd.microsoft.icon')
 
