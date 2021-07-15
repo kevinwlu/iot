@@ -1,7 +1,7 @@
 # Lesson 8: Data Analysis
 * [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
-  * [Data science](https://en.wikipedia.org/wiki/Data_science)
   * [Big data](https://en.wikipedia.org/wiki/Big_data)
+  * [Data science](https://en.wikipedia.org/wiki/Data_science)
   * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
   * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML)
   * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
