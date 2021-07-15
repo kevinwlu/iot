@@ -1,4 +1,8 @@
 # Lesson 8: Data Analysis
+* [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
+  * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML)
+  * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
+  * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
 * [Automatically Tuned Linear Algebra Software](https://en.wikipedia.org/wiki/Automatically_Tuned_Linear_Algebra_Software) (ATLAS)
 * [Basic Linear Algebra Subprograms](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) (BLAS)
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
@@ -9,8 +13,6 @@
   * [Interpolation](https://en.wikipedia.org/wiki/Interpolation)
   * [Overfitting](https://en.wikipedia.org/wiki/Overfitting)
 * [Scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn)
-  * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
-  * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning)
   * [Statistical classification](https://en.wikipedia.org/wiki/Statistical_classification)
   * [Cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
   * [Support-vector machine](https://en.wikipedia.org/wiki/Support-vector_machine) (SVM)
