@@ -51,6 +51,16 @@ peer_nodes = []
 # A variable to deciding if we're mining or not
 mining = True
 
+@node.route("/")
+def hello():
+    return "SnakeCoin Server"
+
+@node.route('/favicon.ico')
+def favicon():
+    return send_from_directory(os.path.join(node.root_path, 'static'),
+                               'favicon.ico', 
+                               mimetype='image/vnd.microsoft.icon')
+
 @node.route('/txion', methods=['POST'])
 def transaction():
   # On each new POST request,
@@ -172,11 +182,5 @@ def mine():
       "data": new_block_data,
       "hash": last_block_hash
   }) + "\n"
-
-@node.route('/favicon.ico')
-def favicon():
-    return send_from_directory(os.path.join(node.root_path, 'static'),
-                               'favicon.ico', 
-                               mimetype='image/vnd.microsoft.icon')
 
 node.run()
