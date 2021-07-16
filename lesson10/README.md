@@ -32,7 +32,7 @@
   * [IOTA Tangle MainNet](http://tangle.glumb.de/)
   * [IOTA Tangle Explorer](https://thetangle.org/) by [Peter Willemsen](https://github.com/peterwilli) and contributors
 * [Ruuvi](https://ruuvi.com/) Innovations Ltd ([Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)), Finland
-  * [Ruuvi](https://fi.wikipedia.org/wiki/Ruuvi) means screw in Finnish
+  * [Ruuvi](https://fi.wikipedia.org/wiki/Ruuvi) in Finnish means screw
   * [RuuviTag](https://ruuvi.com/ruuvitag/) wireless temperature sensor
   * Ruuvi GitHub [Repositories](https://github.com/ruuvi)
   * [RuuviLab](https://lab.ruuvi.com/) community
