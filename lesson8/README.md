@@ -28,7 +28,8 @@
 * [Pandas](https://en.wikipedia.org/wiki/Pandas_(software))
 * [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
 * [Keras](https://en.wikipedia.org/wiki/Keras)
-  * Keras is the Greek work for "horn"
+  * Keras was developed as part of the research effort of project ONEIROS (Open-ended Neuro-Electronic Intelligent Robot Operating System)
+  * Keras is the Greek word for "horn" and Oneiros is "dream"
   * A true dream is spoken of as coming through the gate of horn, a false dream as coming through the gate of ivory
 
 ## Lab 8A: Examples
