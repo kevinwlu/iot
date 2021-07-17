@@ -28,6 +28,8 @@
 * [Pandas](https://en.wikipedia.org/wiki/Pandas_(software))
 * [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
 * [Keras](https://en.wikipedia.org/wiki/Keras)
+  * Keras is the Greek work for "horn"
+  * A true dream is spoken of as coming through the gate of horn, a false dream as coming through the gate of ivory
 
 ## Lab 8A: Examples
 
