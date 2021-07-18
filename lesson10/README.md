@@ -3,6 +3,7 @@
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
   * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
   * [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
+  * [Decentralized finance](https://en.wikipedia.org/wiki/Decentralized_finance) (DeFi)
   * [Hash function](https://en.wikipedia.org/wiki/Hash_function)
   * [Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
   * [SHA-2](https://en.wikipedia.org/wiki/SHA-2) (Secure Hash Algorithm 2)
