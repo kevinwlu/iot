@@ -88,12 +88,12 @@ $ curl localhost:5000/mine
 ```
 
 ### [Python blockchain app](https://github.com/satwikkansal/python_blockchain_app) by [Satwik Kansal](https://github.com/satwikkansal)
-#### Terminal 1: Run node_server.py (Press Ctrl+C to quit)
+#### Terminal 1: Uncomment the last line of node_server.py and run (Press Ctrl+C to quit)
 ```sh
 $ git clone https://github.com/satwikkansal/python_blockchain_app.git
-$ export FLASK_APP=node_server.py
 $ cd ~/python_blockchain_app
-$ flask run --port 8000
+$ nano node_server.py
+$ python3 node_server.py
 ```
 #### Terminal 2: Run run_app.py (Press Ctrl+C to quit)
 ```sh
