@@ -12,7 +12,7 @@
   * [Double-spending problem](https://en.wikipedia.org/wiki/Double-spending)
   * [Proof of work](https://en.wikipedia.org/wiki/Proof_of_work)
   * [Bitcoin network](https://en.wikipedia.org/wiki/Bitcoin_network)
-  * [Block list](https://btc.com/block) since [2009-01-03](https://btc.com/block?date=2009-01-03)
+  * [Block list](https://btc.com/btc/blocks) since [2009-01-03](https://btc.com/btc/block/0)
   * [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/) (CBECI)
   * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
 * [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
