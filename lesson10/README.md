@@ -34,7 +34,6 @@
 * [Non-fungible token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT)
 * [IOTA](https://en.wikipedia.org/wiki/IOTA_(technology))
   * [Directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (DAG)
-  * [IOTA](https://www.iota.org/)
   * [IOTA Tangle MainNet](http://tangle.glumb.de/)
   * [IOTA Tangle Explorer](https://thetangle.org/) by [Peter Willemsen](https://github.com/peterwilli) and contributors
 * [Ruuvi](https://ruuvi.com/) Innovations Ltd ([Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)), Finland
