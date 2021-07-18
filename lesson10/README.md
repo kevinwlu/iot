@@ -16,6 +16,7 @@
   * [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto), "[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)," [Oct. 31, 2008](https://archive.is/20121228025845/http://article.gmane.org/gmane.comp.encryption.general/12588/#selection-179.7-179.30)
   * [Double-spending problem](https://en.wikipedia.org/wiki/Double-spending)
   * [Proof of work](https://en.wikipedia.org/wiki/Proof_of_work)
+  * [Mining](https://en.bitcoin.it/wiki/Mining)
   * [Bitcoin network](https://en.wikipedia.org/wiki/Bitcoin_network)
   * [Block list](https://btc.com/btc/blocks) since [2009-01-03](https://btc.com/btc/block/0)
   * [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/) (CBECI)
