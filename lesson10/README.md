@@ -2,6 +2,7 @@
 
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
   * [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
+  * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
   * [Hash function](https://en.wikipedia.org/wiki/Hash_function)
   * [Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
   * [SHA-2](https://en.wikipedia.org/wiki/SHA-2) (Secure Hash Algorithm 2)
@@ -14,7 +15,6 @@
   * [Bitcoin network](https://en.wikipedia.org/wiki/Bitcoin_network)
   * [Block list](https://btc.com/btc/blocks) since [2009-01-03](https://btc.com/btc/block/0)
   * [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/) (CBECI)
-  * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
 * [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
   * [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
   * [Blockchain oracle](https://en.wikipedia.org/wiki/Blockchain_oracle)
