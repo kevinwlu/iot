@@ -40,6 +40,7 @@
   * [How to Convert Video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
 
 ## Tutorials
+* [AWS IoT Tutorials](https://docs.aws.amazon.com/iot/latest/developerguide/iot-tutorials.html)
 * [IBM Developer IoT Tutorials](https://developer.ibm.com/technologies/iot/tutorials/)
 
 ## Repositories
