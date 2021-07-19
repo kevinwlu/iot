@@ -2,6 +2,7 @@
 
 * [Publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) (Pub/Sub)
 * [Web application messaging protocol](https://en.wikipedia.org/wiki/Web_Application_Messaging_Protocol) (WAMP)
+  * [WAMP specification](https://wamp-proto.org/spec.html)
   * [cURL](https://en.wikipedia.org/wiki/CURL) (Client URL)
   * [Docker](https://en.wikipedia.org/wiki/Docker_(software))
   * [ARM architecture](https://en.wikipedia.org/wiki/ARM_architecture)
@@ -9,7 +10,7 @@
   * [Crossbar.io](https://crossbar.io/docs/Getting-Started/) ([GmbH](https://en.wikipedia.org/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung))
 * [Message queuing telemetry transport](https://en.wikipedia.org/wiki/MQTT) (MQTT)
   * [OASIS](https://en.wikipedia.org/wiki/OASIS_(organization)) (Organization for the Advancement of Structured Information Standards)
-  * [MQTT specifications](https://mqtt.org/mqtt-specification/)
+  * [MQTT specification](https://mqtt.org/mqtt-specification/)
   * [Eclipse Foundation](https://en.wikipedia.org/wiki/Eclipse_Foundation)
   * [Eclipse Mosquitto](https://mosquitto.org/)
   * [Eclipse IoT Sandboxes](https://iot.eclipse.org/projects/sandboxes/)
