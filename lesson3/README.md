@@ -24,6 +24,10 @@
 
 ## Lab 3A: Python
 
+* [APT](https://en.wikipedia.org/wiki/APT_(software)) is used to install software on GNU/Linux such as Raspberry Pi OS
+  * [Chocolatey](https://chocolatey.org/) may be used to install software on Windows
+  * [Homebrew](https://brew.sh/) may be used to install software on macOS
+* [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) is used to install Python packages on GNU/Linux, macOS , or Windows
 * If Python has not been installed on Windows, [download](https://www.python.org/downloads/windows/) and install the latest version of Python 3
 * On Windows, edit path in "System Properties > Advanced > Environment Variables" and add 
 ```sh  
