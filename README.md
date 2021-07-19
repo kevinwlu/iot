@@ -41,7 +41,9 @@
 
 ## Tutorials
 * [AWS IoT Tutorials](https://docs.aws.amazon.com/iot/latest/developerguide/iot-tutorials.html)
+* [Eclipse IoT](https://iot.eclipse.org/projects/getting-started/)
 * [IBM Developer IoT Tutorials](https://developer.ibm.com/technologies/iot/tutorials/)
+* [Ubuntu IoT](https://ubuntu.com/internet-of-things)
 
 ## Repositories
 * [Awesome IoT](https://github.com/phodal/awesome-iot)
