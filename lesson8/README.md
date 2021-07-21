@@ -28,6 +28,7 @@
 * [Pandas](https://en.wikipedia.org/wiki/Pandas_(software))
 * [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
 * [Keras](https://en.wikipedia.org/wiki/Keras)
+* [Movidius Neural Compute Stick](https://github.com/movidius/ncsdk.git) (NCS)
 
 ## Lab 8A: Examples
 
