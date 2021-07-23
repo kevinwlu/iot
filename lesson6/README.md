@@ -14,6 +14,7 @@
 * [Pine64](https://en.wikipedia.org/wiki/Pine64)
   * [Armbian](https://en.wikipedia.org/wiki/Armbian)
 * [ESP8266](https://en.wikipedia.org/wiki/ESP8266)
+  * [ESP-01](https://www.instructables.com/Getting-Started-With-the-ESP8266-ESP-01/)
 * [Hayes command set](https://en.wikipedia.org/wiki/Hayes_command_set) or AT command set
 * [Narrowband IoT](https://en.wikipedia.org/wiki/Narrowband_IoT) (NB-IoT)
 * [LTE-M](https://en.wikipedia.org/wiki/LTE-M) Machine Type Communication
