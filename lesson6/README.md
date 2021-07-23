@@ -26,6 +26,8 @@
   * [txThings](https://github.com/mwasilak/txThings)
   * [aiocoap](https://github.com/chrysn/aiocoap)
   * [CoAPthon3](https://github.com/Tanganelli/CoAPthon3)
+* [u-blox EVK-R410M-02B](https://www.u-blox.com/en/product/evk-r4)
+  * [m-center](https://www.u-blox.com/en/product/m-center)
 * [Narrowband IoT](https://en.wikipedia.org/wiki/Narrowband_IoT) (NB-IoT)
 * [LTE-M](https://en.wikipedia.org/wiki/LTE-M) Machine Type Communication
 * [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System) (GPS)
