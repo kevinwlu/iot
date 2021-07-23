@@ -33,7 +33,6 @@
 * [Mustache](https://en.wikipedia.org/wiki/Mustache_(template_system))
 * [Handlebars.js](https://handlebarsjs.com/)
 * [Pystache](https://github.com/defunkt/pystache)
-* [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
 * [MATLAB Mobile](https://www.mathworks.com/products/matlab-mobile.html)
 
 ## Lab 6A: Node.js
