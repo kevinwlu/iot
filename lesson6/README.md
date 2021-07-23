@@ -22,6 +22,10 @@
   * [M18Qx IoT Monitor](https://github.com/Avnet/M18QxIotMonitor)
   * [Anjay](https://github.com/AVSystem/Anjay)
   * [Eclipse Leshan](https://github.com/eclipse/leshan)
+* [CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol) (Constrained Application Protocol)
+  * [txThings](https://github.com/mwasilak/txThings)
+  * [aiocoap](https://github.com/chrysn/aiocoap)
+  * [CoAPthon3](https://github.com/Tanganelli/CoAPthon3)
 * [Narrowband IoT](https://en.wikipedia.org/wiki/Narrowband_IoT) (NB-IoT)
 * [LTE-M](https://en.wikipedia.org/wiki/LTE-M) Machine Type Communication
 * [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System) (GPS)
