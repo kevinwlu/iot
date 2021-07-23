@@ -7,6 +7,7 @@
   * [Mbed](https://en.wikipedia.org/wiki/Mbed)
   * [ARMmbed/mbed-os-example-blinky](https://github.com/ARMmbed/mbed-os-example-blinky)
 * [Particle](https://www.particle.io/)
+* [Redbear Duo](https://github.com/redbear/Duo)
 * [Tessel](https://tessel.github.io/t2-start/)
 * [BeagleBoard](https://en.wikipedia.org/wiki/BeagleBoard)
 * [DragonBoard 410c](https://developer.qualcomm.com/hardware/dragonboard-410c)
