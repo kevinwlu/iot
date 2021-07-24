@@ -50,6 +50,7 @@
 * [Pystache](https://github.com/defunkt/pystache)
 * [MATLAB](https://en.wikipedia.org/wiki/MATLAB) (Matrix Laboratory)
 * [MATLAB Mobile](https://www.mathworks.com/products/matlab-mobile.html)
+* [Vysor](https://github.com/koush/vysor.io)
 
 ## Lab 6A: Node.js
 
