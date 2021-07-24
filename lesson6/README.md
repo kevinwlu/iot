@@ -14,7 +14,7 @@
 * [Pine64](https://en.wikipedia.org/wiki/Pine64)
   * [Armbian](https://en.wikipedia.org/wiki/Armbian)
 * [ESP8266](https://en.wikipedia.org/wiki/ESP8266)
-  * [ESP-01](https://www.instructables.com/Getting-Started-With-the-ESP8266-ESP-01/)
+  * [ESP-01](https://jayconsystems.com/blog/getting-started-with-the-esp8266-esp-01)
   * [Hayes command set](https://en.wikipedia.org/wiki/Hayes_command_set) or AT command set
 * [AT&T IoT Starter Kit](https://github.com/att-iotstarterkits/sk2-Users-Guide)
   * [OpenEmbedded](https://en.wikipedia.org/wiki/OpenEmbedded)
