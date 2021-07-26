@@ -9,7 +9,7 @@
 * [Lesson 6](https://github.com/kevinwlu/iot/tree/master/lesson6): Alternative Devices
 * [Lesson 7](https://github.com/kevinwlu/iot/tree/master/lesson7): Cloud Platforms
 * [Lesson 8](https://github.com/kevinwlu/iot/tree/master/lesson8): Data Analysis
-* [Lesson 9](https://github.com/kevinwlu/iot/tree/master/lesson9): NETCONF and YANG
+* [Lesson 9](https://github.com/kevinwlu/iot/tree/master/lesson9): YANG and Qiskit
 * [Lesson 10](https://github.com/kevinwlu/iot/tree/master/lesson10): Blockchain
 * [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
 * [Special problems](https://github.com/kevinwlu/iot/tree/master/projects)
