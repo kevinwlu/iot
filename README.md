@@ -22,6 +22,8 @@
 * [Fourth Industrial Revolution](https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution) (Industry 4.0)
   * [Automation](https://en.wikipedia.org/wiki/Automation)
 * [Aritificial intelligence of things](https://en.wikipedia.org/wiki/Artificial_intelligence_of_things) (AIoT)
+* [Hackathon](https://en.wikipedia.org/wiki/Hackathon)
+  * [Devpost](https://en.wikipedia.org/wiki/Devpost)
 
 ## GitHub Basics
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
