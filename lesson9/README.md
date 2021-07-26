@@ -1,4 +1,4 @@
-# Lesson 9: NETCONF and YANG
+# Lesson 9: YANG and Qiskit
 * [SNMP](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol) (Simple Network Management Protocol)
 * [NETCONF](https://en.wikipedia.org/wiki/NETCONF)
   * [IETF RFC 6241](https://datatracker.ietf.org/doc/html/rfc6241)
