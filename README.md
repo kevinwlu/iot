@@ -41,6 +41,7 @@
   * [Bitbucket](https://en.wikipedia.org/wiki/Bitbucket)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  * [Mermaid](https://mermaid-js.github.io/)
 * [GIF](https://en.wikipedia.org/wiki/GIF) (Graphics Interchange Format)
   * [Best Tools for Taking and Editing Screenshots in Linux](https://itsfoss.com/take-screenshot-linux/)
   * [How to Convert Video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
