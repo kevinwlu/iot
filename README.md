@@ -70,7 +70,7 @@
 * [IEC](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) (International Electrotechnical Commission)
 * [IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (Institute of Electrical and Electronics Engineers)
   * [IEEE IoT initiative](https://iot.ieee.org/)
-  * [IEEE Standards Association IoT initiatives](https://standards.ieee.org/initiatives/iot/)
+  * [IEEE Standards Association IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
 * [IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (Internet Engineering Task Force)
 * [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) (International Organization for Standardization)
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
