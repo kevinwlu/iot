@@ -70,6 +70,7 @@
 * [ETSI](https://en.wikipedia.org/wiki/ETSI) (European Telecommunications Standards Institute)
 * [IANA](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority) (Internet Assigned Numbers Authority)
 * [IEC](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) (International Electrotechnical Commission)
+  * [Ingress Protection Code](https://en.wikipedia.org/wiki/IP_Code)
 * [IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (Institute of Electrical and Electronics Engineers)
   * [IEEE IoT technical community](https://iot.ieee.org/)
   * [IEEE Standards Association IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
