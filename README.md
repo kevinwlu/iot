@@ -66,7 +66,7 @@
 
 ## Standards
 
-* [3GPP](https://en.wikipedia.org/wiki/3GPP)
+* [3GPP](https://en.wikipedia.org/wiki/3GPP) (3rd Generation Partnership Project)
 * [ANSI](https://en.wikipedia.org/wiki/American_National_Standards_Institute) (American National Standards Institute)
 * [ETSI](https://en.wikipedia.org/wiki/ETSI) (European Telecommunications Standards Institute)
 * [IANA](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority) (Internet Assigned Numbers Authority)
