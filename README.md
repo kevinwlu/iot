@@ -83,6 +83,7 @@
 * [OMA](https://en.wikipedia.org/wiki/Open_Mobile_Alliance) (Open Mobile Alliance)
 * [oneM2M](https://en.wikipedia.org/wiki/OneM2M)
 * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
+  * [J3016](https://www.sae.org/standards/content/j3016_202104) Taxonomy and Definitions for Terms Related to Driving Autonomous Systems for On-Road Motor Vehicles
 * [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) (World Wide Web Consortium)
 
 ## Courses (Google Sites)
