@@ -20,6 +20,8 @@
   * [ETSI](https://en.wikipedia.org/wiki/ETSI) White Paper No. 45: [_ETSI Technology Radar_](https://www.etsi.org/images/files/ETSIWhitePapers/etsi_wp45_ETSI_technology_radar.pdf)
 * [Industrial internent of things](https://en.wikipedia.org/wiki/Industrial_internet_of_things)
 * [Fourth Industrial Revolution](https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution) (Industry 4.0)
+  * [Cyber-physical system](https://en.wikipedia.org/wiki/Cyber-physical_system)
+  * [Digital twin](https://en.wikipedia.org/wiki/Digital_twin)
   * [Automation](https://en.wikipedia.org/wiki/Automation)
 * [Aritificial intelligence of things](https://en.wikipedia.org/wiki/Artificial_intelligence_of_things) (AIoT)
 * [Hackathon](https://en.wikipedia.org/wiki/Hackathon)
