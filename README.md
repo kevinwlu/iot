@@ -69,6 +69,7 @@
 * [ANSI](https://en.wikipedia.org/wiki/American_National_Standards_Institute) (American National Standards Institute)
 * [ETSI](https://en.wikipedia.org/wiki/ETSI) (European Telecommunications Standards Institute)
 * [IANA](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority) (Internet Assigned Numbers Authority)
+  * [Service Name and Transport Protocol Port Number Registry](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
 * [IEC](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) (International Electrotechnical Commission)
   * [Ingress Protection Code](https://en.wikipedia.org/wiki/IP_Code)
 * [IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (Institute of Electrical and Electronics Engineers)
