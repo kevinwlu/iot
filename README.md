@@ -67,9 +67,10 @@
 ## Standards
 
 * [3GPP](https://en.wikipedia.org/wiki/3GPP) (3rd Generation Partnership Project)
+  * [NB-IoT](https://en.wikipedia.org/wiki/Narrowband_IoT)
+  * [LTE-M](https://en.wikipedia.org/wiki/LTE-M)
 * [ANSI](https://en.wikipedia.org/wiki/American_National_Standards_Institute) (American National Standards Institute)
   * [C](https://en.wikipedia.org/wiki/C_(programming_language))
-* [ETSI](https://en.wikipedia.org/wiki/ETSI) (European Telecommunications Standards Institute)
 * [IANA](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority) (Internet Assigned Numbers Authority)
   * [Service Name and Transport Protocol Port Number Registry](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
 * [IEC](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) (International Electrotechnical Commission)
@@ -78,6 +79,7 @@
   * [IEEE IoT technical community](https://iot.ieee.org/)
   * [IEEE Standards Association IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
 * [IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (Internet Engineering Task Force)
+  * [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 * [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) (International Organization for Standardization)
   * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
@@ -94,6 +96,8 @@
 * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
   * [J3016](https://www.sae.org/standards/content/j3016_202104) Taxonomy and Definitions for Terms Related to Driving Autonomous Systems for On-Road Motor Vehicles
 * [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) (World Wide Web Consortium)
+  * [CSS](https://en.wikipedia.org/wiki/CSS)
+  * [HTML](https://en.wikipedia.org/wiki/HTML)
 
 ## Courses (Google Sites)
 * [Pre-College Program: Electrical and Computer Engineering](https://sites.google.com/view/ece-ecoes)
