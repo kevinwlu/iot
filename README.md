@@ -65,13 +65,13 @@
 * [TinyML](https://github.com/mit-han-lab/tinyml)
 
 ## Standards
-* 
+* [List of standards](https://github.com/kevinwlu/iot/blob/master/standards/README.md)
 
 ## Projects
-* 
+* [List of projects](https://github.com/kevinwlu/iot/blob/master/projects/README.md)
 
 ## Special Problems
-* 
+* [List of special problems](https://github.com/kevinwlu/iot/tree/master/special_problems)
 
 ## Courses (Google Sites)
 * [Pre-College Program: Electrical and Computer Engineering](https://sites.google.com/view/ece-ecoes)
