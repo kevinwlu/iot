@@ -16,6 +16,7 @@
   * [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite)
   * [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (Hypertext Transfer Protocol)
   * [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) (Representational state transfer)
+  * XMPP (https://en.wikipedia.org/wiki/XMPP) (Extensible Messaging and Presence Protocol)
   * [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
   * [CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol) (Constrained Application Protocol)
   * [6LoWPAN](https://en.wikipedia.org/wiki/6LoWPAN)
