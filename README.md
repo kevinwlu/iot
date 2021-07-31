@@ -65,45 +65,13 @@
 * [TinyML](https://github.com/mit-han-lab/tinyml)
 
 ## Standards
+* 
 
-* [3GPP](https://en.wikipedia.org/wiki/3GPP) (3rd Generation Partnership Project)
-  * [NB-IoT](https://en.wikipedia.org/wiki/Narrowband_IoT)
-  * [LTE-M](https://en.wikipedia.org/wiki/LTE-M)
-* [ANSI](https://en.wikipedia.org/wiki/American_National_Standards_Institute) (American National Standards Institute)
-  * [C](https://en.wikipedia.org/wiki/C_(programming_language))
-* [IANA](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority) (Internet Assigned Numbers Authority)
-  * [Service Name and Transport Protocol Port Number Registry](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
-* [IEC](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) (International Electrotechnical Commission)
-  * [Ingress Protection Code](https://en.wikipedia.org/wiki/IP_Code)
-* [IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (Institute of Electrical and Electronics Engineers)
-  * [IEEE IoT technical community](https://iot.ieee.org/)
-  * [IEEE Standards Association IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
-* [IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (Internet Engineering Task Force)
-  * [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-  * [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (Hypertext Transfer Protocol)
-  * [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
-  * [CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol) (Constrained Application Protocol)
-  * [6LoWPAN](https://en.wikipedia.org/wiki/6LoWPAN)
-* [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) (International Organization for Standardization)
-  * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-* [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
-* [NFPA](https://en.wikipedia.org/wiki/National_Fire_Protection_Association) (National Fire Protection Association)
-  * [National Electrical Code](https://en.wikipedia.org/wiki/National_Electrical_Code)
-* [OASIS](https://en.wikipedia.org/wiki/OASIS_(organization)) (Organization for the Advancement of Structured Information Standards)
-  * [MQTT](https://en.wikipedia.org/wiki/MQTT) (Message Queuing Telemetry Transport)
-  * [AMQP](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol) (Advanced Message Queuing Protocol)
-  * [STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html) (Structured Threat Information Expression) 
-  * [TAXII](https://oasis-open.github.io/cti-documentation/taxii/intro.html) (Trusted Automated Exchange of Intelligence Information)
-  * [PMRM](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=pmrm) (Privacy Management Reference Model)
-  * [PbD-SE](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=pbd-se) (Privacy by Design Documentation for Software Engineers)
-  * [XSPA](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=xspa) (Cross-Enterprise Security and Privacy Authorization)
-* [OMA](https://en.wikipedia.org/wiki/Open_Mobile_Alliance) (Open Mobile Alliance)
-* [oneM2M](https://en.wikipedia.org/wiki/OneM2M)
-* [SAE International](https://en.wikipedia.org/wiki/SAE_International)
-  * [J3016](https://www.sae.org/standards/content/j3016_202104) Taxonomy and Definitions for Terms Related to Driving Autonomous Systems for On-Road Motor Vehicles
-* [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) (World Wide Web Consortium)
-  * [CSS](https://en.wikipedia.org/wiki/CSS)
-  * [HTML](https://en.wikipedia.org/wiki/HTML)
+## Projects
+* 
+
+## Special Problems
+* 
 
 ## Courses (Google Sites)
 * [Pre-College Program: Electrical and Computer Engineering](https://sites.google.com/view/ece-ecoes)
