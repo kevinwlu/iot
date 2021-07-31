@@ -80,6 +80,7 @@
   * [IEEE Standards Association IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
 * [IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (Internet Engineering Task Force)
   * [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+  * [6LoWPAN](https://en.wikipedia.org/wiki/6LoWPAN)
 * [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) (International Organization for Standardization)
   * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
