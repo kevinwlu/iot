@@ -90,6 +90,8 @@
 * [NFPA](https://en.wikipedia.org/wiki/National_Fire_Protection_Association) (National Fire Protection Association)
   * [National Electrical Code](https://en.wikipedia.org/wiki/National_Electrical_Code)
 * [OASIS](https://en.wikipedia.org/wiki/OASIS_(organization)) (Organization for the Advancement of Structured Information Standards)
+  * [MQTT](https://en.wikipedia.org/wiki/MQTT) (Message Queuing Telemetry Transport)
+  * [AMQP](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol) (Advanced Message Queuing Protocol)
   * [STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html) (Structured Threat Information Expression) 
   * [TAXII](https://oasis-open.github.io/cti-documentation/taxii/intro.html) (Trusted Automated Exchange of Intelligence Information)
   * [PMRM](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=pmrm) (Privacy Management Reference Model)
