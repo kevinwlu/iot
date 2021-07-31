@@ -11,9 +11,9 @@
 * [Lesson 8](https://github.com/kevinwlu/iot/tree/master/lesson8): Data Analysis
 * [Lesson 9](https://github.com/kevinwlu/iot/tree/master/lesson9): YANG and Qiskit
 * [Lesson 10](https://github.com/kevinwlu/iot/tree/master/lesson10): Blockchain
-* [Standards](https://github.com/kevinwlu/iot/tree/master/standards)
 * [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
 * [Special problems](https://github.com/kevinwlu/iot/tree/master/projects)
+* [Standards](https://github.com/kevinwlu/iot/tree/master/standards)
 
 ## References
 * [Hands-on books series](http://www.hands-on-books-series.com)
