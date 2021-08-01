@@ -13,7 +13,7 @@
   * [IEEE SA Open](https://saopen.ieee.org/)
   * [IEEE SA GitLab](https://opensource.ieee.org/)
   * [IEEE IoT technical community](https://iot.ieee.org/)
-  * [IEEE Standards Association IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
+  * [IEEE SA IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
 * [IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (Internet Engineering Task Force)
   * [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite)
   * [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (Hypertext Transfer Protocol)
