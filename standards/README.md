@@ -25,6 +25,7 @@
 * [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) (International Organization for Standardization)
   * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
+  * [IoT Global Standards Initiative](https://www.itu.int/en/ITU-T/gsi/iot/)
 * [NFPA](https://en.wikipedia.org/wiki/National_Fire_Protection_Association) (National Fire Protection Association)
   * [National Electrical Code](https://en.wikipedia.org/wiki/National_Electrical_Code)
 * [OASIS](https://en.wikipedia.org/wiki/OASIS_(organization)) (Organization for the Advancement of Structured Information Standards)
@@ -36,7 +37,9 @@
   * [PbD-SE](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=pbd-se) (Privacy by Design Documentation for Software Engineers)
   * [XSPA](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=xspa) (Cross-Enterprise Security and Privacy Authorization)
 * [OMA](https://en.wikipedia.org/wiki/Open_Mobile_Alliance) (Open Mobile Alliance)
+  * [OMA IoT SpecWorks](https://omaspecworks.org/what-is-oma-specworks/iot/)
 * [oneM2M](https://en.wikipedia.org/wiki/OneM2M)
+  * [Technical specifications](https://www.onem2m.org/technical)
 * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
   * [J3016](https://www.sae.org/standards/content/j3016_202104) Taxonomy and Definitions for Terms Related to Driving Autonomous Systems for On-Road Motor Vehicles
 * [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) (World Wide Web Consortium)
