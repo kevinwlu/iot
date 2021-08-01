@@ -1,5 +1,4 @@
 # Standards
-
 * [3GPP](https://en.wikipedia.org/wiki/3GPP) (3rd Generation Partnership Project)
   * [NB-IoT](https://en.wikipedia.org/wiki/Narrowband_IoT)
   * [LTE-M](https://en.wikipedia.org/wiki/LTE-M)
@@ -10,6 +9,9 @@
 * [IEC](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) (International Electrotechnical Commission)
   * [Ingress Protection Code](https://en.wikipedia.org/wiki/IP_Code)
 * [IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (Institute of Electrical and Electronics Engineers)
+  * [IEEE Standards Association](https://standards.ieee.org/) (SA)
+  * [IEEE SA Open](https://saopen.ieee.org/)
+  * [IEEE SA GitLab](https://opensource.ieee.org/)
   * [IEEE IoT technical community](https://iot.ieee.org/)
   * [IEEE Standards Association IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
 * [IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (Internet Engineering Task Force)
