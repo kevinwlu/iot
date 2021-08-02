@@ -1,12 +1,12 @@
 # Lesson 4: Django and Flask
 
+* [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer) (REST)
 * [Django](https://en.wikipedia.org/wiki/Django_(web_framework))
   * [Django Software Foundation](https://en.wikipedia.org/wiki/Django_Software_Foundation)
-* [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
-* [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer) (REST)
 * [MariaDB](https://en.wikipedia.org/wiki/MariaDB)
   * [MySQL](https://en.wikipedia.org/wiki/MySQL)
   * [SQLite](https://en.wikipedia.org/wiki/SQLite)
+* [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
 * [ngrok](https://ngrok.com/)
   * [Repository](https://github.com/inconshreveable/ngrok)
 * [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySQL, PHP)
