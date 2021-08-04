@@ -15,6 +15,7 @@
   * [IEEE IoT technical community](https://iot.ieee.org/)
   * [IEEE SA IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
 * [IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (Internet Engineering Task Force)
+  * [RFC](https://en.wikipedia.org/wiki/Request_for_Comments) (Request for Comments)
   * [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite)
   * [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (Hypertext Transfer Protocol)
   * [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) (Representational state transfer)
