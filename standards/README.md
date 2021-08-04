@@ -26,6 +26,7 @@
   * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
   * [IoT Global Standards Initiative](https://www.itu.int/en/ITU-T/gsi/iot/)
+[JCP](https://en.wikipedia.org/wiki/Java_Community_Process) (Java Community Process))
 * [NFPA](https://en.wikipedia.org/wiki/National_Fire_Protection_Association) (National Fire Protection Association)
   * [National Electrical Code](https://en.wikipedia.org/wiki/National_Electrical_Code)
 * [OASIS](https://en.wikipedia.org/wiki/OASIS_(organization)) (Organization for the Advancement of Structured Information Standards)
