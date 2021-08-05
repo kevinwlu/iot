@@ -31,6 +31,8 @@
   * [Jakarta Messaging](https://en.wikipedia.org/wiki/Jakarta_Messaging)
 * [NFPA](https://en.wikipedia.org/wiki/National_Fire_Protection_Association) (National Fire Protection Association)
   * [National Electrical Code](https://en.wikipedia.org/wiki/National_Electrical_Code)
+* [NIST](https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology) (National Institute of Standards and Technology)
+  * [NIST Cybersecurity Framework](https://en.wikipedia.org/wiki/NIST_Cybersecurity_Framework)
 * [OASIS](https://en.wikipedia.org/wiki/OASIS_(organization)) (Organization for the Advancement of Structured Information Standards)
   * [MQTT](https://en.wikipedia.org/wiki/MQTT) (Message Queuing Telemetry Transport)
   * [AMQP](https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol) (Advanced Message Queuing Protocol)
