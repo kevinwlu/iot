@@ -71,6 +71,7 @@
 * [MIPI](https://en.wikipedia.org/wiki/MIPI_Alliance) (Mobile Industry Processor Interface)
 * [MulteFire](https://en.wikipedia.org/wiki/MulteFire)
 * [OCF](https://en.wikipedia.org/wiki/Open_Connectivity_Foundation) (Open Connectivity Foundation)
+  * [Fairhair Specification](https://openconnectivity.org/developer/specifications/fairhair/)
 * [Wi-SUN](https://wi-sun.org/)
 
 ## Courses (Google Sites)
