@@ -65,6 +65,14 @@
 * [ThingsBoard](https://github.com/thingsboard)
 * [TinyML](https://github.com/mit-han-lab/tinyml)
 
+## Aliances and Consortia
+* [IIC](https://en.wikipedia.org/wiki/Industrial_Internet_Consortium) (Industrial Internet Consortium)
+* [ioXt](https://www.ioxtalliance.org/) (Internet of Secure Things)
+* [MIPI](https://en.wikipedia.org/wiki/MIPI_Alliance) (Mobile Industry Processor Interface)
+* [MulteFire](https://en.wikipedia.org/wiki/MulteFire)
+* [OCF](https://en.wikipedia.org/wiki/Open_Connectivity_Foundation) (Open Connectivity Foundation)
+* [Wi-SUN](https://wi-sun.org/)
+
 ## Courses (Google Sites)
 * [Pre-College Program: Electrical and Computer Engineering](https://sites.google.com/view/ece-ecoes)
 * [Engineering Design VI](https://sites.google.com/view/ece322)
