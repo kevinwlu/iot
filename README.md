@@ -27,6 +27,8 @@
 * [Aritificial intelligence of things](https://en.wikipedia.org/wiki/Artificial_intelligence_of_things) (AIoT)
 * [Hackathon](https://en.wikipedia.org/wiki/Hackathon)
   * [Devpost](https://en.wikipedia.org/wiki/Devpost)
+* [AngelList](https://en.wikipedia.org/wiki/AngelList)
+  * [IoT startups](https://angel.co/internet-of-things)
 
 ## GitHub Basics
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
