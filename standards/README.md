@@ -1,5 +1,8 @@
 # Standards
 * [3GPP](https://en.wikipedia.org/wiki/3GPP) (3rd Generation Partnership Project)
+  * [5G](https://en.wikipedia.org/wiki/5G)
+  * [5G NR](https://en.wikipedia.org/wiki/5G_NR) (New Radio)
+  * [6G](https://en.wikipedia.org/wiki/6G_(network))
   * [NB-IoT](https://en.wikipedia.org/wiki/Narrowband_IoT)
   * [LTE-M](https://en.wikipedia.org/wiki/LTE-M)
 * [ANSI](https://en.wikipedia.org/wiki/American_National_Standards_Institute) (American National Standards Institute)
