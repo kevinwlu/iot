@@ -51,6 +51,7 @@
 * [GIF](https://en.wikipedia.org/wiki/GIF) (Graphics Interchange Format)
   * [Best Tools for Taking and Editing Screenshots in Linux](https://itsfoss.com/take-screenshot-linux/)
   * [How to Convert Video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
+  * [Making GIFs](https://about.gitlab.com/handbook/product/making-gifs/)
 
 ## Tutorials
 * [AWS IoT Tutorials](https://docs.aws.amazon.com/iot/latest/developerguide/iot-tutorials.html)
