@@ -4,6 +4,7 @@
   * [Data science](https://en.wikipedia.org/wiki/Data_science)
   * [Kaggle](https://www.kaggle.com/)
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
+  * [One Hundread Year Study on Artificial Intelligence](https://ai100.stanford.edu/)
   * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML)
   * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
