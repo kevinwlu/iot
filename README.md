@@ -63,6 +63,7 @@
 * [Awesome IoT](https://github.com/phodal/awesome-iot)
   * [Awesome IoT projects](https://github.com/phodal/awesome-iot-projects)
 * [Microsoft IoT](https://github.com/ms-iot)
+  * [Microsoft Monthly Resources](https://github.com/microsoft/monthlyresources/)
   * [.NET Core IoT libraries](https://github.com/dotnet/iot)
 * [Homebridge](https://github.com/homebridge/homebridge)
 * [IBM Watson IoT](https://github.com/ibm-watson-iot)
