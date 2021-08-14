@@ -25,6 +25,8 @@
   * [Digital twin](https://en.wikipedia.org/wiki/Digital_twin)
   * [Automation](https://en.wikipedia.org/wiki/Automation)
 * [Aritificial intelligence of things](https://en.wikipedia.org/wiki/Artificial_intelligence_of_things) (AIoT)
+* [Informa](https://en.wikipedia.org/wiki/Informa)
+  * [IoT World Today](https://www.iotworldtoday.com/) 
 * [6GWorld](https://www.6gworld.com/)
 * [Hackathon](https://en.wikipedia.org/wiki/Hackathon)
   * [Devpost](https://en.wikipedia.org/wiki/Devpost)
