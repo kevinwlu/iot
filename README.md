@@ -83,6 +83,7 @@
 * [Next G Alliance](https://www.nextgalliance.org/)
 * [OCF](https://en.wikipedia.org/wiki/Open_Connectivity_Foundation) (Open Connectivity Foundation)
   * [Fairhair Specification](https://openconnectivity.org/developer/specifications/fairhair/)
+  * [IoTivity](https://en.wikipedia.org/wiki/IoTivity)
 * [Wi-SUN](https://wi-sun.org/)
 
 ## Courses (Google Sites)
