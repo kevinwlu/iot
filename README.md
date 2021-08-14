@@ -74,6 +74,7 @@
 * [TinyML](https://github.com/mit-han-lab/tinyml)
 
 ## Aliances and Consortia
+* [Digital Twin Consortium](https://www.digitaltwinconsortium.org/)
 * [Hexa-X](https://hexa-x.eu/)
 * [IIC](https://en.wikipedia.org/wiki/Industrial_Internet_Consortium) (Industrial Internet Consortium)
 * [ioXt](https://www.ioxtalliance.org/) (Internet of Secure Things)
