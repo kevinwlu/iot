@@ -14,6 +14,7 @@
 * [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
 * [Special problems](https://github.com/kevinwlu/iot/tree/master/projects)
 * [Standards](https://github.com/kevinwlu/iot/tree/master/standards)
+* [Regulations](https://github.com/kevinwlu/iot/tree/master/regulations)
 
 ## References
 * [Hands-on books series](http://www.hands-on-books-series.com)
