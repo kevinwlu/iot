@@ -79,6 +79,7 @@
 * [HIPAA](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act) (Health Insurance Portability and Accountability Act)
 * [CCPA](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act) (California Consumer Privacy Act)
 * [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (General Data Protection Regulation)
+* [Supply chain security](https://en.wikipedia.org/wiki/Supply_chain_security)
 
 ## Communities
 * [IBM IoT Community](https://community.ibm.com/community/user/iot/home)
