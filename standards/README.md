@@ -53,6 +53,7 @@
   * [Technical specifications](https://www.onem2m.org/technical)
 * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
   * [J2735](https://www.sae.org/standards/content/j2735_202007/) V2X Communications Message Set Dictionary
+  * [J2945](https://www.sae.org/standards/content/j2945_201712/) Dedicated Short Range Communication (DSRC) Systems Engineering Process Guidance for SAE J2945/X Documents and Common Design Concepts
   * [J3016](https://www.sae.org/standards/content/j3016_202104) Taxonomy and Definitions for Terms Related to Driving Autonomous Systems for On-Road Motor Vehicles
 * [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) (World Wide Web Consortium)
   * [CSS](https://en.wikipedia.org/wiki/CSS)
