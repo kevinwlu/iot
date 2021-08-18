@@ -52,6 +52,7 @@
 * [oneM2M](https://en.wikipedia.org/wiki/OneM2M)
   * [Technical specifications](https://www.onem2m.org/technical)
 * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
+  * [J2735](https://www.sae.org/standards/content/j2735_202007/) V2X Communications Message Set Dictionary
   * [J3016](https://www.sae.org/standards/content/j3016_202104) Taxonomy and Definitions for Terms Related to Driving Autonomous Systems for On-Road Motor Vehicles
 * [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) (World Wide Web Consortium)
   * [CSS](https://en.wikipedia.org/wiki/CSS)
