@@ -80,6 +80,8 @@
 * [CCPA](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act) (California Consumer Privacy Act)
 * [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (General Data Protection Regulation)
 * [Supply chain security](https://en.wikipedia.org/wiki/Supply_chain_security)
+* [Web accessibility](https://en.wikipedia.org/wiki/Web_accessibility)
+  * [Section 508 Amendament to the Rehabilitation Act of 1973](https://en.wikipedia.org/wiki/Section_508_Amendment_to_the_Rehabilitation_Act_of_1973)
 
 ## Communities
 * [IBM IoT Community](https://community.ibm.com/community/user/iot/home)
