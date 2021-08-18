@@ -28,6 +28,7 @@
   * [6LoWPAN](https://en.wikipedia.org/wiki/6LoWPAN)
 * [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) (International Organization for Standardization)
   * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+  * [Usability](https://en.wikipedia.org/wiki/Usability)
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
   * [IoT Global Standards Initiative](https://www.itu.int/en/ITU-T/gsi/iot/)
 * [JCP](https://en.wikipedia.org/wiki/Java_Community_Process) (Java Community Process)
@@ -55,3 +56,4 @@
 * [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) (World Wide Web Consortium)
   * [CSS](https://en.wikipedia.org/wiki/CSS)
   * [HTML](https://en.wikipedia.org/wiki/HTML)
+  * [WCAG](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines)
