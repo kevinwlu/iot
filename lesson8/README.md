@@ -8,6 +8,7 @@
   * [Association for the Advancement of Artificial Intelligence](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence) (AAAI)
   * [Partnership on AI](https://en.wikipedia.org/wiki/Partnership_on_AI)
   * [Explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
+  * [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
   * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML)
   * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
   * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
