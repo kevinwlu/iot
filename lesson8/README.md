@@ -3,6 +3,7 @@
   * [Big data](https://en.wikipedia.org/wiki/Big_data)
   * [Data science](https://en.wikipedia.org/wiki/Data_science)
   * [Kaggle](https://www.kaggle.com/)
+  * [IEEE DataPort](https://ieee-dataport.org/)
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
   * [One Hundread Year Study on Artificial Intelligence](https://ai100.stanford.edu/)
   * [Association for the Advancement of Artificial Intelligence](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence) (AAAI)
