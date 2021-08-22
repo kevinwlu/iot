@@ -3,6 +3,7 @@
   * [Big data](https://en.wikipedia.org/wiki/Big_data)
   * [Data science](https://en.wikipedia.org/wiki/Data_science)
   * [Kaggle](https://www.kaggle.com/)
+  * [Google Dataset Search](https://datasetsearch.research.google.com/)
   * [Google Books Ngram Viewer](https://books.google.com/ngrams)
   * [IEEE DataPort](https://ieee-dataport.org/)
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
