@@ -16,6 +16,7 @@
 * [ESP8266](https://en.wikipedia.org/wiki/ESP8266)
   * [ESP-01](https://jayconsystems.com/blog/getting-started-with-the-esp8266-esp-01)
   * [Hayes command set](https://en.wikipedia.org/wiki/Hayes_command_set) or AT command set
+  * [Zerynth](https://en.wikipedia.org/wiki/Zerynth)
 * [AT&T IoT Starter Kit](https://github.com/att-iotstarterkits/sk2-Users-Guide)
   * [OpenEmbedded](https://en.wikipedia.org/wiki/OpenEmbedded)
   * [Yocto](https://en.wikipedia.org/wiki/Yocto_Project)
