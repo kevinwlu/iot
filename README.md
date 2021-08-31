@@ -43,6 +43,7 @@
   * [Snake case](https://en.wikipedia.org/wiki/Snake_case)
   * [Octodex](https://octodex.github.com/)
   * [GitHub Pages](https://pages.github.com/)
+  * [GitHub Copilot](https://copilot.github.com/)
 * [Comparison of source-code-hosting facilities](https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities)
   * [GitLab](https://en.wikipedia.org/wiki/GitLab)
   * [Gitea](https://en.wikipedia.org/wiki/Gitea)
