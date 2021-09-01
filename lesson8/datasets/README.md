@@ -8,3 +8,4 @@
 * [Google Public Data](https://www.google.com/publicdata/directory)
 * [National Centers for Environmental Information](https://www.ncdc.noaa.gov/data-access) (NCEI) of the U.S. National Oceanic and Atmospheric Administration (NOAA)
 * [Open Data Network](https://www.opendatanetwork.com/)
+* [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
