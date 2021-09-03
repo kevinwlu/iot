@@ -6,7 +6,7 @@
 * [Data.gov](https://www.data.gov/) by the U.S. Government
 * [Data.census.gov](https://data.census.gov/cedsci/) by the U.S. Census Bureau
 * [Google Public Data](https://www.google.com/publicdata/directory)
-* [National Centers for Environmental Information](https://www.ncdc.noaa.gov/data-access) (NCEI) of the U.S. National Oceanic and Atmospheric Administration (NOAA)
+* [National Centers for Environmental Information](https://www.ncdc.noaa.gov/data-access) ([NCEI](https://en.wikipedia.org/wiki/National_Centers_for_Environmental_Information)) of the U.S. National Oceanic and Atmospheric Administration ([NOAA](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration))
 * [Organisation for Economic Co-operation and Development](https://data.oecd.org/) ([OECD](https://en.wikipedia.org/wiki/OECD))
 * [Open Data Network](https://www.opendatanetwork.com/)
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
