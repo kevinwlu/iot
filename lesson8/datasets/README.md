@@ -5,6 +5,7 @@
 * [Coronavirus (COVID-19) Data in the United States](https://github.com/nytimes/covid-19-data) by the New York Times
 * [Data.gov](https://www.data.gov/) by the U.S. Government
 * [Data.census.gov](https://data.census.gov/cedsci/) by the U.S. Census Bureau
+* [Data Science Central](https://www.datasciencecentral.com/profiles/blogs/great-sensor-datasets-to-prepare-your-next-career-move-in-iot-int)
 * [Google Public Data](https://www.google.com/publicdata/directory)
 * [National Centers for Environmental Information](https://www.ncdc.noaa.gov/data-access) ([NCEI](https://en.wikipedia.org/wiki/National_Centers_for_Environmental_Information)) of the U.S. National Oceanic and Atmospheric Administration ([NOAA](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration))
 * [Organisation for Economic Co-operation and Development](https://data.oecd.org/) ([OECD](https://en.wikipedia.org/wiki/OECD))
