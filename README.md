@@ -32,6 +32,8 @@
   * [Devpost](https://en.wikipedia.org/wiki/Devpost)
 * [AngelList](https://en.wikipedia.org/wiki/AngelList)
   * [IoT startups](https://angel.co/internet-of-things)
+* [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator)
+  * [List of Y Combinator startups](https://en.wikipedia.org/wiki/List_of_Y_Combinator_startups)
 
 ## GitHub Basics
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
