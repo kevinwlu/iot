@@ -22,6 +22,7 @@
   * [Block list](https://btc.com/btc/blocks)
   * [Genesis block](https://en.bitcoin.it/wiki/Genesis_block) on [2009-01-03](https://btc.com/btc/block/0)
   * [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/) (CBECI)
+  * [Lightening Network](https://en.wikipedia.org/wiki/Lightning_Network)
 * [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
   * [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
   * [Blockchain oracle](https://en.wikipedia.org/wiki/Blockchain_oracle)
