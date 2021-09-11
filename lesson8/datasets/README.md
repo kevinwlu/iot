@@ -7,6 +7,7 @@
 * [Data.census.gov](https://data.census.gov/cedsci/) by the U.S. Census Bureau
 * [Data Science Central](https://www.datasciencecentral.com/profiles/blogs/great-sensor-datasets-to-prepare-your-next-career-move-in-iot-int)
 * [Google Public Data](https://www.google.com/publicdata/directory)
+* [ITU-D ICT Statistics](https://www.itu.int/itu-d/sites/statistics/)
 * [National Centers for Environmental Information](https://www.ncdc.noaa.gov/data-access) ([NCEI](https://en.wikipedia.org/wiki/National_Centers_for_Environmental_Information)) of the U.S. National Oceanic and Atmospheric Administration ([NOAA](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration))
 * [Organisation for Economic Co-operation and Development](https://data.oecd.org/) ([OECD](https://en.wikipedia.org/wiki/OECD))
 * [Open Data Network](https://www.opendatanetwork.com/)
