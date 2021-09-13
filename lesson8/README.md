@@ -19,6 +19,8 @@
   * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
   * [tinyML](https://www.tinyml.org/)
   * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
+  * [OpenAI Codex](https://openai.com/blog/openai-codex/)
+  * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
   * [Automatically Tuned Linear Algebra Software](https://en.wikipedia.org/wiki/Automatically_Tuned_Linear_Algebra_Software) (ATLAS)
   * [Basic Linear Algebra Subprograms](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) (BLAS)
