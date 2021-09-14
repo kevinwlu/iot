@@ -7,10 +7,11 @@
 * [Data.census.gov](https://data.census.gov/cedsci/) by the U.S. Census Bureau
 * [Data Science Central](https://www.datasciencecentral.com/profiles/blogs/great-sensor-datasets-to-prepare-your-next-career-move-in-iot-int)
 * [DBpedia](https://www.dbpedia.org/)
+* [Gapminder](https://www.gapminder.org/data/)
 * [Google Public Data](https://www.google.com/publicdata/directory)
 * [ITU-D ICT Statistics](https://www.itu.int/itu-d/sites/statistics/)
 * [Knoema](https://en.wikipedia.org/wiki/Knoema)
-* [National Centers for Environmental Information](https://www.ncdc.noaa.gov/data-access) ([NCEI](https://en.wikipedia.org/wiki/National_Centers_for_Environmental_Information)) of the U.S. National Oceanic and Atmospheric Administration ([NOAA](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration))
+* [National Centers for Environmental Information](https://www.ncdc.noaa.gov/data-access) ([NCEI](https://en.wikipedia.org/wiki/National_Centers_for_Environmental_Information)) of the U.S. National Oceanic and Atmospheric Administration ([NOAA](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration))inder
 * [Organisation for Economic Co-operation and Development](https://data.oecd.org/) ([OECD](https://en.wikipedia.org/wiki/OECD))
 * [Open Data Network](https://www.opendatanetwork.com/)
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
