@@ -10,6 +10,7 @@
 * [DBpedia](https://www.dbpedia.org/)
 * [Gapminder](https://www.gapminder.org/data/)
 * [Google Public Data](https://www.google.com/publicdata/directory)
+* [IEEE DataPort Datasets](https://ieee-dataport.org/datasets)
 * [ITU-D ICT Statistics](https://www.itu.int/itu-d/sites/statistics/)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [Knoema](https://en.wikipedia.org/wiki/Knoema)
