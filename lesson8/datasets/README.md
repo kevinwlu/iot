@@ -11,6 +11,7 @@
 * [Gapminder](https://www.gapminder.org/data/)
 * [Google Public Data](https://www.google.com/publicdata/directory)
 * [ITU-D ICT Statistics](https://www.itu.int/itu-d/sites/statistics/)
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [Knoema](https://en.wikipedia.org/wiki/Knoema)
 * [National Centers for Environmental Information](https://www.ncdc.noaa.gov/data-access) ([NCEI](https://en.wikipedia.org/wiki/National_Centers_for_Environmental_Information)) of the U.S. National Oceanic and Atmospheric Administration ([NOAA](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration))inder
 * [Organisation for Economic Co-operation and Development](https://data.oecd.org/) ([OECD](https://en.wikipedia.org/wiki/OECD))
