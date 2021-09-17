@@ -99,6 +99,7 @@
 * [IoT Developer Communities](https://www.iotevolutionworld.com/iot/articles/444725-iot-developer-communities-platforms-people-productivity-2020.htm)
 
 ## Aliances and Consortia
+* [5G Automotive Association](https://en.wikipedia.org/wiki/5G_Automotive_Association)
 * [Digital Twin Consortium](https://www.digitaltwinconsortium.org/)
 * [Hexa-X](https://hexa-x.eu/)
 * [IIC](https://en.wikipedia.org/wiki/Industrial_Internet_Consortium) (Industrial Internet Consortium)
