@@ -99,6 +99,7 @@
 * [IoT Developer Communities](https://www.iotevolutionworld.com/iot/articles/444725-iot-developer-communities-platforms-people-productivity-2020.htm)
 
 ## Aliances and Consortia
+* [5G-ACIA](https://5g-acia.org/) (5G Alliance for Connected Industries and Automation)
 * [AII](http://en.aii-alliance.org/) (Alliance of Industrial Internet)
 * [AIOTI](https://aioti.eu/) (Alliance for Internet of Things Innovation)
 * [Digital Twin Consortium](https://www.digitaltwinconsortium.org/)
