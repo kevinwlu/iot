@@ -27,6 +27,7 @@
   * [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
   * [Blockchain oracle](https://en.wikipedia.org/wiki/Blockchain_oracle)
   * [Chainlink](https://en.wikipedia.org/wiki/Chainlink_(cryptocurrency))
+* [Solana](https://en.wikipedia.org/wiki/Solana_(blockchain_platform))
 * [Diem](https://en.wikipedia.org/wiki/Diem_(digital_currency)) (rebraded from Libra in December 2020)
   * [Diem Blockchain](https://developers.diem.com/main)
   * [Proof of stake](https://en.wikipedia.org/wiki/Proof_of_stake)
