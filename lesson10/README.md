@@ -33,6 +33,8 @@
   * [Byzantine fault](https://en.wikipedia.org/wiki/Byzantine_fault) tolerance (BFT)
 * [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
 * [Non-fungible token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT)
+* [Algorand](https://en.wikipedia.org/wiki/Algorand_(cryptocurrency_platform))
+* [Cardano](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
 * [Solana](https://en.wikipedia.org/wiki/Solana_(blockchain_platform))
 * [IOTA](https://en.wikipedia.org/wiki/IOTA_(technology))
   * [Directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (DAG)
