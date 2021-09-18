@@ -14,6 +14,7 @@
   * [Explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
   * [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
   * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML)
+  * [Federated learning](https://en.wikipedia.org/wiki/Federated_learning)
   * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
   * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
