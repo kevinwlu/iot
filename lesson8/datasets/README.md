@@ -16,6 +16,7 @@
 * [ITU-D ICT Statistics](https://www.itu.int/itu-d/sites/statistics/)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [Knoema](https://en.wikipedia.org/wiki/Knoema)
+* [List of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 * [MNIST database](https://en.wikipedia.org/wiki/MNIST_database)
 * [National Centers for Environmental Information](https://www.ncdc.noaa.gov/data-access) ([NCEI](https://en.wikipedia.org/wiki/National_Centers_for_Environmental_Information)) of the U.S. National Oceanic and Atmospheric Administration ([NOAA](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration))inder
 * [Organisation for Economic Co-operation and Development](https://data.oecd.org/) ([OECD](https://en.wikipedia.org/wiki/OECD))
