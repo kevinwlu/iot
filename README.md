@@ -40,6 +40,7 @@
 
 ## GitHub Basics
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
+  * [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
   * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) (GUI)
 * [Git](https://en.wikipedia.org/wiki/Git)
   * [Linux](https://en.wikipedia.org/wiki/Linux)
