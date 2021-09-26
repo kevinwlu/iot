@@ -33,6 +33,8 @@
   * [Byzantine fault](https://en.wikipedia.org/wiki/Byzantine_fault) tolerance (BFT)
 * [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
 * [Non-fungible token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT)
+  * [OpenSea](https://opensea.io/)
+  * [SuperRare](https://superrare.com/)
 * [Algorand](https://en.wikipedia.org/wiki/Algorand_(cryptocurrency_platform))
 * [Cardano](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
 * [Solana](https://en.wikipedia.org/wiki/Solana_(blockchain_platform))
