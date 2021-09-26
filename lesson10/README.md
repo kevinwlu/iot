@@ -34,6 +34,7 @@
 * [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
 * [Non-fungible token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT)
   * [OpenSea](https://opensea.io/)
+  * [Sfermion](https://www.sfermion.io/)
   * [SuperRare](https://superrare.com/)
 * [Algorand](https://en.wikipedia.org/wiki/Algorand_(cryptocurrency_platform))
 * [Cardano](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
