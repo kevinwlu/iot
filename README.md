@@ -55,6 +55,7 @@
   * [Gitea](https://en.wikipedia.org/wiki/Gitea)
   * [Gitee](https://gitee.com/)
   * [GitLab](https://en.wikipedia.org/wiki/GitLab)
+  * [MindSpore](https://www.mindspore.cn/en)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
   * [GitLab Flavored Markdown](https://docs.gitlab.com/ee/user/markdown.html)
