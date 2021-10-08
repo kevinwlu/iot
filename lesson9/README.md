@@ -20,6 +20,7 @@
   * [NQI](https://en.wikipedia.org/wiki/National_Quantum_Initiative_Act) (The National Quantum Initiative Act)
   * [QED-C](https://quantumconsortium.org/) (The Quantum Economic Development Consortium)
   * [Quantum artificial intelligence](https://en.wikipedia.org/wiki/Quantum_artificial_intelligence)
+  * [Quantum optimization algorithms](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
   * IEEE [P7130](https://standards.ieee.org/project/7130.html) Standard for Quantum Technologies Definitions
   * IEEE [P7131](https://standards.ieee.org/project/7131.html) Standard for Quantum Computing Performance Metrics and Performance Benchmarking
 * [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
