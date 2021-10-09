@@ -43,6 +43,7 @@
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
   * [npm](https://en.wikipedia.org/wiki/Npm_(software)) (Node Package Manager)
   * [nvm](https://github.com/nvm-sh/nvm) (Node Version Manager)
+  * [Firebase Quickstarts for Node.js](https://github.com/firebase/quickstart-nodejs)
 * [Node-RED](https://en.wikipedia.org/wiki/Node-RED)
   * [Low-code development platofrm](https://en.wikipedia.org/wiki/Low-code_development_platform) (LCDP)
 * [OpenJS Foundation](https://en.wikipedia.org/wiki/OpenJS_Foundation#JS_Foundation)
