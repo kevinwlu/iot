@@ -9,6 +9,8 @@
 * [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
 * [ngrok](https://ngrok.com/)
   * [Repository](https://github.com/inconshreveable/ngrok)
+  * [Grok](https://en.wikipedia.org/wiki/Grok)
+  * [Jargon File](https://en.wikipedia.org/wiki/Jargon_File)
 * [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySQL, PHP)
   * [WordPress](https://en.wikipedia.org/wiki/WordPress)
 * [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) (WWW)
