@@ -44,6 +44,7 @@
   * [npm](https://en.wikipedia.org/wiki/Npm_(software)) (Node Package Manager)
   * [nvm](https://github.com/nvm-sh/nvm) (Node Version Manager)
   * [Firebase Quickstarts for Node.js](https://github.com/firebase/quickstart-nodejs)
+  * [Build a Simple CRUD Node.js App With CockroachDB and the node-postgres Driver](https://www.cockroachlabs.com/docs/stable/build-a-nodejs-app-with-cockroachdb.html)
 * [Node-RED](https://en.wikipedia.org/wiki/Node-RED)
   * [Low-code development platofrm](https://en.wikipedia.org/wiki/Low-code_development_platform) (LCDP)
 * [OpenJS Foundation](https://en.wikipedia.org/wiki/OpenJS_Foundation#JS_Foundation)
