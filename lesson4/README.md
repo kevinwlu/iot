@@ -9,9 +9,9 @@
   * [MySQL](https://en.wikipedia.org/wiki/MySQL)
   * [SQLite](https://en.wikipedia.org/wiki/SQLite)
   * [Firebase](https://en.wikipedia.org/wiki/Firebase)
-  * [How to use Firebase With Django Project](https://medium.com/@canadiyaman/how-to-use-firebase-with-django-project-34578516bafe) by Can Adıyaman
+  * [How to use Firebase with Django project](https://medium.com/@canadiyaman/how-to-use-firebase-with-django-project-34578516bafe) by Can Adıyaman
   * [CockroachDB](https://en.wikipedia.org/wiki/CockroachDB)
-  * [Build a Python App With CockroachDB and Django](https://www.cockroachlabs.com/docs/stable/build-a-python-app-with-cockroachdb-django.html)
+  * [Build a Python app with CockroachDB and Django](https://www.cockroachlabs.com/docs/stable/build-a-python-app-with-cockroachdb-django.html)
 * [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
 * [ngrok](https://ngrok.com/)
   * [Repository](https://github.com/inconshreveable/ngrok)
