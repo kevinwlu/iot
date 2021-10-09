@@ -4,11 +4,12 @@
 * [Django](https://en.wikipedia.org/wiki/Django_(web_framework))
   * [Django Software Foundation](https://en.wikipedia.org/wiki/Django_Software_Foundation)
   * [Django's Structure - A Heretic’s Eye View](https://djangobook.com/mdj2-django-structure/) by [The Django Book](https://djangobook.com/)
-  * [Databases](https://docs.djangoproject.com/en/3.2/ref/databases/)
-  * [How to use Firebase with Django Project](https://medium.com/@canadiyaman/how-to-use-firebase-with-django-project-34578516bafe) by Can Adıyaman
-* [MariaDB](https://en.wikipedia.org/wiki/MariaDB)
+* [Databases](https://docs.djangoproject.com/en/3.2/ref/databases/)
+  * [MariaDB](https://en.wikipedia.org/wiki/MariaDB)
   * [MySQL](https://en.wikipedia.org/wiki/MySQL)
   * [SQLite](https://en.wikipedia.org/wiki/SQLite)
+  * [Firebase](https://en.wikipedia.org/wiki/Firebase)
+  * [How to use Firebase with Django Project](https://medium.com/@canadiyaman/how-to-use-firebase-with-django-project-34578516bafe) by Can Adıyaman
 * [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
 * [ngrok](https://ngrok.com/)
   * [Repository](https://github.com/inconshreveable/ngrok)
