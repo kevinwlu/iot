@@ -48,7 +48,6 @@
   * [Low-code development platofrm](https://en.wikipedia.org/wiki/Low-code_development_platform) (LCDP)
 * [OpenJS Foundation](https://en.wikipedia.org/wiki/OpenJS_Foundation#JS_Foundation)
 * [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)): [MongoDB](https://en.wikipedia.org/wiki/MongoDB), [Express.js](https://en.wikipedia.org/wiki/Express.js), [AngularJS](https://en.wikipedia.org/wiki/AngularJS), and Node.js
-  * [CockroachDB](https://en.wikipedia.org/wiki/CockroachDB)
 * [Mustache](https://en.wikipedia.org/wiki/Mustache_(template_system))
 * [Handlebars.js](https://handlebarsjs.com/)
 * [Pystache](https://github.com/defunkt/pystache)
