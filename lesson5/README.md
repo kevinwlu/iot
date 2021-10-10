@@ -141,6 +141,15 @@ $ python3 sub-multiple.py
 ```sh
 $ python3 pub-multiple.py
 ```
+#### Terminal 1 (press control-c to stop)
+```sh
+$ python3 subcpu.py
+```
+#### Terminal 2
+```sh
+$ python3 pubcpu.py
+```
+### On Raspberry Pi
 * Copy ~/iot/lesson5/system_info.py to ~/demo
 * Copy ~/iot/lesson5/subraspi.py to ~/demo
 * Copy ~/iot/lesson5/pubraspi.py to ~/demo
