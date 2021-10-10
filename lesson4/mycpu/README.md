@@ -16,7 +16,7 @@ manage.py  myapp/  mycpu/
 ## Edit settings.py in ~/mycpu/mycpu
 * Follow ~/iot/lesson4/mycpu/settings.txt
 ```sh
-~/mycpu $ cd myraspi
+~/mycpu $ cd mycpu
 ~/mycpu/mycpu $ nano settings.py
 ```
 ## Copy urls.py to ~/mycpu/mycpu
