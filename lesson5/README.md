@@ -5,6 +5,7 @@
   * [WAMP specification](https://wamp-proto.org/spec.html)
   * [cURL](https://en.wikipedia.org/wiki/CURL) (Client URL)
   * [Docker](https://en.wikipedia.org/wiki/Docker_(software))
+  * [List of Linux containers](https://en.wikipedia.org/wiki/List_of_Linux_containers)
   * [ARM architecture](https://en.wikipedia.org/wiki/ARM_architecture)
   * ARM [hard float](https://www.raspberrypi.org/forums/viewtopic.php?t=11177) (armhf)
   * [Crossbar.io](https://crossbar.io/docs/Getting-Started/) ([GmbH](https://en.wikipedia.org/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung))
