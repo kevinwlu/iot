@@ -56,9 +56,11 @@ manage.py  myapp/  mycpu/
 ~/mycpu/myapp/templates/myapp $ nano index.html
 ```
 ## Copy static files
+* Stevens favicon: ~/iot/lesson4/static/favicon.ico
+* Xidian favicon: ~/iot/lesson4/static/xidian/favicon.ico
 ```sh
 ~/mycpu/myapp/templates/myapp $ cd ~/mycpu/myapp/static
-~/mycpu/myapp/static $ cp ~/iot/lesson4/static/xidian/favicon.ico .
+~/mycpu/myapp/static $ cp ~/iot/lesson4/static/favicon.ico .
 ~/mycpu/myapp/static $ mkdir myapp
 ~/mycpu/myapp/static $ cd myapp
 ~/mycpu/myapp/static/myapp $ cp ~/iot/lesson4/static/*css .
@@ -99,11 +101,13 @@ Superuser created successfully.
 
 ### Login with Django administration username (admin) and password (PASSWORD)
 
-### Click location data to add 
-
+### Click location data to add one of the following
+* Location Stevens
+  * Latitude 40.7451
+  * Longitude -74.0255
 * Location Xidian
-* Latitude 34.12250
-* Longitude 108.84029
+  * Latitude 34.12250
+  * Longitude 108.84029
 
 ### Click SAVE
 
