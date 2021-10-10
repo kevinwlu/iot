@@ -63,8 +63,9 @@ Disallow root login remotely? [Y/n]
 Remove test database and access to it? [Y/n] 
 Reload privilege tables now? [Y/n] 
 ```
-### Start Django project [stevens](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens) 
-### Start Django REST project [myraspi](https://github.com/kevinwlu/iot/tree/master/lesson4/myraspi)
+### Start Django project [stevens](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens)
+### Start Dhango REST project [mycpu](https://github.com/kevinwlu/iot/tree/master/lesson4/mycpu)
+### Start Django REST project [myraspi](https://github.com/kevinwlu/iot/tree/master/lesson4/myraspi) on a Raspberry Pi
 ### Start four Django REST projects that require sensors
 1. [weather](https://github.com/kevinwlu/iot/tree/master/lesson4/weather)
 2. [lighting](https://github.com/kevinwlu/iot/tree/master/lesson4/lighting)
