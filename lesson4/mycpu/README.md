@@ -37,6 +37,7 @@ manage.py  myapp/  mycpu/
 ~/mycpu/myapp $ nano views.py
 ```
 ## Copy index.html
+* Default location: Stevens Institute of Technology
 ```sh
 ~/mycpu/myapp $ mkdir static templates
 ~/mycpu/myapp $ cd templates
