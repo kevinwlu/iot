@@ -66,7 +66,7 @@ Reload privilege tables now? [Y/n]
 ### Start Django project [stevens](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens)
 ### Start Dhango REST project [mycpu](https://github.com/kevinwlu/iot/tree/master/lesson4/mycpu)
 ### Start Django REST project [myraspi](https://github.com/kevinwlu/iot/tree/master/lesson4/myraspi) on Raspberry Pi
-### Start four Django REST projects that require sensors
+### Start four Django REST projects on Raspberry Pi with sensors
 1. [weather](https://github.com/kevinwlu/iot/tree/master/lesson4/weather)
 2. [lighting](https://github.com/kevinwlu/iot/tree/master/lesson4/lighting)
 3. [parking](https://github.com/kevinwlu/iot/tree/master/lesson4/parking)
