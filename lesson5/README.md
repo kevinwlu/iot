@@ -86,9 +86,10 @@ $ python3 client_component_subscribe.py
 
 ### On Windows, [download](https://mosquitto.org/download/) and install Mosquitto
 * Go to System Properties > Environment Variables > Path > New, and enter C:\Program Files\Mosquitto
-### On macOS, install Mosquitto with
+### On macOS, install and start Mosquitto with
 ```sh
 brew install mosquitto
+brew services start mosquitto
 ```
 ### On Raspberry Pi, install and run Mosquitto to subscribe on one terminal and publish on another
 ```sh
