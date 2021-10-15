@@ -1,5 +1,6 @@
 # Lesson 2: Raspberry Pi
-* [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
+* [Microcomputer](https://en.wikipedia.org/wiki/Microcomputer)
+  * [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
   * [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
   * [Raspberry Pi GitHub repository](https://github.com/raspberrypi)
 * [ARM architecture](https://en.wikipedia.org/wiki/ARM_architecture)
