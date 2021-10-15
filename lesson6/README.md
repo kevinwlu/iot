@@ -4,6 +4,7 @@
 * [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller)
 * [Arduino](https://en.wikipedia.org/wiki/Arduino)
   * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
+* [Seeduino XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/)
 * [STM32](https://en.wikipedia.org/wiki/STM32)
   * [Nucleo-64](https://www.st.com/en/evaluation-tools/nucleo-f072rb.html)
   * [Mbed](https://en.wikipedia.org/wiki/Mbed)
