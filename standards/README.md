@@ -30,6 +30,8 @@
   * [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
   * [CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol) (Constrained Application Protocol)
   * [6LoWPAN](https://en.wikipedia.org/wiki/6LoWPAN)
+* [IFIP](https://en.wikipedia.org/wiki/International_Federation_for_Information_Processing) (International Federation for Information Processing)
+  * [IP3](https://www.ipthree.org/) (International Professional Practice Partnership)
 * [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) (International Organization for Standardization)
   * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
   * [Usability](https://en.wikipedia.org/wiki/Usability)
