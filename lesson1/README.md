@@ -28,6 +28,8 @@
 * [Network function virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization) (NFV)
 * [Network slicing](https://en.wikipedia.org/wiki/5G_network_slicing)
 * [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
+  * [DevOps](https://en.wikipedia.org/wiki/DevOps)
+  * Google Cloud [DevOps Research and Assessment](https://cloud.google.com/devops) (DORA)
 * [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
 * [As a service](https://en.wikipedia.org/wiki/As_a_service)
 * [Orchestration](https://en.wikipedia.org/wiki/Orchestration_(computing))
