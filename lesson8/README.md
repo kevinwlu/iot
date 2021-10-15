@@ -39,9 +39,8 @@
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML)
   * [List of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
   * [tinyML Foundaton](https://www.tinyml.org/)
-  * [Harvard CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
   * [Harvard Fundamentals of TinyML Course](https://online-learning.harvard.edu/course/fundamentals-tinyml) 
-  * [Federated learning](https://en.wikipedia.org/wiki/Federated_learning)
+  * [Harvard CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
 * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
   * [Comparison of deep-learning software](https://en.wikipedia.org/wiki/Comparison_of_deep-learning_software)
   * [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
@@ -50,6 +49,7 @@
   * [OpenAI Codex](https://openai.com/blog/openai-codex/)
   * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
   * [MindSpore](https://github.com/mindspore-ai/mindspore) deep learning training/inference framework
+* [Federated learning](https://en.wikipedia.org/wiki/Federated_learning)
 * [Movidius Neural Compute Stick](https://github.com/movidius/ncsdk.git) (NCS)
   * [Intel NCS2](https://software.intel.com/content/www/us/en/develop/hardware/neural-compute-stick.html)
   * [Intel OpenVINO](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) (Visual Inference and Neural network Optimization)
