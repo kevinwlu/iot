@@ -28,6 +28,7 @@
 * [Network function virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization) (NFV)
 * [Network slicing](https://en.wikipedia.org/wiki/5G_network_slicing)
 * [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
+* [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
 * [As a service](https://en.wikipedia.org/wiki/As_a_service)
 * [Orchestration](https://en.wikipedia.org/wiki/Orchestration_(computing))
 * [Quality of service](https://en.wikipedia.org/wiki/Quality_of_service) (QoS)
