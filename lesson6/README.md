@@ -1,7 +1,7 @@
 # Lesson 6: Alternative Devices
 
-* [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller)
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
+* [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller)
 * [Arduino](https://en.wikipedia.org/wiki/Arduino)
   * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
 * [STM32](https://en.wikipedia.org/wiki/STM32)
