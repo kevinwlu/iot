@@ -43,6 +43,7 @@
   * [Harvard Fundamentals of TinyML Course](https://online-learning.harvard.edu/course/fundamentals-tinyml) 
   * [Harvard CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
   * [Edge Impulse](https://www.edgeimpulse.com/)
+  * [Edge Impulse and TinyML on Raspberry Pi](https://www.raspberrypi.com/news/edge-impulse-and-tinyml-on-raspberry-pi/)
   * [Infxl](https://infxl.com/)
 * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
   * [Comparison of deep-learning software](https://en.wikipedia.org/wiki/Comparison_of_deep-learning_software)
