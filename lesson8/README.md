@@ -45,6 +45,7 @@
 * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
   * [Comparison of deep-learning software](https://en.wikipedia.org/wiki/Comparison_of_deep-learning_software)
   * [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
+  * [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
   * [Keras](https://en.wikipedia.org/wiki/Keras)
   * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
   * [OpenAI Codex](https://openai.com/blog/openai-codex/)
