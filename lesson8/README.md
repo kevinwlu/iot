@@ -38,7 +38,7 @@
 * [Pandas](https://en.wikipedia.org/wiki/Pandas_(software))
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML)
   * [List of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
-  * [tinyML](https://www.tinyml.org/)
+  * [tinyML Foundaton](https://www.tinyml.org/)
   * [Federated learning](https://en.wikipedia.org/wiki/Federated_learning)
 * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
   * [Comparison of deep-learning software](https://en.wikipedia.org/wiki/Comparison_of_deep-learning_software)
