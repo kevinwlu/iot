@@ -19,7 +19,7 @@
   * [Sandbox (computer security)](https://en.wikipedia.org/wiki/Sandbox_(computer_security))
   * [Cedalo](https://cedalo.com/) ([AG](https://en.wikipedia.org/wiki/Aktiengesellschaft))
   * [Eclipse Paho](https://en.wikipedia.org/wiki/Eclipse_Paho)
-  * [Paho](https://www.merriam-webster.com/dictionary/paho)
+  * [Paho](https://www.merriam-webster.com/dictionary/paho) is a [Hopi](https://en.wikipedia.org/wiki/Hopi) plumed prayer stick
 
 ## Lab 5A: Crossbar.io
 
