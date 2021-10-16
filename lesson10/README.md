@@ -32,6 +32,7 @@
   * [Proof of stake](https://en.wikipedia.org/wiki/Proof_of_stake)
   * [Byzantine fault](https://en.wikipedia.org/wiki/Byzantine_fault) tolerance (BFT)
 * [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
+* [CBDC](https://en.wikipedia.org/wiki/Central_bank_digital_currency) (Central bank digital currency)
 * [Non-fungible token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT)
   * [GFT Exchange](https://www.gft.exchange/)
   * [OpenSea](https://opensea.io/)
