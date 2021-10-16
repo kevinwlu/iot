@@ -81,7 +81,7 @@ manage.py  myapp/  mycpu/
 ~/mycpu $ sudo pip3 install -U psutil
 ```
 ## After the first time, skip these three steps if no changes
-* From Git Bash on Windows, if "python manage.py createsuperuser" leads to "Superuser creation skipped due to not running in a TTY," enter "winpty python manage.py createsuperuser"
+* Using Git for Windows, if "python manage.py createsuperuser" leads to "Superuser creation skipped due to not running in a TTY," enter "winpty python manage.py createsuperuser"
 ```sh
 ~/mycpu $ python manage.py makemigrations myapp
 ~/mycpu $ python manage.py migrate
