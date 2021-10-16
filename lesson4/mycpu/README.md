@@ -126,7 +126,7 @@ Superuser created successfully.
 ```
 ## View app at http://127.0.0.1:8000/home
 
-## Alternatively, run Django server at [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)
+## If settings.py has '*' in ALLOWED_HOST, run Django server at [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)
 ```sh
 ~/mycpu $ python manage.py runserver 0.0.0.0:8000
 ```
