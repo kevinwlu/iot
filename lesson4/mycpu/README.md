@@ -14,7 +14,7 @@ manage.py  mycpu/
 manage.py  myapp/  mycpu/
 ```
 ## Edit settings.py in ~/mycpu/mycpu
-* Follow ~/iot/lesson4/mycpu/settings.txt
+* Follow ~/iot/lesson4/mycpu/settings.txt to add myapp and rest_framework to INSTALLED_APPS
 ```sh
 ~/mycpu $ cd mycpu
 ~/mycpu/mycpu $ nano settings.py
