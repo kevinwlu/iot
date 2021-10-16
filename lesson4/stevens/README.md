@@ -16,7 +16,7 @@ manage.py  myapp  stevens
 ```
 
 ## Create MySQL database
-* On Windows or macOS without MariaDB, use the default SQLite database
+* On Windows or macOS, use the default SQLite database instead of MariaDB
 ```sh
 pi@raspberrypi:~ $ sudo mysql -u root -p
 Enter password: PASSWORD
