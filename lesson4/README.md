@@ -75,12 +75,12 @@ Reload privilege tables now? [Y/n]
 
 ## Lab 4C: Flask
 
-### Run Flask server and open a Chromium browser via VNC Viewer and go to http://127.0.0.1:5000/
+### Run Flask server and open a browser via VNC Viewer and go to http://127.0.0.1:5000/
 ```sh
 $ cd ~/iot/lesson4
 python3 hello_world.py
 ```
-### Terminal 1: Install [Flask-Ask](https://github.com/johnwheeler/flask-ask) and [Ngrok](https://ngrok.com/) for Alexa Skill Kit (ASK)
+### Terminal 1 on Raspberry Pi: Install [Flask-Ask](https://github.com/johnwheeler/flask-ask) and [Ngrok](https://ngrok.com/) for Alexa Skill Kit (ASK)
 ```sh
 $ sudo pip3 install -U flask-ask
 $ sudo pip3 install 'cryptography<2.2'
@@ -88,7 +88,7 @@ $ sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 $ sudo unzip ngrok-stable-linux-arm.zip
 $ ./ngrok http 5000
 ```
-### Terminal 2: [Memory Game](https://developer.amazon.com/blogs/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development)
+### Terminal 2 on Raspberry Pi: [Memory Game](https://developer.amazon.com/blogs/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development)
 ```sh
 $ cd ~/iot/lesson4
 $ python3 memory_game.py
@@ -118,7 +118,7 @@ $ python3 memory_game.py
 
 ## Lab 4D: LAMP
 
-### Install [Apache HTTP server](https://en.wikipedia.org/wiki/Apache_HTTP_Server) and [PHP](https://en.wikipedia.org/wiki/PHP)
+### On Raspberry Pi, install [Apache HTTP server](https://en.wikipedia.org/wiki/Apache_HTTP_Server) and [PHP](https://en.wikipedia.org/wiki/PHP)
 ```sh
 $ sudo apt update
 $ sudo apt install apache2
