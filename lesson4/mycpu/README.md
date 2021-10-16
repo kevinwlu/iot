@@ -102,7 +102,7 @@ Superuser created successfully.
 
 ### At the first time, go to http://127.0.0.1:8000/admin
 
-### Login with Django administration username (admin) and password (PASSWORD)
+### Login with Django administration username (admin) and password (admin)
 
 ### Click location data to add one of the following
 * Location Stevens
