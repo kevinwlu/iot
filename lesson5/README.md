@@ -19,6 +19,7 @@
   * [Sandbox (computer security)](https://en.wikipedia.org/wiki/Sandbox_(computer_security))
   * [Cedalo](https://cedalo.com/) ([AG](https://en.wikipedia.org/wiki/Aktiengesellschaft))
   * [Eclipse Paho](https://en.wikipedia.org/wiki/Eclipse_Paho)
+  * [Paho](https://www.merriam-webster.com/dictionary/paho)
 
 ## Lab 5A: Crossbar.io
 
