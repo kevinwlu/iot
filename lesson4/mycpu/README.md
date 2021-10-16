@@ -8,6 +8,7 @@
 manage.py  mycpu/
 ```
 ## Start a Django app
+* Run python3 on Raspberry Pi OS
 ```sh
 ~/mycpu $ python manage.py startapp myapp
 ~/mycpu $ ls
@@ -77,8 +78,9 @@ manage.py  myapp/  mycpu/
 ~/mycpu $ nano controller.py
 ```
 ## If haven't done so, install (or upgrade) psutil (process and system utilities)
+* Run pip3 on Raspberry Pi OS
 ```sh
-~/mycpu $ sudo pip3 install -U psutil
+~/mycpu $ sudo pip install -U psutil
 ```
 ## After the first time, skip these three steps if no changes
 * Using Git for Windows, if "python manage.py createsuperuser" leads to "Superuser creation skipped due to not running in a TTY," enter "winpty python manage.py createsuperuser"
