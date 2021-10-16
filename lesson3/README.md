@@ -1,6 +1,7 @@
 # Lesson 3: Python
 
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+  * [Monty Python](https://en.wikipedia.org/wiki/Monty_Python)
   * [CPython](https://en.wikipedia.org/wiki/CPython)
   * [Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution))
   * [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter)
