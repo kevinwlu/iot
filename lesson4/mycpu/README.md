@@ -90,8 +90,8 @@ manage.py  myapp/  mycpu/
 ~/mycpu $ python manage.py createsuperuser
 Username (leave blank to use '_'): admin
 Email address: EMAIL_ADDRESS
-Password: PASSWORD
-Password (again): PASSWORD
+Password: admin
+Password (again): admin
 Superuser created successfully.
 ```
 ## Run Django server
@@ -121,6 +121,7 @@ Superuser created successfully.
 * 20 to the Mem List at http://127.0.0.1:8000/mem
 
 ## Run native controller service on a separate terminal window
+* If using Git for Windows, enter "winpty python controller.py"
 ```sh
 ~/mycpu $ python controller.py
 ```
