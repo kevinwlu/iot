@@ -9,6 +9,7 @@
   * [ARM architecture](https://en.wikipedia.org/wiki/ARM_architecture)
   * ARM [hard float](https://www.raspberrypi.org/forums/viewtopic.php?t=11177) (armhf)
   * [Crossbar.io](https://crossbar.io/docs/Getting-Started/) ([GmbH](https://en.wikipedia.org/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung))
+  * [Crossbar switch](https://en.wikipedia.org/wiki/Crossbar_switch)
 * [Message queuing telemetry transport](https://en.wikipedia.org/wiki/MQTT) (MQTT)
   * [OASIS](https://en.wikipedia.org/wiki/OASIS_(organization)) (Organization for the Advancement of Structured Information Standards)
   * [MQTT specification](https://mqtt.org/mqtt-specification/)
