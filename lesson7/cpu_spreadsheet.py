@@ -39,7 +39,7 @@ while True:
     print('Memory Available: {0:0.1f} GB'.format(mem))
 #    print('Temperature: {0:0.1f} C'.format(tmp))
     try:
-        worksheet.append_row((str(dat), cpu, tmp))
+        worksheet.append_row((str(dat), cpu, mem))
 #        worksheet.append_row((dat, cpu, tmp))
 # gspread==0.6.2
 # https://github.com/burnash/gspread/issues/511  
