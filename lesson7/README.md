@@ -77,3 +77,4 @@ $ nano rpi_spreadsheet.py
 ```sh
 $ python3 rpi_spreadsheet.py
 ```
+* cpu_spreadsheet.py requires psutil, not system_info.py
