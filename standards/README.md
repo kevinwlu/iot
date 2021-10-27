@@ -17,6 +17,7 @@
   * [Ingress Protection Code](https://en.wikipedia.org/wiki/IP_Code)
 * [IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (Institute of Electrical and Electronics Engineers)
   * [IEEE Standards Association](https://standards.ieee.org/) (SA)
+  * [IEEE GET Program](https://standards.ieee.org/products-services/ieee-get-program.html) via [IEEE Xplore](https://ieeexplore.ieee.org/browse/standards/get-program/page)
   * [IEEE SA Open](https://saopen.ieee.org/)
   * [IEEE SA GitLab](https://opensource.ieee.org/)
   * [IEEE IoT technical community](https://iot.ieee.org/)
