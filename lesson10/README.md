@@ -27,7 +27,7 @@
   * [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
   * [Blockchain oracle](https://en.wikipedia.org/wiki/Blockchain_oracle)
   * [Chainlink](https://en.wikipedia.org/wiki/Chainlink_(cryptocurrency))
-* [Diem](https://en.wikipedia.org/wiki/Diem_(digital_currency)) (rebraded from Libra in December 2020)
+* [Diem](https://en.wikipedia.org/wiki/Diem_(digital_currency)) (rebraded from Libra in December 2020) proposed by [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms) (rebraded from Facebook on October 28, 2021)
   * [Diem Blockchain](https://developers.diem.com/main)
   * [Proof of stake](https://en.wikipedia.org/wiki/Proof_of_stake)
   * [Byzantine fault](https://en.wikipedia.org/wiki/Byzantine_fault) tolerance (BFT)
