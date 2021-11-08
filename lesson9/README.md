@@ -104,6 +104,10 @@ $ gimp -a intrusiondetection.png
 * Learn quantum computation using Qiskit: [textbook](https://qiskit.org/textbook/preface.html)
 
 ### SSH -Y to Raspberry Pi, refer to [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133) for installing Qiskit on Raspberry Pi OS, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
+* [Qiskit Terra](https://github.com/Qiskit/qiskit-terra)
+* [Qiskit Aer](https://github.com/Qiskit/qiskit-aer)
+* [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) DEPRECATED 2021-04-02
+* [Qiskit Ignis](https://github.com/Qiskit/qiskit-ignis)
 ```sh
 $ sudo sed -i 's/CONF_SWAPSIZE=100/CONF_SWAPSIZE=1024/' /etc/dphys-swapfile
 $ sudo /etc/init.d/dphys-swapfile stop
