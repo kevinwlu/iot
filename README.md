@@ -136,4 +136,5 @@
 * [Hands-on Approach to Internet of Things](https://docs.google.com/presentation/d/1nW76PppJbi9WeeJnl-cxk0Al-DEN9r5vw4FR4d0fkYI)
 * [IEEE Writing Style](https://docs.google.com/presentation/d/1TIWfYpBYfumA1rgMLDP6UkM7fC9rC8EK4up3Q28t6MQ)
 * [Necessity and Serendipity of Invention and Innovation](https://docs.google.com/presentation/d/1hLaVNikDvlXs1PCG4ikN8zXegfyOYcp04XByzQSG864)
+* [Professional Writing Workshop](https://docs.google.com/presentation/d/1MxA8BNXht-iZBCjvJ132hFw8NCFqIsytRd7-xZcuoo8)
 * [Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
