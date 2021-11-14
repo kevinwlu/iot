@@ -18,6 +18,7 @@
   * [Double-spending problem](https://en.wikipedia.org/wiki/Double-spending)
   * [Proof of work](https://en.wikipedia.org/wiki/Proof_of_work)
   * [Mining](https://en.bitcoin.it/wiki/Mining)
+  * [Nonce](https://en.wikipedia.org/wiki/Cryptographic_nonce)
   * [Bitcoin network](https://en.wikipedia.org/wiki/Bitcoin_network)
   * [Blocks](https://www.blockchain.com/btc/blocks) by [Blockchain.com](https://www.blockchain.com/)
   * [Blocks list](https://btc.com/btc/blocks) by [BTC.com](https://btc.com/en)
