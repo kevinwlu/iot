@@ -19,7 +19,8 @@
   * [Proof of work](https://en.wikipedia.org/wiki/Proof_of_work)
   * [Mining](https://en.bitcoin.it/wiki/Mining)
   * [Bitcoin network](https://en.wikipedia.org/wiki/Bitcoin_network)
-  * [Block list](https://btc.com/btc/blocks)
+  * [Blocks](https://www.blockchain.com/btc/blocks) by Blockchain.com
+  * [Blocks list](https://btc.com/btc/blocks) by BTC.com
   * [Genesis block](https://en.bitcoin.it/wiki/Genesis_block) on [2009-01-03](https://btc.com/btc/block/0)
   * [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/) (CBECI)
   * [Lightening Network](https://en.wikipedia.org/wiki/Lightning_Network)
