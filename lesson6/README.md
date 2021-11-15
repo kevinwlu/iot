@@ -75,6 +75,10 @@ $ node hello-world.js
 ```
 ### On Raspberry Pi via VNC Viewer, click the application menu on the left upper corner, select Programming to check whether Node-RED is installed
 * If Node-RED is not installed, select Preferences > Recommended Software to install Node-RED
+* Alternative [installation](https://nodered.org/docs/getting-started/raspberrypi) as follows
+```sh
+bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)
+```
 * Run and view Node.js server at http://127.0.0.1:8080 on Raspberry Pi via VNC viewer or directly on a laptop computer at the Raspberry Pi IP address such as http://192.168.1.204:8080
 * Reload the web page to see the server responses and press control-c (^C) to quit
 ```sh
