@@ -116,7 +116,7 @@ $ python3 run_app.py
 * At YourNet, click "Resync" to view Block #1
 
 ## Lab 10B: IOTA
-* This lab requires Raspberry Pi and Node.js
+* This lab requires Raspberry Pi and Node.js v8 or v10
 * Only sensor.js and mam_sensor.js require a DHT11 or DHT22 humidity and temperature sensor
 
 ### [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library) and [IRI](https://docs.iota.org/docs/node-software/1.0/overview) (IOTA Reference Implementation)
