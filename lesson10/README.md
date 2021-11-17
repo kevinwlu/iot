@@ -115,7 +115,7 @@ $ python3 run_app.py
 * Enter content and name, click "Post," and click "Request to mine" that generate "Block #1 is mined" at http://127.0.0.1:8000/mine
 * At YourNet, click "Resync" to view Block #1
 
-## Lab 10B: IOTA
+## Lab 10B: PyOTA
 
 ### [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library) and [IRI](https://docs.iota.org/docs/node-software/1.0/overview) (IOTA Reference Implementation)
 
@@ -127,6 +127,7 @@ $ python3 iri_node_info.py
 $ cd
 ```
 
+## Lab 10C: IOTA DevNet
 ### Send DHT11 sensor data to the IOTA Tangle using Masked Authenticated Messaging (MAM) by [Robert Lie](https://github.com/robertlie)
 * This lab requires Raspberry Pi and Node.js v8 or v10
 * Only sensor.js and mam_sensor.js require a DHT11 or DHT22 humidity and temperature sensor
