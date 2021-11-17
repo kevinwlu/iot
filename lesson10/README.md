@@ -128,9 +128,10 @@ $ cd
 ```
 
 ## Lab 10C: IOTA DevNet
-### Send DHT11 sensor data to the IOTA Tangle using Masked Authenticated Messaging (MAM) by [Robert Lie](https://github.com/robertlie)
 * This lab requires Raspberry Pi and Node.js v8 or v10
 * Only sensor.js and mam_sensor.js require a DHT11 or DHT22 humidity and temperature sensor
+
+### Send DHT11 sensor data to the IOTA Tangle using Masked Authenticated Messaging (MAM) by [Robert Lie](https://github.com/robertlie)
 * [Tutorial](https://www.youtube.com/watch?v=atJ-ZT7aKoA)
 * [IOTA quick guides](https://www.mobilefish.com/developer/iota/iota_quickguide_raspi_mam.html)
   * Tested with Node.js v10.23.1
