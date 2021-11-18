@@ -135,7 +135,7 @@ $ cd
 ### Send DHT11 sensor data to the IOTA Tangle using Masked Authenticated Messaging (MAM) by [Robert Lie](https://github.com/robertlie)
 * [Tutorial](https://www.youtube.com/watch?v=atJ-ZT7aKoA)
 * [IOTA quick guides](https://www.mobilefish.com/developer/iota/iota_quickguide_raspi_mam.html)
-  * Tested with Node.js v10.23.1
+  * Tested with Node.js v8.11.1 and v10.23.1
 * Send DHT11 sensor data to the IOTA Tangle using MAM and Raspberry Pi 3 [GitHub repo](https://github.com/robertlie/dht11-raspi3)
 * [IOTA MAM demo](https://www.mobilefish.com/services/cryptocurrency/mam.html)
 
