@@ -115,8 +115,8 @@ $ python3 run_app.py
 * Enter content and name, click "Post," and click "Request to mine" that generate "Block #1 is mined" at http://127.0.0.1:8000/mine
 * At YourNet, click "Resync" to view Block #1
 
-## Lab 10B: PyOTA
-
+## Lab 10B: IOTA
+* This lab requires Raspberry Pi
 ### [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library) and [IRI](https://docs.iota.org/docs/node-software/1.0/overview) (IOTA Reference Implementation)
 
 ```sh
