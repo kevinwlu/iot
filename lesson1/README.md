@@ -6,6 +6,7 @@
 * [Open Systems Interconnecton (OSI) model](https://en.wikipedia.org/wiki/OSI_model)
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
 * [Machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine) (M2M) communication
+* [Network packet](https://en.wikipedia.org/wiki/Network_packet)
 * [IEEE International Network Generations Roadmap](https://futurenetworks.ieee.org/roadmap) (INGR)
 * [Wide area network](https://en.wikipedia.org/wiki/Wide_area_network) (WAN)
 * [Local area network](https://en.wikipedia.org/wiki/Local_area_network) (LAN)
