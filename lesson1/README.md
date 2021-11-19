@@ -19,6 +19,7 @@
   * [6LoWPAN](https://en.wikipedia.org/wiki/6LoWPAN) (IPv6 over Low-Power Wireless Personal Area Network)
 * [Near-field communication](https://en.wikipedia.org/wiki/Near-field_communication) (NFC)
 * [Human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
+  * [BRAIN Initiative](https://en.wikipedia.org/wiki/BRAIN_Initiative)
   * [IEEE Brain Initiative](https://brain.ieee.org/)
   * [OpenBCI](https://en.wikipedia.org/wiki/OpenBCI)
 * [Satellite internet access](https://en.wikipedia.org/wiki/Satellite_Internet_access)
