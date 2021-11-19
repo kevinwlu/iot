@@ -116,7 +116,7 @@ $ python3 run_app.py
 * At YourNet, click "Resync" to view Block #1
 
 ## Lab 10B: PyOTA
-* This lab requires Raspberry Pi
+* Demonstrated on Raspberry Pi OS and Ubuntu
 * [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library)
 * [IRI](https://docs.iota.org/docs/node-software/1.0/overview) (IOTA Reference Implementation)
 
