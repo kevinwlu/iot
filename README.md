@@ -36,7 +36,7 @@
 * [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator)
   * [List of Y Combinator startups](https://en.wikipedia.org/wiki/List_of_Y_Combinator_startups)
   * [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
-* [Unicorn](https://en.wikipedia.org/wiki/Unicorn_(finance))
+* [Unicorn](https://en.wikipedia.org/wiki/Unicorn_(finance)) and decacorn
 
 ## GitHub Basics
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
