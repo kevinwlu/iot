@@ -1,3 +1,7 @@
+# 2021 Fall
+
+* Application of Optimized VGG Network in Face Recognition
+
 # 2021 Spring
 
 * Picture [Quality Enhancing](https://github.com/fordreamever/EE800SuperResolution) and [Style Conversion](https://github.com/fordreamever/EE800StyleConversion)
