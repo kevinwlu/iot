@@ -102,7 +102,24 @@ $ gimp -a intrusiondetection.png
 * [Qiskit tutorials](https://qiskit.org/documentation/tutorials.html)
 * IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
 * Learn quantum computation using Qiskit: [textbook](https://qiskit.org/textbook/preface.html)
-
+### On Windows, macOS, or Ubuntu, install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
+* [Qiskit Terra](https://github.com/Qiskit/qiskit-terra)
+* [Qiskit Aer](https://github.com/Qiskit/qiskit-aer)
+* [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) DEPRECATED 2021-04-02
+* [Qiskit Ignis](https://github.com/Qiskit/qiskit-ignis)
+```sh
+$ pip3 install qiskit[visualization]
+$ python3
+>>> from qiskit import IBMQ
+>>> IBMQ.save_account('MY_API_TOKEN')
+>>> IBMQ.load_account()
+>>> exit()
+$ cd ~/iot/lesson9
+$ python3 qiskit_terra_example.py
+$ python3 qiskit_aer_example.py
+$ python3 qiskit_aqua_example.py
+$ python3 qiskit_ignis_example.py
+```
 ### SSH -Y to Raspberry Pi, refer to [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133) for installing Qiskit on Raspberry Pi OS, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
 * [Qiskit Terra](https://github.com/Qiskit/qiskit-terra)
 * [Qiskit Aer](https://github.com/Qiskit/qiskit-aer)
