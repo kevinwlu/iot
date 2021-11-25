@@ -46,6 +46,7 @@
 * [Tunneling protocol](https://en.wikipedia.org/wiki/Tunneling_protocol)
   * [SSH](https://en.wikipedia.org/wiki/Secure_Shell)
     * [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) (Rivest–Shamir–Adleman)
+    * [DSA](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm) (Digital Signature Algorithm)
     * [ECDSA](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm) (Elliptic Curve Digital Signature Algorithm)
     * [EdDSA](https://en.wikipedia.org/wiki/EdDSA) (Edwards-curve Digital Signature Algorithm) such as Ed25519
   * [VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing)
