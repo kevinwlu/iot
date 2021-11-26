@@ -9,6 +9,7 @@
   * [PyPI](https://en.wikipedia.org/wiki/Python_Package_Index) (Python Package Index))
   * [Keyboard interrupt](https://en.wikipedia.org/wiki/Keyboard_interrupt)
   * [Control-C](https://en.wikipedia.org/wiki/Control-C)
+  * [Control-D](https://en.wikipedia.org/wiki/End-of-Transmission_character)
 * [Bitwise operators](https://wiki.python.org/moin/BitwiseOperators)
 * [pip](https://en.wikipedia.org/wiki/Pip_(package_manager))
   * [Setuptools](https://en.wikipedia.org/wiki/Setuptools)
