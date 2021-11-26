@@ -43,6 +43,8 @@
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
   * [Ping](https://en.wikipedia.org/wiki/Ping_(networking_utility))
   * [Localhost](https://en.wikipedia.org/wiki/Localhost)
+  * [Keyboard shortcut](https://en.wikipedia.org/wiki/Keyboard_shortcut)
+  * [Control-D](https://en.wikipedia.org/wiki/End-of-Transmission_character)
 * [Tunneling protocol](https://en.wikipedia.org/wiki/Tunneling_protocol)
 * [SSH](https://en.wikipedia.org/wiki/Secure_Shell)
   * [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) (Rivest–Shamir–Adleman)
