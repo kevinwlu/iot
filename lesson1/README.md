@@ -192,7 +192,7 @@ $ sudo chmod +x /lib/systemd/system/rc-local.service
 
 ### 2. Open a Terminal on macOS/Linux or any of the following [terminal emulators](https://en.wikipedia.org/wiki/Terminal_emulator) on Windows
 * [Windows Terminal](https://en.wikipedia.org/wiki/Windows_Terminal)
-* [Git Bash](https://gitforwindows.org/)
+* [Git for Windows](https://gitforwindows.org/)
 * [PuTTY](https://en.wikipedia.org/wiki/PuTTY)
 ### 3. Run an SSH client to log into Raspberry Pi
 ```sh
