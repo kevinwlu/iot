@@ -7,6 +7,7 @@
   * [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter)
   * [Python Software Foundation](https://en.wikipedia.org/wiki/Python_Software_Foundation) (PSF)
   * [PyPI](https://en.wikipedia.org/wiki/Python_Package_Index) (Python Package Index))
+  * [Keyboard shortcut](https://en.wikipedia.org/wiki/Keyboard_shortcut)
   * [Keyboard interrupt](https://en.wikipedia.org/wiki/Keyboard_interrupt)
   * [Control-C](https://en.wikipedia.org/wiki/Control-C)
   * [Control-D](https://en.wikipedia.org/wiki/End-of-Transmission_character)
