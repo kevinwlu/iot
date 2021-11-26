@@ -209,7 +209,7 @@ $ sudo shutdown -h now
 * The Raspberry Pi 4 uses the onboard [EEPROM](https://en.wikipedia.org/wiki/EEPROM) instead of bootcode.bin in the [boot folder](https://www.raspberrypi.org/documentation/configuration/boot_folder.md)
 ## Alternative 1: VNC Connect
 
-* VNC Connect is included with the latest NOOBS for non-commercial use
+* VNC Connect is included with Raspberry Pi OS for non-commercial use
 * Sign up for a free [RealVNC](https://www.realvnc.com) account (need to be over 16) by an email address
 * On the Raspberry Pi desktop, click the VNC Server icon at the right of the menu bar and sign in to enable cloud connectivity
 * On a laptop, sign in to VNC Viewer
