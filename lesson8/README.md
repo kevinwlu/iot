@@ -58,6 +58,8 @@
 * [Movidius Neural Compute Stick](https://github.com/movidius/ncsdk.git) (NCS)
   * [Intel NCS2](https://software.intel.com/content/www/us/en/develop/hardware/neural-compute-stick.html)
   * [Intel OpenVINO](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) (Visual Inference and Neural network Optimization)
+* [CPLEX](https://en.wikipedia.org/wiki/CPLEX)
+
 ## Lab 8A: Examples
 
 ### On Windows with [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install-win10), run PowerShell as Administrator Windows and install Python packages as follows
