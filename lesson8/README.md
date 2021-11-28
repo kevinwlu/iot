@@ -58,8 +58,8 @@
 * [Movidius Neural Compute Stick](https://github.com/movidius/ncsdk.git) (NCS)
   * [Intel NCS2](https://software.intel.com/content/www/us/en/develop/hardware/neural-compute-stick.html)
   * [Intel OpenVINO](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) (Visual Inference and Neural network Optimization)
-* [CPLEX](https://en.wikipedia.org/wiki/CPLEX) Optimization Studio
-  * [Python examples](https://www.ibm.com/docs/en/icos/20.1.0?topic=cplex-python-examples)
+* [CPLEX](https://en.wikipedia.org/wiki/CPLEX)
+  * [IBM Decision Optimization](https://github.com/IBMDecisionOptimization)
 
 ## Lab 8A: Examples
 
