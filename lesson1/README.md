@@ -222,6 +222,7 @@ $ sudo shutdown -h now
 * Sign up [ngrok](https://ngrok.com/)
 * Download ngrok to Raspberry Pi
 * Copy the Authtoken to authenticate the ngrok downloaded
+* Authtoken is saved to configuration file: /home/pi/.ngrok2/ngrok.yml
 ```sh
 $ sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 $ sudo unzip ngrok-stable-linux-arm.zip
