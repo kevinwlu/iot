@@ -217,7 +217,24 @@ $ sudo shutdown -h now
 * On the Raspberry Pi desktop, click the VNC Server icon at the right of the menu bar and sign in to enable cloud connectivity
 * On a laptop, sign in to VNC Viewer
 
-## Alternative 2: [Serveo](https://github.com/milio48/serveo) Port Forwarder
+## Alternative 2: Ngrok
+
+* Sign up [ngrok](https://ngrok.com/)
+* Download ngrok to Raspberry Pi
+* Copy the Authtoken to authenticate the ngrok downloaded
+```sh
+$ sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
+$ sudo unzip ngrok-stable-linux-arm.zip
+$ ./ngrok authtoken <the Authtoken>
+$ ./ngrok tcp 22
+```
+* Copy the forwarding URL and port such as x.tcp.ngrok.io and xxxxx
+* On another computer, ssh Raspberry Pi
+```sh
+ssh pi@x.tcp.ngrok.io -p xxxxx
+```
+
+## Alternative 3: [Serveo](https://github.com/milio48/serveo) Port Forwarder
 
 * On a Raspberry Pi, copy two files
 ```sh
