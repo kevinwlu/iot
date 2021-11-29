@@ -234,6 +234,9 @@ $ ./ngrok tcp 22
 ```sh
 ssh pi@6.tcp.ngrok.io -p <the port number>
 ```
+* On Raspberry Pi
+  * control-U to update ngrok if available
+  * control-C to quit ngrok
 
 ## Alternative 3: [Serveo](https://github.com/milio48/serveo) Port Forwarder
 
