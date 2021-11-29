@@ -229,10 +229,10 @@ $ sudo unzip ngrok-stable-linux-arm.zip
 $ ./ngrok authtoken <the Authtoken>
 $ ./ngrok tcp 22
 ```
-* Copy the forwarding URL and port such as x.tcp.ngrok.io and xxxxx
+* Copy the forwarding URL 6.tcp.ngrok.io and the port number
 * On another computer, ssh Raspberry Pi
 ```sh
-ssh pi@x.tcp.ngrok.io -p xxxxx
+ssh pi@6.tcp.ngrok.io -p <the port number>
 ```
 
 ## Alternative 3: [Serveo](https://github.com/milio48/serveo) Port Forwarder
