@@ -2,7 +2,7 @@
 
 * IoT Smart Contract
 * Performace Recorder
-* Pavement Crack Identifiaciton and Quantification System Based on IoT
+* Pavement Crack Identification and Quantification System Based on IoT
 * Webcam-Based Light Sensor System With ThingSpeak Implementation
 * Wireless Network Mapper
 
