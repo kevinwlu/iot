@@ -117,6 +117,7 @@
   * [Fairhair Specification](https://openconnectivity.org/developer/specifications/fairhair/)
   * [IoTivity](https://en.wikipedia.org/wiki/IoTivity)
 * [O-RAN](https://www.o-ran.org/)
+* [Wi-Fi Alliance](https://en.wikipedia.org/wiki/Wi-Fi_Alliance)
 * [Wi-SUN](https://wi-sun.org/)
 
 ## Courses (Google Sites)
