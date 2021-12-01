@@ -130,7 +130,6 @@
 * [Thesis](https://sites.google.com/view/ece900)
 
 ## Presentations (Google Slides)
-
 * [Balanced Skill Set](https://docs.google.com/presentation/d/153WdbX45X3mDv5xqPK3I9XluN-qWKLW9vqNKKk2y5kI)
 * [Careers in Industry](https://docs.google.com/presentation/d/106zGCupPAgWhLEW6l_BM_moIr_ZFnFw36kjqOi9m9q8)
 * [Ethics of Autonomous and Intelligent Systems](https://docs.google.com/presentation/d/1mvlRrR5tgnX2LDzR20_8J74wdCawYNp7Y1KuTh8QK3c)
@@ -138,4 +137,5 @@
 * [IEEE Writing Style](https://docs.google.com/presentation/d/1TIWfYpBYfumA1rgMLDP6UkM7fC9rC8EK4up3Q28t6MQ)
 * [Necessity and Serendipity of Invention and Innovation](https://docs.google.com/presentation/d/1hLaVNikDvlXs1PCG4ikN8zXegfyOYcp04XByzQSG864)
 * [Professional Writing Workshop](https://docs.google.com/presentation/d/1MxA8BNXht-iZBCjvJ132hFw8NCFqIsytRd7-xZcuoo8)
+* [Research Ethics](https://docs.google.com/presentation/d/17tJUBG1FEAJRNnsOmk7I3pOiPmfpcyCJATd_FuNYrt
 * [Second Curve of Technology, Media, and Telecommunications](https://goo.gl/5wH7D7)
