@@ -107,7 +107,7 @@
 * [AIOTI](https://aioti.eu/) (Alliance for Internet of Things Innovation)
 * [Digital Twin Consortium](https://www.digitaltwinconsortium.org/)
 * [Hexa-X](https://hexa-x.eu/)
-* [IAMTS]()https://iamts.sae-itc.com/ (International Alliance for Mobility Testing and Standardization)
+* [IAMTS](https://iamts.sae-itc.com/) (International Alliance for Mobility Testing and Standardization)
 * [IIC](https://en.wikipedia.org/wiki/Industrial_Internet_Consortium) (Industrial Internet Consortium)
 * [ioXt](https://www.ioxtalliance.org/) (Internet of Secure Things)
 * [KNX](https://en.wikipedia.org/wiki/KNX_(standard))
