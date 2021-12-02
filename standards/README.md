@@ -23,6 +23,9 @@
   * [IEEE IoT technical community](https://iot.ieee.org/)
   * [IEEE SA IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
   * [IEEE P1451-99](https://standards.ieee.org/project/1451-99.html) Standard for Harmonization of Internet of Things (IoT) Devices and Systems
+  * [IEEE Standards for Blockchain](https://blockchain.ieee.org/standards)
+  * [IEEE STandards for Cybersecurity](https://engagestandards.ieee.org/cybersecurity.html)
+  * [IEEE Standards for Smart Cities](https://engagestandards.ieee.org/smart-cities.html)
 * [IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (Internet Engineering Task Force)
   * [RFC](https://en.wikipedia.org/wiki/Request_for_Comments) (Request for Comments)
   * [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite)
