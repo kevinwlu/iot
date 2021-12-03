@@ -23,7 +23,7 @@
     * [Foundational Technologies](https://standards.ieee.org/practices/foundational/index.html)
     * [Healthcare and Life Sciences](https://standards.ieee.org/practices/healthcare-life-sciences/index.html)
     * [Mobility](https://standards.ieee.org/practices/mobility/index.html)
-    * [IEEE GET Program](https://standards.ieee.org/products-services/ieee-get-program.html) via [IEEE Xplore](https://ieeexplore.ieee.org/browse/standards/get-program/page)
+  * [IEEE GET Program](https://standards.ieee.org/products-services/ieee-get-program.html) via [IEEE Xplore](https://ieeexplore.ieee.org/browse/standards/get-program/page)
   * [IEEE SA Open](https://saopen.ieee.org/)
   * [IEEE SA GitLab](https://opensource.ieee.org/)
   * [IEEE IoT technical community](https://iot.ieee.org/)
