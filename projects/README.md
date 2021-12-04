@@ -2,6 +2,7 @@
 
 * Amatracker
 * Collecting Stock Current Values and Uploading It to ThingSpeak
+* EZParking
 * HealthyWeb
 * IoT Smart Contract
 * Performace Recorder
