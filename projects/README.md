@@ -1,8 +1,15 @@
 # 2021 Fall
 
+* Amatracker
+* Collecting Stock Current Values and Uploading It to ThingSpeak
+* HealthyWeb
 * IoT Smart Contract
 * Performace Recorder
 * Pavement Crack Identification and Quantification System Based on IoT
+* Raspberry Pi Smart Door With Face Recognition
+* Smart TV Remote Control
+* Stock Market Data Analysis and Prediction
+* Text to Speak
 * Webcam-Based Light Sensor System With ThingSpeak Implementation
 * Wireless Network Mapper
 
