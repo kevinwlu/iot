@@ -1,7 +1,7 @@
 # 2021 Fall
 
 * Amatracker
-* Collecting Stock Current Values and Uploading It to ThingSpeak
+* [Collecting Stock Current Values and Uploading It to ThingSpeak](https://github.com/naibari/FinalProject)
 * EZParking
 * HealthyWeb
 * [IoT Smart Contract](https://github.com/WilliamBaltus/IOT_Smart_Contract)
