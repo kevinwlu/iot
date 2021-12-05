@@ -10,7 +10,7 @@
 * Raspberry Pi Smart Door With Face Recognition
 * Smart TV Remote Control
 * Stock Market Data Analysis and Prediction
-* Text to Speak
+* [Text to Speak](https://github.com/EricWYQ/Text-to-Speak)
 * Webcam-Based Light Sensor System With ThingSpeak Implementation
 * [Wireless Network Mapper](https://github.com/bernardtran99/iot-ee-629/tree/main/wireless-network-mapper)
 
