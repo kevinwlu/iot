@@ -12,7 +12,7 @@
 * Stock Market Data Analysis and Prediction
 * Text to Speak
 * Webcam-Based Light Sensor System With ThingSpeak Implementation
-* Wireless Network Mapper
+* [Wireless Network Mapper](https://github.com/bernardtran99/iot-ee-629/tree/main/wireless-network-mapper)
 
 # 2021 Spring
 
