@@ -2,7 +2,7 @@
 
 * Amatracker
 * [Collecting Stock Current Values and Uploading It to ThingSpeak](https://github.com/naibari/FinalProject)
-* EZParking
+* [EZParking](https://github.com/jingyi199858/EZParking)
 * HealthyWeb
 * [IoT Smart Contract](https://github.com/WilliamBaltus/IOT_Smart_Contract)
 * Performace Recorder
