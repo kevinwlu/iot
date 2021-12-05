@@ -4,7 +4,7 @@
 * Collecting Stock Current Values and Uploading It to ThingSpeak
 * EZParking
 * HealthyWeb
-* IoT Smart Contract
+* [IoT Smart Contract](https://github.com/WilliamBaltus/IOT_Smart_Contract)
 * Performace Recorder
 * Pavement Crack Identification and Quantification System Based on IoT
 * Raspberry Pi Smart Door With Face Recognition
