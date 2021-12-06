@@ -5,9 +5,11 @@
 * [EZParking](https://github.com/jingyi199858/EZParking)
 * HealthyWeb
 * [IoT Smart Contract](https://github.com/WilliamBaltus/IOT_Smart_Contract)
+* Machine Olfactory
 * [Performace Recorder](https://github.com/Tedchai/EE629-IOT/tree/main/project)
 * Pavement Crack Identification and Quantification System Based on IoT
 * [Raspberry Pi Smart Door With Face Recognition](https://github.com/okisna93/IoT/tree/main/RaspberryPi_SmartDoor_With_FaceRecognition)
+* [Rating Recorded Fitness Activities According to Data Collected by a Smartwatch](https://github.com/ragwantsadrag/raghav-daga-iot/tree/main/Final%20Project)
 * [Smart TV Remote Control](https://github.com/ChenxuWang7/TVRemoteControl)
 * [Stock Market Data Analysis and Prediction Using API](https://github.com/athishsn/iot/blob/main/Course%20project)
 * [Text to Speak](https://github.com/EricWYQ/Text-to-Speak)
