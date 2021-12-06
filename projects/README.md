@@ -7,7 +7,7 @@
 * [IoT Smart Contract](https://github.com/WilliamBaltus/IOT_Smart_Contract)
 * [Performace Recorder](https://github.com/Tedchai/EE629-IOT/tree/main/project)
 * Pavement Crack Identification and Quantification System Based on IoT
-* Raspberry Pi Smart Door With Face Recognition
+* [Raspberry Pi Smart Door With Face Recognition](https://github.com/okisna93/IoT/tree/main/RaspberryPi_SmartDoor_With_FaceRecognition)
 * Smart TV Remote Control
 * Stock Market Data Analysis and Prediction
 * [Text to Speak](https://github.com/EricWYQ/Text-to-Speak)
