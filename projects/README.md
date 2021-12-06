@@ -9,7 +9,7 @@
 * Pavement Crack Identification and Quantification System Based on IoT
 * [Raspberry Pi Smart Door With Face Recognition](https://github.com/okisna93/IoT/tree/main/RaspberryPi_SmartDoor_With_FaceRecognition)
 * Smart TV Remote Control
-* Stock Market Data Analysis and Prediction
+* [Stock Market Data Analysis and Prediction Using API](https://github.com/athishsn/iot/blob/main/Course%20project)
 * [Text to Speak](https://github.com/EricWYQ/Text-to-Speak)
 * Webcam-Based Light Sensor System With ThingSpeak Implementation
 * [Wireless Network Mapper](https://github.com/bernardtran99/iot-ee-629/tree/main/wireless-network-mapper)
