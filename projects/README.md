@@ -5,7 +5,7 @@
 * [EZParking](https://github.com/jingyi199858/EZParking)
 * HealthyWeb
 * [IoT Smart Contract](https://github.com/WilliamBaltus/IOT_Smart_Contract)
-* Performace Recorder
+* [Performace Recorder](https://github.com/Tedchai/EE629-IOT/tree/main/project)
 * Pavement Crack Identification and Quantification System Based on IoT
 * Raspberry Pi Smart Door With Face Recognition
 * Smart TV Remote Control
