@@ -80,3 +80,5 @@
   * [CSS](https://en.wikipedia.org/wiki/CSS)
   * [HTML](https://en.wikipedia.org/wiki/HTML)
   * [WCAG](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines)
+## National and Regional Standards
+[Standards Council of Canada](https://en.wikipedia.org/wiki/Standards_Council_of_Canada)
