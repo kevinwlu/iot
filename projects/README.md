@@ -3,6 +3,7 @@
 * [Amatracker](https://github.com/Cheeesse/EE629_IoT)
 * [Collecting Stock Current Values and Uploading It to ThingSpeak](https://github.com/naibari/FinalProject)
 * [EZParking](https://github.com/jingyi199858/EZParking)
+* Fruit Detection
 * HealthyWeb
 * [IoT Smart Contract](https://github.com/WilliamBaltus/IOT_Smart_Contract)
 * Machine Olfactory
