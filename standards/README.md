@@ -85,6 +85,6 @@
 * [Ecuadorian Standardization Service](https://es.wikipedia.org/wiki/Servicio_Ecuatoriano_de_Normalizaci%C3%B3n) (INEN)
 * [Enterprise Singapore](https://en.wikipedia.org/wiki/Enterprise_Singapore)
 * [GCC Standardization Organization](https://en.wikipedia.org/wiki/GCC_Standardization_Organization) (GSO)
-* [Hungarian Standards Institution](http://www.mszt.hu/)
+* [Hungarian Standards Institution](http://www.mszt.hu/) (MSZT)
 * [Standards Council of Canada](https://en.wikipedia.org/wiki/Standards_Council_of_Canada) (SCC)
 
