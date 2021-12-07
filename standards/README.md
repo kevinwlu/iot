@@ -11,6 +11,7 @@
 * [ATSC](https://www.atsc.org/) (Advanced Television Systems Committee)
   * [ATSC standards](https://en.wikipedia.org/wiki/ATSC_standards)
 * [Cybersecurity standards](https://en.wikipedia.org/wiki/Cybersecurity_standards)
+* [GSO](https://en.wikipedia.org/wiki/GCC_Standardization_Organization) (GCC Standardization Organization)
 * [IANA](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority) (Internet Assigned Numbers Authority)
   * [Service Name and Transport Protocol Port Number Registry](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
 * [IEC](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) (International Electrotechnical Commission)
