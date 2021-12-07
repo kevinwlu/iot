@@ -81,7 +81,7 @@
   * [CSS](https://en.wikipedia.org/wiki/CSS)
   * [HTML](https://en.wikipedia.org/wiki/HTML)
   * [WCAG](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines)
-## National and Regional Standards
+## National and Regional Standards Organization
 * [Ecuadorian Standardization Service](https://es.wikipedia.org/wiki/Servicio_Ecuatoriano_de_Normalizaci%C3%B3n) (INEN)
 * [Enterprise Singapore](https://en.wikipedia.org/wiki/Enterprise_Singapore)
 * [GCC Standardization Organization](https://en.wikipedia.org/wiki/GCC_Standardization_Organization) (GSO)
