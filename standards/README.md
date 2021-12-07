@@ -81,6 +81,6 @@
   * [WCAG](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines)
 ## National and Regional Standards
 * [Ecuadorian Standardization Service](https://es.wikipedia.org/wiki/Servicio_Ecuatoriano_de_Normalizaci%C3%B3n) (INEN)
-* [Enterprise Signapore](https://en.wikipedia.org/wiki/Enterprise_Singapore)
+* [Enterprise Singapore](https://en.wikipedia.org/wiki/Enterprise_Singapore)
 * [GCC Standardization Organization](https://en.wikipedia.org/wiki/GCC_Standardization_Organization) (GSO)
 * [Standards Council of Canada](https://en.wikipedia.org/wiki/Standards_Council_of_Canada) (SCC)
