@@ -1,4 +1,6 @@
 # Standards
+* [Standards organization](https://en.wikipedia.org/wiki/Standards_organization)
+* [List of technical standard organizations](https://en.wikipedia.org/wiki/List_of_technical_standard_organizations)
 * [3GPP](https://en.wikipedia.org/wiki/3GPP) (3rd Generation Partnership Project)
   * [5G](https://en.wikipedia.org/wiki/5G)
   * [5G NR](https://en.wikipedia.org/wiki/5G_NR) (New Radio)
@@ -83,4 +85,6 @@
 * [Ecuadorian Standardization Service](https://es.wikipedia.org/wiki/Servicio_Ecuatoriano_de_Normalizaci%C3%B3n) (INEN)
 * [Enterprise Singapore](https://en.wikipedia.org/wiki/Enterprise_Singapore)
 * [GCC Standardization Organization](https://en.wikipedia.org/wiki/GCC_Standardization_Organization) (GSO)
+* [Hungarian Standards Institution](http://www.mszt.hu/)
 * [Standards Council of Canada](https://en.wikipedia.org/wiki/Standards_Council_of_Canada) (SCC)
+
