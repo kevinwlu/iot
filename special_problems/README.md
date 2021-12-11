@@ -1,6 +1,6 @@
 # 2021 Fall
 
-* Application of Optimized VGG Network in Face Recognition
+* [Application of Optimized VGG Network in Face Recognition](https://github.com/Dongfang777/EE800)
 
 # 2021 Spring
 
