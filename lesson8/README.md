@@ -224,7 +224,7 @@ $ python3 titanic_2.py
 * Copy ~/iot/lesson8/plt_final.py and plt_cv2.py to ~/demo
 * Edit them to read the CSV file
 * Show seven figures including time series, two histograms, two box plots, a scatter plot with a linear regression line, and cross-validation prediction with temperature as target
-* Include required title/labels, and add legend or adjust ticks as needed
+* Edit the title/labels in plt_final.py and plt_cv2.py, and add legend or adjust ticks as needed
 ```sh
 $ cd ~/demo
 $ cp ~/iot/lesson8/plt_final.py .
