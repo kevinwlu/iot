@@ -6,7 +6,7 @@
 * [Fruit Detection](https://github.com/XunzhiLi/EE-629-A)
 * [GardEx](https://github.com/glimped/IoT/tree/main/Final)
 * [IoT Smart Contract](https://github.com/WilliamBaltus/IOT_Smart_Contract)
-* Machine Olfactory
+* [Machine Olfactory](https://github.com/Kevin-p-hub/Machine-Olfactory-2.0)
 * [Performace Recorder](https://github.com/Tedchai/EE629-IOT/tree/main/project)
 * [Concrete Crack Detection and Quantification Based on Internet of Things and Deep Learning](https://github.com/pengweiguo123/IoT)
 * [Raspberry Pi Smart Door With Face Recognition](https://github.com/okisna93/IoT/tree/main/RaspberryPi_SmartDoor_With_FaceRecognition)
