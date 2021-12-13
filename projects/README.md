@@ -11,7 +11,7 @@
 * [Concrete Crack Detection and Quantification Based on Internet of Things and Deep Learning](https://github.com/pengweiguo123/IoT)
 * [Raspberry Pi Smart Door With Face Recognition](https://github.com/okisna93/IoT/tree/main/RaspberryPi_SmartDoor_With_FaceRecognition)
 * [Rating Recorded Fitness Activities According to Data Collected by a Smartwatch](https://github.com/ragwantsadrag/raghav-daga-iot/tree/main/Final%20Project)
-* [School Homepage](https://github.com/duanwang261/EE629)
+* [Schools Homepage](https://github.com/duanwang261/EE629)
 * [Smart TV Remote Control](https://github.com/ChenxuWang7/TVRemoteControl)
 * [Stock Market Data Analysis and Prediction Using API](https://github.com/athishsn/iot/blob/main/Course%20project)
 * [Text to Speak](https://github.com/EricWYQ/Text-to-Speak)
