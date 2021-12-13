@@ -8,7 +8,7 @@
 * [IoT Smart Contract](https://github.com/WilliamBaltus/IOT_Smart_Contract)
 * Machine Olfactory
 * [Performace Recorder](https://github.com/Tedchai/EE629-IOT/tree/main/project)
-* Pavement Crack Identification and Quantification System Based on IoT
+* [Concrete Crack Detection and Quantification Based on Internet of Things and Deep Learning](https://github.com/pengweiguo123/IoT)
 * [Raspberry Pi Smart Door With Face Recognition](https://github.com/okisna93/IoT/tree/main/RaspberryPi_SmartDoor_With_FaceRecognition)
 * [Rating Recorded Fitness Activities According to Data Collected by a Smartwatch](https://github.com/ragwantsadrag/raghav-daga-iot/tree/main/Final%20Project)
 * [School Homepage](https://github.com/duanwang261/EE629)
