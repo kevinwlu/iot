@@ -13,7 +13,7 @@
 * [Rating Recorded Fitness Activities According to Data Collected by a Smartwatch](https://github.com/ragwantsadrag/raghav-daga-iot/tree/main/Final%20Project)
 * [Schools Homepage](https://github.com/duanwang261/EE629)
 * [Smart TV Remote Control](https://github.com/ChenxuWang7/TVRemoteControl)
-* [Stock Market Data Analysis and Prediction Using API](https://github.com/athishsn/iot/blob/main/Course%20project)
+* [Stock Market Data Analysis and Prediction Using API](https://github.com/athishsn/iot/)
 * [Text to Speak](https://github.com/EricWYQ/Text-to-Speak)
 * [Webcam-Based Light Sensor System With ThingSpeak Implementation](https://github.com/rhenley26/EE629A/tree/main/Webcam-Based%20Light%20Sensor%20System%20With%20ThingSpeak%20Implementation)
 * [Wireless Network Mapper](https://github.com/bernardtran99/iot-ee-629/tree/main/wireless-network-mapper)
