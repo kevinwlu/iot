@@ -4,6 +4,7 @@
 * [Collecting Stock Current Values and Uploading It to ThingSpeak](https://github.com/naibari/FinalProject)
 * [EZParking](https://github.com/jingyi199858/EZParking)
 * Fruit Detection
+* [GardEx](https://github.com/glimped/IoT/tree/main/Final)
 * HealthyWeb
 * [IoT Smart Contract](https://github.com/WilliamBaltus/IOT_Smart_Contract)
 * Machine Olfactory
