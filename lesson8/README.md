@@ -63,7 +63,7 @@
 
 ## Lab 8A: Examples
 
-### On Ubuntu or Windows with [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install-win10), open an Ubuntu terminal and install Python packages as follows
+### Windows with [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install-win10), open an Ubuntu terminal and install Python packages as follows
 ```sh
 $ sudo pip3 install -U numpy scipy scikit-learn matplotlib pandas tensorflow keras
 ```
