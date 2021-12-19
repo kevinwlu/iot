@@ -44,7 +44,7 @@
 ## Lab 9A: YANG
 * A YANG module can be translated into an alternative XML-based syntax called YIN
 * The translated module is called a YIN module
-### On Windows with [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install-win10), open an Ubuntu terminal and install [pyang](https://github.com/mbj4668/pyang) and PlantUML
+### On Ubuntu or Windows with [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install-win10), open an Ubuntu terminal and install [pyang](https://github.com/mbj4668/pyang) and PlantUML
 ```sh
 $ sudo pip3 install pyang plantuml
 $ mkdir ~/demo
