@@ -31,10 +31,14 @@
   * [Homebrew](https://brew.sh/) may be used to install software on macOS
 * [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) is used to install Python packages on GNU/Linux, macOS , or [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) (WSL)
   * Installing [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) requires Windows 11 or a higher version (or build) of Windows 10
-  * Join the [Windows Insiders Program](https://insider.windows.com/en-us/getting-started) if necessary
+  * Join the [Windows Insiders Program](https://insider.windows.com/en-us/getting-started) if necessary for a higher version (or build) of Windows 10
+```sh
+$ sudo apt update
+$ sudo apt install python3-pip
+```
 * Numbers: int, float, and complex
 ```sh
-$ python
+$ python3
 >>> a=3
 >>> a
 >>> type(a)
