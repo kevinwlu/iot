@@ -38,7 +38,7 @@ C:\Users\...\AppData\Local\Programs\Python\Python...\Scripts
 ```
 * Open Command Promt, PowerShell, Windows Terminal, or WSL2 on Windows, enter python or python3
   * Alternatively, download and open [Git for Windows](https://gitforwindows.org/), enter python -i
-  * To SSH Raspberry Pi, join the [Windows Insiders Program](https://insider.windows.com/en-us/getting-started) and install [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) (WSL)
+  * To SSH Raspberry Pi, join the [Windows Insiders Program](https://insider.windows.com/en-us/getting-started) and install [WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
 * Numbers: int, float, and complex
 ```sh
 $ python
