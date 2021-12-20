@@ -29,14 +29,14 @@
 * [APT](https://en.wikipedia.org/wiki/APT_(software)) is used to install software on GNU/Linux such as Raspberry Pi OS
   * [Chocolatey](https://chocolatey.org/) may be used to install software on Windows
   * [Homebrew](https://brew.sh/) may be used to install software on macOS
-* [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) is used to install Python packages on GNU/Linux, macOS , or Windows
-* If Python has not been installed on Windows, [download](https://www.python.org/downloads/windows/) and install the latest version of Python 3
-* On Windows, edit path in "System Properties > Advanced > Environment Variables" and add 
+* [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) is used to install Python packages on GNU/Linux, macOS , or [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) (WSL)
+  * If Python has not been installed on Windows, [download](https://www.python.org/downloads/windows/) and install the latest version of Python 3
+  * On Windows, edit [path](https://en.wikipedia.org/wiki/Path_(computing)) in "System Properties > Advanced > Environment Variables" and add 
 ```sh  
 C:\Users\...\AppData\Local\Programs\Python\Python... 
 C:\Users\...\AppData\Local\Programs\Python\Python...\Scripts
 ```
-* Open Command Promt or PowerShell on Windows, enter python
+* Open Command Promt, PowerShell, Windows Terminal, or WSL2 on Windows, enter python or python3
   * Alternatively, download and open [Git for Windows](https://gitforwindows.org/), enter python -i
   * To SSH Raspberry Pi, join the [Windows Insiders Program](https://insider.windows.com/en-us/getting-started) and install [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) (WSL)
 * Numbers: int, float, and complex
