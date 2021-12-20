@@ -35,6 +35,7 @@
 ```sh
 $ sudo apt update
 $ sudo apt install python3-pip
+$ pip3 list
 ```
 * Numbers: int, float, and complex
 ```sh
