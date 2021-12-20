@@ -194,7 +194,9 @@ $ sudo chmod +x /lib/systemd/system/rc-local.service
 ### 1. On a laptop, download [VNC Viewer](https://www.realvnc.com/download/viewer)
 
 ### 2. Open a Terminal on macOS/Linux or any of the following [terminal emulators](https://en.wikipedia.org/wiki/Terminal_emulator) on Windows
-* [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) Linux Terminal (Ubuntu by default)
+* [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) (WSL) Linux Terminal (Ubuntu by default)
+  * Installing [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) requires Windows 11 or a higher version (or build) of Windows 10
+  * Join the [Windows Insiders Program](https://insider.windows.com/en-us/getting-started) if necessary
 * [Windows Terminal](https://en.wikipedia.org/wiki/Windows_Terminal)
 * [Git for Windows](https://gitforwindows.org/)
 * [PuTTY](https://en.wikipedia.org/wiki/PuTTY)
