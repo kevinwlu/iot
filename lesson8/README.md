@@ -67,6 +67,7 @@
 ```sh
 $ sudo pip3 install numpy scipy scikit-learn matplotlib pandas tensorflow keras
 ```
+* Matplotlib on WSL requires an X11 server such as VcXsrv or [Xming](https://en.wikipedia.org/wiki/Xming) as documented [here](https://stackoverflow.com/questions/43397162/show-matplotlib-plots-and-other-gui-in-ubuntu-wsl1-wsl2) on Stack Overflow
 * If there isn't a version that satisfies the requirement tensorflow (from versons: none) or no matching distribution found for tensorflow, turn on Developer Mode, join Windows Insider Program, upgrade Windows, install [Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/), download a [TensorFlow Docker image](https://www.tensorflow.org/install/docker), open Windows PowerShell, and run the following commands
 ```sh
 $ docker pull tensorflow/tensorflow
@@ -83,7 +84,7 @@ $ docker run -it tensorflow/tensorflow bash
 ```
 ### On macOS/Linux, open a terminal and install Python packages as follows
 ```sh
-$ sudo pip3 install -U numpy scipy scikit-learn matplotlib pandas tensorflow keras
+$ sudo pip3 install numpy scipy scikit-learn matplotlib pandas tensorflow keras
 ```
 ### On Raspberry Pi, open a terminal and install Python packages as follows
 ```sh
