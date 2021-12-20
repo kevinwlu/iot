@@ -128,7 +128,9 @@ ping localhost
 ### 4. Click OK and click Yes for "Would you like to reboot now?"
 
 ## Lab 1C: Startup Mailer
-* The following steps that require the internet access are necessary only if the IP address of Raspberry Pi is unknown
+* The following steps require the internet access
+* The starup mailer is useful when the IP address of Raspberry Pi is dynamic, e.g., the public or enterprise Wi-Fi network
+* The IP address is usually static, e.g., the personal Wi-Fi network or cellular personal hotspot
 
 ### 1. Enable Google 2-Step Verification and generate a Google App 16-letter password
 
@@ -192,6 +194,7 @@ $ sudo chmod +x /lib/systemd/system/rc-local.service
 ### 1. On a laptop, download [VNC Viewer](https://www.realvnc.com/download/viewer)
 
 ### 2. Open a Terminal on macOS/Linux or any of the following [terminal emulators](https://en.wikipedia.org/wiki/Terminal_emulator) on Windows
+* [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) Linux Terminal (Ubuntu by default)
 * [Windows Terminal](https://en.wikipedia.org/wiki/Windows_Terminal)
 * [Git for Windows](https://gitforwindows.org/)
 * [PuTTY](https://en.wikipedia.org/wiki/PuTTY)
