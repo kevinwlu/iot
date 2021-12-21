@@ -56,9 +56,9 @@
 
 ## Lab 1A: Raspberry Pi and Wi-Fi
 
-* [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) only supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32 GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system
-* Any SD card larger than 32 GB is an SDXC card with the [exFAT](https://en.wikipedia.org/wiki/ExFAT)) file system that needs to be reformatted as FAT32 first
-  * [Formatting an SDXC card](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md)
+* [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32 GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system
+* [Examples of 32 GB microSD cards](https://www.tomshardware.com/best-picks/raspberry-pi-microsd-cards)
+* Any SD card larger than 32 GB is an SDXC card with the [exFAT](https://en.wikipedia.org/wiki/ExFAT) file system that requires [adding support](https://pimylifeup.com/raspberry-pi-exfat/)
 
 ### 1. On a laptop computer, download and open [Raspberry Pi Imager](https://www.raspberrypi.org/software/) 
 
