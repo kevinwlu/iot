@@ -58,7 +58,7 @@
 
 * [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) only supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32 GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system
 * Any SD card larger than 32 GB is an SDXC card with the [exFAT](https://en.wikipedia.org/wiki/ExFAT)) file system that needs to be reformatted as FAT32 first
-  * [Formatting an SXDC card](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md)
+  * [Formatting an SDXC card](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md)
 
 ### 1. On a laptop computer, download and open [Raspberry Pi Imager](https://www.raspberrypi.org/software/) 
 
