@@ -101,7 +101,7 @@ $ sudo pip3 install -U keras==2.3.1
 ```
 ### Enable [X11](https://en.wikipedia.org/wiki/X_Window_System) forwarding with [SSH -Y](http://man.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/ssh.1#Y) on a computer to run code on Raspberry Pi without VNC Viewer
 
-#### For Windows, download and install [Xming](https://sourceforge.net/projects/xming/), and open Git Bash
+#### For Windows, download and install [VcXsrv](https://sourceforge.net/projects/vcxsrv/) or [Xming](https://sourceforge.net/projects/xming/), and open Git Bash
 ```sh
 $ export DISPLAY=localhost:0
 $ ssh -Y pi@xxx.xxx.xxx.xxx
@@ -113,6 +113,19 @@ $ ssh -Y pi@xxx.xxx.xxx.xxx
 #### For Linux (most distributions have the X server installed), open a terminal
 ```sh
 $ ssh -Y pi@xxx.xxx.xxx.xxx
+```
+### [X applications](https://packages.debian.org/stretch/x11-apps)
+```sh
+$ sudo apt update
+$ sudo apt install x11-apps
+$ ico
+$ oclock
+$ xcalc
+$ xclock
+$ xeyes
+$ xgc
+$ xlogo
+$ xman
 ```
 ### Numpy array
 ```sh
