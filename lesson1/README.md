@@ -128,7 +128,7 @@ ping localhost
 
 ### 3. Raspberry Pi Configuration > Interfaces
 
-* Enable Camera to use J3 Camera Serial Interface (CSI) if applicable
+* Camera > Enable to use J3 Camera Serial Interface (CSI) if applicable
 * SSH (defaut: Disable) > Enable
 * VNC (defaut: Disable) > Enable
 * SPI (defaut: Disable) > Enable
