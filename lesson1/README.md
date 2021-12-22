@@ -83,13 +83,14 @@
 
 ### 3. Set up Raspberry Pi OS
 
-* Set country, language, and timezone
-* Select "Use English language" and "Use US keyboard" if applicable
-* Change password (default: raspberry)
-* Select if "this screen shows a black border around the desktop"
-* Select wireless network and enter wireless network password
-* Check and update software if necessary (this may involve a large download)
-* Click "Restart" to reboot
+* Welcome to Raspberry Pi > Next 
+* Set country, language, and timezone and select "Use English language" and "Use US keyboard" if applicable > Next
+* Change password (default: raspberry) > Next
+* Set up screen: click the box if "the taskbar does not fit onto the screen" > Next
+* Select Wi-Fi network > Next
+* Enter Wi-Fi password > Next
+* Update software > Next > System is up to date > OK
+* Setup complete > Restart
 
 ### 4. Find a [MAC address](https://en.wikipedia.org/wiki/MAC_address) of the [media access control](https://en.wikipedia.org/wiki/Medium_access_control) with an [oranizationally unique identifier](https://en.wikipedia.org/wiki/Organizationally_unique_identifier) (OUI), and an [IP address](https://en.wikipedia.org/wiki/IP_address) of the [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol)
 
