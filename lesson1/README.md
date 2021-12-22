@@ -67,9 +67,9 @@
 
 * Insert an SD card to the laptop computer
 * Click "CHOOSE OS" and select "Raspberry Pi OS (32-bit)" or "Erase (Format card as FAT32)"
-* Click "CHOOSE SD CARD" and select the SD card
-* Click "WRITE"
-* Eject the SD card properly
+* Click "CHOOSE STORAGE" and select the SD card
+* Click "WRITE" and "YES"
+* Upon "Write Successful," click "CONTINUE," and eject the SD card properly
 
 ### 2. Boot up a Raspberry Pi with the SD card for the first time
 
