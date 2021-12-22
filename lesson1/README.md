@@ -54,7 +54,7 @@
   * [EdDSA](https://en.wikipedia.org/wiki/EdDSA) (Edwards-curve Digital Signature Algorithm) such as Ed25519
 * [VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing)
 
-## Lab 1A: Raspberry Pi and Wi-Fi
+## Lab 1A: Raspberry Pi Setup
 
 * [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) supports [SDHC](https://en.wikipedia.org/wiki/SD_card) (High Capacity up to 32 GB) cards with the FAT ([File Allocation Table](https://en.wikipedia.org/wiki/File_Allocation_Table)) file system
 * [Examples of 32 GB microSD cards](https://www.tomshardware.com/best-picks/raspberry-pi-microsd-cards)
@@ -108,26 +108,51 @@ ipconfig /all
 ping localhost
 ```
 
-## Lab 1B: Configuration
+## Lab 1B: Raspberry Pi Configuration
 
 ### 1. Click the Raspberry Pi icon at the left of the menu bar to open applications menu > Preferences > Raspberry Pi Configuration > System
 
 * Change Hostname (default: raspberrypi)
-* Disable "Auto login" 
-* Enable "Network at Boot" to "Wait for network"
-* Enable "[Splash Screen](https://en.wikipedia.org/wiki/Splash_screen)" (default)
+* Boot > To Desktop
+* Auto login (default: login as user 'pi') > Disabled (otherwise anyone can power up and auto login)
+* Network at Boot > Wait for network (to run startup_mailier.py)
+* [Splash Screen](https://en.wikipedia.org/wiki/Splash_screen) (default: Enable)
+* Power LED (default: Activity)
 
 ### 2. Raspberry Pi Configuration > Display
 
-* Disable "[Overscan](https://en.wikipedia.org/wiki/Overscan)" if the screen shows a black border around the desktop
-* Disable "Pixel Doubling" (default)
-* Enable "Screen Blanking" (default)
+* [Overscan](https://en.wikipedia.org/wiki/Overscan) (default: Disable) > Enable if the screen shows a black border around the desktop
+* Pixel Doubling (default: Disable)
+* Screen Blanking (default: Enable)
+* Headless Resolution: 640x480, 720x480, 800x600, 1024x768, 1280x720, 1280x1024, 1600x1200, 1920x1080
 
 ### 3. Raspberry Pi Configuration > Interfaces
 
-* Enable Camera to use J3 Camera Serial Interface (CSI) 
-* Enable SSH, VNC, SPI, I2C, Serial Port, 1-Wire, and Remote GPIO
-* Disable Serial Console
+* Enable Camera to use J3 Camera Serial Interface (CSI) if applicable
+* SSH (defaut: Disable) > Enable
+* VNC (defaut: Disable) > Enable
+* SPI (defaut: Disable) > Enable
+* I2C (defaut: Disable) > Enable
+* Serial Port (defaut: Disable) > Enable
+* Serial Console (default: Enable) > Disable
+* 1-Wire (defaut: Disable) > Enable
+* Remote GPIO (defaut: Disable) > Enable
+* Would you like to reboot now > Yes
+
+### 4. Raspberry Pi Configuration > Performance
+
+* GPU Memory (default: 64)
+* Overlay File System (default: Overlay > Disabled, Boot Partition > Read-write)
+* Fan (dafault: Diable)
+* Fan GPIO (default: 14)
+* Fan Temperature (default: 80)
+
+### 5. Raspberry Pi Configuration > Localization
+
+* Locale > Language, Country, Character Set > OK
+* Timezone > Area, Location > OK
+* Keyboard > Model, Layout, Variant > OK
+* Wi-Fi Country > Country > OK
 
 ### 4. Click OK and click Yes for "Would you like to reboot now?"
 
