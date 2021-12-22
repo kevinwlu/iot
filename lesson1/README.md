@@ -137,7 +137,6 @@ ping localhost
 * Serial Console (default: Enable) > Disable
 * 1-Wire (defaut: Disable) > Enable
 * Remote GPIO (defaut: Disable) > Enable
-* Would you like to reboot now > Yes
 
 ### 4. Raspberry Pi Configuration > Performance
 
@@ -154,7 +153,12 @@ ping localhost
 * Keyboard > Model, Layout, Variant > OK
 * Wi-Fi Country > Country > OK
 
-### 4. Click OK and click Yes for "Would you like to reboot now?"
+### 6. Click OK and click Yes for "Would you like to reboot now?"
+
+### 7. Raspberry Pi requires proper shutdown
+
+* Raspberry Pi applications menu > Logout > Shutdown options: Shutdown, Reboot, Logout > Shutdown
+* After the Raspberry Pi green LED blinks ten times, it's safe to pull the power
 
 ## Lab 1C: Startup Mailer
 * The following steps require the internet access
@@ -244,6 +248,7 @@ $ sudo shutdown -h now
 ```
 ### 7. After the Raspberry Pi green LED blinks ten times, it's safe to pull the power
 * The Raspberry Pi 4 uses the onboard [EEPROM](https://en.wikipedia.org/wiki/EEPROM) instead of bootcode.bin in the [boot folder](https://www.raspberrypi.org/documentation/configuration/boot_folder.md)
+
 ## Alternative 1: VNC Connect
 
 * VNC Connect is included with Raspberry Pi OS for non-commercial use
