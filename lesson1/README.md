@@ -162,8 +162,8 @@ ping localhost
 
 ## Lab 1C: Startup Mailer
 * The following steps require the internet access
-* The starup mailer is useful when the IP address of Raspberry Pi is dynamic, e.g., the public or enterprise Wi-Fi network
-* The IP address is usually static, e.g., the personal Wi-Fi network or cellular personal hotspot
+* The starup mailer is useful when the IP address of Raspberry Pi is dynamic on the public or enterprise Wi-Fi network
+* The IP address is usually static on the personal Wi-Fi network or cellular personal hotspot
 
 ### 1. Enable Google 2-Step Verification and generate a Google App 16-letter password
 
