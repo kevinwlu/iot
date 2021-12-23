@@ -140,7 +140,7 @@ ping localhost
 
 ### 4. Raspberry Pi Configuration > Performance
 
-* GPU Memory (default: 64)
+* [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) Memory (default: 64)
 * Overlay File System (default: Overlay > Disabled, Boot Partition > Read-write)
 * Fan (dafault: Diable)
 * Fan GPIO (default: 14)
