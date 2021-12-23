@@ -129,14 +129,14 @@ ping localhost
 ### 3. Raspberry Pi Configuration > Interfaces
 
 * Camera > Enable to use J3 Camera Serial Interface (CSI) if applicable
-* SSH (defaut: Disable) > Enable
-* VNC (defaut: Disable) > Enable
-* SPI (defaut: Disable) > Enable
-* I2C (defaut: Disable) > Enable
-* Serial Port (defaut: Disable) > Enable
+* [SSH](https://en.wikipedia.org/wiki/Secure_Shell) (defaut: Disable) > Enable
+* [VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing) (defaut: Disable) > Enable
+* [SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (defaut: Disable) > Enable
+* [I2C](https://en.wikipedia.org/wiki/I%C2%B2C) (defaut: Disable) > Enable
+* [Serial](https://en.wikipedia.org/wiki/Serial_communication) Port (defaut: Disable) > Enable
 * Serial Console (default: Enable) > Disable
-* 1-Wire (defaut: Disable) > Enable
-* Remote GPIO (defaut: Disable) > Enable
+* [1-Wire](https://en.wikipedia.org/wiki/1-Wire) (defaut: Disable) > Enable
+* Remote [GPIO](https://en.wikipedia.org/wiki/General-purpose_input/output) (defaut: Disable) > Enable
 
 ### 4. Raspberry Pi Configuration > Performance
 
