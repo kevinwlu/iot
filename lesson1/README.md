@@ -159,6 +159,7 @@ ping localhost
 
 * Raspberry Pi applications menu > Logout > Shutdown options: Shutdown, Reboot, Logout > Shutdown
 * After the Raspberry Pi green LED blinks ten times, it's safe to unplug the power
+* WARNING: Unplugging the power without proper shutdown may [corrupt](https://en.wikipedia.org/wiki/Data_corruption) the SD card
 
 ## Lab 1C: Startup Mailer
 * The following steps require the internet access
