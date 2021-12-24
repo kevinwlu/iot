@@ -128,7 +128,7 @@ ping localhost
 
 ### 3. Raspberry Pi Configuration > Interfaces
 
-* Camera > Enable to use J3 [Camera Serial Interface](https://en.wikipedia.org/wiki/Camera_Serial_Interface) (CSI) if applicable
+* Camera > Enable J3 [Camera Serial Interface](https://en.wikipedia.org/wiki/Camera_Serial_Interface) (CSI) to use a [Raspberry Pi Camera Module](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
   * In contrast, J4 [Display Serial Interface](https://en.wikipedia.org/wiki/Display_Serial_Interface) is [plug and play](https://en.wikipedia.org/wiki/Plug_and_play)
 * [SSH](https://en.wikipedia.org/wiki/Secure_Shell) (defaut: Disable) > Enable
 * [VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing) (defaut: Disable) > Enable
