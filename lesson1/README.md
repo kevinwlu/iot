@@ -85,7 +85,7 @@
 
 * Welcome to Raspberry Pi > Next 
 * Set country, language, and timezone and select "Use English language" and "Use US keyboard" if applicable > Next
-* Change password (default: raspberry) > Next
+* Change [password](https://en.wikipedia.org/wiki/Password) (default: raspberry) > Next
 * Set up screen: click the box if "the taskbar does not fit onto the screen" > Next
 * Select Wi-Fi network > Next
 * Enter Wi-Fi password > Next
@@ -112,9 +112,9 @@ ping localhost
 
 ### 1. Click the Raspberry Pi icon at the left of the menu bar to open applications menu > Preferences > Raspberry Pi Configuration > System
 
-* Change Hostname (default: raspberrypi)
-* Boot (default: To Desktop)
-* Auto login (default: login as user 'pi') > Disabled (otherwise anyone can power up and auto login)
+* Change [Hostname](https://en.wikipedia.org/wiki/Hostname) (default: raspberrypi)
+* [Boot](https://en.wikipedia.org/wiki/Booting) (default: To Desktop)
+* Auto [login](https://en.wikipedia.org/wiki/Login) (default: login as user 'pi') > Disabled (otherwise anyone can power up and auto login)
 * Network at Boot (default: Do not wait) > Wait for network (to run startup_mailier.py)
 * [Splash Screen](https://en.wikipedia.org/wiki/Splash_screen) (default: Enable)
 * Power LED (default: Activity)
