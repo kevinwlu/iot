@@ -113,9 +113,9 @@ ping localhost
 ### 1. Click the Raspberry Pi icon at the left of the menu bar to open applications menu > Preferences > Raspberry Pi Configuration > System
 
 * Change Hostname (default: raspberrypi)
-* Boot > To Desktop
+* Boot (default: To Desktop)
 * Auto login (default: login as user 'pi') > Disabled (otherwise anyone can power up and auto login)
-* Network at Boot > Wait for network (to run startup_mailier.py)
+* Network at Boot (default: Do not wait) > Wait for network (to run startup_mailier.py)
 * [Splash Screen](https://en.wikipedia.org/wiki/Splash_screen) (default: Enable)
 * Power LED (default: Activity)
 
