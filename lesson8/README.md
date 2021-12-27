@@ -86,7 +86,8 @@ $ docker run -it tensorflow/tensorflow bash
 ```sh
 $ sudo pip3 install numpy scipy scikit-learn matplotlib pandas tensorflow keras
 ```
-### On Raspberry Pi, open a terminal and install Python packages as follows
+### On Raspberry Pi with Debian 10, open a terminal and install Python packages as follows
+* [Installing TensorFlow on Debian 11](https://blog.d-and-j.net/deep-learning/2021/03/24/tensorflow-debian-11.html)
 ```sh
 $ sudo apt update
 $ sudo apt install python3-scipy
