@@ -144,7 +144,7 @@ ping localhost
 * [SPI](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (defaut: Disable) > Enable
 * [I2C](https://en.wikipedia.org/wiki/I%C2%B2C) (defaut: Disable) > Enable
 * [Serial](https://en.wikipedia.org/wiki/Serial_communication) Port (defaut: Disable) > Enable
-* Serial Console (default: Enable) > Disable
+* Serial Console (default: Enable to use a [console cable](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable)) > Disable
 * [1-Wire](https://en.wikipedia.org/wiki/1-Wire) (defaut: Disable) > Enable
 * Remote [GPIO](https://en.wikipedia.org/wiki/General-purpose_input/output) (defaut: Disable) > Enable
 
