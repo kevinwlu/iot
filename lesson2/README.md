@@ -52,10 +52,9 @@ $ sudo reboot
 
 ### 2. Serial [loopback](https://en.wikipedia.org/wiki/Loopback) test
 
-* Connect two serial pins (the 4th and 5th pins from the left of the top row) using one [jump wires](https://en.wikipedia.org/wiki/Jump_wire)
-
 ![serial.png](https://github.com/kevinwlu/iot/blob/master/lesson2/serial.png)
 
+* Connect two serial pins (the 4th and 5th pins from the left of the top row) using one [jump wires](https://en.wikipedia.org/wiki/Jump_wire)
 * Run [APT](https://en.wikipedia.org/wiki/APT_(software)) to install [Minicom](https://en.wikipedia.org/wiki/Minicom)
 ```sh
 $ sudo apt update
@@ -98,10 +97,9 @@ control-a x
 
 ## Lab 2B: Serial peripheral interface (SPI)
 
-* Connect the SPI MOSI and MISO pins (the 10th and 11th pins from the left of the bottom row) using one jump wire
-
 ![spi.png](https://github.com/kevinwlu/iot/blob/master/lesson2/spi.png)
 
+* Connect the SPI MOSI and MISO pins (the 10th and 11th pins from the left of the bottom row) using one jump wire
 * Enter the following commands on a Terminal for [spidev-test](https://github.com/torvalds/linux/blob/master/tools/spi/spidev_test.c)
 * An alternative [spidev-test](https://github.com/rm-hull/spidev-test)
 ```sh
@@ -119,6 +117,21 @@ FF FF FF FF FF FF
 FF FF FF FF FF FF 
 DE AD BE EF BA AD 
 F0 0D 
+```
+* Remove the jump wire and run spidev_test again
+```sh
+$ ./spidev_test -D /dev/spidev0.0
+spi mode: 4
+bits per word: 8
+max speed: 500000 Hz (500 KHz)
+
+00 00 00 00 00 00 
+00 00 00 00 00 00 
+00 00 00 00 00 00 
+00 00 00 00 00 00 
+00 00 00 00 00 00 
+00 00 00 00 00 00 
+00 00 
 ```
 
 ## Lab 2C: Breadboard
