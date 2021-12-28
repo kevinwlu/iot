@@ -1,14 +1,14 @@
 # Lesson 2: Raspberry Pi
 * [Microprocessor](https://en.wikipedia.org/wiki/Microprocessor)
+  * [ARM architecture](https://en.wikipedia.org/wiki/ARM_architecture)
+  * [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) (Reduced instruction set computer)
 * [Microcomputer](https://en.wikipedia.org/wiki/Microcomputer)
   * [Raspberry](https://en.wikipedia.org/wiki/Raspberry) fruit
   * [Raspberry](https://www.merriam-webster.com/dictionary/raspberry) tart
-  * [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
+* [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
   * [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
   * [Raspberry Pi GitHub repository](https://github.com/raspberrypi)
-* [ARM architecture](https://en.wikipedia.org/wiki/ARM_architecture)
-* [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) (Reduced instruction set computer)
-* [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
+  * [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
 * [GNU](https://en.wikipedia.org/wiki/GNU)
   * [GNU nano](https://en.wikipedia.org/wiki/GNU_nano) text editor
 * [Linux](https://en.wikipedia.org/wiki/Linux)
