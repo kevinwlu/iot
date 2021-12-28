@@ -1,8 +1,8 @@
 # Lesson 2: Raspberry Pi
 * [Microprocessor](https://en.wikipedia.org/wiki/Microprocessor)
 * [Microcomputer](https://en.wikipedia.org/wiki/Microcomputer)
-  * [Raspberry](https://www.merriam-webster.com/dictionary/raspberry)
   * [Raspberry](https://en.wikipedia.org/wiki/Raspberry) fruit
+  * [Raspberry](https://www.merriam-webster.com/dictionary/raspberry) tart
   * [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
   * [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
   * [Raspberry Pi GitHub repository](https://github.com/raspberrypi)
