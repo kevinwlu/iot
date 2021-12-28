@@ -146,6 +146,7 @@ ping localhost
 * [I2C](https://en.wikipedia.org/wiki/I%C2%B2C) (defaut: Disable) > Enable
 * [Serial](https://en.wikipedia.org/wiki/Serial_communication) Port (defaut: Disable) > Enable
 * [Serial Console](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable) (default: Enable) > Disable
+  * 2018-06-27: Serial port and serial console can now be switched separately in Raspberry Pi Configuration
 * [1-Wire](https://en.wikipedia.org/wiki/1-Wire) (defaut: Disable) > Enable
 * Remote [GPIO](https://en.wikipedia.org/wiki/General-purpose_input/output) (defaut: Disable) > Enable
 
