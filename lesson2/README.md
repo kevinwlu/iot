@@ -3,9 +3,9 @@
   * [ARM architecture](https://en.wikipedia.org/wiki/ARM_architecture)
   * [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) (Reduced instruction set computer)
 * [Microcomputer](https://en.wikipedia.org/wiki/Microcomputer)
+* [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
   * [Raspberry](https://en.wikipedia.org/wiki/Raspberry) fruit
   * [Raspberry](https://www.merriam-webster.com/dictionary/raspberry) tart
-* [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
   * [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
   * [Raspberry Pi GitHub repository](https://github.com/raspberrypi)
   * [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
