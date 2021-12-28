@@ -102,7 +102,8 @@ control-a x
 
 ![spi.png](https://github.com/kevinwlu/iot/blob/master/lesson2/spi.png)
 
-* Enter the following three commands on a Terminal for [spidev-test](https://github.com/rm-hull/spidev-test):
+* Enter the following commands on a Terminal for [spidev-test](https://github.com/torvalds/linux/blob/master/tools/spi/spidev_test.c)
+* An alternative [spidev-test](https://github.com/rm-hull/spidev-test)
 ```sh
 $ wget https://raw.githubusercontent.com/raspberrypi/linux/rpi-3.10.y/Documentation/spi/spidev_test.c
 $ gcc -o spidev_test spidev_test.c
