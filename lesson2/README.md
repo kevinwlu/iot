@@ -173,7 +173,7 @@ root@raspberypi:/home/pi# exit
 ## Lab 2E: Inter-integrated circuit (I2C)
 
 * Test I2C addresses with the preinstalled [i2c-tools](https://i2c.wiki.kernel.org/index.php/I2C_Tools)
-* Connect I2C device ADXL345 (3-axis accelerometer) to 3V3, GND, SDA, and SCL of a Raspberry Pi with two 4.7k&Omega; pull-up resistors
+* Connect I2C device [ADXL345](https://learn.adafruit.com/adxl345-digital-accelerometer) (3-axis accelerometer) to 3V3, GND, SDA, and SCL of a Raspberry Pi with two 4.7k&Omega; pull-up resistors
 
 ![adxl345_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/adxl345_bb.png)
 
