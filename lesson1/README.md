@@ -1,6 +1,6 @@
 # Lesson 1: Overview
 
-> [Kevin Ashton](https://en.wikipedia.org/wiki/Kevin_Ashton), *[How to Fly a Horse](https://en.wikipedia.org/wiki/How_to_Fly_a_Horse): The Secret History of Creation, Invention, and Discovery.* It's about the way innovation really happens, which is less by magic and genius than by a lot of small steps and bits of luck.
+> [Kevin Ashton](https://en.wikipedia.org/wiki/Kevin_Ashton), *[How to Fly a Horse](https://en.wikipedia.org/wiki/How_to_Fly_a_Horse): The Secret History of Creation, Invention, and Discovery.* It's about [the way innovation really happens](https://www.newsweek.com/2015/03/06/meet-kevin-ashton-father-internet-things-308763.html), which is less by magic and genius than by a lot of small steps and bits of luck.
 
 ![architecture.png](https://github.com/kevinwlu/iot/blob/master/lesson1/architecture.png)
 
