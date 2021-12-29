@@ -1,7 +1,7 @@
 # Lesson 3: Python
 
 * [Why is it called Python](https://docs.python.org/3/faq/general.html)?
-> When he began implementing [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) was also reading the published scripts from “*[Monty Python’s Flying Circus](https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus)*,” a BBC [comedy](https://en.wikipedia.org/wiki/Sketch_comedy) series from the 1970s. Van Rossum thought he needed a name that was short, unique, and slightly mysterious, so he decided to call the language Python.
+> When he began implementing [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) was also reading the published scripts from “*[Monty Python’s Flying Circus](https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus)*,” a BBC [(sketch) comedy](https://en.wikipedia.org/wiki/Sketch_comedy) series from the 1970s. Van Rossum thought he needed a name that was short, unique, and slightly mysterious, so he decided to call the language Python.
 
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
   * [Monty Python](https://en.wikipedia.org/wiki/Monty_Python)
