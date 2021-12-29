@@ -173,7 +173,7 @@ root@raspberypi:/home/pi# exit
 ## Lab 2E: Inter-integrated circuit (I2C)
 
 * Test I2C addresses with the preinstalled [i2c-tools](https://i2c.wiki.kernel.org/index.php/I2C_Tools)
-* Connect I2C device [ADXL345](https://learn.adafruit.com/adxl345-digital-accelerometer) (3-axis accelerometer) to 3V3, GND, SDA, and SCL of a Raspberry Pi with two 4.7k&Omega; pull-up resistors
+* Connect an I2C device [ADXL345](https://learn.adafruit.com/adxl345-digital-accelerometer) (3-axis accelerometer) to 3V3, GND, SDA, and SCL of a Raspberry Pi with two 4.7k&Omega; pull-up resistors
 
 ![adxl345_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/adxl345_bb.png)
 
@@ -189,7 +189,7 @@ $ sudo i2cdetect -y 1
 60: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
 70: -- -- -- -- -- -- -- -- 
 ```
-* Connect I2C device BMP180 or [BMP280](https://learn.adafruit.com/adafruit-bmp280-barometric-pressure-plus-temperature-sensor-breakout) (barometric pressure sensor) to 3V3, GND, SDA, and SCL of a Raspberry Pi
+* Connect an I2C device BMP180 or [BMP280](https://learn.adafruit.com/adafruit-bmp280-barometric-pressure-plus-temperature-sensor-breakout) (barometric pressure sensor) to 3V3, GND, SDA, and SCL of a Raspberry Pi
 
 ![bmp180_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/bmp180_bb.png)
 
@@ -208,7 +208,7 @@ $ sudo i2cdetect -y 1
 
 ## Lab 2F: 1-Wire
 
-### Connect DS18B20 to Raspberry Pi as follows:
+### Connect a [DS18B20](https://www.adafruit.com/product/374) temperature sensor to Raspberry Pi as follows:
 
 * GND to GND
 * VDD to 3.3V or 5V
