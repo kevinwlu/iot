@@ -5,8 +5,7 @@
 * [Microcomputer](https://en.wikipedia.org/wiki/Microcomputer)
 * [Single-board computer](https://en.wikipedia.org/wiki/Single-board_computer)
 * [Where does the name Raspberry Pi come from?](https://www.techspot.com/article/531-eben-upton-interview/)
-> Raspberry is a reference to a fruit naming tradition in the old days of microcomputers. A lot of computer companies were named after fruit. There's Tangerine Computer Systems, Apricot Computers, and the old British company Acorn, which is a family of fruit.
-> Pi is because originally we were going to produce a computer that could only really run Python. So the Pi in there is for Python. Now you can run Python on the Raspberry Pi but the design we ended up going with is much more capable than the original we thought of, so it's kind of outlived its name a little bit.
+> [Eben Upton](https://en.wikipedia.org/wiki/Eben_Upton): Raspberry is a reference to a fruit naming tradition in the old days of microcomputers. A lot of computer companies were named after fruit. There's Tangerine Computer Systems, Apricot Computers, and the old British company Acorn, which is a family of fruit. Pi is because originally we were going to produce a computer that could only really run Python. So the Pi in there is for Python. Now you can run Python on the Raspberry Pi but the design we ended up going with is much more capable than the original we thought of, so it's kind of outlived its name a little bit.
 * [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
   * [Raspberry](https://en.wikipedia.org/wiki/Raspberry) fruit
   * [Raspberry](https://www.merriam-webster.com/dictionary/raspberry) tart
