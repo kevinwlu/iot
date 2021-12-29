@@ -232,7 +232,7 @@ pi@raspberrypi:~ $
 
 ## Lab 2G: USB Webcam
 
-### Connect a USB webcam to Raspberry Pi, install fswebcam, and save images:
+### Connect a USB webcam to Raspberry Pi, install [fswebcam](https://github.com/fsphil/fswebcam), and save images:
 ```sh
 $ sudo apt update
 $ sudo apt install fswebcam
