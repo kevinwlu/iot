@@ -166,7 +166,7 @@ MariaDB [mysql]> quit
 ```sh
 $ sudo service apache2 restart
 ```
-### Open a Chromium browser and go to http://127.0.0.1 to configure Wordpress
+### Open a Chromium browser and go to http://127.0.0.1 to configure WordPress
 ```sh
 $ nano wp-config.php
 ```
