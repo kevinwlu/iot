@@ -210,7 +210,7 @@ $ sudo i2cdetect -y 1
 
 ### Connect a [DS18B20](https://www.adafruit.com/product/374) temperature sensor to Raspberry Pi as follows:
 
-[IC power-supply pin](https://en.wikipedia.org/wiki/IC_power-supply_pin)
+[IC power-supply pin](https://en.wikipedia.org/wiki/IC_power-supply_pin) of [BJT](https://en.wikipedia.org/wiki/Bipolar_junction_transistor) (bipolar junction transistor) and [FET](https://en.wikipedia.org/wiki/Field-effect_transistor) (field-effect transistor)
 * GND to GND
 * VDD to 3.3V or 5V
 * DQ to GPIO 4 (the 4th pin from the left of the bottom row) and through a 4.7k&Omega; resistor to VDD
