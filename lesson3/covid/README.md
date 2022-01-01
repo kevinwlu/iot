@@ -1,5 +1,6 @@
 # Mathematical Modeling of Infectious Disease
 
+* [COVID-19](https://en.wikipedia.org/wiki/COVID-19)
 * [Mathematical models](https://en.wikipedia.org/wiki/Mathematical_modelling_of_infectious_disease) can project how infectious diseases progress to show the likely outcome of an [epidemic](https://en.wikipedia.org/wiki/Epidemic) and help inform public health interventions
 * Models use some basic assumptions and mathematics to find parameters for various infectious diseases and use those parameters to calculate the effects of different interventions such as mass [vaccination](https://en.wikipedia.org/wiki/Vaccination) programs
 * Trained as a physician, [Daniel Bernoulli](https://en.wikipedia.org/wiki/Daniel_Bernoulli) 1700—1782 created a mathematical model to defend the practice of inoculating against smallpox in 1766
