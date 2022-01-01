@@ -20,6 +20,7 @@
   * [Zigbee](https://en.wikipedia.org/wiki/Zigbee)
   * [6LoWPAN](https://en.wikipedia.org/wiki/6LoWPAN) (IPv6 over Low-Power Wireless Personal Area Network)
 * [Near-field communication](https://en.wikipedia.org/wiki/Near-field_communication) (NFC)
+* [Cobot](https://en.wikipedia.org/wiki/Cobot)
 * [Human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
   * [OpenBCI](https://en.wikipedia.org/wiki/OpenBCI)
 * [BRAIN Initiative](https://en.wikipedia.org/wiki/BRAIN_Initiative) (Brain Research Through Advancing Innovative Neurotechnologies)
