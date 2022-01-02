@@ -1,5 +1,7 @@
 # Drango REST Project "MyRasPi"
 
+* This project requires a Raspberry Pi and system_info.py from Lesson 3
+
 ## Start a Django project
 ```sh
 pi@raspberrypi:~ $ django-admin startproject myraspi
@@ -14,8 +16,8 @@ pi@raspberrypi:~/myraspi $ ls
 manage.py  myapp  myraspi
 ```
 ## Create MySQL database
+* Alternatively, use the default SQLite database
 * Skip the step to create user pi@localhost if it has been created
-* On Windows or macOS without MariaDB, use the default SQLite database
 ```sh
 pi@raspberrypi:~ $ sudo mysql -u root -p
 Enter password: PASSWORD
