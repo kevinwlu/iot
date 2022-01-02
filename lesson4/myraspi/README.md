@@ -87,7 +87,6 @@ pi@raspberrypi:~/myraspi $ nano controller.py
 $ sudo pip3 install -U psutil
 ```
 ## After the first time, skip these three steps if no changes
-* From Git Bash on Windows, if "python manage.py createsuperuser" leads to "Superuser creation skipped due to not running in a TTY," enter "winpty python manage.py createsuperuser"
 ```sh
 pi@raspberrypi:~/myraspi $ python3 manage.py makemigrations myapp
 pi@raspberrypi:~/myraspi $ python3 manage.py migrate
