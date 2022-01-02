@@ -73,7 +73,7 @@ pi@raspberrypi:~/myraspi/myapp/static/myapp $ cd ~/myraspi
 ```
 ## Copy system_info.py and controller.py to ~/myraspi
 * system_info.py only runs on Raspberry Pi
-* On Windows or macOS, replace CPU temperature with other [psutil](https://pypi.org/project/psutil/) information
+* Alternatively, replace CPU temperature with other [psutil](https://pypi.org/project/psutil/) information
 ```sh
 pi@raspberrypi:~/myraspi $ cp ~/iot/lesson3/system_info.py .
 pi@raspberrypi:~/myraspi $ cp ~/iot/lesson4/myraspi/controller.py .
