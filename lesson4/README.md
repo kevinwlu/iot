@@ -17,6 +17,7 @@
   * [CockroachDB](https://en.wikipedia.org/wiki/CockroachDB)
   * [Build a Python app with CockroachDB and Django](https://www.cockroachlabs.com/docs/stable/build-a-python-app-with-cockroachdb-django.html)
 * [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
+* [Bottle](https://en.wikipedia.org/wiki/Bottle_(web_framework))
 * [ngrok](https://ngrok.com/)
   * [Repository](https://github.com/inconshreveable/ngrok)
   * [Grok](https://en.wikipedia.org/wiki/Grok)
