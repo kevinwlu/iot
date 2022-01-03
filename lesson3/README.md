@@ -30,7 +30,9 @@
 * [PyPy](https://en.wikipedia.org/wiki/PyPy)
 * [MicroPython](https://en.wikipedia.org/wiki/MicroPython)
 * [CircuitPython](https://en.wikipedia.org/wiki/CircuitPython)
-* [Doxygen](https://en.wikipedia.org/wiki/Doxygen)
+* [Comparison of documentation generators](https://en.wikipedia.org/wiki/Comparison_of_documentation_generators)
+  * [Doxygen](https://en.wikipedia.org/wiki/Doxygen)
+  * [Sphinx](https://en.wikipedia.org/wiki/Sphinx_(documentation_generator))
 
 ## Lab 3A: Python
 
