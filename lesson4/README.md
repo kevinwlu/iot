@@ -1,6 +1,6 @@
 # Lesson 4: Django and Flask
 
-> [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) is named after [Django Reinhardt](https://en.wikipedia.org/wiki/Django_Reinhardt), a jazz manouche guitarist from the 1930s to early 1950s. To this day, he’s considered one of the best guitarists of all time.
+> [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) was named after [Django Reinhardt](https://en.wikipedia.org/wiki/Django_Reinhardt), a jazz manouche guitarist from the 1930s to early 1950s. To this day, he’s considered one of the best guitarists of all time.
 
 > Django is pronounced JANG-oh. The “D” is silent.
 
