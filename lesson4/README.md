@@ -1,8 +1,10 @@
 # Lesson 4: Django and Flask
 
-* [Django](https://en.wikipedia.org/wiki/Django_(web_framework))
-  * [Django Reinhardt](https://en.wikipedia.org/wiki/Django_Reinhardt)
-  * [Django Software Foundation](https://en.wikipedia.org/wiki/Django_Software_Foundation)
+> [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) is named after [Django Reinhardt](https://en.wikipedia.org/wiki/Django_Reinhardt), a jazz manouche guitarist from the 1930s to early 1950s. To this day, he’s considered one of the best guitarists of all time.
+
+> Django is pronounced JANG-oh. The “D” is silent.
+
+* [Django Software Foundation](https://en.wikipedia.org/wiki/Django_Software_Foundation)
   * [Django's Structure - A Heretic’s Eye View](https://djangobook.com/mdj2-django-structure/) by [The Django Book](https://djangobook.com/)
 * [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer) (REST)
   * [Django REST framework](https://www.django-rest-framework.org/)
