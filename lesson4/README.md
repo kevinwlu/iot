@@ -42,7 +42,7 @@
 
 ## Labs 4A and 4B: Django and Django REST
 
-### Install Django and Django REST framework on Raspberry Pi
+### 1. Install Django and Django REST framework on Raspberry Pi
 ```sh
 $ pip3 -V
 $ pip3 list
@@ -53,7 +53,7 @@ $ sudo pip3 install -U django-filter
 $ sudo pip3 install -U markdown
 $ sudo pip3 install -U requests
 ```
-### Install MariaDB server and client on Raspberry Pi
+### 2. Install MariaDB server and client on Raspberry Pi
 ### By default, Django uses [SQLite](https://en.wikipedia.org/wiki/SQLite)
 ```sh
 $ sudo apt update
@@ -70,14 +70,14 @@ Disallow root login remotely? [Y/n]
 Remove test database and access to it? [Y/n] 
 Reload privilege tables now? [Y/n] 
 ```
-### Start Django project [stevens](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens)
-### Start Django REST project [mycpu](https://github.com/kevinwlu/iot/tree/master/lesson4/mycpu)
-### Start Django REST project [myraspi](https://github.com/kevinwlu/iot/tree/master/lesson4/myraspi) on Raspberry Pi
-### Start four Django REST projects on Raspberry Pi with sensors
-1. [weather](https://github.com/kevinwlu/iot/tree/master/lesson4/weather)
-2. [lighting](https://github.com/kevinwlu/iot/tree/master/lesson4/lighting)
-3. [parking](https://github.com/kevinwlu/iot/tree/master/lesson4/parking)
-4. [sensing](https://github.com/kevinwlu/iot/tree/master/lesson4/sensing)
+### 3. Start Django project [stevens](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens)
+### 4. Start Django REST project [mycpu](https://github.com/kevinwlu/iot/tree/master/lesson4/mycpu)
+### 5. Optional: Start Django REST project [myraspi](https://github.com/kevinwlu/iot/tree/master/lesson4/myraspi) on Raspberry Pi
+### 6. Optional: Start four Django REST projects on Raspberry Pi with sensors
+* [weather](https://github.com/kevinwlu/iot/tree/master/lesson4/weather)
+* [lighting](https://github.com/kevinwlu/iot/tree/master/lesson4/lighting)
+* [parking](https://github.com/kevinwlu/iot/tree/master/lesson4/parking)
+* [sensing](https://github.com/kevinwlu/iot/tree/master/lesson4/sensing)
 
 ## Lab 4C: Flask
 
