@@ -81,12 +81,12 @@ Reload privilege tables now? [Y/n]
 
 ## Lab 4C: Flask
 
-### Run Flask server and open a browser via VNC Viewer and go to http://127.0.0.1:5000/
+### 1. Run Flask server and open a browser via VNC Viewer and go to http://127.0.0.1:5000/
 ```sh
 $ cd ~/iot/lesson4
 python3 hello_world.py
 ```
-### Terminal 1 on Raspberry Pi: Install [Flask-Ask](https://github.com/johnwheeler/flask-ask) and [Ngrok](https://ngrok.com/) for Alexa Skill Kit (ASK)
+### 2. Terminal 1 on Raspberry Pi: Install [Flask-Ask](https://github.com/johnwheeler/flask-ask) and [Ngrok](https://ngrok.com/) for Alexa Skill Kit (ASK)
 ```sh
 $ sudo pip3 install -U flask-ask
 $ sudo pip3 install 'cryptography<2.2'
@@ -94,12 +94,12 @@ $ sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 $ sudo unzip ngrok-stable-linux-arm.zip
 $ ./ngrok http 5000
 ```
-### Terminal 2 on Raspberry Pi: [Memory Game](https://developer.amazon.com/blogs/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development)
+### 3. Terminal 2 on Raspberry Pi: [Memory Game](https://developer.amazon.com/blogs/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development)
 ```sh
 $ cd ~/iot/lesson4
 $ python3 memory_game.py
 ```
-### Open a browser and sign in [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask)
+### 4. Open a browser and sign in [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask)
 * Click "Create Skill" > Enter Skill name in title case: Memory Game > 1. Choose a model: Custom (SELECTED) > 2. Choose a host: Provision your own (SELECTED) > Click "Create skill" > Choose a template: Hello World Skill > Click "Choose"
 * Invocation > Enter Skill Invocation Name in lowercase: memory game
 * Interaction Model > 
@@ -124,13 +124,13 @@ $ python3 memory_game.py
 
 ## Lab 4D: LAMP
 
-### On Raspberry Pi, install [Apache HTTP server](https://en.wikipedia.org/wiki/Apache_HTTP_Server) and [PHP](https://en.wikipedia.org/wiki/PHP)
+### 1. On Raspberry Pi, install [Apache HTTP server](https://en.wikipedia.org/wiki/Apache_HTTP_Server) and [PHP](https://en.wikipedia.org/wiki/PHP)
 ```sh
 $ sudo apt update
 $ sudo apt install apache2
 $ sudo service apache2 restart
 ```
-### Open a Chromium browser and go to http://127.0.0.1, i.e., [localhost](https://en.wikipedia.org/wiki/Localhost), to view the Apache2 Debian Default Page
+### 2. Open a Chromium browser and go to http://127.0.0.1, i.e., [localhost](https://en.wikipedia.org/wiki/Localhost), to view the Apache2 Debian Default Page
 ```sh
 $ sudo apt install php7.3
 $ cd /var/www/html
@@ -139,9 +139,9 @@ $ sudo mv index.html index.html.bak
 $ sudo cp ~/iot/lesson4/index.php .
 $ sudo service apache2 restart
 ```
-### Open a Chromium browser and go to http://127.0.0.1 to view "Hello world!" and the PHP info
+### 3. Open a Chromium browser and go to http://127.0.0.1 to view "Hello world!" and the PHP info
 
-### Build a Linux-Apache-MySQL-PHP (LAMP) web server with [WordPress](https://en.wikipedia.org/wiki/WordPress)
+### 4. Build a Linux-Apache-MySQL-PHP (LAMP) web server with [WordPress](https://en.wikipedia.org/wiki/WordPress)
 ```sh
 $ sudo apt install php7.3-mysql
 $ cd /var/www/html
@@ -153,7 +153,7 @@ $ mv wordpress/* .
 $ rm -rf wordpress latest.tar.gz
 $ cd
 ```
-### Create database and grant all privileges
+### 5. Create database and grant all privileges
 ```sh
 $ sudo mysql -u root -p
 ```
@@ -169,8 +169,8 @@ MariaDB [mysql]> quit
 ```sh
 $ sudo service apache2 restart
 ```
-### Open a Chromium browser and go to http://127.0.0.1 to configure WordPress
+### 6. Open a Chromium browser and go to http://127.0.0.1 to configure WordPress
 ```sh
 $ nano wp-config.php
 ```
-### Copy the highlighted text, paste it, save wp-config.php, and run the installation
+### 7. Copy the highlighted text, paste it, save wp-config.php, and run the installation
