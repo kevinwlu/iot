@@ -36,11 +36,6 @@
   * [Byzantine fault](https://en.wikipedia.org/wiki/Byzantine_fault) tolerance (BFT)
 * [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
 * [CBDC](https://en.wikipedia.org/wiki/Central_bank_digital_currency) (Central bank digital currency)
-* [Non-fungible token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT)
-  * [GFT Exchange](https://www.gft.exchange/)
-  * [OpenSea](https://opensea.io/)
-  * [Sfermion](https://www.sfermion.io/)
-  * [SuperRare](https://superrare.com/)
 * [Algorand](https://en.wikipedia.org/wiki/Algorand_(cryptocurrency_platform))
 * [Cardano](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
 * [Polkadot](https://en.wikipedia.org/wiki/Polkadot_(cryptocurrency))
@@ -55,6 +50,11 @@
   * [RuuviTag](https://ruuvi.com/ruuvitag/) wireless temperature sensor
   * Ruuvi GitHub [Repositories](https://github.com/ruuvi)
   * [RuuviLab](https://lab.ruuvi.com/) community
+* [Non-fungible token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT)
+  * [GFT Exchange](https://www.gft.exchange/)
+  * [OpenSea](https://opensea.io/)
+  * [Sfermion](https://www.sfermion.io/)
+  * [SuperRare](https://superrare.com/)
 
 ## Lab 10A: Blockchain
 
