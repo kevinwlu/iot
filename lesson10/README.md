@@ -52,8 +52,9 @@
   * Ruuvi GitHub [Repositories](https://github.com/ruuvi)
   * [RuuviLab](https://lab.ruuvi.com/) community
 * [Non-fungible token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT)
+  * [List of most expensive non-fungible tokens](https://en.wikipedia.org/wiki/List_of_most_expensive_non-fungible_tokens)
   * [GFT Exchange](https://www.gft.exchange/)
-  * [OpenSea](https://opensea.io/)
+  * [OpenSea](https://en.wikipedia.org/wiki/OpenSea)
   * [Sfermion](https://www.sfermion.io/)
   * [SuperRare](https://superrare.com/)
 
