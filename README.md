@@ -13,10 +13,9 @@
 * [Lesson 8](https://github.com/kevinwlu/iot/tree/master/lesson8): Data Analysis
 * [Lesson 9](https://github.com/kevinwlu/iot/tree/master/lesson9): YANG and Qiskit
 * [Lesson 10](https://github.com/kevinwlu/iot/tree/master/lesson10): Blockchain
-* Articles examining the effects of robots and automation on employment, based on research from economist and MIT Professor [Daron Acemoglu](https://en.wikipedia.org/wiki/Daron_Acemoglu)
-  * [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
-  * [Special problems](https://github.com/kevinwlu/iot/tree/master/projects)
-  * [Standards](https://github.com/kevinwlu/iot/tree/master/standards)
+* [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
+* [Special problems](https://github.com/kevinwlu/iot/tree/master/projects)
+* [Standards](https://github.com/kevinwlu/iot/tree/master/standards)
 
 ## References
 * [Hands-on books series](http://www.hands-on-books-series.com)
@@ -40,9 +39,11 @@
   * [List of Y Combinator startups](https://en.wikipedia.org/wiki/List_of_Y_Combinator_startups)
   * [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
 * [Unicorn](https://en.wikipedia.org/wiki/Unicorn_(finance)) and decacorn
-* [How many jobs do robots really replace?](https://news.mit.edu/2020/how-many-jobs-robots-replace-0504)
-* [Robots help some firms, even while workers across industries struggle](https://news.mit.edu/2020/robots-help-firms-workers-struggle-0505)
-* [Study finds stronger links between automation and inequality](https://news.mit.edu/2020/study-inks-automation-inequality-0506)
+* Effects of robots and automation on employment
+  * Prof. [Daron Acemoglu](https://en.wikipedia.org/wiki/Daron_Acemoglu)
+  * [How many jobs do robots really replace?](https://news.mit.edu/2020/how-many-jobs-robots-replace-0504)
+  * [Robots help some firms, even while workers across industries struggle](https://news.mit.edu/2020/robots-help-firms-workers-struggle-0505)
+  * [Study finds stronger links between automation and inequality](https://news.mit.edu/2020/study-inks-automation-inequality-0506)
 
 ## GitHub Basics
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
