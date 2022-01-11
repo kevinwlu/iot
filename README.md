@@ -13,9 +13,10 @@
 * [Lesson 8](https://github.com/kevinwlu/iot/tree/master/lesson8): Data Analysis
 * [Lesson 9](https://github.com/kevinwlu/iot/tree/master/lesson9): YANG and Qiskit
 * [Lesson 10](https://github.com/kevinwlu/iot/tree/master/lesson10): Blockchain
-* [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
-* [Special problems](https://github.com/kevinwlu/iot/tree/master/projects)
-* [Standards](https://github.com/kevinwlu/iot/tree/master/standards)
+* Articles examining the effects of robots and automation on employment, based on research from economist and MIT Professor [Daron Acemoglu](https://en.wikipedia.org/wiki/Daron_Acemoglu)
+  * [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
+  * [Special problems](https://github.com/kevinwlu/iot/tree/master/projects)
+  * [Standards](https://github.com/kevinwlu/iot/tree/master/standards)
 
 ## References
 * [Hands-on books series](http://www.hands-on-books-series.com)
