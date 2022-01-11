@@ -39,6 +39,9 @@
   * [List of Y Combinator startups](https://en.wikipedia.org/wiki/List_of_Y_Combinator_startups)
   * [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
 * [Unicorn](https://en.wikipedia.org/wiki/Unicorn_(finance)) and decacorn
+* [How many jobs do robots really replace?](https://news.mit.edu/2020/how-many-jobs-robots-replace-0504)
+* [Robots help some firms, even while workers across industries struggle](https://news.mit.edu/2020/robots-help-firms-workers-struggle-0505)
+* [Study finds stronger links between automation and inequality](https://news.mit.edu/2020/study-inks-automation-inequality-0506)
 
 ## GitHub Basics
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
