@@ -126,7 +126,9 @@
   * [IoTivity](https://en.wikipedia.org/wiki/IoTivity)
 * [O-RAN](https://www.o-ran.org/)
 * [UBBA](https://www.ubba.com/) (Utility Broadband Alliance)
-* [UCAIug](https://www.ucaiug.org/) (UCA Internation Users Group)
+* [UCAIug](https://www.ucaiug.org/) (UCA International Users Group)
+  * [EPRI](https://en.wikipedia.org/wiki/Electric_Power_Research_Institute) (Electric Power Research Institute)
+  * [UCA](https://www.epri.com/research/products/TP-114398) (Utility Communications Architecture)
 * [Wi-Fi Alliance](https://en.wikipedia.org/wiki/Wi-Fi_Alliance)
 * [Wi-SUN](https://wi-sun.org/)
 
