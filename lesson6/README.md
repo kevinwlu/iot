@@ -2,6 +2,11 @@
 
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
 * [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller)
+* [Nvidia Jetson](https://en.wikipedia.org/wiki/Nvidia_Jetson)
+* [BeagleBoard](https://en.wikipedia.org/wiki/BeagleBoard)
+* [DragonBoard 410c](https://developer.qualcomm.com/hardware/dragonboard-410c)
+* [Pine64](https://en.wikipedia.org/wiki/Pine64)
+  * [Armbian](https://en.wikipedia.org/wiki/Armbian)
 * [Arduino](https://en.wikipedia.org/wiki/Arduino)
   * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
 * [Seeeduino XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/)
@@ -12,10 +17,6 @@
 * [Particle](https://www.particle.io/)
 * [Redbear Duo](https://github.com/redbear/Duo)
 * [Tessel](https://tessel.github.io/t2-start/)
-* [BeagleBoard](https://en.wikipedia.org/wiki/BeagleBoard)
-* [DragonBoard 410c](https://developer.qualcomm.com/hardware/dragonboard-410c)
-* [Pine64](https://en.wikipedia.org/wiki/Pine64)
-  * [Armbian](https://en.wikipedia.org/wiki/Armbian)
 * [ESP8266](https://en.wikipedia.org/wiki/ESP8266)
   * [ESP-01](https://jayconsystems.com/blog/getting-started-with-the-esp8266-esp-01)
   * [Hayes command set](https://en.wikipedia.org/wiki/Hayes_command_set) or AT command set
