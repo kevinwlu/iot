@@ -119,6 +119,7 @@
 * [IIC](https://en.wikipedia.org/wiki/Industrial_Internet_Consortium) (Industrial Internet Consortium)
 * [ioXt](https://www.ioxtalliance.org/) (Internet of Secure Things)
 * [KNX](https://en.wikipedia.org/wiki/KNX_(standard))
+* [LoRa](https://en.wikipedia.org/wiki/LoRa) Alliance
 * [MIPI](https://en.wikipedia.org/wiki/MIPI_Alliance) (Mobile Industry Processor Interface)
 * [MulteFire](https://en.wikipedia.org/wiki/MulteFire)
 * [Next G Alliance](https://www.nextgalliance.org/)
