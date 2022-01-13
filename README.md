@@ -2,7 +2,11 @@
 
 * [Instructor](https://web.stevens.edu/facultyprofile/?id=2081)
   * *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
+    * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+    * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
   * *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
+    * [Brain-derived neurotrophic factor](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor) (BDNF)
+    * [Neurobiological effects of physical exercise](https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise)
 * [Lesson 1](https://github.com/kevinwlu/iot/tree/master/lesson1): Overview
 * [Lesson 2](https://github.com/kevinwlu/iot/tree/master/lesson2): Raspberry Pi
 * [Lesson 3](https://github.com/kevinwlu/iot/tree/master/lesson3): Python
