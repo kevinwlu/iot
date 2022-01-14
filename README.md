@@ -5,6 +5,8 @@
     * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
     * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
   * *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
+    * [Working memory](https://en.wikipedia.org/wiki/Working_memory)
+    * [Long-term memory](https://en.wikipedia.org/wiki/Long-term_memory)
     * [Brain-derived neurotrophic factor](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor) (BDNF)
     * [Neurobiological effects of physical exercise](https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise)
 * [Lesson 1](https://github.com/kevinwlu/iot/tree/master/lesson1): Overview
