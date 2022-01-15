@@ -70,7 +70,7 @@
   * [GitLab](https://en.wikipedia.org/wiki/GitLab)
   * [MindSpore](https://www.mindspore.cn/en)
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
-  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  * [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   * [GitLab Flavored Markdown](https://docs.gitlab.com/ee/user/markdown.html)
 * [GIF](https://en.wikipedia.org/wiki/GIF) (Graphics Interchange Format)
   * [Best Tools for Taking and Editing Screenshots in Linux](https://itsfoss.com/take-screenshot-linux/)
