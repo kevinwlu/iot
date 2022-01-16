@@ -3,6 +3,7 @@
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
   * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
   * [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
+  * [Decentralized autonomous organization](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) (DAO)
   * [Decentralized finance](https://en.wikipedia.org/wiki/Decentralized_finance) (DeFi)
   * [Hash function](https://en.wikipedia.org/wiki/Hash_function)
   * [Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
