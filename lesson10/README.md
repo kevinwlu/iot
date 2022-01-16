@@ -34,6 +34,7 @@
   * [Chainlink](https://en.wikipedia.org/wiki/Chainlink_(cryptocurrency))
 * [Algorand](https://en.wikipedia.org/wiki/Algorand_(cryptocurrency_platform))
 * [Cardano](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
+* [Dash](https://en.wikipedia.org/wiki/Dash_(cryptocurrency))
 * [Polkadot](https://en.wikipedia.org/wiki/Polkadot_(cryptocurrency))
 * [Solana](https://en.wikipedia.org/wiki/Solana_(blockchain_platform))
 * [Uniswap](https://en.wikipedia.org/wiki/Uniswap)
