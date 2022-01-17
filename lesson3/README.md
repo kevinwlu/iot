@@ -32,6 +32,7 @@
 * [Comparison of documentation generators](https://en.wikipedia.org/wiki/Comparison_of_documentation_generators)
   * [Doxygen](https://en.wikipedia.org/wiki/Doxygen)
   * [Sphinx](https://en.wikipedia.org/wiki/Sphinx_(documentation_generator))
+* [Invectio](https://github.com/thoth-station/invectio)
 
 ## Lab 3A: Python
 
