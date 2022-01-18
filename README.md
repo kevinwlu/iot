@@ -4,10 +4,10 @@
   * [Instructional design](https://en.wikipedia.org/wiki/Instructional_design)
     * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
     * [Direct Instruction](https://en.wikipedia.org/wiki/Direct_instruction)
-  * *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
+  * *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)* by Prof. [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley)
     * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
     * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
-  * *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
+  * *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)* by Prof. Barbara Oakley, Prof. [Beth Rogowsky](https://www.bloomu.edu/people-directory/beth-rogowsky), and Prof. [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski)
     * [Working memory](https://en.wikipedia.org/wiki/Working_memory)
     * [Long-term memory](https://en.wikipedia.org/wiki/Long-term_memory)
     * [Brain-derived neurotrophic factor](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor) (BDNF)
