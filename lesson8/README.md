@@ -64,6 +64,7 @@
   * [Intel OpenVINO](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) (Visual Inference and Neural network Optimization)
 * [CPLEX](https://en.wikipedia.org/wiki/CPLEX)
   * [IBM Decision Optimization](https://github.com/IBMDecisionOptimization)
+* [Kedro](https://github.com/kedro-org/kedro)
 
 ## Lab 8A: Examples
 
