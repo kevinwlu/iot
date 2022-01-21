@@ -65,6 +65,7 @@
 * [CPLEX](https://en.wikipedia.org/wiki/CPLEX)
   * [IBM Decision Optimization](https://github.com/IBMDecisionOptimization)
 * [Kedro](https://github.com/kedro-org/kedro)
+  * [Documentation](https://kedro.readthedocs.io/)
 
 ## Lab 8A: Examples
 
