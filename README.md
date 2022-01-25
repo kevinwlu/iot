@@ -28,8 +28,10 @@
 
 ## References
 * [Hands-on books series](http://www.hands-on-books-series.com)
+* [Internet](https://en.wikipedia.org/wiki/Internet)
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
   * [ETSI](https://en.wikipedia.org/wiki/ETSI) White Paper No. 45: [_ETSI Technology Radar_](https://www.etsi.org/images/files/ETSIWhitePapers/etsi_wp45_ETSI_technology_radar.pdf)
+* [Supranet](https://en.wikipedia.org/wiki/Supranet)
 * [Industrial internent of things](https://en.wikipedia.org/wiki/Industrial_internet_of_things) (IIoT)
 * [Fourth Industrial Revolution](https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution) (4IR or Industry 4.0)
   * [Cyber-physical system](https://en.wikipedia.org/wiki/Cyber-physical_system)
