@@ -28,6 +28,7 @@
   * [Web 2.0](https://en.wikipedia.org/wiki/Web_2.0)
   * [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web)
   * [Web3](https://en.wikipedia.org/wiki/Web3)
+  * [Metaverse](https://en.wikipedia.org/wiki/Metaverse)
 * [Uniform Resource Locator](https://en.wikipedia.org/wiki/URL) (URL)
 * [Hypertext Markup Language](https://en.wikipedia.org/wiki/HTML) (HTML)
 * [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (CSS)
