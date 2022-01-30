@@ -28,7 +28,10 @@
   * [Web 2.0](https://en.wikipedia.org/wiki/Web_2.0)
   * [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web)
   * [Web3](https://en.wikipedia.org/wiki/Web3)
-  * [Dark web](https://en.wikipedia.org/wiki/Dark_web)
+  * [Clearnet](https://en.wikipedia.org/wiki/Clearnet_(networking)) refers to the publicly accessible internet
+  * [Surface web](https://en.wikipedia.org/wiki/Surface_web) is readily available to the general public and searchable with standard web search engines
+  * [Deep web](https://en.wikipedia.org/wiki/Deep_web) refers to the contents that are not indexed by standard web search-engines
+  * [Dark web](https://en.wikipedia.org/wiki/Dark_web) exists on [darknets](https://en.wikipedia.org/wiki/Darknet) and is a portion of the deep web
   * [Metaverse](https://en.wikipedia.org/wiki/Metaverse)
 * [Uniform Resource Locator](https://en.wikipedia.org/wiki/URL) (URL)
 * [Hypertext Markup Language](https://en.wikipedia.org/wiki/HTML) (HTML)
