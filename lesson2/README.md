@@ -31,6 +31,7 @@
   * [GNU/Linux Distributions Timeline](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
   * [Linux Foundation](https://en.wikipedia.org/wiki/Linux_Foundation) (LF)
   * [Linux GitHub repository](https://github.com/torvalds/linux)
+  * [Linaro](https://en.wikipedia.org/wiki/Linaro)
 * [Debian](https://en.wikipedia.org/wiki/Debian)
   * [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu)
   * [APT](https://en.wikipedia.org/wiki/APT_(software)) (Advanced Package Tool)
