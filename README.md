@@ -13,6 +13,7 @@
     * [Brain-derived neurotrophic factor](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor) (BDNF)
     * [Neurobiological effects of physical exercise](https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise)
   * [The Laws of Herman](http://www.columbia.edu/~iph1/lawsofherman.htm) by Prof. [Irving Herman](http://www.columbia.edu/~iph1/herman.html)
+> If you didn't document it, you didn't do it.
 * [Lesson 1](https://github.com/kevinwlu/iot/tree/master/lesson1): Overview
 * [Lesson 2](https://github.com/kevinwlu/iot/tree/master/lesson2): Raspberry Pi
 * [Lesson 3](https://github.com/kevinwlu/iot/tree/master/lesson3): Python
