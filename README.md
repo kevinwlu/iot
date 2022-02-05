@@ -4,6 +4,7 @@
   * [Instructional design](https://en.wikipedia.org/wiki/Instructional_design)
     * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
     * [Direct Instruction](https://en.wikipedia.org/wiki/Direct_instruction)
+    * [Universal Design for Learning](https://en.wikipedia.org/wiki/Universal_Design_for_Learning) (UDL)
   * *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)* by Prof. [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley)
     * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
     * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
