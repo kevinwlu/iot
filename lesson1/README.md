@@ -283,6 +283,7 @@ $ sudo shutdown -h now
 $ sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 $ sudo unzip ngrok-stable-linux-arm.zip
 $ ./ngrok authtoken <the Authtoken>
+Authtoken saved to configuration file: /home/pi/.ngrok2/ngrok.yml
 $ ./ngrok tcp 22
 ```
 * Copy the forwarding URL 6.tcp.ngrok.io and the port number
