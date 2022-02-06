@@ -235,7 +235,7 @@ $ sudo reboot
 
 ### 3. Check RECIPIENT_EMAIL for Hostname IP address
 
-If not receiving an email from the Raspberry Pi after reboot, create /lib/systemd/system/[startup.service](/startup.service)
+If not receiving an email from the Raspberry Pi after reboot, create /lib/systemd/system/[startup.service](/lesson1/startup.service)
 ```sh
 $ sudo nano /lib/systemd/system/startup.service
 $ sudo systemctl daemon-reload
