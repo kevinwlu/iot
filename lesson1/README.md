@@ -179,7 +179,8 @@ ping localhost
 * WARNING: Unplugging the power without proper shutdown may [corrupt](https://en.wikipedia.org/wiki/Data_corruption) the SD card
 
 ## Lab 1C: Startup Mailer
-* The following steps require the internet access but may not work with Raspberry Pi OS 11 (Bullseye)
+* The following steps require the internet access
+* /etc/rc.local does not work with Raspberry Pi OS 11 (Bullseye)
 * The starup mailer is useful when the IP address of Raspberry Pi is dynamic on the public or enterprise Wi-Fi network
 * The IP address is usually static on the personal Wi-Fi network or cellular personal hotspot
 
