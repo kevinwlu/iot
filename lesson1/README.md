@@ -180,7 +180,6 @@ ping localhost
 
 ## Lab 1C: Startup Mailer
 * The following steps require the internet access
-* [Enable rc.local in Debian Bullseye](https://blog.wijman.net/enable-rc-local-in-debian-bullseye/)
 * The starup mailer is useful when the IP address of Raspberry Pi is dynamic on the public or enterprise Wi-Fi network
 * The IP address is usually static on the personal Wi-Fi network or cellular personal hotspot
 
