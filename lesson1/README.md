@@ -47,6 +47,7 @@
   * [Termina emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
   * [sudo](https://en.wikipedia.org/wiki/Sudo)
   * [Ping](https://en.wikipedia.org/wiki/Ping_(networking_utility))
+  * [scrot](https://en.wikipedia.org/wiki/Scrot) vs. screencapture on macOS
   * [Localhost](https://en.wikipedia.org/wiki/Localhost)
   * [Keyboard shortcut](https://en.wikipedia.org/wiki/Keyboard_shortcut)
   * [Control-D](https://en.wikipedia.org/wiki/End-of-Transmission_character)
