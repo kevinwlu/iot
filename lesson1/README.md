@@ -217,7 +217,10 @@ $ nano startup_mailer.py
 * Change RECIPIENT_EMAIL, GMAIL_USERNAME, and GOOGLE_APP_PASSWORD
 * Replace HOSTNAME with the new Hostname in two instances
 * Save the file by typing "control-x y enter"
+* Test startup_mailer.py
+* Edit /etc/rc.local
 ```sh
+$ python3 ~/startup_mailer.py
 $ sudo nano /etc/rc.local
 ```
 * Add the following line with two-space indent above fi at the end as follows
@@ -232,11 +235,12 @@ $ sudo reboot
 
 ### 3. Check RECIPIENT_EMAIL for Hostname IP address
 
-If not receiving an email from the Raspberry Pi, make sure startup_mailer.py is working and /lib/systemd/system/rc-local.service is executable
+If not receiving an email from the Raspberry Pi after reboot, create /lib/systemd/system/[startup.service](/startup.service)
 ```sh
-$ python3 ~/startup_mailer.py
-$ ls -l /lib/systemd/system/rc-local.service
-$ sudo chmod +x /lib/systemd/system/rc-local.service
+$ sudo nano /lib/systemd/system/startup.service
+$ sudo systemctl daemon-reload
+$ sudo systemctl enable startup.service
+$ sudo reboot
 ```
 
 ### 4. Disconnect the monitor, keyboard, and mouse
