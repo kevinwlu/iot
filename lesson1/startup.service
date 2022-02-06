@@ -1,0 +1,9 @@
+[Unit]
+Description=Send IP address
+After=graphical.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/pi/startup_mailer.py
+
+[Install]
+WantedBy=graphical.target
