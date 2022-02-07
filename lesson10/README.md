@@ -40,6 +40,8 @@
 * [Helium System](https://www.helium.com/)
 * [Polkadot](https://en.wikipedia.org/wiki/Polkadot_(cryptocurrency))
 * [Solana](https://en.wikipedia.org/wiki/Solana_(blockchain_platform))
+* [Terra](https://www.terra.money/)
+  * [Terra (currency)](https://en.wikipedia.org/wiki/Terra_(currency))
 * [Uniswap](https://en.wikipedia.org/wiki/Uniswap)
 * [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
 * [CBDC](https://en.wikipedia.org/wiki/Central_bank_digital_currency) (Central bank digital currency)
@@ -62,7 +64,6 @@
   * [OpenSea](https://en.wikipedia.org/wiki/OpenSea)
   * [Sfermion](https://www.sfermion.io/)
   * [SuperRare](https://superrare.com/)
-* [Terra (currency)](https://en.wikipedia.org/wiki/Terra_(currency))
 
 ## Lab 10A: Blockchain
 
