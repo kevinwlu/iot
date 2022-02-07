@@ -32,6 +32,7 @@
   * [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
   * [Blockchain oracle](https://en.wikipedia.org/wiki/Blockchain_oracle)
   * [Chainlink](https://en.wikipedia.org/wiki/Chainlink_(cryptocurrency))
+* [Helium System](https://www.helium.com/)
 * [Algorand](https://en.wikipedia.org/wiki/Algorand_(cryptocurrency_platform))
 * [Cardano](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
 * [Dash](https://en.wikipedia.org/wiki/Dash_(cryptocurrency))
