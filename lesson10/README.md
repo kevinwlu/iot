@@ -59,6 +59,7 @@
   * [OpenSea](https://en.wikipedia.org/wiki/OpenSea)
   * [Sfermion](https://www.sfermion.io/)
   * [SuperRare](https://superrare.com/)
+* [Terra (currency)](https://en.wikipedia.org/wiki/Terra_(currency))
 
 ## Lab 10A: Blockchain
 
