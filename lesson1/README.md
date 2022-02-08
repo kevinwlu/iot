@@ -285,7 +285,7 @@ $ sudo shutdown -h now
 
 ## Alternative 2: Ngrok
 
-* Sign up [ngrok](https://ngrok.com/)
+* Sign up [ngrok](https://ngrok.com/) (see [grok](https://en.wikipedia.org/wiki/Grok))
 * Download ngrok to Raspberry Pi
 * Copy the Authtoken to authenticate the ngrok downloaded
 * Authtoken is saved to configuration file: /home/pi/.ngrok2/ngrok.yml
