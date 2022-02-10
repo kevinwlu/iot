@@ -17,6 +17,7 @@
   * [Quantum key distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution)
 * [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
   * [Qubit](https://en.wikipedia.org/wiki/Qubit)
+  * [Qutrit](https://en.wikipedia.org/wiki/Qutrit)
   * [NQI](https://en.wikipedia.org/wiki/National_Quantum_Initiative_Act) (The National Quantum Initiative Act)
   * [QED-C](https://quantumconsortium.org/) (The Quantum Economic Development Consortium)
   * [Quantum supremacy](https://en.wikipedia.org/wiki/Quantum_supremacy)
