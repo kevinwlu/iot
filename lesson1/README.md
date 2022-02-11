@@ -112,6 +112,8 @@
 
 ### 5. Find a [MAC address](https://en.wikipedia.org/wiki/MAC_address) of the [media access control](https://en.wikipedia.org/wiki/Medium_access_control) with an [oranizationally unique identifier](https://en.wikipedia.org/wiki/Organizationally_unique_identifier) (OUI), and an [IP address](https://en.wikipedia.org/wiki/IP_address) of the [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol)
 
+* [MAC spoofing](https://en.wikipedia.org/wiki/MAC_spoofing)
+* IEEE standards project [P802.11bh](https://www.ieee802.org/11/Reports/tgbh_update.htm) on randomized and changing MAC (RCM) addresses
 * On [macOS](https://en.wikipedia.org/wiki/MacOS) or [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS), open a [GNOME Terminal](https://en.wikipedia.org/wiki/GNOME_Terminal) and enter
 ```sh
 uname -a
