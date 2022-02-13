@@ -15,6 +15,7 @@
   * [Control-C](https://en.wikipedia.org/wiki/Control-C)
 * [Metasyntactic variable](https://en.wikipedia.org/wiki/Metasyntactic_variable)
   * [Foobar](https://en.wikipedia.org/wiki/Foobar)
+  * [Jargon File](https://en.wikipedia.org/wiki/Jargon_File)
   * [Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum)
   * [Spam (Monty Python)](https://en.wikipedia.org/wiki/Spam_(Monty_Python))
   * [Xyzzy](https://en.wikipedia.org/wiki/Xyzzy_(computing))
