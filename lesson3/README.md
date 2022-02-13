@@ -16,6 +16,7 @@
 * [Metasyntactic variable](https://en.wikipedia.org/wiki/Metasyntactic_variable)
   * [Foobar](https://en.wikipedia.org/wiki/Foobar)
   * [Spam (Monty Python)](https://en.wikipedia.org/wiki/Spam_(Monty_Python))
+  * [Xyzzy](https://en.wikipedia.org/wiki/Xyzzy_(computing))
 * [Bitwise operators](https://wiki.python.org/moin/BitwiseOperators)
 * [pip](https://en.wikipedia.org/wiki/Pip_(package_manager))
   * [Setuptools](https://en.wikipedia.org/wiki/Setuptools)
