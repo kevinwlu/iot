@@ -17,7 +17,7 @@
   * [Foobar](https://en.wikipedia.org/wiki/Foobar)
   * [Jargon File](https://en.wikipedia.org/wiki/Jargon_File)
   * [Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum)
-  * [Spam (Monty Python)](https://en.wikipedia.org/wiki/Spam_(Monty_Python))
+  * [Spam (Monty Python)](https://en.wikipedia.org/wiki/Spam_(Monty_Python)) and [spamming](https://en.wikipedia.org/wiki/Spamming)
   * [Xyzzy](https://en.wikipedia.org/wiki/Xyzzy_(computing))
 * [Bitwise operators](https://wiki.python.org/moin/BitwiseOperators)
 * [pip](https://en.wikipedia.org/wiki/Pip_(package_manager))
