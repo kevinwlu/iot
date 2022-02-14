@@ -120,7 +120,7 @@ uname -a
 ifconfig
 ping localhost
 ```
-* On Linux distro such as [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
+* On [Linux distribution](https://en.wikipedia.org/wiki/Linux_distribution) such as [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
 ```sh
 uname -a
 ip addr show
