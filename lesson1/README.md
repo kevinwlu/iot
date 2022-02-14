@@ -114,10 +114,16 @@
 
 * [MAC spoofing](https://en.wikipedia.org/wiki/MAC_spoofing)
 * IEEE standards project [P802.11bh](https://www.ieee802.org/11/Reports/tgbh_update.htm) on randomized and changing MAC (RCM) addresses
-* On [macOS](https://en.wikipedia.org/wiki/MacOS) or [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS), open a [GNOME Terminal](https://en.wikipedia.org/wiki/GNOME_Terminal) and enter
+* On [macOS](https://en.wikipedia.org/wiki/MacOS), open a [GNOME Terminal](https://en.wikipedia.org/wiki/GNOME_Terminal) and enter
 ```sh
 uname -a
 ifconfig
+ping localhost
+```
+* On Linux distro such as [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
+```sh
+uname -a
+ip addr show
 ping localhost
 ```
 * Alternatively on Raspberry Pi OS, point (not click) the curser to the Wi-Fi icon at the right of the menu bar to see and write down the IP address such as 192.168.1.204 excluding the CIDR ([Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)) notation of /24 suffix that indicates the number of bits of the prefix
