@@ -8,6 +8,7 @@
 * [Pine64](https://en.wikipedia.org/wiki/Pine64)
   * [Armbian](https://en.wikipedia.org/wiki/Armbian)
 * [Arduino](https://en.wikipedia.org/wiki/Arduino)
+  * [SoftwareSerial Library](https://www.arduino.cc/en/Reference/softwareSerial)
   * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
 * [Seeeduino XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/)
 * [STM32](https://en.wikipedia.org/wiki/STM32)
