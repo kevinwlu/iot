@@ -15,4 +15,10 @@ $ python3
 18.495711373962646
 >>> 4*math.log(2*333938907+1,3)
 73.98284549585058
+$ cd ~/iot/covid
+$ python3 covid.py 334193280 3 4
+Population      = 334193280
+Infection rate  = 3
+Serial interval = 4
+Time to infect  = 73.98561788488546
 ```
