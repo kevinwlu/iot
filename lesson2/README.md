@@ -56,6 +56,7 @@
 * [Universal Serial Bus](https://en.wikipedia.org/wiki/USB) (USB)
 * [Webcam](https://en.wikipedia.org/wiki/Webcam)
 * [Microphone](https://en.wikipedia.org/wiki/Microphone)
+* [USB](https://en.wikipedia.org/wiki/USB)
 * [JST connector](https://en.wikipedia.org/wiki/JST_connector)
 
 ## Lab 2A:  General-purpose input/output (GPIO) and serial communication
