@@ -53,10 +53,11 @@
   * Data input/output (DQ)
 * [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
 * [Light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED)
+  * [LED strip light](https://en.wikipedia.org/wiki/LED_strip_light)
+  * [JST connector](https://en.wikipedia.org/wiki/JST_connector)
 * [Universal Serial Bus](https://en.wikipedia.org/wiki/USB) (USB)
 * [Webcam](https://en.wikipedia.org/wiki/Webcam)
 * [Microphone](https://en.wikipedia.org/wiki/Microphone)
-* [JST connector](https://en.wikipedia.org/wiki/JST_connector)
 
 ## Lab 2A:  General-purpose input/output (GPIO) and serial communication
 
