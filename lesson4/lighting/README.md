@@ -22,7 +22,7 @@ lighting  manage.py  myapp
 
 ```sh
 pi@raspberrypi:~/lighting $ cd lighting
-pi@raspberrypi:~/lighting $ ls
+pi@raspberrypi:~/lighting/lighting $ ls
 asgi.py  __init__.py  __pycache__  settings.py  urls.py  wsgi.py
 pi@raspberrypi:~/lighting/lighting $ nano settings.py
 ```
