@@ -8,13 +8,13 @@ This project requires a light-dependent resistor (LDR), light-emitting diode (LE
 pi@raspberrypi:~ $ django-admin startproject lighting
 pi@raspberrypi:~ $ cd lighting
 pi@raspberrypi:~/lighting $ ls
-manage.py  lighting
+lighting  manage.py 
 ```
 ## Start a Django app
 ```sh
 pi@raspberrypi:~/lighting $ python3 manage.py startapp myapp
 pi@raspberrypi:~/lighting $ ls
-manage.py  myapp  lighting
+lighting  manage.py  myapp  
 ```
 ## Edit settings.py in ~/lighting/lighting
 
@@ -22,6 +22,8 @@ manage.py  myapp  lighting
 
 ```sh
 pi@raspberrypi:~/lighting $ cd lighting
+pi@raspberrypi:~/lighting $ ls
+asgi.py  __init__.py  __pycache__  settings.py  urls.py  wsgi.py
 pi@raspberrypi:~/lighting/lighting $ nano settings.py
 ```
 ## Copy urls.py to ~/lighting/lighting
