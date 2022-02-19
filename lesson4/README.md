@@ -79,14 +79,6 @@ Remove anonymous users? [Y/n]
 Disallow root login remotely? [Y/n] 
 Remove test database and access to it? [Y/n] 
 Reload privilege tables now? [Y/n]
- ... Success!
-
-Cleaning up...
-
-All done!  If you've completed all of the above steps, your MariaDB
-installation should now be secure.
-
-Thanks for using MariaDB!
 ```
 ### 3. Start Django project [stevens](https://github.com/kevinwlu/iot/tree/master/lesson4/stevens)
 ### 4. Start Django REST project [mycpu](https://github.com/kevinwlu/iot/tree/master/lesson4/mycpu)
