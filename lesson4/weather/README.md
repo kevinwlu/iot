@@ -32,6 +32,8 @@ MariaDB [mysql]> quit
 * Remember to change PASSWORD for MySQL user
 ```sh
 pi@raspberrypi:~/weather $ cd weather
+pi@raspberrypi:~/weather/weather $ ls
+asgi.py  __init__.py  __pycache__  settings.py  urls.py  wsgi.py
 pi@raspberrypi:~/weather/weather $ nano settings.py
 ```
 ## Copy urls.py to ~/weather/weather
