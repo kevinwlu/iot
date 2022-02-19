@@ -34,6 +34,8 @@ pi@raspberrypi:~/lighting/lighting $ cd ..
 ## Copy models.py, views.py, and serializers.py to ~/lighting/myapp
 ```sh
 pi@raspberrypi:~/lighting $ cd myapp
+pi@raspberrypi:~/lighting/myapp $ ls
+admin.py  apps.py  __init__.py  migrations  models.py  tests.py  views.py
 pi@raspberrypi:~/lighting/myapp $ cp ~/iot/lesson4/lighting/models.py .
 pi@raspberrypi:~/lighting/myapp $ cp ~/iot/lesson4/lighting/views.py .
 pi@raspberrypi:~/lighting/myapp $ cp ~/iot/lesson4/lighting/serializers.py .
