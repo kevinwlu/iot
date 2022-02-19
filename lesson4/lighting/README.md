@@ -63,6 +63,7 @@ pi@raspberrypi:~/lighting/myapp/static $ cd ~/lighting
 pi@raspberrypi:~/lighting $ cp ~/iot/lesson4/lighting/controller.py .
 ```
 ## After the first time, skip these three steps if no changes
+* The superuser PASSWORD shall be the same as the one in views.py
 ```sh
 pi@raspberrypi:~/lighting $ python3 manage.py makemigrations myapp
 pi@raspberrypi:~/lighting $ python3 manage.py migrate
