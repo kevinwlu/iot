@@ -9,6 +9,7 @@
   * [Django's Structure - A Heretic’s Eye View](https://djangobook.com/mdj2-django-structure/) by [The Django Book](https://djangobook.com/)
 * [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer) (REST)
   * [Django REST framework](https://www.django-rest-framework.org/)
+* [Web Server Gateway Interface](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface) (WSGI)
 * [Databases](https://docs.djangoproject.com/en/3.2/ref/databases/)
   * [MariaDB](https://en.wikipedia.org/wiki/MariaDB)
   * [MySQL](https://en.wikipedia.org/wiki/MySQL)
