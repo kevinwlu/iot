@@ -4,6 +4,7 @@
 
 > Django is pronounced JANG-oh. The “D” is silent.
 
+* [What is the history of the Django web framework? Why has it been described as "developed in a newsroom"?](https://www.quora.com/What-is-the-history-of-the-Django-web-framework-Why-has-it-been-described-as-developed-in-a-newsroom)
 * [Django Software Foundation](https://en.wikipedia.org/wiki/Django_Software_Foundation)
   * [Django's Structure - A Heretic’s Eye View](https://djangobook.com/mdj2-django-structure/) by [The Django Book](https://djangobook.com/)
 * [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer) (REST)
