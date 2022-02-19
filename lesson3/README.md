@@ -14,6 +14,7 @@
   * [PyPI](https://en.wikipedia.org/wiki/Python_Package_Index) (Python Package Index))
   * [Keyboard interrupt](https://en.wikipedia.org/wiki/Keyboard_interrupt)
   * [Control-C](https://en.wikipedia.org/wiki/Control-C)
+* [Data type](https://en.wikipedia.org/wiki/Data_type)
 * [Metasyntactic variable](https://en.wikipedia.org/wiki/Metasyntactic_variable)
   * [Foobar](https://en.wikipedia.org/wiki/Foobar)
   * [Jargon File](https://en.wikipedia.org/wiki/Jargon_File)
