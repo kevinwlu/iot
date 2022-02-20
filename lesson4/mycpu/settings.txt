@@ -16,3 +16,7 @@ INSTALLED_APPS = [
     'myapp',
     'rest_framework',
 ]
+
+# If desired, change the default UTC TIME_ZONE
+
+TIME_ZONE = 'America/New_York'
