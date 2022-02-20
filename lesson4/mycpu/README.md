@@ -18,6 +18,8 @@ manage.py  myapp/  mycpu/
 * Follow ~/iot/lesson4/mycpu/settings.txt, e.g., add myapp and rest_framework to INSTALLED_APPS
 ```sh
 ~/mycpu $ cd mycpu
+~/mycpu/mycpu $ ls
+asgi.py  __init__.py  __pycache__  settings.py  urls.py  wsgi.py
 ~/mycpu/mycpu $ nano settings.py
 ```
 ## Copy urls.py to ~/mycpu/mycpu
