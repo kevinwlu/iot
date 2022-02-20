@@ -1,4 +1,4 @@
-# Drango REST Project "MyRasPi"
+# Drango REST Project "MyRasPi" on Raspberry Pi
 
 * This project requires a Raspberry Pi and system_info.py from Lesson 3
 
