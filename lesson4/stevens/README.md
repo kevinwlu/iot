@@ -35,6 +35,8 @@ MariaDB [mysql]> quit
 * Remember to change PASSWORD for MySQL user pi
 ```sh
 pi@raspberrypi:~/stevens $ cd stevens
+pi@raspberrypi:~/stevens/stevens $ ls
+asgi.py  __init__.py  __pycache__  settings.py  urls.py  wsgi.py
 pi@raspberrypi:~/stevens/stevens $ nano settings.py
 ```
 ## Copy urls.py to ~/stevens/stevens
