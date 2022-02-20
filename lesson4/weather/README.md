@@ -44,6 +44,8 @@ pi@raspberrypi:~/weather/weather $ cd ..
 ## Copy admin.py, models.py, views.py, and serializers.py to ~/weather/myapp
 ```sh
 pi@raspberrypi:~/weather $ cd myapp
+pi@raspberrypi:~/weather/myapp $ ls
+admin.py  apps.py  __init__.py  migrations  models.py  tests.py  views.py
 pi@raspberrypi:~/weather/myapp $ cp ~/iot/lesson4/weather/admin.py .
 pi@raspberrypi:~/weather/myapp $ cp ~/iot/lesson4/weather/models.py .
 pi@raspberrypi:~/weather/myapp $ cp ~/iot/lesson4/weather/views.py .
