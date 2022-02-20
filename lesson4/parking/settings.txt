@@ -1,6 +1,6 @@
 # Edit settings.py that was generated from the command 'django-admin startproject parking'
 
-# Add IP addresses at Stevens, home, or cloud server
+# Add '*' to ALLOWED_HOSTS
 
 ALLOWED_HOSTS = ['*']
 
@@ -42,6 +42,6 @@ DATABASES = {
     }
 }
 
-# If desired, change TIME_ZONE
+# If desired, change the default UTC TIME_ZONE
 
 TIME_ZONE = 'America/New_York'
