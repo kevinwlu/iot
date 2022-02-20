@@ -1,4 +1,4 @@
-# Django REST Project "Weather"
+# Django REST Project "Weather" on Raspberry Pi
 
 ![dht22_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson4/weather/dht22_bb.png)
 
