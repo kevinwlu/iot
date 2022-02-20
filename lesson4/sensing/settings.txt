@@ -42,6 +42,6 @@ DATABASES = {
     }
 }
 
-# Change TIME_ZONE
+# If desired, change TIME_ZONE
 
 TIME_ZONE = 'America/New_York'
