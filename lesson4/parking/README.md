@@ -1,4 +1,4 @@
-# Django REST Project "Parking"
+# Django REST Project "Parking" on Raspberry Pi
 
 This project needs a ultrasonic distance sensor HC-SR04:
 
