@@ -32,6 +32,8 @@ MariaDB [mysql]> quit
 * Remember to change PASSWORD for MySQL user
 ```sh
 pi@raspberrypi:~/sensing $ cd sensing
+pi@raspberrypi:~/sensing/sensing $ ls
+asgi.py  __init__.py  __pycache__  settings.py  urls.py  wsgi.py
 pi@raspberrypi:~/sensing/sensing $ nano settings.py
 ```
 ## Copy urls.py to ~/sensing/sensing
