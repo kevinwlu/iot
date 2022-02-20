@@ -17,7 +17,7 @@ manage.py  myapp/  xidian/
 
 ## Edit settings.py in ~/xidian/xidian
 
-* Follow ~/iot/lesson4/xidian/settings.txt
+* Follow ~/iot/lesson4/stevens/settings.txt
 
 ```sh
 ~/xidian $ cd xidian
@@ -52,7 +52,7 @@ manage.py  myapp/  xidian/
   * [AutoNavi](https://en.wikipedia.org/wiki/AutoNavi)
   * [Guide](https://lbs.amap.com/api/javascript-api/guide/abc/prepare)
 
-## Edit index.html to add the Google Maps API key
+## Edit index.html to change from "Stevens Institute of Technology" to "Xidian University" and add the Maps API key
 ```sh
 ~/xidian/myapp/templates/myapp $ nano index.html
 ```
@@ -102,7 +102,7 @@ Superuser created successfully.
 
 ### View app at http://127.0.0.1:8000
 
-## Alternatively, run Django server at [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)
+## Alternatively, run Django server at [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0):8000
 ```sh
 ~/xidian $ python3 manage.py runserver 0.0.0.0:8000
 ```
