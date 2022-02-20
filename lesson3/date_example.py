@@ -5,8 +5,8 @@ print('Date: ' + now.strftime('%m-%d-%y'))
 print('Day of Week: ' + now.strftime('%A'))
 print('Month: ' + now.strftime('%B'))
 print('Year: ' + now.strftime('%Y'))
-first = date(2021, 8, 30)
-last = date(2021, 12, 10)
+first = date(2022, 1, 18)
+last = date(2022, 5, 18)
 timediff = now - first
 print('{:d} days after the first day of classes'.format(timediff.days))
 timediff = last - now
