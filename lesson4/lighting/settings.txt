@@ -1,6 +1,6 @@
 # Edit settings.py that was generated from the command 'django-admin startproject lighting'
 
-# Add IP addresses at Stevens, home, or cloud server
+# Add '*' to ALLOWED_HOSTS
 
 ALLOWED_HOSTS = ['*']
 
