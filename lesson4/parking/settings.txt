@@ -17,7 +17,16 @@ INSTALLED_APPS = [
     'rest_framework',
 ]
 
-# Change database to MySQL and change PASSWORD
+# The default database is SQLite3
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
+    }
+}
+
+# If desired, change database to MySQL with its root password
 
 DATABASES = {
     'default': {
@@ -33,6 +42,6 @@ DATABASES = {
     }
 }
 
-# Change TIME_ZONE
+# If desired, change TIME_ZONE
 
 TIME_ZONE = 'America/New_York'
