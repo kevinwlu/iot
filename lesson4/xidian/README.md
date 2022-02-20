@@ -43,7 +43,7 @@ manage.py  myapp/  xidian/
 ~/xidian/myapp/templates $ cd myapp
 ~/xidian/myapp/templates/myapp $ cp ~/iot/lesson4/stevens/index.html .
 ```
-## Enable Google Maps API
+## Enable Maps API
 * [Application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface) (API)
 * [Google Maps Platform](https://cloud.google.com/maps-platform)
 * [Get Google Maps API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
