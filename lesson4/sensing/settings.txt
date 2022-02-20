@@ -17,6 +17,15 @@ INSTALLED_APPS = [
     'rest_framework',
 ]
 
+# The default database is SQLite3
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
+    }
+}
+
 # Change database to MySQL and change PASSWORD
 
 DATABASES = {
