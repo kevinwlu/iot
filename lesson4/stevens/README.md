@@ -121,8 +121,9 @@ pi@raspberrypi:~/stevens $ python3 manage.py runserver
 
 ### View app at http://127.0.0.1:8000
 
-## If settings.py has '*' in ALLOWED_HOSTS, run Django server at [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)
+## If settings.py has an asterisk in ALLOWED_HOSTS, run Django server at [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)
 ```sh
 pi@raspberrypi:~/stevens $ python3 manage.py runserver 0.0.0.0:8000
 ```
 ## Open a laptop browser and go to the Raspbbery Pi IP address as opposed to the localhost
+![stevens.png](/stevens/stevens.png)
