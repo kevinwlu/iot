@@ -47,6 +47,8 @@ pi@raspberrypi:~/stevens/stevens $ cd ..
 ## Copy admin.py, models.py, and views.py to ~/stevens/myapp
 ```sh
 pi@raspberrypi:~/stevens $ cd myapp
+pi@raspberrypi:~/stevens/myapp $ ls
+admin.py  apps.py  __init__.py  migrations  models.py  tests.py  views.py
 pi@raspberrypi:~/stevens/myapp $ cp ~/iot/lesson4/stevens/admin.py .
 pi@raspberrypi:~/stevens/myapp $ cp ~/iot/lesson4/stevens/models.py .
 pi@raspberrypi:~/stevens/myapp $ cp ~/iot/lesson4/stevens/views.py .
