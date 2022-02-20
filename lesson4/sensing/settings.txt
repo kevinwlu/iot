@@ -26,7 +26,7 @@ DATABASES = {
     }
 }
 
-# Change database to MySQL and change PASSWORD
+# If desired, change database to MySQL with its root password
 
 DATABASES = {
     'default': {
