@@ -30,6 +30,8 @@ asgi.py  __init__.py  __pycache__  settings.py  urls.py  wsgi.py
 ## Copy admin.py, models.py, views.py, and serializers.py to ~/mycpu/myapp
 ```sh
 ~/mycpu $ cd myapp
+~/mycpu/myapp $ ls
+admin.py  apps.py  __init__.py  migrations  models.py  tests.py  views.py
 ~/mycpu/myapp $ cp ~/iot/lesson4/mycpu/admin.py .
 ~/mycpu/myapp $ cp ~/iot/lesson4/mycpu/models.py .
 ~/mycpu/myapp $ cp ~/iot/lesson4/mycpu/views.py .
