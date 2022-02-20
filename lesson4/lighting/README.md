@@ -91,7 +91,7 @@ pi@raspberrypi:~/lighting $ python3 controller.py
 ```
 ## View app at http://127.0.0.1:8000/home
 
-## Alternatively, run Django server at [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)
+## Alternatively, run Django server at [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0):8000
 ```sh
 pi@raspberrypi:~/lighting $ python3 manage.py runserver 0.0.0.0:8000
 ```
