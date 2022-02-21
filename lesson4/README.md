@@ -152,9 +152,10 @@ $ sudo service apache2 restart
 ```
 ### 2. Open a Chromium browser and go to http://127.0.0.1, i.e., [localhost](https://en.wikipedia.org/wiki/Localhost), to view the Apache2 Debian Default Page
 ```sh
-$ sudo apt install php7.3
+$ sudo apt install php
 $ cd /var/www/html
 $ ls
+index.html
 $ sudo mv index.html index.html.bak
 $ sudo cp ~/iot/lesson4/index.php .
 $ sudo service apache2 restart
@@ -163,7 +164,7 @@ $ sudo service apache2 restart
 
 ### 4. Build a Linux-Apache-MySQL-PHP (LAMP) web server with [WordPress](https://en.wikipedia.org/wiki/WordPress)
 ```sh
-$ sudo apt install php7.3-mysql
+$ sudo apt install php-mysql
 $ cd /var/www/html
 $ sudo chown pi: .
 $ mv index.php index.php.bak
