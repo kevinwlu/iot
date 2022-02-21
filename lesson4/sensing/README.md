@@ -1,6 +1,6 @@
 # Django REST Project "Sensing" on Raspberry Pi
 
-This project needs a [magnetic contact switch](https://en.wikipedia.org/wiki/Reed_switch) [door sensor](https://www.adafruit.com/product/375) and a PIR ([passive infrared](https://en.wikipedia.org/wiki/Passive_infrared_sensor)) [motion sensor](https://www.adafruit.com/product/189) such as DYP-ME003 or HC-SR501.
+This project needs a [magnetic contact switch](https://en.wikipedia.org/wiki/Reed_switch) ([door sensor](https://www.adafruit.com/product/375)) and a PIR ([passive infrared](https://en.wikipedia.org/wiki/Passive_infrared_sensor)) [motion sensor](https://www.adafruit.com/product/189) such as DYP-ME003 or HC-SR501.
 
 ![pir-door_bb.png](/lesson4/sensing/pir-door_bb.png)
 
