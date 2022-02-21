@@ -21,6 +21,8 @@ manage.py  myapp/  xidian/
 
 ```sh
 ~/xidian $ cd xidian
+~/xidian/xidian $ ls
+asgi.py  __init__.py  __pycache__  settings.py  urls.py  wsgi.py
 ~/xidian/xidian $ nano settings.py
 ```
 ## Copy urls.py to ~/xidian/xidian
@@ -31,6 +33,8 @@ manage.py  myapp/  xidian/
 ## Copy admin.py, models.py, and views.py to ~/xidian/myapp
 ```sh
 ~/xidian $ cd myapp
+~/xidian/myapp $ ls
+
 ~/xidian/myapp $ cp ~/iot/lesson4/stevens/admin.py .
 ~/xidian/myapp $ cp ~/iot/lesson4/stevens/models.py .
 ~/xidian/myapp $ cp ~/iot/lesson4/stevens/views.py .
