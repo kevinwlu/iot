@@ -17,7 +17,7 @@ manage.py  myapp/  xidian/
 
 ## Edit settings.py in ~/xidian/xidian
 
-* Follow ~/iot/lesson4/stevens/settings.txt
+* Follow ~/iot/lesson4/xidian/settings.txt
 
 ```sh
 ~/xidian $ cd xidian
@@ -34,7 +34,7 @@ asgi.py  __init__.py  __pycache__  settings.py  urls.py  wsgi.py
 ```sh
 ~/xidian $ cd myapp
 ~/xidian/myapp $ ls
-
+admin.py  apps.py  __init__.py  migrations  models.py  tests.py  views.py
 ~/xidian/myapp $ cp ~/iot/lesson4/stevens/admin.py .
 ~/xidian/myapp $ cp ~/iot/lesson4/stevens/models.py .
 ~/xidian/myapp $ cp ~/iot/lesson4/stevens/views.py .
