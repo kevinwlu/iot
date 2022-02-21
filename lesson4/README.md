@@ -172,7 +172,6 @@ $ wget http://wordpress.org/latest.tar.gz
 $ tar xzf latest.tar.gz
 $ mv wordpress/* .
 $ rm -rf wordpress latest.tar.gz
-$ cd
 ```
 ### 5. Create database and grant all privileges
 ```sh
