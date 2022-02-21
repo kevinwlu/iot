@@ -82,6 +82,10 @@ pi@raspberrypi:~/myraspi/myapp/static/myapp $ cd ~/myraspi
 pi@raspberrypi:~/myraspi $ cp ~/iot/lesson3/system_info.py .
 pi@raspberrypi:~/myraspi $ cp ~/iot/lesson4/myraspi/controller.py .
 ```
+## vcgencmd has been moved out of /opt/vc/bin/ and into /usr/bin in Bullseye
+```sh
+pi@raspberrypi:~/myraspi $ nano system_info.py
+```
 ## Change the default password 'raspberry' in controller.py
 ```sh
 pi@raspberrypi:~/myraspi $ nano controller.py
@@ -140,3 +144,4 @@ pi@raspberrypi:~/myraspi $ python3 controller.py
 pi@raspberrypi:~/myraspi $ python3 manage.py runserver 0.0.0.0:8000
 ```
 ## Open a laptop browser and go to the Raspbbery Pi IP address as opposed to the localhost
+![myraspi.png](/lesson4/myraspi/myraspi.png)
