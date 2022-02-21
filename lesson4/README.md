@@ -190,7 +190,12 @@ MariaDB [mysql]> quit
 $ sudo service apache2 restart
 ```
 ### 6. Open a Chromium browser and go to http://127.0.0.1 to configure WordPress
+![wordpress.png](/lesson4/wordpress.png)
 ```sh
 $ nano wp-config.php
 ```
 ### 7. Copy the highlighted text, paste it, save wp-config.php, and run the installation
+![wp-config.png](/lesson4/wp-config.png)
+### 8. Log in
+![wp-login](/lesson4/wp-login.png)
+![wp-home.png](/lesson4/wp-home.png)
