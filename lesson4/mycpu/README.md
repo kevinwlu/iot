@@ -15,7 +15,7 @@ manage.py  mycpu/
 manage.py  myapp/  mycpu/
 ```
 ## Edit settings.py in ~/mycpu/mycpu
-* Follow ~/iot/lesson4/mycpu/settings.txt, e.g., add myapp and rest_framework to INSTALLED_APPS
+* Follow ~/iot/lesson4/mycpu/settings.txt, e.g., add an asterisk to ALLOWED_HOSTS as well as myapp and rest_framework to INSTALLED_APPS
 ```sh
 ~/mycpu $ cd mycpu
 ~/mycpu/mycpu $ ls
@@ -134,7 +134,7 @@ Superuser created successfully.
 ```
 ## View app at http://127.0.0.1:8000/home
 
-## If settings.py has '*' in ALLOWED_HOSTS, run Django server at [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)
+## Alternatively, run Django server at [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0):8000
 ```sh
 ~/mycpu $ python manage.py runserver 0.0.0.0:8000
 ```
