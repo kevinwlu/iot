@@ -117,10 +117,10 @@ pi@raspberrypi:~/sensing $ python3 manage.py runserver 0.0.0.0:8000
 ```
 ## Open a laptop browser and go to the Raspbbery Pi IP address as opposed to the localhost
 
-![sensing.png](/lession4/sensing/sensing.png)
+![sensing.png](/lesson4/sensing/sensing.png)
 
-![sensing-room.png](/lession4/sensing/sensing-room.png)
+![sensing-room.png](/lesson4/sensing/sensing-room.png)
 
-![sensing-door.png](/lession4/sensing/sensing-door.png)
+![sensing-door.png](/lesson4/sensing/sensing-door.png)
 
-![sensing-room-door.png](/lession4/sensing/sensing-room-door.png)
+![sensing-room-door.png](/lesson4/sensing/sensing-room-door.png)
