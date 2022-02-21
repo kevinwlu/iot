@@ -111,3 +111,5 @@ Superuser created successfully.
 ~/xidian $ python manage.py runserver 0.0.0.0:8000
 ```
 ## Open a browser on another laptop and go to the server IP address
+
+![xidian.png](/lesson4/xidian/xidian.png)
