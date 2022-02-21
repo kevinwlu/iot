@@ -111,8 +111,12 @@ pi@raspberrypi:~/sensing $ python3 controller.py
 ```
 ## View app at http://127.0.0.1:8000/home
 
-## Alternatively, run Django server at [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)
+## Alternatively, run Django server at [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0):8000
 ```sh
 pi@raspberrypi:~/sensing $ python3 manage.py runserver 0.0.0.0:8000
 ```
 ## Open a laptop browser and go to the Raspbbery Pi IP address as opposed to the localhost
+![sensing.png](/lession4/sensing/sensing.png)
+![sensing-room.png](/lession4/sensing/sensing-room.png)
+![sensing-door.png](/lession4/sensing/sensing-door.png)
+![sensing-room-door.png](/lession4/sensing/sensing-room-door.png)
