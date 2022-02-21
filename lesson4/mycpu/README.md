@@ -87,6 +87,7 @@ admin.py  apps.py  __init__.py  migrations  models.py  tests.py  views.py
 ~/mycpu $ sudo pip install -U psutil
 ```
 ## After the first time, skip these three steps if no changes
+* Run python3 on Raspberry Pi OS
 * Using Git for Windows, if "python manage.py createsuperuser" leads to "Superuser creation skipped due to not running in a TTY," enter "winpty python manage.py createsuperuser"
 ```sh
 ~/mycpu $ python manage.py makemigrations myapp
