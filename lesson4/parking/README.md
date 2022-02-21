@@ -1,8 +1,8 @@
 # Django REST Project "Parking" on Raspberry Pi
 
-This project needs a ultrasonic distance sensor HC-SR04:
+This project needs a ultrasonic distance sensor [HC-SR04](https://www.adafruit.com/product/3942).
 
-https://www.adafruit.com/product/3942
+![hc-sr04_bb.png](/lesson4/parking/hc-sr04_bb.png)
 
 ## Start a Django project
 ```sh
