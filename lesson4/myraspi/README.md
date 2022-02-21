@@ -140,4 +140,3 @@ pi@raspberrypi:~/myraspi $ python3 controller.py
 pi@raspberrypi:~/myraspi $ python3 manage.py runserver 0.0.0.0:8000
 ```
 ## Open a laptop browser and go to the Raspbbery Pi IP address as opposed to the localhost
-![myraspi.png](/lesson4/myraspi/myraspi.png)
