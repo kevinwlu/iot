@@ -99,6 +99,10 @@ Username (leave blank to use '_'): admin
 Email address: EMAIL_ADDRESS
 Password: admin
 Password (again): admin
+The password is too similar to the username.
+This password is too short. It must contain at least 8 characters.
+This password is too common.
+Bypass password validation and create user anyway? [y/N]: y
 Superuser created successfully.
 ```
 ## Run Django server
@@ -139,3 +143,4 @@ Superuser created successfully.
 ~/mycpu $ python manage.py runserver 0.0.0.0:8000
 ```
 ## Open a browser on another laptop and go to the server IP address
+![mycpu.png](/lesson4/mycpu/mycpu.png)
