@@ -56,7 +56,7 @@ admin.py  apps.py  __init__.py  migrations  models.py  tests.py  views.py
   * [AutoNavi](https://en.wikipedia.org/wiki/AutoNavi)
   * [Guide](https://lbs.amap.com/api/javascript-api/guide/abc/prepare)
 
-## Edit index.html to add the Maps API key, and change from "Stevens Institute of Technology" to "Xidian University" and "F" (Fahrenheit) to "C" (Celsius)
+## Edit index.html to add the Maps API key, and change from "Stevens Institute of Technology" to "Xidian University" and from "F" (Fahrenheit) to "C" (Celsius)
 ```sh
 ~/xidian/myapp/templates/myapp $ nano index.html
 ```
