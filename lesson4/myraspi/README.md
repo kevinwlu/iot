@@ -82,7 +82,7 @@ pi@raspberrypi:~/myraspi/myapp/static/myapp $ cd ~/myraspi
 pi@raspberrypi:~/myraspi $ cp ~/iot/lesson3/system_info.py .
 pi@raspberrypi:~/myraspi $ cp ~/iot/lesson4/myraspi/controller.py .
 ```
-## On Bullseye, change /opt/vc/bin/vcgencmd to /usr/bin/vcgencmd in system_info.py
+## On Raspberry Pi OS (Bullseye), change /opt/vc/bin/vcgencmd to /usr/bin/vcgencmd in system_info.py
 ```sh
 pi@raspberrypi:~/myraspi $ nano system_info.py
 ```
