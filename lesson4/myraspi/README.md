@@ -42,6 +42,8 @@ pi@raspberrypi:~/myraspi/myraspi $ cd ..
 ## Copy admin.py, models.py, views.py, and serializers.py to ~/myraspi/myapp
 ```sh
 pi@raspberrypi:~/myraspi $ cd myapp
+pi@raspberrypi:~/myraspi/myapp $ ls
+admin.py  apps.py  __init__.py  migrations  models.py  tests.py  views.py
 pi@raspberrypi:~/myraspi/myapp $ cp ~/iot/lesson4/myraspi/admin.py .
 pi@raspberrypi:~/myraspi/myapp $ cp ~/iot/lesson4/myraspi/models.py .
 pi@raspberrypi:~/myraspi/myapp $ cp ~/iot/lesson4/myraspi/views.py .
