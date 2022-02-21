@@ -4,8 +4,8 @@ import sys
 import requests
 
 GPIO.setmode(GPIO.BCM)
-SENSOR_PIN = 17
-TRIGGER_PIN = 18
+SENSOR_PIN = 17  # HC-SR04 ECHO
+TRIGGER_PIN = 18 # HC-SR04 TRIG
 threshold = 10
 
 def readUltrasonicSensor():
