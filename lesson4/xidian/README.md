@@ -108,6 +108,6 @@ Superuser created successfully.
 
 ## Alternatively, run Django server at [0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0):8000
 ```sh
-~/xidian $ python3 manage.py runserver 0.0.0.0:8000
+~/xidian $ python manage.py runserver 0.0.0.0:8000
 ```
 ## Open a browser on another laptop and go to the server IP address
