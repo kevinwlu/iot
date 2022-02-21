@@ -75,6 +75,8 @@ admin.py  apps.py  __init__.py  migrations  models.py  tests.py  views.py
 ```
 ## Copy controller.py to ~/mycpu
 ```sh
+~/mycpu $ ls
+db.sqlite3  manage.py  myapp/  mycpu/
 ~/mycpu $ cp ~/iot/lesson4/mycpu/controller.py .
 ```
 ## Change the default password 'admin' in controller.py
