@@ -115,5 +115,7 @@ pi@raspberrypi:~/parking $ python3 controller.py
 pi@raspberrypi:~/parking $ python3 manage.py runserver 0.0.0.0:8000
 ```
 ## Open a laptop browser and go to the Raspbbery Pi IP address as opposed to the localhost
+
 ![empty.png](/lesson4/parking/empty.png)
+
 ![occupied.png](/lesson4/parking/occupied.png)
