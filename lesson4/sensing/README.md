@@ -46,6 +46,8 @@ pi@raspberrypi:~/sensing/sensing $ cd ..
 ## Copy models.py, views.py, and serializers.py to ~/sensing/myapp
 ```sh
 pi@raspberrypi:~/sensing $ cd myapp
+pi@raspberrypi:~/sensing/myapp $ ls
+admin.py  apps.py  __init__.py  migrations  models.py  tests.py  views.py
 pi@raspberrypi:~/sensing/myapp $ cp ~/iot/lesson4/sensing/models.py .
 pi@raspberrypi:~/sensing/myapp $ cp ~/iot/lesson4/sensing/views.py .
 pi@raspberrypi:~/sensing/myapp $ cp ~/iot/lesson4/sensing/serializers.py .
