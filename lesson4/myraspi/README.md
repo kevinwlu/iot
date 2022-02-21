@@ -82,7 +82,7 @@ pi@raspberrypi:~/myraspi/myapp/static/myapp $ cd ~/myraspi
 pi@raspberrypi:~/myraspi $ cp ~/iot/lesson3/system_info.py .
 pi@raspberrypi:~/myraspi $ cp ~/iot/lesson4/myraspi/controller.py .
 ```
-## vcgencmd has been moved out of /opt/vc/bin/ and into /usr/bin in Bullseye
+## On Bullseye, change /opt/vc/bin/vcgencmd to /usr/bin/vcgencmd in system_info.py
 ```sh
 pi@raspberrypi:~/myraspi $ nano system_info.py
 ```
