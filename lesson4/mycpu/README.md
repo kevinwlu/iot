@@ -123,7 +123,7 @@ Superuser created successfully.
 
 ### Post the following in HTML form:
 
-* 2021 to the Dt List at http://127.0.0.1:8000/dt
+* 2022 to the Dt List at http://127.0.0.1:8000/dt
 * 20 to the Cpu List at http://127.0.0.1:8000/cpu
 * 20 to the Mem List at http://127.0.0.1:8000/mem
 
