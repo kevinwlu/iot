@@ -98,6 +98,14 @@ $ cd ~/iot/lesson4
 python3 hello_world.py
 ```
 ### 2. Terminal 1 on Raspberry Pi: Install [Flask-Ask](https://github.com/johnwheeler/flask-ask) and [Ngrok](https://ngrok.com/) for Alexa Skill Kit (ASK)
+* [Requirements](https://github.com/johnwheeler/flask-ask/blob/master/requirements.txt)
+  * aniso8601==1.2.0
+  * Flask==1.1.1
+  * cryptography==2.1.4
+  * pyOpenSSL==17.0.0
+  * PyYAML==3.12
+  * six==1.11.0
+  * Werkzeug==0.16.1
 ```sh
 $ sudo pip3 install -U flask-ask
 $ sudo pip3 install 'cryptography<2.2'
@@ -105,6 +113,7 @@ $ sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 $ sudo unzip ngrok-stable-linux-arm.zip
 $ ./ngrok http 5000
 ```
+
 ### 3. Terminal 2 on Raspberry Pi: [Memory Game](https://developer.amazon.com/blogs/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development)
 ```sh
 $ cd ~/iot/lesson4
