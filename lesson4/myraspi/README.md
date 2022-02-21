@@ -30,6 +30,8 @@ MariaDB [mysql]> quit
 ## Edit settings.py in ~/myraspi/myraspi as in settings.txt
 ```sh
 pi@raspberrypi:~/myraspi $ cd myraspi
+pi@raspberrypi:~/myraspi/myraspi $ ls
+asgi.py  __init__.py  __pycache__  settings.py  urls.py  wsgi.py
 pi@raspberrypi:~/myraspi/myraspi $ nano settings.py
 ```
 ## Copy urls.py to ~/myraspi/myraspi
