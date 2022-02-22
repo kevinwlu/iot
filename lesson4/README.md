@@ -120,7 +120,7 @@ $ cd ~/iot/lesson4
 $ python3 memory_game.py
 ```
 ### 4. Open a browser and sign in [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask)
-* Click "Create Skill" > Enter Skill name in title case: Memory Game > 1. Choose a model: Custom (SELECTED) > 2. Choose a host: Provision your own (SELECTED) > Click "Create skill" > Choose a template: Start From Scratch (SELECTED) > Click "Choose"
+* Click "Create Skill" > Enter Skill name in title case: Memory Game > 1. Choose a model: Custom > 2. Choose a host: Provision your own > Click "Create skill" > Choose a template: Start from Scratch > Click "Choose"
 * Invocation > Enter Skill Invocation Name in lowercase: memory game
 * Interaction Model > 
   * JSON Editor > Replace all intent schema and sample utterances by copying and pasting the entire content of ~/iot/lesson4/memory_game.json
