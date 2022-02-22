@@ -98,14 +98,6 @@ $ cd ~/iot/lesson4
 python3 hello_world.py
 ```
 ### 2. Terminal 1 on Raspberry Pi: Install [Flask-Ask](https://github.com/johnwheeler/flask-ask) and [Ngrok](https://ngrok.com/) for Alexa Skill Kit (ASK)
-* [Requirements](https://github.com/johnwheeler/flask-ask/blob/master/requirements.txt)
-  * aniso8601==1.2.0
-  * Flask==1.1.1
-  * cryptography==2.1.4
-  * pyOpenSSL==17.0.0
-  * PyYAML==3.12
-  * six==1.11.0
-  * Werkzeug==0.16.1
 ```sh
 $ sudo pip3 install -U flask-ask
 $ sudo pip3 install 'cryptography<2.2'
@@ -141,7 +133,15 @@ $ python3 memory_game.py
   * "six nine zero"
     
     Alexa: "Good job!"
-
+* Alexa: "There was a problem with the requested skill's response"
+  * Check [Flask-Ask Requirements](https://github.com/johnwheeler/flask-ask/blob/master/requirements.txt)
+  * aniso8601==1.2.0
+  * Flask==1.1.1
+  * cryptography==2.1.4
+  * pyOpenSSL==17.0.0
+  * PyYAML==3.12
+  * six==1.11.0
+  * Werkzeug==0.16.1
 ## Lab 4D: LAMP
 
 ### 1. On Raspberry Pi, install [Apache HTTP server](https://en.wikipedia.org/wiki/Apache_HTTP_Server) and [PHP](https://en.wikipedia.org/wiki/PHP)
