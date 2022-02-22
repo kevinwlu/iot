@@ -85,10 +85,10 @@ Reload privilege tables now? [Y/n]
 ### 4. Start Django REST project [mycpu](https://github.com/kevinwlu/iot/tree/master/lesson4/mycpu)
 ### 5. Optional: Start Django REST project [myraspi](https://github.com/kevinwlu/iot/tree/master/lesson4/myraspi) on Raspberry Pi
 ### 6. Optional: Start four Django REST projects on Raspberry Pi with sensors
-* [weather](https://github.com/kevinwlu/iot/tree/master/lesson4/weather)
 * [lighting](https://github.com/kevinwlu/iot/tree/master/lesson4/lighting)
 * [parking](https://github.com/kevinwlu/iot/tree/master/lesson4/parking)
 * [sensing](https://github.com/kevinwlu/iot/tree/master/lesson4/sensing)
+* [weather](https://github.com/kevinwlu/iot/tree/master/lesson4/weather)
 
 ## Lab 4C: Flask
 
