@@ -18,18 +18,12 @@ INSTALLED_APPS = [
 ]
 
 # The default database is SQLite3
+# If desired, change database to MySQL
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-    }
-}
-
-# If desired, change database to MySQL with its root password
-
-DATABASES = {
-    'default': {
+#        'ENGINE': 'django.db.backends.sqlite3',
+#        'NAME': BASE_DIR / 'db.sqlite3',
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'parking',
         'USER': 'pi',
