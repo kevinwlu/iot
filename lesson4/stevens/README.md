@@ -72,8 +72,11 @@ https://developers.google.com/maps/documentation/javascript/get-api-key
 https://churchthemes.com/page-didnt-load-google-maps-correctly
 
 ## Edit index.html to add the Google Maps API key
+* Without a valid API key, the map is darkened and watermarked with “this page didn’t load Google maps correctly”
+* Substitute YOUR_API_KEY in index.html with the API key
 ```sh
 pi@raspberrypi:~/stevens/myapp/templates/myapp $ nano index.html
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
 ```
 ## Copy static files
 ```sh
