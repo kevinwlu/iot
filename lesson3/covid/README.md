@@ -21,4 +21,10 @@ Population      = 334193280
 Infection rate  = 3
 Serial interval = 4
 Time to infect  = 73.98561788488546
+$ python3 covid-19.py
+Enter population: 334233448
+Enter infection rate: 3
+Enter serial interval: 4
+Time to infect: 73.98605547946643
+$ 
 ```
