@@ -23,7 +23,8 @@
   * [Paho](https://wiki.eclipse.org/Paho) (verb) to broadcast, make widely known, announce, disseminate, transmit
     * [Te Aka Maori Dictionary](https://maoridictionary.co.nz/search/?keywords=paho)
     * [Maori people](https://en.wikipedia.org/wiki/M%C4%81ori_people)
-  * [Paho](https://www.merriam-webster.com/dictionary/paho) is a [Hopi](https://en.wikipedia.org/wiki/Hopi) plumed prayer stick
+    * [Paho](https://forvo.com/search/paho/) in [Minangkabau language](https://en.wikipedia.org/wiki/Minangkabau_language)
+    * [Paho](https://www.merriam-webster.com/dictionary/paho) is a [Hopi](https://en.wikipedia.org/wiki/Hopi) plumed prayer stick
 
 ## Lab 5A: Crossbar.io
 
