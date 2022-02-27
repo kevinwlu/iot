@@ -49,6 +49,7 @@
   * [Hypertext Transfer Protocol Secure](https://en.wikipedia.org/wiki/HTTPS) (HTTPS)
   * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security) (TLS)
 * [Apache Software Foundation](https://en.wikipedia.org/wiki/The_Apache_Software_Foundation)
+  * [Apache](https://en.wikipedia.org/wiki/Apache)
 * [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySQL, PHP/Perl/Python)
 
 ## Labs 4A and 4B: Django and Django REST
