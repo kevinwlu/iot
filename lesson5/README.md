@@ -20,8 +20,9 @@
   * [Sandbox (computer security)](https://en.wikipedia.org/wiki/Sandbox_(computer_security))
   * [Cedalo](https://cedalo.com/) ([AG](https://en.wikipedia.org/wiki/Aktiengesellschaft))
   * [Eclipse Paho](https://en.wikipedia.org/wiki/Eclipse_Paho)
-  * [Paho](https://wiki.eclipse.org/Paho) (verb) to broadcast, make widely known, announce, disseminate, transmit
-    * [Paho](https://maoridictionary.co.nz/search/?keywords=paho)in Te Aka Maori Dictionary
+    * [Paho](https://wiki.eclipse.org/Paho) in Eclipse Wiki
+    * [Paho](https://maoridictionary.co.nz/search/?keywords=paho) in Te Aka Maori Dictionary
+      * (Verb) to broadcast, make widely known, announce, disseminate, transmit
       * [Maori people](https://en.wikipedia.org/wiki/M%C4%81ori_people)
     * [Paho](https://forvo.com/search/paho/) in [Minangkabau language](https://en.wikipedia.org/wiki/Minangkabau_language)
     * [Paho](https://www.merriam-webster.com/dictionary/paho) is a [Hopi](https://en.wikipedia.org/wiki/Hopi) plumed prayer stick
