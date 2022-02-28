@@ -38,7 +38,7 @@
 $ docker version
 $ docker images
 $ docker 
-$ docker run -rm hello-world
+$ docker run --rm hello-world
 $ docker run -it ubuntu bash
 # pwd
 # ls
