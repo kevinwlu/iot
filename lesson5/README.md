@@ -158,7 +158,7 @@ $ python3 subcpu.py
 ```sh
 $ python3 pubcpu.py
 ```
-### On Raspberry Pi
+### On Raspberry Pi OS (Bullseye), change /opt/vc/bin/vcgencmd to /usr/bin/vcgencmd in system_info.py
 * Copy ~/iot/lesson5/system_info.py to ~/demo
 * Copy ~/iot/lesson5/subraspi.py to ~/demo
 * Copy ~/iot/lesson5/pubraspi.py to ~/demo
