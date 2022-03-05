@@ -9,7 +9,7 @@
   * [ARM architecture](https://en.wikipedia.org/wiki/ARM_architecture)
   * [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) (Reduced instruction set computer)
 * [Microcomputer](https://en.wikipedia.org/wiki/Microcomputer)
-* [Single-board computer](https://en.wikipedia.org/wiki/Single-board_computer)
+* [Single-board computer](https://en.wikipedia.org/wiki/Single-board_computer) (SBC)
 * [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
   * [Raspberry](https://en.wikipedia.org/wiki/Raspberry) fruit
   * [Raspberry](https://www.merriam-webster.com/dictionary/raspberry) tart
