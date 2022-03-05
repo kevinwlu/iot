@@ -12,7 +12,7 @@
   * [SoftwareSerial Library](https://www.arduino.cc/en/Reference/softwareSerial)
   * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
   * [Seeeduino XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/)
-  * [TinyDuino](https://tinycircuits.com/products/tinyduino-processor-board)
+  * [TinyDuino](https://tinycircuits.com/products/tinyduino-processor-board) by [TinyCircuits](https://tinycircuits.com/)
 * [STM32](https://en.wikipedia.org/wiki/STM32)
   * [Nucleo-64](https://www.st.com/en/evaluation-tools/nucleo-f072rb.html)
   * [Mbed](https://en.wikipedia.org/wiki/Mbed)
