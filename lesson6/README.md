@@ -11,7 +11,7 @@
   * [List of Arduino boards and compatible systems](https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems)
   * [SoftwareSerial Library](https://www.arduino.cc/en/Reference/softwareSerial)
   * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
-  * [Seeeduino XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/)
+  * [Seeeduino XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/) by [Seeed](https://www.seeed.cc/) 
   * [TinyDuino](https://tinycircuits.com/products/tinyduino-processor-board) by [TinyCircuits](https://tinycircuits.com/)
 * [STM32](https://en.wikipedia.org/wiki/STM32)
   * [Nucleo-64](https://www.st.com/en/evaluation-tools/nucleo-f072rb.html)
