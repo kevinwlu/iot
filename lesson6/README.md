@@ -120,11 +120,11 @@ $ python3 say_hello.py
 
 ## Optional Lab 6C: Particle Cloud
 
-[The Particle on Raspberry Pi project has been discontinued](https://docs.particle.io/raspberry-pi/)
-
-* Uninstall Particle Agent and its dependencies on Raspberry Pi 4B if 
-    * Error claiming Raspberry Pi 4B to the Particle account
-    * Raspberry Pi 4B green LED is on constantly
+* [The Particle on Raspberry Pi project has been discontinued](https://docs.particle.io/raspberry-pi/)
+* Raspberry Pi 4B is not supported
+  * Error claiming Raspberry Pi 4B to the Particle account
+  * Raspberry Pi 4B green LED is on constantly
+  * Uninstall Particle Agent and its dependencies on Raspberry Pi 4B
 
 ### Sign up and log in Particle at https://www.particle.io
 
