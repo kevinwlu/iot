@@ -1,15 +1,6 @@
 # Lesson 5: Crossbar.io and Paho
 
 * [Publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) (Pub/Sub)
-* [Web application messaging protocol](https://en.wikipedia.org/wiki/Web_Application_Messaging_Protocol) (WAMP)
-  * [WAMP specification](https://wamp-proto.org/spec.html)
-  * [cURL](https://en.wikipedia.org/wiki/CURL) (Client URL)
-  * [Docker](https://en.wikipedia.org/wiki/Docker_(software))
-  * [List of Linux containers](https://en.wikipedia.org/wiki/List_of_Linux_containers)
-  * [ARM architecture](https://en.wikipedia.org/wiki/ARM_architecture)
-  * ARM [hard float](https://www.raspberrypi.org/forums/viewtopic.php?t=11177) (armhf)
-  * [Crossbar.io](https://crossbar.io/docs/Getting-Started/) ([GmbH](https://en.wikipedia.org/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung))
-  * [Crossbar switch](https://en.wikipedia.org/wiki/Crossbar_switch)
 * [Message queuing telemetry transport](https://en.wikipedia.org/wiki/MQTT) (MQTT)
   * [OASIS](https://en.wikipedia.org/wiki/OASIS_(organization)) (Organization for the Advancement of Structured Information Standards)
   * [MQTT specification](https://mqtt.org/mqtt-specification/)
@@ -27,70 +18,17 @@
     * [Paho](https://forvo.com/search/paho/) in [Minangkabau language](https://en.wikipedia.org/wiki/Minangkabau_language)
     * [Paho](https://www.merriam-webster.com/dictionary/paho) is a [Hopi](https://en.wikipedia.org/wiki/Hopi) plumed prayer stick
     * [Paho](https://en.wikipedia.org/wiki/Paho) is a village in Khiron block of Rae Bareli district, Uttar Pradesh, India
+* [Web application messaging protocol](https://en.wikipedia.org/wiki/Web_Application_Messaging_Protocol) (WAMP)
+  * [WAMP specification](https://wamp-proto.org/spec.html)
+  * [cURL](https://en.wikipedia.org/wiki/CURL) (Client URL)
+  * [Docker](https://en.wikipedia.org/wiki/Docker_(software))
+  * [List of Linux containers](https://en.wikipedia.org/wiki/List_of_Linux_containers)
+  * [ARM architecture](https://en.wikipedia.org/wiki/ARM_architecture)
+  * ARM [hard float](https://www.raspberrypi.org/forums/viewtopic.php?t=11177) (armhf)
+  * [Crossbar.io](https://crossbar.io/docs/Getting-Started/) ([GmbH](https://en.wikipedia.org/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung))
+  * [Crossbar switch](https://en.wikipedia.org/wiki/Crossbar_switch)
 
-## Lab 5A: Crossbar.io
-
-### [Docker Get Started](https://www.docker.com/get-started) includes
-
-* Docker Desktop download for [macOS](https://docs.docker.com/docker-for-mac/install/) or [Windows](https://docs.docker.com/docker-for-windows/install/)
-* Docker Engine for [Linux](https://docs.docker.com/engine/install/) (CentOS, Debian, Fedora, Raspberry Pi OS, and Ubuntu)
-```sh
-$ docker version
-$ docker images
-$ docker 
-$ docker run --rm hello-world
-$ docker run -it ubuntu bash
-# pwd
-# ls
-# cat /etc/os-release
-# date
-# exit
-```
-
-### On Raspberry Pi, install Docker
-* Install Docker on Raspberry Pi OS by following these [instructions](https://withblue.ink/2020/06/24/docker-and-docker-compose-on-raspberry-pi-os.html)
-* Run [cURL](https://en.wikipedia.org/wiki/CURL) to download data from [example.com](https://en.wikipedia.org/wiki/Example.com) with or without the progress meter
-* Run Docker commands and hello-world
-* Add pi to the Docker group as a non-root user, logout SSH, and reconnect SSH for this to take effect
-```sh
-$ man curl
-$ curl example.com
-$ curl -o example.txt example.com
-$ cat example.txt
-$ sudo docker version
-$ sudo docker images
-$ sudo docker run --rm hello-world
-$ sudo docker images
-$ sudo usermod -aG docker pi
-$ logout
-```
-### Run Crossbar.io router on Raspberry Pi Terminal 1
-```sh
-$ git clone https://github.com/crossbario/crossbar-examples
-$ cd crossbar-examples/getting-started
-$ tree
-$ docker pull crossbario/crossbar-armhf
-$ docker run -v $PWD:/node -u 0 --rm --name=crossbar -it -p 8080:8080 crossbario/crossbar-armhf
-```
-* Open a browser and go to 192.168.x.xxx:8080/info (or 127.0.0.1:8080/info via VNC Viewer) to view the Crossbar.io node information
-### Run publish-client on Raspberry Pi Terminal 2
-```sh
-$ sudo pip3 install -U autobahn[twisted,encryption,serialization,xbr]
-$ cd crossbar-examples/getting-started
-$ cd .crossbar
-$ ls
-$ cat config.json
-$ cd ..
-$ cd 1.hello-world
-$ python3 client_component_publish.py
-```
-### Run subscribe-client on Raspberry Pi Terminal 3
-```sh
-$ cd crossbar-examples/getting-started/1.hello-world/
-$ python3 client_component_subscribe.py
-```
-* Press control-c to stop subscribe-client > publish-client > router
-## Lab 5B: Eclipse Mosquitto and Eclipse Paho
+## Lab 5A: Eclipse Mosquitto and Eclipse Paho
 
 ### On Windows, [download](https://mosquitto.org/download/) and install Mosquitto
 * Go to System Properties > Environment Variables > Path > New, and enter C:\Program Files\Mosquitto
@@ -179,3 +117,66 @@ $ cp ~/iot/lesson5/pubraspi.py .
 $ nano pubraspi.py
 $ python3 pubraspi.py
 ```
+
+## Optional Lab 5B: Crossbar.io
+
+### [Docker Get Started](https://www.docker.com/get-started) includes
+
+* Docker Desktop download for [macOS](https://docs.docker.com/docker-for-mac/install/) or [Windows](https://docs.docker.com/docker-for-windows/install/)
+* Docker Engine for [Linux](https://docs.docker.com/engine/install/) (CentOS, Debian, Fedora, Raspberry Pi OS, and Ubuntu)
+```sh
+$ docker version
+$ docker images
+$ docker 
+$ docker run --rm hello-world
+$ docker run -it ubuntu bash
+# pwd
+# ls
+# cat /etc/os-release
+# date
+# exit
+```
+
+### On Raspberry Pi, install Docker
+* Install Docker on Raspberry Pi OS by following these [instructions](https://withblue.ink/2020/06/24/docker-and-docker-compose-on-raspberry-pi-os.html)
+* Run [cURL](https://en.wikipedia.org/wiki/CURL) to download data from [example.com](https://en.wikipedia.org/wiki/Example.com) with or without the progress meter
+* Run Docker commands and hello-world
+* Add pi to the Docker group as a non-root user, logout SSH, and reconnect SSH for this to take effect
+```sh
+$ man curl
+$ curl example.com
+$ curl -o example.txt example.com
+$ cat example.txt
+$ sudo docker version
+$ sudo docker images
+$ sudo docker run --rm hello-world
+$ sudo docker images
+$ sudo usermod -aG docker pi
+$ logout
+```
+### Run Crossbar.io router on Raspberry Pi Terminal 1
+```sh
+$ git clone https://github.com/crossbario/crossbar-examples
+$ cd crossbar-examples/getting-started
+$ tree
+$ docker pull crossbario/crossbar-armhf
+$ docker run -v $PWD:/node -u 0 --rm --name=crossbar -it -p 8080:8080 crossbario/crossbar-armhf
+```
+* Open a browser and go to 192.168.x.xxx:8080/info (or 127.0.0.1:8080/info via VNC Viewer) to view the Crossbar.io node information
+### Run publish-client on Raspberry Pi Terminal 2
+```sh
+$ sudo pip3 install -U autobahn[twisted,encryption,serialization,xbr]
+$ cd crossbar-examples/getting-started
+$ cd .crossbar
+$ ls
+$ cat config.json
+$ cd ..
+$ cd 1.hello-world
+$ python3 client_component_publish.py
+```
+### Run subscribe-client on Raspberry Pi Terminal 3
+```sh
+$ cd crossbar-examples/getting-started/1.hello-world/
+$ python3 client_component_subscribe.py
+```
+* Press control-c to stop subscribe-client > publish-client > router
