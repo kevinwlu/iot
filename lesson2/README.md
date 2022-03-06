@@ -46,7 +46,7 @@
   * Main/microcontroller out secondary/sensor in (MOSI)
   * Serial clock (SCLK)
   * Chip enable (CE0/CE1)
-* [Inter-integrated circuit](https://en.wikipedia.org/wiki/I%C2%B2C) (I2C)
+* [Inter-integrated circuit](https://en.wikipedia.org/wiki/I%C2%B2C) (I<sup>2</sup>C, I2C, or IIC)
   * Serial data line (SDA)
   * Serial clock line (SCL)
 * [1-Wire](https://en.wikipedia.org/wiki/1-Wire)
