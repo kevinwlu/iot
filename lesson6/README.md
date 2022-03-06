@@ -128,6 +128,13 @@ $ cd ~/iot/lesson6
 $ cat say_hello.mustache
 $ cat say_hello.py
 $ python3 say_hello.py
+Hi Alexa!
+Hello, World!
+
+['Hey ', _SectionNode(key='who', index_begin=12, index_end=18, parsed=[_EscapeNode(key='.'), '!'])]
+Hey Google!
+Hey Siri!
+$
 ```
 
 ## Optional Lab 6C: Particle Cloud
