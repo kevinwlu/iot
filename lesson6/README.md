@@ -76,6 +76,20 @@ $ npm -v
 $ node -h
 $ cd ~/iot/lesson6
 $ node hello-world.js
+$ node hello.js
+Server running at http://127.0.0.1:8080/
+response end call done
+request end event fired
+response end call done
+request end event fired
+^C
+$ node http.js
+0
+
+1
+2
+^C
+$
 ```
 ### On Raspberry Pi via VNC Viewer, click the application menu on the left upper corner, select Programming to check whether Node-RED is installed
 * If Node-RED is not installed, select Preferences > Recommended Software to install Node-RED
@@ -90,7 +104,6 @@ $ node -v
 $ npm -v
 $ node -h
 $ cd ~/iot/lesson6
-$ cat hello.js
 $ node hello.js
 Server running at http://127.0.0.1:8080/
 response end call done
@@ -98,7 +111,6 @@ request end event fired
 response end call done
 request end event fired
 ^C
-$ cat http.js
 $ node http.js
 0
 
