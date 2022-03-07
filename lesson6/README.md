@@ -28,7 +28,7 @@
   * [Obsidian Boa](https://github.com/gregdavill/obsidian-boa)
 * [AT&T IoT Starter Kit](https://github.com/att-iotstarterkits/sk2-Users-Guide)
   * [Avnet](https://en.wikipedia.org/wiki/Avnet)
-  * [WNC](https://www.wnc.com.tw/) (Wistron NeWeb Corporation)
+  * [WNC](https://www.wnc.com.tw/) ([Wistron](https://en.wikipedia.org/wiki/Wistron) NeWeb Corporation)
   * [OpenEmbedded](https://en.wikipedia.org/wiki/OpenEmbedded)
   * [Yocto](https://en.wikipedia.org/wiki/Yocto_Project)
   * [M18Qx IoT Monitor](https://github.com/Avnet/M18QxIotMonitor)
