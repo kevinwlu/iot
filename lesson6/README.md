@@ -45,6 +45,7 @@
 * [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System) (GPS)
 * [Hirose U.FL](https://en.wikipedia.org/wiki/Hirose_U.FL) connectors
 * [Lithium-ion polymer (LiPo) battery](https://en.wikipedia.org/wiki/Lithium_polymer_battery)
+  * [LiPo battery connectors](https://www.lipolbattery.com/li-po-battery-connectors.html)
 * [Advanced Encryption Standard](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) (AES)
 * [KASUMI](https://en.wikipedia.org/wiki/KASUMI) block cipher
 * [Zuc stream cipher](https://en.wikipedia.org/wiki/Zuc_stream_cipher)
