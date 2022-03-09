@@ -1,5 +1,9 @@
 # Lesson 7: Cloud Platforms
 
+* [AAA (computer security)](https://en.wikipedia.org/wiki/AAA_(computer_security))
+  * [Authentication](https://en.wikipedia.org/wiki/Authentication)
+  * [Authorization](https://en.wikipedia.org/wiki/Authorization)
+  * [Audit trail](https://en.wikipedia.org/wiki/Audit_trail)
 * [ThingSpeak](https://en.wikipedia.org/wiki/ThingSpeak)
 * [Pickle](https://docs.python.org/3/library/pickle.html): Python object serialization
 * [gspread](https://gspread.readthedocs.io/en/latest)
