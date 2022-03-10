@@ -47,6 +47,8 @@
   * [Harvard CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
   * [Edge Impulse](https://www.edgeimpulse.com/)
     * [Getting Started](https://docs.edgeimpulse.com/docs/getting-started)
+    * [Fully supported development boards](https://docs.edgeimpulse.com/docs/fully-supported-development-boards)
+    * [Using mobile phone](https://docs.edgeimpulse.com/docs/using-your-mobile-phone)
   * [Infxl](https://infxl.com/)
   * [SynapseML](https://github.com/microsoft/SynapseML)
 * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
