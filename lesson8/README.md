@@ -1,4 +1,11 @@
 # Lesson 8: Data Analysis
+
+| Human-AI Coexistence | Creativity Not Needed | Creativity Needed |
+| :---: | :---: | :---: |
+| Love Needed | Human Warmth _ AI Analytics | Human + AI |
+| Love Not Needed | AI | Human Creativity + AI Tool |
+
+* K. Lee, "[A Blueprint for Coexistence With Artifical Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/)," Wired, July 12, 2017
 * [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
   * [Big data](https://en.wikipedia.org/wiki/Big_data)
   * [Data science](https://en.wikipedia.org/wiki/Data_science)
