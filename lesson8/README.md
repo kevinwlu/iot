@@ -18,10 +18,10 @@
   * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
   * K. Lee, "[A Blueprint for Coexistence With Artifical Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/)," Wired, July 12, 2017
 
-| Human-AI Coexistence | Creativity Not Needed | Creativity Needed |
-| :---: | :---: | :---: |
-| Love Needed | Human Warmth + AI Analytics | Human + AI |
-| Love Not Needed | AI | Human Creativity + AI Tool |
+  | Human-AI Coexistence | Creativity Not Needed | Creativity Needed |
+  | :---: | :---: | :---: |
+  | Love Needed | Human Warmth + AI Analytics | Human + AI |
+  | Love Not Needed | AI | Human Creativity + AI Tool |
 
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
   * [Linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
