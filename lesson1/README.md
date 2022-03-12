@@ -42,7 +42,7 @@
 
 * *[Internet of Things: A Hands-On Approach](http://www.hands-on-books-series.com/iot.html)* by [Arshdeep Bahga](https://arshdeep.bahga.in/) and [Vijay Madisetti](https://research.gatech.edu/vijay-madisetti)
 
-| Complexity Level | Node | Analysis | Storage | Example |
+| IoT Complexity Level | Node | Analysis | Storage | Example |
 | :---: | :---: | :---: | :---: | :---: |
 | 6 | Multiple + Centralized Controller | Cloud | Cloud | Weather Monitoring |
 | 5 | Multiple + Coordinator | Cloud | Cloud | Forest Fire Detection |
