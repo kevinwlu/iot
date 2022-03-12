@@ -40,7 +40,7 @@
   * Google Cloud [DevOps Research and Assessment](https://cloud.google.com/devops) (DORA)
 * [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
 
-* *[Internet of Things: A Hands-On Approach](http://www.hands-on-books-series.com/iot.html)* by Arshdeep Bahga and Vijay Madisetti
+* *[Internet of Things: A Hands-On Approach](http://www.hands-on-books-series.com/iot.html)* by [Arshdeep Bahga](https://arshdeep.bahga.in/) and [Vijay Madisetti](https://research.gatech.edu/vijay-madisetti)
 
 | Complexity Level | Node | Analysis | Storage | Example |
 | :---: | :---: | :---: | :---: | :---: |
