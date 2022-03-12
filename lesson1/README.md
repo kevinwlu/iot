@@ -39,6 +39,18 @@
   * [DevOps](https://en.wikipedia.org/wiki/DevOps)
   * Google Cloud [DevOps Research and Assessment](https://cloud.google.com/devops) (DORA)
 * [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
+
+* *[Internet of Things: A Hands-On Approach](http://www.hands-on-books-series.com/iot.html)* by Arshdeep Bahga and Vijay Madisetti
+
+| Complexity Level | Node | Analysis | Storage | Example |
+| :---: | :---: | :---: | :---: | :---: |
+| 6 | Multiple + Centralized Controller | Cloud | Cloud | Weather Monitoring |
+| 5 | Multiple + Coordinator | Cloud | Cloud | Forest Fire Detection |
+| 4 | Multiple | Local | Cloud | Noise Monitoring |
+| 3 | Single | Cloud | Cloud | Vibration Monitoring |
+| 2 | Single | Local | Cloud | Smart Irrigation |
+| 1 | Single | Local | Local | Home Automation |
+
 * [As a service](https://en.wikipedia.org/wiki/As_a_service)
 * [Orchestration](https://en.wikipedia.org/wiki/Orchestration_(computing))
 * [Quality of service](https://en.wikipedia.org/wiki/Quality_of_service) (QoS)
