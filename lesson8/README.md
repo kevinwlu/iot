@@ -65,7 +65,7 @@
   * [Intel NCS2](https://software.intel.com/content/www/us/en/develop/hardware/neural-compute-stick.html)
   * [Intel OpenVINO](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) (Visual Inference and Neural network Optimization)
 * Google [Coral](https://coral.ai/) Tensor Processing Unit (TPU)
-  * [Viso](https://viso.ai/) no-code AI vision
+* [Viso](https://viso.ai/) no-code AI vision
   * [Google Coral for Computer Vision Applications in 2022](https://viso.ai/edge-ai/google-coral/)
 * [CPLEX](https://en.wikipedia.org/wiki/CPLEX)
   * [IBM Decision Optimization](https://github.com/IBMDecisionOptimization)
