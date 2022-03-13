@@ -13,9 +13,8 @@
   * [Partnership on AI](https://en.wikipedia.org/wiki/Partnership_on_AI)
   * [Explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
   * [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
-  * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
-  * [AI Hub](https://aihub.cloud.google.com/u/0/)
-  * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+  * [Ethics of artificial intelligence](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
+
 * K. Lee, "[A Blueprint for Coexistence With Artifical Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/)," Wired, July 12, 2017
 
   | Human-AI coexistence | Creativity not needed | Creativity needed |
@@ -38,6 +37,9 @@
   | Pretty hard | What physical properties distinguish conscious and unconscious systems? | Theories testable with brain-reading |
   | Easy | How does the brain process information? How does intelligence work? | Theories testable by simulation |
 
+* [Google AI](https://en.wikipedia.org/wiki/Google_AI)
+* [AI Hub](https://aihub.cloud.google.com/u/0/)
+* [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
   * [Linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
   * [Automatically Tuned Linear Algebra Software](https://en.wikipedia.org/wiki/Automatically_Tuned_Linear_Algebra_Software) (ATLAS)
