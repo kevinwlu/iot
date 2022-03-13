@@ -98,7 +98,7 @@
   * [Google Coral for Computer Vision Applications in 2022](https://viso.ai/edge-ai/google-coral/)
 * [CPLEX](https://en.wikipedia.org/wiki/CPLEX)
   * [IBM Decision Optimization](https://github.com/IBMDecisionOptimization)
-* [Kedro](https://github.com/kedro-org/kedro)
+* [Kedro](https://github.com/kedro-org/kedro) Python framework for creating reproducible, maintainable, and modular data science code
   * [Documentation](https://kedro.readthedocs.io/)
 
 ## Lab 8A: Examples
