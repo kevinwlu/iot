@@ -1,4 +1,6 @@
 # Lesson 8: Data Analysis
+* W. Timothy Garvey
+> Knowledge is telling the past. Wisdom is predicting the future.
 * [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
   * [Big data](https://en.wikipedia.org/wiki/Big_data)
   * [Data science](https://en.wikipedia.org/wiki/Data_science)
