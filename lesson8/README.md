@@ -16,27 +16,27 @@
   * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
   * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
-  * K. Lee, "[A Blueprint for Coexistence With Artifical Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/)," Wired, July 12, 2017
+* K. Lee, "[A Blueprint for Coexistence With Artifical Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/)," Wired, July 12, 2017
 
-    | Human-AI coexistence | Creativity not needed | Creativity needed |
-    | :---: | :---: | :---: |
-    | Love needed | Human warmth + AI analytics | Human + AI |
-    | Love not needed | AI | Human creativity + AI tool |
+  | Human-AI coexistence | Creativity not needed | Creativity needed |
+  | :---: | :---: | :---: |
+  | Love needed | Human warmth + AI analytics | Human + AI |
+  | Love not needed | AI | Human creativity + AI tool |
 
-  * M. Tegmark, *[Life 3.0: Being Human in the Age of Artificial Intelligence](https://en.wikipedia.org/wiki/Life_3.0)*, August 23, 2017
+* M. Tegmark, *[Life 3.0: Being Human in the Age of Artificial Intelligence](https://en.wikipedia.org/wiki/Life_3.0)*, August 23, 2017
 
-    | Life | Stage | Hardware | Software |
-    | :---: | :---: | :---: | :---: |
-    | 1.0 | Biological | Evolve | Evolve |
-    | 2.0 | Cultural | Evolve | Design |
-    | 3.0 | Technological | Design | design |
+  | Life | Stage | Hardware | Software |
+  | :---: | :---: | :---: | :---: |
+  | 1.0 | Biological | Evolve | Evolve |
+  | 2.0 | Cultural | Evolve | Design |
+  | 3.0 | Technological | Design | design |
     
-    | Problem | Questions about [consciousness](https://en.wikipedia.org/wiki/Consciousness), i.e., subjective experience | Theories [testability](https://en.wikipedia.org/wiki/Testability) |
-    | :---: | --- | --- |
-    | Really hard | Why is anything conscious? | Theories untestable? |
-    | Even harder | How do physical properties determine [qualia](https://en.wikipedia.org/wiki/Qualia)? | Theories partially testable? |
-    | Pretty hard | What physical properties distinguish conscious and unconscious systems? | Theories testable with brain-reading |
-    | Easy | How does the brain process information? How does intelligence work? | Theories testable by simulation |
+  | Problem | Questions about [consciousness](https://en.wikipedia.org/wiki/Consciousness), i.e., subjective experience | Theories [testability](https://en.wikipedia.org/wiki/Testability) |
+  | :---: | --- | --- |
+  | Really hard | Why is anything conscious? | Theories untestable? |
+  | Even harder | How do physical properties determine [qualia](https://en.wikipedia.org/wiki/Qualia)? | Theories partially testable? |
+  | Pretty hard | What physical properties distinguish conscious and unconscious systems? | Theories testable with brain-reading |
+  | Easy | How does the brain process information? How does intelligence work? | Theories testable by simulation |
 
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
   * [Linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
