@@ -1,5 +1,5 @@
 # Lesson 8: Data Analysis
-* [W. Timothy Garvey](https://en.wikipedia.org/wiki/W._Timothy_Garvey)
+* [W. Timothy Garvey](https://en.wikipedia.org/wiki/W._Timothy_Garvey), Professor and Chair, Department of Nutrition Sciences, University of Alabama at Birmingham
   > Knowledge is telling the past. Wisdom is predicting the future.
 * [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
   * [Big data](https://en.wikipedia.org/wiki/Big_data)
