@@ -96,10 +96,10 @@
 * Google [Coral](https://coral.ai/) Tensor Processing Unit (TPU)
 * [Viso](https://viso.ai/) no-code AI vision
   * [Google Coral for Computer Vision Applications in 2022](https://viso.ai/edge-ai/google-coral/)
-* [CPLEX](https://en.wikipedia.org/wiki/CPLEX)
-  * [IBM Decision Optimization](https://github.com/IBMDecisionOptimization)
 * [Kedro](https://github.com/kedro-org/kedro) Python framework for creating reproducible, maintainable, and modular data science code
   * [Documentation](https://kedro.readthedocs.io/)
+* IBM ILOG [CPLEX](https://en.wikipedia.org/wiki/CPLEX) Optimization Studio
+  * [IBM Decision Optimization](https://github.com/IBMDecisionOptimization)
 
 ## Lab 8A: Examples
 
