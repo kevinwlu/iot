@@ -34,8 +34,8 @@
     | Problem | Questions about consciousness, i.e., subjective experience | Theories testability|
     | :---: | --- | --- |
     | Really nard | Why is anything conscious? | Theories untestable? |
-    | Even harder | How do physical properties determine qualia? | Theories partially testable? |
-    | Pretty hard | What physical properties distinguish conscious and in conscious systems? | Theories testable with brain-reading |
+    | Even harder | How do physical properties determine [qualia](https://en.wikipedia.org/wiki/Qualia)? | Theories partially testable? |
+    | Pretty hard | What physical properties distinguish conscious and unconscious systems? | Theories testable with brain-reading |
     | Easy | How does the brain process information? How does intelligence work? | Theories testable by simulation |
 
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
