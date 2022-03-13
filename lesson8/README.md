@@ -31,7 +31,7 @@
     | 2.0 | Cultural | Evolve | Design |
     | 3.0 | Technological | Design | design |
     
-    | Problem | : Questions about consciousness, i.e., subjective experience : ||
+    | Problem | Questions about consciousness, i.e., subjective experience | Theories testability|
     | :---: | --- | --- |
     | Really nard | Why is anything conscious? | Theories untestable? |
     | Even harder | How do physical properties determine qualia? | Theories partially testable? |
