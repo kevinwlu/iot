@@ -18,10 +18,25 @@
   * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
   * K. Lee, "[A Blueprint for Coexistence With Artifical Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/)," Wired, July 12, 2017
 
-    | Human-AI Coexistence | Creativity Not Needed | Creativity Needed |
+    | Human-AI coexistence | Creativity not needed | Creativity needed |
     | :---: | :---: | :---: |
-    | Love Needed | Human Warmth + AI Analytics | Human + AI |
-    | Love Not Needed | AI | Human Creativity + AI Tool |
+    | Love needed | Human warmth + AI analytics | Human + AI |
+    | Love not needed | AI | Human creativity + AI tool |
+
+  * M. Tegmark, *[Life 3.0: Being Human in the Age of Artificial Intelligence](https://en.wikipedia.org/wiki/Life_3.0)*, August 23, 2017
+
+    | Life | Stage | Hardware | Software |
+    | :---: | :---: | :---: | :---: |
+    | 1.0 | Biological | Evolve | Evolve |
+    | 2.0 | Cultural | Evolve | Design |
+    | 3.0 | Technological | Design | design |
+    
+    | Problem | Questions About Consciousness, i.e., Subjective Experience |
+    | :---: | :---: | :---: |
+    | Really nard | Why is anything conscious? | Theories untestable? |
+    | Even harder | How do physical properties determine qualia? | Theories partially testable? |
+    | Pretty hard | What physical properties distinguish conscious and in conscious systems? | Theories testable with brain-reading |
+    | Easy | How does the brain process information? How does intelligence work? | Theories testable by simulation |
 
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
   * [Linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
