@@ -57,7 +57,7 @@
   * [nvm](https://github.com/nvm-sh/nvm) (Node Version Manager)
   * [Firebase Quickstarts for Node.js](https://github.com/firebase/quickstart-nodejs)
   * [Build a simple CRUD Node.js app with CockroachDB and the node-postgres driver](https://www.cockroachlabs.com/docs/stable/build-a-nodejs-app-with-cockroachdb.html)
-* [Node-RED](https://en.wikipedia.org/wiki/Node-RED)
+* [Node-RED](https://en.wikipedia.org/wiki/Node-RED) flow-based development tool for visual programming
   * [Low-code development platofrm](https://en.wikipedia.org/wiki/Low-code_development_platform) (LCDP)
 * [OpenJS Foundation](https://en.wikipedia.org/wiki/OpenJS_Foundation#JS_Foundation)
 * [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)): [MongoDB](https://en.wikipedia.org/wiki/MongoDB), [Express.js](https://en.wikipedia.org/wiki/Express.js), [AngularJS](https://en.wikipedia.org/wiki/AngularJS), and Node.js
