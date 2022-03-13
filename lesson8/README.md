@@ -55,17 +55,17 @@
   * [Lasso](https://en.wikipedia.org/wiki/Lasso_(statistics))
   * [Interpolation](https://en.wikipedia.org/wiki/Interpolation)
   * [Overfitting](https://en.wikipedia.org/wiki/Overfitting)
-* [Scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn)
+* [Scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn) machine learning in Python
   * [Statistical classification](https://en.wikipedia.org/wiki/Statistical_classification)
   * [Cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
   * [Support-vector machine](https://en.wikipedia.org/wiki/Support-vector_machine) (SVM)
   * [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall)
   * [F-score](https://en.wikipedia.org/wiki/F-score)
-* [Matplotlib](https://en.wikipedia.org/wiki/Matplotlib)
-  * [Data visualization ](https://en.wikipedia.org/wiki/Data_visualization)
+* [Matplotlib](https://en.wikipedia.org/wiki/Matplotlib) visualization with Python
+  * [Data visualization](https://en.wikipedia.org/wiki/Data_visualization)
   * [Histogram](https://en.wikipedia.org/wiki/Histogram)
   * [Box plot](https://en.wikipedia.org/wiki/Box_plot)
-* [Pandas](https://en.wikipedia.org/wiki/Pandas_(software))
+* [Pandas](https://en.wikipedia.org/wiki/Pandas_(software)) Python data analysis library
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML)
   * [List of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
   * [Automated machine learning](https://en.wikipedia.org/wiki/Automated_machine_learning)
