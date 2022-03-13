@@ -50,6 +50,7 @@
   * [Basic Linear Algebra Subprograms](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) (BLAS)
   * [Quickstart](https://numpy.org/devdocs/user/quickstart.html)
 * [SciPy](https://en.wikipedia.org/wiki/SciPy)
+  * [Regression analysis](https://en.wikipedia.org/wiki/Regression_analysis)
   * [Linear regression](https://en.wikipedia.org/wiki/Linear_regression)
   * [Lasso](https://en.wikipedia.org/wiki/Lasso_(statistics))
   * [Interpolation](https://en.wikipedia.org/wiki/Interpolation)
