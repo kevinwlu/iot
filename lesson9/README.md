@@ -41,6 +41,7 @@
   * [Raspberry Pi Kubernetes Cluster](https://wiki.learnlinux.tv/index.php/How_to_build_your_own_Raspberry_Pi_Kubernetes_Cluster)
 * [Microservices](https://en.wikipedia.org/wiki/Microservices)
   * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
+* [Creatio](https://en.wikipedia.org/wiki/Creatio) process automation
 
 ## Lab 9A: YANG
 * A YANG module can be translated into an alternative XML-based syntax called YIN
