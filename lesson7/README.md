@@ -37,6 +37,8 @@ $ python3 thingspeak_feed.py
 An API key savefile was not found. Enter Write API Key >>>
 Should we save this key for future use? [y/N] >>>
 ```
+* If yes, the Write API Key is saved in API_KEY.pickle
+* Alternatively, replace YOURKEYHERE with the Write API in Line 10 of thingspeak_cpu_loop.py
 ## Lab 7B: Google Sheets
 * The following rpidata project and rpi_spreadsheet.py require Raspberry Pi and system_info.py
 * Alternatively, follow the same steps for a cpudata project and run cpu_spreadsheet.py that does not require Raspberry Pi and system_info.py
