@@ -47,6 +47,8 @@
 * [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) is used to install Python packages on GNU/Linux, macOS , or [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) (WSL)
   * Installing [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) requires Windows 11 or a higher version (or build) of Windows 10
   * Join the [Windows Insiders Program](https://insider.windows.com/en-us/getting-started) if necessary for a higher version (or build) of Windows 10
+### NOTE: Raspberry Pi OS (or macOS/Linux) has both Python 2 and Python 3 already preinstalled
+### WARNING: Don't upgrade the preinstalled Python or PIP on Raspberry Pi OS
 ```sh
 $ sudo apt update
 $ sudo apt install python3-pip
