@@ -47,8 +47,8 @@
 * [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) is used to install Python packages on GNU/Linux, macOS , or [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) (WSL)
   * Installing [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) requires Windows 11 or a higher version (or build) of Windows 10
   * Join the [Windows Insiders Program](https://insider.windows.com/en-us/getting-started) if necessary for a higher version (or build) of Windows 10
-### NOTE: Raspberry Pi OS (or macOS/Linux) has both Python 2 and Python 3 already preinstalled
-### WARNING: Don't upgrade the preinstalled Python or PIP on Raspberry Pi OS
+### NOTE: Raspberry Pi OS (or macOS/Linux) has Python (both Python 2 and Python 3) and pip (both pip and pip3) already preinstalled
+### WARNING: Don't upgrade the preinstalled Python or pip on Raspberry Pi OS
 ```sh
 $ sudo apt update
 $ sudo apt install python3-pip
@@ -260,7 +260,7 @@ $ cd
 $ git clone https://github.com/kevinwlu/iot.git
 $ cd iot
 $ cd lesson3
-$ python
+$ python3
 >>> import student
 >>> students={'1':{'name':'Alex','grade':3.8},
 ...           '2':{'name':'Barb','grade':2.5}, 
@@ -284,7 +284,7 @@ $ python
 $ cd
 $ mkdir demo
 $ cd demo
-$ python
+$ python3
 >>> fo=open('file1.txt', 'w')
 >>> content='This is an example of writing to a file in Python.'
 >>> fo.write(content)
@@ -292,29 +292,7 @@ $ python
 >>> exit()
 $ cat file1.txt
 ```
-* Install/upgrade Python packages with pip
-```sh
-$ python -m pip install --upgrade pip
-$ pip install 2to3 jdcal astral geopy psutil
-$ cd
-$ cd iot/lesson3
-$ 2to3 2example.py
-$ python julian.py
-$ python date_example.py
-$ python datetime_example.py
-$ python time_example.py
-$ python sun.py 'New York'
-$ python sun.py 'Beijing'
-$ python sun.py 'New Delhi'
-$ python moon.py
-$ python coordinates.py 'SC Williams Library'
-$ python address.py '40.74480675, -74.02532862031404'
-$ python cpu.py
-$ python battery.py
-$ python documentstats.py document.txt
-```
-### NOTE: Raspberry Pi OS (or macOS/Linux) has both Python 2 and Python 3 already preinstalled
-### WARNING: Don't upgrade the preinstalled Python or PIP on Raspberry Pi OS
+### WARNING AGAIN: Don't upgrade the preinstalled Python or pip on Raspberry Pi OS
 * Run pip3 to install/upgrade packages, update the IoT repository, and run Python 3 programs
 ```sh
 $ sudo pip3 install -U jdcal astral geopy
