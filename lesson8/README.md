@@ -23,8 +23,8 @@
 
   | Human-AI coexistence | Creativity not needed | Creativity needed |
   | :---: | :---: | :---: |
-  | Love needed | Human warmth + AI analytics | Human + AI |
-  | Love not needed | AI | Human creativity + AI tool |
+  | **Love needed** | Human warmth + AI analytics | Human + AI |
+  | **Love not needed** | AI | Human creativity + AI tool |
 
 * M. Tegmark, *[Life 3.0: Being Human in the Age of Artificial Intelligence](https://en.wikipedia.org/wiki/Life_3.0)*, August 23, 2017
 
