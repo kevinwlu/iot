@@ -32,7 +32,7 @@
   | :---: | :---: | :---: | :---: |
   | 1.0 | Biological | Evolve | Evolve |
   | 2.0 | Cultural | Evolve | Design |
-  | 3.0 | Technological | Design | design |
+  | 3.0 | Technological | Design | Design |
     
   | Problem | Questions about [consciousness](https://en.wikipedia.org/wiki/Consciousness), i.e., subjective experience | Theories [testability](https://en.wikipedia.org/wiki/Testability) |
   | :---: | --- | --- |
