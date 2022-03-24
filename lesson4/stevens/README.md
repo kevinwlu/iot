@@ -30,7 +30,7 @@ MariaDB [mysql]> quit
 ```
 ## Edit settings.py in ~/stevens/stevens
 
-* Follow ~/iot/lesson4/stevens/settings.txt, e.g., add 'myapp' to INSTALLED_APPS
+* Follow ~/iot/lesson4/stevens/settings.txt, e.g., add an asterisk to ALLOWED_HOSTS and 'myapp' to INSTALLED_APPS
 * The comma after 'myapp' is required
 * Remember to change PASSWORD for MySQL user pi
 ```sh
