@@ -15,7 +15,8 @@ manage.py  mycpu/
 manage.py  myapp/  mycpu/
 ```
 ## Edit settings.py in ~/mycpu/mycpu
-* Follow ~/iot/lesson4/mycpu/settings.txt, e.g., add an asterisk to ALLOWED_HOSTS as well as myapp and rest_framework to INSTALLED_APPS
+* Follow ~/iot/lesson4/mycpu/settings.txt, e.g., add an asterisk to ALLOWED_HOSTS as well as 'myapp' and 'rest_framework' to INSTALLED_APPS
+* The comma after 'rest_framework' is required
 ```sh
 ~/mycpu $ cd mycpu
 ~/mycpu/mycpu $ ls
