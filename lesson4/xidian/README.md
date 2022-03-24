@@ -17,7 +17,8 @@ manage.py  myapp/  xidian/
 
 ## Edit settings.py in ~/xidian/xidian
 
-* Follow ~/iot/lesson4/xidian/settings.txt
+* Follow ~/iot/lesson4/xidian/settings.txt, e.g., add an asterisk to ALLOWED_HOSTS and 'myapp' to INSTALLED_APPS
+* The comma after 'myapp' is required
 
 ```sh
 ~/xidian $ cd xidian
