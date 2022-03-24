@@ -28,6 +28,7 @@ MariaDB [mysql]> grant all privileges on myraspi.* to pi@localhost;
 MariaDB [mysql]> quit
 ```
 ## Edit settings.py in ~/myraspi/myraspi as in settings.txt
+* 
 ```sh
 pi@raspberrypi:~/myraspi $ cd myraspi
 pi@raspberrypi:~/myraspi/myraspi $ ls
