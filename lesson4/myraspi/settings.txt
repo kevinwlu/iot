@@ -5,6 +5,7 @@
 ALLOWED_HOSTS = ['*']
 
 # Add 'myapp' and 'rest_framework' to INSTALLED_APPS
+# The comma after 'rest_framework' is required
 
 INSTALLED_APPS = [
     'django.contrib.admin',
