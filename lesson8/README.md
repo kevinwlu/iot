@@ -7,6 +7,7 @@
   * [Diagnosis](https://en.wikipedia.org/wiki/Diagnosis)
   * [Prognostics](https://en.wikipedia.org/wiki/Prognostics)
   * [Kaggle](https://www.kaggle.com/)
+    * [Kaggle API](https://github.com/Kaggle/kaggle-api)
   * [Google Dataset Search](https://datasetsearch.research.google.com/)
   * [Google Books Ngram Viewer](https://books.google.com/ngrams)
   * [IEEE DataPort](https://ieee-dataport.org/)
