@@ -26,6 +26,14 @@ def login_open_sheet(oauth_key_file, spreadsheet):
 print('Logging sensor measurements to {0} every {1} seconds.'.format(GDOCS_SPREADSHEET_NAME, FREQUENCY_SECONDS))
 print('Press Ctrl-C to quit.')
 worksheet = None
+
+def find_previous_row(worksheet):
+  str_list = list(filter(None, worksheet.col_values(1)))
+  return len(str_list)
+
+def find_max_rows(worksheet):
+  return len(worksheet.get_all_values())
+
 while True:
     if worksheet is None:
         worksheet = login_open_sheet(GDOCS_OAUTH_JSON, GDOCS_SPREADSHEET_NAME)
@@ -39,7 +47,16 @@ while True:
     print('Memory Available: {0:0.1f} GB'.format(mem))
 #    print('Temperature: {0:0.1f} C'.format(tmp))
     try:
-        worksheet.append_row((str(dat), cpu, mem))
+        previous_row = find_previous_row(worksheet)
+        max_rows = find_max_rows(worksheet)
+        
+        if previous_row < max_rows:
+            worksheet.update_acell("A{}".format(previous_row), str(dat))
+            worksheet.update_acell("B{}".format(previous_row), cpu)
+            worksheet.update_acell("C{}".format(previous_row), mem)
+        else:
+            worksheet.append_row((str(dat), cpu, mem))
+        
 #        worksheet.append_row((dat, cpu, tmp))
 # gspread==0.6.2
 # https://github.com/burnash/gspread/issues/511  
