@@ -80,6 +80,7 @@
   * [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   * [GitLab Flavored Markdown](https://docs.gitlab.com/ee/user/markdown.html)
 * [GIF](https://en.wikipedia.org/wiki/GIF) (Graphics Interchange Format)
+  * [Steve Wilhite](https://en.wikipedia.org/wiki/Steve_Wilhite) 1948&mdash;2022
   * [Best Tools for Taking and Editing Screenshots in Linux](https://itsfoss.com/take-screenshot-linux/)
   * [How to Convert Video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
   * [Making GIFs](https://about.gitlab.com/handbook/product/making-gifs/)
