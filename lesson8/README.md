@@ -28,6 +28,8 @@
   | **Love not needed** | AI | Human creativity + AI tool |
 
 * M. Tegmark, *[Life 3.0: Being Human in the Age of Artificial Intelligence](https://en.wikipedia.org/wiki/Life_3.0)*, August 23, 2017
+  > The fear of machines turning evil is another red herring. The real worry isn’t malevolence, but competence.
+  > A superintelligent AI is by definition very good at attaining its goals, whatever they may be, so we need to ensure that its goals are aligned with ours.
 
   | Life | Stage | Hardware | Software |
   | :---: | :---: | :---: | :---: |
@@ -143,16 +145,16 @@ $ sudo pip3 install -U keras==2.3.1
 ```
 ### Enable [X11](https://en.wikipedia.org/wiki/X_Window_System) forwarding with [SSH -Y](http://man.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/ssh.1#Y) on a computer to run code on Raspberry Pi without VNC Viewer
 
-#### For Windows, download and install [VcXsrv](https://sourceforge.net/projects/vcxsrv/) or [Xming](https://sourceforge.net/projects/xming/), and open Git Bash
+#### On Windows, download and install [VcXsrv](https://sourceforge.net/projects/vcxsrv/) or [Xming](https://sourceforge.net/projects/xming/), and open Git Bash
 ```sh
 $ export DISPLAY=localhost:0
 $ ssh -Y pi@xxx.xxx.xxx.xxx
 ```
-#### For macOS, download and install [XQuartz](https://www.xquartz.org/), and open a terminal
+#### On macOS, download and install [XQuartz](https://www.xquartz.org/), and open a terminal
 ```sh
 $ ssh -Y pi@xxx.xxx.xxx.xxx
 ```
-#### For Linux (most distributions have the X server installed), open a terminal
+#### On Linux (most distributions have the X server installed), open a terminal
 ```sh
 $ ssh -Y pi@xxx.xxx.xxx.xxx
 ```
@@ -276,9 +278,9 @@ $ python3 titanic_2.py
 ### Analyze Raspberry Pi date/time and CPU usage/temperature of Lab 7B
 
 * [Insert four charts](https://support.google.com/docs/answer/63824) including time series, two histograms, and a scatter plot with a linear trendline
-* Save the Google sheet in CSV format (e.g., rpidata.csv) to ~/demo
+* Save the Google sheet in CSV format (e.g., rpidata.csv or cpudata.csv) to ~/demo
 * Copy ~/iot/lesson8/plt_final.py and plt_cv2.py to ~/demo
-* Edit them to read the CSV file
+* Edit plt_final.py and plt_cv2.py to read the CSV file
 * Show seven figures including time series, two histograms, two box plots, a scatter plot with a linear regression line, and cross-validation prediction with temperature as target
 * Edit the title/labels in plt_final.py and plt_cv2.py, and add legend or adjust ticks as needed
 ```sh
