@@ -28,7 +28,7 @@
   | **Love not needed** | AI | Human creativity + AI tool |
 
 * M. Tegmark, *[Life 3.0: Being Human in the Age of Artificial Intelligence](https://en.wikipedia.org/wiki/Life_3.0)*, August 23, 2017
-  > The fear of machines turning evil is another red herring. The real worry isn’t malevolence, but competence.
+  > The fear of machines turning evil is another [red herring](https://en.wikipedia.org/wiki/Red_herring). The real worry isn’t malevolence, but competence.
   > A superintelligent AI is by definition very good at attaining its goals, whatever they may be, so we need to ensure that its goals are aligned with ours.
 
   | Life | Stage | Hardware | Software |
