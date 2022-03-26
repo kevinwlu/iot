@@ -40,8 +40,8 @@ Should we save this key for future use? [y/N] >>>
 * If yes, the Write API Key is saved in API_KEY.pickle
 * Alternatively, replace YOURKEYHERE with the Write API in Line 10 of thingspeak_cpu_loop.py
 ## Lab 7B: Google Sheets
-* The following rpidata project and [rpi_spreadsheet.py](/rpi_spreadsheet.py) require Raspberry Pi and system_info.py
-* Alternatively, follow the same steps for a cpudata project and run [cpu_spreadsheet.py](/cpu_spreadsheet.py) that does not require Raspberry Pi and system_info.py
+* The following rpidata project and [/lesson7/rpi_spreadsheet.py](/rpi_spreadsheet.py) require Raspberry Pi and system_info.py
+* Alternatively, follow the same steps for a cpudata project and run [/lesson7/cpu_spreadsheet.py](/cpu_spreadsheet.py) that does not require Raspberry Pi and system_info.py
 
 ### Sign up and log in the Google Cloud Platform Identity and Access Management [(IAM)](https://console.developers.google.com/projectselector/iam-admin/iam)
 
@@ -75,7 +75,7 @@ $ mv ~/Downloads/rpidata-*.json ~/demo
 * Share the spreadsheet with the "client_email" address in the .json file, select “Can edit,” and click "Send"
   * Will receive an email with the subject "Delivery Status Notification (Failure)" and the message "Address not found" from mailer-daemon@google.com
 * Delete Rows 2 to 1000, and enter Date / Time, CPU Usage %, Temperature C to header cells
-  * This deletion is not necessary with the improved [rpi_worksheet.py](/rpi_worksheet.py) and [cpu_worksheet.py](/cpu_worksheet.py) that can check the next empty row to write data
+  * This deletion is not necessary with the improved [/lesson7/rpi_worksheet.py](/rpi_worksheet.py) and [/lesson7/cpu_worksheet.py](/cpu_worksheet.py) that can check the next empty row to write data
 
 ### Edit rpi_spreadsheet.py
 
