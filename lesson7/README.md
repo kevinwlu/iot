@@ -73,7 +73,7 @@ $ mv ~/Downloads/rpidata-*.json ~/demo
 
 * Start a new spreadsheet rpidata
 * Share the spreadsheet with the "client_email" address in the .json file, select “Can edit,” and click "Send"
-  * Will receive an email with the subject "Delivery Status Notification (Failure)" and the message "Address not found" from mailer-daemon@google.com
+  * May receive an email with the subject "Delivery Status Notification (Failure)" and the message "Address not found" from mailer-daemon@google.com
 * Delete Rows 2 to 1000, and enter Date / Time, CPU Usage %, Temperature C to header cells
   * This deletion is not necessary with the improved [rpi_worksheet.py](/lesson7/rpi_worksheet.py) and [cpu_worksheet.py](/lesson7/cpu_worksheet.py) that can check the next empty row to write data
 
