@@ -75,6 +75,7 @@
   * [Histogram](https://en.wikipedia.org/wiki/Histogram)
   * [Box plot](https://en.wikipedia.org/wiki/Box_plot)
   * [Seaborn](https://seaborn.pydata.org/)
+  * [Bokeh](https://bokeh.org/)
 * [Pandas](https://en.wikipedia.org/wiki/Pandas_(software)) Python data analysis library
   * [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML)
