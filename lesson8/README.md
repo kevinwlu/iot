@@ -70,6 +70,7 @@
   * [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall)
   * [F-score](https://en.wikipedia.org/wiki/F-score)
   * [Boltzmann machine](https://en.wikipedia.org/wiki/Boltzmann_machine)
+  * [Restricted Boltzmann machine](https://en.wikipedia.org/wiki/Restricted_Boltzmann_machine)
 * [Matplotlib](https://en.wikipedia.org/wiki/Matplotlib) visualization with Python
   * [Data visualization](https://en.wikipedia.org/wiki/Data_visualization)
   * [Histogram](https://en.wikipedia.org/wiki/Histogram)
