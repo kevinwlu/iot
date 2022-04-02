@@ -13,6 +13,14 @@
   * [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics) (Portable Network Graphics)
   * [GIMP](https://en.wikipedia.org/wiki/GIMP) (GNU Image Manipulation Program)
   * [Pinta](https://en.wikipedia.org/wiki/Pinta_(software))
+* [Chaos engineering](https://en.wikipedia.org/wiki/Chaos_engineering)
+* [Cloud Native Computing Foundation](https://en.wikipedia.org/wiki/Cloud_Native_Computing_Foundation) (CNCF)
+* [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) (K8s)
+  * Other [numeronym](https://en.wikipedia.org/wiki/Numeronym) such as i18n and l10n ([internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization))
+  * [Raspberry Pi Kubernetes Cluster](https://wiki.learnlinux.tv/index.php/How_to_build_your_own_Raspberry_Pi_Kubernetes_Cluster)
+* [Microservices](https://en.wikipedia.org/wiki/Microservices)
+  * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
+* [Creatio](https://en.wikipedia.org/wiki/Creatio) process automation
 * [Quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)
   * [Quantum key distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution)
 * [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
@@ -25,6 +33,7 @@
   * [Quantum artificial intelligence](https://en.wikipedia.org/wiki/Quantum_artificial_intelligence)
   * [Quantum optimization algorithms](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
   * [List of quantum processors](https://en.wikipedia.org/wiki/List_of_quantum_processors)
+* [IEEE Quantum](https://quantum.ieee.org/)
   * IEEE [P1913](https://standards.ieee.org/ieee/1913/6720/) Software-Defined Quantum Communication
   * IEEE [P2995](https://standards.ieee.org/ieee/2995/10633/) Trial-Use Standard for a Quantum Algorithm Design and Development
   * IEEE [P3120](https://standards.ieee.org/ieee/3120/10751/) Standard for Quantum Computing Architecture
@@ -38,14 +47,6 @@
   * [PennyLane](https://github.com/PennyLaneAI/pennylane)
   * [Microsoft Quantum Development Kit Samples](https://github.com/microsoft/Quantum)
   * [Xanadu Strawberry Fields](https://github.com/XanaduAI/strawberryfields)
-* [Chaos engineering](https://en.wikipedia.org/wiki/Chaos_engineering)
-* [Cloud Native Computing Foundation](https://en.wikipedia.org/wiki/Cloud_Native_Computing_Foundation) (CNCF)
-* [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) (K8s)
-  * Other [numeronym](https://en.wikipedia.org/wiki/Numeronym) such as i18n and l10n ([internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization))
-  * [Raspberry Pi Kubernetes Cluster](https://wiki.learnlinux.tv/index.php/How_to_build_your_own_Raspberry_Pi_Kubernetes_Cluster)
-* [Microservices](https://en.wikipedia.org/wiki/Microservices)
-  * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
-* [Creatio](https://en.wikipedia.org/wiki/Creatio) process automation
 
 ## Lab 9A: YANG
 * A YANG module can be translated into an alternative XML-based syntax called YIN
