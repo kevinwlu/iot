@@ -25,8 +25,12 @@
   * [Quantum artificial intelligence](https://en.wikipedia.org/wiki/Quantum_artificial_intelligence)
   * [Quantum optimization algorithms](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
   * [List of quantum processors](https://en.wikipedia.org/wiki/List_of_quantum_processors)
-  * IEEE [P7130](https://standards.ieee.org/project/7130.html) Standard for Quantum Technologies Definitions
-  * IEEE [P7131](https://standards.ieee.org/project/7131.html) Standard for Quantum Computing Performance Metrics and Performance Benchmarking
+  * IEEE [P1913](https://standards.ieee.org/ieee/1913/6720/) Software-Defined Quantum Communication
+  * IEEE [P2995](https://standards.ieee.org/ieee/2995/10633/) Trial-Use Standard for a Quantum Algorithm Design and Development
+  * IEEE [P3120](https://standards.ieee.org/ieee/3120/10751/) Standard for Quantum Computing Architecture
+  * IEEE [P3155](https://standards.ieee.org/ieee/3155/10845/) Standard for Programmable Quantum Simulator
+  * IEEE [P7130](https://standards.ieee.org/ieee/7130/10680/) Standard for Quantum Technologies Definitions
+  * IEEE [P7131](https://standards.ieee.org/ieee/7131/10681/) Standard for Quantum Computing Performance Metrics and Performance Benchmarking
 * [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
   * [Qiskit repo](https://github.com/Qiskit)
   * [Fun With Quantum](https://github.com/JanLahmann/Fun-with-Quantum)
