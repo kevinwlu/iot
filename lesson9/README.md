@@ -46,8 +46,6 @@
   * IEEE [P7131](https://standards.ieee.org/ieee/7131/10681/) Standard for Quantum Computing Performance Metrics and Performance Benchmarking
 * [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
   * [Qiskit repo](https://github.com/Qiskit)
-  * [Qiskit Runtime](https://quantum-computing.ibm.com/lab/docs/iql/runtime/)
-  * [Runtime system](https://en.wikipedia.org/wiki/Runtime_system)
   * [Fun With Quantum](https://github.com/JanLahmann/Fun-with-Quantum)
   * [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133)
   * [PennyLane](https://github.com/PennyLaneAI/pennylane)
@@ -119,6 +117,8 @@ $ gimp -a intrusiondetection.png
 * [Qiskit tutorials](https://qiskit.org/documentation/tutorials.html)
 * IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
 * Learn quantum computation using Qiskit: [textbook](https://qiskit.org/textbook/preface.html)
+* [Qiskit Runtime](https://quantum-computing.ibm.com/lab/docs/iql/runtime/)
+  * [Runtime system](https://en.wikipedia.org/wiki/Runtime_system)
 
 ### On Windows, macOS, or Ubuntu, install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
 * [Qiskit Terra](https://github.com/Qiskit/qiskit-terra)
