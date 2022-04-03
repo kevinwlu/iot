@@ -8,6 +8,7 @@
   * [Remote procedure call](https://en.wikipedia.org/wiki/Remote_procedure_call) (RPC)
   * [Extensible Markup Language](https://en.wikipedia.org/wiki/XML) (XML)
   * [Extensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT) (XSLT)
+  * [pyang](https://github.com/mbj4668/pyang)
 * [PlantUML](https://en.wikipedia.org/wiki/PlantUML)
   * [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language) (UML)
   * [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics) (Portable Network Graphics)
@@ -57,7 +58,7 @@
 ## Lab 9A: YANG
 * A YANG module can be translated into an alternative XML-based syntax called YIN
 * The translated module is called a YIN module
-### On Ubuntu or Windows with [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install-win10), open an Ubuntu terminal and install [pyang](https://github.com/mbj4668/pyang) and PlantUML
+### On Ubuntu or Windows with [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install-win10), open an Ubuntu terminal and install pyang and PlantUML
 ```sh
 $ sudo pip3 install pyang plantuml
 $ mkdir ~/demo
