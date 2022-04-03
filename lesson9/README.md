@@ -107,6 +107,8 @@ $ gimp -a intrusiondetection.png
 ## Lab 9B: Qiskit
 
 ### [IBM Quantum Computing](https://www.ibm.com/quantum-computing/)
+* [IBM Quantum Roadmap](https://research.ibm.com/blog/ibm-quantum-roadmap)
+* [IBM Quantum System One](https://en.wikipedia.org/wiki/IBM_Q_System_One)
 
 ### Create an [account](https://quantum-computing.ibm.com/) for the IBM Quantum Composer and the IBM Quantum Lab
 * Previously known collectively as the [IBM Quantum Experience](https://en.wikipedia.org/wiki/IBM_Quantum_Experience)
@@ -116,8 +118,7 @@ $ gimp -a intrusiondetection.png
 * [Qiskit tutorials](https://qiskit.org/documentation/tutorials.html)
 * IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
 * Learn quantum computation using Qiskit: [textbook](https://qiskit.org/textbook/preface.html)
-* [IBM Quantum Roadmap](https://research.ibm.com/blog/ibm-quantum-roadmap)
-* [IBM Quantum System One](https://en.wikipedia.org/wiki/IBM_Q_System_One)
+
 ### On Windows, macOS, or Ubuntu, install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
 * [Qiskit Terra](https://github.com/Qiskit/qiskit-terra)
 * [Qiskit Aer](https://github.com/Qiskit/qiskit-aer)
