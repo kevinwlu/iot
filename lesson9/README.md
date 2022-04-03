@@ -33,6 +33,8 @@
   * [Quantum artificial intelligence](https://en.wikipedia.org/wiki/Quantum_artificial_intelligence)
   * [Quantum optimization algorithms](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
   * [List of quantum processors](https://en.wikipedia.org/wiki/List_of_quantum_processors)
+  * [FLOPS](https://en.wikipedia.org/wiki/FLOPS) (floating point operations per second)
+  * [CLOPS](https://research.ibm.com/blog/circuit-layer-operations-per-second) (circuit layer operations per second)
 * [IEEE Quantum](https://quantum.ieee.org/)
   * IEEE [P1913](https://standards.ieee.org/ieee/1913/6720/) Software-Defined Quantum Communication
   * IEEE [P2995](https://standards.ieee.org/ieee/2995/10633/) Trial-Use Standard for a Quantum Algorithm Design and Development
@@ -48,7 +50,8 @@
   * [PennyLane](https://github.com/PennyLaneAI/pennylane)
   * [Microsoft Quantum Development Kit Samples](https://github.com/microsoft/Quantum)
   * [Xanadu Strawberry Fields](https://github.com/XanaduAI/strawberryfields)
-* [Bluefors](https://bluefors.com/) [Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)
+* [Cryogenics](https://en.wikipedia.org/wiki/Cryogenics)
+  * [Bluefors](https://bluefors.com/) [Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)
 
 ## Lab 9A: YANG
 * A YANG module can be translated into an alternative XML-based syntax called YIN
