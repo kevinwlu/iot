@@ -30,6 +30,7 @@
   * [QED-C](https://quantumconsortium.org/) (The Quantum Economic Development Consortium)
   * [Quantum supremacy](https://en.wikipedia.org/wiki/Quantum_supremacy)
   * [Quantum programming](https://en.wikipedia.org/wiki/Quantum_programming)
+  * [Quantum volume](https://en.wikipedia.org/wiki/Quantum_volume)
   * [Quantum artificial intelligence](https://en.wikipedia.org/wiki/Quantum_artificial_intelligence)
   * [Quantum optimization algorithms](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
   * [List of quantum processors](https://en.wikipedia.org/wiki/List_of_quantum_processors)
