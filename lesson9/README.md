@@ -34,6 +34,7 @@
   * [Quantum artificial intelligence](https://en.wikipedia.org/wiki/Quantum_artificial_intelligence)
   * [Quantum optimization algorithms](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
   * [List of quantum processors](https://en.wikipedia.org/wiki/List_of_quantum_processors)
+  * [Superconducting quantum computing](https://en.wikipedia.org/wiki/Superconducting_quantum_computing)
   * [FLOPS](https://en.wikipedia.org/wiki/FLOPS) (floating point operations per second)
   * [CLOPS](https://research.ibm.com/blog/circuit-layer-operations-per-second) (circuit layer operations per second)
 * [IEEE Quantum](https://quantum.ieee.org/)
@@ -115,6 +116,8 @@ $ gimp -a intrusiondetection.png
 * [Qiskit tutorials](https://qiskit.org/documentation/tutorials.html)
 * IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
 * Learn quantum computation using Qiskit: [textbook](https://qiskit.org/textbook/preface.html)
+* [IBM Quantum Roadmap](https://research.ibm.com/blog/ibm-quantum-roadmap)
+* [IBM Quantum System One](https://en.wikipedia.org/wiki/IBM_Q_System_One)
 ### On Windows, macOS, or Ubuntu, install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
 * [Qiskit Terra](https://github.com/Qiskit/qiskit-terra)
 * [Qiskit Aer](https://github.com/Qiskit/qiskit-aer)
