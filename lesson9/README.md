@@ -71,6 +71,9 @@ $ pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereo
 $ cat intrusiondetection.uml
 $ python3 -m plantuml intrusiondetection.uml
 ```
+
+![intrusiondetection.png](/lesson9/intrusiondetection.png)
+
 ### On Raspbery Pi
 * Install and run pyang
 ```sh
