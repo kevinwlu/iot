@@ -42,11 +42,13 @@
   * IEEE [P7131](https://standards.ieee.org/ieee/7131/10681/) Standard for Quantum Computing Performance Metrics and Performance Benchmarking
 * [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
   * [Qiskit repo](https://github.com/Qiskit)
+  * [Qiskit Runtime](https://quantum-computing.ibm.com/lab/docs/iql/runtime/)
   * [Fun With Quantum](https://github.com/JanLahmann/Fun-with-Quantum)
   * [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133)
   * [PennyLane](https://github.com/PennyLaneAI/pennylane)
   * [Microsoft Quantum Development Kit Samples](https://github.com/microsoft/Quantum)
   * [Xanadu Strawberry Fields](https://github.com/XanaduAI/strawberryfields)
+* [Bluefors](https://bluefors.com/) [Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)
 
 ## Lab 9A: YANG
 * A YANG module can be translated into an alternative XML-based syntax called YIN
