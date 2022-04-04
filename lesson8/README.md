@@ -310,3 +310,17 @@ $ nano plt_cv2.py
 $ python3 plt_final.py
 $ python3 plt_cv2.py
 ```
+
+![Figure_1.png](/lesson8/Figure_1.png)
+
+![Figure_2.png](/lesson8/Figure_2.png)
+
+![Figure_3.png](/lesson8/Figure_3.png)
+
+![Figure_4.png](/lesson8/Figure_4.png)
+
+![Figure_5.png](/lesson8/Figure_5.png)
+
+![Figure_6.png](/lesson8/Figure_6.png)
+
+![Figure_7.png](/lesson8/Figure_7.png)
