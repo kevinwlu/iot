@@ -109,6 +109,10 @@ $ curl "localhost:5000/txion" \
 $ curl localhost:5000/mine
 ```
 
+![server.png](/lesson10/server.png)
+
+![txion.png](/lesson10/txion.png)
+
 ### [Python blockchain app](https://github.com/satwikkansal/python_blockchain_app) by [Satwik Kansal](https://github.com/satwikkansal)
 #### Terminal 1: Uncomment the last line (Line 257) of node_server.py (or search for port=8000) and run (Press Ctrl+C to quit)
 ```sh
