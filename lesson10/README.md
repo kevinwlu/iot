@@ -127,9 +127,11 @@ $ python3 run_app.py
 * Enter content and name, click "Post," and click "Request to mine" that generate "Block #1 is mined" at http://127.0.0.1:8000/mine
 * At YourNet, click "Resync" to view Block #1
 
-![server.png](/lesson10/server.png)
+![post.png](/lesson10/post.png)
 
-![app.png](/lesson10/app.png)
+![mine.png](/lesson10/mine.png)
+
+![sync.png](/lesson10/sync.png)
 
 ## Lab 10B: PyOTA
 * Demonstrated on Raspberry Pi OS and Ubuntu
