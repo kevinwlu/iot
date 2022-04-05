@@ -115,6 +115,7 @@ $ curl localhost:5000/mine
 
 ### [Python blockchain app](https://github.com/satwikkansal/python_blockchain_app) by [Satwik Kansal](https://github.com/satwikkansal)
 #### Terminal 1: Uncomment the last line (Line 257) of node_server.py (or search for port=8000) and run (Press Ctrl+C to quit)
+* In the [GNU nano](https://en.wikipedia.org/wiki/GNU_nano) text editor, Ctrl+W (shown as as ^W) goes to the search menu
 ```sh
 $ git clone https://github.com/satwikkansal/python_blockchain_app.git
 $ cd ~/python_blockchain_app
