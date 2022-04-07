@@ -23,6 +23,7 @@
   * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
 * [Creatio](https://en.wikipedia.org/wiki/Creatio) process automation
 * [Timeline of quantum computing and communication](https://en.wikipedia.org/wiki/Timeline_of_quantum_computing_and_communication)
+* [List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
 * [Quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)
   * [Quantum key distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution)
 * [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
