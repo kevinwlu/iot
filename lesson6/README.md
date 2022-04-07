@@ -64,6 +64,9 @@
 * [Mustache](https://en.wikipedia.org/wiki/Mustache_(template_system)) template system
 * [Handlebars.js](https://handlebarsjs.com/) template system
 * [Pystache](https://github.com/defunkt/pystache) Python implementation of Mustache template system
+* [Rust (programming language)](https://en.wikipedia.org/wiki/Rust_(programming_language))
+  * [rust-lang.org](https://www.rust-lang.org/)
+  * [warp.dev](https://www.warp.dev/)
 
 ## Lab 6A: Node.js
 
