@@ -64,9 +64,6 @@
 * [Mustache](https://en.wikipedia.org/wiki/Mustache_(template_system)) template system
 * [Handlebars.js](https://handlebarsjs.com/) template system
 * [Pystache](https://github.com/defunkt/pystache) Python implementation of Mustache template system
-* [MATLAB](https://en.wikipedia.org/wiki/MATLAB) (Matrix Laboratory)
-* [MATLAB Mobile](https://www.mathworks.com/products/matlab-mobile.html)
-* [Vysor](https://github.com/koush/vysor.io) app to control iOS or Android phones on desktop computers
 
 ## Lab 6A: Node.js
 
