@@ -5,6 +5,9 @@
   * [Authorization](https://en.wikipedia.org/wiki/Authorization) (AuthZ)
   * Accounting ([Audit trail](https://en.wikipedia.org/wiki/Audit_trail))
 * [ThingSpeak](https://en.wikipedia.org/wiki/ThingSpeak)
+  * [MATLAB](https://en.wikipedia.org/wiki/MATLAB) (Matrix Laboratory)
+  * [MATLAB Mobile](https://www.mathworks.com/products/matlab-mobile.html)
+  * [Vysor](https://github.com/koush/vysor.io) app to control iOS or Android phones on desktop computers
 * [Pickle](https://docs.python.org/3/library/pickle.html): Python object serialization
 * [gspread](https://gspread.readthedocs.io/en/latest)
 * [OAuth](https://en.wikipedia.org/wiki/OAuth)
