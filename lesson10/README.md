@@ -49,7 +49,7 @@
   * [Diem Blockchain](https://developers.diem.com/main)
   * [Proof of stake](https://en.wikipedia.org/wiki/Proof_of_stake)
   * [Byzantine fault](https://en.wikipedia.org/wiki/Byzantine_fault) tolerance (BFT)
-[GNU Taler](https://en.wikipedia.org/wiki/GNU_Taler) (Taxable Anonymous Libre Economic Reserves)
+* [GNU Taler](https://en.wikipedia.org/wiki/GNU_Taler) (Taxable Anonymous Libre Economic Reserves)
 * [IOTA](https://en.wikipedia.org/wiki/IOTA_(technology))
   * [Directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (DAG)
   * [IOTA Tangle MainNet](http://tangle.glumb.de/)
