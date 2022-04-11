@@ -66,6 +66,7 @@
 * [Pystache](https://github.com/defunkt/pystache) Python implementation of Mustache template system
 * [Rust (programming language)](https://en.wikipedia.org/wiki/Rust_(programming_language))
   * [rust-lang.org](https://www.rust-lang.org/)
+  * [Rust Foundation](https://foundation.rust-lang.org/)
   * [warp.dev](https://www.warp.dev/)
 
 ## Lab 6A: Node.js
