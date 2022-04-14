@@ -102,6 +102,12 @@ $ cat snakecoin-server-full-code.py
 $ python3 snakecoin-server-full-code.py
 $ cd
 ```
+* In case of ImportError: cannot import name 'soft_unicode' from 'markupsafe'
+```sh
+$ sudo pip3 install markupsafe==2.0.1
+$ python3 snakecoin-server-full-code.py
+```
+
 #### Terminal 2: Create a transaction and mine a new block at http://127.0.0.1:5000/mine
 ```sh
 $ curl "localhost:5000/txion" \
