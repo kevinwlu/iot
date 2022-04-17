@@ -13,6 +13,7 @@
   * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
   * [Seeed XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/) by [Seeed Studio](https://www.seeed.cc/)
     * [GitHub](https://github.com/Seeed-Studio)
+    * [Getting Started with XIAO BLE (Sense)](https://wiki.seeedstudio.com/XIAO_BLE/)
   * [TinyDuino](https://tinycircuits.com/products/tinyduino-processor-board) by [TinyCircuits](https://tinycircuits.com/)
     * [GitHub](https://github.com/TinyCircuits)
 * [STM32](https://en.wikipedia.org/wiki/STM32)
