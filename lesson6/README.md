@@ -12,26 +12,26 @@
   * [List of Arduino boards and compatible systems](https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems)
   * [SoftwareSerial Library](https://www.arduino.cc/en/Reference/softwareSerial)
   * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
-  * [Seeed XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/) by [Seeed Studio](https://www.seeed.cc/)
-    * [GitHub](https://github.com/Seeed-Studio)
-    * [Getting Started with XIAO BLE (Sense)](https://wiki.seeedstudio.com/XIAO_BLE/)
-    * [Setup Arduino IDE on Raspberry Pi to support Seeed XIAO BLE (Sense)](https://www.youtube.com/watch?v=9OsbFAFQtnk)
-    * [nRF52 ](https://www.nordicsemi.com/Products/Development-hardware/nrf52-dk)
-    * [adafruit-nrfutil](https://github.com/adafruit/Adafruit_nRF52_nrfutil)
-  * Seeed XIAO BLE (Sense) with Arduino IDE on Raspberry Pi OS > exec: "adafruit-nrfutil": executable file not found in $PATH > Error compiling for board Seeed XIAO nRF52840 Sense
+* [Seeed XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/) by [Seeed Studio](https://www.seeed.cc/)
+  * [GitHub](https://github.com/Seeed-Studio)
+  * [Getting Started with XIAO BLE (Sense)](https://wiki.seeedstudio.com/XIAO_BLE/)
+  * [Setup Arduino IDE on Raspberry Pi to support Seeed XIAO BLE (Sense)](https://www.youtube.com/watch?v=9OsbFAFQtnk)
+  * [nRF52 ](https://www.nordicsemi.com/Products/Development-hardware/nrf52-dk)
+  * [adafruit-nrfutil](https://github.com/adafruit/Adafruit_nRF52_nrfutil)
+* Seeed XIAO BLE (Sense) with Arduino IDE on Raspberry Pi OS > exec: "adafruit-nrfutil": executable file not found in $PATH > Error compiling for board Seeed XIAO nRF52840 Sense
 ```sh
 pi@raspberrypy:~ $ pip3 install --user adafruit-nrfutil
 pi@raspberrypy:~ $ adafruit-nrfutil version
 adafruit-nrfutil version 0.5.3.post17
 ```
-  * Seeed XIAO BLE (Sense) with Arduino IDE on macOS > /Users/.../Library/Arduino15/packages/Seeeduino/hardware/nrf52/2.6.1/tools/adafruit-nrfutil/macos/adafruit-nrfutil: permission denied > Error compiling for board Seeed XIAO BLE Sense - nRF52840
+* Seeed XIAO BLE (Sense) with Arduino IDE on macOS > /Users/.../Library/Arduino15/packages/Seeeduino/hardware/nrf52/2.6.1/tools/adafruit-nrfutil/macos/adafruit-nrfutil: permission denied > Error compiling for board Seeed XIAO BLE Sense - nRF52840
 ```sh
 $ cd Library/Arduino15/packages/Seeeduino/hardware/nrf52/2.6.1/tools/adafruit-nrfutil/macos/
 $ chmod +x adafruit-nrfutil
 $ ./adafruit-nrfutil version
 adafruit-nrfutil version 0.5.3.post12
 ```
-  * [TinyDuino](https://tinycircuits.com/products/tinyduino-processor-board) by [TinyCircuits](https://tinycircuits.com/)
+* [TinyDuino](https://tinycircuits.com/products/tinyduino-processor-board) by [TinyCircuits](https://tinycircuits.com/)
     * [GitHub](https://github.com/TinyCircuits)
 * [STM32](https://en.wikipedia.org/wiki/STM32)
   * [Nucleo-64](https://www.st.com/en/evaluation-tools/nucleo-f072rb.html)
