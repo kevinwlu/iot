@@ -23,6 +23,8 @@
 ```sh
 $ cd Library/Arduino15/packages/Seeeduino/hardware/nrf52/2.6.1/tools/adafruit-nrfutil/macos/
 $ chmod +x adafruit-nrfutil
+$ ./adafruit-nrfutil version
+adafruit-nrfutil version 0.5.3.post12
 ```
   * [TinyDuino](https://tinycircuits.com/products/tinyduino-processor-board) by [TinyCircuits](https://tinycircuits.com/)
     * [GitHub](https://github.com/TinyCircuits)
