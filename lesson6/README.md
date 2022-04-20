@@ -31,6 +31,7 @@ $ chmod +x adafruit-nrfutil
 $ ./adafruit-nrfutil version
 adafruit-nrfutil version 0.5.3.post12
 ```
+![blink.gif](/lesson6/blink.gif)
 * [TinyDuino](https://tinycircuits.com/products/tinyduino-processor-board) by [TinyCircuits](https://tinycircuits.com/)
     * [GitHub](https://github.com/TinyCircuits)
 * [STM32](https://en.wikipedia.org/wiki/STM32)
