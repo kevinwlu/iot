@@ -1,3 +1,12 @@
+"""
+====================================
+Plotting Cross-Validated Predictions
+====================================
+
+This example shows how to use `cross_val_predict` to visualize prediction
+errors.
+
+"""
 from sklearn import datasets
 from sklearn.model_selection import cross_val_predict
 from sklearn import linear_model
