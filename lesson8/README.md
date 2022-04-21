@@ -259,6 +259,7 @@ $ python3 interpolation.py
 ```sh
 $ python3 plot_lda.py
 $ python3 plot_lda_qda.py
+$ python3 plot_cv_predict.py
 $ python3 plot_cv_diabetes.py
 $ python3 traffic.py
 ```
