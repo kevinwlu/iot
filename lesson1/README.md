@@ -25,7 +25,7 @@
 * [Near-field communication](https://en.wikipedia.org/wiki/Near-field_communication) (NFC)
 * [FeliCa](https://en.wikipedia.org/wiki/FeliCa) (Felicity Card)
 * [Power-line communication](https://en.wikipedia.org/wiki/Power-line_communication) (PLC)
-* [BACnet](https://en.wikipedia.org/wiki/BACnet)
+* [BACnet](https://en.wikipedia.org/wiki/BACnet) (Building Automation and Control networks)
 * [KNX (standard)](https://en.wikipedia.org/wiki/KNX_(standard))
 * [LonWorks](https://en.wikipedia.org/wiki/LonWorks)
 * [X10 (industry standard)](https://en.wikipedia.org/wiki/X10_(industry_standard))
