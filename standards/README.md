@@ -53,6 +53,7 @@
   * [IoT Global Standards Initiative](https://www.itu.int/en/ITU-T/gsi/iot/)
 * [JCP](https://en.wikipedia.org/wiki/Java_Community_Process) (Java Community Process)
   * [Jakarta Messaging](https://en.wikipedia.org/wiki/Jakarta_Messaging)
+* [KNX (standard)](https://en.wikipedia.org/wiki/KNX_(standard))
 * [NFPA](https://en.wikipedia.org/wiki/National_Fire_Protection_Association) (National Fire Protection Association)
   * [National Electrical Code](https://en.wikipedia.org/wiki/National_Electrical_Code)
 * [NIST](https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology) (National Institute of Standards and Technology)
