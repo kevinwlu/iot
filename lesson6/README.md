@@ -12,6 +12,7 @@
   * [List of Arduino boards and compatible systems](https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems)
   * [SoftwareSerial Library](https://www.arduino.cc/en/Reference/softwareSerial)
   * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
+  * [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE)
 * [Seeed XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/) by [Seeed Studio](https://www.seeed.cc/)
   * [GitHub](https://github.com/Seeed-Studio)
   * [Getting Started with XIAO BLE (Sense)](https://wiki.seeedstudio.com/XIAO_BLE/)
