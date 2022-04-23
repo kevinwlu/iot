@@ -19,9 +19,12 @@
   * [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
   * [Zigbee](https://en.wikipedia.org/wiki/Zigbee)
   * [6LoWPAN](https://en.wikipedia.org/wiki/6LoWPAN) (IPv6 over Low-Power Wireless Personal Area Network)
+  * [Thread (network protocol)](https://en.wikipedia.org/wiki/Thread_(network_protocol))
+* [Z-Wave](https://en.wikipedia.org/wiki/Z-Wave)
 * [Radio-frequency identification](https://en.wikipedia.org/wiki/Radio-frequency_identification) (RFID)
 * [Near-field communication](https://en.wikipedia.org/wiki/Near-field_communication) (NFC)
 * [FeliCa](https://en.wikipedia.org/wiki/FeliCa) (Felicity Card)
+* [Power-line communication](https://en.wikipedia.org/wiki/Power-line_communication) (PLC)
 * [Cobot](https://en.wikipedia.org/wiki/Cobot) or collaborative robot
 * [Human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
   * [OpenBCI](https://en.wikipedia.org/wiki/OpenBCI)
