@@ -26,6 +26,9 @@
 * [FeliCa](https://en.wikipedia.org/wiki/FeliCa) (Felicity Card)
 * [Power-line communication](https://en.wikipedia.org/wiki/Power-line_communication) (PLC)
 * [BACnet](https://en.wikipedia.org/wiki/BACnet)
+* [KNX (standard)](https://en.wikipedia.org/wiki/KNX_(standard))
+* [LonWorks](https://en.wikipedia.org/wiki/LonWorks)
+* [X10 (industry standard)](https://en.wikipedia.org/wiki/X10_(industry_standard))
 * [Cobot](https://en.wikipedia.org/wiki/Cobot) or collaborative robot
 * [Human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
   * [OpenBCI](https://en.wikipedia.org/wiki/OpenBCI)
