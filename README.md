@@ -141,6 +141,7 @@
 * [MulteFire](https://en.wikipedia.org/wiki/MulteFire)
 * [Next G Alliance](https://www.nextgalliance.org/)
 * [OCF](https://en.wikipedia.org/wiki/Open_Connectivity_Foundation) (Open Connectivity Foundation)
+  * [Specifications](https://openconnectivity.org/developer/specifications/)
   * [Fairhair Specification](https://openconnectivity.org/developer/specifications/fairhair/)
   * [IoTivity](https://en.wikipedia.org/wiki/IoTivity)
 * [O-RAN](https://www.o-ran.org/)
