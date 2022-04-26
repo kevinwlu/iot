@@ -47,6 +47,7 @@
   * IEEE [P3155](https://standards.ieee.org/ieee/3155/10845/) Standard for Programmable Quantum Simulator
   * IEEE [P7130](https://standards.ieee.org/ieee/7130/10680/) Standard for Quantum Technologies Definitions
   * IEEE [P7131](https://standards.ieee.org/ieee/7131/10681/) Standard for Quantum Computing Performance Metrics and Performance Benchmarking
+  * [Erik P. DeBenedictis](https://debenedictis.org/erik/)
 * [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
   * [Qiskit repo](https://github.com/Qiskit)
   * [Fun With Quantum](https://github.com/JanLahmann/Fun-with-Quantum)
