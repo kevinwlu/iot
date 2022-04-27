@@ -107,6 +107,7 @@
   * [Intel NCS2](https://software.intel.com/content/www/us/en/develop/hardware/neural-compute-stick.html)
   * [Intel OpenVINO](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) (Visual Inference and Neural network Optimization)
 * Google [Coral](https://coral.ai/) Tensor Processing Unit (TPU)
+  * [TensorFlow Lite](https://www.tensorflow.org/lite)
 * [Viso](https://viso.ai/) no-code AI vision
   * [Google Coral for Computer Vision Applications in 2022](https://viso.ai/edge-ai/google-coral/)
 * [Kedro](https://github.com/kedro-org/kedro) Python framework for creating reproducible, maintainable, and modular data science code
