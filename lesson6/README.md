@@ -10,6 +10,7 @@
 * [Google Coral Dev Board](https://coral.ai/products/dev-board/)
   * [Getting started with the Dev Board](https://coral.ai/docs/dev-board/get-started/)
   * [Getting started with Mendel Linux](https://coral.googlesource.com/docs/+/refs/heads/master/GettingStarted.md)
+  * [USB On-The-Go](https://en.wikipedia.org/wiki/USB_On-The-Go) (OTG)
 * [Arduino](https://en.wikipedia.org/wiki/Arduino)
   * [Install Arduino IDE on Raspberry Pi](https://www.raspberrypi-spy.co.uk/2020/12/install-arduino-ide-on-raspberry-pi/)
   * [List of Arduino boards and compatible systems](https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems)
