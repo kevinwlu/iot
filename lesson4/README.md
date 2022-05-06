@@ -32,6 +32,7 @@
   * [Repository](https://github.com/inconshreveable/ngrok)
   * [Grok](https://en.wikipedia.org/wiki/Grok)
   * [Jargon File](https://en.wikipedia.org/wiki/Jargon_File)
+* [Natural Language Toolkit](https://en.wikipedia.org/wiki/Natural_Language_Toolkit) (NLTK)
 * [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySQL, PHP)
   * [WordPress](https://en.wikipedia.org/wiki/WordPress)
 * [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) (WWW)
