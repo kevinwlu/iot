@@ -1,7 +1,5 @@
 # Lesson 6: Alternative Devices
-
-* [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
-* [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller)
+## 
 * [BeagleBoard](https://en.wikipedia.org/wiki/BeagleBoard)
 * [DragonBoard 410c](https://developer.qualcomm.com/hardware/dragonboard-410c)
 * [Google Coral Dev Board](https://coral.ai/products/dev-board/)
@@ -13,6 +11,9 @@
 * [Nvidia Jetson](https://en.wikipedia.org/wiki/Nvidia_Jetson)
 * [Pine64](https://en.wikipedia.org/wiki/Pine64)
   * [Armbian](https://en.wikipedia.org/wiki/Armbian)
+##
+* [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
+* [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller)
 * [Arduino](https://en.wikipedia.org/wiki/Arduino)
   * [Install Arduino IDE on Raspberry Pi](https://www.raspberrypi-spy.co.uk/2020/12/install-arduino-ide-on-raspberry-pi/)
   * [List of Arduino boards and compatible systems](https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems)
