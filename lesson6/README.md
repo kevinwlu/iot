@@ -2,7 +2,7 @@
 
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
 * [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller)
-* [MangoPi MQ Pro](https://mangopi.cc/mangopi_mqpro)
+* [MangoPi-MQ Pro](https://mangopi.cc/mangopi_mqpro)
 * [BeagleBoard](https://en.wikipedia.org/wiki/BeagleBoard)
 * [DragonBoard 410c](https://developer.qualcomm.com/hardware/dragonboard-410c)
 * [Pine64](https://en.wikipedia.org/wiki/Pine64)
