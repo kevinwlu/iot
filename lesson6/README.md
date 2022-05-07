@@ -2,11 +2,12 @@
 
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
 * [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller)
-* [Nvidia Jetson](https://en.wikipedia.org/wiki/Nvidia_Jetson)
+* [MangoPi MQ Pro](https://mangopi.cc/mangopi_mqpro)
 * [BeagleBoard](https://en.wikipedia.org/wiki/BeagleBoard)
 * [DragonBoard 410c](https://developer.qualcomm.com/hardware/dragonboard-410c)
 * [Pine64](https://en.wikipedia.org/wiki/Pine64)
   * [Armbian](https://en.wikipedia.org/wiki/Armbian)
+* [Nvidia Jetson](https://en.wikipedia.org/wiki/Nvidia_Jetson)
 * [Google Coral Dev Board](https://coral.ai/products/dev-board/)
   * [Getting started with the Dev Board](https://coral.ai/docs/dev-board/get-started/)
   * [Getting started with Mendel Linux](https://coral.googlesource.com/docs/+/refs/heads/master/GettingStarted.md)
