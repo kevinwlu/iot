@@ -1,5 +1,4 @@
 # Lesson 6: Alternative Devices
-## 
 * [BeagleBoard](https://en.wikipedia.org/wiki/BeagleBoard)
 * [DragonBoard 410c](https://developer.qualcomm.com/hardware/dragonboard-410c)
 * [Google Coral Dev Board](https://coral.ai/products/dev-board/)
@@ -64,6 +63,7 @@ adafruit-nrfutil version 0.5.3.post12
 * [Tessel](https://tessel.github.io/t2-start/)
 * [TinyDuino](https://tinycircuits.com/products/tinyduino-processor-board) by [TinyCircuits](https://tinycircuits.com/)
     * [GitHub](https://github.com/TinyCircuits)
+##
 * [CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol) (Constrained Application Protocol)
   * [txThings](https://github.com/mwasilak/txThings)
   * [aiocoap](https://github.com/chrysn/aiocoap)
