@@ -9,7 +9,7 @@
   * [Getting started with Mendel Linux](https://coral.googlesource.com/docs/+/refs/heads/master/GettingStarted.md)
   * [USB On-The-Go](https://en.wikipedia.org/wiki/USB_On-The-Go) (OTG)
 * [MangoPi-MQ Pro](https://mangopi.cc/mangopi_mqpro)
-  * [Tina Linux](https://d1.docs.aw-ol.com/en/study/study_1tina/) based on OpenWrt
+  * [Tina Linux](https://d1.docs.aw-ol.com/en/study/study_1tina/)
 * [Nvidia Jetson](https://en.wikipedia.org/wiki/Nvidia_Jetson)
 * [Pine64](https://en.wikipedia.org/wiki/Pine64)
   * [Armbian](https://en.wikipedia.org/wiki/Armbian)
