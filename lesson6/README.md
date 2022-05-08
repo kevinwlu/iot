@@ -83,6 +83,7 @@ adafruit-nrfutil version 0.5.3.post12
 * [KASUMI](https://en.wikipedia.org/wiki/KASUMI) block cipher
 * [Zuc stream cipher](https://en.wikipedia.org/wiki/Zuc_stream_cipher)
 * [HarmonyOS](https://en.wikipedia.org/wiki/HarmonyOS)
+##
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
   * [npm](https://en.wikipedia.org/wiki/Npm_(software)) (Node Package Manager)
   * [nvm](https://github.com/nvm-sh/nvm) (Node Version Manager)
