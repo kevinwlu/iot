@@ -5,6 +5,7 @@
   * [Getting started with the Dev Board](https://coral.ai/docs/dev-board/get-started/)
   * [Getting started with Mendel Linux](https://coral.googlesource.com/docs/+/refs/heads/master/GettingStarted.md)
   * [USB On-The-Go](https://en.wikipedia.org/wiki/USB_On-The-Go) (OTG)
+  * [TensorFlow Lite](https://www.tensorflow.org/lite)
   * [Tensor Processing Unit](https://en.wikipedia.org/wiki/Tensor_Processing_Unit) (TPU)
   * [Edge TPU](https://cloud.google.com/edge-tpu)
 * [MangoPi-MQ Pro](https://mangopi.cc/mangopi_mqpro)
