@@ -1,6 +1,6 @@
 # 2022 Spring
 
-* [Object Detection by RCNN and Faster RCNN for Autonomous Driving](https://github.com/terminatornian/faster-RCNN)
+* [Object Detection by R-CNN and Faster R-CNN for Autonomous Driving](https://github.com/terminatornian/faster-RCNN)
 
 # 2021 Fall
 
