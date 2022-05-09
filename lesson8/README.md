@@ -92,6 +92,7 @@
     * [Getting Started](https://docs.edgeimpulse.com/docs/getting-started)
     * [Fully supported development boards](https://docs.edgeimpulse.com/docs/fully-supported-development-boards)
     * [Using mobile phone](https://docs.edgeimpulse.com/docs/using-your-mobile-phone)
+  * [Gradio](https://github.com/gradio-app/gradio)
   * [Infxl](https://infxl.com/)
   * [SynapseML](https://github.com/microsoft/SynapseML)
 * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
