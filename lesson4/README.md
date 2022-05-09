@@ -24,6 +24,7 @@
   * [MySQL](https://en.wikipedia.org/wiki/MySQL)
   * [SQLite](https://en.wikipedia.org/wiki/SQLite)
   * [Firebase](https://en.wikipedia.org/wiki/Firebase)
+    * [Cloud Firestore](https://firebase.google.com/docs/firestore)
   * [How to use Firebase with Django project](https://medium.com/@canadiyaman/how-to-use-firebase-with-django-project-34578516bafe) by [Can Adiyaman](https://github.com/canadiyaman)
   * [CockroachDB](https://en.wikipedia.org/wiki/CockroachDB)
   * [Build a Python app with CockroachDB and Django](https://www.cockroachlabs.com/docs/stable/build-a-python-app-with-cockroachdb-django.html)
