@@ -37,6 +37,7 @@
 * [YAML](https://en.wikipedia.org/wiki/YAML)
 * [Natural Language Toolkit](https://en.wikipedia.org/wiki/Natural_Language_Toolkit) (NLTK)
 * [Cepstrum](https://en.wikipedia.org/wiki/Cepstrum)
+* [Mel scale](https://en.wikipedia.org/wiki/Mel_scale)
 * [Mel-frequency cepstrum](https://en.wikipedia.org/wiki/Mel-frequency_cepstrum) (MFC)
 * [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySQL, PHP)
   * [WordPress](https://en.wikipedia.org/wiki/WordPress)
