@@ -5,6 +5,10 @@
     * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
     * [Direct Instruction](https://en.wikipedia.org/wiki/Direct_instruction)
     * [Universal Design for Learning](https://en.wikipedia.org/wiki/Universal_Design_for_Learning) (UDL)
+  * [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998
+    * [1986-03-07 speech](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) at Bellcore Colloquium Seminar
+    * [1995-06-06 lecture](https://www.youtube.com/watch?v=a1zDuOPkMSw) at Naval Postgraduate School on "You and Your Research" 
+    * *[The Art of Doing Science and Engineering: Learning to Learn](http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf)*, Chapter 30, pp. 209-215, 1997  
   * *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)* by Prof. [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley)
     * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
     * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
