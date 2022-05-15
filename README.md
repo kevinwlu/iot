@@ -5,14 +5,14 @@
     * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
     * [Direct Instruction](https://en.wikipedia.org/wiki/Direct_instruction)
     * [Universal Design for Learning](https://en.wikipedia.org/wiki/Universal_Design_for_Learning) (UDL)
-  * [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998
-    * [1986-03-07 lecture](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) of Bellcore Colloquium
-    * [1995-06-06 lecture](https://www.youtube.com/watch?v=a1zDuOPkMSw) at Naval Postgraduate School on "You and Your Research" 
+  * [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) 1915&mdash;1998, "You and Your Research"
     * *[The Art of Doing Science and Engineering: Learning to Learn](http://worrydream.com/refs/Hamming-TheArtOfDoingScienceAndEngineering.pdf)*, Chapter 30, pp. 209-215, 1997  
-  * *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)* by Prof. [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley)
+    * [1986-03-07 Bellcore Colloquium](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+    * [1995-06-06 Naval Postgraduate School](https://www.youtube.com/watch?v=a1zDuOPkMSw)
+  * [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley), *[Learning How to Learn](https://barbaraoakley.com/books/learning-how-to-learn/)*
     * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
     * [Learning by teaching](https://en.wikipedia.org/wiki/Learning_by_teaching)
-  * *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)* by Prof. Barbara Oakley, Prof. [Beth Rogowsky](https://www.bloomu.edu/people-directory/beth-rogowsky), and Prof. [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski)
+  * Barbara Oakley, [Beth Rogowsky](https://www.bloomu.edu/people-directory/beth-rogowsky), and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski), *[Uncommon Sense Teaching](https://barbaraoakley.com/books/uncommon-sense-teaching/)*
     * [Working memory](https://en.wikipedia.org/wiki/Working_memory)
     * [Long-term memory](https://en.wikipedia.org/wiki/Long-term_memory)
     * [Brain-derived neurotrophic factor](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor) (BDNF)
