@@ -35,6 +35,7 @@
   * [Chainlink](https://en.wikipedia.org/wiki/Chainlink_(cryptocurrency))
   * [Polygon](https://polygon.technology/)
 * [Algorand](https://en.wikipedia.org/wiki/Algorand_(cryptocurrency_platform))
+* [Avalanche (blockchain platform)](https://en.wikipedia.org/wiki/Avalanche_(blockchain_platform))
 * [Cardano](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
 * [Dash](https://en.wikipedia.org/wiki/Dash_(cryptocurrency))
 * [Helium System](https://www.helium.com/)
