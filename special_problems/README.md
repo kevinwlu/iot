@@ -1,5 +1,6 @@
 # 2022 Spring
 
+* [Disinformation Detection on the Internet](https://github.com/qiwu909/fake-news-detection)
 * [Object Detection by R-CNN and Faster R-CNN for Autonomous Driving](https://github.com/terminatornian/faster-RCNN)
 
 # 2021 Fall
