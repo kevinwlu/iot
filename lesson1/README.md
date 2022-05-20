@@ -2,7 +2,7 @@
 
 > [Kevin Ashton](https://en.wikipedia.org/wiki/Kevin_Ashton), *[How to Fly a Horse](https://en.wikipedia.org/wiki/How_to_Fly_a_Horse): The Secret History of Creation, Invention, and Discovery.* It's about [the way innovation really happens](https://www.newsweek.com/2015/03/06/meet-kevin-ashton-father-internet-things-308763.html), which is less by magic and genius than by a lot of small steps and bits of luck.
 
-![architecture.png](/iot/blob/master/lesson1/architecture.png)
+![architecture.png](/lesson1/architecture.png)
 
 * IoT architecture source: [IERC-European Research Cluster on the Internet of Things](http://www.internet-of-things-research.eu/pdf/IoT-From%20Research%20and%20Innovation%20to%20Market%20Deployment_IERC_Cluster_eBook_978-87-93102-95-8_P.pdf)
 * [Open Systems Interconnecton (OSI) model](https://en.wikipedia.org/wiki/OSI_model)
