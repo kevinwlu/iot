@@ -3,8 +3,8 @@
 * [PyPy](https://en.wikipedia.org/wiki/PyPy)
 * [Just-in-time (JIT) compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation)
 * [Strange loop](https://en.wikipedia.org/wiki/Strange_loop)
-  * *[Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) (GEB): an Eternal Golden Braid*
-  * *[I Am a Strange Loop](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop)*
+  * [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter), *[Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) (GEB): an Eternal Golden Braid*, 1979
+  * Douglas Hofstadter, *[I Am a Strange Loop](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop)*, 2007
 * [Ouroboros](https://en.wikipedia.org/wiki/Ouroboros)
 * [Self-reference](https://en.wikipedia.org/wiki/Self-reference)
 * [Paradox](https://en.wikipedia.org/wiki/Paradox)
