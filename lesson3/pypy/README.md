@@ -1,6 +1,7 @@
 # PyPy
 
 * [PyPy](https://en.wikipedia.org/wiki/PyPy)
+* [Just-in-time (JIT) compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation)
 * [Ouroboros](https://en.wikipedia.org/wiki/Ouroboros)
 * [Self-reference](https://en.wikipedia.org/wiki/Self-reference)
 
