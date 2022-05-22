@@ -2,9 +2,13 @@
 
 * [PyPy](https://en.wikipedia.org/wiki/PyPy)
 * [Just-in-time (JIT) compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation)
+* [Strange loop](https://en.wikipedia.org/wiki/Strange_loop)
 * [Ouroboros](https://en.wikipedia.org/wiki/Ouroboros)
 * [Self-reference](https://en.wikipedia.org/wiki/Self-reference)
 * [Paradox](https://en.wikipedia.org/wiki/Paradox)
+* [Chicken or the egg](https://en.wikipedia.org/wiki/Chicken_or_the_egg)
+* [Bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping)
+* [Catch-22 (logic)](https://en.wikipedia.org/wiki/Catch-22_(logic))
 
 Most Python code runs well on PyPy except for code that depends on [CPython](https://en.wikipedia.org/wiki/CPython) extensions, which either does not work or incurs some overhead when run in PyPy.
 
