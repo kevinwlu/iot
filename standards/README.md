@@ -33,6 +33,7 @@
   * [IEEE SA IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
   * [IEEE P1451-99](https://standards.ieee.org/project/1451-99.html) Standard for Harmonization of Internet of Things (IoT) Devices and Systems
   * [IEEE 2050-2018](https://standards.ieee.org/ieee/2050/7178/) Standard for a Real-Time Operating System (RTOS) for Small-Scale Embedded Systems
+    * [Micro T-Kernel](https://en.wikipedia.org/wiki/Micro_T-Kernel)
   * [IEEE Standards for Blockchain](https://blockchain.ieee.org/standards)
   * [IEEE Standards for Cybersecurity](https://engagestandards.ieee.org/cybersecurity.html)
   * [IEEE Standards for Smart Cities](https://engagestandards.ieee.org/smart-cities.html)
