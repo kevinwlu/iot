@@ -32,6 +32,7 @@
   * [IEEE IoT technical community](https://iot.ieee.org/)
   * [IEEE SA IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
   * [IEEE P1451-99](https://standards.ieee.org/project/1451-99.html) Standard for Harmonization of Internet of Things (IoT) Devices and Systems
+  * [IEEE 2050-2018](https://standards.ieee.org/ieee/2050/7178/)
   * [IEEE Standards for Blockchain](https://blockchain.ieee.org/standards)
   * [IEEE Standards for Cybersecurity](https://engagestandards.ieee.org/cybersecurity.html)
   * [IEEE Standards for Smart Cities](https://engagestandards.ieee.org/smart-cities.html)
