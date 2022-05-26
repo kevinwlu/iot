@@ -75,7 +75,7 @@
   * [GitHub Pages](https://pages.github.com/)
   * [GitHub Copilot](https://copilot.github.com/)
 * [Comparison of source-code-hosting facilities](https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities)
-  * [Bitbucket](https://en.wikipedia.org/wiki/Bitbucket)
+  * [Bitbucket](https://en.wikipedia.org/wiki/Bitbucket) was acquired by [Atlassian](https://en.wikipedia.org/wiki/Atlassian) in 2010
   * [Gitea](https://en.wikipedia.org/wiki/Gitea)
   * [Gitee](https://gitee.com/)
   * [GitLab](https://en.wikipedia.org/wiki/GitLab)
