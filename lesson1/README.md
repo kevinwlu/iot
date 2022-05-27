@@ -34,6 +34,7 @@
 * [X10 (industry standard)](https://en.wikipedia.org/wiki/X10_(industry_standard))
 * [Robot Operating System](https://en.wikipedia.org/wiki/Robot_Operating_System) (ROS)
 * [Cobot](https://en.wikipedia.org/wiki/Cobot) or collaborative robot
+* [Simultaneous localization and mapping](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping) (SLAM)
 * [Human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
   * [OpenBCI](https://en.wikipedia.org/wiki/OpenBCI)
 * [BRAIN Initiative](https://en.wikipedia.org/wiki/BRAIN_Initiative) (Brain Research Through Advancing Innovative Neurotechnologies)
