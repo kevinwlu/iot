@@ -18,20 +18,20 @@
     * [Brain-derived neurotrophic factor](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor) (BDNF)
     * [Neurobiological effects of physical exercise](https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise)
   * [Irving Herman](http://www.columbia.edu/~iph1/herman.html), [The Laws of Herman](http://www.columbia.edu/~iph1/lawsofherman.htm)
-* [Lesson 1](https://github.com/kevinwlu/iot/tree/master/lesson1): Overview
-* [Lesson 2](https://github.com/kevinwlu/iot/tree/master/lesson2): Raspberry Pi
-* [Lesson 3](https://github.com/kevinwlu/iot/tree/master/lesson3): Python
-* [Lesson 4](https://github.com/kevinwlu/iot/tree/master/lesson4): Django and Flask
-* [Lesson 5](https://github.com/kevinwlu/iot/tree/master/lesson5): Crossbar.io and Paho
-* [Lesson 6](https://github.com/kevinwlu/iot/tree/master/lesson6): Alternative Devices
-* [Lesson 7](https://github.com/kevinwlu/iot/tree/master/lesson7): Cloud Platforms
-* [Lesson 8](https://github.com/kevinwlu/iot/tree/master/lesson8): Data Analysis
-* [Lesson 9](https://github.com/kevinwlu/iot/tree/master/lesson9): YANG and Qiskit
-* [Lesson 10](https://github.com/kevinwlu/iot/tree/master/lesson10): Blockchain
+* [Lesson 1](/lesson1): Overview
+* [Lesson 2](/lesson2): Raspberry Pi
+* [Lesson 3](/lesson3): Python
+* [Lesson 4](/lesson4): Django and Flask
+* [Lesson 5](/lesson5): Crossbar.io and Paho
+* [Lesson 6](/lesson6): Alternative Devices
+* [Lesson 7](/lesson7): Cloud Platforms
+* [Lesson 8](/lesson8): Data Analysis
+* [Lesson 9](/lesson9): YANG and Qiskit
+* [Lesson 10](/lesson10): Blockchain
 * [Apps](/apps)
-* [Projects](https://github.com/kevinwlu/iot/tree/master/projects)
-* [Special problems](https://github.com/kevinwlu/iot/tree/master/projects)
-* [Standards](https://github.com/kevinwlu/iot/tree/master/standards)
+* [Projects](/projects)
+* [Special problems](/projects)
+* [Standards](/standards)
 
 ## References
 * [Hands-on books series](http://www.hands-on-books-series.com)
