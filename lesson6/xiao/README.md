@@ -19,7 +19,7 @@ adafruit-nrfutil version 0.5.3.post12
 ```
 ![blink.gif](/lesson6/blink.gif)
 * [LightBlue](https://punchthrough.com/lightblue/) apps by Punch Through
-  * 
+  * [xiao_ble](/lesson6/xiao/xiao_ble.ino)
 * 6-axis [inertial measurement unit](https://en.wikipedia.org/wiki/Inertial_measurement_unit) (IMU)
   * Arduino IDE > File > Examples > Seeed Arduino LSM6DS3 > [HighLevelExample](/lesson6/xiao/HighLevelExample.ino)
 * [Pulse-density modulation](https://en.wikipedia.org/wiki/Pulse-density_modulation) (PDM) microphone
