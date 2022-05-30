@@ -1,8 +1,10 @@
 # Seeed XIAO BLE Sense
 * [GitHub](https://github.com/Seeed-Studio)
 * [Getting started with XIAO BLE (Sense)](https://wiki.seeedstudio.com/XIAO_BLE/)
+  * Arduino IDE > File > Examples > Seeed Arduino LSM6DS3 > HighLevelExample
+  * Arduino IDE > File > Examples > Seed Arduino Mic
 * [Setup Arduino IDE on Raspberry Pi to support Seeed XIAO BLE (Sense)](https://www.youtube.com/watch?v=9OsbFAFQtnk)
-* [nRF52 ](https://www.nordicsemi.com/Products/Development-hardware/nrf52-dk)
+* [nRF52 Development Kit](https://www.nordicsemi.com/Products/Development-hardware/nrf52-dk)
 * [adafruit-nrfutil](https://github.com/adafruit/Adafruit_nRF52_nrfutil)
 * [LightBlue](https://punchthrough.com/lightblue/) apps by Punch Through
 * Seeed XIAO BLE (Sense) with Arduino IDE on Raspberry Pi OS > exec: "adafruit-nrfutil": executable file not found in $PATH > Error compiling for board Seeed XIAO nRF52840 Sense
