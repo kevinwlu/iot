@@ -19,7 +19,7 @@ $ ./adafruit-nrfutil version
 adafruit-nrfutil version 0.5.3.post12
 ```
 ![blink.gif](/lesson6/blink.gif)
-* 6-Axis IMU
+* 6-axis [inertial measurement unit](https://en.wikipedia.org/wiki/Inertial_measurement_unit) (IMU)
   * Arduino IDE > File > Examples > Seeed Arduino LSM6DS3 > HighLevelExample
-* PDM microphone
+* [Pulse-density modulation](https://en.wikipedia.org/wiki/Pulse-density_modulation) (PDM) microphone
   * Arduino IDE > File > Examples > Seed Arduino Mic
