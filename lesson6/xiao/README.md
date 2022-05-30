@@ -20,6 +20,6 @@ adafruit-nrfutil version 0.5.3.post12
 ```
 ![blink.gif](/lesson6/blink.gif)
 * 6-axis [inertial measurement unit](https://en.wikipedia.org/wiki/Inertial_measurement_unit) (IMU)
-  * Arduino IDE > File > Examples > Seeed Arduino LSM6DS3 > HighLevelExample
+  * Arduino IDE > File > Examples > Seeed Arduino LSM6DS3 > [HighLevelExample](/iot/lesson6/xiao/HighLevelExample.ino)
 * [Pulse-density modulation](https://en.wikipedia.org/wiki/Pulse-density_modulation) (PDM) microphone
-  * Arduino IDE > File > Examples > Seed Arduino Mic
+  * Arduino IDE > File > Examples > Seed Arduino Mic > [mic_serial_plotter](/iot/lesson6/xiao/mic_serial_plotter.ino)
