@@ -53,6 +53,7 @@
   * [Augmented reality](https://en.wikipedia.org/wiki/Augmented_reality) (AR)
   * [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) (VR)
   * [Mixed reality](https://en.wikipedia.org/wiki/Mixed_reality) (MR)
+  * [Persistent world](https://en.wikipedia.org/wiki/Persistent_world)
 * [Uniform Resource Locator](https://en.wikipedia.org/wiki/URL) (URL)
 * [Hypertext Markup Language](https://en.wikipedia.org/wiki/HTML) (HTML)
 * [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (CSS)
