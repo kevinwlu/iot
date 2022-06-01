@@ -81,6 +81,7 @@
 * [Pandas](https://en.wikipedia.org/wiki/Pandas_(software)) Python data analysis library
   * [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML)
+  * [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) (RL)
   * [List of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
   * [Automated machine learning](https://en.wikipedia.org/wiki/Automated_machine_learning)
   * [AutoML](https://www.automl.org/) by [Prof. Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/) (University of Freiburg) and [Prof. Marius Lindauer](https://www.tnt.uni-hannover.de/staff/lindauer/) (Leibniz University of Hannover)
