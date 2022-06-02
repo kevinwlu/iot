@@ -1,7 +1,6 @@
 # Seeed XIAO BLE Sense
 * [GitHub](https://github.com/Seeed-Studio)
 * [Getting started with XIAO BLE (Sense)](https://wiki.seeedstudio.com/XIAO_BLE/)
-* [Getting started with Wio terminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/)
 * [Setup Arduino IDE on Raspberry Pi to support Seeed XIAO BLE (Sense)](https://www.youtube.com/watch?v=9OsbFAFQtnk)
 * [nRF52 Development Kit](https://www.nordicsemi.com/Products/Development-hardware/nrf52-dk)
 * [adafruit-nrfutil](https://github.com/adafruit/Adafruit_nRF52_nrfutil)
@@ -26,3 +25,4 @@ adafruit-nrfutil version 0.5.3.post12
   * [LSM6DS3](https://content.arduino.cc/assets/st_imu_lsm6ds3_datasheet.pdf) iNEMO inertial module: always-on 3D accelerometer and 3D gyroscope
 * [Pulse-density modulation](https://en.wikipedia.org/wiki/Pulse-density_modulation) (PDM) microphone
   * Arduino IDE > File > Examples > Seed Arduino Mic > [mic_serial_plotter](/lesson6/xiao/mic_serial_plotter.ino)
+  * [Getting started with Wio terminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/)
