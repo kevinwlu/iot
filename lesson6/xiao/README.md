@@ -26,3 +26,4 @@ adafruit-nrfutil version 0.5.3.post12
 * [Pulse-density modulation](https://en.wikipedia.org/wiki/Pulse-density_modulation) (PDM) microphone
   * Arduino IDE > File > Examples > Seed Arduino Mic > [mic_serial_plotter](/lesson6/xiao/mic_serial_plotter.ino)
   * [Getting started with Wio terminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/)
+  * Interrupt service routines (ISR) also known as [interrupt handler](https://en.wikipedia.org/wiki/Interrupt_handler)
