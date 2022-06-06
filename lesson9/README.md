@@ -1,6 +1,7 @@
 # Lesson 9: YANG and Qiskit
 * [Simple Network Management Protocol](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol) (SNMP)
-* [Management information base](https://en.wikipedia.org/wiki/Management_information_base) (MIB)
+  * [Management information base](https://en.wikipedia.org/wiki/Management_information_base) (MIB)
+  * [Object identifier](https://en.wikipedia.org/wiki/Object_identifier) (OID)
 * [NETCONF](https://en.wikipedia.org/wiki/NETCONF)
   * [IETF RFC 6241](https://datatracker.ietf.org/doc/html/rfc6241)
 * [YANG](https://en.wikipedia.org/wiki/YANG) ([Yet Another](https://en.wikipedia.org/wiki/Yet_another) Next Generation)
