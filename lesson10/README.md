@@ -28,6 +28,10 @@
   * [Genesis block](https://en.bitcoin.it/wiki/Genesis_block) on [2009-01-03](https://btc.com/btc/block/0)
   * [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/) (CBECI)
   * [Lightening Network](https://en.wikipedia.org/wiki/Lightning_Network)
+  * [51% Attack](https://www.investopedia.com/terms/1/51-attack.asp)
+  * Primavera De Filippiab, Morshed Mannanc, and Wessel Reijersd, "[Blockchain as a confidence machine: The problem of trust & challenges of governance](https://www.sciencedirect.com/science/article/pii/S0160791X20303067)"
+  * George Kappos, Haaroon Yousaf, Rainer Stütz, Sofia Rollet, Bernhard Haslhofer, and Sarah Meiklejohn, "[How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://arxiv.org/abs/2205.13882)"
+  * "[A fistful of Bitcoins: characterizing payments among men with no names](https://dl.acm.org/doi/10.1145/2896384)"
   * [Alyssa Blackburn](https://www.linkedin.com/in/alyssa-blackburn), [Erez Lieberman Aiden](https://en.wikipedia.org/wiki/Erez_Lieberman_Aiden), et al. , "[Cooperation among an anonymous group protected Bitcoin during failures of decentralization](https://aidenlab.org/bitcoin.pdf)" 
 * [Altcoins](https://en.wikipedia.org/wiki/Cryptocurrency#Altcoins) (alternative cryptocurrencies) are tokens, cryptocurrencies, and other types of digital assets that are not bitcoin
 * [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
