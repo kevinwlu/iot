@@ -3,6 +3,7 @@
   > Knowledge is telling the past. Wisdom is predicting the future.
 * [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
   * [Big data](https://en.wikipedia.org/wiki/Big_data)
+  * [Data lake](https://en.wikipedia.org/wiki/Data_lake)
   * [Data science](https://en.wikipedia.org/wiki/Data_science)
   * [Diagnosis](https://en.wikipedia.org/wiki/Diagnosis)
   * [Prognostics](https://en.wikipedia.org/wiki/Prognostics)
@@ -10,6 +11,7 @@
     * [Kaggle API](https://github.com/Kaggle/kaggle-api)
   * [Google Dataset Search](https://datasetsearch.research.google.com/)
   * [Google Books Ngram Viewer](https://books.google.com/ngrams)
+  * [Culturomics](https://en.wikipedia.org/wiki/Culturomics)
   * [IEEE DataPort](https://ieee-dataport.org/)
   * [Datasets](https://github.com/kevinwlu/iot/tree/master/lesson8/datasets)
   * [Ground truth](https://en.wikipedia.org/wiki/Ground_truth)
