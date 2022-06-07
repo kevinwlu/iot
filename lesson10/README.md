@@ -28,7 +28,7 @@
   * [Genesis block](https://en.bitcoin.it/wiki/Genesis_block) on [2009-01-03](https://btc.com/btc/block/0)
   * [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/) (CBECI)
   * [Lightening Network](https://en.wikipedia.org/wiki/Lightning_Network)
-  * Alyssa Blackburn et al., "[Cooperation among an anonymous group protected Bitcoin during failures of decentralization](https://aidenlab.org/bitcoin.pdf)" 
+  * [Alyssa Blackburn](https://www.linkedin.com/in/alyssa-blackburn) et al., "[Cooperation among an anonymous group protected Bitcoin during failures of decentralization](https://aidenlab.org/bitcoin.pdf)" 
 * [Altcoins](https://en.wikipedia.org/wiki/Cryptocurrency#Altcoins) (alternative cryptocurrencies) are tokens, cryptocurrencies, and other types of digital assets that are not bitcoin
 * [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
   * [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
