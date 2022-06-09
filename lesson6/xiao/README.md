@@ -19,7 +19,7 @@ adafruit-nrfutil version 0.5.3.post12
 ```
 ![blink.gif](/lesson6/blink.gif)
 * [LightBlue](https://punchthrough.com/lightblue/) apps by Punch Through
-  * [xiao_ble](/lesson6/xiao/xiao_ble.ino)
+  * [LED](/lesson6/xiao/LED.ino)
 * 6-axis [inertial measurement unit](https://en.wikipedia.org/wiki/Inertial_measurement_unit) (IMU)
   * Arduino IDE > File > Examples > Seeed Arduino LSM6DS3 > [HighLevelExample](/lesson6/xiao/HighLevelExample.ino)
   * [LSM6DS3](https://content.arduino.cc/assets/st_imu_lsm6ds3_datasheet.pdf) iNEMO inertial module: always-on 3D accelerometer and 3D gyroscope
