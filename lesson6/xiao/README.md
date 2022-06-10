@@ -1,5 +1,5 @@
 # Seeed XIAO BLE Sense
-* [GitHub](https://github.com/Seeed-Studio)
+* [Seeed Studio](https://github.com/Seeed-Studio)
 * [Getting started with XIAO BLE (Sense)](https://wiki.seeedstudio.com/XIAO_BLE/)
 * [Setup Arduino IDE on Raspberry Pi to support Seeed XIAO BLE (Sense)](https://www.youtube.com/watch?v=9OsbFAFQtnk)
 * [nRF52840](https://www.nordicsemi.com/Products/nRF52840)
