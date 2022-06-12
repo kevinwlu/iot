@@ -1,11 +1,11 @@
 # Seeed XIAO BLE Sense
 * [Seeed Studio](https://github.com/Seeed-Studio)
 * [Getting started with XIAO BLE Sense](https://wiki.seeedstudio.com/XIAO_BLE/) on Windows
-* [Setup Arduino IDE on Raspberry Pi to support Seeed XIAO BLE Sense](https://www.youtube.com/watch?v=9OsbFAFQtnk)
   * [Arduino IDE](https://www.arduino.cc/en/software)
-  * [Raspberry Pi OS](https://www.raspberrypi.com/software/)
   * [nRF52840](https://www.nordicsemi.com/Products/nRF52840)
   * [adafruit-nrfutil](https://github.com/adafruit/Adafruit_nRF52_nrfutil)
+* [Setup Arduino IDE on Raspberry Pi to support Seeed XIAO BLE Sense](https://www.youtube.com/watch?v=9OsbFAFQtnk)
+  * [Raspberry Pi OS](https://www.raspberrypi.com/software/)
 * Seeed XIAO BLE Sense with Arduino IDE on Raspberry Pi OS > exec: "adafruit-nrfutil": executable file not found in $PATH > Error compiling for board Seeed XIAO nRF52840 Sense
 ```sh
 pi@raspberrypy:~ $ pip3 install --user adafruit-nrfutil
