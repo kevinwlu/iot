@@ -1,6 +1,6 @@
 # Seeed XIAO BLE Sense
 * [Seeed Studio](https://github.com/Seeed-Studio)
-* [Getting started with XIAO BLE Sense](https://wiki.seeedstudio.com/XIAO_BLE/)
+* [Getting started with XIAO BLE Sense](https://wiki.seeedstudio.com/XIAO_BLE/) on Windows
 * [Setup Arduino IDE on Raspberry Pi to support Seeed XIAO BLE Sense](https://www.youtube.com/watch?v=9OsbFAFQtnk)
   * [Arduino IDE](https://www.arduino.cc/en/software)
   * [Raspberry Pi OS](https://www.raspberrypi.com/software/)
