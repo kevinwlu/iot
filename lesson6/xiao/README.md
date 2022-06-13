@@ -26,18 +26,19 @@ adafruit-nrfutil version 0.5.3.post12
 * [Bluetooth usage on XIAO BLE Sense](https://wiki.seeedstudio.com/XIAO-BLE-Sense-Bluetooth-Usage/)
   * [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE) > Code > Download ZIP
   * Arduino IDE > Sketch > Include Library > Add .ZIP Library 
-  * Arduino IDE > File > Examples > INCOMPATIBLE > ArduinoBLE > Peripheral > [LED](/lesson6/xiao/LED.ino)
-  * [LightBlue](https://punchthrough.com/lightblue/) apps by Punch Through
+  * Arduino IDE > File > Examples > INCOMPATIBLE > ArduinoBLE > Peripheral > [LED](/lesson6/xiao/LED.ino) > Upload
+  * Arduino IDE > Tools > Serial Monitor
+  * [LightBlue](https://punchthrough.com/lightblue/) apps by Punch Through > Peripherals Nearby > Arduino
 * [6-Axis IMU usage on XIAO BLE Sense](https://wiki.seeedstudio.com/XIAO-BLE-Sense-IMU-Usage/)
   * 6-axis [inertial measurement unit](https://en.wikipedia.org/wiki/Inertial_measurement_unit) (IMU)
   * [Seeed_Arduino_LSM6DS3](https://github.com/Seeed-Studio/Seeed_Arduino_LSM6DS3) > Code > Download ZIP
   * Arduino IDE > Sketch > Include Library > Add .ZIP Library 
-  * Arduino IDE > File > Examples > Seeed Arduino LSM6DS3 > [HighLevelExample](/lesson6/xiao/HighLevelExample.ino)
+  * Arduino IDE > File > Examples > Seeed Arduino LSM6DS3 > [HighLevelExample](/lesson6/xiao/HighLevelExample.ino) > Upload
   * [LSM6DS3](https://content.arduino.cc/assets/st_imu_lsm6ds3_datasheet.pdf) iNEMO inertial module: always-on 3D accelerometer and 3D gyroscope
 * [PDM microphone usage on XIAO BLE Sense](https://wiki.seeedstudio.com/XIAO-BLE-Sense-PDM-Usage/)
   * [Pulse-density modulation](https://en.wikipedia.org/wiki/Pulse-density_modulation) (PDM) microphone
   * [Seeed_Arduino_Mic](https://github.com/Seeed-Studio/Seeed_Arduino_Mic) > Code > Download ZIP
   * Arduino IDE > Sketch > Include Library > Add .ZIP Library 
-  * Arduino IDE > File > Examples > Seed Arduino Mic > [mic_serial_plotter](/lesson6/xiao/mic_serial_plotter.ino)
+  * Arduino IDE > File > Examples > Seed Arduino Mic > [mic_serial_plotter](/lesson6/xiao/mic_serial_plotter.ino) > Upload
   * [Getting started with Wio terminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/)
   * Interrupt service routines (ISR) also known as [interrupt handler](https://en.wikipedia.org/wiki/Interrupt_handler)
