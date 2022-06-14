@@ -29,6 +29,7 @@ adafruit-nrfutil version 0.5.3.post12
   * Arduino IDE > File > Examples > INCOMPATIBLE > ArduinoBLE > Peripheral > [LED](/lesson6/xiao/LED.ino) > Upload
   * Arduino IDE > Tools > Serial Monitor
   * [LightBlue](https://punchthrough.com/lightblue/) apps by Punch Through > Peripherals Nearby > Arduino
+  * [Web Bluetooth API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
 * [6-Axis IMU usage on XIAO BLE Sense](https://wiki.seeedstudio.com/XIAO-BLE-Sense-IMU-Usage/)
   * 6-axis [inertial measurement unit](https://en.wikipedia.org/wiki/Inertial_measurement_unit) (IMU)
   * [Seeed_Arduino_LSM6DS3](https://github.com/Seeed-Studio/Seeed_Arduino_LSM6DS3) > Code > Download ZIP
