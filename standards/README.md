@@ -91,6 +91,7 @@
   * [HTML](https://en.wikipedia.org/wiki/HTML)
   * [WCAG](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines)
 ## National and Regional Standards Organization
+* [Association Française de Normalisation](https://en.wikipedia.org/wiki/AFNOR) (AFNOR)
 * [Deutsches Institut für Normung](https://en.wikipedia.org/wiki/Deutsches_Institut_f%C3%BCr_Normung) (DIN)
 * [Ecuadorian Standardization Service](https://es.wikipedia.org/wiki/Servicio_Ecuatoriano_de_Normalizaci%C3%B3n) (INEN)
 * [Enterprise Singapore](https://en.wikipedia.org/wiki/Enterprise_Singapore)
