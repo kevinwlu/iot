@@ -28,6 +28,7 @@
     * [Mobility](https://standards.ieee.org/practices/mobility/index.html)
   * [IEEE Industry Connections](https://standards.ieee.org/industry-connections/)
     * [Nendica](https://1.ieee802.org/802-nendica/): IEEE 802 “Network Enhancements for the Next Decade” Industry Connections Activity
+  * [IEEE CertifAIEd](https://engagestandards.ieee.org/ieeecertifaied.html)
   * [IEEE GET Program](https://standards.ieee.org/products-services/ieee-get-program.html) via [IEEE Xplore](https://ieeexplore.ieee.org/browse/standards/get-program/page)
   * [IEEE SA Open](https://saopen.ieee.org/)
   * [IEEE SA GitLab](https://opensource.ieee.org/)
