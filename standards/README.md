@@ -93,6 +93,7 @@
 ## National and Regional Standards Organization
 * [Association Française de Normalisation](https://en.wikipedia.org/wiki/AFNOR) (AFNOR)
 * [Deutsches Institut für Normung](https://en.wikipedia.org/wiki/Deutsches_Institut_f%C3%BCr_Normung) (DIN)
+  * [DKE](https://en.wikipedia.org/wiki/German_Commission_for_Electrotechnical,_Electronic,_and_Information_Technologies_of_DIN_and_VDE) (German Commission for Electrotechnical, Electronic, and Information Technologies of DIN and VDE)
 * [Ecuadorian Standardization Service](https://es.wikipedia.org/wiki/Servicio_Ecuatoriano_de_Normalizaci%C3%B3n) (INEN)
 * [Enterprise Singapore](https://en.wikipedia.org/wiki/Enterprise_Singapore)
 * [GCC Standardization Organization](https://en.wikipedia.org/wiki/GCC_Standardization_Organization) (GSO)
