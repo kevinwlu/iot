@@ -37,9 +37,10 @@
   * [Hayes command set](https://en.wikipedia.org/wiki/Hayes_command_set) or AT command set
   * [Zerynth](https://en.wikipedia.org/wiki/Zerynth)
 * [Particle](https://www.particle.io/)
+  * [Particle](/lesson6/particle) in Lesson 6
 * [Redbear Duo](https://github.com/redbear/Duo)
 * [Seeed XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/) by [Seeed Studio](https://www.seeed.cc/)
-  * Folder [xiao](/lesson6/xiao)
+  * [XIAO](/lesson6/xiao) in Lesson 6
 * [STM32](https://en.wikipedia.org/wiki/STM32)
   * [Nucleo-64](https://www.st.com/en/evaluation-tools/nucleo-f072rb.html)
   * [Mbed](https://en.wikipedia.org/wiki/Mbed)
