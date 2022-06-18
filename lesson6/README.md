@@ -39,6 +39,7 @@
 * [Particle](https://www.particle.io/)
 * [Redbear Duo](https://github.com/redbear/Duo)
 * [Seeed XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/) by [Seeed Studio](https://www.seeed.cc/)
+  * Folder [xiao](/lesson6/xiao)
 * [STM32](https://en.wikipedia.org/wiki/STM32)
   * [Nucleo-64](https://www.st.com/en/evaluation-tools/nucleo-f072rb.html)
   * [Mbed](https://en.wikipedia.org/wiki/Mbed)
