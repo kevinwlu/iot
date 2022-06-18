@@ -22,7 +22,7 @@
   * [Explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
   * [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
   * [Ethics of artificial intelligence](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
-
+  * [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 * K. Lee, "[A Blueprint for Coexistence With Artifical Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/)," Wired, July 12, 2017
 
   | Human-AI coexistence | Creativity not needed | Creativity needed |
