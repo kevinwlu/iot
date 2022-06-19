@@ -51,3 +51,4 @@ adafruit-nrfutil version 0.5.3.post12
   * [U8g2 Monochrome Display Library](https://github.com/olikraus/u8g2)
   * [Edge Impulse](https://www.edgeimpulse.com/)
   * [Edge Impulse CLI](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation)
+  * [Edge Impulse Data Forwarder](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-data-forwarder)
