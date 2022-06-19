@@ -56,3 +56,4 @@ adafruit-nrfutil version 0.5.3.post12
 ```sh
 Set-ExecutionPolicy unrestricted
 ```
+> Sensor reading should be all numbers
