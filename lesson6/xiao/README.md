@@ -52,7 +52,7 @@ adafruit-nrfutil version 0.5.3.post12
   * [Edge Impulse](https://www.edgeimpulse.com/)
   * [Edge Impulse CLI](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation)
   * [Edge Impulse Data Forwarder](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-data-forwarder)
-> If edge-impulse-data-forwarder.ps1 cannot be loadeed because running scripts is disabled on this system, update Windows PowerShell execution policy to allow running scripts
+> If "edge-impulse-data-forwarder.ps1 cannot be loaded because running scripts is disabled on this system," update Windows PowerShell execution policy to allow running scripts
 ```sh
 Set-ExecutionPolicy unrestricted
 ```
