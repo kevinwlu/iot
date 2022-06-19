@@ -47,3 +47,6 @@ adafruit-nrfutil version 0.5.3.post12
   * [Web Bluetooth API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
     * [MDN Web Docs](https://en.wikipedia.org/wiki/MDN_Web_Docs)
   * [Web Bluetooth demos](https://github.com/WebBluetoothCG/demos)
+* [Motion Recognition Based on Edge Impulse](https://wiki.seeedstudio.com/XIAOEI/)
+  * [Edge Impulse](https://www.edgeimpulse.com/)
+  * [Edge Impulse CLI](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation)
