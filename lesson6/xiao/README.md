@@ -36,8 +36,6 @@ adafruit-nrfutil version 0.5.3.post12
   * Arduino IDE > File > Examples > Seed Arduino Mic > [mic_serial_plotter](/lesson6/xiao/mic_serial_plotter.ino) > Upload
   * [Getting started with Wio terminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/)
   * Interrupt service routines (ISR) also known as [interrupt handler](https://en.wikipedia.org/wiki/Interrupt_handler)
-* [View Serial Monitor Over HC-05 Bluetooth Module](https://create.arduino.cc/projecthub/millerman4487/view-serial-monitor-over-bluetooth-fbb0e5)
-  * Windows Settings > Devices > Bluetooth & other devices > Add Bluetooth or other devices > Bluetooth
 * [Bluetooth Usage on XIAO BLE Sense](https://wiki.seeedstudio.com/XIAO-BLE-Sense-Bluetooth-Usage/)
   * [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE) > Code > Download ZIP
   * Arduino IDE > Sketch > Include Library > Add .ZIP Library 
