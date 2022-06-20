@@ -83,6 +83,8 @@
   * [rust-lang.org](https://www.rust-lang.org/)
   * [Rust Foundation](https://foundation.rust-lang.org/)
   * [warp.dev](https://www.warp.dev/)
+##
+* [App Inventor for Android](https://en.wikipedia.org/wiki/App_Inventor_for_Android)
 
 ## Lab 6A: Node.js
 
