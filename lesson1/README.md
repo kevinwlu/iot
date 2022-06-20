@@ -70,6 +70,7 @@
 * [Orchestration](https://en.wikipedia.org/wiki/Orchestration_(computing))
 * [Quality of service](https://en.wikipedia.org/wiki/Quality_of_service) (QoS)
 * [Authentication, Authorization, and Accounting](https://en.wikipedia.org/wiki/AAA_(computer_security)) (AAA)
+* [Privacy-enhancing technologies](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies) (PET)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
   * [Termina emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
   * [sudo](https://en.wikipedia.org/wiki/Sudo)
