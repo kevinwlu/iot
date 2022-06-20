@@ -48,7 +48,7 @@ adafruit-nrfutil version 0.5.3.post12
 * [Motion Recognition Based on Edge Impulse](https://wiki.seeedstudio.com/XIAOEI/)
   * [U8g2 Monochrome Display Library](https://github.com/olikraus/u8g2)
   * [Edge Impulse](https://www.edgeimpulse.com/)
-  * [Edge Impulse CLI](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation)
+  * [Edge Impulse CLI](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation) requires [Python 3](https://www.python.org/downloads/) and [Node.js](https://nodejs.org/en/download/)
   * [Edge Impulse Data Forwarder](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-data-forwarder)
 > If "edge-impulse-data-forwarder.ps1 cannot be loaded because running scripts is disabled on this system," update Windows PowerShell execution policy to allow running scripts
 ```sh
