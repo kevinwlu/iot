@@ -66,6 +66,7 @@
 * [KASUMI](https://en.wikipedia.org/wiki/KASUMI) block cipher
 * [Zuc stream cipher](https://en.wikipedia.org/wiki/Zuc_stream_cipher)
 * [HarmonyOS](https://en.wikipedia.org/wiki/HarmonyOS)
+* [App Inventor for Android](https://en.wikipedia.org/wiki/App_Inventor_for_Android)
 ##
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
   * [npm](https://en.wikipedia.org/wiki/Npm_(software)) (Node Package Manager)
@@ -83,8 +84,6 @@
   * [rust-lang.org](https://www.rust-lang.org/)
   * [Rust Foundation](https://foundation.rust-lang.org/)
   * [warp.dev](https://www.warp.dev/)
-##
-* [App Inventor for Android](https://en.wikipedia.org/wiki/App_Inventor_for_Android)
 
 ## Lab 6A: Node.js
 
