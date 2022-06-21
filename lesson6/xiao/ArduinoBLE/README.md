@@ -1,6 +1,6 @@
 # ArduinoBLE
 * [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
-  * [View Serial Monitor Over HC-05 Bluetooth Module](https://create.arduino.cc/projecthub/millerman4487/view-serial-monitor-over-bluetooth-fbb0e5)
+  * [View Serial Monitor Over Bluetooth](https://create.arduino.cc/projecthub/millerman4487/view-serial-monitor-over-bluetooth-fbb0e5)
   * Windows Settings > Devices > Bluetooth & other devices > Add Bluetooth or other devices > Bluetooth
 * [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) (BLE)
 * [ArduinoBLE library](https://www.arduino.cc/reference/en/libraries/arduinoble/)
