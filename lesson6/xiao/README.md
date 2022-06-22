@@ -55,4 +55,4 @@ adafruit-nrfutil version 0.5.3.post12
 Set-ExecutionPolicy unrestricted
 ```
 > Sensor reading shall be all numbers
-* Deep sleep demo shows 3&micro;A
+* [Deep sleep demo](https://github.com/0hotpotman0/BLE_52840_Core/blob/main/libraries/Bluefruit52Lib/examples/Hardware/deep_Sleep/deep_Sleep.ino) shows 3&micro;A
