@@ -55,4 +55,4 @@ adafruit-nrfutil version 0.5.3.post12
 Set-ExecutionPolicy unrestricted
 ```
 > Sensor reading shall be all numbers
-* Deep sleep demo shows 3$\mu$A
+* Deep sleep demo shows 3&micro;A
