@@ -24,7 +24,7 @@ adafruit-nrfutil version 0.5.3.post12
 ```
 ![blink.gif](/lesson6/xiao/blink.gif)
 ![battery.gif](/lesson6/xiao/battery.gif)
-* [Power consumption verification](https://wiki.seeedstudio.com/XIAO_BLE/#power-consumption-verification) of 3&micro;A by a [deep sleep example](https://github.com/0hotpotman0/BLE_52840_Core/blob/main/libraries/Bluefruit52Lib/examples/Hardware/deep_Sleep/deep_Sleep.ino) 
+* [Power consumption](https://wiki.seeedstudio.com/XIAO_BLE/#power-consumption-verification) about 3&micro;A for a [deep sleep example](https://github.com/0hotpotman0/BLE_52840_Core/blob/main/libraries/Bluefruit52Lib/examples/Hardware/deep_Sleep/deep_Sleep.ino) 
 * [6-Axis IMU Usage on XIAO BLE Sense](https://wiki.seeedstudio.com/XIAO-BLE-Sense-IMU-Usage/)
   * [Inertial measurement unit](https://en.wikipedia.org/wiki/Inertial_measurement_unit) (IMU)
   * [Seeed_Arduino_LSM6DS3](https://github.com/Seeed-Studio/Seeed_Arduino_LSM6DS3) > Code > Download ZIP
