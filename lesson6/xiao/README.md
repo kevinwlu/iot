@@ -50,7 +50,7 @@ adafruit-nrfutil version 0.5.3.post12
 * [Motion Recognition Based on Edge Impulse](https://wiki.seeedstudio.com/XIAOEI/)
   * [U8g2 Monochrome Display Library](https://github.com/olikraus/u8g2)
   * [Edge Impulse](https://www.edgeimpulse.com/)
-    * [Getting started]([url](https://docs.edgeimpulse.com/docs/))
+    * [Getting started](https://docs.edgeimpulse.com/docs/)
     * [Projects](https://docs.edgeimpulse.com/experts/)
   * [Edge Impulse CLI](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation) requires [Python 3](https://www.python.org/downloads/) and [Node.js](https://nodejs.org/en/download/), e.g., node 16.15.1 and npm 8.11.0
   * [Edge Impulse Data Forwarder](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-data-forwarder)
