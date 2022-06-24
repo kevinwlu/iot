@@ -11,4 +11,5 @@
   * [Generic Access Profile](https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gap) (GAP)
   * [Generic Attribute Profile](https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gatt) (GATT)
   * [Universally unique identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier) (UUID)
+  * [16-bit UUIDs](https://www.bluetooth.com/specifications/assigned-numbers/)
 * [How to Use LightBlue: The Go-To BLE Development Tool](https://punchthrough.com/lightblue-features/)
