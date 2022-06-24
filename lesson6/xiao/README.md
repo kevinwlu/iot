@@ -44,6 +44,7 @@ adafruit-nrfutil version 0.5.3.post12
   * Arduino IDE > File > Examples > INCOMPATIBLE > ArduinoBLE > Peripheral > [LED](/lesson6/xiao/ArduinoBLE/Peripheral/LED.ino) > Upload
   * Arduino IDE > Tools > Serial Monitor
   * [LightBlue](https://punchthrough.com/lightblue/) apps by Punch Through > Peripherals Nearby > Arduino
+    * [How to Use LightBlue: The Go-To BLE Development Tool](https://punchthrough.com/lightblue-features/)
   * [Web Bluetooth API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
     * [MDN Web Docs](https://en.wikipedia.org/wiki/MDN_Web_Docs)
   * [Web Bluetooth demos](https://github.com/WebBluetoothCG/demos)
