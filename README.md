@@ -51,7 +51,6 @@
 * [Hackathon](https://en.wikipedia.org/wiki/Hackathon)
   * [Devpost](https://en.wikipedia.org/wiki/Devpost)
 * [AngelList](https://en.wikipedia.org/wiki/AngelList)
-  * [IoT startups](https://angel.co/internet-of-things)
   * [Angel investor](https://en.wikipedia.org/wiki/Angel_investor)
 * [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator)
   * [List of Y Combinator startups](https://en.wikipedia.org/wiki/List_of_Y_Combinator_startups)
