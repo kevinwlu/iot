@@ -1,8 +1,22 @@
 # Industry
 
+## Air Transportation
+* [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
+* [Beta Technologies](https://en.wikipedia.org/wiki/Beta_Technologies)
+* [Boom Technology](https://en.wikipedia.org/wiki/Boom_Technology)
+* [EHang](https://en.wikipedia.org/wiki/EHang)
+* [Eviation Alice](https://en.wikipedia.org/wiki/Eviation_Alice)
+* [eVTOL](https://en.wikipedia.org/wiki/EVTOL) (electric vertical take-off and landing) aircraft
+* [Faradair Aerospace BEHA](https://en.wikipedia.org/wiki/Faradair_Aerospace_BEHA)
+* [Joby Aviation](https://en.wikipedia.org/wiki/Joby_Aviation)
+* [Leonardo S.p.A.](https://en.wikipedia.org/wiki/Leonardo_S.p.A.)
+* [Lilium GmbH](https://en.wikipedia.org/wiki/Lilium_GmbH)
+* [Vertical Aerospace](https://en.wikipedia.org/wiki/Vertical_Aerospace)
+* [Volocopter](https://en.wikipedia.org/wiki/Volocopter)
+* [Zunum Aero](https://en.wikipedia.org/wiki/Zunum_Aero)
 ## Agriculture
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
-## Transportation
+## Ground Transportation
 * [Apple electric car project](https://en.wikipedia.org/wiki/Apple_electric_car_project)
 * [Canoo](https://en.wikipedia.org/wiki/Canoo)
 * [Faraday Future](https://en.wikipedia.org/wiki/Faraday_Future)
