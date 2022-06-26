@@ -10,6 +10,8 @@
 * [Environmental, social and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
 * [Miniwiz](https://en.wikipedia.org/wiki/Miniwiz)
 * [Zero Emissions Research and Initiatives](https://en.wikipedia.org/wiki/Zero_Emissions_Research_and_Initiatives) (ZERI)
+## Home
+* [Boxabl](https://www.boxabl.com/)
 ## Retail
 * [Ocado](https://en.wikipedia.org/wiki/Ocado)
 ## Sports
