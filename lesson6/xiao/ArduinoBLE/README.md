@@ -14,3 +14,4 @@
   * [BLE Profiles and Services](https://www.bluetooth.com/specifications/specs/)
   * [BLE Characteristics](https://www.bluetooth.com/specifications/assigned-numbers/)
 * [How to Use LightBlue: The Go-To BLE Development Tool](https://punchthrough.com/lightblue-features/)
+  * The UUID shall be 16 or 128 bits
