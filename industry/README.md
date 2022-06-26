@@ -2,6 +2,8 @@
 
 ## Agriculture
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
+## Energy
+* [Tidal power](https://en.wikipedia.org/wiki/Tidal_power)
 ## ESG
 * [Environmental, social and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
 * [Miniwiz](https://en.wikipedia.org/wiki/Miniwiz)
