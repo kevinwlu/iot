@@ -2,7 +2,7 @@
 
 ## Agriculture
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
-## Energy
+## Energy and Power
 * [Eco Wave Power](https://www.ecowavepower.com/)
 * [Solar geoengineering](https://en.wikipedia.org/wiki/Solar_geoengineering)
 * [Space mirror (climate engineering)](https://en.wikipedia.org/wiki/Space_mirror_(climate_engineering))
