@@ -2,7 +2,7 @@
 
 ## Agriculture
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
-## Air Transportation
+## Transportation: Air
 * [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
 * [Beta Technologies](https://en.wikipedia.org/wiki/Beta_Technologies)
 * [Boom Technology](https://en.wikipedia.org/wiki/Boom_Technology)
@@ -16,7 +16,7 @@
 * [Vertical Aerospace](https://en.wikipedia.org/wiki/Vertical_Aerospace)
 * [Volocopter](https://en.wikipedia.org/wiki/Volocopter)
 * [Zunum Aero](https://en.wikipedia.org/wiki/Zunum_Aero)
-## Ground Transportation
+## Transportation: Ground
 * [Apple electric car project](https://en.wikipedia.org/wiki/Apple_electric_car_project)
 * [Canoo](https://en.wikipedia.org/wiki/Canoo)
 * [Faraday Future](https://en.wikipedia.org/wiki/Faraday_Future)
