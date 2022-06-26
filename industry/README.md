@@ -3,6 +3,8 @@
 ## Agriculture
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
 ## Energy
+* [Solar geoengineering](https://en.wikipedia.org/wiki/Solar_geoengineering)
+* [Space mirror (climate engineering)](https://en.wikipedia.org/wiki/Space_mirror_(climate_engineering))
 * [Tidal power](https://en.wikipedia.org/wiki/Tidal_power)
 ## ESG
 * [Environmental, social and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
@@ -10,6 +12,8 @@
 * [Zero Emissions Research and Initiatives](https://en.wikipedia.org/wiki/Zero_Emissions_Research_and_Initiatives) (ZERI)
 ## Retail
 * [Ocado](https://en.wikipedia.org/wiki/Ocado)
+## Sports
+* [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
 ## Transportation: Air
 * [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
 * [Beta Technologies](https://en.wikipedia.org/wiki/Beta_Technologies)
