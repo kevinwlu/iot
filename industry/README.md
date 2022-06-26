@@ -3,9 +3,11 @@
 ## Agriculture
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
 ## Energy
+* [Eco Wave Power](https://www.ecowavepower.com/)
 * [Solar geoengineering](https://en.wikipedia.org/wiki/Solar_geoengineering)
 * [Space mirror (climate engineering)](https://en.wikipedia.org/wiki/Space_mirror_(climate_engineering))
 * [Tidal power](https://en.wikipedia.org/wiki/Tidal_power)
+* [Wave power](https://en.wikipedia.org/wiki/Wave_power)
 ## ESG
 * [Environmental, social and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
 * [Miniwiz](https://en.wikipedia.org/wiki/Miniwiz)
