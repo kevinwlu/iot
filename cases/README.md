@@ -48,6 +48,7 @@
 * [Karma Automotive](https://en.wikipedia.org/wiki/Karma_Automotive)
 * [Lordstown Motors](https://en.wikipedia.org/wiki/Lordstown_Motors)
 * [Lucid Motors](https://en.wikipedia.org/wiki/Lucid_Motors)
+* [Mojio](https://www.moj.io/)
 * [Nikola Corporation](https://en.wikipedia.org/wiki/Nikola_Corporation)
 * [Rivian](https://en.wikipedia.org/wiki/Rivian)
 * [The Boring Company](https://en.wikipedia.org/wiki/The_Boring_Company)
