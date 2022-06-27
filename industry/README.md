@@ -34,6 +34,7 @@
 * [Zunum Aero](https://en.wikipedia.org/wiki/Zunum_Aero)
 ## Transportation: Ground
 * [Apple electric car project](https://en.wikipedia.org/wiki/Apple_electric_car_project)
+* [Argo AI](https://en.wikipedia.org/wiki/Argo_AI)
 * [Aurora Innovation](https://en.wikipedia.org/wiki/Aurora_Innovation)
 * [Canoo](https://en.wikipedia.org/wiki/Canoo)
 * [Faraday Future](https://en.wikipedia.org/wiki/Faraday_Future)
