@@ -9,9 +9,6 @@
 * [Tidal power](https://en.wikipedia.org/wiki/Tidal_power)
 * [Wave power](https://en.wikipedia.org/wiki/Wave_power)
 ## Enterprise
-* [Environmental, social and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
-* [Miniwiz](https://en.wikipedia.org/wiki/Miniwiz)
-* [Zero Emissions Research and Initiatives](https://en.wikipedia.org/wiki/Zero_Emissions_Research_and_Initiatives) (ZERI)
 ## Finance
 ## Healthcare
 ## Industrial
@@ -57,3 +54,6 @@
 * [Waymo](https://en.wikipedia.org/wiki/Waymo)
 * [Wejo](https://en.wikipedia.org/wiki/Wejo)
 ## Other
+* [Environmental, social and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
+* [Miniwiz](https://en.wikipedia.org/wiki/Miniwiz)
+* [Zero Emissions Research and Initiatives](https://en.wikipedia.org/wiki/Zero_Emissions_Research_and_Initiatives) (ZERI)
