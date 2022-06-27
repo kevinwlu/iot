@@ -12,7 +12,7 @@
 ## Finance
 ## Healthcare
 * [Kinsa](https://en.wikipedia.org/wiki/Kinsa)
-* [UPRIGHT](https://www.uprightpose.com/)
+* [Upright](https://www.uprightpose.com/)
 ## Industrial
 ## Public Services
 ## Residential
