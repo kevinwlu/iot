@@ -14,6 +14,8 @@
 * [Zero Emissions Research and Initiatives](https://en.wikipedia.org/wiki/Zero_Emissions_Research_and_Initiatives) (ZERI)
 ## Finance
 ## Healthcare
+## Industrial
+## Public Services
 ## Residential
 * [Boxabl](https://www.boxabl.com/)
 ## Retail
@@ -54,3 +56,4 @@
 * [Wallbox](https://en.wikipedia.org/wiki/Wallbox)
 * [Waymo](https://en.wikipedia.org/wiki/Waymo)
 * [Wejo](https://en.wikipedia.org/wiki/Wejo)
+## Other
