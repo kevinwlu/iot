@@ -12,6 +12,7 @@
 ## Finance
 ## Healthcare
 * [Kinsa](https://en.wikipedia.org/wiki/Kinsa)
+* [Smart Nora](https://smartnora.com/)
 * [Upright](https://www.uprightpose.com/)
 ## Industrial
 ## Public Services
