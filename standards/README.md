@@ -79,7 +79,7 @@
 * [OMA](https://en.wikipedia.org/wiki/Open_Mobile_Alliance) (Open Mobile Alliance)
   * [OMA IoT SpecWorks](https://omaspecworks.org/what-is-oma-specworks/iot/)
 * [OMG](https://en.wikipedia.org/wiki/Object_Management_Group) (Object Management Group)
-  * Cloud Working Group
+  * [Cloud Working Group](https://www.omg.org/cloud/)
   * [DDS](https://en.wikipedia.org/wiki/Data_Distribution_Service) (Data Distribution Service)
 * [oneM2M](https://en.wikipedia.org/wiki/OneM2M)
   * [Technical specifications](https://www.onem2m.org/technical)
