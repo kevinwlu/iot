@@ -137,6 +137,7 @@
 * [AIOTI](https://aioti.eu/) (Alliance for Internet of Things Innovation)
 * [Avnu Alliance](https://en.wikipedia.org/wiki/Avnu_Alliance)
 * [Cloud Security Alliance](https://en.wikipedia.org/wiki/Cloud_Security_Alliance) (CSA)
+* [Cloud Signature Consortium](https://cloudsignatureconsortium.org/) (CSC)
 * [Digital Twin Consortium](https://www.digitaltwinconsortium.org/)
 * [Hexa-X](https://hexa-x.eu/)
 * [IAMTS](https://iamts.sae-itc.com/) (International Alliance for Mobility Testing and Standardization)
