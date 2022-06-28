@@ -70,6 +70,7 @@
 * [Orchestration](https://en.wikipedia.org/wiki/Orchestration_(computing))
 * [Quality of service](https://en.wikipedia.org/wiki/Quality_of_service) (QoS)
 * [Authentication, Authorization, and Accounting](https://en.wikipedia.org/wiki/AAA_(computer_security)) (AAA)
+* NIST [cloud security](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/cloud-security)
 * [Secure access service edge](https://en.wikipedia.org/wiki/Secure_access_service_edge) (SASE)
 * [Privacy-enhancing technologies](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies) (PET)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
