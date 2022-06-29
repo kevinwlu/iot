@@ -13,8 +13,7 @@ mic_config_t mic_config{
   .channel_cnt = 1,
   .sampling_rate = 16000,
   .buf_size = 512,
-  .debug_pin = LED_BUILTIN                // Toggles each DAC ISR (if 
-DEBUG is set to 1)
+  .debug_pin = LED_BUILTIN                // Toggles each DAC ISR (if DEBUG is set to 1)
 };
 
 NRF52840_ADC_Class Mic(&mic_config);
@@ -49,8 +48,7 @@ void setup() {
   // Initialize PDM with:
   // - one channel (mono mode)
   // - a 16 kHz sample rate for the Arduino Nano 33 BLE Sense
-  // - a 32 kHz or 64 kHz sample rate for the Arduino Portenta Vision 
-Shield
+  // - a 32 kHz or 64 kHz sample rate for the Arduino Portenta Vision Shield
   if (!Mic.begin()) {
     Serial.println("Failed to start MIC!");
     while (1);
@@ -150,8 +148,7 @@ void finalize_template(File &sFile)
 {
   unsigned long fSize = sFile.size()-8;
   sFile.seek(4); 
-  byte data[4] = {lowByte(fSize), highByte(fSize), fSize >> 16, fSize >> 
-24};
+  byte data[4] = {lowByte(fSize), highByte(fSize), fSize >> 16, fSize >> 24};
   sFile.write(data,4);
   byte tmp;
   sFile.seek(40);
@@ -166,16 +163,14 @@ void finalize_template(File &sFile)
 /**
  * Callback function to process the data from the PDM microphone.
  * NOTE: This callback is executed as part of an ISR.
- * Therefore using `Serial` to print messages inside this function isn't 
-supported.
+ * Therefore using `Serial` to print messages inside this function isn't supported.
  * */
 void audio_rec_callback(uint16_t *buf, uint32_t buf_len) {
   static uint32_t idx = 0;
   // Copy samples from DMA buffer to inference buffer
   for (uint32_t i = 0; i < buf_len; i++) {
   
-    // Convert 12-bit unsigned ADC value to 16-bit PCM (signed) audio 
-value
+    // Convert 12-bit unsigned ADC value to 16-bit PCM (signed) audio value
     sampleBuffer[idx++] = buf[i];
 
     if (idx >= mic_config.buf_size){ 
