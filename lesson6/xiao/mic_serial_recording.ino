@@ -17,12 +17,10 @@ mic_config_t mic_config{
   .sampling_rate = 16000,
 #if defined(WIO_TERMINAL)
   .buf_size = 320,
-  .debug_pin = 1                // Toggles each DAC ISR (if DEBUG is set 
-to 1)
+  .debug_pin = 1                // Toggles each DAC ISR (if DEBUG is set to 1)
 #elif defined(ARDUINO_ARCH_NRF52840)
   .buf_size = 1600,
-  .debug_pin = LED_BUILTIN                // Toggles each DAC ISR (if 
-DEBUG is set to 1)
+  .debug_pin = LED_BUILTIN                // Toggles each DAC ISR (if DEBUG is set to 1)
 #endif
 };
 
@@ -97,8 +95,7 @@ static void audio_rec_callback(uint16_t *buf, uint32_t buf_len) {
     for (uint32_t i = 0; i < buf_len; i++) {
       
 #if defined(WIO_TERMINAL)
-      // Convert 12-bit unsigned ADC value to 16-bit PCM (signed) audio 
-value
+      // Convert 12-bit unsigned ADC value to 16-bit PCM (signed) audio value
       recording_buf[idx++] = filter.step((int16_t)(buf[i] - 1024) * 16);    
 //with Filter
       //recording_buf[idx++] = (int16_t)(buf[i] - 1024) * 16;               
