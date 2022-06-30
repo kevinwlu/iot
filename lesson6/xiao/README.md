@@ -56,6 +56,7 @@ adafruit-nrfutil version 0.5.3.post12
 * [Motion Recognition Based on Edge Impulse](https://wiki.seeedstudio.com/XIAOEI/)
   * [U8g2 Monochrome Display Library](https://github.com/olikraus/u8g2) > Code > Download ZIP
   * Arduino IDE > Sketch > Include Library > Add .ZIP Library
+  * Arduino IDE > File > Examples > U8g2
   * [Edge Impulse](https://www.edgeimpulse.com/)
     * [Getting started](https://docs.edgeimpulse.com/docs/)
     * [Projects](https://docs.edgeimpulse.com/experts/)
