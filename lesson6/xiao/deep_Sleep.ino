@@ -49,11 +49,11 @@ Adafruit_SPIFlash flash(&flashTransport);
  *  You also need to uncomment line 84 and comment out line 81 so this array will be passed to the flash memory driver. 
  */
 //Example of a user defined flash memory device:
-//#define W25Q80DLX_EXAMPLE                                                               \
+//#define W25Q80DLX_EXAMPLE                                                      \
 //  {                                                                            \
 //    .total_size = (1 << 20), /* 1 MiB */                                       \
 //        .start_up_time_us = 5000, .manufacturer_id = 0xef,                     \
-//    .memory_type = 0x40, .capacity = 0x14, .max_clock_speed_mhz = 80,         \
+//    .memory_type = 0x40, .capacity = 0x14, .max_clock_speed_mhz = 80,          \
 //    .quad_enable_bit_mask = 0x02, .has_sector_protection = false,              \
 //    .supports_fast_read = true, .supports_qspi = true,                         \
 //    .supports_qspi_writes = false, .write_status_register_split = false,       \
