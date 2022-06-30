@@ -1,12 +1,10 @@
 /*
-    An example sketch for displaying FFT Audio Spectrum Analyser on Wio 
-Terminal TFT display
+    An example sketch for displaying FFT Audio Spectrum Analyser on Wio Terminal TFT display
 
     Copyright (c) 2021 Seeed technology co., ltd.
     Author      : Dmitry Maslov
     Create Time : August 2021
-    Modified from: ESP8266/32 Audio Spectrum Analyser on an SSD1306/SH1106 
-Display 
+    Modified from: ESP8266/32 Audio Spectrum Analyser on an SSD1306/SH1106 Display 
     MIT License (MIT) Copyright (c) 2017 by David Bird. 
     Modified from: Wio Audio Spectrum Display : 2020.05.28 macsbug
     https://macsbug.wordpress.com/2020/05/28/wio-audio-spectrum-display/
@@ -16,32 +14,22 @@ Display
 
     The MIT License (MIT)
 
-    Permission is hereby granted, free of charge, to any person obtaining 
-a copy
-    of this software and associated documentation files (the "Software"), 
-to deal
-    in the Software without restriction, including without limitation the 
-rights
-    to use, copy, modify, merge, publish, distribute, sublicense, and/or 
-sell
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
     copies of the Software, and to permit persons to whom the Software is
     furnished to do so, subject to the following conditions:
 
-    The above copyright notice and this permission notice shall be 
-included in
+    The above copyright notice and this permission notice shall be included in
     all copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
-EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
-MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT 
-SHALL THE
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, 
-ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS 
-IN
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
 */
 
@@ -66,15 +54,13 @@ mic_config_t mic_config{
   .channel_cnt = 1,
   .sampling_rate = SAMPLING_FREQUENCY,
   .buf_size = SAMPLES,
-  .debug_pin = 1                // Toggles each DAC ISR (if DEBUG is set 
-to 1)
+  .debug_pin = 1                // Toggles each DAC ISR (if DEBUG is set to 1)
 };
 
 DMA_ADC_Class Mic(&mic_config);
 
 // Hz, must be 40000 or less due to ADC conversion time.
-// Determines maximum frequency that can be analysed by the FFT 
-Fmax=sampleF/2.
+// Determines maximum frequency that can be analysed by the FFT Fmax=sampleF/2.
 
 struct eqBand {
   const char *freqname;
@@ -110,8 +96,7 @@ uint16_t tft_height = 240;
 uint8_t bands = 8;
 uint8_t bands_width = floor( tft_width / bands );
 uint8_t bands_pad = bands_width - 10;
-uint16_t colormap[255]; // color palette for the band meter (pre-fill in 
-setup)
+uint16_t colormap[255]; // color palette for the band meter (pre-fill in setup)
 int gain = 1;
 
 void setup() {
