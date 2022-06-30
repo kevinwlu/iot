@@ -55,6 +55,7 @@ adafruit-nrfutil version 0.5.3.post12
   * [Web Bluetooth demos](https://github.com/WebBluetoothCG/demos)
 * [Motion Recognition Based on Edge Impulse](https://wiki.seeedstudio.com/XIAOEI/)
   * [U8g2 Monochrome Display Library](https://github.com/olikraus/u8g2) > Code > Download ZIP
+  * Arduino IDE > Sketch > Include Library > Add .ZIP Library
   * [Edge Impulse](https://www.edgeimpulse.com/)
     * [Getting started](https://docs.edgeimpulse.com/docs/)
     * [Projects](https://docs.edgeimpulse.com/experts/)
