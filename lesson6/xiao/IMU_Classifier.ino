@@ -10,8 +10,7 @@
 
 #include "model.h"
 
-const float accelerationThreshold = 2.5; // threshold of significant in 
-G's
+const float accelerationThreshold = 2.5; // threshold of significant in G's
 const int numSamples = 119;
 
 int samplesRead = numSamples;
@@ -114,12 +113,9 @@ void loop() {
       tflInputTensor->data.f[samplesRead * 6 + 0] = (aX + 4.0) / 8.0;
       tflInputTensor->data.f[samplesRead * 6 + 1] = (aY + 4.0) / 8.0;
       tflInputTensor->data.f[samplesRead * 6 + 2] = (aZ + 4.0) / 8.0;
-      tflInputTensor->data.f[samplesRead * 6 + 3] = (gX + 2000.0) / 
-4000.0;
-      tflInputTensor->data.f[samplesRead * 6 + 4] = (gY + 2000.0) / 
-4000.0;
-      tflInputTensor->data.f[samplesRead * 6 + 5] = (gZ + 2000.0) / 
-4000.0;
+      tflInputTensor->data.f[samplesRead * 6 + 3] = (gX + 2000.0) / 4000.0;
+      tflInputTensor->data.f[samplesRead * 6 + 4] = (gY + 2000.0) / 4000.0;
+      tflInputTensor->data.f[samplesRead * 6 + 5] = (gZ + 2000.0) / 4000.0;
 
       samplesRead++;
 
