@@ -76,3 +76,5 @@ To which project do you want to connect this device? Motion Recognition with XIA
 with ',': Ax,Ay,Az
 What name do you want to give this device? XIAO BLE SENSE
 ```
+  * Data acquisition > Record new data > Label: up and down > Sample length (ms.): 20000 > Frequency: 50Hz > Start sampling
+  * Collected data > RAW DATA > Split Sample > Add Segment
