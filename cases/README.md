@@ -15,6 +15,7 @@
 * [Smart Nora](https://smartnora.com/)
 * [Upright](https://www.uprightpose.com/)
 ## Industrial
+* [Automated guided vehicle](https://en.wikipedia.org/wiki/Automated_guided_vehicle) (AGV)
 ## Public Services
 ## Residential
 * [Boxabl](https://www.boxabl.com/)
