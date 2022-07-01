@@ -71,7 +71,7 @@ Set-ExecutionPolicy unrestricted
 ```sh
 What is your user name or e-mail address(edgeimpulse.com)?
 What is your password?
-To which project do you want to connect this device?
+To which project do you want to connect this device? Motion Recognition with XIAO BLE SENSE
 3 sensor axes detected (example values: [9.6105,-15.7887,-2.7459]). What do you want to call them? Separate the names with ',': Ax,Ay,Az
 What name do you want to give this device? XIAO BLE SENSE
 ```
