@@ -68,3 +68,10 @@ adafruit-nrfutil version 0.5.3.post12
 Set-ExecutionPolicy unrestricted
 ```
 > Sensor reading shall be all numbers
+```sh
+What is your user name or e-mail address(edgeimpulse.com)?
+What is your password?
+To which project do you want to connect this device?
+3 sensor axes detected (example values: [9.6105,-15.7887,-2.7459]). What do you want to call them? Separate the names with ',': Ax,Ay,Az
+What name do you want to give this device? XIAO BLE SENSE
+```
