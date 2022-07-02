@@ -26,7 +26,7 @@
   * [Firebase](https://en.wikipedia.org/wiki/Firebase)
     * [Cloud Firestore](https://firebase.google.com/docs/firestore)
   * [How to use Firebase with Django project](https://medium.com/@canadiyaman/how-to-use-firebase-with-django-project-34578516bafe) by [Can Adiyaman](https://github.com/canadiyaman)
-  * Couchbase Server
+  * [Couchbase Server](https://en.wikipedia.org/wiki/Couchbase_Server)
   * [CockroachDB](https://en.wikipedia.org/wiki/CockroachDB)
   * [Build a Python app with CockroachDB and Django](https://www.cockroachlabs.com/docs/stable/build-a-python-app-with-cockroachdb-django.html)
 * [Database transaction](https://en.wikipedia.org/wiki/Database_transaction)
