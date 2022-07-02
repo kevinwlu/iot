@@ -65,6 +65,7 @@
 * [Hypertext Markup Language](https://en.wikipedia.org/wiki/HTML) (HTML)
 * [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (CSS)
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (JS)
+* [JavaScript Object Notation](https://en.wikipedia.org/wiki/JSON) (JSON)
 * [Application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface) (API)
 * [Internet Engineering Task Force](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (IETF)
   * [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (HTTP)
