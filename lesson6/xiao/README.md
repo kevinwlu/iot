@@ -72,15 +72,20 @@ On Windows
 npm install -g edge-impulse-cli --force
 edge-impulse-data-forwarder
 ```
+> If "edge-impulse-data-forwarder.ps1 cannot be loaded because running scripts is disabled on this system," update Windows PowerShell execution policy to allow running scripts
+```sh
+Set-ExecutionPolicy unrestricted
+```
 On macOS
 ```sh
 sudo npm install -g edge-impulse-cli --force
 edge-impulse-data-forwarder
 ```
-> If "edge-impulse-data-forwarder.ps1 cannot be loaded because running scripts is disabled on this system," update Windows PowerShell execution policy to allow running scripts
+> If edge-impulse-data-forwarder command not found
 ```sh
-Set-ExecutionPolicy unrestricted
+sudo chown -R $USER /usr/local/lib/node_modules
 ```
+
 > Sensor reading shall be all numbers
 ```sh
 What is your user name or e-mail address(edgeimpulse.com)?
