@@ -62,11 +62,10 @@ adafruit-nrfutil version 0.5.3.post12
     * [Getting started](https://docs.edgeimpulse.com/docs/)
     * [Projects](https://docs.edgeimpulse.com/experts/)
     * Edge Impulse > Create new project > Motion > Developer (20 min job limit, 4GB or 4 hours of data, limited collaboration) > Accelerometer data > Let's get started
-    * Install the Edge Impulse CLI and Data Forwarder to connect the XIAO BLE Sense
+    * Install the [Edge Impulse CLI](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation) that requires [Python 3](https://www.python.org/downloads/) and [Node.js](https://nodejs.org/en/download/), e.g., node 16.15.1 and npm 8.11.0
+    * Run [Edge Impulse Data Forwarder](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-data-forwarder) to connect the XIAO BLE Sense
     * Data acquisition > Record new data > Label: up and down > Sample length (ms.): 20000 > Frequency: 50Hz > Start sampling
     * Collected data > RAW DATA > Split Sample > Add Segment
-  * [Edge Impulse CLI](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation) requires [Python 3](https://www.python.org/downloads/) and [Node.js](https://nodejs.org/en/download/), e.g., node 16.15.1 and npm 8.11.0
-  * [Edge Impulse Data Forwarder](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-data-forwarder)
 
 On Windows
 ```sh
