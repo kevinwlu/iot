@@ -72,7 +72,7 @@ On macOS, install edge-impulse-cli by sudo npm
 ```sh
 sudo npm install -g edge-impulse-cli --force
 ```
-* [Edge Impulse Data Forwarder](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-data-forwarder)
+  * [Edge Impulse Data Forwarder](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-data-forwarder)
 > If "edge-impulse-data-forwarder.ps1 cannot be loaded because running scripts is disabled on this system," update Windows PowerShell execution policy to allow running scripts
 ```sh
 Set-ExecutionPolicy unrestricted
