@@ -72,6 +72,7 @@ On macOS, install edge-impulse-cli by sudo npm
 ```sh
 sudo npm install -g edge-impulse-cli --force
 ```
+
   * [Edge Impulse Data Forwarder](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-data-forwarder)
 > If "edge-impulse-data-forwarder.ps1 cannot be loaded because running scripts is disabled on this system," update Windows PowerShell execution policy to allow running scripts
 ```sh
@@ -86,5 +87,6 @@ To which project do you want to connect this device? Motion Recognition with XIA
 with ',': Ax,Ay,Az
 What name do you want to give this device? XIAO BLE SENSE
 ```
-  * Data acquisition > Record new data > Label: up and down > Sample length (ms.): 20000 > Frequency: 50Hz > Start sampling
-  * Collected data > RAW DATA > Split Sample > Add Segment
+
+    * Data acquisition > Record new data > Label: up and down > Sample length (ms.): 20000 > Frequency: 50Hz > Start sampling
+    * Collected data > RAW DATA > Split Sample > Add Segment
