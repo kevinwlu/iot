@@ -61,19 +61,22 @@ adafruit-nrfutil version 0.5.3.post12
   * [Edge Impulse](https://www.edgeimpulse.com/)
     * [Getting started](https://docs.edgeimpulse.com/docs/)
     * [Projects](https://docs.edgeimpulse.com/experts/)
-  * Edge Impulse > Create new project > Motion > Developer (20 min job limit, 4GB or 4 hours of data, limited collaboration) > Accelerometer data > Let's get started
+    * Edge Impulse > Create new project > Motion > Developer (20 min job limit, 4GB or 4 hours of data, limited collaboration) > Accelerometer data > Let's get started
+    * Follow the Edge Impulse CLI and data fowarder instructions below to connect XIAO BLE Sense
+    * Data acquisition > Record new data > Label: up and down > Sample length (ms.): 20000 > Frequency: 50Hz > Start sampling
+    * Collected data > RAW DATA > Split Sample > Add Segment
   * [Edge Impulse CLI](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation) requires [Python 3](https://www.python.org/downloads/) and [Node.js](https://nodejs.org/en/download/), e.g., node 16.15.1 and npm 8.11.0
-
-On Windows, install edge-impulse-cli by npm
+  * [Edge Impulse Data Forwarder](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-data-forwarder)
+On Windows
 ```sh
 npm install -g edge-impulse-cli --force
+edge-impulse-data-forwarder
 ```
-On macOS, install edge-impulse-cli by sudo npm
+On macOS
 ```sh
 sudo npm install -g edge-impulse-cli --force
+edge-impulse-data-forwarder
 ```
-
-  * [Edge Impulse Data Forwarder](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-data-forwarder)
 > If "edge-impulse-data-forwarder.ps1 cannot be loaded because running scripts is disabled on this system," update Windows PowerShell execution policy to allow running scripts
 ```sh
 Set-ExecutionPolicy unrestricted
@@ -87,6 +90,3 @@ To which project do you want to connect this device? Motion Recognition with XIA
 with ',': Ax,Ay,Az
 What name do you want to give this device? XIAO BLE SENSE
 ```
-
-    * Data acquisition > Record new data > Label: up and down > Sample length (ms.): 20000 > Frequency: 50Hz > Start sampling
-    * Collected data > RAW DATA > Split Sample > Add Segment
