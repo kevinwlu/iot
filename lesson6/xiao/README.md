@@ -74,6 +74,7 @@ adafruit-nrfutil version 0.5.3.post12
   * Deployment > Arduino library > Build
   * Arduino IDE > Sketch > Include Library > Add .ZIP Library
   * Arduino IDE > File > Examples > Motion_inferencing
+  * Arduino IDE > XIAOEI.ino
 
 On Windows
 ```sh
