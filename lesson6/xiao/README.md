@@ -56,8 +56,8 @@ adafruit-nrfutil version 0.5.3.post12
 * [Motion Recognition Based on Edge Impulse](https://wiki.seeedstudio.com/XIAOEI/)
   * [U8g2 Monochrome Display Library](https://github.com/olikraus/u8g2) > Code > Download ZIP
   * Arduino IDE > Sketch > Include Library > Add .ZIP Library
-  * Arduino IDE > [MotionDisplay.ino](/lesson6/xiao/MotionDisplay.ino)
-  * Arduino IDE > [MotionRecognition.ino](/lesson6/xiao/MotionRecognition.ino)
+  * Arduino IDE > [XIAO-display.ino](/lesson6/xiao/XIAO-display.ino)
+  * Arduino IDE > [XIAO-gestures.ino](/lesson6/xiao/XIAO-gestures.ino)
   * [Edge Impulse](https://www.edgeimpulse.com/)
     * [Getting started](https://docs.edgeimpulse.com/docs/)
     * [Projects](https://docs.edgeimpulse.com/experts/)
