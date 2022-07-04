@@ -147,7 +147,3 @@ void loop()
     ei_printf("    anomaly score: %.3f\n", result.anomaly);
 #endif
 }
-
-#if !defined(EI_CLASSIFIER_SENSOR) || EI_CLASSIFIER_SENSOR != EI_CLASSIFIER_SENSOR_ACCELEROMETER
-#error "Invalid model for current sensor"
-#endif
