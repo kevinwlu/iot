@@ -61,7 +61,7 @@ adafruit-nrfutil version 0.5.3.post12
   * [Edge Impulse](https://www.edgeimpulse.com/)
     * [Getting started](https://docs.edgeimpulse.com/docs/)
     * [Projects](https://docs.edgeimpulse.com/experts/)
-  * Edge Impulse > Create new project > Motion > Developer (20 min job limit, 4GB or 4 hours of data, limited collaboration) > Accelerometer data > Let's get started
+  * Edge Impulse > Create new project > XIAO-BLE-gestures > Developer (20 min job limit, 4GB or 4 hours of data, limited collaboration) > Accelerometer data > Let's get started
   * Open a terminal to install the [Edge Impulse CLI](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation) that requires [Python 3](https://www.python.org/downloads/) and [Node.js](https://nodejs.org/en/download/), e.g., node 16.15.1 and npm 8.11.0
   * Run the [Edge Impulse Data Forwarder](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-data-forwarder) to connect the XIAO BLE Sense
   * Edge Impulse > Data acquisition > Record new data > Label: up and down > Sample length (ms.): 20000 > Frequency: 50Hz > Start sampling > Collected data > &vellip; > Split Sample > + Add Segment per second > Split
@@ -71,9 +71,9 @@ adafruit-nrfutil version 0.5.3.post12
   * Impulse design > Spectral features > Save parameters > Check "Calculate feature importance" > Generate features
   * Impulse design > NN Classifier > Check "Auto-balance dataset" > Start training
   * Model testing > Classify all
-  * Deployment > Arduino library > Build
+  * Deployment > Arduino library > Build > XIAO-BLE-gestures_inferencing.zip
   * Arduino IDE > Sketch > Include Library > Add .ZIP Library
-  * Arduino IDE > File > Examples > Motion_inferencing
+  * Arduino IDE > File > Examples > XIAO-BLE-gestures_inferencing
   * Arduino IDE > [XIAOEI.ino](/lesson6/xiao/XIAOEI.ino)
 
 On Windows
