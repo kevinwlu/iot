@@ -8,7 +8,7 @@ mic_config_t mic_config{
   .channel_cnt = 1,
   .sampling_rate = 16000,
   .buf_size = 1600,
-  .debug_pin = LED_BUILTIN      // Toggles each DAC ISR (if DEBUG is set to 1)
+  //.debug_pin = LED_BUILTIN      // Toggles each DAC ISR (if DEBUG is set to 1)
 };
 
 NRF52840_ADC_Class Mic(&mic_config);
