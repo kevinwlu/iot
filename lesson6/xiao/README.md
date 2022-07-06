@@ -94,7 +94,7 @@ edge-impulse-data-forwarder
 ```sh
 sudo chown -R $USER /usr/local/lib/node_modules
 ```
-
+On both Windows and macOS
 > Sensor reading shall be all numbers
 ```sh
 What is your user name or e-mail address(edgeimpulse.com)?
