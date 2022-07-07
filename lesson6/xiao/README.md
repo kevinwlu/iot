@@ -25,7 +25,7 @@ adafruit-nrfutil version 0.5.3.post12
 ![blink.gif](/lesson6/xiao/blink.gif)
 ![battery.gif](/lesson6/xiao/battery.gif)
 * A [deep sleep example](https://github.com/0hotpotman0/BLE_52840_Core/blob/main/libraries/Bluefruit52Lib/examples/Hardware/deep_Sleep/deep_Sleep.ino) showed [power consumption](https://wiki.seeedstudio.com/XIAO_BLE/#power-consumption-verification) about 3&micro;A
-  * A fully charged 3.7 V 100 mAh [lithium polymer battery](https://en.wikipedia.org/wiki/Lithium_polymer_battery) can power the basic blink example up to 68 hours
+  * A fully charged 3.7 V 100 mAh [lithium polymer battery](https://en.wikipedia.org/wiki/Lithium_polymer_battery) may power the basic blink example up to 68 hours and 52 hours for the first and second times, respectively
 * [6-Axis IMU Usage on XIAO BLE Sense](https://wiki.seeedstudio.com/XIAO-BLE-Sense-IMU-Usage/)
   * [Inertial measurement unit](https://en.wikipedia.org/wiki/Inertial_measurement_unit) (IMU)
   * [Seeed_Arduino_LSM6DS3](https://github.com/Seeed-Studio/Seeed_Arduino_LSM6DS3) > Code > Download ZIP
