@@ -101,12 +101,12 @@ void loop()
         uint64_t next_tick = micros() + (EI_CLASSIFIER_INTERVAL_MS * 1000);
 
         //IMU.readAcceleration(buffer[ix], buffer[ix + 1], buffer[ix + 2]);
-        //buffer[ix] = myIMU.readFloatAccelX();
-        //buffer[ix+1] = myIMU.readFloatAccelY();
-        //buffer[ix+2] = myIMU.readFloatAccelZ();
-        buffer[ix] = myIMU.readFloatGyroX();
-        buffer[ix+1] = myIMU.readFloatGyroY();
-        buffer[ix+2] = myIMU.readFloatGyroZ();
+        buffer[ix] = myIMU.readFloatAccelX();
+        buffer[ix+1] = myIMU.readFloatAccelY();
+        buffer[ix+2] = myIMU.readFloatAccelZ();
+        //buffer[ix] = myIMU.readFloatGyroX();
+        //buffer[ix+1] = myIMU.readFloatGyroY();
+        //buffer[ix+2] = myIMU.readFloatGyroZ();
       
         for (int i = 0; i < 3; i++) {
             if (fabs(buffer[ix + i]) > MAX_ACCEPTED_RANGE) {
