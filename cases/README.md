@@ -52,6 +52,7 @@
 * [Mojio](https://www.moj.io/)
 * [Nikola Corporation](https://en.wikipedia.org/wiki/Nikola_Corporation)
 * [Rivian](https://en.wikipedia.org/wiki/Rivian)
+* [Sonatus](https://www.sonatus.com/)
 * [The Boring Company](https://en.wikipedia.org/wiki/The_Boring_Company)
 * [Velodyne Lidar](https://en.wikipedia.org/wiki/Velodyne_Lidar)
 * [VinFast](https://en.wikipedia.org/wiki/VinFast)
