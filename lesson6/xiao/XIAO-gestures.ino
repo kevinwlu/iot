@@ -27,11 +27,17 @@ void loop() {
  
     if (millis() > last_interval_ms + INTERVAL_MS) {
         last_interval_ms = millis();
- 
-        Serial.print(myIMU.readFloatGyroX() * CONVERT_G_TO_MS2,4);
+        
+        Serial.print(myIMU.readFloatAccelX() * CONVERT_G_TO_MS2,4);
         Serial.print('\t');
-        Serial.print(myIMU.readFloatGyroY() * CONVERT_G_TO_MS2,4);
+        Serial.print(myIMU.readFloatAccelY() * CONVERT_G_TO_MS2,4);
         Serial.print('\t');
-        Serial.println(myIMU.readFloatGyroZ() * CONVERT_G_TO_MS2,4);
+        Serial.println(myIMU.readFloatAccelZ() * CONVERT_G_TO_MS2,4);
+     
+        //Serial.print(myIMU.readFloatGyroX() * CONVERT_G_TO_MS2,4);
+        //Serial.print('\t');
+        //Serial.print(myIMU.readFloatGyroY() * CONVERT_G_TO_MS2,4);
+        //Serial.print('\t');
+        //Serial.println(myIMU.readFloatGyroZ() * CONVERT_G_TO_MS2,4);
     }
 }
