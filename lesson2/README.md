@@ -62,6 +62,7 @@
   * [LED strip light](https://en.wikipedia.org/wiki/LED_strip_light)
   * [JST connector](https://en.wikipedia.org/wiki/JST_connector)
 * [Universal Serial Bus](https://en.wikipedia.org/wiki/USB) (USB)
+  * [USB-C](https://en.wikipedia.org/wiki/USB-C)
 * [Webcam](https://en.wikipedia.org/wiki/Webcam)
 * [Microphone](https://en.wikipedia.org/wiki/Microphone)
 
