@@ -63,6 +63,8 @@
   * [JST connector](https://en.wikipedia.org/wiki/JST_connector)
 * [Universal Serial Bus](https://en.wikipedia.org/wiki/USB) (USB)
   * [USB-C](https://en.wikipedia.org/wiki/USB-C)
+  * [USB 3.0](https://en.wikipedia.org/wiki/USB_3.0)
+  * [USB4](https://en.wikipedia.org/wiki/USB4)
 * [Webcam](https://en.wikipedia.org/wiki/Webcam)
 * [Microphone](https://en.wikipedia.org/wiki/Microphone)
 
