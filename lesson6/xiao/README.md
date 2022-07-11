@@ -82,7 +82,7 @@ On Windows
 npm install -g edge-impulse-cli --force
 edge-impulse-data-forwarder
 ```
-> If "edge-impulse-data-forwarder.ps1 cannot be loaded because running scripts is disabled on this system," update Windows PowerShell execution policy to allow running scripts
+> If "edge-impulse-data-forwarder.ps1 cannot be loaded because running scripts is disabled on this system," update Windows PowerShell execution policy with the following command to allow running scripts 
 ```sh
 Set-ExecutionPolicy unrestricted
 ```
