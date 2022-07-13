@@ -97,6 +97,7 @@
 * [Association Française de Normalisation](https://en.wikipedia.org/wiki/AFNOR) (AFNOR)
 * [Austrian Standards International](https://en.wikipedia.org/wiki/Austrian_Standards_International) (ASI)
 * [Deutsches Institut für Normung](https://en.wikipedia.org/wiki/Deutsches_Institut_f%C3%BCr_Normung) (DIN)
+  * [Automotive head unit](https://en.wikipedia.org/wiki/Automotive_head_unit)
   * [DKE](https://en.wikipedia.org/wiki/German_Commission_for_Electrotechnical,_Electronic,_and_Information_Technologies_of_DIN_and_VDE) (German Commission for Electrotechnical, Electronic, and Information Technologies of DIN and VDE)
   * [VDE](https://en.wikipedia.org/wiki/VDE_e.V.)
 * [Ecuadorian Standardization Service](https://es.wikipedia.org/wiki/Servicio_Ecuatoriano_de_Normalizaci%C3%B3n) (INEN)
