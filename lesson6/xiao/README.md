@@ -65,8 +65,9 @@ adafruit-nrfutil version 0.5.3.post12
   * Edge Impulse > Create new project > XIAO-BLE-gestures > Developer (20 min job limit, 4GB or 4 hours of data, limited collaboration) > Accelerometer data > Let's get started
   * Open a terminal to install the [Edge Impulse CLI](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation) that requires [Python 3](https://www.python.org/downloads/) and [Node.js](https://nodejs.org/en/download/), e.g., node 16.15.1 and npm 8.11.0
   * Run the [Edge Impulse Data Forwarder](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-data-forwarder) to connect the XIAO BLE Sense
-  * Edge Impulse > Data acquisition > Record new data > Label: up and down > Sample length (ms.): 20000 > Frequency: 50Hz > Start sampling > Collected data > &vellip; > Split Sample > + Add Segment per second > Split
-  * Data acquisition > Record new data > Label: left and right > &hellip;
+  * Edge Impulse > Data acquisition > Record new data > Label: left-right > Sample length (ms.): 20000 > Frequency: 50Hz > Start sampling > Collected data > &vellip; > Split Sample > + Add Segment per second > Split
+  * Data acquisition > Record new data > Label: idle > &hellip;
+  * Data acquisition > Record new data > Label: up-down > &hellip;
   * Dashboard > Danger zone > Perform train / test split > Yes, perform the train / test split > Confirm > Dataset was rebalanced > OK
   * Impulse design > Create impulse > Time series data > Uncheck "Zero-pad data" > Add a processing block > Spectral Analysis > Add a learning block > Classification (Keras) > Save Impulse
   * Impulse design > Spectral features > Save parameters > Check "Calculate feature importance" > Generate features
