@@ -19,6 +19,7 @@
 ## Public Services
 ## Residential
 * [Boxabl](https://www.boxabl.com/)
+* [MagicMirror](https://magicmirror.builders/)
 ## Retail
 * [Ocado](https://en.wikipedia.org/wiki/Ocado)
 ## Sports
