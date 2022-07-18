@@ -5,7 +5,5 @@
   * Line 80 was changed from LOW to HIGH
 
 ![LightBlue1.jpg](/lesson6/xiao/ArduinoBLE/Peripheral/LightBlue1.jpg)
-
 ![LightBlue2.jpg](/lesson6/xiao/ArduinoBLE/Peripheral/LightBlue2.jpg)
-
 ![LightBlue3.jpg](/lesson6/xiao/ArduinoBLE/Peripheral/LightBlue3.jpg)
