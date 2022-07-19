@@ -36,7 +36,8 @@ adafruit-nrfutil version 0.5.3.post12
   * Arduino IDE > File > Examples > Seeed Arduino LSM6DS3 > [HighLevelExample](/lesson6/xiao/HighLevelExample.ino) > Upload
   * [LSM6DS3](https://content.arduino.cc/assets/st_imu_lsm6ds3_datasheet.pdf) iNEMO inertial module: always-on 3D accelerometer and 3D gyroscope
 * [PDM Microphone Usage on XIAO BLE Sense](https://wiki.seeedstudio.com/XIAO-BLE-Sense-PDM-Usage/)
-  * [Pulse-density modulation](https://en.wikipedia.org/wiki/Pulse-density_modulation) (PDM) microphone
+  * [Pulse-density modulation](https://en.wikipedia.org/wiki/Pulse-density_modulation) (PDM)
+  * [Adafruit PDM microphone breakout](https://learn.adafruit.com/adafruit-pdm-microphone-breakout/)
   * [Seeed_Arduino_Mic](https://github.com/Seeed-Studio/Seeed_Arduino_Mic) > Code > Download ZIP
   * Arduino IDE > Sketch > Include Library > Add .ZIP Library 
   * Arduino IDE > File > Examples > Seed Arduino Mic > [mic_serial_plotter](/lesson6/xiao/mic_serial_plotter.ino) > Upload
