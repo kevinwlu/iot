@@ -67,6 +67,8 @@ adafruit-nrfutil version 0.5.3.post12
   * Edge Impulse > Create new project > XIAO-BLE-gestures > Developer (20 min job limit, 4GB or 4 hours of data, limited collaboration) > Accelerometer data > Let's get started
   * Open a terminal to install the [Edge Impulse CLI](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation) that requires [Python 3](https://www.python.org/downloads/) and [Node.js](https://nodejs.org/en/download/), e.g., node 16.15.1 and npm 8.11.0
   * Run the [Edge Impulse Data Forwarder](https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-data-forwarder) to connect the XIAO BLE Sense
+    * [Frequency](https://en.wikipedia.org/wiki/Frequency)
+    * [Baud](https://en.wikipedia.org/wiki/Baud)
   * Edge Impulse > Data acquisition > Record new data > Label: left-right > Sample length (ms.): 20000 > Frequency: 50Hz > Start sampling > Collected data > &vellip; > Split Sample > + Add Segment per second > Split
   * Data acquisition > Record new data > Label: idle > &hellip;
   * Data acquisition > Record new data > Label: up-down > &hellip;
