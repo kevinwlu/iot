@@ -15,3 +15,7 @@
   * [BLE Characteristics](https://www.bluetooth.com/specifications/assigned-numbers/)
 * [How to Use LightBlue: The Go-To BLE Development Tool](https://punchthrough.com/lightblue-features/)
   * The UUID shall be [16 bits](https://btprodspecificationrefs.blob.core.windows.net/assigned-values/16-bit%20UUID%20Numbers%20Document.pdf) or 128 bits
+* [LightBlue Cloud Connect](https://punchthrough.com/introducing-cloud-connect-for-lightblue-explorer/)
+  * This feature allows you to listen for BLE notifications or indications and send this stream of data to the cloud platform of your choice.
+  * Supported platforms are [AWS](https://punchthrough.com/setting-up-aws-iot-with-lightblue-cloud-connect/) and [Adafruit IO](https://punchthrough.com/setting-up-adafruit-io-with-lightblue-cloud-connect/).
+  * You'll be prompted for your platform API credentials if your enable the feature.
