@@ -46,6 +46,7 @@ adafruit-nrfutil version 0.5.3.post12
   * Arduino IDE > File > Examples > Seed Arduino Mic > [mic_serial_plotter](/lesson6/xiao/mic_serial_plotter.ino) > Upload
   * [Getting started with Wio terminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/)
   * Interrupt service routines (ISR) also known as [interrupt handler](https://en.wikipedia.org/wiki/Interrupt_handler)
+  * [Wio audio spectrum display](https://macsbug.wordpress.com/2020/05/28/wio-audio-spectrum-display/)
 * [Speech Recognition on XIAO BLE Sense](https://wiki.seeedstudio.com/XIAO-BLE-Sense-TFLite-Mic/)
   * [Arduino_TensorFlowLite](https://github.com/lakshanthad/tflite-micro-arduino-examples) > Code > Download ZIP
   * Arduino IDE > Sketch > Include Library > Add .ZIP Library
