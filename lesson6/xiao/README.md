@@ -3,6 +3,7 @@
 * [Getting started with XIAO BLE Sense](https://wiki.seeedstudio.com/XIAO_BLE/) on Windows
   * [Arduino IDE](https://www.arduino.cc/en/software)
   * [nRF52840](https://www.nordicsemi.com/Products/nRF52840)
+  * [Floating-point unit](https://en.wikipedia.org/wiki/Floating-point_unit) (FCU)
   * [adafruit-nrfutil](https://github.com/adafruit/Adafruit_nRF52_nrfutil)
   * Arduino IDE > File > Preferences > Settings > Additional Boards Manager URLs > https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json > OK
   * Arduino IDE > Tools > Board > Board Manager > seeed nrf52 > Seeed nRF52 Boards > 2.6.1 > Install
