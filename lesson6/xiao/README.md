@@ -102,6 +102,18 @@ edge-impulse-data-forwarder
 sudo chown -R $USER /usr/local/lib/node_modules
 ```
 On both Windows and macOS
+To clean the configuration
+```sh
+edge-impulse-data-forwarder --clean
+```
+To override the frequency
+```sh
+edge-impulse-data-forwarder --frequency 100
+```
+To set a different baud rate
+```sh
+edge-impulse-data-forwarder --baud-rate 460800
+```
 > Sensor reading shall be all numbers
 ```sh
 What is your user name or e-mail address(edgeimpulse.com)?
