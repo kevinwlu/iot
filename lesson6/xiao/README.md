@@ -102,6 +102,15 @@ edge-impulse-data-forwarder
 sudo chown -R $USER /usr/local/lib/node_modules
 ```
 On both Windows and macOS
+> Sensor reading shall be all numbers
+```sh
+What is your user name or e-mail address(edgeimpulse.com)?
+What is your password?
+To which project do you want to connect this device? Motion Recognition with XIAO BLE SENSE
+3 sensor axes detected (example values: [9.6105,-15.7887,-2.7459]). What do you want to call them? Separate the names 
+with ',': Ax,Ay,Az
+What name do you want to give this device? XIAO BLE SENSE
+```
 To clean the configuration
 ```sh
 edge-impulse-data-forwarder --clean
@@ -113,13 +122,4 @@ edge-impulse-data-forwarder --frequency 100
 To set a different baud rate
 ```sh
 edge-impulse-data-forwarder --baud-rate 460800
-```
-> Sensor reading shall be all numbers
-```sh
-What is your user name or e-mail address(edgeimpulse.com)?
-What is your password?
-To which project do you want to connect this device? Motion Recognition with XIAO BLE SENSE
-3 sensor axes detected (example values: [9.6105,-15.7887,-2.7459]). What do you want to call them? Separate the names 
-with ',': Ax,Ay,Az
-What name do you want to give this device? XIAO BLE SENSE
 ```
