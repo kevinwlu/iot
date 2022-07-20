@@ -10,6 +10,10 @@
   * Arduino IDE > Tools > Board > Seeed nRF Boards > Seeed XIAO BLE Sense - nRF52840
   * Quit Arduino
   * Arduino IDE > Tools > Port > COM* (Seeed XIAO BLE Sense - nRF52840)
+* Collaborators
+  * [Sean Pelcher](https://github.com/seanpelcher)
+  * [Francesca Tannenbaum](https://github.com/ftannenbaum)
+  * [Omar El Sayed](https://github.com/oelsayed10)
 * [Setup Arduino IDE on Raspberry Pi to support Seeed XIAO BLE Sense](https://www.youtube.com/watch?v=9OsbFAFQtnk)
 * Seeed XIAO BLE Sense with Arduino IDE on Raspberry Pi OS > exec: "adafruit-nrfutil": executable file not found in $PATH > Error compiling for board Seeed XIAO nRF52840 Sense
 ```sh
