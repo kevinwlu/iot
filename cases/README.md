@@ -66,4 +66,5 @@
 * [Ecosia](https://en.wikipedia.org/wiki/Ecosia)
 * [Miniwiz](https://en.wikipedia.org/wiki/Miniwiz)
 * [Neeva](https://neeva.com/)
+* [You.com](https://you.com/)
 * [Zero Emissions Research and Initiatives](https://en.wikipedia.org/wiki/Zero_Emissions_Research_and_Initiatives) (ZERI)
