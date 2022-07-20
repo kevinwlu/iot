@@ -61,6 +61,9 @@
 * [Waymo](https://en.wikipedia.org/wiki/Waymo)
 * [Wejo](https://en.wikipedia.org/wiki/Wejo)
 ## Other
+* [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)
 * [Environmental, social and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
+* [Ecosia](https://en.wikipedia.org/wiki/Ecosia)
 * [Miniwiz](https://en.wikipedia.org/wiki/Miniwiz)
+* [Neeva](https://neeva.com/)
 * [Zero Emissions Research and Initiatives](https://en.wikipedia.org/wiki/Zero_Emissions_Research_and_Initiatives) (ZERI)
