@@ -24,7 +24,7 @@
   * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
   * [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE)
   * [Arduino language reference](https://www.arduino.cc/reference/en/)
-  * [Nicla Sense ME](https://store.arduino.cc/products/nicla-sense-me)
+  * [Nicla Sense ME](https://www.arduino.cc/pro/hardware/product/nicla-sense-me)
 * [AT&T IoT Starter Kit](https://github.com/att-iotstarterkits/sk2-Users-Guide)
   * [Avnet](https://en.wikipedia.org/wiki/Avnet)
   * [WNC](https://www.wnc.com.tw/) ([Wistron](https://en.wikipedia.org/wiki/Wistron) NeWeb Corporation)
