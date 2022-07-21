@@ -24,6 +24,7 @@
   * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
   * [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE)
   * [Arduino language reference](https://www.arduino.cc/reference/en/)
+  * [Nano 33 BLE Sense](https://docs.arduino.cc/hardware/nano-33-ble-sense)
   * [Nicla Sense ME](https://www.arduino.cc/pro/hardware/product/nicla-sense-me)
 * [AT&T IoT Starter Kit](https://github.com/att-iotstarterkits/sk2-Users-Guide)
   * [Avnet](https://en.wikipedia.org/wiki/Avnet)
