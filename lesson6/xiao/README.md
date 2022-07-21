@@ -7,7 +7,7 @@
   * [Device Firmware Upgrade](https://en.wikipedia.org/wiki/USB#Device_Firmware_Upgrade_mechanism) (DFU)
   * [adafruit-nrfutil](https://github.com/adafruit/Adafruit_nRF52_nrfutil)
   * Arduino IDE > File > Preferences > Settings > Additional Boards Manager URLs > https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json > OK
-  * Arduino IDE > Tools > Board > Board Manager > seeed nrf52 > Seeed nRF52 Boards > 2.6.1 > Install
+  * Arduino IDE > Tools > Board > Board Manager > seeed nrf52 > Seeed nRF52 Boards > 2.7.2 > Install
   * Arduino IDE > Tools > Board > Seeed nRF Boards > Seeed XIAO BLE Sense - nRF52840
   * Quit Arduino
   * Arduino IDE > Tools > Port > COM* (Seeed XIAO BLE Sense - nRF52840)
@@ -22,8 +22,8 @@ pi@raspberrypy:~ $ pip3 install --user adafruit-nrfutil
 pi@raspberrypy:~ $ adafruit-nrfutil version
 adafruit-nrfutil version 0.5.3.post17
 ```
-* Seeed XIAO BLE Sense with Arduino IDE on macOS > /Users/.../Library/Arduino15/packages/Seeeduino/hardware/nrf52/2.6.1/tools/adafruit-nrfutil/macos/adafruit-nrfutil: permission denied > Error compiling for board Seeed XIAO BLE Sense - nRF52840
-  * The subfolder name may be nrf52 or mbed
+* Seeed XIAO BLE Sense with Arduino IDE on macOS > /Users/.../Library/Arduino15/packages/Seeeduino/hardware/mbed/2.7.2/tools/adafruit-nrfutil/macos/adafruit-nrfutil: permission denied > Error compiling for board Seeed XIAO BLE Sense - nRF52840
+  * The subfolder name mbed was nrf52 for versions 2.6.1 and 1.0.0
 ```sh
 $ cd Library/Arduino15/packages/Seeeduino/hardware/nrf52/2.6.1/tools/adafruit-nrfutil/macos/
 $ chmod +x adafruit-nrfutil
