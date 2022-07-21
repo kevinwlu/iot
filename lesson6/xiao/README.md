@@ -22,8 +22,8 @@ pi@raspberrypy:~ $ pip3 install --user adafruit-nrfutil
 pi@raspberrypy:~ $ adafruit-nrfutil version
 adafruit-nrfutil version 0.5.3.post17
 ```
-* Seeed XIAO BLE Sense with Arduino IDE on macOS > /Users/.../Library/Arduino15/packages/Seeeduino/hardware/mbed/2.7.2/tools/adafruit-nrfutil/macos/adafruit-nrfutil: permission denied > Error compiling for board Seeed XIAO BLE Sense - nRF52840
-  * The subfolder name mbed was nrf52 for versions 2.6.1 and 1.0.0
+* Seeed XIAO BLE Sense with Arduino IDE on macOS > /Users/.../Library/Arduino15/packages/Seeeduino/hardware/nrf52/2.6.1/tools/adafruit-nrfutil/macos/adafruit-nrfutil: permission denied > Error compiling for board Seeed XIAO BLE Sense - nRF52840
+  * The subfolder name nrf52 for versions 2.6.1 and 1.0.0 becomes mbed for version 2.7.2 with executable adafruit-nrfutil
 ```sh
 $ cd Library/Arduino15/packages/Seeeduino/hardware/nrf52/2.6.1/tools/adafruit-nrfutil/macos/
 $ chmod +x adafruit-nrfutil
