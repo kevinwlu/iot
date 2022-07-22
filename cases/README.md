@@ -4,11 +4,13 @@
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
 ## Energy
 * [Eco Wave Power](https://www.ecowavepower.com/)
+* [Sol Systems](https://www.solsystems.com/)
 * [Solar geoengineering](https://en.wikipedia.org/wiki/Solar_geoengineering)
 * [Space mirror (climate engineering)](https://en.wikipedia.org/wiki/Space_mirror_(climate_engineering))
 * [Tidal power](https://en.wikipedia.org/wiki/Tidal_power)
 * [Wave power](https://en.wikipedia.org/wiki/Wave_power)
 ## Enterprise
+* [Google Cloud Carbon Footprint](https://cloud.google.com/carbon-footprint)
 ## Finance
 ## Healthcare
 * [iollo](https://www.iollo.com/)
