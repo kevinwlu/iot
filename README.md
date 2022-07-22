@@ -152,7 +152,7 @@
 * [MIPI](https://en.wikipedia.org/wiki/MIPI_Alliance) (Mobile Industry Processor Interface)
 * [MulteFire](https://en.wikipedia.org/wiki/MulteFire)
 * [Next G Alliance](https://www.nextgalliance.org/)
-* [Next Generation Mobile Networks](https://en.wikipedia.org/wiki/Next_Generation_Mobile_Networks) (NGMN)
+* [Next Generation Mobile Networks](https://en.wikipedia.org/wiki/Next_Generation_Mobile_Networks) (NGMN) Alliance
 * [OCF](https://en.wikipedia.org/wiki/Open_Connectivity_Foundation) (Open Connectivity Foundation)
   * [Specifications](https://openconnectivity.org/developer/specifications/)
   * [Fairhair Specification](https://openconnectivity.org/developer/specifications/fairhair/)
