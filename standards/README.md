@@ -62,6 +62,8 @@
 * [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) (International Organization for Standardization)
   * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
   * [Usability](https://en.wikipedia.org/wiki/Usability)
+  * [ISO/TC 268 Sustainable cities and communities](https://www.iso.org/committee/656906.html)
+  * [ISO/IEC JTC 1/SC 39 Sustainability, IT and data centers](https://www.iso.org/committee/654019.html)
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
   * [IoT Global Standards Initiative](https://www.itu.int/en/ITU-T/gsi/iot/)
 * [JCP](https://en.wikipedia.org/wiki/Java_Community_Process) (Java Community Process)
