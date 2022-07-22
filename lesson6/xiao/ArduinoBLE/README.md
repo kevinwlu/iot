@@ -7,7 +7,8 @@
   * Martyn Currey, "[Arduino to Arduino by Bluetooth](http://www.martyncurrey.com/arduino-to-arduino-by-bluetooth/)"
 * [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) (BLE)
   * [Bluetooth low energy Characteristics, a beginner's tutorial](https://devzone.nordicsemi.com/guides/short-range-guides/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial)
-* [ArduinoBLE library](https://www.arduino.cc/reference/en/libraries/arduinoble/)
+* [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE)
+  * [ArduinoBLE library](https://www.arduino.cc/reference/en/libraries/arduinoble/)
 * [Getting Started With Arduino BLE](https://create.arduino.cc/projecthub/monica/getting-started-with-bluetooth-low-energy-ble-ab4c94)
   * [Generic Access Profile](https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gap) (GAP)
   * [Generic Attribute Profile](https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gatt) (GATT)
