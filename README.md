@@ -59,6 +59,7 @@
 * [International Forum Design](https://en.wikipedia.org/wiki/International_Forum_Design)
   * [iF Product Design Award](https://en.wikipedia.org/wiki/IF_Product_Design_Award)
 * [Red Dot](https://en.wikipedia.org/wiki/Red_Dot)
+* [Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)
 * Effects of robots and automation on employment
   * Prof. [Daron Acemoglu](https://en.wikipedia.org/wiki/Daron_Acemoglu)
   * [How many jobs do robots really replace?](https://news.mit.edu/2020/how-many-jobs-robots-replace-0504)
