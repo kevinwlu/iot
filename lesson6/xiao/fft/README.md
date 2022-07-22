@@ -1,6 +1,5 @@
 # Fast Fourier Transform
 * [Fast Fourier Transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
-* Juna Salviati, "[The late night tinkering projects #10: fun with Fourier!](https://1littleendian.medium.com/the-late-night-tinkering-projects-10-fun-with-fourier-a72b358229b3)"
   * [Nano33Mic.ino](https://github.com/antigones/nano33micRGB)
   * [XiaoMic.ino](/lesson6/xiao/fft/XiaoMic.ino)
 * [arduinoFFT](https://github.com/kosme/arduinoFFT) > Code > Download ZIP
