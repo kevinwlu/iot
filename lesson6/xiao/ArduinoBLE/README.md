@@ -21,3 +21,4 @@
   * This feature allows you to listen for BLE notifications or indications and send this stream of data to the cloud platform of your choice.
   * Supported platforms are [AWS](https://punchthrough.com/setting-up-aws-iot-with-lightblue-cloud-connect/) and [Adafruit IO](https://punchthrough.com/setting-up-adafruit-io-with-lightblue-cloud-connect/).
   * You'll be prompted for your platform API credentials if your enable the feature.
+* [Get Started With Arduino Nano 33 BLE](https://www.okdo.com/getting-started/get-started-with-arduino-nano-33-ble/)
