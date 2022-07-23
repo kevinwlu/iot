@@ -43,6 +43,7 @@
 * [Zunum Aero](https://en.wikipedia.org/wiki/Zunum_Aero)
 ## Transportation: Ground
 * [Apple electric car project](https://en.wikipedia.org/wiki/Apple_electric_car_project)
+* [Aptiv](https://en.wikipedia.org/wiki/Aptiv)
 * [Argo AI](https://en.wikipedia.org/wiki/Argo_AI)
 * [Aurora Innovation](https://en.wikipedia.org/wiki/Aurora_Innovation)
 * [Canoo](https://en.wikipedia.org/wiki/Canoo)
@@ -56,6 +57,8 @@
 * [Lucid Motors](https://en.wikipedia.org/wiki/Lucid_Motors)
 * [Mojio](https://www.moj.io/)
 * [Nikola Corporation](https://en.wikipedia.org/wiki/Nikola_Corporation)
+* [Nuro](https://en.wikipedia.org/wiki/Nuro)
+* [Pony.ai](https://en.wikipedia.org/wiki/Pony.ai)
 * [Rivian](https://en.wikipedia.org/wiki/Rivian)
 * [Sonatus](https://www.sonatus.com/)
 * [The Boring Company](https://en.wikipedia.org/wiki/The_Boring_Company)
