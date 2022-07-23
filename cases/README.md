@@ -63,6 +63,7 @@
 * [Wallbox](https://en.wikipedia.org/wiki/Wallbox)
 * [Waymo](https://en.wikipedia.org/wiki/Waymo)
 * [Wejo](https://en.wikipedia.org/wiki/Wejo)
+* [Zoox](https://en.wikipedia.org/wiki/Zoox_(company))
 ## Other
 * [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)
 * [Environmental, social and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
