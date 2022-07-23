@@ -10,6 +10,7 @@
 * [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE)
   * [ArduinoBLE library](https://www.arduino.cc/reference/en/libraries/arduinoble/)
   * [Connecting Nano 33 BLE devices over Bluetooth](https://docs.arduino.cc/tutorials/nano-33-ble-sense/ble-device-to-device)
+* [Arduino APDS9960 library](https://github.com/arduino-libraries/Arduino_APDS9960)
   * [Adafruit APDS9960 breakout](https://learn.adafruit.com/adafruit-apds9960-breakout)
 * [Getting Started With Arduino BLE](https://create.arduino.cc/projecthub/monica/getting-started-with-bluetooth-low-energy-ble-ab4c94)
   * [Generic Access Profile](https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gap) (GAP)
