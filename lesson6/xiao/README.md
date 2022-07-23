@@ -2,7 +2,7 @@
 * [Seeed Studio](https://github.com/Seeed-Studio)
 * [Getting started with XIAO BLE Sense](https://wiki.seeedstudio.com/XIAO_BLE/) on Windows
   * [Arduino IDE](https://www.arduino.cc/en/software)
-  * [nRF52840](https://www.nordicsemi.com/Products/nRF52840)
+  * [nRF52840](https://www.nordicsemi.com/Products/nRF52840) by [Nordic Semiconductor](https://en.wikipedia.org/wiki/Nordic_Semiconductor)
   * [Floating-point unit](https://en.wikipedia.org/wiki/Floating-point_unit) (FCU)
   * [Device Firmware Upgrade](https://en.wikipedia.org/wiki/USB#Device_Firmware_Upgrade_mechanism) (DFU)
   * [adafruit-nrfutil](https://github.com/adafruit/Adafruit_nRF52_nrfutil)
