@@ -9,6 +9,7 @@
   * [Bluetooth Low Energy Characteristics, a Beginner's Tutorial](https://devzone.nordicsemi.com/guides/short-range-guides/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial)
 * [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE)
   * [ArduinoBLE library](https://www.arduino.cc/reference/en/libraries/arduinoble/)
+  * [Connecting Nano 33 BLE devices over Bluetooth](https://docs.arduino.cc/tutorials/nano-33-ble-sense/ble-device-to-device)
 * [Getting Started With Arduino BLE](https://create.arduino.cc/projecthub/monica/getting-started-with-bluetooth-low-energy-ble-ab4c94)
   * [Generic Access Profile](https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gap) (GAP)
   * [Generic Attribute Profile](https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gatt) (GATT)
