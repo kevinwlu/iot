@@ -9,7 +9,7 @@
   * Arduino IDE > File > Preferences > Settings > Additional Boards Manager URLs > https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json > OK
   * Arduino IDE > Tools > Board > Board Manager > seeed nrf52 > Seeed nRF52 Boards > 2.7.2 > Install
   * Arduino IDE > Tools > Board > Seeed nRF Boards > Seeed XIAO BLE Sense - nRF52840
-  * Quit Arduino
+  * Quit Arduino IDE
   * Arduino IDE > Tools > Port > COM* (Seeed XIAO BLE Sense - nRF52840)
 * Collaborators
   * [Sean Pelcher](https://github.com/seanpelcher)
