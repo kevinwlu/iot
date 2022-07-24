@@ -27,7 +27,4 @@
 * [Get Started With Arduino Nano 33 BLE](https://www.okdo.com/getting-started/get-started-with-arduino-nano-33-ble/)
   * [hello.ino](/lesson6/xiao/ArduinoBLE/hello.ino)
   * [echo.ino](/lesson6/xiao/ArduinoBLE/echo.ino) includes read, write, and notify BLE characteristics, e.g., ```charac.writeValue(var);```
-  * When the board is powered by a battery, comment out the following statement that pauses the code until the Arduino IDE serial monitor is open
-```sh
-// while(!Serial);
-```
+  * When the board is powered by a battery, comment out the following statement that pauses the code until the Arduino IDE serial monitor is open, i.e., ```// while(!Serial);```
