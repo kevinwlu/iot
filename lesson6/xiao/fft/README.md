@@ -6,7 +6,7 @@
   * Arduino IDE > Sketch > Include Library > Add .ZIP Library
 * [PDM library](https://github.com/arduino/ArduinoCore-nRF528x-mbedos/tree/master/libraries/PDM) is a read-only archived repository
   * Arduino IDE > File > Examples > Examples for Seeed XIAO BLE Sense - nRF52840 > PDM
-* [Online Tone Generator](https://onlinetonegenerator.com/)
+* [Online tone generator](https://onlinetonegenerator.com/)
 * [Voice frequency](https://en.wikipedia.org/wiki/Voice_frequency)
 * [Respiratory sounds](https://en.wikipedia.org/wiki/Respiratory_sounds)
   * [Analysis of Respiratory Sounds: State of the Art](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2990233/)
