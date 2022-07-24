@@ -16,6 +16,7 @@
 ##
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
 * [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller)
+* [Bare machine](https://en.wikipedia.org/wiki/Bare_machine)
 * [Arduino](https://en.wikipedia.org/wiki/Arduino)
   * [Install Arduino IDE on Raspberry Pi](https://www.raspberrypi-spy.co.uk/2020/12/install-arduino-ide-on-raspberry-pi/)
   * [List of Arduino boards and compatible systems](https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems)
