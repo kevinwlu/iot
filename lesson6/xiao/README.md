@@ -64,7 +64,7 @@ adafruit-nrfutil version 0.5.3.post12
   * Arduino IDE > Sketch > Include Library > Add .ZIP Library 
   * Arduino IDE > File > Examples > INCOMPATIBLE > ArduinoBLE > Peripheral > [LED](/lesson6/xiao/ArduinoBLE/Peripheral/LED.ino) > Upload
   * Arduino IDE > Tools > Serial Monitor
-  * When the board is powered by a battery, comment out the following statement that pauses the code until the Arduino IDE serial monitor is open, i.e., ```// while(!Serial);```
+  * When the board is powered by a battery, comment out ```while(!Serial);``` that pauses the code until the Arduino IDE serial monitor is open
   * [LightBlue](https://punchthrough.com/lightblue/) apps by Punch Through > Peripherals Nearby > Arduino
     * [How to Use LightBlue: The Go-To BLE Development Tool](https://punchthrough.com/lightblue-features/)
   * [Web Bluetooth API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
