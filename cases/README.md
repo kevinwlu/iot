@@ -29,6 +29,7 @@
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
 ## Transportation: Air
 * [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
+* [Airworthiness](https://en.wikipedia.org/wiki/Airworthiness)
 * [Beta Technologies](https://en.wikipedia.org/wiki/Beta_Technologies)
 * [Boom Technology](https://en.wikipedia.org/wiki/Boom_Technology)
 * [EHang](https://en.wikipedia.org/wiki/EHang)
