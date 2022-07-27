@@ -70,6 +70,7 @@
   * [How many jobs do robots really replace?](https://news.mit.edu/2020/how-many-jobs-robots-replace-0504)
   * [Robots help some firms, even while workers across industries struggle](https://news.mit.edu/2020/robots-help-firms-workers-struggle-0505)
   * [Study finds stronger links between automation and inequality](https://news.mit.edu/2020/study-inks-automation-inequality-0506)
+* [Modular Open Systems Approach](https://ac.cto.mil/mosa/) (MOSA)
 
 ## GitHub Basics
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
