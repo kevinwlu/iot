@@ -103,6 +103,7 @@
     * [Getting Started](https://docs.edgeimpulse.com/docs/getting-started)
     * [Fully supported development boards](https://docs.edgeimpulse.com/docs/fully-supported-development-boards)
     * [Using mobile phone](https://docs.edgeimpulse.com/docs/using-your-mobile-phone)
+    * [IV Drip Fluid-Level Monitoring](https://docs.edgeimpulse.com/experts/iv-drip-fluid-level-monitoring)
     * [Don't Be a Drip: A TinyML-Based Solution for Acoustic Pipe Leak Detection](https://www.edgeimpulse.com/blog/dont-be-a-drip-a-tinyml-based-solution-for-acoustic-pipe-leak-detection)
   * [Gradio](https://github.com/gradio-app/gradio)
   * [Infxl](https://infxl.com/)
