@@ -86,6 +86,7 @@
   * [Box plot](https://en.wikipedia.org/wiki/Box_plot)
     * [Median](https://en.wikipedia.org/wiki/Median)
     * [Interquartile range](https://en.wikipedia.org/wiki/Interquartile_range) (IQR)
+    * [Outlier](https://en.wikipedia.org/wiki/Outlier)
   * [Q-Q plot](https://en.wikipedia.org/wiki/Q%E2%80%93Q_plot)
   * [Seaborn](https://seaborn.pydata.org/)
   * [Bokeh](https://bokeh.org/)
