@@ -146,6 +146,7 @@
 * [AII](http://en.aii-alliance.org/) (Alliance of Industrial Internet)
 * [AIOTI](https://aioti.eu/) (Alliance for Internet of Things Innovation)
 * [Avnu Alliance](https://en.wikipedia.org/wiki/Avnu_Alliance)
+* [BITA Standards Council](https://bitastandardscouncil.org/) (BSC)
 * [Cloud Security Alliance](https://en.wikipedia.org/wiki/Cloud_Security_Alliance) (CSA)
 * [Cloud Signature Consortium](https://cloudsignatureconsortium.org/) (CSC)
 * [Digital Twin Consortium](https://www.digitaltwinconsortium.org/)
@@ -155,7 +156,7 @@
 * [ioXt](https://www.ioxtalliance.org/) (Internet of Secure Things)
 * [KNX](https://en.wikipedia.org/wiki/KNX_(standard))
 * [LoRa](https://en.wikipedia.org/wiki/LoRa) Alliance
-* [MIPI](https://en.wikipedia.org/wiki/MIPI_Alliance) (Mobile Industry Processor Interface)
+* [MIPI Alliance](https://en.wikipedia.org/wiki/MIPI_Alliance) (Mobile Industry Processor Interface)
 * [MulteFire](https://en.wikipedia.org/wiki/MulteFire)
 * [Next G Alliance](https://www.nextgalliance.org/)
 * [Next Generation Mobile Networks](https://en.wikipedia.org/wiki/Next_Generation_Mobile_Networks) (NGMN) Alliance
