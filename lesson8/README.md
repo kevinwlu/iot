@@ -83,6 +83,7 @@
   * [Histogram](https://en.wikipedia.org/wiki/Histogram)
   * [Box plot](https://en.wikipedia.org/wiki/Box_plot)
     * [Interquartile range](https://en.wikipedia.org/wiki/Interquartile_range) (IQR)
+  * [Q-Q plot](https://en.wikipedia.org/wiki/Q%E2%80%93Q_plot)
   * [Seaborn](https://seaborn.pydata.org/)
   * [Bokeh](https://bokeh.org/)
 * [Pandas](https://en.wikipedia.org/wiki/Pandas_(software)) Python data analysis library
