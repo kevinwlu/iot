@@ -28,6 +28,7 @@
   * [Arduino language reference](https://www.arduino.cc/reference/en/)
   * [Nano 33 BLE Sense](https://docs.arduino.cc/hardware/nano-33-ble-sense)
   * [Nicla Sense ME](https://www.arduino.cc/pro/hardware/product/nicla-sense-me)
+  * [Portenta H7](https://docs.arduino.cc/hardware/portenta-h7)
 * [AT&T IoT Starter Kit](https://github.com/att-iotstarterkits/sk2-Users-Guide)
   * [Avnet](https://en.wikipedia.org/wiki/Avnet)
   * [WNC](https://www.wnc.com.tw/) ([Wistron](https://en.wikipedia.org/wiki/Wistron) NeWeb Corporation)
