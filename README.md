@@ -163,7 +163,7 @@
   * [Specifications](https://openconnectivity.org/developer/specifications/)
   * [Fairhair Specification](https://openconnectivity.org/developer/specifications/fairhair/)
   * [IoTivity](https://en.wikipedia.org/wiki/IoTivity)
-* [O-RAN](https://www.o-ran.org/)
+* [O-RAN Alliance](https://www.o-ran.org/)
 * [UBBA](https://www.ubba.com/) (Utility Broadband Alliance)
 * [UCAIug](https://www.ucaiug.org/) (UCA International Users Group)
   * [EPRI](https://en.wikipedia.org/wiki/Electric_Power_Research_Institute) (Electric Power Research Institute)
