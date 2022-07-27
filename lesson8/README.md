@@ -68,6 +68,8 @@
   * [Lasso](https://en.wikipedia.org/wiki/Lasso_(statistics))
   * [Interpolation](https://en.wikipedia.org/wiki/Interpolation)
   * [Overfitting](https://en.wikipedia.org/wiki/Overfitting)
+  * [Mean](https://en.wikipedia.org/wiki/Mean)
+  * [Variance](https://en.wikipedia.org/wiki/Variance)
   * [Analysis of variance](https://en.wikipedia.org/wiki/Analysis_of_variance) (ANOVA)
   * [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
 * [Scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn) machine learning in Python
@@ -82,6 +84,7 @@
   * [Data visualization](https://en.wikipedia.org/wiki/Data_visualization)
   * [Histogram](https://en.wikipedia.org/wiki/Histogram)
   * [Box plot](https://en.wikipedia.org/wiki/Box_plot)
+    * [Median](https://en.wikipedia.org/wiki/Median)
     * [Interquartile range](https://en.wikipedia.org/wiki/Interquartile_range) (IQR)
   * [Q-Q plot](https://en.wikipedia.org/wiki/Q%E2%80%93Q_plot)
   * [Seaborn](https://seaborn.pydata.org/)
