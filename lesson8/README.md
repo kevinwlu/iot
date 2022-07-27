@@ -68,6 +68,7 @@
   * [Lasso](https://en.wikipedia.org/wiki/Lasso_(statistics))
   * [Interpolation](https://en.wikipedia.org/wiki/Interpolation)
   * [Overfitting](https://en.wikipedia.org/wiki/Overfitting)
+  * [Analysis of variance](https://en.wikipedia.org/wiki/Analysis_of_variance) (ANOVA)
   * [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
 * [Scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn) machine learning in Python
   * [Statistical classification](https://en.wikipedia.org/wiki/Statistical_classification)
