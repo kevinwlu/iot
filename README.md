@@ -18,6 +18,11 @@
     * [Brain-derived neurotrophic factor](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor) (BDNF)
     * [Neurobiological effects of physical exercise](https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise)
   * [Irving Herman](http://www.columbia.edu/~iph1/herman.html), [The Laws of Herman](http://www.columbia.edu/~iph1/lawsofherman.htm)
+  * [IEEE Author Center](https://ieeeauthorcenter.ieee.org/)
+    * [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
+    * [Overleaf](https://en.wikipedia.org/wiki/Overleaf)
+    * [IEEE Editorial Style Manual](https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/)
+    * [IEEE Publishing Ethics](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/)
 * [Lesson 1](/lesson1): Overview
 * [Lesson 2](/lesson2): Raspberry Pi
 * [Lesson 3](/lesson3): Python
