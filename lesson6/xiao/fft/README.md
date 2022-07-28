@@ -11,4 +11,7 @@
 * [Voice frequency](https://en.wikipedia.org/wiki/Voice_frequency)
 * [Respiratory sounds](https://en.wikipedia.org/wiki/Respiratory_sounds)
   * [Analysis of Respiratory Sounds: State of the Art](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2990233/)
-* [Respiratory rate](https://en.wikipedia.org/wiki/Respiratory_rate)
+* [Respiratory rate](https://en.wikipedia.org/wiki/Respiratory_rate) (RR)
+  * [Breathing Rate Estimation From the Electrocardiogram and Photoplethysmogram: A Review](https://ieeexplore.ieee.org/document/8081839)
+  * [Multiparameter Respiratory Rate Estimation From the Photoplethysmogram](https://ieeexplore.ieee.org/document/6458992)
+  * [Respiratory Rate Assessments Using a Dual-Accelerometer Device](https://www.sciencedirect.com/science/article/abs/pii/S1569904813003698)
