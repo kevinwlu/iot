@@ -20,8 +20,6 @@ $ python3
 >>> import pandas as pd
 >>> import matplotlib.pyplot as plt
 >>> data=pd.read_csv("data.csv")
->>> pd.infer_freq(data.index.values)
-'N'
 >>> plt.close('all')
 >>> data.plot()
 >>> plt.show()
