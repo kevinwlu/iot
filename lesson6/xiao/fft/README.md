@@ -15,3 +15,16 @@
   * [Breathing Rate Estimation From the Electrocardiogram and Photoplethysmogram: A Review](https://ieeexplore.ieee.org/document/8081839)
   * [Multiparameter Respiratory Rate Estimation From the Photoplethysmogram](https://ieeexplore.ieee.org/document/6458992)
   * [Respiratory Rate Assessments Using a Dual-Accelerometer Device](https://www.sciencedirect.com/science/article/abs/pii/S1569904813003698)
+```
+$ python3
+>>> import pandas as pd
+>>> import matplotlib.pyplot as plt
+>>> data=pd.read_csv("data.csv")
+>>> pd.infer_freq(data.index.values)
+'N'
+>>> plt.close('all')
+>>> data.plot()
+>>> plt.show()
+>>> exit()
+$ 
+```
