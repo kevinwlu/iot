@@ -10,3 +10,4 @@
 * [Voice frequency](https://en.wikipedia.org/wiki/Voice_frequency)
 * [Respiratory sounds](https://en.wikipedia.org/wiki/Respiratory_sounds)
   * [Analysis of Respiratory Sounds: State of the Art](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2990233/)
+* [Respiratory rate](https://en.wikipedia.org/wiki/Respiratory_rate)
