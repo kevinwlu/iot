@@ -19,9 +19,13 @@
 $ python3
 >>> import pandas as pd
 >>> import matplotlib.pyplot as plt
+>>> from scipy import signal
 >>> data=pd.read_csv("data.csv")
 >>> plt.close('all')
 >>> data.plot()
+>>> plt.show()
+>>> f,p=signal.periodogram(data)
+>>> plt.plot(f,p)
 >>> plt.show()
 >>> exit()
 $ 
