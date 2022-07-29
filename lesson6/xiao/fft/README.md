@@ -16,6 +16,7 @@
   * [Multiparameter Respiratory Rate Estimation From the Photoplethysmogram](https://ieeexplore.ieee.org/document/6458992)
   * [Respiratory Rate Assessments Using a Dual-Accelerometer Device](https://www.sciencedirect.com/science/article/abs/pii/S1569904813003698)
   * [Periodogram](https://en.wikipedia.org/wiki/Periodogram)
+  * [Spectral density estimation](https://en.wikipedia.org/wiki/Spectral_density_estimation)
   * [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
 ```
 $ python3
