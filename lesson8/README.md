@@ -110,6 +110,7 @@
     * [IV Drip Fluid-Level Monitoring](https://docs.edgeimpulse.com/experts/iv-drip-fluid-level-monitoring)
     * [Don't Be a Drip: A TinyML-Based Solution for Acoustic Pipe Leak Detection](https://www.edgeimpulse.com/blog/dont-be-a-drip-a-tinyml-based-solution-for-acoustic-pipe-leak-detection)
     * [Weighted Sums and Green Thumbs: Analyzing Crops in Remote Greenhouses With ML and IoT](https://www.edgeimpulse.com/blog/weighted-sums-and-green-thumbs-analyzing-crops-in-remote-greenhouses-with-ml-and-iot)
+    * [Pothole Detection Using Edgeimpulse's FOMO Algorithm](https://www.hackster.io/shahizat/pothole-detection-using-edgeimpulse-s-fomo-algorithm-1df62d)
   * [Gradio](https://github.com/gradio-app/gradio)
   * [Infxl](https://infxl.com/)
   * [SynapseML](https://github.com/microsoft/SynapseML)
