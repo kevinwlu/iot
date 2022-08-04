@@ -20,6 +20,9 @@
   * [Periodogram](https://en.wikipedia.org/wiki/Periodogram)
   * [Spectral density estimation](https://en.wikipedia.org/wiki/Spectral_density_estimation)
   * [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
+* [How Easy Is It to Use a Thermistor](https://create.arduino.cc/projecthub/Marcazzan_M/how-easy-is-it-to-use-a-thermistor-e39321)
+  * [Thermistor](https://en.wikipedia.org/wiki/Thermistor)
+  * [Thermister.ino](/lesson6/xiao/fft/Thermister.ino)
 ```
 $ python3
 >>> import pandas as pd
