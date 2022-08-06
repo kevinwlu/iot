@@ -1,5 +1,6 @@
 # ArduinoBLE
 * [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
+  * [SoftwareSerial Library](https://docs.arduino.cc/learn/built-in-libraries/software-serial)
   * [View Serial Monitor Over Bluetooth](https://create.arduino.cc/projecthub/millerman4487/view-serial-monitor-over-bluetooth-fbb0e5) Using a [HC-05](https://howtomechatronics.com/tutorials/arduino/arduino-and-hc-05-bluetooth-module-tutorial/)
     * Windows Settings > Devices > Bluetooth & other devices > Add Bluetooth or other devices > Bluetooth
   * [Martyn Currey](http://www.martyncurrey.com/about/), "[Connecting 2 Arduinos by Bluetooth Using a HC-05 and a HC-06: Easy Method Using CMODE](http://www.martyncurrey.com/connecting-2-arduinos-by-bluetooth-using-a-hc-05-and-a-hc-06-easy-method-using-cmode/)"
