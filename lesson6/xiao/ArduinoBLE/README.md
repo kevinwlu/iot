@@ -7,7 +7,7 @@
     * [HC-05_AT_MODE_01.ino](/lesson6/xiao/ArduinoBLE/HC-05_AT_MODE_01.ino)
     * [HC-06_01.ino](/lesson6/xiao/ArduinoBLE/HC-06_01.ino)
   * Martyn Currey, "[Connecting 2 Arduinos by Bluetooth Using a HC-05 and a HC-06: Pair, Bind, and Link](http://www.martyncurrey.com/connecting-2-arduinos-by-bluetooth-using-a-hc-05-and-a-hc-06-pair-bind-and-link/)"
-    * [HC-05_02_38400.ino](/lesson6/xiao/ArduinoBLE/HC-05_02_38400.ino)
+    * [HC-05_02_38400.ino](/lesson6/xiao/ArduinoBLE/HC-05_02_38400.ino) and [HC-05_03_9600.ino](/lesson6/xiao/ArduinoBLE/HC-05_03_9600.ino)
     * [HC-06_01_9600.ino](/lesson6/xiao/ArduinoBLE/HC-06_01_9600.ino)
   * Martyn Currey, "[Arduino to Arduino by Bluetooth](http://www.martyncurrey.com/arduino-to-arduino-by-bluetooth/)"
     * [Arduino2Arduino_MASTER_01.ino](/lesson6/xiao/ArduinoBLE/Arduino2Arduino_MASTER_01.ino)
