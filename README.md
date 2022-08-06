@@ -178,7 +178,7 @@
   * [Fairhair Specification](https://openconnectivity.org/developer/specifications/fairhair/)
   * [IoTivity](https://en.wikipedia.org/wiki/IoTivity)
 * [OpenCAPI Consortium](https://opencapi.org/)
-* [Open Handset Alliance](https://en.wikipedia.org/wiki/Open_Handset_Alliance)
+* [Open Handset Alliance](https://en.wikipedia.org/wiki/Open_Handset_Alliance) (OHA)
 * [O-RAN Alliance](https://www.o-ran.org/)
 * [Printer Working Group](https://en.wikipedia.org/wiki/Printer_Working_Group) (PWG)
 * [TALQ Consortium](https://www.talq-consortium.org/)
