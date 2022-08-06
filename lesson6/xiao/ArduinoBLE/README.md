@@ -10,6 +10,10 @@
     * [HC-05_02_38400.ino](/lesson6/xiao/ArduinoBLE/HC-05_02_38400.ino)
     * [HC-06_01_9600.ino](/lesson6/xiao/ArduinoBLE/HC-06_01_9600.ino)
   * Martyn Currey, "[Arduino to Arduino by Bluetooth](http://www.martyncurrey.com/arduino-to-arduino-by-bluetooth/)"
+    * [Arduino2Arduino_MASTER_01.ino](/lesson6/xiao/ArduinoBLE/Arduino2Arduino_MASTER_01.ino)
+    * [Arduino2Arduino_SLAVE_01.ino](/lesson6/xiao/ArduinoBLE/Arduino2Arduino_SLAVE_01.ino)
+    * [Arduino2Arduino_example2_RemoteTemp_Master.ino](/lesson6/xiao/ArduinoBLE/Arduino2Arduino_example2_RemoteTemp_Master.ino)
+    * [Arduino2Arduino_example2_RemoteTemp_Slave.ino](/lesson6/xiao/ArduinoBLE/Arduino2Arduino_example2_RemoteTemp_Slave.ino)
 * [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) (BLE)
   * [Bluetooth Low Energy Characteristics, a Beginner's Tutorial](https://devzone.nordicsemi.com/guides/short-range-guides/b/bluetooth-low-energy/posts/ble-characteristics-a-beginners-tutorial)
 * [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE)
