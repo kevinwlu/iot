@@ -29,6 +29,8 @@
   * [Nano 33 BLE Sense](https://docs.arduino.cc/hardware/nano-33-ble-sense)
   * [Nicla Sense ME](https://www.arduino.cc/pro/hardware/product/nicla-sense-me)
   * [Portenta H7](https://docs.arduino.cc/hardware/portenta-h7)
+* [TinyDuino](https://tinycircuits.com/products/tinyduino-processor-board) by [TinyCircuits](https://tinycircuits.com/)
+    * [GitHub](https://github.com/TinyCircuits)
 * [AT&T IoT Starter Kit](https://github.com/att-iotstarterkits/sk2-Users-Guide)
   * [Avnet](https://en.wikipedia.org/wiki/Avnet)
   * [WNC](https://www.wnc.com.tw/) ([Wistron](https://en.wikipedia.org/wiki/Wistron) NeWeb Corporation)
@@ -53,8 +55,6 @@
   * [Mbed](https://en.wikipedia.org/wiki/Mbed)
   * [ARMmbed/mbed-os-example-blinky](https://github.com/ARMmbed/mbed-os-example-blinky)
 * [Tessel](https://tessel.github.io/t2-start/)
-* [TinyDuino](https://tinycircuits.com/products/tinyduino-processor-board) by [TinyCircuits](https://tinycircuits.com/)
-    * [GitHub](https://github.com/TinyCircuits)
 ##
 * [CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol) (Constrained Application Protocol)
   * [txThings](https://github.com/mwasilak/txThings)
@@ -76,6 +76,7 @@
 * [App Inventor for Android](https://en.wikipedia.org/wiki/App_Inventor_for_Android)
 * [QNX](https://en.wikipedia.org/wiki/QNX)
 * [Real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating_system) (RTOS)
+* [Middleware](https://en.wikipedia.org/wiki/Middleware)
 ##
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
   * [npm](https://en.wikipedia.org/wiki/Npm_(software)) (Node Package Manager)
