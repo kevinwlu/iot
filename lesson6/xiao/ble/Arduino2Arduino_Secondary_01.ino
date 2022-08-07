@@ -1,5 +1,5 @@
 /*
-* Sketch: Arduino2Arduino_SLAVE_01
+* Sketch: Arduino2Arduino_Secondary_01
 * By Martyn Currey
 * 08.04.2016
 * Written in Arduino IDE 1.6.3
