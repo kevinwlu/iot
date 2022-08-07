@@ -8,6 +8,6 @@
 // while(!Serial);
 ```
 
-![LightBlue1.jpg](/lesson6/xiao/ArduinoBLE/Peripheral/LightBlue1.jpg)
-![LightBlue2.jpg](/lesson6/xiao/ArduinoBLE/Peripheral/LightBlue2.jpg)
-![LightBlue3.jpg](/lesson6/xiao/ArduinoBLE/Peripheral/LightBlue3.jpg)
+![LightBlue1.jpg](/lesson6/xiao/ble/Peripheral/LightBlue1.jpg)
+![LightBlue2.jpg](/lesson6/xiao/ble/Peripheral/LightBlue2.jpg)
+![LightBlue3.jpg](/lesson6/xiao/ble/Peripheral/LightBlue3.jpg)
