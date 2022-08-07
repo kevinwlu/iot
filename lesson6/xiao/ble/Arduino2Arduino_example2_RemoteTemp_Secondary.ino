@@ -1,5 +1,5 @@
 /*
-* Sketch: Arduino2Arduino_example2_RemoteTemp_Slave
+* Sketch: Arduino2Arduino_example2_RemoteTemp_Secondary
 * By Martyn Currey
 * 11.05.2016
 * Written in Arduino IDE 1.6.3
