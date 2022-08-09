@@ -3,3 +3,4 @@
 * [Arduino Thermometer with DS18B20](https://create.arduino.cc/projecthub/TheGadgetBoy/ds18b20-digital-temperature-sensor-and-arduino-9cc806)
 * Arduino IDE > Tools > Manage Libraries > OneWire > Install
 * Arduino IDE > Tools > Manage Libraries > DallasTemperature > Install
+* [ds18b20.ino](/lesson6/ds18b20/ds18b20.ino)
