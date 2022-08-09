@@ -24,7 +24,7 @@
   * [How Easy Is It to Use a Thermistor](https://create.arduino.cc/projecthub/Marcazzan_M/how-easy-is-it-to-use-a-thermistor-e39321)
     * [Thermistor.ino](/lesson6/xiao/fft/Thermistor.ino)
   * [Using a Thermistor](https://learn.adafruit.com/thermistor/using-a-thermistor)
-  * [Make an ARduino Temperature Sensor (Thermistor Tutorial](https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/)
+  * [Make an Arduino Temperature Sensor (Thermistor Tutorial)](https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/)
 ```
 $ python3
 >>> import pandas as pd
