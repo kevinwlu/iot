@@ -22,7 +22,7 @@
   * [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
 * [Thermistor](https://en.wikipedia.org/wiki/Thermistor)
   * [How Easy Is It to Use a Thermistor](https://create.arduino.cc/projecthub/Marcazzan_M/how-easy-is-it-to-use-a-thermistor-e39321)
-    * [Thermistor.ino](/lesson6/xiao/fft/Thermistor.ino)
+    * [thermistor.ino](/lesson6/xiao/fft/thermistor.ino)
   * [Using a Thermistor](https://learn.adafruit.com/thermistor/using-a-thermistor)
   * [Make an Arduino Temperature Sensor (Thermistor Tutorial)](https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/)
 ```
