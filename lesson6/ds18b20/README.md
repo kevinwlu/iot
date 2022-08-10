@@ -1,8 +1,11 @@
 # DS18B20 Digital Temperature Sensor
 * [Dallas Semiconductor](https://en.wikipedia.org/wiki/Dallas_Semiconductor) was acquired in 2001 by [Maxim Integrated](https://en.wikipedia.org/wiki/Maxim_Integrated) that was acquired in 2021 by [Analog Devices](https://en.wikipedia.org/wiki/Analog_Devices)
+* [1-Wire](https://en.wikipedia.org/wiki/1-Wire)
 * [Arduino Thermometer with DS18B20](https://create.arduino.cc/projecthub/TheGadgetBoy/ds18b20-digital-temperature-sensor-and-arduino-9cc806)
-* Arduino IDE > Tools > Manage Libraries > OneWire > Install
-* Arduino IDE > Tools > Manage Libraries > DallasTemperature > Install
-* [ds18b20.ino](/lesson6/ds18b20/ds18b20.ino)
+  * [ds18b20.ino](/lesson6/ds18b20/ds18b20.ino)
+  * Arduino IDE > Tools > Manage Libraries > OneWire > Install
+  * Arduino IDE > Tools > Manage Libraries > DallasTemperature > Install
+
 ![ds18b20.png](/lesson6/ds18b20/ds18b20.png)
+
 ![ds18b20-1.png](/lesson6/ds18b20/ds18b20-1.png)
