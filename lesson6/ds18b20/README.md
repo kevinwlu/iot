@@ -5,3 +5,4 @@
 * Arduino IDE > Tools > Manage Libraries > DallasTemperature > Install
 * [ds18b20.ino](/lesson6/ds18b20/ds18b20.ino)
 ![ds18b20.png](/lesson6/ds18b20/ds18b20.png)
+![ds18b20-1.png](/lesson6/ds18b20/ds18b20-1.png)
