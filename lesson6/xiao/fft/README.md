@@ -24,7 +24,7 @@
   * [How Easy Is It to Use a Thermistor](https://create.arduino.cc/projecthub/Marcazzan_M/how-easy-is-it-to-use-a-thermistor-e39321)
     * [thermistor.ino](/lesson6/xiao/fft/thermistor.ino)
   * [Using a Thermistor](https://learn.adafruit.com/thermistor/using-a-thermistor)
-    * [thermistor_1.ino](/lesson6/xiao/fft/thermistor_1.ino)
+    * [thermistor-1.ino](/lesson6/xiao/fft/thermistor-1.ino)
   * [Make an Arduino Temperature Sensor (Thermistor Tutorial)](https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/)
 ```
 $ python3
