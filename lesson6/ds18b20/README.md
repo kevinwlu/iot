@@ -12,8 +12,8 @@
 
 ## Thermistor
 * [Thermistor](https://en.wikipedia.org/wiki/Thermistor)
-* [Temperature coefficient](https://en.wikipedia.org/wiki/Temperature_coefficient)
-* [Time constant](https://en.wikipedia.org/wiki/Time_constant)
+  * [Temperature coefficient](https://en.wikipedia.org/wiki/Temperature_coefficient)
+  * [Time constant](https://en.wikipedia.org/wiki/Time_constant)
 * [How Easy Is It to Use a Thermistor](https://create.arduino.cc/projecthub/Marcazzan_M/how-easy-is-it-to-use-a-thermistor-e39321)
   * [thermistor.ino](/lesson6/xiao/fft/thermistor.ino)
 * [Using a Thermistor](https://learn.adafruit.com/thermistor/using-a-thermistor)
