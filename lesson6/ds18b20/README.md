@@ -10,10 +10,12 @@
 
 ![ds18b20-1.png](/lesson6/ds18b20/ds18b20-1.png)
 
+## Thermistor
 * [Thermistor](https://en.wikipedia.org/wiki/Thermistor)
-  * [How Easy Is It to Use a Thermistor](https://create.arduino.cc/projecthub/Marcazzan_M/how-easy-is-it-to-use-a-thermistor-e39321)
-    * [thermistor.ino](/lesson6/xiao/fft/thermistor.ino)
-  * [Using a Thermistor](https://learn.adafruit.com/thermistor/using-a-thermistor)
-    * [Time constant](https://en.wikipedia.org/wiki/Time_constant)
-    * [thermistor-1.ino](/lesson6/xiao/fft/thermistor-1.ino)
-  * [Make an Arduino Temperature Sensor (Thermistor Tutorial)](https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/)
+* [Temperature coefficient](https://en.wikipedia.org/wiki/Temperature_coefficient)
+* [Time constant](https://en.wikipedia.org/wiki/Time_constant)
+* [How Easy Is It to Use a Thermistor](https://create.arduino.cc/projecthub/Marcazzan_M/how-easy-is-it-to-use-a-thermistor-e39321)
+  * [thermistor.ino](/lesson6/xiao/fft/thermistor.ino)
+* [Using a Thermistor](https://learn.adafruit.com/thermistor/using-a-thermistor)
+  * [thermistor-1.ino](/lesson6/xiao/fft/thermistor-1.ino)
+* [Make an Arduino Temperature Sensor (Thermistor Tutorial)](https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/)
