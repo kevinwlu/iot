@@ -27,6 +27,7 @@
 ## Public Services
 ## Residential
 * [Boxabl](https://www.boxabl.com/)
+* [Lawna](https://www.lawnatech.com/)
 * [MagicMirror](https://magicmirror.builders/)
 ## Retail
 * [Ocado](https://en.wikipedia.org/wiki/Ocado)
