@@ -64,6 +64,7 @@
 * [Lordstown Motors](https://en.wikipedia.org/wiki/Lordstown_Motors)
 * [Lucid Motors](https://en.wikipedia.org/wiki/Lucid_Motors)
 * [Mojio](https://www.moj.io/)
+* [Motional](https://en.wikipedia.org/wiki/Motional)
 * [Nikola Corporation](https://en.wikipedia.org/wiki/Nikola_Corporation)
 * [Nuro](https://en.wikipedia.org/wiki/Nuro)
 * [Pony.ai](https://en.wikipedia.org/wiki/Pony.ai)
