@@ -59,6 +59,7 @@
 * [Fisker](https://en.wikipedia.org/wiki/Fisker_Inc.)
 * [Gillig](https://en.wikipedia.org/wiki/Gillig)
 * [New Flyer](https://en.wikipedia.org/wiki/New_Flyer)
+* [Innoviz](https://innoviz.tech/)
 * [INRIX](https://en.wikipedia.org/wiki/INRIX)
 * [Karma Automotive](https://en.wikipedia.org/wiki/Karma_Automotive)
 * [Lordstown Motors](https://en.wikipedia.org/wiki/Lordstown_Motors)
