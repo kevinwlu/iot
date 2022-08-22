@@ -133,6 +133,8 @@
   * [Google Coral for Computer Vision Applications in 2022](https://viso.ai/edge-ai/google-coral/)
 * [Kedro](https://github.com/kedro-org/kedro) Python framework for creating reproducible, maintainable, and modular data science code
   * [Documentation](https://kedro.readthedocs.io/)
+* [IBM Watson Studio](https://en.wikipedia.org/wiki/IBM_Watson_Studio)
+  * [AutoAI](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=models-autoai)
 * IBM ILOG [CPLEX](https://en.wikipedia.org/wiki/CPLEX) Optimization Studio
   * [IBM Decision Optimization](https://github.com/IBMDecisionOptimization)
 
