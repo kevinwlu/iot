@@ -138,7 +138,8 @@
   * [Section 508 Amendament to the Rehabilitation Act of 1973](https://en.wikipedia.org/wiki/Section_508_Amendment_to_the_Rehabilitation_Act_of_1973)
   * [WCAG](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines) (Web Content Accessibility Guidelines)
 
-## Communities
+## Associations and Communities
+* [American Radio Relay League](https://en.wikipedia.org/wiki/American_Radio_Relay_League) (ARRL)
 * [IBM IoT Community](https://community.ibm.com/community/user/iot/home)
 * [IEEE IoT Technical Community](https://iot.ieee.org/)
 * [IoT Communities](https://iotcommunity.net/)
