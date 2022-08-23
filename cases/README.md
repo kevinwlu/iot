@@ -42,6 +42,8 @@
 * [Eviation Alice](https://en.wikipedia.org/wiki/Eviation_Alice)
 * [eVTOL](https://en.wikipedia.org/wiki/EVTOL) (electric vertical take-off and landing) aircraft
 * [Faradair Aerospace BEHA](https://en.wikipedia.org/wiki/Faradair_Aerospace_BEHA)
+* [H2FLY](https://www.h2fly.de/)
+  * [DLR HY4](https://en.wikipedia.org/wiki/DLR_HY4)
 * [Joby Aviation](https://en.wikipedia.org/wiki/Joby_Aviation)
 * [Leonardo S.p.A.](https://en.wikipedia.org/wiki/Leonardo_S.p.A.)
 * [Lilium GmbH](https://en.wikipedia.org/wiki/Lilium_GmbH)
