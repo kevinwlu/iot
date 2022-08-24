@@ -1,4 +1,10 @@
 # Lesson 9: YANG and Qiskit
+* [Mobile device management](https://en.wikipedia.org/wiki/Mobile_device_management)
+  * [1NCE](https://1nce.com/)
+  * [AVSystem](https://www.avsystem.com/)
+  * [EdgeIQ](http://www.edgeiq.ai/)
+  * [IoTerop](https://ioterop.com/)
+  * [Pelion](https://pelion.com/)
 * [Simple Network Management Protocol](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol) (SNMP)
   * [Management information base](https://en.wikipedia.org/wiki/Management_information_base) (MIB)
   * [Object identifier](https://en.wikipedia.org/wiki/Object_identifier) (OID)
