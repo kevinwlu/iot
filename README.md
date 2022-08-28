@@ -42,6 +42,7 @@
 * [Projects](/projects)
 * [Special problems](/projects)
 * [Standards](/standards)
+* [Tools](/tools)
 
 ## References
 * [Hands-on books series](http://www.hands-on-books-series.com)
