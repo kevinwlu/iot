@@ -57,6 +57,7 @@
 * [Aurora Innovation](https://en.wikipedia.org/wiki/Aurora_Innovation)
 * [Canoo](https://en.wikipedia.org/wiki/Canoo)
 * [Cruise](https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle))
+* [Elbee](https://www.elbeemobility.com/)
 * [Faraday Future](https://en.wikipedia.org/wiki/Faraday_Future)
 * [Fisker](https://en.wikipedia.org/wiki/Fisker_Inc.)
 * [Gillig](https://en.wikipedia.org/wiki/Gillig)
