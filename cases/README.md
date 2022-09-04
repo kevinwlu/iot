@@ -20,6 +20,7 @@
 ## Healthcare
 * [iollo](https://www.iollo.com/)
 * [Kinsa](https://en.wikipedia.org/wiki/Kinsa)
+* [Little Otter](https://www.littleotterhealth.com/)
 * [Smart Nora](https://smartnora.com/)
 * [Upright](https://www.uprightpose.com/)
 ## Industrial
