@@ -317,15 +317,17 @@ $ sudo shutdown -h now
 ### 7. After the Raspberry Pi green LED blinks ten times, it's safe to unplug the power
 * The Raspberry Pi 4 uses the onboard [EEPROM](https://en.wikipedia.org/wiki/EEPROM) instead of bootcode.bin in the [boot folder](https://www.raspberrypi.org/documentation/configuration/boot_folder.md)
 
-## Alternative 1: VNC Connect
+## Alternative 0: AnyDesk
+* [AnyDesk](https://en.wikipedia.org/wiki/AnyDesk) is a remote desktop application
+* [Download](https://anydesk.com/en)
 
+## Alternative 1: VNC Connect
 * VNC Connect is included with Raspberry Pi OS for non-commercial use
 * Sign up for a free [RealVNC](https://www.realvnc.com) account (need to be over 16) by an email address
 * On the Raspberry Pi desktop, click the VNC Server icon at the right of the menu bar and sign in to enable cloud connectivity
 * On a laptop, sign in to VNC Viewer
 
 ## Alternative 2: Ngrok
-
 * Sign up [ngrok](https://ngrok.com/) (see [grok](https://en.wikipedia.org/wiki/Grok))
 * Download ngrok to Raspberry Pi
 * Copy the Authtoken to authenticate the ngrok downloaded
@@ -347,7 +349,6 @@ ssh pi@6.tcp.ngrok.io -p <the port number>
   * Ctrl+C to quit ngrok
 
 ## Alternative 3: [Serveo](https://github.com/milio48/serveo) Port Forwarder
-
 * On a Raspberry Pi, copy two files
 ```sh
     pi@UNIQUE_NAME:~ $ cp ~/iot/lesson1/startup.cnf .
