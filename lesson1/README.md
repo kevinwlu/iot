@@ -14,6 +14,7 @@
   * [Wireless WAN](https://en.wikipedia.org/wiki/Wireless_WAN)
   * [Universal integrated circuit card](https://en.wikipedia.org/wiki/Universal_integrated_circuit_card) (UICC)
   * Subscriber Identity Module [SIM card](https://en.wikipedia.org/wiki/SIM_card)
+  * [Communication channel](https://en.wikipedia.org/wiki/Communication_channel)
   * [Channel state information](https://en.wikipedia.org/wiki/Channel_state_information) (CSI)
   * [Channel sounding](https://en.wikipedia.org/wiki/Channel_sounding)
   * [Spectrum XXI software](https://www.ntia.doc.gov/spectrumtraining/sxxi-training)
