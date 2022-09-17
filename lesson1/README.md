@@ -51,7 +51,7 @@
   * [Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR)
   * [Software-defined vehicles](https://www.arm.com/solutions/automotive/software-defined-vehicles) (SDV)
 * [Network function virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization) (NFV)
-* [Network slicing](https://en.wikipedia.org/wiki/5G_network_slicing)
+* [5G network slicing](https://en.wikipedia.org/wiki/5G_network_slicing)
 * [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
   * [As a service](https://en.wikipedia.org/wiki/As_a_service)
   * [DevOps](https://en.wikipedia.org/wiki/DevOps)
