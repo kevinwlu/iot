@@ -120,6 +120,7 @@
   * [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
   * [Keras](https://en.wikipedia.org/wiki/Keras)
   * [Deep reinforcement learning](https://en.wikipedia.org/wiki/Deep_reinforcement_learning)
+  * [Convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network)
   * [Graph neural network](https://en.wikipedia.org/wiki/Graph_neural_network) (GNN)
   * [ONNX](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (Open Neural Network Exchange)
   * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
