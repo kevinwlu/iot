@@ -123,6 +123,7 @@
   * [Convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network)
   * [Graph neural network](https://en.wikipedia.org/wiki/Graph_neural_network) (GNN)
   * [ONNX](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (Open Neural Network Exchange)
+  * [AlphaZero](https://en.wikipedia.org/wiki/AlphaZero)
   * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
   * [OpenAI Codex](https://openai.com/blog/openai-codex/)
   * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
