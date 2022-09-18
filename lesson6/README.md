@@ -78,6 +78,7 @@
 * [Comparison of mobile operating systems](https://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems)
   * [Android (operating system)](https://en.wikipedia.org/wiki/Android_(operating_system))
   * [App Inventor for Android](https://en.wikipedia.org/wiki/App_Inventor_for_Android)
+  * [Sailfish OS](https://en.wikipedia.org/wiki/Sailfish_OS)
   * [HarmonyOS](https://en.wikipedia.org/wiki/HarmonyOS)
 * [QNX](https://en.wikipedia.org/wiki/QNX)
 * [Real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating_system) (RTOS)
