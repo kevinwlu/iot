@@ -1,5 +1,7 @@
 # Lesson 10: Blockchain
 
+* [Digital currency](https://en.wikipedia.org/wiki/Digital_currency)
+* [Society for Worldwide Interbank Financial Telecommunication (SWIFT)](https://en.wikipedia.org/wiki/SWIFT)
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
   * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
   * [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
