@@ -157,6 +157,7 @@
 * [AIOTI](https://aioti.eu/) (Alliance for Internet of Things Innovation)
 * [Avnu Alliance](https://en.wikipedia.org/wiki/Avnu_Alliance)
 * [BITA Standards Council](https://bitastandardscouncil.org/) (BSC)
+* [Bluetooth Special Interest Group (SIG)](https://en.wikipedia.org/wiki/Bluetooth_Special_Interest_Group)
 * [Clinical Research Data Sharing Alliance](https://crdsalliance.org/) (CRDSA)
 * [Cloud Security Alliance](https://en.wikipedia.org/wiki/Cloud_Security_Alliance) (CSA)
 * [Cloud Signature Consortium](https://cloudsignatureconsortium.org/) (CSC)
@@ -194,7 +195,10 @@
 * [Universal Stylus Initiative](https://en.wikipedia.org/wiki/Universal_Stylus_Initiative)
 * [Uptane Alliance](https://en.wikipedia.org/wiki/Uptane)
 * [Wi-Fi Alliance](https://en.wikipedia.org/wiki/Wi-Fi_Alliance)
+* [WiMedia Alliance](https://en.wikipedia.org/wiki/WiMedia_Alliance)
 * [Wi-SUN](https://wi-sun.org/)
+* [Wireless Gigabit (WiGig) Alliance](https://en.wikipedia.org/wiki/Wireless_Gigabit_Alliance)
+* [WirelessHD](https://en.wikipedia.org/wiki/WirelessHD)
 * [Wireless Power Consortium](https://en.wikipedia.org/wiki/Wireless_Power_Consortium)
 * [Zhaga Consortium](https://en.wikipedia.org/wiki/Zhaga_Consortium)
 
