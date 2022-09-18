@@ -75,9 +75,10 @@
 * [Advanced Encryption Standard](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) (AES)
 * [KASUMI](https://en.wikipedia.org/wiki/KASUMI) block cipher
 * [Zuc stream cipher](https://en.wikipedia.org/wiki/Zuc_stream_cipher)
-* [HarmonyOS](https://en.wikipedia.org/wiki/HarmonyOS)
-* [Android (operating system)](https://en.wikipedia.org/wiki/Android_(operating_system))
-* [App Inventor for Android](https://en.wikipedia.org/wiki/App_Inventor_for_Android)
+* [Comparison of mobile operating systems](https://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems)
+  * [Android (operating system)](https://en.wikipedia.org/wiki/Android_(operating_system))
+  * [App Inventor for Android](https://en.wikipedia.org/wiki/App_Inventor_for_Android)
+  * [HarmonyOS](https://en.wikipedia.org/wiki/HarmonyOS)
 * [QNX](https://en.wikipedia.org/wiki/QNX)
 * [Real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating_system) (RTOS)
 * [Middleware](https://en.wikipedia.org/wiki/Middleware)
