@@ -165,6 +165,7 @@
 * [Digital Illumination Interface Alliance](https://www.dali-alliance.org/) (DiiA) ,[Digital Addressable Lighting Interface](https://en.wikipedia.org/wiki/Digital_Addressable_Lighting_Interface) (DALI)
 * [Digital Twin Consortium](https://www.digitaltwinconsortium.org/)
 * [FIDO Alliance](https://en.wikipedia.org/wiki/FIDO_Alliance) (Fast IDentity Online)
+* [FiRa Consortium](https://en.wikipedia.org/wiki/FiRa_Consortium)
 * [Hexa-X](https://hexa-x.eu/)
 * [IAMTS](https://iamts.sae-itc.com/) (International Alliance for Mobility Testing and Standardization)
 * [IIC](https://en.wikipedia.org/wiki/Industrial_Internet_Consortium) (Industrial Internet Consortium)
