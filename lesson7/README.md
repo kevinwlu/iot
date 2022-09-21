@@ -4,6 +4,7 @@
   * [Authentication](https://en.wikipedia.org/wiki/Authentication) (AuthN)
   * [Authorization](https://en.wikipedia.org/wiki/Authorization) (AuthZ)
   * Accounting ([Audit trail](https://en.wikipedia.org/wiki/Audit_trail))
+* [Single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) (SSO)
 * [ThingSpeak](https://en.wikipedia.org/wiki/ThingSpeak)
   * [MATLAB](https://en.wikipedia.org/wiki/MATLAB) (Matrix Laboratory)
   * [MATLAB Mobile](https://www.mathworks.com/products/matlab-mobile.html)
