@@ -11,6 +11,8 @@
 * [OpenSCAD](https://en.wikipedia.org/wiki/OpenSCAD)
 * [SolidWorks](https://en.wikipedia.org/wiki/SolidWorks)
 * [Tinkercad](https://en.wikipedia.org/wiki/Tinkercad)
+## Face Recognition
+* [Local binary patterns](https://en.wikipedia.org/wiki/Local_binary_patterns) (LBP)
 ## User Interface and User Experience
 * [Comparison of vector graphics editors](https://en.wikipedia.org/wiki/Comparison_of_vector_graphics_editors)
 * [Figma](https://en.wikipedia.org/wiki/Figma_(software))
