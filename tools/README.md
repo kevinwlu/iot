@@ -17,3 +17,5 @@
 * [React Native](https://en.wikipedia.org/wiki/React_Native)
   * [React (JavaScript library)]()https://en.wikipedia.org/wiki/React_(JavaScript_library)
   * [Preact](https://preactjs.com/)
+* [Selenium](https://www.selenium.dev/)
+* [Speech Services](https://en.wikipedia.org/wiki/Speech_Services)
