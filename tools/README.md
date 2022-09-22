@@ -11,7 +11,8 @@
 * [OpenSCAD](https://en.wikipedia.org/wiki/OpenSCAD)
 * [SolidWorks](https://en.wikipedia.org/wiki/SolidWorks)
 * [Tinkercad](https://en.wikipedia.org/wiki/Tinkercad)
-## Facial Recognition
+## Object Detection and Facial Recognition
+* [Object detection](https://en.wikipedia.org/wiki/Object_detection)
 * [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
 * [Local binary patterns](https://en.wikipedia.org/wiki/Local_binary_patterns) (LBP)
 ## User Interface and User Experience
