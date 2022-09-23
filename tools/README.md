@@ -17,9 +17,10 @@
   * [Google Data Studio](https://marketingplatform.google.com/about/data-studio/)
 * [Pivot table](https://en.wikipedia.org/wiki/Pivot_table)
 ## Object Detection and Facial Recognition
-* [Object detection](https://en.wikipedia.org/wiki/Object_detection)
 * [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
-* [Local binary patterns](https://en.wikipedia.org/wiki/Local_binary_patterns) (LBP)
+  * [Local binary patterns](https://en.wikipedia.org/wiki/Local_binary_patterns) (LBP)
+* [Object detection](https://en.wikipedia.org/wiki/Object_detection)
+* [OpenMV](https://github.com/openmv/openmv)
 ## User Interface and User Experience
 * [Comparison of vector graphics editors](https://en.wikipedia.org/wiki/Comparison_of_vector_graphics_editors)
 * [Figma](https://en.wikipedia.org/wiki/Figma_(software))
