@@ -12,6 +12,7 @@
 * [SolidWorks](https://en.wikipedia.org/wiki/SolidWorks)
 * [Tinkercad](https://en.wikipedia.org/wiki/Tinkercad)
 ## Data Analysis and Visulization
+* [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
 * [Google Marketing Platform](https://en.wikipedia.org/wiki/Google_Marketing_Platform)
   * [Google Data Studio](https://marketingplatform.google.com/about/data-studio/)
 * [Pivot table](https://en.wikipedia.org/wiki/Pivot_table)
