@@ -11,7 +11,9 @@
 * [OpenSCAD](https://en.wikipedia.org/wiki/OpenSCAD)
 * [SolidWorks](https://en.wikipedia.org/wiki/SolidWorks)
 * [Tinkercad](https://en.wikipedia.org/wiki/Tinkercad)
-## Data Analysis
+## Data Analysis and Visulization
+* [Google Marketing Platform](https://en.wikipedia.org/wiki/Google_Marketing_Platform)
+  * [Google Data Studio](https://marketingplatform.google.com/about/data-studio/)
 * [Pivot table](https://en.wikipedia.org/wiki/Pivot_table)
 ## Object Detection and Facial Recognition
 * [Object detection](https://en.wikipedia.org/wiki/Object_detection)
