@@ -26,6 +26,7 @@
     * [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
     * [Overleaf](https://en.wikipedia.org/wiki/Overleaf)
     * [IEEE Editorial Style Manual](https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/)
+    * [Digital object identifier](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI)
     * [IEEE Publishing Ethics](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/)
   * [List of free and open-source software packages](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages)
 * [Lesson 1](/lesson1): Overview
