@@ -11,6 +11,8 @@
 * [OpenSCAD](https://en.wikipedia.org/wiki/OpenSCAD)
 * [SolidWorks](https://en.wikipedia.org/wiki/SolidWorks)
 * [Tinkercad](https://en.wikipedia.org/wiki/Tinkercad)
+## Data Analysis
+* [Pivot table](https://en.wikipedia.org/wiki/Pivot_table)
 ## Object Detection and Facial Recognition
 * [Object detection](https://en.wikipedia.org/wiki/Object_detection)
 * [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
