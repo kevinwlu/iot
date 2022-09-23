@@ -4,6 +4,8 @@
   * [Authentication](https://en.wikipedia.org/wiki/Authentication) (AuthN)
   * [Authorization](https://en.wikipedia.org/wiki/Authorization) (AuthZ)
   * Accounting ([Audit trail](https://en.wikipedia.org/wiki/Audit_trail))
+  * [RADIUS](https://en.wikipedia.org/wiki/RADIUS) (Remote Authentication Dial-In User Service)
+  * [TACACS](https://en.wikipedia.org/wiki/TACACS) (Terminal Access Controller Access-Control System)
 * [Single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) (SSO)
   * [Okta, Inc.](https://en.wikipedia.org/wiki/Okta,_Inc.)
   * [Okta](https://en.wikipedia.org/wiki/Okta)
