@@ -2,6 +2,8 @@
 
 ## Agriculture
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
+## Enabler
+* [Telit](https://en.wikipedia.org/wiki/Telit)
 ## Energy
 * [Eco Wave Power](https://www.ecowavepower.com/)
 * [Form Energy](https://en.wikipedia.org/wiki/Form_Energy)
