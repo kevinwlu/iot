@@ -34,6 +34,7 @@
 * [Otter](https://withotter.com/)
 ## Retail
 * [Ocado](https://en.wikipedia.org/wiki/Ocado)
+* [Olio](https://en.wikipedia.org/wiki/Olio_(app))
 ## Sports
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
 ## Transportation: Air
