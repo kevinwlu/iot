@@ -17,6 +17,7 @@
 ## Enterprise
 * [Google Cloud Carbon Footprint](https://cloud.google.com/carbon-footprint)
 ## Finance
+* [Niftify](https://www.niftify.io/)
 * [OpenSea](https://en.wikipedia.org/wiki/OpenSea)
 ## Healthcare
 * [iollo](https://www.iollo.com/)
