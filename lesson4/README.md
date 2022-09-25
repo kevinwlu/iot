@@ -48,6 +48,9 @@
   * [Cepstrum](https://en.wikipedia.org/wiki/Cepstrum)
 * [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySQL, PHP)
   * [WordPress](https://en.wikipedia.org/wiki/WordPress)
+* [Hypertext](https://en.wikipedia.org/wiki/Hypertext)
+* [Hypertext Markup Language](https://en.wikipedia.org/wiki/HTML) (HTML)
+* [Uniform Resource Locator](https://en.wikipedia.org/wiki/URL) (URL)
 * [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) (WWW)
   * [Web 2.0](https://en.wikipedia.org/wiki/Web_2.0)
   * [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web)
@@ -56,13 +59,7 @@
   * [Surface web](https://en.wikipedia.org/wiki/Surface_web) is readily available to the general public and searchable with standard web search engines
   * [Deep web](https://en.wikipedia.org/wiki/Deep_web) refers to the contents that are not indexed by standard web search-engines
   * [Dark web](https://en.wikipedia.org/wiki/Dark_web) exists on [darknets](https://en.wikipedia.org/wiki/Darknet) and is a portion of the deep web
-* [Metaverse](https://en.wikipedia.org/wiki/Metaverse)
-  * [Augmented reality](https://en.wikipedia.org/wiki/Augmented_reality) (AR)
-  * [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) (VR)
-  * [Mixed reality](https://en.wikipedia.org/wiki/Mixed_reality) (MR)
-  * [Persistent world](https://en.wikipedia.org/wiki/Persistent_world)
-* [Uniform Resource Locator](https://en.wikipedia.org/wiki/URL) (URL)
-* [Hypertext Markup Language](https://en.wikipedia.org/wiki/HTML) (HTML)
+* [Wiki](https://en.wikipedia.org/wiki/Wiki)
 * [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (CSS)
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (JS)
 * [JavaScript Object Notation](https://en.wikipedia.org/wiki/JSON) (JSON)
@@ -75,7 +72,11 @@
 * [Apache Software Foundation](https://en.wikipedia.org/wiki/The_Apache_Software_Foundation)
   * [Apache](https://en.wikipedia.org/wiki/Apache)
 * [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySQL, PHP/Perl/Python)
-
+* [Metaverse](https://en.wikipedia.org/wiki/Metaverse)
+  * [Augmented reality](https://en.wikipedia.org/wiki/Augmented_reality) (AR)
+  * [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) (VR)
+  * [Mixed reality](https://en.wikipedia.org/wiki/Mixed_reality) (MR)
+  * [Persistent world](https://en.wikipedia.org/wiki/Persistent_world)
 ## Labs 4A and 4B: Django and Django REST
 
 ### 1. Install Django and Django REST framework on Raspberry Pi
