@@ -62,6 +62,7 @@
 * [6GWorld](https://www.6gworld.com/)
 * [Jargon File](https://en.wikipedia.org/wiki/Jargon_File)
   * [Resources](http://www.catb.org/~esr/jargon/)
+  * [Old versions](http://www.catb.org/~esr/jargon/oldversions/)
 * [Hackathon](https://en.wikipedia.org/wiki/Hackathon)
   * [Devpost](https://en.wikipedia.org/wiki/Devpost)
 * [AngelList](https://en.wikipedia.org/wiki/AngelList)
