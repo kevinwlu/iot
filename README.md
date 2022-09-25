@@ -61,7 +61,7 @@
   * [IoT World Today](https://www.iotworldtoday.com/) 
 * [6GWorld](https://www.6gworld.com/)
 * [Jargon File](https://en.wikipedia.org/wiki/Jargon_File)
-  * [Version 4.4.8](http://www.catb.org/~esr/jargon/)
+  * [Resources](http://www.catb.org/~esr/jargon/)
 * [Hackathon](https://en.wikipedia.org/wiki/Hackathon)
   * [Devpost](https://en.wikipedia.org/wiki/Devpost)
 * [AngelList](https://en.wikipedia.org/wiki/AngelList)
