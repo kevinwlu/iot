@@ -26,6 +26,9 @@
 ## Industrial
 * [Automated guided vehicle](https://en.wikipedia.org/wiki/Automated_guided_vehicle) (AGV)
 ## Public Services
+* [Food rescue](https://en.wikipedia.org/wiki/Food_rescue)
+* [Olio](https://en.wikipedia.org/wiki/Olio_(app))
+* [Too Good To Go](https://en.wikipedia.org/wiki/Too_Good_To_Go)
 ## Residential
 * [Boxabl](https://www.boxabl.com/)
 * [Chirp](https://en.wikipedia.org/wiki/Chirp_(company))
@@ -34,7 +37,6 @@
 * [Otter](https://withotter.com/)
 ## Retail
 * [Ocado](https://en.wikipedia.org/wiki/Ocado)
-* [Olio](https://en.wikipedia.org/wiki/Olio_(app))
 ## Sports
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
 ## Transportation: Air
