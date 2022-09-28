@@ -37,7 +37,7 @@
   * [First normal form](https://en.wikipedia.org/wiki/First_normal_form) (1NF)
 * [Database transaction](https://en.wikipedia.org/wiki/Database_transaction)
   * [ACID](https://en.wikipedia.org/wiki/ACID) (atomicity, consistency, isolation, durability)
-* [ngrok](https://ngrok.com/)
+* [ngrok](https://ngrok.com/), i.e., network grok
   * [Repository](https://github.com/inconshreveable/ngrok)
   * [Grok](https://en.wikipedia.org/wiki/Grok)
   * [Jargon File](https://en.wikipedia.org/wiki/Jargon_File)
