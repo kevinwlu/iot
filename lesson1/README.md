@@ -10,6 +10,7 @@
 * [Machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine) (M2M) communication
 * [Network packet](https://en.wikipedia.org/wiki/Network_packet)
 * [IEEE International Network Generations Roadmap](https://futurenetworks.ieee.org/roadmap) (INGR)
+* [Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency)
 * [Wide area network](https://en.wikipedia.org/wiki/Wide_area_network) (WAN)
   * [Wireless WAN](https://en.wikipedia.org/wiki/Wireless_WAN)
   * [Ultra-wideband](https://en.wikipedia.org/wiki/Ultra-wideband) (UWB)
