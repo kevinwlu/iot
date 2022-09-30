@@ -95,8 +95,9 @@
 * [Wejo](https://en.wikipedia.org/wiki/Wejo)
 * [Zoox](https://en.wikipedia.org/wiki/Zoox_(company))
 ## Other
-* [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)
+* [Corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility) (CSR)
 * [Environmental, social and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
+* [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)
 * [Ecosia](https://en.wikipedia.org/wiki/Ecosia)
 * [Miniwiz](https://en.wikipedia.org/wiki/Miniwiz)
 * [Neeva](https://neeva.com/)
