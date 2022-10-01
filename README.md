@@ -40,11 +40,11 @@
 * [Lesson 9](/lesson9): YANG and Qiskit
 * [Lesson 10](/lesson10): Blockchain
 * [Apps](/apps)
-* [Cases](/cases)
 * [Projects](/projects)
 * [Special problems](/projects)
 * [Standards](/standards)
 * [Tools](/tools)
+* [Use cases](/cases)
 
 ## References
 * [Hands-on books series](http://www.hands-on-books-series.com)
