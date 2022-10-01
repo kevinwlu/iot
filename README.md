@@ -40,6 +40,7 @@
 * [Lesson 9](/lesson9): YANG and Qiskit
 * [Lesson 10](/lesson10): Blockchain
 * [Apps](/apps)
+* [Cases](/cases)
 * [Projects](/projects)
 * [Special problems](/projects)
 * [Standards](/standards)
