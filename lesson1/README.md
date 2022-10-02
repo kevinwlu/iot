@@ -23,6 +23,7 @@
   * [Channel state information](https://en.wikipedia.org/wiki/Channel_state_information) (CSI)
   * [Channel sounding](https://en.wikipedia.org/wiki/Channel_sounding)
   * [Spectrum XXI software](https://www.ntia.doc.gov/spectrumtraining/sxxi-training)
+  * [Over-the-air (OTA) programming](https://en.wikipedia.org/wiki/Over-the-air_programming)
 * [Local area network](https://en.wikipedia.org/wiki/Local_area_network) (LAN)
   * [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi)
   * [IEEE 802.11](https://en.wikipedia.org/wiki/IEEE_802.11)
