@@ -13,6 +13,7 @@
 * [Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency) (RF)
 * [Wide area network](https://en.wikipedia.org/wiki/Wide_area_network) (WAN)
   * [Wireless WAN](https://en.wikipedia.org/wiki/Wireless_WAN)
+  * [Closed platform](https://en.wikipedia.org/wiki/Closed_platform)
   * [Ultra-wideband](https://en.wikipedia.org/wiki/Ultra-wideband) (UWB)
   * [International Mobile Equipment Identity](https://en.wikipedia.org/wiki/International_Mobile_Equipment_Identity) (IMEI)
   * [International Mobile Subscriber Identity](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity) (IMSI)
