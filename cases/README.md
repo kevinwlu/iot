@@ -2,6 +2,8 @@
 
 ## Agriculture
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
+## Education
+* [Labster](https://www.labster.com/)
 ## Enabler
 * [Telit](https://en.wikipedia.org/wiki/Telit)
 ## Energy
