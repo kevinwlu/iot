@@ -142,6 +142,7 @@
 * [HIPAA](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act) (Health Insurance Portability and Accountability Act)
 * [CCPA](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act) (California Consumer Privacy Act)
 * [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (General Data Protection Regulation)
+* [PIPL](https://en.wikipedia.org/wiki/Personal_Information_Protection_Law_of_the_People's_Republic_of_China) (Personal Information Protection Law)
 * [Supply chain security](https://en.wikipedia.org/wiki/Supply_chain_security)
 * [Web accessibility](https://en.wikipedia.org/wiki/Web_accessibility)
   * [Section 508 Amendament to the Rehabilitation Act of 1973](https://en.wikipedia.org/wiki/Section_508_Amendment_to_the_Rehabilitation_Act_of_1973)
