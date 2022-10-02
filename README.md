@@ -59,6 +59,7 @@
   * [Automation](https://en.wikipedia.org/wiki/Automation)
 * [Aritificial intelligence of things](https://en.wikipedia.org/wiki/Artificial_intelligence_of_things) (AIoT)
 * [Gartner hype cycle](https://en.wikipedia.org/wiki/Gartner_hype_cycle)
+* [AI winter](https://en.wikipedia.org/wiki/AI_winter)
 * [Informa](https://en.wikipedia.org/wiki/Informa)
   * [IoT World Today](https://www.iotworldtoday.com/) 
 * [6GWorld](https://www.6gworld.com/)
