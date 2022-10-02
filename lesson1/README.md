@@ -14,6 +14,7 @@
 * [Wide area network](https://en.wikipedia.org/wiki/Wide_area_network) (WAN)
   * [Wireless WAN](https://en.wikipedia.org/wiki/Wireless_WAN)
   * [Ultra-wideband](https://en.wikipedia.org/wiki/Ultra-wideband) (UWB)
+  * [International Mobile Equipment Identity](https://en.wikipedia.org/wiki/International_Mobile_Equipment_Identity) (IMEI)
   * [Universal integrated circuit card](https://en.wikipedia.org/wiki/Universal_integrated_circuit_card) (UICC)
   * Subscriber Identity Module [SIM card](https://en.wikipedia.org/wiki/SIM_card)
   * [Communication channel](https://en.wikipedia.org/wiki/Communication_channel)
