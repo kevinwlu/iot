@@ -65,9 +65,7 @@
 * [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
   * Google Cloud [DevOps Research and Assessment](https://cloud.google.com/devops) (DORA)
 * [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
-* [DevOps](https://en.wikipedia.org/wiki/DevOps)
-* [As a service](https://en.wikipedia.org/wiki/As_a_service)
-* [Service economy](https://en.wikipedia.org/wiki/Service_economy)
+
 * *[Internet of Things: A Hands-On Approach](http://www.hands-on-books-series.com/iot.html)* by [Arshdeep Bahga](https://arshdeep.bahga.in/) and [Vijay Madisetti](https://research.gatech.edu/vijay-madisetti)
 
   | IoT Complexity Level | Node | Analysis | Storage | Example |
@@ -79,7 +77,10 @@
   | 2 | Single | Local | Cloud | Smart Irrigation |
   | 1 | Single | Local | Local | Home Automation |
 
+* [DevOps](https://en.wikipedia.org/wiki/DevOps)
 * [Orchestration](https://en.wikipedia.org/wiki/Orchestration_(computing))
+* [As a service](https://en.wikipedia.org/wiki/As_a_service)
+* [Service economy](https://en.wikipedia.org/wiki/Service_economy)
 * [Quality of service](https://en.wikipedia.org/wiki/Quality_of_service) (QoS)
 * [Authentication, Authorization, and Accounting](https://en.wikipedia.org/wiki/AAA_(computer_security)) (AAA)
 * NIST [cloud security](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/cloud-security)
