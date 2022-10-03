@@ -63,11 +63,11 @@
 * [Network function virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization) (NFV)
 * [5G network slicing](https://en.wikipedia.org/wiki/5G_network_slicing)
 * [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
-  * [As a service](https://en.wikipedia.org/wiki/As_a_service)
-  * [DevOps](https://en.wikipedia.org/wiki/DevOps)
   * Google Cloud [DevOps Research and Assessment](https://cloud.google.com/devops) (DORA)
 * [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
-
+* [DevOps](https://en.wikipedia.org/wiki/DevOps)
+* [As a service](https://en.wikipedia.org/wiki/As_a_service)
+* [Service economy](https://en.wikipedia.org/wiki/Service_economy)
 * *[Internet of Things: A Hands-On Approach](http://www.hands-on-books-series.com/iot.html)* by [Arshdeep Bahga](https://arshdeep.bahga.in/) and [Vijay Madisetti](https://research.gatech.edu/vijay-madisetti)
 
   | IoT Complexity Level | Node | Analysis | Storage | Example |
@@ -79,7 +79,6 @@
   | 2 | Single | Local | Cloud | Smart Irrigation |
   | 1 | Single | Local | Local | Home Automation |
 
-* [As a service](https://en.wikipedia.org/wiki/As_a_service)
 * [Orchestration](https://en.wikipedia.org/wiki/Orchestration_(computing))
 * [Quality of service](https://en.wikipedia.org/wiki/Quality_of_service) (QoS)
 * [Authentication, Authorization, and Accounting](https://en.wikipedia.org/wiki/AAA_(computer_security)) (AAA)
