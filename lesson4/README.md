@@ -76,9 +76,12 @@
   * [Augmented reality](https://en.wikipedia.org/wiki/Augmented_reality) (AR)
   * [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) (VR)
   * [Mixed reality](https://en.wikipedia.org/wiki/Mixed_reality) (MR)
+  * [Digital twin](https://en.wikipedia.org/wiki/Digital_twin)  
   * [Persistent world](https://en.wikipedia.org/wiki/Persistent_world)
+  * [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)
+  * [Second Life](https://en.wikipedia.org/wiki/Second_Life)
+  * [Roblox](https://en.wikipedia.org/wiki/Roblox)
 ## Labs 4A and 4B: Django and Django REST
-
 ### 1. Install Django and Django REST framework on Raspberry Pi
 ```sh
 $ pip3 -V
