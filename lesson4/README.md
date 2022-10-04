@@ -72,6 +72,8 @@
 * [Apache Software Foundation](https://en.wikipedia.org/wiki/The_Apache_Software_Foundation)
   * [Apache](https://en.wikipedia.org/wiki/Apache)
 * [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySQL, PHP/Perl/Python)
+* [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics)
+  * [George Berkeley](https://en.wikipedia.org/wiki/George_Berkeley) 1685-1753
 * [Metaverse](https://en.wikipedia.org/wiki/Metaverse)
   * [Augmented reality](https://en.wikipedia.org/wiki/Augmented_reality) (AR)
   * [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) (VR)
