@@ -93,6 +93,7 @@
   * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) (GUI)
 * [Git](https://en.wikipedia.org/wiki/Git)
   * [Linux](https://en.wikipedia.org/wiki/Linux)
+  * [Software Freedom Conservancy (SFC)](https://en.wikipedia.org/wiki/Software_Freedom_Conservancy)
 * [GitHub](https://en.wikipedia.org/wiki/GitHub)
   * [Camel case](https://en.wikipedia.org/wiki/Camel_case)
   * [Snake case](https://en.wikipedia.org/wiki/Snake_case)
