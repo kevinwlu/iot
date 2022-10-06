@@ -41,6 +41,7 @@
   * [Post-quantum cryptography](https://en.wikipedia.org/wiki/Post-quantum_cryptography)
   * [NIST Post-Quantum Cryptography Standardization](https://en.wikipedia.org/wiki/NIST_Post-Quantum_Cryptography_Standardization)
 * [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
+  * [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
   * [Qubit](https://en.wikipedia.org/wiki/Qubit)
   * [Qutrit](https://en.wikipedia.org/wiki/Qutrit)
   * [Quantum supremacy](https://en.wikipedia.org/wiki/Quantum_supremacy)
