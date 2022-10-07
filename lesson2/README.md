@@ -8,6 +8,7 @@
 * [Microprocessor](https://en.wikipedia.org/wiki/Microprocessor)
   * [ARM architecture](https://en.wikipedia.org/wiki/ARM_architecture)
   * [RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) (Reduced instruction set computer)
+  * [Assembly language](https://en.wikipedia.org/wiki/Assembly_language)
 * [Microcomputer](https://en.wikipedia.org/wiki/Microcomputer)
 * [Single-board computer](https://en.wikipedia.org/wiki/Single-board_computer) (SBC)
 * [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
