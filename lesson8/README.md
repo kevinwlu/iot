@@ -96,6 +96,7 @@
   * [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) (SL)
   * [Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning)
   * [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) (RL)
+  * [Transfer learning](https://en.wikipedia.org/wiki/Transfer_learning) (TL)
   * [One-shot learning](https://en.wikipedia.org/wiki/One-shot_learning)
   * [Zero-shot learning](https://en.wikipedia.org/wiki/Zero-shot_learning) (ZSL)
   * [List of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
