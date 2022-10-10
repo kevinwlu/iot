@@ -9,6 +9,7 @@
 * [Single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) (SSO)
   * [Okta, Inc.](https://en.wikipedia.org/wiki/Okta,_Inc.)
   * [Okta](https://en.wikipedia.org/wiki/Okta) is a unit for measurement of the [cloud cover](https://en.wikipedia.org/wiki/Cloud_cover)
+* [Zero trust security model](https://en.wikipedia.org/wiki/Zero_trust_security_model)
 * [ThingSpeak](https://en.wikipedia.org/wiki/ThingSpeak)
   * [MATLAB](https://en.wikipedia.org/wiki/MATLAB) (Matrix Laboratory)
   * [MATLAB Mobile](https://www.mathworks.com/products/matlab-mobile.html)
