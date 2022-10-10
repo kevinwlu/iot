@@ -137,6 +137,7 @@
 * [IBM Watson IoT](https://github.com/ibm-watson-iot)
 * [Intel IoT developer kit](https://github.com/intel-iot-devkit)
 * [Location Aware Sensing System](https://github.com/LinkItONEDevGroup/LASS) (LASS)
+* [RaspAP](https://github.com/RaspAP/raspap-webgui)
 * [ThingsBoard](https://github.com/thingsboard)
 * [TinyML](https://github.com/mit-han-lab/tinyml)
 
