@@ -3,6 +3,7 @@
 ## Agriculture
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
 ## Communications
+* [Tor](https://en.wikipedia.org/wiki/Tor_(network))
 * [Ukama](https://www.ukama.com/)
 ## Education
 * [Labster](https://www.labster.com/)
