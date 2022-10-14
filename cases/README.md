@@ -2,6 +2,8 @@
 
 ## Agriculture
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
+## Communications
+* [Ukama](https://www.ukama.com/)
 ## Education
 * [Labster](https://www.labster.com/)
 ## Enabler
