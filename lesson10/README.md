@@ -2,6 +2,7 @@
 
 * [Digital currency](https://en.wikipedia.org/wiki/Digital_currency)
 * [SWIFT](https://en.wikipedia.org/wiki/SWIFT) (Society for Worldwide Interbank Financial Telecommunication)
+* [Microtransaction](https://en.wikipedia.org/wiki/Microtransaction)
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
   * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
   * [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
