@@ -3,6 +3,11 @@
 * [App Inventor for Android](https://en.wikipedia.org/wiki/App_Inventor_for_Android)
 * [MIT App Inventor](https://appinventor.mit.edu/)
 * [Mobile app development](https://en.wikipedia.org/wiki/Mobile_app_development)
+## Chat
+* [Comparison of Internet Relay Chat clients](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients)
+* [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat) (IRC)
+* [HexChat](https://en.wikipedia.org/wiki/HexChat)
+* [Libera Chat](https://en.wikipedia.org/wiki/Libera_Chat)
 ## Computer-Aided Design Software
 * [Comparison of computer-aided design software](https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_software)
 * [AutoCAD](https://en.wikipedia.org/wiki/AutoCAD)
