@@ -4,6 +4,7 @@
   * [Instructional design](https://en.wikipedia.org/wiki/Instructional_design)
     * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
     * [Direct Instruction](https://en.wikipedia.org/wiki/Direct_instruction)
+    * [Instructional scaffolding](https://en.wikipedia.org/wiki/Instructional_scaffolding)
     * [Universal Design for Learning](https://en.wikipedia.org/wiki/Universal_Design_for_Learning) (UDL)
     * [Classification of Instructional Programs](https://en.wikipedia.org/wiki/Classification_of_Instructional_Programs) (CIP)
       * 14.1001 Electrical and Electronics Engineering: A program that prepares individuals to apply mathematical and scientific principles to the design, development, and operational evaluation of electrical and electronic systems and their components, including electrical power generation systems; and the analysis of problems such as superconductor, wave propagation, energy storage and retrieval, and reception and amplification.
