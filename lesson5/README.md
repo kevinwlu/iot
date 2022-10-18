@@ -9,7 +9,9 @@
   * [Eclipse IoT Sandboxes](https://iot.eclipse.org/projects/sandboxes/)
   * [Sandbox (software development)](https://en.wikipedia.org/wiki/Sandbox_(software_development))
   * [Sandbox (computer security)](https://en.wikipedia.org/wiki/Sandbox_(computer_security))
-  * [Cedalo](https://cedalo.com/) ([AG](https://en.wikipedia.org/wiki/Aktiengesellschaft))
+  * [Cedalo](https://cedalo.com/) 
+    * [GmbH](https://en.wikipedia.org/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung)
+    * [AG](https://en.wikipedia.org/wiki/Aktiengesellschaft)
   * [Eclipse Paho](https://en.wikipedia.org/wiki/Eclipse_Paho)
     * [Paho](https://wiki.eclipse.org/Paho) in Eclipse Wiki
     * [Paho](https://maoridictionary.co.nz/search/?keywords=paho) in Te Aka Maori Dictionary
@@ -25,7 +27,7 @@
   * [List of Linux containers](https://en.wikipedia.org/wiki/List_of_Linux_containers)
   * [ARM architecture](https://en.wikipedia.org/wiki/ARM_architecture)
   * ARM [hard float](https://www.raspberrypi.org/forums/viewtopic.php?t=11177) (armhf)
-  * [Crossbar.io](https://crossbar.io/docs/Getting-Started/) ([GmbH](https://en.wikipedia.org/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung))
+  * [Crossbar.io](https://crossbar.io/docs/Getting-Started/)
   * [Crossbar switch](https://en.wikipedia.org/wiki/Crossbar_switch)
 
 ## Lab 5A: Eclipse Mosquitto and Eclipse Paho
