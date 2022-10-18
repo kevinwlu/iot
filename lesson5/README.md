@@ -1,4 +1,4 @@
-# Lesson 5: Crossbar.io and Paho
+# Lesson 5: Paho and Crossbar.io
 
 * [Publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) (Pub/Sub)
 * [Message queuing telemetry transport](https://en.wikipedia.org/wiki/MQTT) (MQTT)
