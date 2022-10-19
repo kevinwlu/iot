@@ -29,6 +29,7 @@
 * [OpenSea](https://en.wikipedia.org/wiki/OpenSea)
 ## Healthcare
 * [Epic Systems](https://en.wikipedia.org/wiki/Epic_Systems)
+* [GNU Health](https://en.wikipedia.org/wiki/GNU_Health)
 * [iollo](https://www.iollo.com/)
 * [Kinsa](https://en.wikipedia.org/wiki/Kinsa)
 * [Little Otter](https://www.littleotterhealth.com/)
