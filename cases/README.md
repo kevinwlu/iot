@@ -28,6 +28,7 @@
 * [Niftify](https://www.niftify.io/)
 * [OpenSea](https://en.wikipedia.org/wiki/OpenSea)
 ## Healthcare
+* [Epic Systems](https://en.wikipedia.org/wiki/Epic_Systems)
 * [iollo](https://www.iollo.com/)
 * [Kinsa](https://en.wikipedia.org/wiki/Kinsa)
 * [Little Otter](https://www.littleotterhealth.com/)
