@@ -128,10 +128,11 @@
   * [Graph neural network](https://en.wikipedia.org/wiki/Graph_neural_network) (GNN)
   * [ONNX](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (Open Neural Network Exchange)
   * [AlphaZero](https://en.wikipedia.org/wiki/AlphaZero)
+  * [MindSpore](https://github.com/mindspore-ai/mindspore) deep learning training/inference framework
   * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
   * [OpenAI Codex](https://openai.com/blog/openai-codex/)
   * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
-  * [MindSpore](https://github.com/mindspore-ai/mindspore) deep learning training/inference framework
+  * [DALL-E](https://en.wikipedia.org/wiki/DALL-E)
   * [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
 * [Movidius Neural Compute Stick](https://github.com/movidius/ncsdk.git) (NCS)
   * [Intel NCS2](https://software.intel.com/content/www/us/en/develop/hardware/neural-compute-stick.html)
