@@ -86,6 +86,8 @@
 * NIST [cloud security](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/cloud-security)
 * [Secure access service edge](https://en.wikipedia.org/wiki/Secure_access_service_edge) (SASE)
 * [Privacy-enhancing technologies](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies) (PET)
+## User interface
+* [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) (GUI)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
   * [Termina emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
   * [sudo](https://en.wikipedia.org/wiki/Sudo)
@@ -94,6 +96,7 @@
   * [Localhost](https://en.wikipedia.org/wiki/Localhost)
   * [Keyboard shortcut](https://en.wikipedia.org/wiki/Keyboard_shortcut)
   * [Control-D](https://en.wikipedia.org/wiki/End-of-Transmission_character)
+  * [Clobbering](https://en.wikipedia.org/wiki/Clobbering)
 * [Tunneling protocol](https://en.wikipedia.org/wiki/Tunneling_protocol)
 * [systemd](https://en.wikipedia.org/wiki/Systemd)
   * [How to Run a Raspberry Pi Program on Startup](https://learn.sparkfun.com/tutorials/how-to-run-a-raspberry-pi-program-on-startup/all)
