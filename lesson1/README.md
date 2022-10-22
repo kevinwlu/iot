@@ -87,7 +87,7 @@
 * [Secure access service edge](https://en.wikipedia.org/wiki/Secure_access_service_edge) (SASE)
 * [Privacy-enhancing technologies](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies) (PET)
 ## Lab primer
-* [https://en.wikipedia.org/wiki/Computing](https://en.wikipedia.org/wiki/Computing)
+* [Computing](https://en.wikipedia.org/wiki/Computing)
 * [User interface](https://en.wikipedia.org/wiki/User_interface) (UI)
 * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) (GUI)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
