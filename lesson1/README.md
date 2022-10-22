@@ -89,6 +89,7 @@
 ## Lab primer
 * [Computing](https://en.wikipedia.org/wiki/Computing)
 * [User interface](https://en.wikipedia.org/wiki/User_interface) (UI)
+* [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
 * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) (GUI)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
   * [Termina emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
@@ -99,6 +100,8 @@
   * [Keyboard shortcut](https://en.wikipedia.org/wiki/Keyboard_shortcut)
   * [Control-D](https://en.wikipedia.org/wiki/End-of-Transmission_character)
   * [Clobbering](https://en.wikipedia.org/wiki/Clobbering)
+  * [Alias](https://en.wikipedia.org/wiki/Alias_(command))
+  * [Superuser](https://en.wikipedia.org/wiki/Superuser)
 * [Tunneling protocol](https://en.wikipedia.org/wiki/Tunneling_protocol)
 * [systemd](https://en.wikipedia.org/wiki/Systemd)
   * [How to Run a Raspberry Pi Program on Startup](https://learn.sparkfun.com/tutorials/how-to-run-a-raspberry-pi-program-on-startup/all)
