@@ -5,6 +5,8 @@
 * [Mobile app development](https://en.wikipedia.org/wiki/Mobile_app_development)
 ## Artificial Intelligence
 * [Google AI](https://ai.google/tools/)
+* [OpenAI](https://openai.com/)
+* [Open Neural Network Exchange](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (ONNX)
 * [Stability AI](https://stability.ai/)
 ## Chat
 * [Comparison of Internet Relay Chat clients](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients)
