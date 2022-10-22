@@ -3,6 +3,9 @@
 * [App Inventor for Android](https://en.wikipedia.org/wiki/App_Inventor_for_Android)
 * [MIT App Inventor](https://appinventor.mit.edu/)
 * [Mobile app development](https://en.wikipedia.org/wiki/Mobile_app_development)
+## Artificial Intelligence
+* [Google AI](https://ai.google/tools/)
+* [Stability AI](https://stability.ai/)
 ## Chat
 * [Comparison of Internet Relay Chat clients](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients)
 * [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat) (IRC)
