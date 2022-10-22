@@ -132,6 +132,7 @@
   * [OpenAI Codex](https://openai.com/blog/openai-codex/)
   * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
   * [MindSpore](https://github.com/mindspore-ai/mindspore) deep learning training/inference framework
+  * [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
 * [Movidius Neural Compute Stick](https://github.com/movidius/ncsdk.git) (NCS)
   * [Intel NCS2](https://software.intel.com/content/www/us/en/develop/hardware/neural-compute-stick.html)
   * [Intel OpenVINO](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) (Visual Inference and Neural network Optimization)
