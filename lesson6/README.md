@@ -94,7 +94,7 @@
 * [OpenJS Foundation](https://en.wikipedia.org/wiki/OpenJS_Foundation#JS_Foundation)
 * [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)): [MongoDB](https://en.wikipedia.org/wiki/MongoDB), [Express.js](https://en.wikipedia.org/wiki/Express.js), [AngularJS](https://en.wikipedia.org/wiki/AngularJS), and Node.js
 * [Crow](https://crowcpp.org/) C++ framework for creating HTTP or Websocket web services
-  * [CrowCpp] (https://github.com/CrowCpp/Crow)
+  * [CrowCpp](https://github.com/CrowCpp/Crow)
 * [Mustache](https://en.wikipedia.org/wiki/Mustache_(template_system)) template system
 * [Handlebars.js](https://handlebarsjs.com/) template system
 * [Pystache](https://github.com/defunkt/pystache) Python implementation of Mustache template system
