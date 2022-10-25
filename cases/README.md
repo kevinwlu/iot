@@ -9,6 +9,8 @@
 ## Education
 * [Labster](https://www.labster.com/)
 ## Enabler
+* [Lumos Labs](https://www.lumoslabs.co/)
+  * [Lumosity](https://www.lumosity.com/en/)
 * [Telit](https://en.wikipedia.org/wiki/Telit)
 ## Energy
 * [Eco Wave Power](https://www.ecowavepower.com/)
