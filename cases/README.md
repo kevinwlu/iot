@@ -10,6 +10,7 @@
 * [Labster](https://www.labster.com/)
 ## Enabler
 * [Lumos Labs](https://www.lumoslabs.co/)
+  * [BUIDL for Web3](https://hack.lumoslabs.co/)
   * [Lumosity](https://www.lumosity.com/en/)
 * [Telit](https://en.wikipedia.org/wiki/Telit)
 ## Energy
