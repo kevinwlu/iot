@@ -62,6 +62,7 @@
   * [Software-defined vehicles](https://www.arm.com/solutions/automotive/software-defined-vehicles) (SDV)
 * [Network function virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization) (NFV)
 * [5G network slicing](https://en.wikipedia.org/wiki/5G_network_slicing)
+* [6G](https://en.wikipedia.org/wiki/6G_(network))
 * [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
   * Google Cloud [DevOps Research and Assessment](https://cloud.google.com/devops) (DORA)
   * [DevOps](https://en.wikipedia.org/wiki/DevOps)
