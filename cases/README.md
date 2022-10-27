@@ -83,6 +83,7 @@
 * [Fisker](https://en.wikipedia.org/wiki/Fisker_Inc.)
 * [Gillig](https://en.wikipedia.org/wiki/Gillig)
 * [Hyperloop](https://en.wikipedia.org/wiki/Hyperloop)
+* [Mobileye](https://en.wikipedia.org/wiki/Mobileye)
 * [New Flyer](https://en.wikipedia.org/wiki/New_Flyer)
 * [Innoviz](https://innoviz.tech/)
 * [INRIX](https://en.wikipedia.org/wiki/INRIX)
