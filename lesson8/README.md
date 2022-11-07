@@ -130,6 +130,7 @@
   * [AlphaZero](https://en.wikipedia.org/wiki/AlphaZero)
   * [WaveNet](https://en.wikipedia.org/wiki/WaveNet)
   * [MindSpore](https://github.com/mindspore-ai/mindspore) deep learning training/inference framework
+  * [Google Brain](https://en.wikipedia.org/wiki/Google_Brain)
   * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
   * [OpenAI Codex](https://openai.com/blog/openai-codex/)
   * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
