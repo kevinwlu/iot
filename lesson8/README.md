@@ -54,7 +54,7 @@
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
   * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
   * [LaMDA](https://blog.google/technology/ai/lamda/)
-  * R., Thoppilan et al., [LaMDA: Language Model for Dialogue Applications](https://arxiv.org/abs/2201.08239)
+  * R. Thoppilan et al., [LaMDA: Language Model for Dialogue Applications](https://arxiv.org/abs/2201.08239)
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
   * [Linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
   * [Automatically Tuned Linear Algebra Software](https://en.wikipedia.org/wiki/Automatically_Tuned_Linear_Algebra_Software) (ATLAS)
