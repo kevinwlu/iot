@@ -50,11 +50,6 @@
   | Easy | How does the brain process information? How does intelligence work? | Theories testable by simulation |
 
 * [Sentience](https://en.wikipedia.org/wiki/Sentience)
-* [Google AI](https://en.wikipedia.org/wiki/Google_AI)
-  * [AI Hub](https://aihub.cloud.google.com/u/0/)
-  * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
-  * [LaMDA](https://blog.google/technology/ai/lamda/)
-  * R. Thoppilan et al., [LaMDA: Language Model for Dialogue Applications](https://arxiv.org/abs/2201.08239)
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
   * [Linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
   * [Automatically Tuned Linear Algebra Software](https://en.wikipedia.org/wiki/Automatically_Tuned_Linear_Algebra_Software) (ATLAS)
@@ -130,7 +125,12 @@
   * [AlphaZero](https://en.wikipedia.org/wiki/AlphaZero)
   * [WaveNet](https://en.wikipedia.org/wiki/WaveNet)
   * [MindSpore](https://github.com/mindspore-ai/mindspore) deep learning training/inference framework
-  * [Google Brain](https://en.wikipedia.org/wiki/Google_Brain)
+  * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
+    * [AI Hub](https://aihub.cloud.google.com/u/0/)
+    * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+    * [LaMDA](https://blog.google/technology/ai/lamda/)
+    * R. Thoppilan et al., [LaMDA: Language Model for Dialogue Applications](https://arxiv.org/abs/2201.08239)
+    * [Google Brain](https://en.wikipedia.org/wiki/Google_Brain)
   * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
   * [OpenAI Codex](https://openai.com/blog/openai-codex/)
   * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
