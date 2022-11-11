@@ -162,7 +162,7 @@ $ python3 qiskit_ignis_example.py
 * [Qiskit Terra](https://github.com/Qiskit/qiskit-terra)
 * [Qiskit Aer](https://github.com/Qiskit/qiskit-aer)
 * [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) DEPRECATED 2021-04-02
-* [Qiskit Ignis](https://github.com/Qiskit/qiskit-ignis)
+* [Qiskit Ignis](https://github.com/Qiskit/qiskit-ignis) DEPRECATED 2021-12-06
 ```sh
 $ sudo sed -i 's/CONF_SWAPSIZE=100/CONF_SWAPSIZE=1024/' /etc/dphys-swapfile
 $ sudo /etc/init.d/dphys-swapfile stop
