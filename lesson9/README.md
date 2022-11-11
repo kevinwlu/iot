@@ -146,7 +146,7 @@ $ gimp -a intrusiondetection.png
 * [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) DEPRECATED 2021-04-02
 * [Qiskit Ignis](https://github.com/Qiskit/qiskit-ignis)
 ```sh
-$ pip3 install qiskit[visualization]
+$ pip3 install qiskit[visualization] qiskit-ibmq-provider
 $ python3
 >>> from qiskit import IBMQ
 >>> IBMQ.save_account('MY_API_TOKEN')
