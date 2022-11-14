@@ -144,7 +144,7 @@ $ gimp -a intrusiondetection.png
 * [Qiskit Terra](https://github.com/Qiskit/qiskit-terra)
 * [Qiskit Aer](https://github.com/Qiskit/qiskit-aer)
 * [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) DEPRECATED 2021-04-02
-* [Qiskit Ignis](https://github.com/Qiskit/qiskit-ignis)
+* [Qiskit Ignis](https://github.com/Qiskit/qiskit-ignis) DEPRECATED 2021-12-06
 ```sh
 $ pip3 install qiskit[visualization] qiskit-ibmq-provider
 $ python3
