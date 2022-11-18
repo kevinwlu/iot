@@ -2,12 +2,9 @@
 
 This project requires a light-dependent resistor (LDR), light-emitting diode (LED), 1kΩ and 10kΩ resistors, 
 [MCP3008](https://www.adafruit.com/product/856) analog-to-digital converter (ADC), and if desired, [SRD-05VDC-SL-C](https://www.parallax.com/product/single-relay-board/) relay with a light bulb.
-
-* [Raspberry Pi GPIO Pinout](https://www.tomshardware.com/reviews/raspberry-pi-gpio-pinout,6122.html) by [Les Pounder](https://www.tomshardware.com/author/les-pounder)
-
 ![ldr-led_bb.png](/lesson4/lighting/ldr-led_bb.png)
 ![mcp3008](/lesson4/lighting/mcp3008.gif)
-
+* [Raspberry Pi GPIO Pinout](https://www.tomshardware.com/reviews/raspberry-pi-gpio-pinout,6122.html) by [Les Pounder](https://www.tomshardware.com/author/les-pounder)
 ## Start a Django project
 ```sh
 pi@raspberrypi:~ $ django-admin startproject lighting
