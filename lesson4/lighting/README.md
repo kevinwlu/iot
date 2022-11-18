@@ -4,7 +4,7 @@ This project requires a light-dependent resistor (LDR), light-emitting diode (LE
 [MCP3008](https://www.adafruit.com/product/856) analog-to-digital converter (ADC), and if desired, [SRD-05VDC-SL-C](https://www.parallax.com/product/single-relay-board/) relay with a light bulb
 
 ![ldr-led_bb.png](/lesson4/lighting/ldr-led_bb.png)
-![mcp3008](/mcp3008.gif)
+![mcp3008](/lesson4/lighting/mcp3008.gif)
 
 ## Start a Django project
 ```sh
