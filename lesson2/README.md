@@ -44,6 +44,7 @@
   * [Hammer header](https://www.adafruit.com/product/3662)
 * [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
   * [Broken-out breadboard](https://vilros.com/products/vilros-broken-out-breadboard-for-raspberry-pi)
+* [Antistatic bag](https://en.wikipedia.org/wiki/Antistatic_bag)
 * [Sensor](https://en.wikipedia.org/wiki/Sensor)
   * [Lidar](https://en.wikipedia.org/wiki/Lidar)
   * [Time of flight](https://en.wikipedia.org/wiki/Time_of_flight) (ToF)
