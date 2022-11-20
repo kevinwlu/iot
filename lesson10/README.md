@@ -2,6 +2,7 @@
 
 * [Digital currency](https://en.wikipedia.org/wiki/Digital_currency)
 * [SWIFT](https://en.wikipedia.org/wiki/SWIFT) (Society for Worldwide Interbank Financial Telecommunication)
+* [Bank Secrecy Act](https://en.wikipedia.org/wiki/Bank_Secrecy_Act) (BSA)
 * [Microtransaction](https://en.wikipedia.org/wiki/Microtransaction)
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
   * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
