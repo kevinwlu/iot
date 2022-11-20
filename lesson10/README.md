@@ -20,7 +20,6 @@
   * [List of cryptocurrencies](https://en.wikipedia.org/wiki/List_of_cryptocurrencies)
   * [Cryptocurrency prices by maket cap](https://coinmarketcap.com/)
   * [Cryptocurrency exchange](https://en.wikipedia.org/wiki/Cryptocurrency_exchange)
-  * [List of largest cryptocurrency exchanges](https://en.wikipedia.org/wiki/List_of_largest_cryptocurrency_exchanges)
   * [Crypto-wikipedia](https://crypto-wikipedia.com/)
 * [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
   * [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto), "[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)," [Oct. 31, 2008](https://archive.is/20121228025845/http://article.gmane.org/gmane.comp.encryption.general/12588/#selection-179.7-179.30)
