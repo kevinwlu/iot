@@ -60,6 +60,7 @@
 * [Uniswap](https://en.wikipedia.org/wiki/Uniswap)
 * [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
 * [CBDC](https://en.wikipedia.org/wiki/Central_bank_digital_currency) (Central bank digital currency)
+  * [The competing priorities facing U.S. crypto regulations](https://www.brookings.edu/techstream/the-competing-priorities-facing-u-s-crypto-regulations-bitcoin-ethereum/) by [Prof. Josephine Wolff](https://engineering.tufts.edu/cs/people/faculty/josephine-wolff)
 * [Diem](https://en.wikipedia.org/wiki/Diem_(digital_currency)) (rebraded from Libra in December 2020) proposed by [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms) (rebraded from Facebook on October 28, 2021)
   * [Diem Blockchain](https://developers.diem.com/main)
   * [Proof of stake](https://en.wikipedia.org/wiki/Proof_of_stake)
