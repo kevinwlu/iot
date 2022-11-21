@@ -162,9 +162,10 @@ $ python3 run_app.py
 ![sync.png](/lesson10/sync.png)
 
 ## Lab 10B: PyOTA
-* Demonstrated on Raspberry Pi OS and Ubuntu
-* [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library)
-* [IRI](https://docs.iota.org/docs/node-software/1.0/overview) (IOTA Reference Implementation)
+* PyOTA and IRI were emonstrated on Raspberry Pi OS and Ubuntu, currently nodes.devnet.iota.org is not available
+  * [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library)
+  * [IRI](https://github.com/iotaledger/iri) (IOTA Reference Implementation)
+* Update: [IOTA 2.0](https://v2.iota.org/)
 
 ```sh
 $ sudo pip3 install pyota[ccurl]
