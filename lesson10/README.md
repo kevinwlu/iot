@@ -165,7 +165,7 @@ $ python3 run_app.py
 * PyOTA and IRI were emonstrated on Raspberry Pi OS and Ubuntu, currently nodes.devnet.iota.org is not available
   * [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library)
   * [IRI](https://github.com/iotaledger/iri) (IOTA Reference Implementation)
-* Update: [IOTA 2.0](https://v2.iota.org/)
+* Update: [IOTA 2.0 DevNet](https://v2.iota.org/) and [IOTA Wiki](https://wiki.iota.org/)
 
 ```sh
 $ sudo pip3 install pyota[ccurl]
