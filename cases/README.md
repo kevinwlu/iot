@@ -26,6 +26,8 @@
 * [Tidal power](https://en.wikipedia.org/wiki/Tidal_power)
 * [Wave power](https://en.wikipedia.org/wiki/Wave_power)
 ## Enterprise
+* [Gig worker](https://en.wikipedia.org/wiki/Gig_worker)
+* [List of gig economy companies](https://en.wikipedia.org/wiki/List_of_gig_economy_companies)
 * [Google Cloud Carbon Footprint](https://cloud.google.com/carbon-footprint)
 ## Finance
 * [Financialization](https://en.wikipedia.org/wiki/Financialization)
