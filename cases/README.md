@@ -28,6 +28,8 @@
 ## Enterprise
 * [Google Cloud Carbon Footprint](https://cloud.google.com/carbon-footprint)
 ## Finance
+* [Financialization](https://en.wikipedia.org/wiki/Financialization)
+* [FIRE economy](https://en.wikipedia.org/wiki/FIRE_economy) based on finance, insurance, and realestate (FIRE)
 * [Niftify](https://www.niftify.io/)
 * [OpenSea](https://en.wikipedia.org/wiki/OpenSea)
 ## Healthcare
