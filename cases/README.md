@@ -29,6 +29,7 @@
 * [Gig worker](https://en.wikipedia.org/wiki/Gig_worker)
 * [List of gig economy companies](https://en.wikipedia.org/wiki/List_of_gig_economy_companies)
 * [Google Cloud Carbon Footprint](https://cloud.google.com/carbon-footprint)
+* [OpenSensors](https://www.opensensors.com/)
 ## Finance
 * [Financialization](https://en.wikipedia.org/wiki/Financialization)
 * [FIRE economy](https://en.wikipedia.org/wiki/FIRE_economy) based on finance, insurance, and realestate (FIRE)
