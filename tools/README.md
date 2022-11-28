@@ -32,6 +32,9 @@
   * [Local binary patterns](https://en.wikipedia.org/wiki/Local_binary_patterns) (LBP)
 * [Object detection](https://en.wikipedia.org/wiki/Object_detection)
 * [OpenMV](https://github.com/openmv/openmv)
+## Static program Analysis
+* [Static program analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
+* [Coverity](https://en.wikipedia.org/wiki/Coverity)
 ## User Interface and User Experience
 * [Comparison of vector graphics editors](https://en.wikipedia.org/wiki/Comparison_of_vector_graphics_editors)
 * [Figma](https://en.wikipedia.org/wiki/Figma_(software))
