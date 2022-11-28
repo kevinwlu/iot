@@ -1,6 +1,13 @@
 # Engineering Economics
 * [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet)
+* [Cash flow](https://en.wikipedia.org/wiki/Cash_flow)
+* [Depreciation](https://en.wikipedia.org/wiki/Depreciation)
+* [Dividend](https://en.wikipedia.org/wiki/Dividend)
 * [Goodwill](https://en.wikipedia.org/wiki/Goodwill_(accounting))
 * [Income statement](https://en.wikipedia.org/wiki/Income_statement)
+* [Inflation](https://en.wikipedia.org/wiki/Inflation)
 * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
+* [Price–earnings ratio](https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio)
+* [Rate of return](https://en.wikipedia.org/wiki/Rate_of_return)
+* [Return on investment](https://en.wikipedia.org/wiki/Return_on_investment) (ROI)
 * [Time value of money](https://en.wikipedia.org/wiki/Time_value_of_money)
