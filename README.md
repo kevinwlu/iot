@@ -146,6 +146,7 @@
 * [TinyML](https://github.com/mit-han-lab/tinyml)
 
 ## Regulations
+* [Artificial Intelligence Act](https://en.wikipedia.org/wiki/Artificial_Intelligence_Act)
 * [Cybersecurity regulation](https://en.wikipedia.org/wiki/Cyber-security_regulation)
   * [Internet of Things Cybersecurity Improvement Act](https://www.congress.gov/bill/116th-congress/house-bill/1668)
 * [HIPAA](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act) (Health Insurance Portability and Accountability Act)
