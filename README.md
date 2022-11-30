@@ -179,6 +179,7 @@
 * [Clinical Research Data Sharing Alliance](https://crdsalliance.org/) (CRDSA)
 * [Cloud Security Alliance](https://en.wikipedia.org/wiki/Cloud_Security_Alliance) (CSA)
 * [Cloud Signature Consortium](https://cloudsignatureconsortium.org/) (CSC)
+* [Connectivity Standards Alliance](https://en.wikipedia.org/wiki/Connectivity_Standards_Alliance) (CSA), formerly the Zigbee Alliance
 * [Digital Intermediate Frequency Interoperability Consortium](https://dificonsortium.org/) (DIFI)
 * [Digital Illumination Interface Alliance](https://www.dali-alliance.org/) (DiiA) ,[Digital Addressable Lighting Interface](https://en.wikipedia.org/wiki/Digital_Addressable_Lighting_Interface) (DALI)
 * [Digital Twin Consortium](https://www.digitaltwinconsortium.org/)
