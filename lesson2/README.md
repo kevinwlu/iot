@@ -53,6 +53,8 @@
 * [Serial communication](https://en.wikipedia.org/wiki/Serial_communication)
   * [Universal asynchronous receiver-transmitter](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter) (UART)
 * [Serial peripheral interface](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (SPI)
+  * [Master/slave](https://en.wikipedia.org/wiki/Master/slave_(technology))
+  * [Inclusive language](https://en.wikipedia.org/wiki/Inclusive_language)
   * Main/microcontroller in secondary/sensor out (MISO)
   * Main/microcontroller out secondary/sensor in (MOSI)
   * Serial clock (SCLK)
