@@ -3,6 +3,7 @@
 * [Cash flow](https://en.wikipedia.org/wiki/Cash_flow)
 * [Depreciation](https://en.wikipedia.org/wiki/Depreciation)
 * [Dividend](https://en.wikipedia.org/wiki/Dividend)
+* [Engineering economics](https://en.wikipedia.org/wiki/Engineering_economics)
 * [Goodwill](https://en.wikipedia.org/wiki/Goodwill_(accounting))
 * [Income statement](https://en.wikipedia.org/wiki/Income_statement)
 * [Inflation](https://en.wikipedia.org/wiki/Inflation)
