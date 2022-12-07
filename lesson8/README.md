@@ -90,7 +90,6 @@
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML)
   * [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) (SL)
   * [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix)
-  * [F-score](https://en.wikipedia.org/wiki/F-score)
   * [Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning)
   * [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) (RL)
   * [Transfer learning](https://en.wikipedia.org/wiki/Transfer_learning) (TL)
