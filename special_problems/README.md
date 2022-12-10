@@ -1,6 +1,7 @@
 # 2022 Fall
 
-
+* Wireless Online Shopping for Visually Impaired People Using Natural Language Processing and Face Recognition Mechanism
+* Helmet Detection Using Mask RCNN and Faster RCNN
 
 # 2022 Spring
 
