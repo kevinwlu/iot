@@ -30,6 +30,8 @@
 * [List of gig economy companies](https://en.wikipedia.org/wiki/List_of_gig_economy_companies)
 * [Google Cloud Carbon Footprint](https://cloud.google.com/carbon-footprint)
 * [OpenSensors](https://www.opensensors.com/)
+## Fashion
+* [Renewcell](https://www.renewcell.com/en/)
 ## Finance
 * [Financialization](https://en.wikipedia.org/wiki/Financialization)
 * [FIRE economy](https://en.wikipedia.org/wiki/FIRE_economy) based on finance, insurance, and realestate (FIRE)
