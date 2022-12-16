@@ -5,6 +5,9 @@
 * [Standard test image](https://en.wikipedia.org/wiki/Standard_test_image)
 * [Object detection](https://en.wikipedia.org/wiki/Object_detection)
 * [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
+  * [Eigenfaces](http://www.scholarpedia.org/article/Eigenfaces)
+  * [Fisherfaces](http://www.scholarpedia.org/article/Fisherfaces)
+  * [Local Binary Patterns](http://www.scholarpedia.org/article/Local_Binary_Patterns) (LBP)
 * [FERET facial recognition technology](https://en.wikipedia.org/wiki/FERET_(facial_recognition_technology))
 * [FERET database](https://en.wikipedia.org/wiki/FERET_database)
 
