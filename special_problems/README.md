@@ -14,7 +14,7 @@
 ## 2022 Fall
 
 * [Wireless Online Shopping for Visually Impaired People Using Natural Language Processing and Face Recognition Mechanism](https://github.com/kiratjadhav/Wireless-Online-Shopping-for-Visually-Impaired-People-Using-Natural-Language-Processing-and-Face-Rec)
-* Helmet Detection Using Mask RCNN and Faster RCNN
+* Helmet Detection Using Mask R-CNN and Faster R-CNN
 
 ## 2022 Spring
 
