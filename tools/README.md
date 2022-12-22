@@ -42,6 +42,9 @@
 * [OpenMV](https://github.com/openmv/openmv)
 ## Problem and Decision Analysis
 * [Kepner-Tregoe](https://kepner-tregoe.com/) (KT)
+## Robotics
+* [Gazebo simulator](https://en.wikipedia.org/wiki/Gazebo_simulator)
+* [Robot Operating System](https://en.wikipedia.org/wiki/Robot_Operating_System) (ROS)
 ## Static program Analysis
 * [Static program analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
 * [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
