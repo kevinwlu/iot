@@ -59,6 +59,9 @@
 * [Otter](https://withotter.com/)
 ## Retail
 * [Ocado](https://en.wikipedia.org/wiki/Ocado)
+## Robotics
+* [Intrinsic](https://intrinsic.ai/)
+* [Open Robotics](https://en.wikipedia.org/wiki/Open_Robotics)
 ## Sports
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
 ## Transportation: Air
