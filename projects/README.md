@@ -1,9 +1,10 @@
 # Projects
 
 * [Brain–computer interface](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface) (BCI)
-* [Neuralink](https://en.wikipedia.org/wiki/Neuralink)
-* [Neural oscillation](https://en.wikipedia.org/wiki/Neural_oscillation)
-* [Schumann resonances](https://en.wikipedia.org/wiki/Schumann_resonances)
+  * [Neuralink](https://en.wikipedia.org/wiki/Neuralink)
+  * [Neural oscillation](https://en.wikipedia.org/wiki/Neural_oscillation)
+  * [Schumann resonances](https://en.wikipedia.org/wiki/Schumann_resonances)
+* [RepRap project](https://en.wikipedia.org/wiki/RepRap_project)
 
 ## 2022 Spring
 
