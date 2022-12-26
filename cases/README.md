@@ -9,7 +9,6 @@
 ## Education
 * [Labster](https://www.labster.com/)
 ## Enabler
-* [Active Surfaces](https://www.active-surfaces.com/en/)
 * [Lumos Labs](https://www.lumoslabs.co/)
   * [BUIDL for Web3](https://hack.lumoslabs.co/)
   * [Lumosity](https://www.lumosity.com/en/)
@@ -23,10 +22,15 @@
   * [First Light Fusion](https://firstlightfusion.com/)
   * [General Fusion](https://en.wikipedia.org/wiki/General_Fusion)
   * [Helion Energy](https://en.wikipedia.org/wiki/Helion_Energy)
+* [MIT ONE Lab](https://www.onelab.mit.edu/)
+  * [Thin Filem Solar Panels](https://spectrum.ieee.org/thin-film-solar-panels)
+    > [QD Vision](https://www.internano.org/node/919) acquired by Samsung
+  * [InterNano](https://www.internano.org/)
+  * [Active Surfaces](https://www.active-surfaces.com/en/)
+  * [Ubiquitous Energy](https://ubiquitous.energy/)
 * [Sol Systems](https://www.solsystems.com/)
 * [Solar geoengineering](https://en.wikipedia.org/wiki/Solar_geoengineering)
 * [Space mirror (climate engineering)](https://en.wikipedia.org/wiki/Space_mirror_(climate_engineering))
-* [Ubiquitous Energy](https://ubiquitous.energy/)
 
 ## Enterprise
 * [Gig worker](https://en.wikipedia.org/wiki/Gig_worker)
