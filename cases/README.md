@@ -24,10 +24,10 @@
   * [Helion Energy](https://en.wikipedia.org/wiki/Helion_Energy)
 * [MIT ONE Lab](https://www.onelab.mit.edu/)
   * [Thin Film Solar Panels](https://spectrum.ieee.org/thin-film-solar-panels)
-    * [QD Vision](https://www.internano.org/node/919) acquired by Samsung
-    * [InterNano](https://www.internano.org/)
     * [Active Surfaces](https://www.active-surfaces.com/en/)
   * [Kateeva](https://kateeva.com/)
+    * [QD Vision](https://www.internano.org/node/919) acquired by Samsung
+    * [InterNano](https://www.internano.org/)
   * [Swift Solar](https://www.swiftsolar.com/)
   * [Ubiquitous Energy](https://ubiquitous.energy/)
 * [Sol Systems](https://www.solsystems.com/)
