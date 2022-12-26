@@ -16,6 +16,8 @@
 * [Telit](https://en.wikipedia.org/wiki/Telit)
 ## Energy
 * [Eco Wave Power](https://www.ecowavepower.com/)
+  * [Tidal power](https://en.wikipedia.org/wiki/Tidal_power)
+  * [Wave power](https://en.wikipedia.org/wiki/Wave_power)
 * [Form Energy](https://en.wikipedia.org/wiki/Form_Energy)
 * [Fusion power](https://en.wikipedia.org/wiki/Fusion_power)
   * [First Light Fusion](https://firstlightfusion.com/)
@@ -24,8 +26,8 @@
 * [Sol Systems](https://www.solsystems.com/)
 * [Solar geoengineering](https://en.wikipedia.org/wiki/Solar_geoengineering)
 * [Space mirror (climate engineering)](https://en.wikipedia.org/wiki/Space_mirror_(climate_engineering))
-* [Tidal power](https://en.wikipedia.org/wiki/Tidal_power)
-* [Wave power](https://en.wikipedia.org/wiki/Wave_power)
+* [Ubiquitous Energy](https://ubiquitous.energy/)
+
 ## Enterprise
 * [Gig worker](https://en.wikipedia.org/wiki/Gig_worker)
 * [List of gig economy companies](https://en.wikipedia.org/wiki/List_of_gig_economy_companies)
