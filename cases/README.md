@@ -9,6 +9,7 @@
 ## Education
 * [Labster](https://www.labster.com/)
 ## Enabler
+* [Active Surfaces](https://www.active-surfaces.com/en/)
 * [Lumos Labs](https://www.lumoslabs.co/)
   * [BUIDL for Web3](https://hack.lumoslabs.co/)
   * [Lumosity](https://www.lumosity.com/en/)
