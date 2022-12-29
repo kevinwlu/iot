@@ -84,6 +84,7 @@
   * [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)
   * [Second Life](https://en.wikipedia.org/wiki/Second_Life)
   * [Roblox](https://en.wikipedia.org/wiki/Roblox)
+  * [VRChat](https://en.wikipedia.org/wiki/VRChat)
 ## Labs 4A and 4B: Django and Django REST
 ### 1. Install Django and Django REST framework on Raspberry Pi
 ```sh
