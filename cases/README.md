@@ -8,6 +8,7 @@
 * [Ukama](https://www.ukama.com/)
 ## Education
 * [Labster](https://www.labster.com/)
+* [Riiid](https://riiid.com/)
 ## Enabler
 * [Lumos Labs](https://www.lumoslabs.co/)
   * [BUIDL for Web3](https://hack.lumoslabs.co/)
