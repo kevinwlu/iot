@@ -97,7 +97,7 @@
 * NIST [cloud security](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/cloud-security)
 * [Secure access service edge](https://en.wikipedia.org/wiki/Secure_access_service_edge) (SASE)
 * [Privacy-enhancing technologies](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies) (PET)
-## Lab primer
+## Lab Primer
 * [Computing](https://en.wikipedia.org/wiki/Computing)
 * [User interface](https://en.wikipedia.org/wiki/User_interface) (UI)
 * [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
