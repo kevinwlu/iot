@@ -1,5 +1,5 @@
 # Internet of Things (IoT)
-Electrical Engineering (EE)
+Electrical Engineering EE 629
 * [Instructor](https://www.stevens.edu/profile/klu2) from 2015 Spring to 2021 Fall
   * [Instructional design](https://en.wikipedia.org/wiki/Instructional_design)
     * [Active learning](https://en.wikipedia.org/wiki/Active_learning)
