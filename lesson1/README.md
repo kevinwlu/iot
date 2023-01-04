@@ -98,9 +98,15 @@
 * [Secure access service edge](https://en.wikipedia.org/wiki/Secure_access_service_edge) (SASE)
 * [Privacy-enhancing technologies](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies) (PET)
 ## Lab Primer
+* [Primer](https://en.wikipedia.org/wiki/Primer_(textbook))
 * [Computing](https://en.wikipedia.org/wiki/Computing)
-* [User interface](https://en.wikipedia.org/wiki/User_interface) (UI)
+* [Apple](https://en.wikipedia.org/wiki/Apple)
+  > As late as the 17th century, the word also functioned as a generic term for all fruit including nuts.
+  > This use is analogous to the French language use of pomme.
+* [Why is Apple called Apple?](https://www.macworld.com/article/673923/why-is-apple-called-apple.html)
+* [Kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system))
 * [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
+* [User interface](https://en.wikipedia.org/wiki/User_interface) (UI)
 * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) (GUI)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
   * [Termina emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
