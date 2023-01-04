@@ -78,9 +78,9 @@
 ## Sports
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
 ## Transportation: Air
+* [Airworthiness](https://en.wikipedia.org/wiki/Airworthiness)
 * [eVTOL](https://en.wikipedia.org/wiki/EVTOL) (electric vertical take-off and landing) aircraft
 * [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
-* [Airworthiness](https://en.wikipedia.org/wiki/Airworthiness)
 * [Archer Aviation](https://www.archer.com/)
 * [Beta Technologies](https://en.wikipedia.org/wiki/Beta_Technologies)
 * [Boom Technology](https://en.wikipedia.org/wiki/Boom_Technology)
