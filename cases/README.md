@@ -35,6 +35,7 @@
 * [Sol Systems](https://www.solsystems.com/)
 * [Solar geoengineering](https://en.wikipedia.org/wiki/Solar_geoengineering)
 * [Space mirror (climate engineering)](https://en.wikipedia.org/wiki/Space_mirror_(climate_engineering))
+* [Caltech Space Solar Power Project](https://www.spacesolar.caltech.edu/)
 
 ## Enterprise
 * [Gig worker](https://en.wikipedia.org/wiki/Gig_worker)
