@@ -78,6 +78,7 @@
 ## Sports
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
 ## Transportation: Air
+* [List of electric aircraft](https://en.wikipedia.org/wiki/List_of_electric_aircraft)
 * [Airworthiness](https://en.wikipedia.org/wiki/Airworthiness)
 * [eVTOL](https://en.wikipedia.org/wiki/EVTOL) (electric vertical take-off and landing) aircraft
 * [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
@@ -91,11 +92,12 @@
   * [DLR HY4](https://en.wikipedia.org/wiki/DLR_HY4)
 * [Joby Aviation](https://en.wikipedia.org/wiki/Joby_Aviation)
 * [Leonardo S.p.A.](https://en.wikipedia.org/wiki/Leonardo_S.p.A.)
-* [Lilium GmbH](https://en.wikipedia.org/wiki/Lilium_GmbH)
+* [Lilium Jet](https://en.wikipedia.org/wiki/Lilium_Jet)
 * [Vertical Aerospace](https://en.wikipedia.org/wiki/Vertical_Aerospace)
 * [Volocopter](https://en.wikipedia.org/wiki/Volocopter)
 * [Zunum Aero](https://en.wikipedia.org/wiki/Zunum_Aero)
 ## Transportation: Ground
+* [List of production battery electric vehicles](https://en.wikipedia.org/wiki/List_of_production_battery_electric_vehicles)
 * [Apple electric car project](https://en.wikipedia.org/wiki/Apple_electric_car_project)
 * [Aptiv](https://en.wikipedia.org/wiki/Aptiv)
 * [Argo AI](https://en.wikipedia.org/wiki/Argo_AI)
