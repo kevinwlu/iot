@@ -78,6 +78,7 @@
 ## Sports
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
 ## Transportation: Air
+* [eVTOL](https://en.wikipedia.org/wiki/EVTOL) (electric vertical take-off and landing) aircraft
 * [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
 * [Airworthiness](https://en.wikipedia.org/wiki/Airworthiness)
 * [Archer Aviation](https://www.archer.com/)
@@ -85,7 +86,6 @@
 * [Boom Technology](https://en.wikipedia.org/wiki/Boom_Technology)
 * [EHang](https://en.wikipedia.org/wiki/EHang)
 * [Eviation Alice](https://en.wikipedia.org/wiki/Eviation_Alice)
-* [eVTOL](https://en.wikipedia.org/wiki/EVTOL) (electric vertical take-off and landing) aircraft
 * [Faradair Aerospace BEHA](https://en.wikipedia.org/wiki/Faradair_Aerospace_BEHA)
 * [H2FLY](https://www.h2fly.de/)
   * [DLR HY4](https://en.wikipedia.org/wiki/DLR_HY4)
