@@ -13,7 +13,7 @@
 * [Income statement](https://en.wikipedia.org/wiki/Income_statement)
 * [Inflation](https://en.wikipedia.org/wiki/Inflation)
 * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
-* [Price–earnings ratio](https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio)
+* [Price–earnings ratio](https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio) (P/E ratio)
 * [Rate of return](https://en.wikipedia.org/wiki/Rate_of_return)
 * [Return on investment](https://en.wikipedia.org/wiki/Return_on_investment) (ROI)
 * [Time value of money](https://en.wikipedia.org/wiki/Time_value_of_money)
