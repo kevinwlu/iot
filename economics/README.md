@@ -5,7 +5,7 @@
 * [Depreciation](https://en.wikipedia.org/wiki/Depreciation)
 * [Dividend](https://en.wikipedia.org/wiki/Dividend)
 * [Earned value management](https://en.wikipedia.org/wiki/Earned_value_management) (EVM)
-* [Earnings before interest, taxes, depreciation and amortization](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation_and_amortization) (EBITDA)
+* [Earnings before interest, taxes, depreciation, and amortization](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation_and_amortization) (EBITDA)
 * [Economies of scale](https://en.wikipedia.org/wiki/Economies_of_scale)
 * [Economies of scope](https://en.wikipedia.org/wiki/Economies_of_scope)
 * [Engineering economics](https://en.wikipedia.org/wiki/Engineering_economics)
