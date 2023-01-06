@@ -6,6 +6,7 @@
 ## Artificial Intelligence
 * [Google AI](https://ai.google/tools/)
 * [Google Research](https://research.google/tools/)
+* [HTTPie](https://httpie.io/)
 * [OpenAI](https://openai.com/)
 * [Open Neural Network Exchange](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (ONNX)
 * [Stability AI](https://stability.ai/)
