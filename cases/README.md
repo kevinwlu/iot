@@ -57,7 +57,10 @@
 * [Kinsa](https://en.wikipedia.org/wiki/Kinsa)
 * [Little Otter](https://www.littleotterhealth.com/)
 * [Smart Nora](https://smartnora.com/)
+* [Toi Labs](https://www.toilabs.com/)
 * [Upright](https://www.uprightpose.com/)
+* [Withings](https://en.wikipedia.org/wiki/Withings)
+  * [U-Scan](https://www.withings.com/us/en/u-scan)
 ## Industrial
 * [Automated guided vehicle](https://en.wikipedia.org/wiki/Automated_guided_vehicle) (AGV)
 ## Public Services
