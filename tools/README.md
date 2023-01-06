@@ -4,8 +4,12 @@
 * [MIT App Inventor](https://appinventor.mit.edu/)
 * [Mobile app development](https://en.wikipedia.org/wiki/Mobile_app_development)
 ## Artificial Intelligence
+* [AI Query](https://www.aiquery.co/)
+* [AI Code Reviewer](https://ai-code-reviewer.com/)
+* [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot)
 * [Google AI](https://ai.google/tools/)
 * [Google Research](https://research.google/tools/)
+* [Ghostwriter](https://replit.com/site/ghostwriter) by [Replit](https://en.wikipedia.org/wiki/Replit)
 * [HTTPie](https://httpie.io/)
 * [OpenAI](https://openai.com/)
 * [Open Neural Network Exchange](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (ONNX)
@@ -13,8 +17,10 @@
 ## Chat
 * [Comparison of Internet Relay Chat clients](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients)
 * [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat) (IRC)
+* [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
 * [HexChat](https://en.wikipedia.org/wiki/HexChat)
 * [Libera Chat](https://en.wikipedia.org/wiki/Libera_Chat)
+* [TerminalGPT](https://github.com/jucasoliveira/terminalGPT)
 ## Computer-Aided Design Software
 * [Comparison of computer-aided design software](https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_software)
 * [AutoCAD](https://en.wikipedia.org/wiki/AutoCAD)
