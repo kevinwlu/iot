@@ -19,6 +19,7 @@
 * [Eco Wave Power](https://www.ecowavepower.com/)
   * [Tidal power](https://en.wikipedia.org/wiki/Tidal_power)
   * [Wave power](https://en.wikipedia.org/wiki/Wave_power)
+* [Element 25](https://www.element25.com.au/)
 * [Form Energy](https://en.wikipedia.org/wiki/Form_Energy)
 * [Fusion power](https://en.wikipedia.org/wiki/Fusion_power)
   * [First Light Fusion](https://firstlightfusion.com/)
