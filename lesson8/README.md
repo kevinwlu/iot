@@ -144,6 +144,8 @@
   * [Deepfake](https://en.wikipedia.org/wiki/Deepfake)
   * [15.ai](https://en.wikipedia.org/wiki/15.ai)
   * [Audio deepfake](https://en.wikipedia.org/wiki/Audio_deepfake)
+  * [IXEAU](https://ixeau.com/)
+  * [Memorable Ad Maker](https://admaker.memorable.io/)
 * [Movidius Neural Compute Stick](https://github.com/movidius/ncsdk.git) (NCS)
   * [Intel NCS2](https://software.intel.com/content/www/us/en/develop/hardware/neural-compute-stick.html)
   * [Intel OpenVINO](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) (Visual Inference and Neural network Optimization)
