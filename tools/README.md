@@ -42,6 +42,8 @@
 ## Diversity, Equality, and Inclusion (DEI)
 * [Diversity, equity, and inclusion](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion)
 * [Ongig](https://www.ongig.com/)
+## Finite Element Analysis
+* [COMSOL Multiphysics](https://en.wikipedia.org/wiki/COMSOL_Multiphysics)
 ## Object Detection and Facial Recognition
 * [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
   * [Local binary patterns](https://en.wikipedia.org/wiki/Local_binary_patterns) (LBP)
