@@ -114,6 +114,7 @@
 * [Fisker](https://en.wikipedia.org/wiki/Fisker_Inc.)
 * [Gillig](https://en.wikipedia.org/wiki/Gillig)
 * [Hyperloop](https://en.wikipedia.org/wiki/Hyperloop)
+* [Hyzon Motors](https://en.wikipedia.org/wiki/Hyzon_Motors)
 * [Mobileye](https://en.wikipedia.org/wiki/Mobileye)
 * [New Flyer](https://en.wikipedia.org/wiki/New_Flyer)
 * [Innoviz](https://innoviz.tech/)
