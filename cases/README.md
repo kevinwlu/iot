@@ -34,6 +34,7 @@
     * [InterNano](https://www.internano.org/)
   * [Swift Solar](https://www.swiftsolar.com/)
   * [Ubiquitous Energy](https://ubiquitous.energy/)
+* [Raven SR](https://ravensr.com/)
 * [Sol Systems](https://www.solsystems.com/)
 * [Solar geoengineering](https://en.wikipedia.org/wiki/Solar_geoengineering)
 * [Space mirror (climate engineering)](https://en.wikipedia.org/wiki/Space_mirror_(climate_engineering))
