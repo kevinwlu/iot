@@ -146,6 +146,7 @@
 * [Environmental, social and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
 * [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)
 * [Ecosia](https://en.wikipedia.org/wiki/Ecosia)
+* [Living Tomorrow](https://en.wikipedia.org/wiki/Living_Tomorrow)
 * [Miniwiz](https://en.wikipedia.org/wiki/Miniwiz)
 * [Neeva](https://neeva.com/)
 * [Persistent organic pollutant](https://en.wikipedia.org/wiki/Persistent_organic_pollutant) (POP)
