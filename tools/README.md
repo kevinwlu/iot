@@ -43,6 +43,7 @@
 * [Diversity, equity, and inclusion](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion)
 * [Ongig](https://www.ongig.com/)
 ## Finite Element Analysis
+* [Finite element method](https://en.wikipedia.org/wiki/Finite_element_method) (FEM)
 * [COMSOL Multiphysics](https://en.wikipedia.org/wiki/COMSOL_Multiphysics)
 ## Object Detection and Facial Recognition
 * [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
