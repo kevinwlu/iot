@@ -85,7 +85,9 @@
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
 ## Transportation: Air
 * [List of electric aircraft](https://en.wikipedia.org/wiki/List_of_electric_aircraft)
+* [AFWERX](https://en.wikipedia.org/wiki/AFWERX)
 * [Airworthiness](https://en.wikipedia.org/wiki/Airworthiness)
+* [Elroy Air](https://en.wikipedia.org/wiki/Elroy_Air_Chaparral)
 * [eVTOL](https://en.wikipedia.org/wiki/EVTOL) (electric vertical take-off and landing) aircraft
 * [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
 * [Archer Aviation](https://www.archer.com/)
