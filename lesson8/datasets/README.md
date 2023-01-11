@@ -11,6 +11,7 @@
 * [Data.census.gov](https://data.census.gov/cedsci/) by the U.S. Census Bureau
 * [Data Science Central](https://www.datasciencecentral.com/profiles/blogs/great-sensor-datasets-to-prepare-your-next-career-move-in-iot-int)
 * [DBpedia](https://www.dbpedia.org/)
+* [Demographics of the United States](https://en.wikipedia.org/wiki/Demographics_of_the_United_States)
 * [Gapminder](https://www.gapminder.org/data/)
 * [Google Public Data](https://www.google.com/publicdata/directory)
 * [IEEE DataPort Datasets](https://ieee-dataport.org/datasets)
