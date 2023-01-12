@@ -75,6 +75,7 @@
 ## Residential
 * [Boxabl](https://www.boxabl.com/)
 * [Chirp](https://en.wikipedia.org/wiki/Chirp_(company))
+* [Enabot](https://na.enabot.com/)
 * [Lawna](https://www.lawnatech.com/)
 * [MagicMirror](https://magicmirror.builders/)
 * [Otter](https://withotter.com/)
