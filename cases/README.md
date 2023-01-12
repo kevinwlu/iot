@@ -135,6 +135,7 @@
 * [Rivian](https://en.wikipedia.org/wiki/Rivian)
 * [Sonatus](https://www.sonatus.com/)
 * [Tesla Autopilot](https://en.wikipedia.org/wiki/Tesla_Autopilot)
+* [Tevva](https://www.tevva.com/en)
 * [The Boring Company](https://en.wikipedia.org/wiki/The_Boring_Company)
 * [Torc Robotics](https://en.wikipedia.org/wiki/Torc_Robotics)
 * [Velodyne Lidar](https://en.wikipedia.org/wiki/Velodyne_Lidar)
