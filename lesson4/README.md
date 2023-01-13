@@ -81,11 +81,13 @@
   * [Digital twin](https://en.wikipedia.org/wiki/Digital_twin)
   * [Persistence](https://en.wikipedia.org/wiki/Persistence_(computer_science)) 
   * [Persistent world](https://en.wikipedia.org/wiki/Persistent_world)
-  * [MIROS](https://miros.technology/) (Multiscale Interactive Robotic Surface)
   * [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)
   * [Second Life](https://en.wikipedia.org/wiki/Second_Life)
   * [Roblox](https://en.wikipedia.org/wiki/Roblox)
   * [VRChat](https://en.wikipedia.org/wiki/VRChat)
+* [Human interface device](https://en.wikipedia.org/wiki/Human_interface_device) (HID)
+  * [Degrees of freedom (mechanics)](https://en.wikipedia.org/wiki/Degrees_of_freedom_(mechanics)) (DOF)
+  * [MIROS](https://miros.technology/) (Multiscale Interactive Robotic Surface)
   * [Ultraleap](https://en.wikipedia.org/wiki/Leap_Motion)
 ## Labs 4A and 4B: Django and Django REST
 ### 1. Install Django and Django REST framework on Raspberry Pi
