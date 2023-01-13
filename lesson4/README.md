@@ -79,6 +79,7 @@
   * [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) (VR)
   * [Mixed reality](https://en.wikipedia.org/wiki/Mixed_reality) (MR)
   * [Digital twin](https://en.wikipedia.org/wiki/Digital_twin)
+  * [Ultraleap](https://en.wikipedia.org/wiki/Leap_Motion)
   * [Persistence](https://en.wikipedia.org/wiki/Persistence_(computer_science)) 
   * [Persistent world](https://en.wikipedia.org/wiki/Persistent_world)
   * [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash)
