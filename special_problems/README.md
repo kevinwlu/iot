@@ -11,6 +11,8 @@
 * [FERET facial recognition technology](https://en.wikipedia.org/wiki/FERET_(facial_recognition_technology))
 * [FERET database](https://en.wikipedia.org/wiki/FERET_database)
 
+## 2023 Spring
+
 ## 2022 Fall
 
 * [Wireless Online Shopping for Visually Impaired People Using Natural Language Processing and Face Recognition Mechanism](https://github.com/kiratjadhav/Wireless-Online-Shopping-for-Visually-Impaired-People-Using-Natural-Language-Processing-and-Face-Rec)
