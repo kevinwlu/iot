@@ -1,6 +1,7 @@
 # Use Cases
 
 ## Agriculture
+* [Arable](https://www.arable.com/)
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
 ## Communications
 * [0G Project](http://n4wwwgzppoxfqgh4d37fjl4yanfiwhdr3rocjegzpyhlu2wesmrbknad.onion.ly/)
