@@ -36,6 +36,7 @@
     * [InterNano](https://www.internano.org/)
   * [Swift Solar](https://www.swiftsolar.com/)
   * [Ubiquitous Energy](https://ubiquitous.energy/)
+* [Nighttime photovoltaic (PV) cells](https://aip.scitation.org/doi/10.1063/5.0085205)
 * [Raven SR](https://ravensr.com/)
 * [Sol Systems](https://www.solsystems.com/)
 * [Solar geoengineering](https://en.wikipedia.org/wiki/Solar_geoengineering)
