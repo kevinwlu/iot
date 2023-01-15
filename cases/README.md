@@ -162,5 +162,6 @@
   * [Per- and polyfluoroalkyl substances](https://en.wikipedia.org/wiki/Per-_and_polyfluoroalkyl_substances) (PFAS)
   * [Perfluorooctanesulfonic acid](https://en.wikipedia.org/wiki/Perfluorooctanesulfonic_acid) (PFOS)
   * [Perfluorooctanoic acid](https://en.wikipedia.org/wiki/Perfluorooctanoic_acid) (PFOA)
+* [Phthalate](https://en.wikipedia.org/wiki/Phthalate)
 * [You.com](https://you.com/)
 * [Zero Emissions Research and Initiatives](https://en.wikipedia.org/wiki/Zero_Emissions_Research_and_Initiatives) (ZERI)
