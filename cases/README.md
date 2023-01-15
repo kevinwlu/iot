@@ -151,7 +151,7 @@
 * [Zoox](https://en.wikipedia.org/wiki/Zoox_(company))
 ## Other
 * [Corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility) (CSR)
-* [Environmental, social and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
+* [Environmental, social, and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
   * [Chlorofluorocarbon](https://en.wikipedia.org/wiki/Chlorofluorocarbon) (CFC)
   * [Tetraethyllead](https://en.wikipedia.org/wiki/Tetraethyllead) (TEL)
   * [Persistent organic pollutant](https://en.wikipedia.org/wiki/Persistent_organic_pollutant) (POP)
