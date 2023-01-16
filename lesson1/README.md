@@ -89,7 +89,7 @@
   | 2 | Single | Local | Cloud | Smart Irrigation |
   | 1 | Single | Local | Local | Home Automation |
 
-* [Orchestration](https://en.wikipedia.org/wiki/Orchestration_(computing))
+* [Orchestration (computing)](https://en.wikipedia.org/wiki/Orchestration_(computing))
 * [As a service](https://en.wikipedia.org/wiki/As_a_service)
 * [Service economy](https://en.wikipedia.org/wiki/Service_economy)
 * [Quality of service](https://en.wikipedia.org/wiki/Quality_of_service) (QoS)
