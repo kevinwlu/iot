@@ -55,6 +55,8 @@
   * [Web 2.0](https://en.wikipedia.org/wiki/Web_2.0)
   * [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web)
   * [Web3](https://en.wikipedia.org/wiki/Web3)
+    * [Brave (web browser)](https://en.wikipedia.org/wiki/Brave_(web_browser))
+    * [Opera (web browser)](https://en.wikipedia.org/wiki/Opera_(web_browser))
   * [Clearnet](https://en.wikipedia.org/wiki/Clearnet_(networking)) refers to the publicly accessible internet
   * [Surface web](https://en.wikipedia.org/wiki/Surface_web) is readily available to the general public and searchable with standard web search engines
   * [Deep web](https://en.wikipedia.org/wiki/Deep_web) refers to the contents that are not indexed by standard web search-engines
