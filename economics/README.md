@@ -18,4 +18,4 @@
 * [Rate of return](https://en.wikipedia.org/wiki/Rate_of_return)
 * [Return on investment](https://en.wikipedia.org/wiki/Return_on_investment) (ROI)
 * [Time value of money](https://en.wikipedia.org/wiki/Time_value_of_money)
-* [World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum)
+* [World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum) (WEF)
