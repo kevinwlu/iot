@@ -146,6 +146,7 @@ Electrical Engineering EE 629
 * [TinyML](https://github.com/mit-han-lab/tinyml)
 
 ## Regulations
+* [Americans with Disabilities Act of 1990](https://en.wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990) (ADA)
 * [Artificial Intelligence Act](https://en.wikipedia.org/wiki/Artificial_Intelligence_Act)
 * [Cybersecurity regulation](https://en.wikipedia.org/wiki/Cyber-security_regulation)
   * [Internet of Things Cybersecurity Improvement Act](https://www.congress.gov/bill/116th-congress/house-bill/1668)
