@@ -44,7 +44,6 @@
 * [Space mirror (climate engineering)](https://en.wikipedia.org/wiki/Space_mirror_(climate_engineering))
 * [Space-based solar power](https://en.wikipedia.org/wiki/Space-based_solar_power)
   * [Caltech Space Solar Power Project](https://www.spacesolar.caltech.edu/)
-
 ## Enterprise
 * [Gig worker](https://en.wikipedia.org/wiki/Gig_worker)
 * [List of gig economy companies](https://en.wikipedia.org/wiki/List_of_gig_economy_companies)
@@ -110,6 +109,7 @@
 * [Lilium Jet](https://en.wikipedia.org/wiki/Lilium_Jet)
 * [Vertical Aerospace](https://en.wikipedia.org/wiki/Vertical_Aerospace)
 * [Volocopter](https://en.wikipedia.org/wiki/Volocopter)
+* [ZeroAvia](https://en.wikipedia.org/wiki/ZeroAvia)
 * [Zunum Aero](https://en.wikipedia.org/wiki/Zunum_Aero)
 ## Transportation: Ground
 * [Drivetrain](https://en.wikipedia.org/wiki/Drivetrain)
