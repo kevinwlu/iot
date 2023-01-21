@@ -39,6 +39,8 @@
   * [Ubiquitous Energy](https://ubiquitous.energy/)
 * [Nighttime photovoltaic (PV) cells](https://aip.scitation.org/doi/10.1063/5.0085205)
 * [Raven SR](https://ravensr.com/)
+* [Solar cell](https://en.wikipedia.org/wiki/Solar_cell)
+  * [Hanwha Group](https://en.wikipedia.org/wiki/Hanwha_Group)
 * [Sol Systems](https://www.solsystems.com/)
 * [Solar geoengineering](https://en.wikipedia.org/wiki/Solar_geoengineering)
 * [Space mirror (climate engineering)](https://en.wikipedia.org/wiki/Space_mirror_(climate_engineering))
