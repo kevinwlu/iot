@@ -138,6 +138,7 @@
     * [ChatGPT](https://openai.com/blog/chatgpt)
     * [DALL-E](https://en.wikipedia.org/wiki/DALL-E)
   * [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg)
+  * [GPTZero](https://gptzero.me/)
   * [Originality.AI](https://originality.ai/)
   * [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
   * [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
