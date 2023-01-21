@@ -16,6 +16,7 @@
   * [Lumosity](https://www.lumosity.com/en/)
 * [Telit](https://en.wikipedia.org/wiki/Telit)
 ## Energy
+* [AMOGY](https://amogy.co/)
 * [CATL](https://en.wikipedia.org/wiki/CATL)
 * [ChargePoint](https://en.wikipedia.org/wiki/ChargePoint)
 * [Charging station](https://en.wikipedia.org/wiki/Charging_station)
@@ -40,6 +41,7 @@
 * [Nighttime photovoltaic (PV) cells](https://aip.scitation.org/doi/10.1063/5.0085205)
 * [Raven SR](https://ravensr.com/)
 * [Solar cell](https://en.wikipedia.org/wiki/Solar_cell)
+  * [List of photovoltaics companies](https://en.wikipedia.org/wiki/List_of_photovoltaics_companies)
   * [Hanwha Group](https://en.wikipedia.org/wiki/Hanwha_Group)
 * [Sol Systems](https://www.solsystems.com/)
 * [Solar geoengineering](https://en.wikipedia.org/wiki/Solar_geoengineering)
