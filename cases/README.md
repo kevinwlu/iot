@@ -16,7 +16,7 @@
   * [Lumosity](https://www.lumosity.com/en/)
 * [Telit](https://en.wikipedia.org/wiki/Telit)
 ## Energy
-* [AMOGY](https://amogy.co/)
+* [Amogy](https://amogy.co/)
 * [CATL](https://en.wikipedia.org/wiki/CATL)
 * [ChargePoint](https://en.wikipedia.org/wiki/ChargePoint)
 * [Charging station](https://en.wikipedia.org/wiki/Charging_station)
