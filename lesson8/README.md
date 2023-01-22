@@ -136,6 +136,7 @@
     * [OpenAI Codex](https://openai.com/blog/openai-codex/)
     * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
     * [ChatGPT](https://openai.com/blog/chatgpt)
+      * [Language model](https://en.wikipedia.org/wiki/Language_model)
     * [DALL-E](https://en.wikipedia.org/wiki/DALL-E)
   * [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
   * [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
