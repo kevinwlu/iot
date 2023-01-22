@@ -126,6 +126,7 @@
   * [AlphaZero](https://en.wikipedia.org/wiki/AlphaZero)
   * [WaveNet](https://en.wikipedia.org/wiki/WaveNet)
   * [MindSpore](https://github.com/mindspore-ai/mindspore) deep learning training/inference framework
+  * [ELIZA](https://en.wikipedia.org/wiki/ELIZA)
   * [Language model](https://en.wikipedia.org/wiki/Language_model) (LM)
   * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
     * [AI Hub](https://aihub.cloud.google.com/u/0/)
