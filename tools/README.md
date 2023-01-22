@@ -33,8 +33,8 @@
 * [Content similarity detection](https://en.wikipedia.org/wiki/Content_similarity_detection)
 * [Comparison of anti-plagiarism software](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software)
   * Turnitin](https://en.wikipedia.org/wiki/Turnitin)
-* [Originality.AI](https://originality.ai/)
 * [VeriGuide](https://veriguide1.cse.cuhk.edu.hk/portal/plagiarism_detection/index.jsp)
+* [Originality.AI](https://originality.ai/)
 * [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg)
 * [GPTZero](https://gptzero.me/)
 ## Data Analysis and Visulization
