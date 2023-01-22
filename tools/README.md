@@ -32,11 +32,11 @@
 ## Content Similarity Detection
 * [Content similarity detection](https://en.wikipedia.org/wiki/Content_similarity_detection)
 * [Comparison of anti-plagiarism software](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software)
-* [Turnitin](https://en.wikipedia.org/wiki/Turnitin)
-* [VeriGuide](https://veriguide1.cse.cuhk.edu.hk/portal/plagiarism_detection/index.jsp)
 * [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg)
 * [GPTZero](https://gptzero.me/)
 * [Originality.AI](https://originality.ai/)
+* [Turnitin](https://en.wikipedia.org/wiki/Turnitin)
+* [VeriGuide](https://veriguide1.cse.cuhk.edu.hk/portal/plagiarism_detection/index.jsp)
 ## Data Analysis and Visulization
 * [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
 * [Google Marketing Platform](https://en.wikipedia.org/wiki/Google_Marketing_Platform)
