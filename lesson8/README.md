@@ -126,6 +126,7 @@
   * [AlphaZero](https://en.wikipedia.org/wiki/AlphaZero)
   * [WaveNet](https://en.wikipedia.org/wiki/WaveNet)
   * [MindSpore](https://github.com/mindspore-ai/mindspore) deep learning training/inference framework
+  * [Language model](https://en.wikipedia.org/wiki/Language_model) (LM)
   * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
     * [AI Hub](https://aihub.cloud.google.com/u/0/)
     * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
@@ -136,7 +137,6 @@
     * [OpenAI Codex](https://openai.com/blog/openai-codex/)
     * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
     * [ChatGPT](https://openai.com/blog/chatgpt)
-      * [Language model](https://en.wikipedia.org/wiki/Language_model) (LM)
     * [DALL-E](https://en.wikipedia.org/wiki/DALL-E)
   * [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
   * [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
