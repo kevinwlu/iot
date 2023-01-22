@@ -1,5 +1,12 @@
 # Tools
+* [Ansatz](https://en.wikipedia.org/wiki/Ansatz)
 * [Back-of-the-envelope calculation](https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation)
+* [Guesstimate](https://en.wikipedia.org/wiki/Guesstimate)
+* [Heuristic](https://en.wikipedia.org/wiki/Heuristic)
+* [Rule of thumb](https://en.wikipedia.org/wiki/Rule_of_thumb)
+* [Scale analysis (mathematics)](https://en.wikipedia.org/wiki/Scale_analysis_(mathematics))
+* [Sanity check](https://en.wikipedia.org/wiki/Sanity_check)
+* [Trial and error](https://en.wikipedia.org/wiki/Trial_and_error)
 ## App Development
 * [App Inventor for Android](https://en.wikipedia.org/wiki/App_Inventor_for_Android)
 * [MIT App Inventor](https://appinventor.mit.edu/)
