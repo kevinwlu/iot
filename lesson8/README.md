@@ -129,6 +129,8 @@
   * [ELIZA](https://en.wikipedia.org/wiki/ELIZA)
   * [Language model](https://en.wikipedia.org/wiki/Language_model) (LM)
     * [The Dark Risk of Large Language Models](https://www.wired.com/story/large-language-models-artificial-intelligence/)
+  * [Alegion](https://www.alegion.com/)
+    * [Language Model Scaling Laws and GPT-3](https://towardsdatascience.com/language-model-scaling-laws-and-gpt-3-5cdc034e67bb)
   * [DeepMind](https://en.wikipedia.org/wiki/DeepMind)
     * [Ethical and Social Risks of Harm From Language Models](https://arxiv.org/abs/2112.04359)
   * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
