@@ -22,6 +22,7 @@
 * [OpenAI](https://openai.com/)
 * [Open Neural Network Exchange](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (ONNX)
 * [Stability AI](https://stability.ai/)
+* [Turing test](https://en.wikipedia.org/wiki/Turing_test)
 ## Chat
 * [Comparison of Internet Relay Chat clients](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients)
 * [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat) (IRC)
