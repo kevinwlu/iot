@@ -126,6 +126,7 @@
   * [AlphaZero](https://en.wikipedia.org/wiki/AlphaZero)
   * [WaveNet](https://en.wikipedia.org/wiki/WaveNet)
   * [MindSpore](https://github.com/mindspore-ai/mindspore) deep learning training/inference framework
+  * [Turing test](https://en.wikipedia.org/wiki/Turing_test)
   * [ELIZA](https://en.wikipedia.org/wiki/ELIZA)
   * [Language model](https://en.wikipedia.org/wiki/Language_model) (LM)
     * [The Dark Risk of Large Language Models](https://www.wired.com/story/large-language-models-artificial-intelligence/)
