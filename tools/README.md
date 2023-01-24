@@ -7,6 +7,10 @@
 * [Scale analysis (mathematics)](https://en.wikipedia.org/wiki/Scale_analysis_(mathematics))
 * [Sanity check](https://en.wikipedia.org/wiki/Sanity_check)
 * [Trial and error](https://en.wikipedia.org/wiki/Trial_and_error)
+## 3D Printing
+* [3D printing](https://en.wikipedia.org/wiki/3D_printing)
+* [List of 3D printer manufacturers](https://en.wikipedia.org/wiki/List_of_3D_printer_manufacturers)
+* [Ultimaker](https://en.wikipedia.org/wiki/Ultimaker)
 ## App Development
 * [App Inventor for Android](https://en.wikipedia.org/wiki/App_Inventor_for_Android)
 * [MIT App Inventor](https://appinventor.mit.edu/)
