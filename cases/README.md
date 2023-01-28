@@ -160,6 +160,7 @@
 * [Wejo](https://en.wikipedia.org/wiki/Wejo)
 * [Zoox](https://en.wikipedia.org/wiki/Zoox_(company))
 ## Transportation: Water
+* [Blue economy](https://en.wikipedia.org/wiki/Blue_economy)
 * [Oru Kayak](https://www.orukayak.com/)
 * [Porrima](https://www.porrima.ch/en/)
 ## Other
