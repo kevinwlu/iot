@@ -161,6 +161,7 @@
 * [Zoox](https://en.wikipedia.org/wiki/Zoox_(company))
 ## Transportation: Water
 * [Oru Kayak](https://www.orukayak.com/)
+* [Porrima](https://www.porrima.ch/en/)
 ## Other
 * [Corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility) (CSR)
 * [Environmental, social, and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
