@@ -53,8 +53,9 @@
 * [Originality.AI](https://originality.ai/)
 * [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg)
 * [GPTZero](https://gptzero.me/)
-  * [Perplexity](https://en.wikipedia.org/wiki/Perplexity) (*PP*)
+  * [Perplexity](https://en.wikipedia.org/wiki/Perplexity) (*PP*) is a measurement of the randomness of the text
     > A low perplexity indicates the probability distribution is good at predicting the sample.
+  * [Burstiness](https://en.wikipedia.org/wiki/Burstiness) is a measurement of the variation in perplexity
 ## Data Analysis and Visulization
 * [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
 * [Google Marketing Platform](https://en.wikipedia.org/wiki/Google_Marketing_Platform)
