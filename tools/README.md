@@ -54,6 +54,7 @@
 * [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg)
 * [GPTZero](https://gptzero.me/)
   * [Perplexity](https://en.wikipedia.org/wiki/Perplexity)
+    > A low perplexity indicates the probability distribution is good at predicting the sample.
 ## Data Analysis and Visulization
 * [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
 * [Google Marketing Platform](https://en.wikipedia.org/wiki/Google_Marketing_Platform)
