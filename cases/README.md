@@ -29,6 +29,7 @@
   * [Wave power](https://en.wikipedia.org/wiki/Wave_power)
 * [Element 25](https://www.element25.com.au/)
 * [Form Energy](https://en.wikipedia.org/wiki/Form_Energy)
+* [Fuel cell](https://en.wikipedia.org/wiki/Fuel_cell)
 * [Fusion power](https://en.wikipedia.org/wiki/Fusion_power)
   * [First Light Fusion](https://firstlightfusion.com/)
   * [General Fusion](https://en.wikipedia.org/wiki/General_Fusion)
