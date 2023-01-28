@@ -65,6 +65,7 @@
 * [Niftify](https://www.niftify.io/)
 * [OpenSea](https://en.wikipedia.org/wiki/OpenSea)
 ## Healthcare
+* [Airgami](https://www.airgami.life/)
 * [Epic Systems](https://en.wikipedia.org/wiki/Epic_Systems)
 * [GNU Health](https://en.wikipedia.org/wiki/GNU_Health)
 * [iollo](https://www.iollo.com/)
