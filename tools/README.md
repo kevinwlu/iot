@@ -53,6 +53,7 @@
 * [Originality.AI](https://originality.ai/)
 * [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg)
 * [GPTZero](https://gptzero.me/)
+  * [Perplexity](https://en.wikipedia.org/wiki/Perplexity)
 ## Data Analysis and Visulization
 * [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
 * [Google Marketing Platform](https://en.wikipedia.org/wiki/Google_Marketing_Platform)
