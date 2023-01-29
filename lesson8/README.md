@@ -149,6 +149,7 @@
     * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
     * [ChatGPT](https://openai.com/blog/chatgpt)
     * [DALL-E](https://en.wikipedia.org/wiki/DALL-E)
+  * [Anthropic](https://www.anthropic.com/)
   * [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
   * [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
   * [Deepfake](https://en.wikipedia.org/wiki/Deepfake)
