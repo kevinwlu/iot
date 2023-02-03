@@ -94,6 +94,7 @@
 * [Ocado](https://en.wikipedia.org/wiki/Ocado)
 ## Robotics
 * [Ameca](https://www.engineeredarts.co.uk/robot/ameca/)
+* [Apptronik](https://apptronik.com/)
 * [Intrinsic](https://intrinsic.ai/)
 * [Open Robotics](https://en.wikipedia.org/wiki/Open_Robotics)
 * [Optimus (robot)](https://en.wikipedia.org/wiki/Optimus_(robot))
