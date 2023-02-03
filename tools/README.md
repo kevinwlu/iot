@@ -21,7 +21,7 @@
 ## Artificial Intelligence
 * [AI Query](https://www.aiquery.co/)
 * [AI Code Reviewer](https://ai-code-reviewer.com/)
-* [GPTZero](https://gptzero.me/)
+* [GPTZero](https://gptzero.me/) requires at least 250 characters
 * [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot)
 * [Google AI](https://ai.google/tools/)
 * [Google Research](https://research.google/tools/)
