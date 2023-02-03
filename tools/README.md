@@ -28,7 +28,7 @@
 * [Ghostwriter](https://replit.com/site/ghostwriter) by [Replit](https://en.wikipedia.org/wiki/Replit)
 * [HTTPie](https://httpie.io/)
 * [OpenAI](https://openai.com/)
-  * [AI Text Classifier](https://platform.openai.com/ai-text-classifier)
+  * [AI Text Classifier](https://platform.openai.com/ai-text-classifier) requires at least 1,000 characters
   * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
 * [Open Neural Network Exchange](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (ONNX)
 * [Stability AI](https://stability.ai/)
