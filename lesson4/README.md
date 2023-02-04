@@ -66,6 +66,7 @@
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (JS)
 * [JavaScript Object Notation](https://en.wikipedia.org/wiki/JSON) (JSON)
 * [Application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface) (API)
+* [Middleware](https://en.wikipedia.org/wiki/Middleware)
 * [Internet Engineering Task Force](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (IETF)
   * [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (HTTP)
   * [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
