@@ -10,6 +10,8 @@
 * [0G Project](http://n4wwwgzppoxfqgh4d37fjl4yanfiwhdr3rocjegzpyhlu2wesmrbknad.onion.ly/)
 * [Tor](https://en.wikipedia.org/wiki/Tor_(network))
 * [Ukama](https://www.ukama.com/)
+## Cybersecurity
+* [VicOne](https://vicone.com/)
 ## Education
 * [Labster](https://www.labster.com/)
 * [Riiid](https://riiid.com/)
