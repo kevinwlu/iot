@@ -1,5 +1,6 @@
 # Lesson 3: Python
 
+* [High-level programming language](https://en.wikipedia.org/wiki/High-level_programming_language) as opposed to [Low-level programming language](https://en.wikipedia.org/wiki/Low-level_programming_language)
 * [Why is it called Python](https://docs.python.org/3/faq/general.html)?
   > When he began implementing [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) was also reading the published scripts from “*[Monty Python’s Flying Circus](https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus)*,” a BBC [(sketch) comedy](https://en.wikipedia.org/wiki/Sketch_comedy) series from the 1970s. Van Rossum thought he needed a name that was short, unique, and slightly mysterious, so he decided to call the language Python.
 * [Monty Python](https://en.wikipedia.org/wiki/Monty_Python)
@@ -14,8 +15,6 @@
   * [PyPI](https://en.wikipedia.org/wiki/Python_Package_Index) (Python Package Index))
   * [Keyboard interrupt](https://en.wikipedia.org/wiki/Keyboard_interrupt)
   * [Control-C](https://en.wikipedia.org/wiki/Control-C)
-* [High-level programming language](https://en.wikipedia.org/wiki/High-level_programming_language)
-* [Low-level programming language](https://en.wikipedia.org/wiki/Low-level_programming_language)
 * [Data type](https://en.wikipedia.org/wiki/Data_type)
 * [Data structure](https://en.wikipedia.org/wiki/Data_structure)
 * [List of data structures](https://en.wikipedia.org/wiki/List_of_data_structures)
