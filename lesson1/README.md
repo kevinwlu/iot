@@ -93,8 +93,11 @@
 * [As a service](https://en.wikipedia.org/wiki/As_a_service)
 * [Service economy](https://en.wikipedia.org/wiki/Service_economy)
 * [Quality of service](https://en.wikipedia.org/wiki/Quality_of_service) (QoS)
+* [Comparison of computer viruses](https://en.wikipedia.org/wiki/Comparison_of_computer_viruses)
+* [Comparison of antivirus software](https://en.wikipedia.org/wiki/Comparison_of_antivirus_software)
 * [Authentication, Authorization, and Accounting](https://en.wikipedia.org/wiki/AAA_(computer_security)) (AAA)
-* NIST [cloud security](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/cloud-security)
+* [Cloud computing security](https://en.wikipedia.org/wiki/Cloud_computing_security)
+  * NIST [cloud security](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/cloud-security)
 * [Secure access service edge](https://en.wikipedia.org/wiki/Secure_access_service_edge) (SASE)
 * [Privacy-enhancing technologies](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies) (PET)
 ## Lab Primer
