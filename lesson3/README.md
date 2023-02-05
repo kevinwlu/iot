@@ -14,6 +14,8 @@
   * [PyPI](https://en.wikipedia.org/wiki/Python_Package_Index) (Python Package Index))
   * [Keyboard interrupt](https://en.wikipedia.org/wiki/Keyboard_interrupt)
   * [Control-C](https://en.wikipedia.org/wiki/Control-C)
+* [High-level programming language](https://en.wikipedia.org/wiki/High-level_programming_language)
+* [Low-level programming language](https://en.wikipedia.org/wiki/Low-level_programming_language)
 * [Data type](https://en.wikipedia.org/wiki/Data_type)
 * [Data structure](https://en.wikipedia.org/wiki/Data_structure)
 * [List of data structures](https://en.wikipedia.org/wiki/List_of_data_structures)
