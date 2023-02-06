@@ -53,6 +53,7 @@
   * [Hanwha Group](https://en.wikipedia.org/wiki/Hanwha_Group)
 * [Solar geoengineering](https://en.wikipedia.org/wiki/Solar_geoengineering)
 * [Solid-state battery](https://en.wikipedia.org/wiki/Solid-state_battery)
+  * [Factorial](https://factorialenergy.com/)
   * [Solid Power](https://www.solidpowerbattery.com/)
 * [Space mirror (climate engineering)](https://en.wikipedia.org/wiki/Space_mirror_(climate_engineering))
 * [Space-based solar power](https://en.wikipedia.org/wiki/Space-based_solar_power)
