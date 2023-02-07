@@ -27,6 +27,7 @@
 * [Google Research](https://research.google/tools/)
 * [Ghostwriter](https://replit.com/site/ghostwriter) by [Replit](https://en.wikipedia.org/wiki/Replit)
 * [HTTPie](https://httpie.io/)
+* [Natural language generation](https://en.wikipedia.org/wiki/Natural_language_generation) (NLG)
 * [OpenAI](https://openai.com/)
   * [AI Text Classifier](https://platform.openai.com/ai-text-classifier) requires at least 1,000 characters, which is approximately 150 - 250 words
   * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
