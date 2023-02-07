@@ -76,6 +76,9 @@
 * [OpenMV](https://github.com/openmv/openmv)
 ## Problem and Decision Analysis
 * [Kepner-Tregoe](https://kepner-tregoe.com/) (KT)
+## Proof Assitant
+* [Proof assistant](https://en.wikipedia.org/wiki/Proof_assistant)
+* [Coq](https://en.wikipedia.org/wiki/Coq)
 ## Robotics
 * [Gazebo simulator](https://en.wikipedia.org/wiki/Gazebo_simulator)
 * [Robot Operating System](https://en.wikipedia.org/wiki/Robot_Operating_System) (ROS)
