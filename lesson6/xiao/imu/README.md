@@ -7,4 +7,6 @@
 * [Shannon–Hartley theorem](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
 * [Wafer-Level-Packaged HARPSS+ MEMS Platform: Integration of Robust Timing and Inertial Measurement Units (TIMU) on a Single Chip](https://www.semanticscholar.org/paper/Wafer-level-packaged-HARPSS%2B-MEMS-platform%3A-of-and-Wen-Daruwalla/aad5b1c28dc1c65b1f3f1b01a1d1009b6e5822e6)
   * [Farrokh Ayazi](https://en.wikipedia.org/wiki/Farrokh_Ayazi)
+    * [Publications and Patents](https://www.ece.gatech.edu/faculty-staff-directory/farrokh-ayazi)
+  * [StethX Microsystems Wins Defense Innovation Award](https://atdc.org/blog/stethx-microsystems-wins-defense-innovation-award/)
 * [Deconstructing Commercial Wearable Technology: Contributions Toward Accurate and Free-Living Monitoring of Sleep](https://www.mdpi.com/1424-8220/21/15/5071/htm)
