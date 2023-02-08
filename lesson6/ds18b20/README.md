@@ -19,3 +19,4 @@
 * [Using a Thermistor](https://learn.adafruit.com/thermistor/using-a-thermistor)
   * [thermistor-1.ino](/lesson6/xiao/fft/thermistor-1.ino)
 * [Make an Arduino Temperature Sensor (Thermistor Tutorial)](https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/)
+  * [Steinhart–Hart equation](https://en.wikipedia.org/wiki/Steinhart%E2%80%93Hart_equation)
