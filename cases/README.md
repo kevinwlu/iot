@@ -52,7 +52,7 @@
   * [List of photovoltaics companies](https://en.wikipedia.org/wiki/List_of_photovoltaics_companies)
   * [Hanwha Group](https://en.wikipedia.org/wiki/Hanwha_Group)
 * [Solar geoengineering](https://en.wikipedia.org/wiki/Solar_geoengineering)
-* [Solid-state battery](https://en.wikipedia.org/wiki/Solid-state_battery)
+* [Solid-state battery](https://en.wikipedia.org/wiki/Solid-state_battery) (SSB)
   * [Factorial](https://factorialenergy.com/)
   * [Solid Power](https://www.solidpowerbattery.com/)
 * [Space mirror (climate engineering)](https://en.wikipedia.org/wiki/Space_mirror_(climate_engineering))
