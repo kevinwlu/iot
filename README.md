@@ -103,6 +103,7 @@ Electrical Engineering EE 629
   * [Snake case](https://en.wikipedia.org/wiki/Snake_case)
   * [Octodex](https://octodex.github.com/)
   * [GitHub Pages](https://pages.github.com/)
+  * [Jekyll](https://en.wikipedia.org/wiki/Jekyll_(software))
   * [GitHub Copilot](https://copilot.github.com/)
   * [Git Large File Storage (LFS)](https://git-lfs.github.com/)
 * [Comparison of source-code-hosting facilities](https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities)
