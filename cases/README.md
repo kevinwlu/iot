@@ -47,6 +47,7 @@
   * [Ubiquitous Energy](https://ubiquitous.energy/)
 * [Nighttime photovoltaic (PV) cells](https://aip.scitation.org/doi/10.1063/5.0085205)
 * [Raven SR](https://ravensr.com/)
+* [Redwood Materials](https://en.wikipedia.org/wiki/Redwood_Materials,_Inc.)
 * [Sol Systems](https://www.solsystems.com/)
 * [Solar cell](https://en.wikipedia.org/wiki/Solar_cell)
   * [List of photovoltaics companies](https://en.wikipedia.org/wiki/List_of_photovoltaics_companies)
