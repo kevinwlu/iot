@@ -9,6 +9,7 @@
 * [Economies of scale](https://en.wikipedia.org/wiki/Economies_of_scale)
 * [Economies of scope](https://en.wikipedia.org/wiki/Economies_of_scope)
 * [Engineering economics](https://en.wikipedia.org/wiki/Engineering_economics)
+* [Enterprise resource planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning) (ERP)
 * [Generally Accepted Accounting Principles](https://en.wikipedia.org/wiki/Generally_Accepted_Accounting_Principles_(United_States)) (GAAP)
 * [Goodwill](https://en.wikipedia.org/wiki/Goodwill_(accounting))
 * [Income statement](https://en.wikipedia.org/wiki/Income_statement)
