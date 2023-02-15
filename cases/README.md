@@ -104,6 +104,8 @@
 * [Intrinsic](https://intrinsic.ai/)
 * [Open Robotics](https://en.wikipedia.org/wiki/Open_Robotics)
 * [Optimus (robot)](https://en.wikipedia.org/wiki/Optimus_(robot))
+## Space
+* [United Launch Alliance](https://en.wikipedia.org/wiki/United_Launch_Alliance) (ULA)
 ## Sports
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
 ## Transportation: Air
