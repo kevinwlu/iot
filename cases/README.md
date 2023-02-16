@@ -117,7 +117,7 @@
 * [eVTOL](https://en.wikipedia.org/wiki/EVTOL) (electric vertical take-off and landing) aircraft
 * [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
 * [Archer Aviation](https://www.archer.com/)
-* [Beta Technologies](https://en.wikipedia.org/wiki/Beta_Technologies)
+* [BETA Technologies](https://en.wikipedia.org/wiki/Beta_Technologies)
 * [Boom Technology](https://en.wikipedia.org/wiki/Boom_Technology)
 * [DLR HY4](https://en.wikipedia.org/wiki/DLR_HY4)
 * [EHang](https://en.wikipedia.org/wiki/EHang)
