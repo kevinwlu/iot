@@ -118,6 +118,7 @@
 * [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
 * [Archer Aviation](https://www.archer.com/)
 * [BETA Technologies](https://en.wikipedia.org/wiki/Beta_Technologies)
+* [BLADE Air Mobility](https://en.wikipedia.org/wiki/Blade_(company))
 * [Boom Technology](https://en.wikipedia.org/wiki/Boom_Technology)
 * [DLR HY4](https://en.wikipedia.org/wiki/DLR_HY4)
 * [EHang](https://en.wikipedia.org/wiki/EHang)
