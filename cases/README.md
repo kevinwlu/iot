@@ -155,6 +155,7 @@
 * [Innoviz](https://innoviz.tech/)
 * [INRIX](https://en.wikipedia.org/wiki/INRIX)
 * [Karma Automotive](https://en.wikipedia.org/wiki/Karma_Automotive)
+* [Lion Electric Company](https://en.wikipedia.org/wiki/Lion_Electric_Company)
 * [Lordstown Motors](https://en.wikipedia.org/wiki/Lordstown_Motors)
 * [Lucid Motors](https://en.wikipedia.org/wiki/Lucid_Motors)
 * [Mojio](https://www.moj.io/)
