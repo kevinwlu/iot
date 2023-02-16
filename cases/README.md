@@ -105,6 +105,7 @@
 * [Open Robotics](https://en.wikipedia.org/wiki/Open_Robotics)
 * [Optimus (robot)](https://en.wikipedia.org/wiki/Optimus_(robot))
 ## Space
+* [Kuiper Systems](https://en.wikipedia.org/wiki/Kuiper_Systems)
 * [United Launch Alliance](https://en.wikipedia.org/wiki/United_Launch_Alliance) (ULA)
 ## Sports
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
