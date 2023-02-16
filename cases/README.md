@@ -143,6 +143,7 @@
 * [Argo AI](https://en.wikipedia.org/wiki/Argo_AI)
 * [Aurora Innovation](https://en.wikipedia.org/wiki/Aurora_Innovation)
 * [Canoo](https://en.wikipedia.org/wiki/Canoo)
+* [Charging station](https://en.wikipedia.org/wiki/Charging_station)
 * [Cruise](https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle))
 * [Elbee](https://www.elbeemobility.com/)
 * [Faraday Future](https://en.wikipedia.org/wiki/Faraday_Future)
