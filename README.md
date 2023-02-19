@@ -48,6 +48,7 @@ Electrical Engineering EE 629
   * [List of Y Combinator startups](https://en.wikipedia.org/wiki/List_of_Y_Combinator_startups)
   * [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
 * [Unicorn](https://en.wikipedia.org/wiki/Unicorn_(finance)) and decacorn
+* [PageRank](https://en.wikipedia.org/wiki/PageRank)
 * [International Forum Design](https://en.wikipedia.org/wiki/International_Forum_Design)
   * [iF Product Design Award](https://en.wikipedia.org/wiki/IF_Product_Design_Award)
 * [Red Dot](https://en.wikipedia.org/wiki/Red_Dot)
