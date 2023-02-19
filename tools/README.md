@@ -71,6 +71,9 @@
 ## Finite Element Analysis
 * [Finite element method](https://en.wikipedia.org/wiki/Finite_element_method) (FEM)
 * [COMSOL Multiphysics](https://en.wikipedia.org/wiki/COMSOL_Multiphysics)
+## Note Taking
+* [Notion](https://en.wikipedia.org/wiki/Notion_(productivity_software))
+* [Obsidian](https://en.wikipedia.org/wiki/Obsidian_(software))
 ## Object Detection and Facial Recognition
 * [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
   * [Local binary patterns](https://en.wikipedia.org/wiki/Local_binary_patterns) (LBP)
@@ -78,8 +81,6 @@
 * [OpenMV](https://github.com/openmv/openmv)
 ## Problem and Decision Analysis
 * [Kepner-Tregoe](https://kepner-tregoe.com/) (KT)
-## Productivity
-* [Notion](https://en.wikipedia.org/wiki/Notion_(productivity_software))
 ## Proof Assitant
 * [Proof assistant](https://en.wikipedia.org/wiki/Proof_assistant)
 * [Coq](https://en.wikipedia.org/wiki/Coq)
