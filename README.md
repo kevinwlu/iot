@@ -59,37 +59,6 @@ Electrical Engineering EE 629
   * [Study finds stronger links between automation and inequality](https://news.mit.edu/2020/study-inks-automation-inequality-0506)
 * [Modular Open Systems Approach](https://ac.cto.mil/mosa/) (MOSA)
 
-## GitHub Basics
-* [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
-  * [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-  * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) (GUI)
-* [Git](https://en.wikipedia.org/wiki/Git)
-  * [Linux](https://en.wikipedia.org/wiki/Linux)
-  * [Software Freedom Conservancy (SFC)](https://en.wikipedia.org/wiki/Software_Freedom_Conservancy)
-* [GitHub](https://en.wikipedia.org/wiki/GitHub)
-  * [Camel case](https://en.wikipedia.org/wiki/Camel_case)
-  * [Snake case](https://en.wikipedia.org/wiki/Snake_case)
-  * [Octodex](https://octodex.github.com/)
-  * [GitHub Pages](https://pages.github.com/)
-  * [Jekyll](https://en.wikipedia.org/wiki/Jekyll_(software))
-  * [GitHub Copilot](https://copilot.github.com/)
-  * [Git Large File Storage (LFS)](https://git-lfs.github.com/)
-* [Comparison of source-code-hosting facilities](https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities)
-  * [Bitbucket](https://en.wikipedia.org/wiki/Bitbucket) was acquired by [Atlassian](https://en.wikipedia.org/wiki/Atlassian) in 2010
-  * [Gitea](https://en.wikipedia.org/wiki/Gitea)
-  * [Gitee](https://gitee.com/)
-  * [GitLab](https://en.wikipedia.org/wiki/GitLab)
-  * [MindSpore](https://www.mindspore.cn/en)
-* [Markdown](https://en.wikipedia.org/wiki/Markdown)
-  * [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-  * [GitLab Flavored Markdown](https://docs.gitlab.com/ee/user/markdown.html)
-* [GIF](https://en.wikipedia.org/wiki/GIF) (Graphics Interchange Format)
-  * [Steve Wilhite](https://en.wikipedia.org/wiki/Steve_Wilhite) 1948&mdash;2022
-  * [Best Tools for Taking and Editing Screenshots in Linux](https://itsfoss.com/take-screenshot-linux/)
-  * [How to Convert Video to GIF in Linux](https://itsfoss.com/convert-video-gif-linux/)
-  * [Making GIFs](https://about.gitlab.com/handbook/product/making-gifs/)
-  * [EZGIF Video to GIF Converter](https://ezgif.com/video-to-gif)
-
 ## Tutorials
 * [AWS IoT Tutorials](https://docs.aws.amazon.com/iot/latest/developerguide/iot-tutorials.html)
 * [Azure IoT Edge](https://docs.microsoft.com/en-us/azure/iot-edge/)
