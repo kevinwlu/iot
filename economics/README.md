@@ -1,5 +1,6 @@
 # Engineering Economics
 * [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet)
+* [Bill of materials](https://en.wikipedia.org/wiki/Bill_of_materials) (BOM)
 * [Cash flow](https://en.wikipedia.org/wiki/Cash_flow)
 * [Contribution margin](https://en.wikipedia.org/wiki/Contribution_margin)
 * [Depreciation](https://en.wikipedia.org/wiki/Depreciation)
