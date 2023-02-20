@@ -19,6 +19,7 @@
   * [Raspberry Pi GitHub repository](https://github.com/raspberrypi)
   * [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
   * [RP2040](https://en.wikipedia.org/wiki/RP2040)
+  * [Picoprobe](https://github.com/raspberrypi/picoprobe)
 * [Free Software Foundation](https://en.wikipedia.org/wiki/Free_Software_Foundation) (FSF)
   * [GNU](https://en.wikipedia.org/wiki/GNU)
   * [GNU Project](https://en.wikipedia.org/wiki/GNU_Project)
