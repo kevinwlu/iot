@@ -12,6 +12,7 @@ Electrical Engineering EE 629
 * [Lesson 9](/lesson9): YANG and Qiskit
 * [Lesson 10](/lesson10): Blockchain
 * [Apps](/apps)
+* [Makeathon](/make)
 * [Projects](/projects)
 * [Special problems](/projects)
 * [Standards](/standards)
