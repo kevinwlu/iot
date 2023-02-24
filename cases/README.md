@@ -81,6 +81,7 @@
 * [OpenSea](https://en.wikipedia.org/wiki/OpenSea)
 ## Healthcare
 * [Airgami](https://www.airgami.life/)
+* [Display screen with light-emitting diodes for ultraviolet disinfection](https://patents.google.com/patent/US9492576B1/en)
 * [Epic Systems](https://en.wikipedia.org/wiki/Epic_Systems)
 * [GNU Health](https://en.wikipedia.org/wiki/GNU_Health)
 * [iollo](https://www.iollo.com/)
