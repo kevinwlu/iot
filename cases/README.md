@@ -122,6 +122,7 @@
 * [Sustainable aviation fuels](https://www.energy.gov/eere/bioenergy/sustainable-aviation-fuels) (SAF)
 * [AFWERX](https://en.wikipedia.org/wiki/AFWERX)
 * [Airworthiness](https://en.wikipedia.org/wiki/Airworthiness)
+* [Bell Textron](https://en.wikipedia.org/wiki/Bell_Textron)
 * [Elroy Air](https://en.wikipedia.org/wiki/Elroy_Air_Chaparral)
 * [eVTOL](https://en.wikipedia.org/wiki/EVTOL) (electric vertical take-off and landing) aircraft
 * [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
