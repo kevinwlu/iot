@@ -42,6 +42,7 @@
   * [General Fusion](https://en.wikipedia.org/wiki/General_Fusion)
   * [Helion Energy](https://en.wikipedia.org/wiki/Helion_Energy)
 * [Fusion ignition](https://en.wikipedia.org/wiki/Fusion_ignition)
+* [Lyten](https://lyten.com/)
 * [MIT ONE Lab](https://www.onelab.mit.edu/)
   * [Thin Film Solar Panels](https://spectrum.ieee.org/thin-film-solar-panels)
     * [Active Surfaces](https://www.active-surfaces.com/en/)
