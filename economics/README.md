@@ -18,6 +18,7 @@
 * [Inflation](https://en.wikipedia.org/wiki/Inflation)
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator) or Key performance indicator (KPI)
 * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
+* [Life-cycle cost](https://en.wikipedia.org/wiki/Whole-life_cost) (LCC)
 * [Limited liability company](https://en.wikipedia.org/wiki/Limited_liability_company) (LLC)
   * [Gesellschaft mit beschränkter Haftung](https://en.wikipedia.org/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung) (GmbH)
 * [Price–earnings ratio](https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio) (P/E ratio)
