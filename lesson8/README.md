@@ -141,6 +141,8 @@
     * [LaMDA](https://blog.google/technology/ai/lamda/)
     * R. Thoppilan et al., [LaMDA: Language Model for Dialogue Applications](https://arxiv.org/abs/2201.08239)
     * [Google Brain](https://en.wikipedia.org/wiki/Google_Brain)
+  * [Google Research](https://research.google/)
+    * [DreamFusion](https://dreamfusion3d.github.io/)
   * [Meta AI](https://en.wikipedia.org/wiki/Meta_AI)
     * [BlenderBot](https://blenderbot.ai/)
     * [BlenderBot 3](https://parl.ai/projects/bb3/) (Bb3)
