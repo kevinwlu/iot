@@ -26,6 +26,7 @@
   * [Limited liability company](https://en.wikipedia.org/wiki/Limited_liability_company) (LLC)
   * [Gesellschaft mit beschränkter Haftung](https://en.wikipedia.org/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung) (GmbH)
   * [Osakeyhtiö](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6) (Oy)
+  * [Public limited company](https://en.wikipedia.org/wiki/Public_limited_company) (PLC)
 * [Price–earnings ratio](https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio) (P/E ratio)
 * [Rate of return](https://en.wikipedia.org/wiki/Rate_of_return)
 * [Return on investment](https://en.wikipedia.org/wiki/Return_on_investment) (ROI)
