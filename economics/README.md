@@ -34,3 +34,6 @@
 * [Time value of money](https://en.wikipedia.org/wiki/Time_value_of_money)
 * [World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum) (WEF)
 * [Zero-based budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting) (ZBB)
+
+## References
+* [Stijn Van Nieuwerburgh](https://www0.gsb.columbia.edu/faculty/svannieuwerburgh/), ["The Remote Work Revolution: Impact on Real Estate Values and the Urban Environment,"](https://www.nber.org/papers/w30662)
