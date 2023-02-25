@@ -155,6 +155,7 @@
 * [Argo AI](https://en.wikipedia.org/wiki/Argo_AI)
 * [Aurora Innovation](https://en.wikipedia.org/wiki/Aurora_Innovation)
 * [Canoo](https://en.wikipedia.org/wiki/Canoo)
+* [Canyon Bicycles](https://en.wikipedia.org/wiki/Canyon_Bicycles)
 * [Charging station](https://en.wikipedia.org/wiki/Charging_station)
 * [Cruise](https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle))
 * [Elbee](https://www.elbeemobility.com/)
