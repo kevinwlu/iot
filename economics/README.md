@@ -36,4 +36,5 @@
 * [Zero-based budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting) (ZBB)
 
 ## References
-* [Stijn Van Nieuwerburgh](https://www0.gsb.columbia.edu/faculty/svannieuwerburgh/), ["The Remote Work Revolution: Impact on Real Estate Values and the Urban Environment"](https://www.nber.org/papers/w30662)
+* [S. Van Nieuwerburgh](https://www0.gsb.columbia.edu/faculty/svannieuwerburgh/), ["The Remote Work Revolution: Impact on Real Estate Values and the Urban Environment"](https://www.nber.org/papers/w30662)
+* A. Gupta, V. Mittal, and Stijn Van Nieuwerburgh, ["Work From Home and the Office Real Estate Apocalypse"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
