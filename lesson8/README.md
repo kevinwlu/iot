@@ -60,7 +60,7 @@
 * [Quickstart](https://numpy.org/devdocs/user/quickstart.html)
 * [Random number generation](https://en.wikipedia.org/wiki/Random_number_generation)
 
-## SciPi
+## SciPy
 * [SciPy](https://en.wikipedia.org/wiki/SciPy)
 * [Regression analysis](https://en.wikipedia.org/wiki/Regression_analysis)
 * [Correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)
