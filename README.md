@@ -103,10 +103,12 @@ Electrical Engineering EE 629
 
 ## Associations and Communities
 * [American Radio Relay League](https://en.wikipedia.org/wiki/American_Radio_Relay_League) (ARRL)
+* [Consumer Electronics Show](https://en.wikipedia.org/wiki/Consumer_Electronics_Show) (CES)
 * [IBM IoT Community](https://community.ibm.com/community/user/iot/home)
 * [IEEE IoT Technical Community](https://iot.ieee.org/)
 * [IoT Communities](https://iotcommunity.net/)
 * [Microsoft IoT Community](https://techcommunity.microsoft.com/t5/internet-of-things-iot/ct-p/IoT)
+* [Mobile World Congress](https://en.wikipedia.org/wiki/Mobile_World_Congress) (MWC)
 * [Nendica: IEEE 802 Network Enhancements for the Next Decade](https://1.ieee802.org/802-nendica/)
 * [Nokia IoT Community](https://open-ecosystem.org/node/5596)
 * [IoT Developer Communities](https://www.iotevolutionworld.com/iot/articles/444725-iot-developer-communities-platforms-people-productivity-2020.htm)
