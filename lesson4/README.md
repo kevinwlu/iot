@@ -16,6 +16,7 @@
   * [Falcon](https://falconframework.org/)
   * [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
 * [Asynchronous Server Gateway Interface](https://en.wikipedia.org/wiki/Asynchronous_Server_Gateway_Interface) (ASGI)
+  * [FastAPI](https://en.wikipedia.org/wiki/FastAPI)
 * [Class (computer programming)](https://en.wikipedia.org/wiki/Class_(computer_programming))
 * [Metaclass](https://en.wikipedia.org/wiki/Metaclass)
 * [Databases](https://docs.djangoproject.com/en/3.2/ref/databases/)
