@@ -424,3 +424,4 @@ ssh pi@6.tcp.ngrok.io -p <the port number>
 
 ## Alternative 5: ZeroTier
 * [ZeroTier](https://en.wikipedia.org/wiki/ZeroTier)
+* [Download](https://www.zerotier.com/download/)
