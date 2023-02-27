@@ -356,10 +356,6 @@ $ sudo shutdown -h now
 ### 7. After the Raspberry Pi green LED blinks ten times, it's safe to unplug the power
 * The Raspberry Pi 4 uses the onboard [EEPROM](https://en.wikipedia.org/wiki/EEPROM) instead of bootcode.bin in the [boot folder](https://www.raspberrypi.org/documentation/configuration/boot_folder.md)
 
-## Alternative 0: AnyDesk
-* [AnyDesk](https://en.wikipedia.org/wiki/AnyDesk) is a remote desktop application
-* [Download](https://anydesk.com/en)
-
 ## Alternative 1: VNC Connect
 * VNC Connect is included with Raspberry Pi OS for non-commercial use
 * Sign up for a free [RealVNC](https://www.realvnc.com) account (need to be over 16) by an email address
@@ -422,3 +418,9 @@ ssh pi@6.tcp.ngrok.io -p <the port number>
 ```sh
     $ ssh -J serveo.net pi@UNIQUE_NAME
 ```
+## Alternative 4: AnyDesk
+* [AnyDesk](https://en.wikipedia.org/wiki/AnyDesk) is a remote desktop application
+* [Download](https://anydesk.com/en)
+
+## Alternative 5: ZeroTier
+* [ZeroTier](https://en.wikipedia.org/wiki/ZeroTier)
