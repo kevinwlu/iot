@@ -3,7 +3,7 @@
 > [Kevin Ashton](https://en.wikipedia.org/wiki/Kevin_Ashton), *[How to Fly a Horse](https://en.wikipedia.org/wiki/How_to_Fly_a_Horse): The Secret History of Creation, Invention, and Discovery.* It's about [the way innovation really happens](https://www.newsweek.com/2015/03/06/meet-kevin-ashton-father-internet-things-308763.html), which is less by magic and genius than by a lot of small steps and bits of luck.
 
 ![architecture.png](/lesson1/architecture.png)
-
+##
 * IoT architecture source: [IERC-European Research Cluster on the Internet of Things](http://www.internet-of-things-research.eu/pdf/IoT-From%20Research%20and%20Innovation%20to%20Market%20Deployment_IERC_Cluster_eBook_978-87-93102-95-8_P.pdf)
 * [Open Systems Interconnecton (OSI) model](https://en.wikipedia.org/wiki/OSI_model)
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
@@ -77,7 +77,7 @@
   * Google Cloud [DevOps Research and Assessment](https://cloud.google.com/devops) (DORA)
   * [DevOps](https://en.wikipedia.org/wiki/DevOps)
 * [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
-
+##
 * *[Internet of Things: A Hands-On Approach](http://www.hands-on-books-series.com/iot.html)* by [Arshdeep Bahga](https://arshdeep.bahga.in/) and [Vijay Madisetti](https://research.gatech.edu/vijay-madisetti)
 
   | IoT Complexity Level | Node | Analysis | Storage | Example |
@@ -88,7 +88,7 @@
   | 3 | Single | Cloud | Cloud | Vibration Monitoring |
   | 2 | Single | Local | Cloud | Smart Irrigation |
   | 1 | Single | Local | Local | Home Automation |
-
+##
 * [Orchestration (computing)](https://en.wikipedia.org/wiki/Orchestration_(computing))
 * [As a service](https://en.wikipedia.org/wiki/As_a_service)
 * [Service economy](https://en.wikipedia.org/wiki/Service_economy)
