@@ -126,7 +126,7 @@ $ gimp -h
 $ gimp -a intrusiondetection.png
 ```
 
-## Lab 9B: Qiskit
+## Optional Lab 9B: Qiskit
 
 ### [IBM Quantum Computing](https://www.ibm.com/quantum-computing/)
 * [IBM Quantum Roadmap](https://research.ibm.com/blog/ibm-quantum-roadmap)
