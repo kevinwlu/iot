@@ -136,13 +136,14 @@ Reload privilege tables now? [Y/n]
 
 ## Lab 4C: Flask
 
-### 1. Run Flask server and open a browser via VNC Viewer and go to http://127.0.0.1:5000/
+### Run Flask server and open a browser via VNC Viewer and go to http://127.0.0.1:5000/
 ```sh
 $ cd ~/iot/lesson4
 python3 hello_world.py
 ```
-### Optional: [Flask-Ask requirements](https://github.com/johnwheeler/flask-ask/blob/master/requirements.txt)
-### 2. Terminal 1 on Raspberry Pi: Install [Flask-Ask](https://github.com/johnwheeler/flask-ask) and [Ngrok](https://ngrok.com/) for Alexa Skill Kit (ASK)
+### Optional: Flask-Ask 
+* [Requirements](https://github.com/johnwheeler/flask-ask/blob/master/requirements.txt)
+### 1. Terminal 1 on Raspberry Pi: Install [Flask-Ask](https://github.com/johnwheeler/flask-ask) and [Ngrok](https://ngrok.com/) for Alexa Skill Kit (ASK)
 ```sh
 $ sudo pip3 install -U flask-ask
 $ sudo pip3 install 'cryptography<2.2'
@@ -151,12 +152,12 @@ $ sudo unzip ngrok-stable-linux-arm.zip
 $ ./ngrok http 5000
 ```
 
-### 3. Terminal 2 on Raspberry Pi: [Memory Game](https://developer.amazon.com/blogs/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development)
+### 2. Terminal 2 on Raspberry Pi: [Memory Game](https://developer.amazon.com/blogs/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development)
 ```sh
 $ cd ~/iot/lesson4
 $ python3 memory_game.py
 ```
-### 4. Open a browser and sign in [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask)
+### 3. Open a browser and sign in [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask)
 * Click "Create Skill" > Enter Skill name in title case: Memory Game > 1. Choose a model: Custom > 2. Choose a host: Provision your own > Click "Create skill" > Choose a template: Start from Scratch > Click "Choose"
 * Invocation > Enter Skill Invocation Name in lowercase: memory game
 * Interaction Model > 
