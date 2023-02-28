@@ -120,4 +120,4 @@
 * [Hungarian Standards Institution](http://www.mszt.hu/) (MSZT)
 * [Standards Council of Canada](https://en.wikipedia.org/wiki/Standards_Council_of_Canada) (SCC)
 ## References
-* [C. M. Schmidt](https://www.linkedin.com/in/charles-schmidt-789396a), "[Best Practices for Technical Standard Creation](https://www.mitre.org/sites/default/files/publications/17-1332-best-practices-for-technical-standard-creation.pdf)," [MITRE](https://en.wikipedia.org/wiki/Mitre_Corporation)
+* [C. M. Schmidt](https://www.linkedin.com/in/charles-schmidt-789396a), "[Best Practices for Technical Standard Creation](https://www.mitre.org/sites/default/files/publications/17-1332-best-practices-for-technical-standard-creation.pdf)," [MITRE](https://en.wikipedia.org/wiki/Mitre_Corporation), April 2017
