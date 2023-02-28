@@ -140,6 +140,7 @@ Reload privilege tables now? [Y/n]
 $ cd ~/iot/lesson4
 python3 hello_world.py
 ```
+### Optional due to [Flask-Ask requirements](https://github.com/johnwheeler/flask-ask/blob/master/requirements.txt)
 ### 2. Terminal 1 on Raspberry Pi: Install [Flask-Ask](https://github.com/johnwheeler/flask-ask) and [Ngrok](https://ngrok.com/) for Alexa Skill Kit (ASK)
 ```sh
 $ sudo pip3 install -U flask-ask
@@ -185,7 +186,8 @@ $ python3 memory_game.py
   * PyYAML==3.12
   * six==1.11.0
   * Werkzeug==0.16.1
-## Lab 4D: LAMP
+
+## Optional Lab 4D: LAMP
 
 ### 1. On Raspberry Pi, install [Apache HTTP server](https://en.wikipedia.org/wiki/Apache_HTTP_Server) and [PHP](https://en.wikipedia.org/wiki/PHP)
 ```sh
