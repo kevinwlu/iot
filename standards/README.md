@@ -1,5 +1,4 @@
 # Standards
-* [Best Practices for Technical Standard Creation](https://www.mitre.org/sites/default/files/publications/17-1332-best-practices-for-technical-standard-creation.pdf) by [Charles Schmidt](https://www.linkedin.com/in/charles-schmidt-789396a) of [MITRE](https://en.wikipedia.org/wiki/Mitre_Corporation)
 * [Standards organization](https://en.wikipedia.org/wiki/Standards_organization)
 * [List of technical standard organizations](https://en.wikipedia.org/wiki/List_of_technical_standard_organizations)
 * [3GPP](https://en.wikipedia.org/wiki/3GPP) (3rd Generation Partnership Project)
@@ -120,4 +119,5 @@
 * [Ghana Standards Authority](https://en.wikipedia.org/wiki/Ghana_Standards_Authority)
 * [Hungarian Standards Institution](http://www.mszt.hu/) (MSZT)
 * [Standards Council of Canada](https://en.wikipedia.org/wiki/Standards_Council_of_Canada) (SCC)
-
+## References
+* [C. M. Schmidt](https://www.linkedin.com/in/charles-schmidt-789396a), "[Best Practices for Technical Standard Creation](https://www.mitre.org/sites/default/files/publications/17-1332-best-practices-for-technical-standard-creation.pdf)," [MITRE](https://en.wikipedia.org/wiki/Mitre_Corporation)
