@@ -105,8 +105,9 @@ $ sudo pip3 install -U django-filter
 $ sudo pip3 install -U markdown
 $ sudo pip3 install -U requests
 ```
-### 2. Install MariaDB server and client on Raspberry Pi
 ### By default, Django uses [SQLite](https://en.wikipedia.org/wiki/SQLite)
+### 2. Optionally, install MariaDB server and client on Raspberry Pi
+
 ```sh
 $ sudo apt update
 $ sudo apt install mariadb-server mariadb-client
