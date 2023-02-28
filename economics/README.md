@@ -1,4 +1,5 @@
 # Engineering Economics
+* [Engineering economics](https://en.wikipedia.org/wiki/Engineering_economics)
 * [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet)
 * [Bill of materials](https://en.wikipedia.org/wiki/Bill_of_materials) (BOM)
 * [Cash flow](https://en.wikipedia.org/wiki/Cash_flow)
@@ -9,7 +10,6 @@
 * [Earnings before interest, taxes, depreciation, and amortization](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation_and_amortization) (EBITDA)
 * [Economies of scale](https://en.wikipedia.org/wiki/Economies_of_scale)
 * [Economies of scope](https://en.wikipedia.org/wiki/Economies_of_scope)
-* [Engineering economics](https://en.wikipedia.org/wiki/Engineering_economics)
 * [Enterprise resource planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning) (ERP)
 * [Generally Accepted Accounting Principles](https://en.wikipedia.org/wiki/Generally_Accepted_Accounting_Principles_(United_States)) (GAAP)
 * [Goodwill](https://en.wikipedia.org/wiki/Goodwill_(accounting))
@@ -17,7 +17,6 @@
 * [Income statement](https://en.wikipedia.org/wiki/Income_statement)
 * [Inflation](https://en.wikipedia.org/wiki/Inflation)
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator) or Key performance indicator (KPI)
-* [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
 * [Life-cycle cost](https://en.wikipedia.org/wiki/Whole-life_cost) (LCC)
 * [Company](https://en.wikipedia.org/wiki/Company)
   * [Corporation](https://en.wikipedia.org/wiki/Corporation)
@@ -35,7 +34,11 @@
 * [Time value of money](https://en.wikipedia.org/wiki/Time_value_of_money)
 * [World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum) (WEF)
 * [Zero-based budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting) (ZBB)
-
-## References
+## 
+* [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
+* [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
+* [Reed's law](https://en.wikipedia.org/wiki/Reed's_law)
+* [Power law](https://en.wikipedia.org/wiki/Power_law)
+## 
 * [S. Van Nieuwerburgh](https://www0.gsb.columbia.edu/faculty/svannieuwerburgh/), ["The Remote Work Revolution: Impact on Real Estate Values and the Urban Environment"](https://www.nber.org/papers/w30662)
 * A. Gupta, V. Mittal, and Stijn Van Nieuwerburgh, ["Work From Home and the Office Real Estate Apocalypse"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
