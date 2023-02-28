@@ -106,7 +106,7 @@ $ sudo pip3 install -U markdown
 $ sudo pip3 install -U requests
 ```
 ### By default, Django uses [SQLite](https://en.wikipedia.org/wiki/SQLite)
-### 2. Optionally, install MariaDB server and client on Raspberry Pi
+### 2. Optional: Install MariaDB server and client on Raspberry Pi
 
 ```sh
 $ sudo apt update
@@ -141,7 +141,7 @@ Reload privilege tables now? [Y/n]
 $ cd ~/iot/lesson4
 python3 hello_world.py
 ```
-### Optional due to [Flask-Ask requirements](https://github.com/johnwheeler/flask-ask/blob/master/requirements.txt)
+### Optional: [Flask-Ask requirements](https://github.com/johnwheeler/flask-ask/blob/master/requirements.txt)
 ### 2. Terminal 1 on Raspberry Pi: Install [Flask-Ask](https://github.com/johnwheeler/flask-ask) and [Ngrok](https://ngrok.com/) for Alexa Skill Kit (ASK)
 ```sh
 $ sudo pip3 install -U flask-ask
