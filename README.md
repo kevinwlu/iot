@@ -41,8 +41,6 @@ Electrical Engineering EE 629
   * [The New Hacker's Dictionary](https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html)
   * [Resources](http://www.catb.org/~esr/jargon/)
   * [Archive](http://www.catb.org/~esr/jargon/oldversions/)
-* [Hackathon](https://en.wikipedia.org/wiki/Hackathon)
-  * [Devpost](https://en.wikipedia.org/wiki/Devpost)
 * [AngelList](https://en.wikipedia.org/wiki/AngelList)
   * [Angel investor](https://en.wikipedia.org/wiki/Angel_investor)
 * [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator)
