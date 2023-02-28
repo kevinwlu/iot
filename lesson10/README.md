@@ -161,7 +161,7 @@ $ python3 run_app.py
 
 ![sync.png](/lesson10/sync.png)
 
-## Lab 10B: PyOTA
+## Optional Lab 10B: PyOTA
 * PyOTA and IRI were emonstrated on Raspberry Pi OS and Ubuntu, currently nodes.devnet.iota.org is not available
   * [PyOTA](https://github.com/iotaledger/iota.py) (IOTA Python Client Library)
   * [IRI](https://github.com/iotaledger/iri) (IOTA Reference Implementation)
@@ -175,7 +175,7 @@ $ python3 iri_node_info.py
 $ cd
 ```
 
-## Lab 10C: IOTA DevNet
+## Optional Lab 10C: IOTA DevNet
 * This lab requires Raspberry Pi and Node.js v8 or v10
 * Only sensor.js and mam_sensor.js require a DHT11 or DHT22 humidity and temperature sensor
 
