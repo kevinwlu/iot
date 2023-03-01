@@ -32,6 +32,7 @@
   * [MongoDB](https://en.wikipedia.org/wiki/MongoDB)
   * [Couchbase Server](https://en.wikipedia.org/wiki/Couchbase_Server)
   * [CockroachDB](https://en.wikipedia.org/wiki/CockroachDB)
+  * [RavenDB](https://en.wikipedia.org/wiki/RavenDB)
   * [Build a Python app with CockroachDB and Django](https://www.cockroachlabs.com/docs/stable/build-a-python-app-with-cockroachdb-django.html)
 * [Database normalization](https://en.wikipedia.org/wiki/Database_normalization)
   * [First normal form](https://en.wikipedia.org/wiki/First_normal_form) (1NF)
