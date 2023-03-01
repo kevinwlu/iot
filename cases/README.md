@@ -205,6 +205,8 @@
   * [Perfluorooctanesulfonic acid](https://en.wikipedia.org/wiki/Perfluorooctanesulfonic_acid) (PFOS)
   * [Perfluorooctanoic acid](https://en.wikipedia.org/wiki/Perfluorooctanoic_acid) (PFOA)
   * [Phthalate](https://en.wikipedia.org/wiki/Phthalate)
+  * [Polychlorinated biphenyl](https://en.wikipedia.org/wiki/Polychlorinated_biphenyl) (PCB)
+  * [Phosgene](https://en.wikipedia.org/wiki/Phosgene)
   * [Tetraethyllead](https://en.wikipedia.org/wiki/Tetraethyllead) (TEL)
 * [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)
 * [Ecosia](https://en.wikipedia.org/wiki/Ecosia)
