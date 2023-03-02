@@ -55,6 +55,7 @@
   * [Turnitin](https://en.wikipedia.org/wiki/Turnitin)
 * [VeriGuide](https://veriguide1.cse.cuhk.edu.hk/portal/plagiarism_detection/index.jsp)
 * [Originality.AI](https://originality.ai/)
+* [AI Text Classifier](https://platform.openai.com/ai-text-classifier)
 * [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg)
 * [GPTZero](https://gptzero.me/)
   * [Perplexity](https://en.wikipedia.org/wiki/Perplexity) (*PP*) is a measurement of the randomness of the text
