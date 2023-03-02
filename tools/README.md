@@ -32,9 +32,13 @@
 * [OpenAI](https://openai.com/)
   * [AI Text Classifier](https://platform.openai.com/ai-text-classifier) requires at least 1,000 characters, which is approximately 150 - 250 words
   * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
+* [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg)
+* [GPTZero](https://gptzero.me/)
+  * [Perplexity](https://en.wikipedia.org/wiki/Perplexity) (*PP*) is a measurement of the randomness of the text
+    > A low perplexity indicates the probability distribution is good at predicting the sample.
+  * [Burstiness](https://en.wikipedia.org/wiki/Burstiness) is a measurement of the variation in perplexity
 * [Open Neural Network Exchange](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (ONNX)
 * [Stability AI](https://stability.ai/)
-* [Turing test](https://en.wikipedia.org/wiki/Turing_test)
 ## Chat
 * [Comparison of Internet Relay Chat clients](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients)
 * [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat) (IRC)
@@ -55,12 +59,6 @@
   * [Turnitin](https://en.wikipedia.org/wiki/Turnitin)
 * [VeriGuide](https://veriguide1.cse.cuhk.edu.hk/portal/plagiarism_detection/index.jsp)
 * [Originality.AI](https://originality.ai/)
-* [AI Text Classifier](https://platform.openai.com/ai-text-classifier)
-* [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg)
-* [GPTZero](https://gptzero.me/)
-  * [Perplexity](https://en.wikipedia.org/wiki/Perplexity) (*PP*) is a measurement of the randomness of the text
-    > A low perplexity indicates the probability distribution is good at predicting the sample.
-  * [Burstiness](https://en.wikipedia.org/wiki/Burstiness) is a measurement of the variation in perplexity
 ## Data Analysis and Visulization
 * [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
 * [Google Marketing Platform](https://en.wikipedia.org/wiki/Google_Marketing_Platform)
