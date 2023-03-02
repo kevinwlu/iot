@@ -41,6 +41,8 @@
   > The fear of machines turning evil is another [red herring](https://en.wikipedia.org/wiki/Red_herring). The real worry isn’t malevolence, but competence.\
   > A superintelligent AI is by definition very good at attaining its goals, whatever they may be, so we need to ensure that its goals are aligned with ours.\
   > We shouldn’t passively ask "what will happen?" as if the future is predetermined (or undirected), but instead ask what we want to happen and then try to create that future (i.e., beneficial intelligence).
+* [Future of Life Institute](https://en.wikipedia.org/wiki/Future_of_Life_Institute) (FLI)
+* [A. Conn](https://futureoflife.org/person/ariel-conn/), ["Research for Beneficial Artificial Intelligence,"](https://futureoflife.org/recent-news/research-for-beneficial-artificial-intelligence/) December 27, 2017
   
   | Life | Stage | Hardware | Software |
   | :---: | :---: | :---: | :---: |
@@ -54,9 +56,6 @@
   | Even harder | How do physical properties determine [qualia](https://en.wikipedia.org/wiki/Qualia)? | Theories partially testable? |
   | Pretty hard | What physical properties distinguish conscious and unconscious systems? | Theories testable with brain-reading |
   | Easy | How does the brain process information? How does intelligence work? | Theories testable by simulation |
-##
-* [Future of Life Institute](https://en.wikipedia.org/wiki/Future_of_Life_Institute) (FLI)
-* [A. Conn](https://futureoflife.org/person/ariel-conn/), ["Research for Beneficial Artificial Intelligence,"](https://futureoflife.org/recent-news/research-for-beneficial-artificial-intelligence/) December 27, 2017
 
 ## NumPy
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
