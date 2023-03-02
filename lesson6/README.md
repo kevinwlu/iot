@@ -85,6 +85,7 @@
   * [Android (operating system)](https://en.wikipedia.org/wiki/Android_(operating_system))
   * [Sailfish OS](https://en.wikipedia.org/wiki/Sailfish_OS) by [Jolla](https://en.wikipedia.org/wiki/Jolla)
   * [HarmonyOS](https://en.wikipedia.org/wiki/HarmonyOS) by [Huawei](https://en.wikipedia.org/wiki/Huawei)
+  * [Mercedes-Benz Operating System](https://group.mercedes-benz.com/careers/about-us/mercedes-benz-operating-system/) (MB.OS)
 * [Comparison of operating systems](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
   * [QNX](https://en.wikipedia.org/wiki/QNX)
 * [Real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating_system) (RTOS)
