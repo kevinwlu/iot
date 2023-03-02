@@ -70,6 +70,9 @@
 ## Finite Element Analysis
 * [Finite element method](https://en.wikipedia.org/wiki/Finite_element_method) (FEM)
 * [COMSOL Multiphysics](https://en.wikipedia.org/wiki/COMSOL_Multiphysics)
+## Languages
+* [Duolingo](https://en.wikipedia.org/wiki/Duolingo)
+* [Forvo](https://en.wikipedia.org/wiki/Forvo)
 ## Note Taking
 * [Notion](https://en.wikipedia.org/wiki/Notion_(productivity_software))
 * [Obsidian](https://en.wikipedia.org/wiki/Obsidian_(software))
