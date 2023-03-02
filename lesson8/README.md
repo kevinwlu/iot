@@ -37,7 +37,7 @@
   | **Love needed** | Human warmth + AI analytics | Human + AI |
   | **Love not needed** | AI | Human creativity + AI tool |
 ##
-* [M. Tegmark](https://en.wikipedia.org/wiki/Max_Tegmark), *[Life 3.0: Being Human in the Age of Artificial Intelligence](https://en.wikipedia.org/wiki/Life_3.0)*, August 23, 2017\
+* [M. Tegmark](https://en.wikipedia.org/wiki/Max_Tegmark), *[Life 3.0: Being Human in the Age of Artificial Intelligence](https://en.wikipedia.org/wiki/Life_3.0)*, August 23, 2017 \
   * [Future of Life Institute](https://en.wikipedia.org/wiki/Future_of_Life_Institute) (FLI)
   * [A. Conn](https://futureoflife.org/person/ariel-conn/), ["Research for Beneficial Artificial Intelligence,"](https://futureoflife.org/recent-news/research-for-beneficial-artificial-intelligence/) December 27, 2017
   > The fear of machines turning evil is another [red herring](https://en.wikipedia.org/wiki/Red_herring). The real worry isn’t malevolence, but competence.\
