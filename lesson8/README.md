@@ -26,6 +26,9 @@
 * [Ethics of artificial intelligence](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
 * [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 * [Sentience](https://en.wikipedia.org/wiki/Sentience)
+* [Philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
+* [Turing test](https://en.wikipedia.org/wiki/Turing_test)
+* [Chinese room](https://en.wikipedia.org/wiki/Chinese_room)
 ##
 * [K. Lee](https://en.wikipedia.org/wiki/Kai-Fu_Lee), "[A Blueprint for Coexistence With Artifical Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/)," Wired, July 12, 2017
 
@@ -144,8 +147,6 @@
 * [MindSpore](https://github.com/mindspore-ai/mindspore) deep learning training/inference framework
 * [ELIZA](https://en.wikipedia.org/wiki/ELIZA)
 * [Chatbot](https://en.wikipedia.org/wiki/Chatbot)
-* [Turing test](https://en.wikipedia.org/wiki/Turing_test)
-* [Chinese room](https://en.wikipedia.org/wiki/Chinese_room)
 * [Language model](https://en.wikipedia.org/wiki/Language_model) (LM)
   * [The Dark Risk of Large Language Models](https://www.wired.com/story/large-language-models-artificial-intelligence/)
   * [Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
