@@ -30,8 +30,8 @@
 * [HTTPie](https://httpie.io/)
 * [Natural language generation](https://en.wikipedia.org/wiki/Natural_language_generation) (NLG)
 * [OpenAI](https://openai.com/)
-  * [AI Text Classifier](https://platform.openai.com/ai-text-classifier) requires at least 1,000 characters, which is approximately 150 - 250 words
   * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
+  * [AI Text Classifier](https://platform.openai.com/ai-text-classifier) requires at least 1,000 characters, which is approximately 150 - 250 words
 * [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg)
 * [GPTZero](https://gptzero.me/)
   * [Perplexity](https://en.wikipedia.org/wiki/Perplexity) (*PP*) is a measurement of the randomness of the text
