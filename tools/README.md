@@ -34,8 +34,8 @@
   * [AI Text Classifier](https://platform.openai.com/ai-text-classifier) requires at least 1,000 characters, which is approximately 150 - 250 words
 * [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg)
 * [GPTZero](https://gptzero.me/)
-  * [Perplexity](https://en.wikipedia.org/wiki/Perplexity) (*PP*) is a measurement of the randomness of the text
-    * A low perplexity indicates the probability distribution is good at predicting the sample.
+  * [Perplexity](https://en.wikipedia.org/wiki/Perplexity) (*PP*) is a measurement of the randomness of the text\
+    A low perplexity indicates the probability distribution is good at predicting the sample.
   * [Burstiness](https://en.wikipedia.org/wiki/Burstiness) is a measurement of the variation in perplexity
 * [Open Neural Network Exchange](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (ONNX)
 * [Stability AI](https://stability.ai/)
