@@ -5,7 +5,7 @@ Electrical Engineering EE 629
 * [Lesson 2](/lesson2): Raspberry Pi
 * [Lesson 3](/lesson3): Python
 * [Lesson 4](/lesson4): Django and Flask
-* [Lesson 5](/lesson5): Crossbar.io and Paho
+* [Lesson 5](/lesson5): Paho and Crossbar.io
 * [Lesson 6](/lesson6): Alternative Devices
 * [Lesson 7](/lesson7): Cloud Platforms
 * [Lesson 8](/lesson8): Data Analysis
