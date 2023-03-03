@@ -140,6 +140,7 @@ Electrical Engineering EE 629
 * [KNX](https://en.wikipedia.org/wiki/KNX_(standard))
 * [LaSAR Alliance](https://lasaralliance.org/) (Laser Scanning for Augmented Reality)
 * [Liberty Technical Advisory Board](https://ieee-isto.org/member_programs/liberty-technical-advisory-board/) (LTAB)
+* [Li-Bridge](https://www.anl.gov/li-bridge)
 * [LoRa](https://en.wikipedia.org/wiki/LoRa) Alliance
 * [MIPI Alliance](https://en.wikipedia.org/wiki/MIPI_Alliance) (Mobile Industry Processor Interface)
 * [MulteFire](https://en.wikipedia.org/wiki/MulteFire)
