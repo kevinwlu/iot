@@ -190,6 +190,7 @@
 * [Wallbox](https://en.wikipedia.org/wiki/Wallbox)
 * [Waymo](https://en.wikipedia.org/wiki/Waymo)
 * [Wejo](https://en.wikipedia.org/wiki/Wejo)
+* [ZF Friedrichshafen](https://en.wikipedia.org/wiki/ZF_Friedrichshafen)
 * [Zoox](https://en.wikipedia.org/wiki/Zoox_(company))
 ## Transportation: Water
 * [Blue economy](https://en.wikipedia.org/wiki/Blue_economy)
