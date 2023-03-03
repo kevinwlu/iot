@@ -102,11 +102,11 @@ Electrical Engineering EE 629
 
 ## Associations and Communities
 * [American Radio Relay League](https://en.wikipedia.org/wiki/American_Radio_Relay_League) (ARRL)
-* [Avnet](https://en.wikipedia.org/wiki/Avnet) [Hackster](https://www.hackster.io/)
 * [Consumer Technology Association](https://en.wikipedia.org/wiki/Consumer_Technology_Association) (CTA)
   * [Consumer Electronics Show](https://en.wikipedia.org/wiki/Consumer_Electronics_Show) (CES)
 * [GSMA](https://en.wikipedia.org/wiki/GSMA)
   * [Mobile World Congress](https://en.wikipedia.org/wiki/Mobile_World_Congress) (MWC)
+* [Hackster.io](https://www.hackster.io/), an [Avnet](https://en.wikipedia.org/wiki/Avnet) community
 * [IBM IoT Community](https://community.ibm.com/community/user/iot/home)
 * [IEEE IoT Technical Community](https://iot.ieee.org/)
 * [IoT Communities](https://iotcommunity.net/)
