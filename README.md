@@ -102,6 +102,7 @@ Electrical Engineering EE 629
 
 ## Associations and Communities
 * [American Radio Relay League](https://en.wikipedia.org/wiki/American_Radio_Relay_League) (ARRL)
+* [Avnet](https://en.wikipedia.org/wiki/Avnet) [Hackster](https://www.hackster.io/)
 * [Consumer Technology Association](https://en.wikipedia.org/wiki/Consumer_Technology_Association) (CTA)
   * [Consumer Electronics Show](https://en.wikipedia.org/wiki/Consumer_Electronics_Show) (CES)
 * [GSMA](https://en.wikipedia.org/wiki/GSMA)
