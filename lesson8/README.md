@@ -146,6 +146,8 @@
 * [Convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN)
 * [Generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network) (GAN)  
 * [Graph neural network](https://en.wikipedia.org/wiki/Graph_neural_network) (GNN)
+* [Nervous system](https://en.wikipedia.org/wiki/Nervous_system)
+  * [Synapse](https://en.wikipedia.org/wiki/Synapse)
 * [ONNX](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (Open Neural Network Exchange)
 * [AlphaZero](https://en.wikipedia.org/wiki/AlphaZero)
 * [WaveNet](https://en.wikipedia.org/wiki/WaveNet)
