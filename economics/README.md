@@ -37,7 +37,16 @@
 * [World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum) (WEF)
 * [Zero-based budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting) (ZBB)
 ## 
+* [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)
+  * [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore)
+  * [Robert Noyce](https://en.wikipedia.org/wiki/Robert_Noyce) 1927&mdash;1990
+* [Moore's second law](https://en.wikipedia.org/wiki/Moore%27s_second_law) or Rock's law
+* [Machrone’s law](https://www.pcmag.com/archive/machrones-law-were-back-baby-121213)
+* [Edholm's law](https://en.wikipedia.org/wiki/Edholm%27s_law)
+  * [Jakob Nielsen](https://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant))
+* [Wirth's law](https://en.wikipedia.org/wiki/Wirth%27s_law)
 * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
+* [David Sarnoff](https://en.wikipedia.org/wiki/David_Sarnoff)
 * [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
 * [Reed's law](https://en.wikipedia.org/wiki/Reed's_law)
 * [Power law](https://en.wikipedia.org/wiki/Power_law)
