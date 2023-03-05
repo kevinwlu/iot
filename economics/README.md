@@ -50,6 +50,7 @@
 * [David Sarnoff](https://en.wikipedia.org/wiki/David_Sarnoff)
 * [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
   * [B. Briscoe](https://bobbriscoe.net), [A. Odlyzko](https://en.wikipedia.org/wiki/Andrew_Odlyzko), and B. Tilly, "[Metcalfe's law is wrong](https://spectrum.ieee.org/metcalfes-law-is-wrong)," _IEEE Spectrum_, July 1, 2006
+  * X. Zhang, J. Liu, and Z. Xu "[Tencent and Facebook data validate Metcalfe’s law](https://link.springer.com/article/10.1007/s11390-015-1518-1), _Journal of Computer Science and Technology_, v. 30, pp. 246–251, March 13, 2015
 * [Reed's law](https://en.wikipedia.org/wiki/Reed's_law)
 * [Power law](https://en.wikipedia.org/wiki/Power_law)
 * [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
