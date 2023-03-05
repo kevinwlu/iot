@@ -49,7 +49,7 @@
 * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
 * [David Sarnoff](https://en.wikipedia.org/wiki/David_Sarnoff)
 * [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
-  * B. Briscoe, A. Odlyzko, ans B. Tilly, "[Metcalfe's law is wrong](https://spectrum.ieee.org/metcalfes-law-is-wrong)," _IEEE Spectrum_, July 1, 2006
+  * B. Briscoe, [A. Odlyzko](https://en.wikipedia.org/wiki/Andrew_Odlyzko), ans B. Tilly, "[Metcalfe's law is wrong](https://spectrum.ieee.org/metcalfes-law-is-wrong)," _IEEE Spectrum_, July 1, 2006
 * [Reed's law](https://en.wikipedia.org/wiki/Reed's_law)
 * [Power law](https://en.wikipedia.org/wiki/Power_law)
 * [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
