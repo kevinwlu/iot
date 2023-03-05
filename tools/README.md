@@ -21,13 +21,18 @@
 ## Artificial Intelligence
 * [AI Query](https://www.aiquery.co/)
 * [AI Code Reviewer](https://ai-code-reviewer.com/)
+* [AnimeGAN.js](https://animegan.js.org/)
+* [Copy.ai](https://www.copy.ai/)
 * [CustomGPT](https://customgpt.ai/)
+* [DeepL](https://www.deepl.com/)
 * [GPTZero](https://gptzero.me/) requires at least 250 characters
 * [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot)
 * [Google AI](https://ai.google/tools/)
 * [Google Research](https://research.google/tools/)
 * [Ghostwriter](https://replit.com/site/ghostwriter) by [Replit](https://en.wikipedia.org/wiki/Replit)
 * [HTTPie](https://httpie.io/)
+* [Jenni](https://jenni.ai/)
+* [Khroma](https://www.khroma.co/)
 * [Natural language generation](https://en.wikipedia.org/wiki/Natural_language_generation) (NLG)
 * [OpenAI](https://openai.com/)
   * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
@@ -38,7 +43,11 @@
     A low perplexity indicates the probability distribution is good at predicting the sample.
   * [Burstiness](https://en.wikipedia.org/wiki/Burstiness) is a measurement of the variation in perplexity
 * [Open Neural Network Exchange](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (ONNX)
+* [Peppertype.ai](https://www.peppertype.ai/)
+* [Posemaniacs](https://www.posemaniacs.com/en)
 * [Stability AI](https://stability.ai/)
+* [Synthesia](https://www.synthesia.io/)
+* [Tome](https://beta.tome.app/)
 ## Chat
 * [Comparison of Internet Relay Chat clients](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients)
 * [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat) (IRC)
