@@ -40,6 +40,7 @@
 * [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)
   * [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore)
   * [Robert Noyce](https://en.wikipedia.org/wiki/Robert_Noyce) 1927&mdash;1990
+  * P. E. Ross, "[5 commandments](https://spectrum.ieee.org/5-commandments))," _IEEE Spectrum_, December 1, 2003
 * [Moore's second law](https://en.wikipedia.org/wiki/Moore%27s_second_law) or Rock's law
 * [Machrone’s law](https://www.pcmag.com/archive/machrones-law-were-back-baby-121213)
 * [Edholm's law](https://en.wikipedia.org/wiki/Edholm%27s_law)
@@ -48,6 +49,7 @@
 * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
 * [David Sarnoff](https://en.wikipedia.org/wiki/David_Sarnoff)
 * [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
+  * B. Briscoe, A. Odlyzko, ans B. Tilly, "[Metcalfe's law is wrong](https://spectrum.ieee.org/metcalfes-law-is-wrong)," _IEEE Spectrum_, July 1, 2006
 * [Reed's law](https://en.wikipedia.org/wiki/Reed's_law)
 * [Power law](https://en.wikipedia.org/wiki/Power_law)
 * [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
