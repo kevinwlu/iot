@@ -179,6 +179,7 @@
   * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
   * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
     * ["Introducing ChatGPT"](https://openai.com/blog/chatgpt)
+    * ["Introducing ChatGPT and Whisper APIs"](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
     * [ChatGPT research preview](https://chat.openai.com/chat)
     * [AI Text Classifier](https://platform.openai.com/ai-text-classifier)
   * [DALL-E](https://en.wikipedia.org/wiki/DALL-E)
