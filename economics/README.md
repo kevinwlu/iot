@@ -50,6 +50,7 @@
 * [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
 * [Reed's law](https://en.wikipedia.org/wiki/Reed's_law)
 * [Power law](https://en.wikipedia.org/wiki/Power_law)
+* [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
 * [Zipf's law](https://en.wikipedia.org/wiki/Zipf's_law)
 ## 
 * [S. Van Nieuwerburgh](https://www0.gsb.columbia.edu/faculty/svannieuwerburgh/), ["The Remote Work Revolution: Impact on Real Estate Values and the Urban Environment"](https://www.nber.org/papers/w30662)
