@@ -104,6 +104,7 @@ Electrical Engineering EE 629
 * [American Radio Relay League](https://en.wikipedia.org/wiki/American_Radio_Relay_League) (ARRL)
 * [Consumer Technology Association](https://en.wikipedia.org/wiki/Consumer_Technology_Association) (CTA)
   * [Consumer Electronics Show](https://en.wikipedia.org/wiki/Consumer_Electronics_Show) (CES)
+* [Crowd Supply](https://en.wikipedia.org/wiki/Crowd_Supply)
 * [GSMA](https://en.wikipedia.org/wiki/GSMA)
   * [Mobile World Congress](https://en.wikipedia.org/wiki/Mobile_World_Congress) (MWC)
 * [Hackster.io](https://www.hackster.io/), an [Avnet](https://en.wikipedia.org/wiki/Avnet) community
