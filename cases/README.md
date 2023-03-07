@@ -96,6 +96,8 @@
   * [U-Scan](https://www.withings.com/us/en/u-scan)
 ## Industrial
 * [Automated guided vehicle](https://en.wikipedia.org/wiki/Automated_guided_vehicle) (AGV)
+* [eLeapPower](https://www.eleappower.com/)
+* [Infinitum](https://goinfinitum.com/)
 ## Public Services
 * [Food rescue](https://en.wikipedia.org/wiki/Food_rescue)
 * [Olio](https://en.wikipedia.org/wiki/Olio_(app))
