@@ -167,6 +167,7 @@
 * [Faraday Future](https://en.wikipedia.org/wiki/Faraday_Future)
 * [Fisker](https://en.wikipedia.org/wiki/Fisker_Inc.)
 * [Gillig](https://en.wikipedia.org/wiki/Gillig)
+* [Hyliion](https://www.hyliion.com/)
 * [Hyperloop](https://en.wikipedia.org/wiki/Hyperloop)
 * [Hyzon Motors](https://en.wikipedia.org/wiki/Hyzon_Motors)
 * [Mobileye](https://en.wikipedia.org/wiki/Mobileye)
