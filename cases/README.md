@@ -120,6 +120,7 @@
 * [Optimus (robot)](https://en.wikipedia.org/wiki/Optimus_(robot))
 ## Space
 * [Kuiper Systems](https://en.wikipedia.org/wiki/Kuiper_Systems)
+* [Sierra Space](https://www.sierraspace.com/)
 * [United Launch Alliance](https://en.wikipedia.org/wiki/United_Launch_Alliance) (ULA)
 ## Sports
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
