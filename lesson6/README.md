@@ -118,6 +118,7 @@
   * WARNING: Upgrading Python resets pip list with only pip and setuptools, requiring package reinstallation
 * Pre-built installer and binary for macOS (/usr/local/bin)
 * Linux binaries for x64 and ARM
+* Refresh the webpage at http://127.0.0.1:8080/ or http://localhost:8080/ to see server activities
 ```sh
 $ node -v
 $ npm -v
