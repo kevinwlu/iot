@@ -173,7 +173,7 @@
   * [DreamFusion](https://dreamfusion3d.github.io/)
 * [Meta AI](https://en.wikipedia.org/wiki/Meta_AI)
   * [BlenderBot](https://blenderbot.ai/)
-  * [BlenderBot 3](https://parl.ai/projects/bb3/) (Bb3)
+  * [BlenderBot 3](https://parl.ai/projects/bb3/) (BB3)
   * [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), February 24, 2023
 * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
   * [OpenAI Codex](https://openai.com/blog/openai-codex/)
