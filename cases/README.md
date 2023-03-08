@@ -193,6 +193,7 @@
 * [Tesla Autopilot](https://en.wikipedia.org/wiki/Tesla_Autopilot)
 * [Tevva](https://www.tevva.com/en)
 * [The Boring Company](https://en.wikipedia.org/wiki/The_Boring_Company)
+* [The Shyft Group](https://en.wikipedia.org/wiki/The_Shyft_Group)
 * [Torc Robotics](https://en.wikipedia.org/wiki/Torc_Robotics)
 * [Velodyne Lidar](https://en.wikipedia.org/wiki/Velodyne_Lidar)
 * [VinFast](https://en.wikipedia.org/wiki/VinFast)
