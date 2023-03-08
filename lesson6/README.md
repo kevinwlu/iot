@@ -93,7 +93,9 @@
 ##
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
   * [Ryan Dahl](https://github.com/ry)
+  * [Isaac Z. Schlueter](https://github.com/isaacs)
   * [Fedor Indutny](https://github.com/indutny)
+  * [Joyent](https://en.wikipedia.org/wiki/Joyent)
   * [npm](https://en.wikipedia.org/wiki/Npm_(software)) (Node Package Manager)
   * [nvm](https://github.com/nvm-sh/nvm) (Node Version Manager)
   * [Firebase Quickstarts for Node.js](https://github.com/firebase/quickstart-nodejs)
@@ -102,6 +104,7 @@
   * [Low-code development platofrm](https://en.wikipedia.org/wiki/Low-code_development_platform) (LCDP)
   * [List of low-code development platforms](https://en.wikipedia.org/wiki/List_of_low-code_development_platforms)
 * [OpenJS Foundation](https://en.wikipedia.org/wiki/OpenJS_Foundation#JS_Foundation)
+* [Deno](https://en.wikipedia.org/wiki/Deno_(software))
 * [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)): [MongoDB](https://en.wikipedia.org/wiki/MongoDB), [Express.js](https://en.wikipedia.org/wiki/Express.js), [AngularJS](https://en.wikipedia.org/wiki/AngularJS), and Node.js
 * [Crow](https://crowcpp.org/) C++ framework for creating HTTP or Websocket web services
   * [CrowCpp](https://github.com/CrowCpp/Crow) repository
