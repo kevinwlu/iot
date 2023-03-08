@@ -134,6 +134,7 @@
 * [AFWERX](https://en.wikipedia.org/wiki/AFWERX)
 * [Airworthiness](https://en.wikipedia.org/wiki/Airworthiness)
 * [Bell Textron](https://en.wikipedia.org/wiki/Bell_Textron)
+* [xElectronic flight bag](https://en.wikipedia.org/wiki/Electronic_flight_bag)
 * [Elroy Air](https://en.wikipedia.org/wiki/Elroy_Air_Chaparral)
 * [eVTOL](https://en.wikipedia.org/wiki/EVTOL) (electric vertical take-off and landing) aircraft
 * [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
