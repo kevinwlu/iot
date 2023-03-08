@@ -92,6 +92,8 @@
 * [Middleware](https://en.wikipedia.org/wiki/Middleware)
 ##
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
+  * [Ryan Dahl](https://github.com/ry)
+  * [Fedor Indutny](https://github.com/indutny)
   * [npm](https://en.wikipedia.org/wiki/Npm_(software)) (Node Package Manager)
   * [nvm](https://github.com/nvm-sh/nvm) (Node Version Manager)
   * [Firebase Quickstarts for Node.js](https://github.com/firebase/quickstart-nodejs)
