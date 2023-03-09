@@ -28,11 +28,19 @@
 * [GPTZero](https://gptzero.me/) requires at least 250 characters
 * [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot)
 * [Google AI](https://ai.google/tools/)
+  * [AI Hub](https://aihub.cloud.google.com/u/0/)
+  * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+  * [DreamFusion](https://dreamfusion3d.github.io/)
+  * [LaMDA](https://blog.google/technology/ai/lamda/), May 18, 2021
 * [Google Research](https://research.google/tools/)
 * [Ghostwriter](https://replit.com/site/ghostwriter) by [Replit](https://en.wikipedia.org/wiki/Replit)
 * [HTTPie](https://httpie.io/)
 * [Jenni](https://jenni.ai/)
 * [Khroma](https://www.khroma.co/)
+* [Meta AI](https://en.wikipedia.org/wiki/Meta_AI)
+  * [BlenderBot](https://blenderbot.ai/)
+  * [BlenderBot 3](https://parl.ai/projects/bb3/) (BB3)
+  * [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), February 24, 2023
 * [Natural language generation](https://en.wikipedia.org/wiki/Natural_language_generation) (NLG)
 * [OpenAI](https://openai.com/)
   * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
