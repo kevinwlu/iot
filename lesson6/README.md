@@ -46,7 +46,7 @@
   * [OpenEmbedded](https://en.wikipedia.org/wiki/OpenEmbedded)
   * [Yocto Project](https://en.wikipedia.org/wiki/Yocto_Project)
   * [M18Qx IoT Monitor](https://github.com/Avnet/M18QxIotMonitor)
-  * [Anjay](https://github.com/AVSystem/Anjay)
+  * [Anjay](https://github.com/AVSystem/Anjay) lightweight machine-to-machine (LwM2M) library
   * [Eclipse Leshan](https://github.com/eclipse/leshan)
 * [ESP32](https://en.wikipedia.org/wiki/ESP32)
   * [Obsidian Boa](https://github.com/gregdavill/obsidian-boa)
