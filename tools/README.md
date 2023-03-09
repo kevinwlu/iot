@@ -43,7 +43,7 @@
   * [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), February 24, 2023
 * [Natural language generation](https://en.wikipedia.org/wiki/Natural_language_generation) (NLG)
 * [OpenAI](https://openai.com/)
-  * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
+  * [ChatGPT](https://chat.openai.com/chat)
   * [AI Text Classifier](https://platform.openai.com/ai-text-classifier) requires at least 1,000 characters, which is approximately 150 - 250 words
 * [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg)
 * [GPTZero](https://gptzero.me/)
