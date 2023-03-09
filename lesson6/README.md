@@ -44,7 +44,7 @@
   * [Avnet](https://en.wikipedia.org/wiki/Avnet)
   * [WNC](https://www.wnc.com.tw/) ([Wistron](https://en.wikipedia.org/wiki/Wistron) NeWeb Corporation)
   * [OpenEmbedded](https://en.wikipedia.org/wiki/OpenEmbedded)
-  * [Yocto](https://en.wikipedia.org/wiki/Yocto_Project)
+  * [Yocto Project](https://en.wikipedia.org/wiki/Yocto_Project)
   * [M18Qx IoT Monitor](https://github.com/Avnet/M18QxIotMonitor)
   * [Anjay](https://github.com/AVSystem/Anjay)
   * [Eclipse Leshan](https://github.com/eclipse/leshan)
