@@ -50,6 +50,7 @@
   * [Perplexity](https://en.wikipedia.org/wiki/Perplexity) (*PP*) is a measurement of the randomness of the text\
     A low perplexity indicates the probability distribution is good at predicting the sample.
   * [Burstiness](https://en.wikipedia.org/wiki/Burstiness) is a measurement of the variation in perplexity
+* [AI Detector](https://contentatscale.ai/ai-content-detector/)
 * [Open Neural Network Exchange](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (ONNX)
 * [Peppertype.ai](https://www.peppertype.ai/)
 * [Posemaniacs](https://www.posemaniacs.com/en)
