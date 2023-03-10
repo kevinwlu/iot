@@ -25,6 +25,7 @@
 * [Lumos Labs](https://www.lumoslabs.co/)
   * [BUIDL for Web3](https://hack.lumoslabs.co/)
   * [Lumosity](https://www.lumosity.com/en/)
+* [Sony Depthsensing Solutions](https://en.wikipedia.org/wiki/Sony_Depthsensing_Solutions)
 * [Telit](https://en.wikipedia.org/wiki/Telit)
 ## Energy
 * [Amogy](https://amogy.co/)
