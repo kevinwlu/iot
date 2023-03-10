@@ -100,6 +100,7 @@
 * [Automated guided vehicle](https://en.wikipedia.org/wiki/Automated_guided_vehicle) (AGV)
 * [eLeapPower](https://www.eleappower.com/)
 * [Infinitum](https://goinfinitum.com/)
+* [Unified numbering system](https://en.wikipedia.org/wiki/Unified_numbering_system) (UNS)
 ## Public Services
 * [Food rescue](https://en.wikipedia.org/wiki/Food_rescue)
 * [Olio](https://en.wikipedia.org/wiki/Olio_(app))
