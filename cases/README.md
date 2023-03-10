@@ -125,6 +125,7 @@
 * [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab)
 * [Sierra Space](https://www.sierraspace.com/)
 * [SpaceX](https://en.wikipedia.org/wiki/SpaceX)
+* [Startfish Space](https://www.starfishspace.com/)
 * [United Launch Alliance](https://en.wikipedia.org/wiki/United_Launch_Alliance) (ULA)
 ## Sports
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
