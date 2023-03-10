@@ -101,6 +101,7 @@ Electrical Engineering EE 629
   * [Web Content Accessibility Guidelines](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines) (WCAG)
 
 ## Associations and Communities
+* [4YFN](https://www.4yfn.com/)
 * [American Radio Relay League](https://en.wikipedia.org/wiki/American_Radio_Relay_League) (ARRL)
 * [Consumer Technology Association](https://en.wikipedia.org/wiki/Consumer_Technology_Association) (CTA)
   * [Consumer Electronics Show](https://en.wikipedia.org/wiki/Consumer_Electronics_Show) (CES)
