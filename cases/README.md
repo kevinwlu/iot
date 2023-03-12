@@ -231,6 +231,7 @@
 * [Curlie](https://curlie.org/)
 * [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)
 * [Ecosia](https://en.wikipedia.org/wiki/Ecosia)
+* [Ground News](https://ground.news/)
 * [iFixit](https://en.wikipedia.org/wiki/IFixit)
 * [Living Tomorrow](https://en.wikipedia.org/wiki/Living_Tomorrow)
 * [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(social_network))
