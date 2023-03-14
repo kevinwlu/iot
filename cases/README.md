@@ -205,6 +205,7 @@
 * [Wallbox](https://en.wikipedia.org/wiki/Wallbox)
 * [Waymo](https://en.wikipedia.org/wiki/Waymo)
 * [Wejo](https://en.wikipedia.org/wiki/Wejo)
+* [WeRide](https://en.wikipedia.org/wiki/WeRide)
 * [ZF Friedrichshafen](https://en.wikipedia.org/wiki/ZF_Friedrichshafen)
 * [Zoox](https://en.wikipedia.org/wiki/Zoox_(company))
 ## Transportation: Water
