@@ -234,6 +234,7 @@
 * [Ecosia](https://en.wikipedia.org/wiki/Ecosia)
 * [Ground News](https://ground.news/)
 * [iFixit](https://en.wikipedia.org/wiki/IFixit)
+* [Lifehacker](https://en.wikipedia.org/wiki/Lifehacker)
 * [Living Tomorrow](https://en.wikipedia.org/wiki/Living_Tomorrow)
 * [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(social_network))
 * [Miniwiz](https://en.wikipedia.org/wiki/Miniwiz)
