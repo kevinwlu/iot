@@ -47,6 +47,7 @@ adafruit-nrfutil version 0.5.3.post12
   * [Pulse-density modulation](https://en.wikipedia.org/wiki/Pulse-density_modulation) (PDM)
   * [Adafruit PDM microphone breakout](https://learn.adafruit.com/adafruit-pdm-microphone-breakout/)
   * [MSM261D3526H1CPM](https://files.seeedstudio.com/wiki/XIAO-BLE/mic-MSM261D3526H1CPM-ENG.pdf) MEMS microphone
+    * [Microelectromechanical systems](https://en.wikipedia.org/wiki/MEMS) (MEMS)
   * [Seeed_Arduino_Mic](https://github.com/Seeed-Studio/Seeed_Arduino_Mic) > Code > Download ZIP
   * Arduino IDE > Sketch > Include Library > Add .ZIP Library 
   * Arduino IDE > File > Examples > Seed Arduino Mic > [mic_serial_plotter](/lesson6/xiao/mic_serial_plotter.ino) > Upload
