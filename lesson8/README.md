@@ -179,6 +179,8 @@
   * [OpenAI Codex](https://openai.com/blog/openai-codex/)
   * [DALL-E](https://en.wikipedia.org/wiki/DALL-E)
   * [Point-E](https://github.com/openai/point-e)
+  * [Generative pre-trained transformer](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer) (GPT)
+  * [GPT-2](https://en.wikipedia.org/wiki/GPT-2)
   * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
   * [GPT-4](https://en.wikipedia.org/wiki/GPT-4)
   * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
