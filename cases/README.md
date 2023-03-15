@@ -171,6 +171,7 @@
 * [Canoo](https://en.wikipedia.org/wiki/Canoo)
 * [Canyon Bicycles](https://en.wikipedia.org/wiki/Canyon_Bicycles)
 * [Charging station](https://en.wikipedia.org/wiki/Charging_station)
+* [ClearFlame Engine Technologies](https://www.clearflame.com/)
 * [Cruise](https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle))
 * [Elbee](https://www.elbeemobility.com/)
 * [Faraday Future](https://en.wikipedia.org/wiki/Faraday_Future)
