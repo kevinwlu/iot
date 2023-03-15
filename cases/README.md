@@ -217,6 +217,7 @@
 * [Porrima](https://www.porrima.ch/en/)
 * [Zhuhai Cloud](https://en.wikipedia.org/wiki/Zhuhai_Cloud)
 ## Other
+* [Animagraffs](https://www.youtube.com/@animagraffs/featured)
 * [Corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility) (CSR)
 * [Environmental, social, and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
 * [Pollution](https://en.wikipedia.org/wiki/Pollution)
