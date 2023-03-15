@@ -180,6 +180,7 @@
   * [DALL-E](https://en.wikipedia.org/wiki/DALL-E)
   * [Point-E](https://github.com/openai/point-e)
   * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
+  * [GPT-4](https://en.wikipedia.org/wiki/GPT-4)
   * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
     * ["Introducing ChatGPT"](https://openai.com/blog/chatgpt), November 30, 2022
       * [ChatGPT](https://chat.openai.com/chat)    
