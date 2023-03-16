@@ -242,6 +242,7 @@
 * [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(social_network))
 * [Miniwiz](https://en.wikipedia.org/wiki/Miniwiz)
 * [Neeva](https://neeva.com/)
+* [Noise, vibration, and harshness](https://en.wikipedia.org/wiki/Noise,_vibration,_and_harshness) (NVH)
 * [Sustainable Aviation Fuels](https://www.energy.gov/eere/bioenergy/sustainable-aviation-fuels) (SAF)
 * [Umicore](https://en.wikipedia.org/wiki/Umicore)
 * [You.com](https://you.com/)
