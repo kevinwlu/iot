@@ -176,6 +176,7 @@
 * [Elbee](https://www.elbeemobility.com/)
 * [Faraday Future](https://en.wikipedia.org/wiki/Faraday_Future)
 * [Fisker](https://en.wikipedia.org/wiki/Fisker_Inc.)
+* [Gatik](https://gatik.ai/)
 * [Gillig](https://en.wikipedia.org/wiki/Gillig)
 * [Hyliion](https://www.hyliion.com/)
 * [Hyperloop](https://en.wikipedia.org/wiki/Hyperloop)
