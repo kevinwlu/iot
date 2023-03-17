@@ -18,6 +18,7 @@
 * [List of unmanned aerial vehicles of China](https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicles_of_China)
 * [General Atomics Aeronautical Systems](https://en.wikipedia.org/wiki/General_Atomics_Aeronautical_Systems)
 * [Skydio](https://en.wikipedia.org/wiki/Skydio)
+* [Zipline](https://www.flyzipline.com/)
 ## Education
 * [Labster](https://www.labster.com/)
 * [Riiid](https://riiid.com/)
