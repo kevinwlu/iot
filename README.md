@@ -117,6 +117,7 @@ Electrical Engineering EE 629
 * [Nendica: IEEE 802 Network Enhancements for the Next Decade](https://1.ieee802.org/802-nendica/)
 * [Nokia IoT Community](https://open-ecosystem.org/node/5596)
 * [Product Hunt](https://en.wikipedia.org/wiki/Product_Hunt)
+* [Volition](https://www.govolition.com/)
 
 ## Aliances and Consortia
 * [5G-ACIA](https://5g-acia.org/) (5G Alliance for Connected Industries and Automation)
