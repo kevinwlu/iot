@@ -80,6 +80,7 @@
 * [Renewcell](https://www.renewcell.com/en/)
 ## Finance
 * [Financialization](https://en.wikipedia.org/wiki/Financialization)
+* [Fintech](https://en.wikipedia.org/wiki/Fintech)
 * [FIRE economy](https://en.wikipedia.org/wiki/FIRE_economy) based on finance, insurance, and real estate (FIRE)
 * [Niftify](https://www.niftify.io/)
 * [OpenSea](https://en.wikipedia.org/wiki/OpenSea)
