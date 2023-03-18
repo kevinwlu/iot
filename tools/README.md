@@ -20,7 +20,9 @@
 * [App Inventor for Android](https://en.wikipedia.org/wiki/App_Inventor_for_Android)
 * [MIT App Inventor](https://appinventor.mit.edu/)
 * [Mobile app development](https://en.wikipedia.org/wiki/Mobile_app_development)
-## Artificial Intelligence
+## Artificial Intelligence (AI)
+* [AI generated content](https://github.com/gongminmin/awesome-aigc) (AIGC) by [Minmin Gong](https://www.linkedin.com/in/minmin-gong-51323138/)
+  * [Technology readiness level](https://en.wikipedia.org/wiki/Technology_readiness_level) (TRL)
 * [AI Query](https://www.aiquery.co/)
 * [AI Code Reviewer](https://ai-code-reviewer.com/)
 * [AnimeGAN.js](https://animegan.js.org/)
