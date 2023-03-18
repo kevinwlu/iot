@@ -84,7 +84,7 @@
 * [FIRE economy](https://en.wikipedia.org/wiki/FIRE_economy) based on finance, insurance, and real estate (FIRE)
 * [Niftify](https://www.niftify.io/)
 * [OpenSea](https://en.wikipedia.org/wiki/OpenSea)
-## Healthcare
+## Health
 * [Airgami](https://www.airgami.life/)
 * [Display screen with light-emitting diodes for ultraviolet disinfection](https://patents.google.com/patent/US9492576B1/en)
   * [Self-cleaning system for displays using light emitting diodes emitting invisible violet light](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11579340)
@@ -94,6 +94,7 @@
 * [Kinsa](https://en.wikipedia.org/wiki/Kinsa)
 * [Little Otter](https://www.littleotterhealth.com/)
 * [Smart Nora](https://smartnora.com/)
+* [Titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide)
 * [Toi Labs](https://www.toilabs.com/)
 * [Upright](https://www.uprightpose.com/)
 * [Withings](https://en.wikipedia.org/wiki/Withings)
