@@ -93,6 +93,7 @@ Electrical Engineering EE 629
 * [Health Insurance Portability and Accountability Act](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act) (HIPAA)
 * [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act) (CCPA)
 * [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (GDPR)
+* [National Highway Traffic Safety Administration](https://en.wikipedia.org/wiki/National_Highway_Traffic_Safety_Administration) (NHTSA)
 * [Personal Information Protection Law](https://en.wikipedia.org/wiki/Personal_Information_Protection_Law_of_the_People's_Republic_of_China) (PIPL)
 * [Supply chain security](https://en.wikipedia.org/wiki/Supply_chain_security)
 * [U.S. Consumer Product Safety Commission](https://en.wikipedia.org/wiki/U.S._Consumer_Product_Safety_Commission) (CPSC)
