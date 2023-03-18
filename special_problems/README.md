@@ -17,6 +17,7 @@
 * Deepfake Video Detection Using CNN and RNN
 
 ## 2022 Fall
+* Helmet Detection Using Mask R-CNN and Faster R-CNN
 * [Wireless Online Shopping for Visually Impaired People Using Natural Language Processing and Face Recognition Mechanism](https://github.com/kiratjadhav/Wireless-Online-Shopping-for-Visually-Impaired-People-Using-Natural-Language-Processing-and-Face-Rec)
 
 ## 2022 Spring
