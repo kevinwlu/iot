@@ -11,10 +11,10 @@
 * [FERET database](https://en.wikipedia.org/wiki/FERET_database)
 
 ## 2023 Spring
-* [Temporal Action Recognition in Videos](https://github.com/CoffeeJarr/800A)
 * [Building Recognition of UAV Remote Sensing Images Based on Mask R-CNN](https://github.com/spark1et/Object-Detection-Based-on-Mask-R-CNN)
-* [Helping HR Predict Employee Attrition](https://github.com/yijirong)
 * Deepfake Video Detection Using CNN and RNN
+* [Helping HR Predict Employee Attrition](https://github.com/yijirong)
+* [Temporal Action Recognition in Videos](https://github.com/CoffeeJarr/800A)
 
 ## 2022 Fall
 * Helmet Detection Using Mask R-CNN and Faster R-CNN
