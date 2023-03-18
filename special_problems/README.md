@@ -11,7 +11,7 @@
 * [FERET database](https://en.wikipedia.org/wiki/FERET_database)
 
 ## 2023 Spring
-* [Real-Time Gesture Recognition Based on VGG](https://github.com/coffeejarr)
+* [Temporal Action Recognition in Videos](https://github.com/coffeejarr)
 * [Building Recognition of UAV Remote Sensing Images Based on Mask R-CNN](https://github.com/spark1et/Object-Detection-Based-on-Mask-R-CNN)
 * [Helping HR Predict Employee Attrition](https://github.com/yijirong)
 * Deepfake Video Detection Using CNN and RNN
