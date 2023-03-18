@@ -84,7 +84,7 @@
 * [FIRE economy](https://en.wikipedia.org/wiki/FIRE_economy) based on finance, insurance, and real estate (FIRE)
 * [Niftify](https://www.niftify.io/)
 * [OpenSea](https://en.wikipedia.org/wiki/OpenSea)
-## Health
+## Healthcare
 * [Airgami](https://www.airgami.life/)
 * [Display screen with light-emitting diodes for ultraviolet disinfection](https://patents.google.com/patent/US9492576B1/en)
   * [Self-cleaning system for displays using light emitting diodes emitting invisible violet light](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11579340)
@@ -94,7 +94,6 @@
 * [Kinsa](https://en.wikipedia.org/wiki/Kinsa)
 * [Little Otter](https://www.littleotterhealth.com/)
 * [Smart Nora](https://smartnora.com/)
-* [Titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide)
 * [Toi Labs](https://www.toilabs.com/)
 * [Upright](https://www.uprightpose.com/)
 * [Withings](https://en.wikipedia.org/wiki/Withings)
@@ -225,7 +224,7 @@
 * [Animagraffs](https://www.youtube.com/@animagraffs/featured)
 * [Corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility) (CSR)
 * [Environmental, social, and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
-* [Pollution](https://en.wikipedia.org/wiki/Pollution)
+  * [Pollution](https://en.wikipedia.org/wiki/Pollution)
   * [Chlorofluorocarbon](https://en.wikipedia.org/wiki/Chlorofluorocarbon) (CFC)
   * [Persistent organic pollutant](https://en.wikipedia.org/wiki/Persistent_organic_pollutant) (POP)
   * [Per- and polyfluoroalkyl substances](https://en.wikipedia.org/wiki/Per-_and_polyfluoroalkyl_substances) (PFAS)
@@ -235,6 +234,7 @@
   * [Polychlorinated biphenyl](https://en.wikipedia.org/wiki/Polychlorinated_biphenyl) (PCB)
   * [Phosgene](https://en.wikipedia.org/wiki/Phosgene)
   * [Tetraethyllead](https://en.wikipedia.org/wiki/Tetraethyllead) (TEL)
+  * [Titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide)
 * [Bored Panda](https://en.wikipedia.org/wiki/Bored_Panda)
 * [Curlie](https://curlie.org/)
 * [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)
