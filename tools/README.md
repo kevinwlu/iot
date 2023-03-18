@@ -59,7 +59,7 @@
 * [Peppertype.ai](https://www.peppertype.ai/)
 * [Posemaniacs](https://www.posemaniacs.com/en)
 * [Snapchat](https://en.wikipedia.org/wiki/Snapchat)
-  * [My AI](https://newsroom.snap.com/say-hi-to-my-ai)
+  * [My AI](https://newsroom.snap.com/say-hi-to-my-ai), February 27, 2023
 * [Stability AI](https://stability.ai/)
 * [Synthesia](https://www.synthesia.io/)
 * [Tome](https://beta.tome.app/)
