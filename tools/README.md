@@ -65,6 +65,8 @@
 * [Tome](https://beta.tome.app/)
 ## Book Summarizing
 * [Blinkist](https://en.wikipedia.org/wiki/Blinkist)
+* [BookRag](http://www.bookrags.com/)
+* [GetAbstract](https://en.wikipedia.org/wiki/GetAbstract)
 ## Chat
 * [Comparison of cross-platform instant messaging clients](https://en.wikipedia.org/wiki/Comparison_of_cross-platform_instant_messaging_clients)
   * [Instant messaging](https://en.wikipedia.org/wiki/Instant_messaging) (IM)
