@@ -63,6 +63,8 @@
 * [Stability AI](https://stability.ai/)
 * [Synthesia](https://www.synthesia.io/)
 * [Tome](https://beta.tome.app/)
+## Book Summarizing
+* [Blinkist](https://en.wikipedia.org/wiki/Blinkist)
 ## Chat
 * [Comparison of cross-platform instant messaging clients](https://en.wikipedia.org/wiki/Comparison_of_cross-platform_instant_messaging_clients)
   * [Instant messaging](https://en.wikipedia.org/wiki/Instant_messaging) (IM)
