@@ -26,6 +26,8 @@
   * [Spam (Monty Python)](https://en.wikipedia.org/wiki/Spam_(Monty_Python)) and [spamming](https://en.wikipedia.org/wiki/Spamming)
   * [Xyzzy](https://en.wikipedia.org/wiki/Xyzzy_(computing))
 * [Bitwise operators](https://wiki.python.org/moin/BitwiseOperators)
+* [Python virtual environments and packages](https://docs.python.org/3/tutorial/venv.html)
+  > A cooperatively isolated runtime environment that allows Python users and applications to install and upgrade Python distribution packages without interfering with the behaviour of other Python applications running on the same system.
 * [pip](https://en.wikipedia.org/wiki/Pip_(package_manager))
   * [Setuptools](https://en.wikipedia.org/wiki/Setuptools)
   * [2to3](https://docs.python.org/3/library/2to3.html)
