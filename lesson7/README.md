@@ -76,6 +76,7 @@ $ scp rpidata-*.json pi@192.168.x.xxx:/home/pi/demo
 ```sh
 $ mv ~/Downloads/rpidata-*.json ~/demo
 ```
+### [How to copy files from Windows to Ubuntu in WSL on the same host](https://linuxhint.com/copy-files-from-windows-ubuntu-wsl-same-host/)
 
 ### Go to [Google Sheets](https://docs.google.com/spreadsheets/u/0)
 
