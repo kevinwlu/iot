@@ -106,6 +106,7 @@ Electrical Engineering EE 629
 
 ## Associations and Communities
 * [4YFN](https://www.4yfn.com/)
+* [Augmented World Expo](https://www.awexr.com/) (AWE)
 * [American Radio Relay League](https://en.wikipedia.org/wiki/American_Radio_Relay_League) (ARRL)
 * [Consumer Technology Association](https://en.wikipedia.org/wiki/Consumer_Technology_Association) (CTA)
   * [Consumer Electronics Show](https://en.wikipedia.org/wiki/Consumer_Electronics_Show) (CES)
