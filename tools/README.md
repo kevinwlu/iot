@@ -49,7 +49,8 @@
 * [OpenAI](https://openai.com/)
   * [ChatGPT](https://chat.openai.com/chat)
   * [AI Text Classifier](https://platform.openai.com/ai-text-classifier) requires at least 1,000 characters, which is approximately 150 - 250 words
-* [Feedback with ChapGPT](https://feedbackbyai.com/) by [AI Charactors](https://feedbackbyai.com/characters)
+* [Feedback by AI](https://feedbackbyai.com/)
+  * [AI Charactors](https://feedbackbyai.com/characters)
 * [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg)
 * [GPTZero](https://gptzero.me/)
   * [Perplexity](https://en.wikipedia.org/wiki/Perplexity) (*PP*) is a measurement of the randomness of the text\
