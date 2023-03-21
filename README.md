@@ -116,7 +116,11 @@ Electrical Engineering EE 629
   * [Mobile World Congress](https://en.wikipedia.org/wiki/Mobile_World_Congress) (MWC)
 * [Hackster.io](https://www.hackster.io/), an [Avnet](https://en.wikipedia.org/wiki/Avnet) community
 * [IBM IoT Community](https://community.ibm.com/community/user/iot/home)
+* [IEEE Blended Learning Portal](https://blended-learning.ieee.org/Portal/) (BLP)
 * [IEEE IoT Technical Community](https://iot.ieee.org/)
+* [IEEE Metaverse Congress](https://engagestandards.ieee.org/IEEE-Metaverse-Congress.html)
+* [IEEE SA Events](https://standards.ieee.org/events/)
+* [IEEE SA Interactive Cityscape](https://standards.ieee.org/wp-content/uploads/interactive/web/cityscape/index.htm)
 * [IoT Communities](https://iotcommunity.net/)
 * [IoT Developer Communities](https://www.iotevolutionworld.com/iot/articles/444725-iot-developer-communities-platforms-people-productivity-2020.htm)
 * [Microsoft IoT Community](https://techcommunity.microsoft.com/t5/internet-of-things-iot/ct-p/IoT)
