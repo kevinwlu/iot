@@ -205,6 +205,7 @@
 * [New Flyer](https://en.wikipedia.org/wiki/New_Flyer)
 * [Innoviz](https://innoviz.tech/)
 * [INRIX](https://en.wikipedia.org/wiki/INRIX)
+* [itselectric](https://www.itselectric.us/)
 * [Karma Automotive](https://en.wikipedia.org/wiki/Karma_Automotive)
 * [Lion Electric Company](https://en.wikipedia.org/wiki/Lion_Electric_Company)
 * [Lordstown Motors](https://en.wikipedia.org/wiki/Lordstown_Motors)
