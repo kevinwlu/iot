@@ -162,6 +162,7 @@
   * [Language Model Scaling Laws and GPT-3](https://towardsdatascience.com/language-model-scaling-laws-and-gpt-3-5cdc034e67bb)
 * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
+  * [Bard](https://bard.google.com/)
   * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
   * [LaMDA](https://blog.google/technology/ai/lamda/)
   * R. Thoppilan et al., [LaMDA: Language Model for Dialogue Applications](https://arxiv.org/abs/2201.08239)
