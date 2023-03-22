@@ -33,6 +33,7 @@
 * [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot)
 * [Google AI](https://ai.google/tools/)
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
+  * [Bard](https://bard.google.com/)
   * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
   * [DreamFusion](https://dreamfusion3d.github.io/)
   * [LaMDA](https://blog.google/technology/ai/lamda/), May 18, 2021
