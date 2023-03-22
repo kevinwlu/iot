@@ -207,6 +207,7 @@
 * [INRIX](https://en.wikipedia.org/wiki/INRIX)
 * [itselectric](https://www.itselectric.us/)
 * [Karma Automotive](https://en.wikipedia.org/wiki/Karma_Automotive)
+* [Kempower](https://kempower.com/)
 * [Lion Electric Company](https://en.wikipedia.org/wiki/Lion_Electric_Company)
 * [Lordstown Motors](https://en.wikipedia.org/wiki/Lordstown_Motors)
 * [Lucid Motors](https://en.wikipedia.org/wiki/Lucid_Motors)
