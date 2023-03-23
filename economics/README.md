@@ -31,6 +31,7 @@
   * [Osakeyhtiö](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6) (Oy)
   * [Public limited company](https://en.wikipedia.org/wiki/Public_limited_company) (PLC)
   * [Spółka z ograniczoną odpowiedzialnością](https://en.wikipedia.org/wiki/Sp%C3%B3%C5%82ka_z_ograniczon%C4%85_odpowiedzialno%C5%9Bci%C4%85) (Sp. z.o.o.)
+* [Minsky moment](https://en.wikipedia.org/wiki/Minsky_moment)
 * [Price–earnings ratio](https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio) (P/E ratio)
 * [Rate of return](https://en.wikipedia.org/wiki/Rate_of_return)
 * [Return on investment](https://en.wikipedia.org/wiki/Return_on_investment) (ROI)
