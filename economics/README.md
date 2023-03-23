@@ -36,6 +36,7 @@
 * [Rate of return](https://en.wikipedia.org/wiki/Rate_of_return)
 * [Return on investment](https://en.wikipedia.org/wiki/Return_on_investment) (ROI)
 * [Selling, General, and Administrative Expenses](https://en.wikipedia.org/wiki/SG%26A) (SG&A)
+* [Shovel ready](https://en.wikipedia.org/wiki/Shovel_ready)
 * [Time value of money](https://en.wikipedia.org/wiki/Time_value_of_money)
 * [Tokenomics](https://en.wikipedia.org/wiki/Tokenomics)
 * [World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum) (WEF)
