@@ -30,6 +30,7 @@
 * [Sony Depthsensing Solutions](https://en.wikipedia.org/wiki/Sony_Depthsensing_Solutions)
 * [Telit](https://en.wikipedia.org/wiki/Telit)
 ## Energy
+* [Air Liquide](https://en.wikipedia.org/wiki/Air_Liquide)
 * [Amogy](https://amogy.co/)
   * [Ammonia](https://en.wikipedia.org/wiki/Ammonia)
 * [CATL](https://en.wikipedia.org/wiki/CATL)
