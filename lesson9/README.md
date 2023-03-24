@@ -34,6 +34,7 @@
   * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
 * [Creatio](https://en.wikipedia.org/wiki/Creatio) process automation
 ## Qiskit
+* [*My Quantum Experiment*](https://johnhorgan.org/books/my-quantum-experiment) by [John Horgan](https://johnhorgan.org/)
 * [Timeline of quantum computing and communication](https://en.wikipedia.org/wiki/Timeline_of_quantum_computing_and_communication)
 * [List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
   * [NQI](https://en.wikipedia.org/wiki/National_Quantum_Initiative_Act) (The National Quantum Initiative Act)
