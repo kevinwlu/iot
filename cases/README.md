@@ -143,6 +143,7 @@
 * [Apptronik](https://apptronik.com/)
 * [Intrinsic](https://intrinsic.ai/)
 * [Nauticus Robotics](https://nauticusrobotics.com/)
+* [Nuro](https://en.wikipedia.org/wiki/Nuro)
 * [Open Robotics](https://en.wikipedia.org/wiki/Open_Robotics)
 * [Optimus (robot)](https://en.wikipedia.org/wiki/Optimus_(robot))
 ## Space
