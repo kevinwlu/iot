@@ -36,6 +36,7 @@
   * [Sodium-ion battery](https://en.wikipedia.org/wiki/Sodium-ion_battery)
 * [ChargePoint](https://en.wikipedia.org/wiki/ChargePoint)
 * [Charging station](https://en.wikipedia.org/wiki/Charging_station)
+* [Connected Kerb](https://www.connectedkerb.com/)
 * [Eco Wave Power](https://www.ecowavepower.com/)
   * [Tidal power](https://en.wikipedia.org/wiki/Tidal_power)
   * [Wave power](https://en.wikipedia.org/wiki/Wave_power)
