@@ -35,9 +35,8 @@
 * [TinyCircuits](https://tinycircuits.com/)
   * [TinyDuino](https://tinycircuits.com/products/tinyduino-processor-board)
   * [GitHub](https://github.com/TinyCircuits)
-* [Heltec Automation](https://heltec.org/)
-  * [HTIT-WB32](https://heltec.org/project/wifi-kit-32/)
-  * [GitHub](https://github.com/HelTecAutomation)
+* [Seeed XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/) by [Seeed Studio](https://www.seeed.cc/)
+  * [XIAO](/lesson6/xiao) in Lesson 6
 * [4G](https://en.wikipedia.org/wiki/4G)
   * [Waveshare SIM7600A-H 4G HAT](https://www.waveshare.com/sim7600a-h-4g-hat.htm)
   * [Makerfabs 4G LTE Hat for Raspberry Pi](https://github.com/Makerfabs/4G-LTE-Hat-For-Raspberry-Pi)
@@ -52,6 +51,13 @@
   * [M18Qx IoT Monitor](https://github.com/Avnet/M18QxIotMonitor)
   * [Anjay](https://github.com/AVSystem/Anjay) lightweight machine-to-machine (LwM2M) library
   * [Eclipse Leshan](https://github.com/eclipse/leshan)
+* [Heltec Automation](https://heltec.org/)
+  * [HTIT-WB32](https://heltec.org/project/wifi-kit-32/)
+  * [GitHub](https://github.com/HelTecAutomation)
+* [STM32](https://en.wikipedia.org/wiki/STM32)
+  * [Nucleo-64](https://www.st.com/en/evaluation-tools/nucleo-f072rb.html)
+  * [Mbed](https://en.wikipedia.org/wiki/Mbed)
+  * [ARMmbed/mbed-os-example-blinky](https://github.com/ARMmbed/mbed-os-example-blinky)
 * [ESP32](https://en.wikipedia.org/wiki/ESP32)
   * [Obsidian Boa](https://github.com/gregdavill/obsidian-boa)
 * [ESP8266](https://en.wikipedia.org/wiki/ESP8266)
@@ -61,12 +67,6 @@
 * [Particle](https://www.particle.io/)
   * [Particle](/lesson6/particle) in Lesson 6
 * [Redbear Duo](https://github.com/redbear/Duo)
-* [Seeed XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/) by [Seeed Studio](https://www.seeed.cc/)
-  * [XIAO](/lesson6/xiao) in Lesson 6
-* [STM32](https://en.wikipedia.org/wiki/STM32)
-  * [Nucleo-64](https://www.st.com/en/evaluation-tools/nucleo-f072rb.html)
-  * [Mbed](https://en.wikipedia.org/wiki/Mbed)
-  * [ARMmbed/mbed-os-example-blinky](https://github.com/ARMmbed/mbed-os-example-blinky)
 * [Tessel](https://tessel.github.io/t2-start/)
 ##
 * [CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol) (Constrained Application Protocol)
