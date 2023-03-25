@@ -28,6 +28,7 @@
 * [AI Code Reviewer](https://ai-code-reviewer.com/)
 * [AnimeGAN.js](https://animegan.js.org/)
 * [Baidu](https://en.wikipedia.org/wiki/Baidu)
+  * [How to register Baidu account outside China](https://www.adchina.io/how-to-open-a-baidu-account-outside-china/)
   * [ERNIE Bot](https://yiyan.baidu.com/)
 * [Copy.ai](https://www.copy.ai/)
 * [CustomGPT](https://customgpt.ai/)
