@@ -10,6 +10,7 @@
   * [Sampling](https://en.wikipedia.org/wiki/Sampling_(signal_processing))
   * [Nyquist frequency](https://en.wikipedia.org/wiki/Nyquist_frequency)
 * [Online tone generator](https://onlinetonegenerator.com/)
+* [Voice frequency](https://en.wikipedia.org/wiki/Voice_frequency)
 * [Periodogram](https://en.wikipedia.org/wiki/Periodogram)
 * [Spectral density estimation](https://en.wikipedia.org/wiki/Spectral_density_estimation)
 * [Autoregressive–moving-average model](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) (ARMA)
