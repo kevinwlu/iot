@@ -27,6 +27,8 @@
 * [AI Query](https://www.aiquery.co/)
 * [AI Code Reviewer](https://ai-code-reviewer.com/)
 * [AnimeGAN.js](https://animegan.js.org/)
+* [Baidu](https://en.wikipedia.org/wiki/Baidu)
+  * [ERNIE Bot](https://yiyan.baidu.com/)
 * [Copy.ai](https://www.copy.ai/)
 * [CustomGPT](https://customgpt.ai/)
 * [DeepL](https://www.deepl.com/)
