@@ -13,3 +13,4 @@
 * [Percutaneous aortic valve replacement](https://en.wikipedia.org/wiki/Percutaneous_aortic_valve_replacement) (PAVR)
 * [Photoplethysmogram](https://en.wikipedia.org/wiki/Photoplethysmogram) (PPG)
 * [Sedentary lifestyle](https://en.wikipedia.org/wiki/Sedentary_lifestyle)
+* [Sphygmomanometer](https://en.wikipedia.org/wiki/Sphygmomanometer)
