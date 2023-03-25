@@ -4,7 +4,7 @@
 * [Continuous noninvasive arterial pressure](https://en.wikipedia.org/wiki/Continuous_noninvasive_arterial_pressure) (CNAP)
 * [Data acquisition](https://en.wikipedia.org/wiki/Data_acquisition)
 * [Electrocardiography](https://en.wikipedia.org/wiki/Electrocardiography) (ECG or EKG)
-* [Ex vivo](https://en.wikipedia.org/wiki/Ex_vivo), [In vivo](https://en.wikipedia.org/wiki/In_vivo)
+* [Ex vivo](https://en.wikipedia.org/wiki/Ex_vivo), [in vivo](https://en.wikipedia.org/wiki/In_vivo)
 * [Fiducial marker](https://en.wikipedia.org/wiki/Fiducial_marker)
 * [Holter monitor](https://en.wikipedia.org/wiki/Holter_monitor)
 * [Impedance cardiography](https://en.wikipedia.org/wiki/Impedance_cardiography) (ICG)
