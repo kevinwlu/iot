@@ -31,6 +31,7 @@
 * [DeepL](https://www.deepl.com/)
 * [GPTZero](https://gptzero.me/) requires at least 250 characters
 * [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot)
+  * [GitHub Copilot X](https://github.com/features/preview/copilot-x)
 * [Google AI](https://ai.google/tools/)
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
   * [Bard](https://bard.google.com/)
