@@ -51,7 +51,7 @@
 * [Natural language generation](https://en.wikipedia.org/wiki/Natural_language_generation) (NLG)
 * [OpenAI](https://openai.com/)
   * [ChatGPT](https://chat.openai.com/chat)
-  * [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins)
+  * [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins), March 23, 2023
   * [AI Text Classifier](https://platform.openai.com/ai-text-classifier) requires at least 1,000 characters, which is approximately 150 - 250 words
 * [Feedback by AI](https://feedbackbyai.com/)
   * [AI Characters](https://feedbackbyai.com/characters)
