@@ -140,6 +140,7 @@ Electrical Engineering EE 629
 * [Avnu Alliance](https://en.wikipedia.org/wiki/Avnu_Alliance)
 * [BITA Standards Council](https://bitastandardscouncil.org/) (BSC)
 * [Bluetooth Special Interest Group (SIG)](https://en.wikipedia.org/wiki/Bluetooth_Special_Interest_Group)
+* [Clean Freight Coalition](cleanfreightcoalition.org)
 * [Clinical Research Data Sharing Alliance](https://crdsalliance.org/) (CRDSA)
 * [Cloud Security Alliance](https://en.wikipedia.org/wiki/Cloud_Security_Alliance) (CSA)
 * [Cloud Signature Consortium](https://cloudsignatureconsortium.org/) (CSC)
