@@ -14,6 +14,7 @@ Electrical Engineering EE 629
 * [Apps](/apps)
 * [Engineering Economics](/economics)
 * [Gartner hype cycle](/hype)
+* [Health](/health)
 * [Makeathon](/make)
 * [Projects](/projects)
 * [Special problems](/projects)
