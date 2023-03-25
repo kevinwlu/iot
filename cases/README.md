@@ -137,6 +137,7 @@
 * [MagicMirror](https://magicmirror.builders/)
 * [Otter](https://withotter.com/)
 ## Retail
+* [Amazon One](https://en.wikipedia.org/wiki/Amazon_One)
 * [Ocado](https://en.wikipedia.org/wiki/Ocado)
 ## Robotics
 * [Ameca](https://www.engineeredarts.co.uk/robot/ameca/)
