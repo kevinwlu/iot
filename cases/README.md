@@ -115,6 +115,7 @@
 * [iollo](https://www.iollo.com/)
 * [Kinsa](https://en.wikipedia.org/wiki/Kinsa)
 * [Little Otter](https://www.littleotterhealth.com/)
+* [Sedentary lifestyle](https://en.wikipedia.org/wiki/Sedentary_lifestyle)
 * [Smart Nora](https://smartnora.com/)
 * [Toi Labs](https://www.toilabs.com/)
 * [Upright](https://www.uprightpose.com/)
