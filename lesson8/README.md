@@ -103,9 +103,8 @@
 * [Seaborn](https://seaborn.pydata.org/)
 * [Bokeh](https://bokeh.org/)
 
-##
+## Pandas
 * [Pandas](https://en.wikipedia.org/wiki/Pandas_(software)) Python data analysis library
-* [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 
 ## Machine Learning
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML)
