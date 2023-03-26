@@ -73,6 +73,7 @@
 * [5G network slicing](https://en.wikipedia.org/wiki/5G_network_slicing)
 * [6G](https://en.wikipedia.org/wiki/6G_(network))
   * [Brooklyn 6G Summit](https://b6gs.com/)
+* [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
 * [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
   * [Cloud-computing comparison](https://en.wikipedia.org/wiki/Cloud-computing_comparison)
   * [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) (AWS)
@@ -84,7 +85,6 @@
   * [Oracle Cloud](https://en.wikipedia.org/wiki/Oracle_Cloud) Infrastructure (OCI)
 * [DevOps](https://en.wikipedia.org/wiki/DevOps)
     * Google Cloud [DevOps Research and Assessment](https://cloud.google.com/devops) (DORA)
-* [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
 ##
 * *[Internet of Things: A Hands-On Approach](http://www.hands-on-books-series.com/iot.html)* by [Arshdeep Bahga](https://arshdeep.bahga.in/) and [Vijay Madisetti](https://research.gatech.edu/vijay-madisetti)
 
