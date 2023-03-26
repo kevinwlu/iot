@@ -29,6 +29,7 @@
 * [Splunk](https://en.wikipedia.org/wiki/Splunk)
 * [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code) (IaC)
   * [Ansible](https://en.wikipedia.org/wiki/Ansible_(software))
+  * [CFEngine](https://en.wikipedia.org/wiki/CFEngine)
   * [Progress Chef](https://en.wikipedia.org/wiki/Progress_Chef)
   * [Puppet](https://en.wikipedia.org/wiki/Puppet_(software))
   * [Terraform](https://en.wikipedia.org/wiki/Terraform_(software))
