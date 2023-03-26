@@ -2,7 +2,7 @@
 * [Aortic stenosis](https://en.wikipedia.org/wiki/Aortic_stenosis)
 * [Blood pressure](https://en.wikipedia.org/wiki/Blood_pressure)
 * [Continuous noninvasive arterial pressure](https://en.wikipedia.org/wiki/Continuous_noninvasive_arterial_pressure) (CNAP)
-* [Data acquisition](https://en.wikipedia.org/wiki/Data_acquisition)
+* [Data acquisition](https://en.wikipedia.org/wiki/Data_acquisition) (DAQ)
 * [Electrocardiography](https://en.wikipedia.org/wiki/Electrocardiography) (ECG or EKG)
   * [Gyrocardiography](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7700364/) (GCG)
   * [Impedance cardiography](https://en.wikipedia.org/wiki/Impedance_cardiography) (ICG)
