@@ -43,7 +43,7 @@
 * [Zero-based budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting) (ZBB)
 ## 
 * [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)
-  * [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore)
+  * [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore) 1929&mdash;2023
   * [Robert Noyce](https://en.wikipedia.org/wiki/Robert_Noyce) 1927&mdash;1990
   * P. E. Ross, "[5 commandments](https://spectrum.ieee.org/5-commandments)," _IEEE Spectrum_, December 1, 2003
 * [Moore's second law](https://en.wikipedia.org/wiki/Moore%27s_second_law) or Rock's law
