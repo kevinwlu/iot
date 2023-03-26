@@ -28,6 +28,7 @@
 * [Prometheus](https://en.wikipedia.org/wiki/Prometheus_(software))
 * [Splunk](https://en.wikipedia.org/wiki/Splunk)
 * [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code) (IaC)
+  * [Comparison of open-source configuration management software](https://en.wikipedia.org/wiki/Comparison_of_open-source_configuration_management_software)
   * [Ansible](https://en.wikipedia.org/wiki/Ansible_(software))
   * [CFEngine](https://en.wikipedia.org/wiki/CFEngine)
   * [Progress Chef](https://en.wikipedia.org/wiki/Progress_Chef)
