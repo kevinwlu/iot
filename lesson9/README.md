@@ -34,6 +34,10 @@
   * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
 * [Creatio](https://en.wikipedia.org/wiki/Creatio) process automation
 * [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code) (IaC)
+  * [Ansible](https://en.wikipedia.org/wiki/Ansible_(software))
+  * [Progress Chef](https://en.wikipedia.org/wiki/Progress_Chef)
+  * [Puppet](https://en.wikipedia.org/wiki/Puppet_(software))
+  * [Terraform](https://en.wikipedia.org/wiki/Terraform_(software))
 ## Qiskit
 * [*My Quantum Experiment*](https://johnhorgan.org/books/my-quantum-experiment) by [John Horgan](https://johnhorgan.org/)
 * [Timeline of quantum computing and communication](https://en.wikipedia.org/wiki/Timeline_of_quantum_computing_and_communication)
