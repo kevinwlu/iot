@@ -33,6 +33,7 @@
 * [Microservices](https://en.wikipedia.org/wiki/Microservices)
   * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
 * [Creatio](https://en.wikipedia.org/wiki/Creatio) process automation
+* [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code) (IaC)
 ## Qiskit
 * [*My Quantum Experiment*](https://johnhorgan.org/books/my-quantum-experiment) by [John Horgan](https://johnhorgan.org/)
 * [Timeline of quantum computing and communication](https://en.wikipedia.org/wiki/Timeline_of_quantum_computing_and_communication)
