@@ -23,6 +23,7 @@
   * [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics) (Portable Network Graphics)
   * [GIMP](https://en.wikipedia.org/wiki/GIMP) (GNU Image Manipulation Program)
   * [Pinta](https://en.wikipedia.org/wiki/Pinta_(software))
+* [Splunk](https://en.wikipedia.org/wiki/Splunk)
 * [NetHogs](https://github.com/raboof/nethogs)
 * [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code) (IaC)
   * [Ansible](https://en.wikipedia.org/wiki/Ansible_(software))
