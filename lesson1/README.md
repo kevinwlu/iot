@@ -27,6 +27,7 @@
 * [Local area network](https://en.wikipedia.org/wiki/Local_area_network) (LAN)
   * [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi)
   * [IEEE 802.11](https://en.wikipedia.org/wiki/IEEE_802.11)
+  * [WiGig](https://en.wikipedia.org/wiki/WiGig)
   * [Service set](https://en.wikipedia.org/wiki/Service_set_(802.11_network)) identifier (SSID)
   * [Li-Fi](https://en.wikipedia.org/wiki/Li-Fi)
 * [Personal area network](https://en.wikipedia.org/wiki/Personal_area_network) (PAN)
