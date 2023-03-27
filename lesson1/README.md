@@ -105,6 +105,7 @@
 * [Comparison of computer viruses](https://en.wikipedia.org/wiki/Comparison_of_computer_viruses)
 * [Comparison of antivirus software](https://en.wikipedia.org/wiki/Comparison_of_antivirus_software)
 * [Authentication, Authorization, and Accounting](https://en.wikipedia.org/wiki/AAA_(computer_security)) (AAA)
+* [Honeypot](https://en.wikipedia.org/wiki/Honeypot_(computing))
 * [Cloud computing security](https://en.wikipedia.org/wiki/Cloud_computing_security)
   * NIST [cloud security](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/cloud-security)
 * [Secure access service edge](https://en.wikipedia.org/wiki/Secure_access_service_edge) (SASE)
