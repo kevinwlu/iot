@@ -13,4 +13,4 @@
 * [Air flow meter](https://en.wikipedia.org/wiki/Air_flow_meter)
 * [Anemometer](https://en.wikipedia.org/wiki/Anemometer)
 ## Actuators
-* [Actuator)](https://en.wikipedia.org/wiki/Actuator)
+* [Actuator](https://en.wikipedia.org/wiki/Actuator)
