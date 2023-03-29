@@ -7,3 +7,10 @@
 * [Make: Makerthon](https://makezine.com/tag/makerthon/)
 * [USC Make-a-Thon](https://www.uscmakeathon.com/)
 * [Health Make-a-Thon](https://healthmakerlab.medicine.illinois.edu/)
+## Sensors
+* [Sensor](https://en.wikipedia.org/wiki/Sensor)
+* [List of sensors](https://en.wikipedia.org/wiki/List_of_sensors)
+* [Air flow meter](https://en.wikipedia.org/wiki/Air_flow_meter)
+* [Anemometer](https://en.wikipedia.org/wiki/Anemometer)
+## Actuators
+* [Actuator)](https://en.wikipedia.org/wiki/Actuator)
