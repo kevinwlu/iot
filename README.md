@@ -1,6 +1,7 @@
 # Internet of Things (IoT)
 Electrical Engineering EE 629
 * [Kevin Lu](https://www.stevens.edu/profile/klu2) from 2015 Spring to 2021 Fall
+* [Learning](https://github.com/kevinwlu/kevinwlu.github.io/tree/main/Learning)
 * [Lesson 1](/lesson1): Overview
 * [Lesson 2](/lesson2): Raspberry Pi
 * [Lesson 3](/lesson3): Python
