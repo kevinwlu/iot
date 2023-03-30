@@ -174,6 +174,7 @@ Electrical Engineering EE 629
 * [OpenCAPI Consortium](https://opencapi.org/)
 * [Open Handset Alliance](https://en.wikipedia.org/wiki/Open_Handset_Alliance) (OHA)
 * [O-RAN Alliance](https://www.o-ran.org/)
+  * [Open Test and Integration Center](https://www.o-ran.org/otics) (OTIC)
 * [Printer Working Group](https://en.wikipedia.org/wiki/Printer_Working_Group) (PWG)
 * [TALQ Consortium](https://www.talq-consortium.org/)
 * [UBBA](https://www.ubba.com/) (Utility Broadband Alliance)
