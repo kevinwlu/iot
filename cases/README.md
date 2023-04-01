@@ -53,6 +53,7 @@
   * [General Fusion](https://en.wikipedia.org/wiki/General_Fusion)
   * [Helion Energy](https://en.wikipedia.org/wiki/Helion_Energy)
 * [Fusion ignition](https://en.wikipedia.org/wiki/Fusion_ignition)
+* [Lithionics Battery](https://lithionicsbattery.com/)
 * [Lyten](https://lyten.com/)
   * [Lithium-sulfur battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93sulfur_battery)
 * [MIT ONE Lab](https://www.onelab.mit.edu/)
@@ -248,8 +249,10 @@
 * [VinFast](https://en.wikipedia.org/wiki/VinFast)
 * [Wallbox](https://en.wikipedia.org/wiki/Wallbox)
 * [Waymo](https://en.wikipedia.org/wiki/Waymo)
+* [Wayve](https://wayve.ai/)
 * [Wejo](https://en.wikipedia.org/wiki/Wejo)
 * [WeRide](https://en.wikipedia.org/wiki/WeRide)
+* [Winnebago Industries](https://en.wikipedia.org/wiki/Winnebago_Industries)
 * [ZF Friedrichshafen](https://en.wikipedia.org/wiki/ZF_Friedrichshafen)
 * [Zoox](https://en.wikipedia.org/wiki/Zoox_(company))
 ## Transportation: Water
