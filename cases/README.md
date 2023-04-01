@@ -220,6 +220,7 @@
 * [Hyperloop](https://en.wikipedia.org/wiki/Hyperloop)
 * [Hyzon Motors](https://en.wikipedia.org/wiki/Hyzon_Motors)
 * [Mobileye](https://en.wikipedia.org/wiki/Mobileye)
+* [MoveEV](https://www.moveev.com/)
 * [New Flyer](https://en.wikipedia.org/wiki/New_Flyer)
 * [Innoviz](https://innoviz.tech/)
 * [INRIX](https://en.wikipedia.org/wiki/INRIX)
