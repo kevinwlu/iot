@@ -72,6 +72,9 @@
 * [Stability AI](https://stability.ai/)
 * [Synthesia](https://www.synthesia.io/)
 * [Tome](https://beta.tome.app/)
+## Browser
+* [Arc](https://arc.net/)
+  * [The Browser Company](https://thebrowser.company/)
 ## Book Summarizing
 * [Blinkist](https://en.wikipedia.org/wiki/Blinkist)
 * [BookRag](http://www.bookrags.com/)
