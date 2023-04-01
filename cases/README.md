@@ -266,8 +266,6 @@
 * [Animagraffs](https://www.youtube.com/@animagraffs/featured)
 * [Bored Panda](https://en.wikipedia.org/wiki/Bored_Panda)
 * [Curlie](https://curlie.org/)
-* [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)
-* [Ecosia](https://en.wikipedia.org/wiki/Ecosia)
 * [Ground News](https://ground.news/)
 * [iFixit](https://en.wikipedia.org/wiki/IFixit)
 * [Lifehacker](https://en.wikipedia.org/wiki/Lifehacker)
