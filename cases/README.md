@@ -248,6 +248,7 @@
 * [The Shyft Group](https://en.wikipedia.org/wiki/The_Shyft_Group)
 * [Torc Robotics](https://en.wikipedia.org/wiki/Torc_Robotics)
 * [Velodyne Lidar](https://en.wikipedia.org/wiki/Velodyne_Lidar)
+* [Venti Technologies](https://www.ventitechnologies.com/)
 * [VinFast](https://en.wikipedia.org/wiki/VinFast)
 * [Wallbox](https://en.wikipedia.org/wiki/Wallbox)
 * [Waymo](https://en.wikipedia.org/wiki/Waymo)
