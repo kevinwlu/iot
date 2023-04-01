@@ -11,6 +11,7 @@
 * [Sensor](https://en.wikipedia.org/wiki/Sensor)
 * [List of sensors](https://en.wikipedia.org/wiki/List_of_sensors)
 * [Air flow meter](https://en.wikipedia.org/wiki/Air_flow_meter)
+  * [Directional airflow sensor](https://www.degreec.com/directional-airflow-sensor/)
 * [Air pressure sensor](https://sensorkit.arduino.cc/sensorkit/module/lessons/lesson/07-the-air-pressure-sensor)
 * [Anemometer](https://en.wikipedia.org/wiki/Anemometer)
 ## Actuators
