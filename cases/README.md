@@ -237,6 +237,7 @@
 * [Pony.ai](https://en.wikipedia.org/wiki/Pony.ai)
 * [Rivian](https://en.wikipedia.org/wiki/Rivian)
 * [Scout Motors](https://en.wikipedia.org/wiki/Scout_Motors)
+* [Smart Mobility Living Lab](https://smartmobility.london/) (SMLL)
 * [Sonatus](https://www.sonatus.com/)
 * [Tesla Autopilot](https://en.wikipedia.org/wiki/Tesla_Autopilot)
 * [Tevva](https://www.tevva.com/en)
