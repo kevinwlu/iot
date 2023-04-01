@@ -75,6 +75,8 @@
 ## Browser
 * [Arc](https://arc.net/)
   * [The Browser Company](https://thebrowser.company/)
+* [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)
+* [Ecosia](https://en.wikipedia.org/wiki/Ecosia)
 ## Book Summarizing
 * [Blinkist](https://en.wikipedia.org/wiki/Blinkist)
 * [BookRag](http://www.bookrags.com/)
