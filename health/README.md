@@ -25,3 +25,4 @@
   * [Respiratory Rate Assessments Using a Dual-Accelerometer Device](https://www.sciencedirect.com/science/article/abs/pii/S1569904813003698)
 * [Sedentary lifestyle](https://en.wikipedia.org/wiki/Sedentary_lifestyle)
 * [Sphygmomanometer](https://en.wikipedia.org/wiki/Sphygmomanometer)
+* [Spirometer](https://en.wikipedia.org/wiki/Spirometer)
