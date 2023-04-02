@@ -8,7 +8,9 @@
 * [USC Make-a-Thon](https://www.uscmakeathon.com/)
 * [Health Make-a-Thon](https://healthmakerlab.medicine.illinois.edu/)
 ## YouTube Channel
+* [Academind](https://www.youtube.com/@academind)
 * [Andreas Spiess](https://www.youtube.com/@AndreasSpiess)
+* [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV)
 ## Platform
 * [Proxmox Virtual Environment](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)
 ## Sensors
