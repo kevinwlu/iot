@@ -7,6 +7,10 @@
 * [Make: Makerthon](https://makezine.com/tag/makerthon/)
 * [USC Make-a-Thon](https://www.uscmakeathon.com/)
 * [Health Make-a-Thon](https://healthmakerlab.medicine.illinois.edu/)
+## YouTube Channel
+* [Andreas Spiess](https://www.youtube.com/@AndreasSpiess)
+## Platform
+* [Proxmox Virtual Environment](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)
 ## Sensors
 * [Sensor](https://en.wikipedia.org/wiki/Sensor)
 * [List of sensors](https://en.wikipedia.org/wiki/List_of_sensors)
