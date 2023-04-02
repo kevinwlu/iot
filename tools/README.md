@@ -9,6 +9,13 @@
 * [Scale analysis (mathematics)](https://en.wikipedia.org/wiki/Scale_analysis_(mathematics))
 * [Sanity check](https://en.wikipedia.org/wiki/Sanity_check)
 * [Trial and error](https://en.wikipedia.org/wiki/Trial_and_error)
+## YouTube Channel
+* [Academind](https://www.youtube.com/@academind)
+* [Andreas Spiess](https://www.youtube.com/@AndreasSpiess)
+* [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV)
+## Platform
+* [Comparison of platform virtualization software](https://en.wikipedia.org/wiki/Comparison_of_platform_virtualization_software)
+* [Proxmox Virtual Environment](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)
 ## 3D Printing
 * [3D printing](https://en.wikipedia.org/wiki/3D_printing)
 * [List of 3D printer manufacturers](https://en.wikipedia.org/wiki/List_of_3D_printer_manufacturers)
