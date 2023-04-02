@@ -12,6 +12,7 @@
 * [Andreas Spiess](https://www.youtube.com/@AndreasSpiess)
 * [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV)
 ## Platform
+* [Comparison of platform virtualization software](https://en.wikipedia.org/wiki/Comparison_of_platform_virtualization_software)
 * [Proxmox Virtual Environment](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)
 ## Sensors
 * [Sensor](https://en.wikipedia.org/wiki/Sensor)
