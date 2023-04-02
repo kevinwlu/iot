@@ -4,7 +4,6 @@
 * [Guesstimate](https://en.wikipedia.org/wiki/Guesstimate)
 * [Heuristic](https://en.wikipedia.org/wiki/Heuristic)
 * [LeetCode](https://github.com/wisdompeak/LeetCode)
-  * [Leet](https://en.wikipedia.org/wiki/Leet)
 * [Rule of thumb](https://en.wikipedia.org/wiki/Rule_of_thumb)
 * [Scale analysis (mathematics)](https://en.wikipedia.org/wiki/Scale_analysis_(mathematics))
 * [Sanity check](https://en.wikipedia.org/wiki/Sanity_check)
