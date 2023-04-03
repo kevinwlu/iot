@@ -1,13 +1,4 @@
 # Tools
-* [Ansatz](https://en.wikipedia.org/wiki/Ansatz)
-* [Back-of-the-envelope calculation](https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation)
-* [Guesstimate](https://en.wikipedia.org/wiki/Guesstimate)
-* [Heuristic](https://en.wikipedia.org/wiki/Heuristic)
-* [LeetCode](https://github.com/wisdompeak/LeetCode)
-* [Rule of thumb](https://en.wikipedia.org/wiki/Rule_of_thumb)
-* [Scale analysis (mathematics)](https://en.wikipedia.org/wiki/Scale_analysis_(mathematics))
-* [Sanity check](https://en.wikipedia.org/wiki/Sanity_check)
-* [Trial and error](https://en.wikipedia.org/wiki/Trial_and_error)
 ## YouTube Channel
 * [Academind](https://www.youtube.com/@academind)
 * [Andreas Spiess](https://www.youtube.com/@AndreasSpiess)
