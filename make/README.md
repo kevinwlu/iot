@@ -16,6 +16,8 @@
   * [Anemometer](https://en.wikipedia.org/wiki/Anemometer)
   * [Bernoulli's principle](https://en.wikipedia.org/wiki/Bernoulli%27s_principle)
   * [Directional airflow sensor](https://www.degreec.com/directional-airflow-sensor/)
-* [Spectra Symbol](https://www.spectrasymbol.com/)
+* [Flex sensor](https://en.wikipedia.org/wiki/Flex_sensor)
+  * [Spectra Symbol](https://www.spectrasymbol.com/)
+  * [How to use a flex sensor - Arduino tutorial](https://www.instructables.com/How-to-use-a-Flex-Sensor-Arduino-Tutorial/)
 ## Actuators
 * [Actuator](https://en.wikipedia.org/wiki/Actuator)
