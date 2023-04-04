@@ -9,6 +9,7 @@
 * [FarmVibes](https://www.microsoft.com/en-us/research/project/project-farmvibes/)
   * [Farmvibes.AI](https://github.com/microsoft/farmvibes-ai)
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
+* [Xiang Tian Agriculture](https://www.sdxiangtian.cn/)
 ## Communications
 * [0G Project](http://n4wwwgzppoxfqgh4d37fjl4yanfiwhdr3rocjegzpyhlu2wesmrbknad.onion.ly/)
 * [Tor](https://en.wikipedia.org/wiki/Tor_(network))
