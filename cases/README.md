@@ -251,6 +251,7 @@
 * [Velodyne Lidar](https://en.wikipedia.org/wiki/Velodyne_Lidar)
 * [Venti Technologies](https://www.ventitechnologies.com/)
 * [VinFast](https://en.wikipedia.org/wiki/VinFast)
+* [Volta Trucks](https://en.wikipedia.org/wiki/Volta_Trucks)
 * [Wallbox](https://en.wikipedia.org/wiki/Wallbox)
 * [Waymo](https://en.wikipedia.org/wiki/Waymo)
 * [Wayve](https://wayve.ai/)
