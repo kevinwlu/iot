@@ -161,6 +161,7 @@
 * [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter))
 * [Isar Aerospace](https://en.wikipedia.org/wiki/Isar_Aerospace)
 * [Kuiper Systems](https://en.wikipedia.org/wiki/Kuiper_Systems)
+* [Mobile User Objective System](https://en.wikipedia.org/wiki/Mobile_User_Objective_System) (MUOS)
 * [Relativity Space](https://en.wikipedia.org/wiki/Relativity_Space)
 * [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab)
 * [Sierra Space](https://www.sierraspace.com/)
