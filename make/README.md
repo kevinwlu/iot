@@ -16,5 +16,6 @@
   * [Anemometer](https://en.wikipedia.org/wiki/Anemometer)
   * [Bernoulli's principle](https://en.wikipedia.org/wiki/Bernoulli%27s_principle)
   * [Directional airflow sensor](https://www.degreec.com/directional-airflow-sensor/)
+* [Spectra Symbol](https://www.spectrasymbol.com/)
 ## Actuators
 * [Actuator](https://en.wikipedia.org/wiki/Actuator)
