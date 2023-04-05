@@ -19,6 +19,6 @@
 * [Flex sensor](https://en.wikipedia.org/wiki/Flex_sensor)
   * [Spectra Symbol](https://www.spectrasymbol.com/)
   * [How to use a flex sensor - Arduino tutorial](https://www.instructables.com/How-to-use-a-Flex-Sensor-Arduino-Tutorial/)
-  * [flex.ino](/make/flex.ino)
+  * [flexled.ino](/make/flexled.ino)
 ## Actuators
 * [Actuator](https://en.wikipedia.org/wiki/Actuator)
