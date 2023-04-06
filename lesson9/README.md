@@ -54,6 +54,7 @@
   * [NQI](https://en.wikipedia.org/wiki/National_Quantum_Initiative_Act) (The National Quantum Initiative Act)
   * [QED-C](https://quantumconsortium.org/) (The Quantum Economic Development Consortium)
     * [Quantum jobs](https://quantumconsortium.org/quantum-jobs/)
+      * [D-Wave Systems](https://en.wikipedia.org/wiki/D-Wave_Systems)
   * [NIST Quantum Information Science](https://www.nist.gov/quantum-information-science)
 * [Quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)
   * [Quantum key distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution) (QKD)
