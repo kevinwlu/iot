@@ -17,6 +17,7 @@
   * [Bernoulli's principle](https://en.wikipedia.org/wiki/Bernoulli%27s_principle)
   * [Directional airflow sensor](https://www.degreec.com/directional-airflow-sensor/)
 * [Flex sensor](https://en.wikipedia.org/wiki/Flex_sensor)
+  * [Adafruit short flex sensor](https://www.adafruit.com/product/1070)
   * [Goniometer](https://en.wikipedia.org/wiki/Goniometer)
   * [Lamination](https://en.wikipedia.org/wiki/Lamination)
   * [Spectra Symbol](https://www.spectrasymbol.com/)
