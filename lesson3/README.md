@@ -45,6 +45,9 @@
   * [Doxygen](https://en.wikipedia.org/wiki/Doxygen)
   * [Sphinx](https://en.wikipedia.org/wiki/Sphinx_(documentation_generator))
 * [Invectio](https://github.com/thoth-station/invectio)
+* [Codon](https://github.com/exaloop/codon)
+  * [Exaloop](https://exaloop.io/)
+  * [Python-based compiler achieves orders-of-magnitude speedups](https://news.mit.edu/2023/codon-python-based-compiler-achieve-orders-magnitude-speedups-0314)
 
 ## Lab 3A: Python
 
