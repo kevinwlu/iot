@@ -53,6 +53,7 @@
 * [List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
   * [NQI](https://en.wikipedia.org/wiki/National_Quantum_Initiative_Act) (The National Quantum Initiative Act)
   * [QED-C](https://quantumconsortium.org/) (The Quantum Economic Development Consortium)
+    * [Quantum jobs](https://quantumconsortium.org/quantum-jobs/)
   * [NIST Quantum Information Science](https://www.nist.gov/quantum-information-science)
 * [Quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)
   * [Quantum key distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution) (QKD)
