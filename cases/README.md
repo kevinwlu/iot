@@ -152,7 +152,7 @@
 * [Ameca](https://www.engineeredarts.co.uk/robot/ameca/)
 * [Apptronik](https://apptronik.com/)
 * [Elephant Robotics](https://www.elephantrobotics.com/en/)
-  * [GitHub][https://github.com/elephantrobotics)
+  * [GitHub](https://github.com/elephantrobotics)
 * [Intrinsic](https://intrinsic.ai/)
 * [Nauticus Robotics](https://nauticusrobotics.com/)
 * [Nuro](https://en.wikipedia.org/wiki/Nuro)
