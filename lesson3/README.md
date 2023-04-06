@@ -47,6 +47,7 @@
 * [Invectio](https://github.com/thoth-station/invectio)
 * [Codon](https://github.com/exaloop/codon)
   * [Exaloop](https://exaloop.io/)
+  * [LLVM](https://en.wikipedia.org/wiki/LLVM)
   * [Python-based compiler achieves orders-of-magnitude speedups](https://news.mit.edu/2023/codon-python-based-compiler-achieve-orders-magnitude-speedups-0314)
 
 ## Lab 3A: Python
