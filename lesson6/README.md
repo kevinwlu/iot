@@ -11,8 +11,9 @@
 * [MangoPi-MQ Pro](https://mangopi.cc/mangopi_mqpro)
   * [Tina Linux](https://d1.docs.aw-ol.com/en/study/study_1tina/)
 * [Nvidia Jetson](https://en.wikipedia.org/wiki/Nvidia_Jetson)
-* [Pine64](https://en.wikipedia.org/wiki/Pine64)
+* [PINE64](https://en.wikipedia.org/wiki/Pine64)
   * [Armbian](https://en.wikipedia.org/wiki/Armbian)
+  * [Star64](https://www.hackster.io/news/pine64-s-star64-its-first-high-performance-risc-v-single-board-computer-design-finally-launches-d1fc1b226c86)
 ##
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
 * [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller)
