@@ -207,6 +207,8 @@
 ## Transportation: Ground
 * [Drivetrain](https://en.wikipedia.org/wiki/Drivetrain)
 * [List of production battery electric vehicles](https://en.wikipedia.org/wiki/List_of_production_battery_electric_vehicles)
+* [List of truck types](https://en.wikipedia.org/wiki/List_of_truck_types)
+* [Truck classification](https://en.wikipedia.org/wiki/Truck_classification)
 * [Acer ebii](https://www.acer.com/ebii/us-en/index.html)
 * [Apple electric car project](https://en.wikipedia.org/wiki/Apple_electric_car_project)
 * [Aptiv](https://en.wikipedia.org/wiki/Aptiv)
