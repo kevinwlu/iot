@@ -100,6 +100,7 @@
   * [Ryan Dahl](https://github.com/ry)
   * [Isaac Z. Schlueter](https://github.com/isaacs)
   * [Fedor Indutny](https://github.com/indutny)
+  * [TJ Holowaychuk](https://github.com/tj)
   * [Joyent](https://en.wikipedia.org/wiki/Joyent)
   * [npm](https://en.wikipedia.org/wiki/Npm_(software)) (Node Package Manager)
   * [nvm](https://github.com/nvm-sh/nvm) (Node Version Manager)
