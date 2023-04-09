@@ -39,17 +39,17 @@
 * [GPIO Zero](https://gpiozero.readthedocs.io/en/stable)
 * [pigpio](http://abyz.me.uk/rpi/pigpio)
 * [PyPy](https://en.wikipedia.org/wiki/PyPy)
+* [Codon](https://github.com/exaloop/codon)
+  * [Codons](https://en.wikipedia.org/wiki/Genetic_code#Codons) in [genetic code](https://en.wikipedia.org/wiki/Genetic_code)
+  * [Exaloop](https://exaloop.io/)
+  * [LLVM](https://en.wikipedia.org/wiki/LLVM)
+  * [Python-based compiler achieves orders-of-magnitude speedups](https://news.mit.edu/2023/codon-python-based-compiler-achieve-orders-magnitude-speedups-0314)
 * [MicroPython](https://en.wikipedia.org/wiki/MicroPython)
 * [CircuitPython](https://en.wikipedia.org/wiki/CircuitPython)
 * [Comparison of documentation generators](https://en.wikipedia.org/wiki/Comparison_of_documentation_generators)
   * [Doxygen](https://en.wikipedia.org/wiki/Doxygen)
   * [Sphinx](https://en.wikipedia.org/wiki/Sphinx_(documentation_generator))
 * [Invectio](https://github.com/thoth-station/invectio)
-* [Codon](https://github.com/exaloop/codon)
-  * [Codons](https://en.wikipedia.org/wiki/Genetic_code#Codons) in [genetic code](https://en.wikipedia.org/wiki/Genetic_code)
-  * [Exaloop](https://exaloop.io/)
-  * [LLVM](https://en.wikipedia.org/wiki/LLVM)
-  * [Python-based compiler achieves orders-of-magnitude speedups](https://news.mit.edu/2023/codon-python-based-compiler-achieve-orders-magnitude-speedups-0314)
 
 ## Lab 3A: Python
 
