@@ -46,6 +46,7 @@
   * [Sphinx](https://en.wikipedia.org/wiki/Sphinx_(documentation_generator))
 * [Invectio](https://github.com/thoth-station/invectio)
 * [Codon](https://github.com/exaloop/codon)
+  * [Codons](https://en.wikipedia.org/wiki/Genetic_code#Codons) in [genetic code](https://en.wikipedia.org/wiki/Genetic_code)
   * [Exaloop](https://exaloop.io/)
   * [LLVM](https://en.wikipedia.org/wiki/LLVM)
   * [Python-based compiler achieves orders-of-magnitude speedups](https://news.mit.edu/2023/codon-python-based-compiler-achieve-orders-magnitude-speedups-0314)
