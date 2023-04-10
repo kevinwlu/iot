@@ -76,6 +76,7 @@
   * [ISO/TC 268 Sustainable cities and communities](https://www.iso.org/committee/656906.html)
   * [ISO/IEC JTC 1/SC 6](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1/SC_6) [Telecommunications and information exchange between systems](https://www.iso.org/committee/45072.html)
   * [ISO/IEC JTC 1/SC 39](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1/SC_39) [Sustainability, IT and data centers](https://www.iso.org/committee/654019.html)
+  * [ISO/IEC 27000-series](https://en.wikipedia.org/wiki/ISO/IEC_27000-series)
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
   * [IoT Global Standards Initiative](https://www.itu.int/en/ITU-T/gsi/iot/)
 * [JCP](https://en.wikipedia.org/wiki/Java_Community_Process) (Java Community Process)
