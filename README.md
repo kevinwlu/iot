@@ -44,6 +44,8 @@ Electrical Engineering EE 629
   * [The New Hacker's Dictionary](https://web.archive.org/web/20130827121341/http://cosman246.com/jargon.html)
   * [Resources](http://www.catb.org/~esr/jargon/)
   * [Archive](http://www.catb.org/~esr/jargon/oldversions/)
+* [Leet](https://en.wikipedia.org/wiki/Leet) or 1337
+* [Numeronym](https://en.wikipedia.org/wiki/Numeronym)
 * [AngelList](https://en.wikipedia.org/wiki/AngelList)
   * [Angel investor](https://en.wikipedia.org/wiki/Angel_investor)
 * [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator)
