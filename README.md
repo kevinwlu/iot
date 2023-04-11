@@ -46,6 +46,7 @@ Electrical Engineering EE 629
   * [Archive](http://www.catb.org/~esr/jargon/oldversions/)
 * [Leet](https://en.wikipedia.org/wiki/Leet) or 1337
 * [Numeronym](https://en.wikipedia.org/wiki/Numeronym)
+* [Eponym](https://en.wikipedia.org/wiki/Eponym)
 * [AngelList](https://en.wikipedia.org/wiki/AngelList)
   * [Angel investor](https://en.wikipedia.org/wiki/Angel_investor)
 * [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator)
