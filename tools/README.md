@@ -87,6 +87,9 @@
 * [HexChat](https://en.wikipedia.org/wiki/HexChat)
 * [Libera Chat](https://en.wikipedia.org/wiki/Libera_Chat)
 * [TerminalGPT](https://github.com/jucasoliveira/terminalGPT)
+## Collaboration
+* [Miro (collaboration platform)](https://en.wikipedia.org/wiki/Miro_(collaboration_platform))
+* [Whiteboarding](https://en.wikipedia.org/wiki/Whiteboarding)
 ## Computer-Aided Design Software
 * [Comparison of computer-aided design software](https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_software)
 * [AutoCAD](https://en.wikipedia.org/wiki/AutoCAD)
