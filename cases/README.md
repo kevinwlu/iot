@@ -57,6 +57,7 @@
   * [Helion Energy](https://en.wikipedia.org/wiki/Helion_Energy)
 * [Fusion ignition](https://en.wikipedia.org/wiki/Fusion_ignition)
 * [Lithionics Battery](https://lithionicsbattery.com/)
+* [Lithium–air battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93air_battery)
 * [Lyten](https://lyten.com/)
   * [Lithium-sulfur battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93sulfur_battery)
 * [MIT ONE Lab](https://www.onelab.mit.edu/)
