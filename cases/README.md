@@ -35,6 +35,7 @@
 * [Sony Depthsensing Solutions](https://en.wikipedia.org/wiki/Sony_Depthsensing_Solutions)
 * [Telit](https://en.wikipedia.org/wiki/Telit)
 ## Energy
+* [Aeromine](https://www.aerominetechnologies.com/)
 * [Air Liquide](https://en.wikipedia.org/wiki/Air_Liquide)
 * [Albemarle Corporation](https://en.wikipedia.org/wiki/Albemarle_Corporation)
 * [Amogy](https://amogy.co/)
