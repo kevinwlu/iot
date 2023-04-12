@@ -18,6 +18,7 @@
   * [Directional airflow sensor](https://www.degreec.com/directional-airflow-sensor/)
 * [Flex sensor](https://en.wikipedia.org/wiki/Flex_sensor)
   * [Adafruit short flex sensor](https://www.adafruit.com/product/1070)
+  * [Adafruit long flex sensor](https://www.adafruit.com/product/182)
   * [Goniometer](https://en.wikipedia.org/wiki/Goniometer)
   * [Lamination](https://en.wikipedia.org/wiki/Lamination)
   * [Spectra Symbol](https://www.spectrasymbol.com/)
