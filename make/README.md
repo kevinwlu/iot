@@ -27,5 +27,8 @@
   * [Pulse-width modulation](https://en.wikipedia.org/wiki/Pulse-width_modulation) (PWM)
 * [Force-sensing resistor](https://en.wikipedia.org/wiki/Force-sensing_resistor) (FSR)
   * [Adafruit](https://learn.adafruit.com/force-sensitive-resistor-fsr)
+* [Electret microphone](https://en.wikipedia.org/wiki/Electret_microphone)
+  * [Electret](https://en.wikipedia.org/wiki/Electret)
+  * [Adafruit](https://www.adafruit.com/product/1935)
 ## Actuators
 * [Actuator](https://en.wikipedia.org/wiki/Actuator)
