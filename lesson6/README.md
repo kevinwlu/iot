@@ -16,6 +16,7 @@
   * [Star64](https://www.hackster.io/news/pine64-s-star64-its-first-high-performance-risc-v-single-board-computer-design-finally-launches-d1fc1b226c86)
 ##
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
+* [EmbeddedRelated.com](https://www.embeddedrelated.com/)
 * [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller)
 * [Bare machine](https://en.wikipedia.org/wiki/Bare_machine)
 * [Bare machine computing](https://en.wikipedia.org/wiki/Bare_machine_computing)
