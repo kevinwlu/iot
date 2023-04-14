@@ -42,6 +42,7 @@
 * [Google Research](https://research.google/tools/)
 * [Ghostwriter](https://replit.com/site/ghostwriter) by [Replit](https://en.wikipedia.org/wiki/Replit)
 * [HTTPie](https://httpie.io/)
+* [Hugging Face](https://en.wikipedia.org/wiki/Hugging_Face)
 * [Jenni](https://jenni.ai/)
 * [Khroma](https://www.khroma.co/)
 * [Meta AI](https://en.wikipedia.org/wiki/Meta_AI)
