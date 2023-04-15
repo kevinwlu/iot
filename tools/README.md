@@ -94,6 +94,7 @@
 * [TerminalGPT](https://github.com/jucasoliveira/terminalGPT)
 ## Collaboration
 * [Miro (collaboration platform)](https://en.wikipedia.org/wiki/Miro_(collaboration_platform))
+* [Spline](https://spline.design/)
 * [Whiteboarding](https://en.wikipedia.org/wiki/Whiteboarding)
 ## Computer-Aided Design Software
 * [Comparison of computer-aided design software](https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_software)
