@@ -66,6 +66,8 @@
 * [Open Neural Network Exchange](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (ONNX)
 * [Peppertype.ai](https://www.peppertype.ai/)
 * [Posemaniacs](https://www.posemaniacs.com/en)
+* [Shuffle](https://shuffle.dev/)
+  * [Shuffle Assistant](https://shuffle.dev/chat)
 * [Snapchat](https://en.wikipedia.org/wiki/Snapchat)
   * [My AI](https://newsroom.snap.com/say-hi-to-my-ai), February 27, 2023
 * [Stability AI](https://stability.ai/)
