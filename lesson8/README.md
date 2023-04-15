@@ -123,6 +123,8 @@
 * [tinyML Foundaton](https://www.tinyml.org/)
 * [Harvard Fundamentals of TinyML Course](https://online-learning.harvard.edu/course/fundamentals-tinyml) 
 * [Harvard CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
+* [Sony Semiconductor Solutions]() (SSS)
+  * [AITRIOS](https://www.aitrios.sony-semicon.com/en/) edge AI sensing platform
 * [Edge Impulse](https://www.edgeimpulse.com/)
   * [Getting Started](https://docs.edgeimpulse.com/docs/getting-started)
   * [Fully supported development boards](https://docs.edgeimpulse.com/docs/fully-supported-development-boards)
