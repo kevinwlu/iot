@@ -50,6 +50,7 @@
   * [Tidal power](https://en.wikipedia.org/wiki/Tidal_power)
   * [Wave power](https://en.wikipedia.org/wiki/Wave_power)
 * [Element 25](https://www.element25.com.au/)
+* [Enel X](https://en.wikipedia.org/wiki/Enel_X)
 * [Form Energy](https://en.wikipedia.org/wiki/Form_Energy)
 * [Fuel cell](https://en.wikipedia.org/wiki/Fuel_cell)
 * [Fusion power](https://en.wikipedia.org/wiki/Fusion_power)
