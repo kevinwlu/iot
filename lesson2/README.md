@@ -11,6 +11,9 @@
   * [Assembly language](https://en.wikipedia.org/wiki/Assembly_language)
 * [Microcomputer](https://en.wikipedia.org/wiki/Microcomputer)
 * [Single-board computer](https://en.wikipedia.org/wiki/Single-board_computer) (SBC)
+* [Integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment) (IDE)
+* [Comparison of integrated development environments](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
+* [Fritzing](https://en.wikipedia.org/wiki/Fritzing)
 * [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
   * [Raspberry](https://en.wikipedia.org/wiki/Raspberry) fruit
   * [Raspberry](https://www.merriam-webster.com/dictionary/raspberry) tart
