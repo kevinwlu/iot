@@ -34,6 +34,8 @@
   * [Nano 33 BLE Sense](https://docs.arduino.cc/hardware/nano-33-ble-sense)
   * [Nicla Sense ME](https://www.arduino.cc/pro/hardware/product/nicla-sense-me)
   * [Portenta H7](https://docs.arduino.cc/hardware/portenta-h7)
+* [Processing](https://en.wikipedia.org/wiki/Processing)
+* [Wiring](https://en.wikipedia.org/wiki/Wiring_(development_platform))
 * [TinyCircuits](https://tinycircuits.com/)
   * [TinyDuino](https://tinycircuits.com/products/tinyduino-processor-board)
   * [GitHub](https://github.com/TinyCircuits)
