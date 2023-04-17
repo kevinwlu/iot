@@ -16,8 +16,8 @@
 ## Animation
 * [Cascadeur](https://cascadeur.com/)
 ## App Development
-* [App Inventor for Android](https://en.wikipedia.org/wiki/App_Inventor_for_Android)
-* [MIT App Inventor](https://appinventor.mit.edu/)
+* [MIT App Inventor](https://en.wikipedia.org/wiki/MIT_App_Inventor)
+  * [MIT App Inventor](https://appinventor.mit.edu/)
 * [Mobile app development](https://en.wikipedia.org/wiki/Mobile_app_development)
 ## Artificial Intelligence (AI)
 * [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
