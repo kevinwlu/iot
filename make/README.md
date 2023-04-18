@@ -7,6 +7,7 @@
 * [Make: Makerthon](https://makezine.com/tag/makerthon/)
 * [USC Make-a-Thon](https://www.uscmakeathon.com/)
 * [Health Make-a-Thon](https://healthmakerlab.medicine.illinois.edu/)
+* [Circuit bending](https://en.wikipedia.org/wiki/Circuit_bending)
 ## Sensors
 * [Sensor](https://en.wikipedia.org/wiki/Sensor)
 * [List of sensors](https://en.wikipedia.org/wiki/List_of_sensors)
