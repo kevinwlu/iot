@@ -112,6 +112,8 @@
   * [CSS](https://en.wikipedia.org/wiki/CSS)
   * [HTML](https://en.wikipedia.org/wiki/HTML)
   * [WCAG](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines)
+* [World Trade Organization](https://en.wikipedia.org/wiki/World_Trade_Organization) (WTO)
+  * [Principles for the Development of International Standards, Guides and Recommendations](https://www.wto.org/english/tratop_e/tbt_e/principles_standards_tbt_e.htm)
 ## National and Regional Standards Organization
 * [Association Française de Normalisation](https://en.wikipedia.org/wiki/AFNOR) (AFNOR)
 * [Austrian Standards International](https://en.wikipedia.org/wiki/Austrian_Standards_International) (ASI)
