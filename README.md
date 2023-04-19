@@ -125,6 +125,8 @@ Electrical Engineering EE 629
 * [Hackster.io](https://www.hackster.io/), an [Avnet](https://en.wikipedia.org/wiki/Avnet) community
 * [IBM IoT Community](https://community.ibm.com/community/user/iot/home)
 * [IEEE Blended Learning Portal](https://blended-learning.ieee.org/Portal/) (BLP)
+* [IEEE Future Networks](https://futurenetworks.ieee.org/)
+  * [IEEE International Network Generations Roadmap](https://futurenetworks.ieee.org/roadmap) (INGR)
 * [IEEE IoT Technical Community](https://iot.ieee.org/)
 * [IEEE Metaverse Congress](https://engagestandards.ieee.org/IEEE-Metaverse-Congress.html)
 * [IEEE SA Events](https://standards.ieee.org/events/)
