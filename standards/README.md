@@ -34,6 +34,7 @@
     * [Healthcare and Life Sciences](https://standards.ieee.org/practices/healthcare-life-sciences/index.html)
       * [Bio/Pharmaceutical Community](https://standards.ieee.org/practices/healthcare-life-sciences/bio-pharma.html)
     * [Mobility](https://standards.ieee.org/practices/mobility/index.html)
+    * [National Electrical Safety Code](https://en.wikipedia.org/wiki/National_Electrical_Safety_Code) (NESC)
     * [Planet Positive 2030](https://sagroups.ieee.org/planetpositive2030/)
   * [IEEE Industry Connections](https://standards.ieee.org/industry-connections/)
     * [Nendica](https://1.ieee802.org/802-nendica/): IEEE 802 “Network Enhancements for the Next Decade” Industry Connections Activity
