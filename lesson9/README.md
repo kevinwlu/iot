@@ -69,6 +69,7 @@
   * [VMAC](https://en.wikipedia.org/wiki/VMAC)
   * [Post-quantum cryptography](https://en.wikipedia.org/wiki/Post-quantum_cryptography) (PQC)
   * [NIST Post-Quantum Cryptography Standardization](https://en.wikipedia.org/wiki/NIST_Post-Quantum_Cryptography_Standardization)
+    * [SIKE](https://sike.org/)
 * [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
   * [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
   * [Qubit](https://en.wikipedia.org/wiki/Qubit)
