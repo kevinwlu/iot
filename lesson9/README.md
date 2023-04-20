@@ -68,6 +68,7 @@
   * [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
   * [Qubit](https://en.wikipedia.org/wiki/Qubit)
   * [Qutrit](https://en.wikipedia.org/wiki/Qutrit)
+  * [Qudit](https://en.wiktionary.org/wiki/qudit)
   * [Quantum supremacy](https://en.wikipedia.org/wiki/Quantum_supremacy)
   * [Quantum programming](https://en.wikipedia.org/wiki/Quantum_programming)
   * [Quantum volume](https://en.wikipedia.org/wiki/Quantum_volume)
