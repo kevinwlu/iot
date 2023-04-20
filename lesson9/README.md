@@ -65,6 +65,8 @@
 * [Quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)
   * [Quantum key distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution) (QKD)
   * [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+  * [Kyber](https://en.wikipedia.org/wiki/Kyber)
+  * [VMAC](https://en.wikipedia.org/wiki/VMAC)
   * [Post-quantum cryptography](https://en.wikipedia.org/wiki/Post-quantum_cryptography) (PQC)
   * [NIST Post-Quantum Cryptography Standardization](https://en.wikipedia.org/wiki/NIST_Post-Quantum_Cryptography_Standardization)
 * [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
