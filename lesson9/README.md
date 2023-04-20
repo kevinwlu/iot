@@ -60,6 +60,7 @@
   * [QED-C](https://quantumconsortium.org/) (The Quantum Economic Development Consortium)
     * [Quantum jobs](https://quantumconsortium.org/quantum-jobs/)
   * [NIST Quantum Information Science](https://www.nist.gov/quantum-information-science)
+* [Quantum mind](https://en.wikipedia.org/wiki/Quantum_mind)
 * [Quantum readout](https://en.wikipedia.org/wiki/Quantum_readout)
 * [Quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)
   * [Quantum key distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution) (QKD)
