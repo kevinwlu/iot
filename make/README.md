@@ -33,4 +33,9 @@
   * [Adafruit](https://www.adafruit.com/product/1935)
 ## Actuators
 * [Actuator](https://en.wikipedia.org/wiki/Actuator)
+* [Brushed DC electric motor](https://en.wikipedia.org/wiki/Brushed_DC_electric_motor)
+* [Brushless DC electric motor](https://en.wikipedia.org/wiki/Brushless_DC_electric_motor) (BLDC)
 * [Head-up display](https://en.wikipedia.org/wiki/Head-up_display) (HUD)
+* [Servomotor](https://en.wikipedia.org/wiki/Servomotor)
+* [Solenoid](https://en.wikipedia.org/wiki/Solenoid)
+* [Stepper motor](https://en.wikipedia.org/wiki/Stepper_motor)
