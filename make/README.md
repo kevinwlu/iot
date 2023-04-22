@@ -33,3 +33,4 @@
   * [Adafruit](https://www.adafruit.com/product/1935)
 ## Actuators
 * [Actuator](https://en.wikipedia.org/wiki/Actuator)
+* [Head-up display](https://en.wikipedia.org/wiki/Head-up_display) (HUD)
