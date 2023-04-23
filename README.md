@@ -20,6 +20,7 @@ Electrical Engineering EE 629
 * [Projects](/projects)
 * [Special problems](/projects)
 * [Standards](/standards)
+* [Systems engineering](/systems)
 * [Tools](/tools)
 * [Use cases](/cases)
 
