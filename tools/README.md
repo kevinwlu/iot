@@ -75,12 +75,6 @@
 * [Stability AI](https://stability.ai/)
 * [Synthesia](https://www.synthesia.io/)
 * [Tome](https://beta.tome.app/)
-## Browser
-* [Arc](https://arc.net/)
-  * [The Browser Company](https://thebrowser.company/)
-* [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)
-* [Ecosia](https://en.wikipedia.org/wiki/Ecosia)
-* [Fabric](https://fabric.so/)
 ## Book Summarizing
 * [Blinkist](https://en.wikipedia.org/wiki/Blinkist)
 * [BookRag](http://www.bookrags.com/)
@@ -142,6 +136,12 @@
 ## Robotics
 * [Gazebo simulator](https://en.wikipedia.org/wiki/Gazebo_simulator)
 * [Robot Operating System](https://en.wikipedia.org/wiki/Robot_Operating_System) (ROS)
+## Search Engines
+* [List of search engines](https://en.wikipedia.org/wiki/List_of_search_engines)
+* [Search engine optimization](https://en.wikipedia.org/wiki/Search_engine_optimization) (SEO)
+* [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)
+* [Ecosia](https://en.wikipedia.org/wiki/Ecosia)
+* [Fabric](https://fabric.so/)
 ## Static Program Analysis
 * [Static program analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
 * [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
@@ -154,3 +154,7 @@
   * [Preact](https://preactjs.com/)
 * [Selenium](https://www.selenium.dev/)
 * [Speech Services](https://en.wikipedia.org/wiki/Speech_Services)
+## Web Browsers
+* [List of web browsers](https://en.wikipedia.org/wiki/List_of_web_browsers)
+* [Arc](https://arc.net/)
+  * [The Browser Company](https://thebrowser.company/)
