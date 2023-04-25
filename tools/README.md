@@ -146,6 +146,7 @@
 * [Static program analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
 * [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
 * [Coverity](https://en.wikipedia.org/wiki/Coverity)
+* [Pylint](https://en.wikipedia.org/wiki/Pylint)
 ## User Interface and User Experience
 * [Comparison of vector graphics editors](https://en.wikipedia.org/wiki/Comparison_of_vector_graphics_editors)
 * [Figma](https://en.wikipedia.org/wiki/Figma_(software))
