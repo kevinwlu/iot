@@ -8,6 +8,7 @@
 * [Serpent (symbolism)](https://en.wikipedia.org/wiki/Serpent_(symbolism))
 * [_Dive Into Python 3_](https://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf) by [Mark Pilgrim](https://en.wikipedia.org/wiki/Mark_Pilgrim)
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+  * [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
   * [CPython](https://en.wikipedia.org/wiki/CPython)
   * [Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution))
   * [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter)
