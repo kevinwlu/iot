@@ -28,6 +28,7 @@
   * [Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum)
   * [Spam (Monty Python)](https://en.wikipedia.org/wiki/Spam_(Monty_Python)) and [spamming](https://en.wikipedia.org/wiki/Spamming)
   * [Xyzzy](https://en.wikipedia.org/wiki/Xyzzy_(computing))
+* [Python 3's f-Strings: An Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/)
 * [Bitwise operators](https://wiki.python.org/moin/BitwiseOperators)
 * [Python virtual environments and packages](https://docs.python.org/3/tutorial/venv.html)
   > A virtual environment is a cooperatively isolated [runtime](https://en.wikipedia.org/wiki/Runtime_(program_lifecycle_phase)) environment that allows Python users and applications to install and upgrade Python distribution packages without interfering with the behaviour of other Python applications running on the same system.
