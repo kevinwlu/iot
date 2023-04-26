@@ -15,6 +15,7 @@
   * [Tricuspid valve](https://en.wikipedia.org/wiki/Tricuspid_valve)
 * [Holter monitor](https://en.wikipedia.org/wiki/Holter_monitor)
 * [Independent component analysis](https://en.wikipedia.org/wiki/Independent_component_analysis) (ICA)
+* [Mackey–Glass equations](https://en.wikipedia.org/wiki/Mackey%E2%80%93Glass_equations)
 * [Percutaneous aortic valve replacement](https://en.wikipedia.org/wiki/Percutaneous_aortic_valve_replacement) (PAVR)
 * [Photoplethysmogram](https://en.wikipedia.org/wiki/Photoplethysmogram) (PPG)
 * [Respiratory sounds](https://en.wikipedia.org/wiki/Respiratory_sounds)
