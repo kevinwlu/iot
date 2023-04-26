@@ -22,6 +22,7 @@
 * [Respiratory rate](https://en.wikipedia.org/wiki/Respiratory_rate) (RR)
   * [Breathing rate estimation from the electrocardiogram and photoplethysmogram: a review](https://ieeexplore.ieee.org/document/8081839)
   * [Contact and remote breathing rate monitoring techniques: a review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8769001/)
+  * [Dead space (physiology)](https://en.wikipedia.org/wiki/Dead_space_(physiology))
   * [Measuring breath and respiration using sensors](https://www.news-medical.net/whitepaper/20181015/Measuring-Breath-and-Respiration-Using-Sensors.aspx)
   * [Multiparameter respiratory rate estimation from the photoplethysmogram](https://ieeexplore.ieee.org/document/6458992)
   * [Noncontact monitoring of respiration by dynamic air-pressure sensor](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4581013/)
