@@ -86,6 +86,7 @@
 * [Space mirror (climate engineering)](https://en.wikipedia.org/wiki/Space_mirror_(climate_engineering))
 * [Space-based solar power](https://en.wikipedia.org/wiki/Space-based_solar_power)
   * [Caltech Space Solar Power Project](https://www.spacesolar.caltech.edu/)
+* [Vehicle-to-grid](https://en.wikipedia.org/wiki/Vehicle-to-grid) (V2G)
 * [Voltaiq](https://www.voltaiq.com/)
 ## Enterprise
 * [Gig worker](https://en.wikipedia.org/wiki/Gig_worker)
