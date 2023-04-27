@@ -168,6 +168,7 @@
 * [Blue Origin](https://en.wikipedia.org/wiki/Blue_Origin)
 * [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter))
 * [Isar Aerospace](https://en.wikipedia.org/wiki/Isar_Aerospace)
+* [ispace](https://en.wikipedia.org/wiki/Ispace_(Japanese_company))
 * [Kuiper Systems](https://en.wikipedia.org/wiki/Kuiper_Systems)
 * [Mobile User Objective System](https://en.wikipedia.org/wiki/Mobile_User_Objective_System) (MUOS)
 * [Relativity Space](https://en.wikipedia.org/wiki/Relativity_Space)
