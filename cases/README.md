@@ -87,6 +87,7 @@
 * [Space-based solar power](https://en.wikipedia.org/wiki/Space-based_solar_power)
   * [Caltech Space Solar Power Project](https://www.spacesolar.caltech.edu/)
 * [Vehicle-to-grid](https://en.wikipedia.org/wiki/Vehicle-to-grid) (V2G)
+  * [Duck curve](https://en.wikipedia.org/wiki/Duck_curve)
 * [Voltaiq](https://www.voltaiq.com/)
 ## Enterprise
 * [Gig worker](https://en.wikipedia.org/wiki/Gig_worker)
