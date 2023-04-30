@@ -7,7 +7,7 @@
   * [6G](https://en.wikipedia.org/wiki/6G_(network))
   * [NB-IoT](https://en.wikipedia.org/wiki/Narrowband_IoT)
   * [LTE-M](https://en.wikipedia.org/wiki/LTE-M)
-* [5G Automotive Association](https://en.wikipedia.org/wiki/5G_Automotive_Association)
+* [5G Automotive Association](https://en.wikipedia.org/wiki/5G_Automotive_Association) (5GAA)
   * [Cellular V2X](https://en.wikipedia.org/wiki/Cellular_V2X) (C-V2X)
 * [ANSI](https://en.wikipedia.org/wiki/American_National_Standards_Institute) (American National Standards Institute)
   * [C](https://en.wikipedia.org/wiki/C_(programming_language))
