@@ -214,6 +214,7 @@
   * [Safran Helicopter Engines](https://en.wikipedia.org/wiki/Safran_Helicopter_Engines)
 * [Vertical Aerospace](https://en.wikipedia.org/wiki/Vertical_Aerospace)
 * [Volocopter](https://en.wikipedia.org/wiki/Volocopter)
+* [Whisper Aero](https://www.whisper.aero/)
 * [ZeroAvia](https://en.wikipedia.org/wiki/ZeroAvia)
 * [Zunum Aero](https://en.wikipedia.org/wiki/Zunum_Aero)
 ## Transportation: Ground
