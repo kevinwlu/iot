@@ -34,13 +34,14 @@
   * [Lumosity](https://www.lumosity.com/en/)
 * [Sony Depthsensing Solutions](https://en.wikipedia.org/wiki/Sony_Depthsensing_Solutions)
 * [Telit](https://en.wikipedia.org/wiki/Telit)
-## Energy
+## Energy and Power
 * [Aeromine](https://www.aerominetechnologies.com/)
 * [Air Liquide](https://en.wikipedia.org/wiki/Air_Liquide)
 * [Albemarle Corporation](https://en.wikipedia.org/wiki/Albemarle_Corporation)
 * [Amogy](https://amogy.co/)
   * [Ammonia](https://en.wikipedia.org/wiki/Ammonia)
 * [Autel Energy](https://autelenergy.us/)
+* [Bel](https://www.belfuse.com/)
 * [CATL](https://en.wikipedia.org/wiki/CATL)
   * [Sodium-ion battery](https://en.wikipedia.org/wiki/Sodium-ion_battery)
 * [ChargePoint](https://en.wikipedia.org/wiki/ChargePoint)
