@@ -42,7 +42,7 @@
 * [Seeed XIAO](https://wiki.seeedstudio.com/Seeeduino-XIAO/) by [Seeed Studio](https://www.seeed.cc/)
   * [XIAO](/lesson6/xiao) in Lesson 6
   * [XIAO nRF52840 Sense](https://www.seeedstudio.com/Seeed-XIAO-BLE-Sense-nRF52840-p-5253.html)
-  * [XIAO ESP32S3](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
+  * [XIAO ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html)
 * [4G](https://en.wikipedia.org/wiki/4G)
   * [Waveshare SIM7600A-H 4G HAT](https://www.waveshare.com/sim7600a-h-4g-hat.htm)
   * [Makerfabs 4G LTE Hat for Raspberry Pi](https://github.com/Makerfabs/4G-LTE-Hat-For-Raspberry-Pi)
