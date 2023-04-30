@@ -5,6 +5,7 @@
   * [5G](https://en.wikipedia.org/wiki/5G)
   * [5G NR](https://en.wikipedia.org/wiki/5G_NR) (New Radio)
   * [6G](https://en.wikipedia.org/wiki/6G_(network))
+  * [Cellular V2X](https://en.wikipedia.org/wiki/Cellular_V2X) (C-V2X)
   * [NB-IoT](https://en.wikipedia.org/wiki/Narrowband_IoT)
   * [LTE-M](https://en.wikipedia.org/wiki/LTE-M)
 * [5G Automotive Association](https://en.wikipedia.org/wiki/5G_Automotive_Association)
