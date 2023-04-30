@@ -159,3 +159,5 @@
 * [List of web browsers](https://en.wikipedia.org/wiki/List_of_web_browsers)
 * [Arc](https://arc.net/)
   * [The Browser Company](https://thebrowser.company/)
+## Web Design
+* [STUDIO AI](https://studio.design/)
