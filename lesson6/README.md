@@ -71,6 +71,7 @@
 * [Particle](https://www.particle.io/)
   * [Particle](/lesson6/particle) in Lesson 6
 * [Redbear Duo](https://github.com/redbear/Duo)
+* [Sony Spresense](https://developer.sony.com/develop/spresense/)
 * [Tessel](https://tessel.github.io/t2-start/)
 ##
 * [CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol) (Constrained Application Protocol)
