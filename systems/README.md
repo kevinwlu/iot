@@ -7,4 +7,5 @@
 * [Design for X](https://en.wikipedia.org/wiki/Design_for_X)
 * [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) (MVP)
 * [Reliability engineering](https://en.wikipedia.org/wiki/Reliability_engineering)
+  * [Bathtub curve](https://en.wikipedia.org/wiki/Bathtub_curve)
 * [Verification and validation](https://en.wikipedia.org/wiki/Verification_and_validation) (V&V)
