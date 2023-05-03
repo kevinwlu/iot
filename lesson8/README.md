@@ -74,6 +74,7 @@
 * [Regression analysis](https://en.wikipedia.org/wiki/Regression_analysis)
 * [Correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)
 * [Linear regression](https://en.wikipedia.org/wiki/Linear_regression)
+* [Regression toward the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean)
 * [Lasso](https://en.wikipedia.org/wiki/Lasso_(statistics))
 * [Interpolation](https://en.wikipedia.org/wiki/Interpolation)
 * [Overfitting](https://en.wikipedia.org/wiki/Overfitting)
