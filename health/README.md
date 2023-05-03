@@ -18,6 +18,7 @@
 * [Mackey–Glass equations](https://en.wikipedia.org/wiki/Mackey%E2%80%93Glass_equations)
 * [Percutaneous aortic valve replacement](https://en.wikipedia.org/wiki/Percutaneous_aortic_valve_replacement) (PAVR)
 * [Photoplethysmogram](https://en.wikipedia.org/wiki/Photoplethysmogram) (PPG)
+* [Placebo](https://en.wikipedia.org/wiki/Placebo)
 * [Respiratory sounds](https://en.wikipedia.org/wiki/Respiratory_sounds)
   * [Analysis of respiratory sounds: state of the art](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2990233/)
 * [Respiratory rate](https://en.wikipedia.org/wiki/Respiratory_rate) (RR)
