@@ -46,6 +46,7 @@
 * [HTTPie](https://httpie.io/)
 * [Hugging Face](https://en.wikipedia.org/wiki/Hugging_Face)
   * [HuggingGPT](https://huggingface.co/spaces/microsoft/HuggingGPT)
+* [Inflection](https://inflection.ai/)
 * [Jenni](https://jenni.ai/)
 * [Khroma](https://www.khroma.co/)
 * [Meta AI](https://en.wikipedia.org/wiki/Meta_AI)
