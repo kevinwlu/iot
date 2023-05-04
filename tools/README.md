@@ -146,6 +146,8 @@
 ## Social Network
 * [Social network](https://en.wikipedia.org/wiki/Social_network)
 * [Bluesky Social](https://en.wikipedia.org/wiki/Bluesky_Social)
+* [Diaspora](https://en.wikipedia.org/wiki/Diaspora_(social_network))
+* [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(social_network))
 * [Nostr](https://en.wikipedia.org/wiki/Nostr)
 ## Static Program Analysis
 * [Static program analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
