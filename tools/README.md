@@ -143,6 +143,10 @@
 * [DuckDuckGo](https://en.wikipedia.org/wiki/DuckDuckGo)
 * [Ecosia](https://en.wikipedia.org/wiki/Ecosia)
 * [Fabric](https://fabric.so/)
+## Social Network
+* [Social network](https://en.wikipedia.org/wiki/Social_network)
+* [Bluesky Social](https://en.wikipedia.org/wiki/Bluesky_Social)
+* [Nostr](https://en.wikipedia.org/wiki/Nostr)
 ## Static Program Analysis
 * [Static program analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
 * [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
