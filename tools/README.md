@@ -145,8 +145,10 @@
 * [Fabric](https://fabric.so/)
 ## Social Network
 * [Social network](https://en.wikipedia.org/wiki/Social_network)
+* [List of social networking services](https://en.wikipedia.org/wiki/List_of_social_networking_services)
 * [Bluesky Social](https://en.wikipedia.org/wiki/Bluesky_Social)
 * [Diaspora](https://en.wikipedia.org/wiki/Diaspora_(social_network))
+* [GNU social](https://en.wikipedia.org/wiki/GNU_social)
 * [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(social_network))
 * [Nostr](https://en.wikipedia.org/wiki/Nostr)
 ## Static Program Analysis
