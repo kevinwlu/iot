@@ -146,6 +146,8 @@
 ## Social Network
 * [Social network](https://en.wikipedia.org/wiki/Social_network)
 * [List of social networking services](https://en.wikipedia.org/wiki/List_of_social_networking_services)
+* [Comparison of software and protocols for distributed social networking](https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking)
+* [Comparison of microblogging and similar services](https://en.wikipedia.org/wiki/Comparison_of_microblogging_and_similar_services)
 * [Bluesky Social](https://en.wikipedia.org/wiki/Bluesky_Social)
 * [Diaspora](https://en.wikipedia.org/wiki/Diaspora_(social_network))
 * [GNU social](https://en.wikipedia.org/wiki/GNU_social)
