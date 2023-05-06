@@ -81,8 +81,10 @@
   * [ISO/IEC JTC 1/SC 39](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1/SC_39) [Sustainability, IT and data centers](https://www.iso.org/committee/654019.html)
   * [ISO/IEC 27000-series](https://en.wikipedia.org/wiki/ISO/IEC_27000-series)
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
+  * [ITU-T](https://en.wikipedia.org/wiki/ITU-T)
   * [IoT Global Standards Initiative](https://www.itu.int/en/ITU-T/gsi/iot/)
   * [ITU-T SG15 Flyers](https://www.itu.int/en/ITU-T/studygroups/2022-2024/15/Pages/flyers.aspx)
+  * ITU-T [G.652](https://en.wikipedia.org/wiki/G.652)
   * [ITU-T G SUPPL. 66 (10/2018)](https://www.itu.int/itu-t/recommendations/rec.aspx?rec=13826), 5G wireless fronthaul requirements in a passive optical network context
 * [JCP](https://en.wikipedia.org/wiki/Java_Community_Process) (Java Community Process)
   * [Jakarta Messaging](https://en.wikipedia.org/wiki/Jakarta_Messaging)
