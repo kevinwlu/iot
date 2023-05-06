@@ -138,6 +138,7 @@ Electrical Engineering EE 629
 * [Microsoft IoT Community](https://techcommunity.microsoft.com/t5/internet-of-things-iot/ct-p/IoT)
 * [Nendica: IEEE 802 Network Enhancements for the Next Decade](https://1.ieee802.org/802-nendica/)
 * [Nokia IoT Community](https://open-ecosystem.org/node/5596)
+* [Optica](https://en.wikipedia.org/wiki/Optica_(society))
 * [Product Hunt](https://en.wikipedia.org/wiki/Product_Hunt)
 * [Sourcehere](https://sourcehere.com/)
 * [U.S. Green Building Council](https://en.wikipedia.org/wiki/U.S._Green_Building_Council) (USGBC)
