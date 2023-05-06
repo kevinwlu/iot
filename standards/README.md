@@ -83,6 +83,7 @@
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
   * [IoT Global Standards Initiative](https://www.itu.int/en/ITU-T/gsi/iot/)
   * [ITU-T SG15 Flyers](https://www.itu.int/en/ITU-T/studygroups/2022-2024/15/Pages/flyers.aspx)
+  * [ITU-T G SUPPL. 66 (10/2018)](https://www.itu.int/itu-t/recommendations/rec.aspx?rec=13826), 5G wireless fronthaul requirements in a passive optical network context
 * [JCP](https://en.wikipedia.org/wiki/Java_Community_Process) (Java Community Process)
   * [Jakarta Messaging](https://en.wikipedia.org/wiki/Jakarta_Messaging)
 * [NFPA](https://en.wikipedia.org/wiki/National_Fire_Protection_Association) (National Fire Protection Association)
