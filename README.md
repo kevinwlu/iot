@@ -12,6 +12,7 @@ Electrical Engineering EE 629
 * [Lesson 8](/lesson8): Data Analysis
 * [Lesson 9](/lesson9): YANG and Qiskit
 * [Lesson 10](/lesson10): Blockchain
+* [Labs] by [David Krauthamer](https://github.com/dkrautha/d6)
 * [Apps](/apps)
 * [Engineering Economics](/economics)
 * [Gartner hype cycle](/hype)
