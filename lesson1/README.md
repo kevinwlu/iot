@@ -84,6 +84,9 @@
   * [IBM Cloud](https://en.wikipedia.org/wiki/IBM_Cloud)
   * [Microsoft Azure](https://en.wikipedia.org/wiki/Microsoft_Azure)
   * [Oracle Cloud](https://en.wikipedia.org/wiki/Oracle_Cloud) Infrastructure (OCI)
+* [Open Compute Project](https://en.wikipedia.org/wiki/Open_Compute_Project) (OCP)]
+  * [OCP Telco Project](https://www.opencompute.org/wiki/Telcos)
+    * [Distributed Disaggregated Chassis](https://www.opencompute.org/documents/20220920-ddc-v2-ocp-specification-ufispace-edit-docx-1-pdf) ( DDC)
 * [DevOps](https://en.wikipedia.org/wiki/DevOps)
     * Google Cloud [DevOps Research and Assessment](https://cloud.google.com/devops) (DORA)
 ##
