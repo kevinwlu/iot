@@ -184,6 +184,7 @@ Electrical Engineering EE 629
   * [Specifications](https://openconnectivity.org/developer/specifications/)
   * [Fairhair Specification](https://openconnectivity.org/developer/specifications/fairhair/)
   * [IoTivity](https://en.wikipedia.org/wiki/IoTivity)
+* [one6G](https://one6g.org/)
 * [OpenCAPI Consortium](https://opencapi.org/)
 * [Open Handset Alliance](https://en.wikipedia.org/wiki/Open_Handset_Alliance) (OHA)
 * [O-RAN Alliance](https://www.o-ran.org/)
