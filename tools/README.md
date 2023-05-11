@@ -5,6 +5,7 @@
 * [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV)
 ## Platform
 * [Comparison of platform virtualization software](https://en.wikipedia.org/wiki/Comparison_of_platform_virtualization_software)
+* [Canva](https://en.wikipedia.org/wiki/Canva)
 * [Proxmox Virtual Environment](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)
 ## 3D Printing
 * [3D printing](https://en.wikipedia.org/wiki/3D_printing)
