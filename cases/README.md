@@ -12,9 +12,14 @@
 * [Xiang Tian Agriculture](https://www.sdxiangtian.cn/)
 ## Communications
 * [0G Project](http://n4wwwgzppoxfqgh4d37fjl4yanfiwhdr3rocjegzpyhlu2wesmrbknad.onion.ly/)
+* [Affirmed Networks](https://www.affirmednetworks.com/)
+* [Altiostar](https://en.wikipedia.org/wiki/Altiostar)
+* [Cellwize](https://www.cellwize.com/)
 * [Nile](https://nilesecure.com/)
+* [Radisys](https://en.wikipedia.org/wiki/Radisys)
 * [Tor](https://en.wikipedia.org/wiki/Tor_(network))
 * [Ukama](https://www.ukama.com/)
+* [Wiwynn](https://www.wiwynn.com/)
 ## Cybersecurity
 * [VicOne](https://vicone.com/)
 ## Drones
