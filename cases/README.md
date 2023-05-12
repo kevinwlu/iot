@@ -12,6 +12,7 @@
 * [Xiang Tian Agriculture](https://www.sdxiangtian.cn/)
 ## Communications
 * [0G Project](http://n4wwwgzppoxfqgh4d37fjl4yanfiwhdr3rocjegzpyhlu2wesmrbknad.onion.ly/)
+* [Nile](https://nilesecure.com/)
 * [Tor](https://en.wikipedia.org/wiki/Tor_(network))
 * [Ukama](https://www.ukama.com/)
 ## Cybersecurity
