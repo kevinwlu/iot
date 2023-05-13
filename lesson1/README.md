@@ -115,6 +115,7 @@
 * [Cloud computing security](https://en.wikipedia.org/wiki/Cloud_computing_security)
   * NIST [cloud security](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/cloud-security)
 * [Secure access service edge](https://en.wikipedia.org/wiki/Secure_access_service_edge) (SASE)
+* [Zero trust security model](https://en.wikipedia.org/wiki/Zero_trust_security_model)
 * [Privacy-enhancing technologies](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies) (PET)
 ## Lab Primer
 * [Primer](https://en.wikipedia.org/wiki/Primer_(textbook))
