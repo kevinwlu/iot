@@ -26,6 +26,7 @@
 * [List of unmanned aerial vehicles](https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicles)
 * [List of unmanned aerial vehicles of China](https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicles_of_China)
 * [General Atomics Aeronautical Systems](https://en.wikipedia.org/wiki/General_Atomics_Aeronautical_Systems)
+* [Arrive](https://www.arrive.tech/)
 * [Heven Drones](https://www.hevendrones.com/)
 * [Manna Drone Delivery](https://www.manna.aero/)
 * [Saildrone](https://en.wikipedia.org/wiki/Saildrone_(company))
