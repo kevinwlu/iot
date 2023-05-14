@@ -28,6 +28,7 @@
 * [General Atomics Aeronautical Systems](https://en.wikipedia.org/wiki/General_Atomics_Aeronautical_Systems)
 * [Heven Drones](https://www.hevendrones.com/)
 * [Manna Drone Delivery](https://www.manna.aero/)
+* [Saildrone](https://en.wikipedia.org/wiki/Saildrone_(company))
 * [Skydio](https://en.wikipedia.org/wiki/Skydio)
 * [Tevel Aerobotics](https://www.tevel-tech.com/)
 * [Zipline](https://www.flyzipline.com/)
