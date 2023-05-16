@@ -31,6 +31,7 @@
 * [Electret microphone](https://en.wikipedia.org/wiki/Electret_microphone)
   * [Electret](https://en.wikipedia.org/wiki/Electret)
   * [Adafruit](https://www.adafruit.com/product/1935)
+* [Joystick](https://en.wikipedia.org/wiki/Joystick)
 ## Actuators
 * [Actuator](https://en.wikipedia.org/wiki/Actuator)
 * [Brushed DC electric motor](https://en.wikipedia.org/wiki/Brushed_DC_electric_motor)
