@@ -82,6 +82,7 @@
 * [Variance](https://en.wikipedia.org/wiki/Variance)
 * [Analysis of variance](https://en.wikipedia.org/wiki/Analysis_of_variance) (ANOVA)
 * [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
+* [Tukey's range test](https://en.wikipedia.org/wiki/Tukey%27s_range_test) or Tukey's HSD (honestly significant difference) test
 
 ## Scikit-learn
 * [Scikit-learn](https://en.wikipedia.org/wiki/Scikit-learn) machine learning in Python
