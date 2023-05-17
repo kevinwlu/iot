@@ -81,6 +81,7 @@
 * [Metaverse](https://en.wikipedia.org/wiki/Metaverse)
   * [Augmented reality](https://en.wikipedia.org/wiki/Augmented_reality) (AR)
   * [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) (VR)
+    * [Nanome](https://nanome.ai/)
   * [Mixed reality](https://en.wikipedia.org/wiki/Mixed_reality) (MR)
   * [Digital twin](https://en.wikipedia.org/wiki/Digital_twin)
   * [Persistence](https://en.wikipedia.org/wiki/Persistence_(computer_science)) 
