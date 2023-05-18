@@ -149,10 +149,12 @@ $ python3 node_server.py
 * Note that VNC Server is required only if running on Raspberry Pi OS via VNC Viewer on a laptop
 ```sh
 $ vncserver
+```
+```sh
 $ cd ~/python_blockchain_app
 $ python3 run_app.py
 ```
-* Via VNC viewer, open a browser on Raspberry Pi and go to YourNet running at http://127.0.0.1:5000/
+* Open a browser and go to YourNet running at http://127.0.0.1:5000/
 * Enter content and name, click "Post," and click "Request to mine" that generate "Block #1 is mined" at http://127.0.0.1:8000/mine
 * At YourNet, click "Resync" to view Block #1
 
