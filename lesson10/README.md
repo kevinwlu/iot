@@ -146,7 +146,7 @@ $ nano node_server.py
 $ python3 node_server.py
 ```
 #### Terminal 2: Run run_app.py (Press Ctrl+C to quit)
-* Note that VNC Server is required only if running on Raspberry Pi OS via VNC Viewer on a laptop
+* Note that VNC Server is required only if running the app on Raspberry Pi OS via VNC Viewer on a laptop
 ```sh
 $ vncserver
 ```
