@@ -41,6 +41,7 @@
   * [Linaro](https://en.wikipedia.org/wiki/Linaro)
 * [Robot Operating System](https://en.wikipedia.org/wiki/Robot_Operating_System) (ROS)
 * [Debian](https://en.wikipedia.org/wiki/Debian)
+  * [Debian logos](https://www.debian.org/logos/)
   * [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu)
   * [APT](https://en.wikipedia.org/wiki/APT_(software)) (Advanced Package Tool)
 * [LXDE](https://en.wikipedia.org/wiki/LXDE)
