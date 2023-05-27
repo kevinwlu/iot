@@ -52,6 +52,7 @@
   * [Robert Noyce](https://en.wikipedia.org/wiki/Robert_Noyce) 1927&mdash;1990
   * P. E. Ross, "[5 commandments](https://spectrum.ieee.org/5-commandments)," _IEEE Spectrum_, December 1, 2003
 * [Moore's second law](https://en.wikipedia.org/wiki/Moore%27s_second_law) or Rock's law
+* [Huang's law](https://en.wikipedia.org/wiki/Huang%27s_law)
 * [Machrone’s law](https://www.pcmag.com/archive/machrones-law-were-back-baby-121213)
 * [Edholm's law](https://en.wikipedia.org/wiki/Edholm%27s_law)
   * [Jakob Nielsen](https://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant))
