@@ -47,6 +47,7 @@
 * [World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum) (WEF)
 * [Zero-based budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting) (ZBB)
 ## 
+* [List of eponymous laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
 * [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)
   * [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore) 1929&mdash;2023
   * [Robert Noyce](https://en.wikipedia.org/wiki/Robert_Noyce) 1927&mdash;1990
