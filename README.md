@@ -126,6 +126,7 @@ Electrical Engineering EE 629
 * [GSMA](https://en.wikipedia.org/wiki/GSMA)
   * [Mobile World Congress](https://en.wikipedia.org/wiki/Mobile_World_Congress) (MWC)
 * [Hackster.io](https://www.hackster.io/), an [Avnet](https://en.wikipedia.org/wiki/Avnet) community
+* [Hannover Messe](https://en.wikipedia.org/wiki/Hannover_Messe) (HM)
 * [IBM IoT Community](https://community.ibm.com/community/user/iot/home)
 * [IEEE Blended Learning Portal](https://blended-learning.ieee.org/Portal/) (BLP)
 * [IEEE Future Networks](https://futurenetworks.ieee.org/)
