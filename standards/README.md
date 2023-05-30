@@ -71,6 +71,7 @@
   * [6LoWPAN](https://en.wikipedia.org/wiki/6LoWPAN)
 * [IFIP](https://en.wikipedia.org/wiki/International_Federation_for_Information_Processing) (International Federation for Information Processing)
   * [IP3](https://www.ipthree.org/) (International Professional Practice Partnership)
+* [INCOSE](https://en.wikipedia.org/wiki/International_Council_on_Systems_Engineering) (International Council on Systems Engineering)
 * [ISA](https://en.wikipedia.org/wiki/International_Society_of_Automation) (International Society of Automation)
 * [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) (International Organization for Standardization)
   * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
