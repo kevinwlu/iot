@@ -135,6 +135,7 @@ Electrical Engineering EE 629
 * [IEEE Metaverse Congress](https://engagestandards.ieee.org/IEEE-Metaverse-Congress.html)
 * [IEEE SA Events](https://standards.ieee.org/events/)
 * [IEEE SA Interactive Cityscape](https://standards.ieee.org/wp-content/uploads/interactive/web/cityscape/index.htm)
+* [International Council on Systems Engineering](https://en.wikipedia.org/wiki/International_Council_on_Systems_Engineering) (INCOSE)
 * [IoT Communities](https://iotcommunity.net/)
 * [IoT Developer Communities](https://www.iotevolutionworld.com/iot/articles/444725-iot-developer-communities-platforms-people-productivity-2020.htm)
 * [Microsoft IoT Community](https://techcommunity.microsoft.com/t5/internet-of-things-iot/ct-p/IoT)
