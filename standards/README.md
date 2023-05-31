@@ -117,6 +117,7 @@
   * [J3016](https://www.sae.org/standards/content/j3016_202104) Taxonomy and Definitions for Terms Related to Driving Autonomous Systems for On-Road Motor Vehicles
 * [Thread Group](https://www.threadgroup.org/)
   * [Thread](https://en.wikipedia.org/wiki/Thread_(network_protocol))
+  * [OpenThread](https://openthread.io/) released by Google
 * [URSI](https://en.wikipedia.org/wiki/International_Union_of_Radio_Science) (International Union of Radio Science)
   * [Commission A](https://www.ursi.org/commission.php?id=A): Electromagnetic Metrology, Electromagnetic measurements and standards
 * [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) (World Wide Web Consortium)
