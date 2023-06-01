@@ -1,4 +1,5 @@
 # Apps
+* [List of home automation software](https://en.wikipedia.org/wiki/List_of_home_automation_software)
 * [Home Assistant](https://en.wikipedia.org/wiki/Home_Assistant)
 * [IFTTT](https://en.wikipedia.org/wiki/IFTTT)
 * [iNaturalist](https://en.wikipedia.org/wiki/INaturalist)
