@@ -104,6 +104,7 @@
 ##
 * [Outline of automation](https://en.wikipedia.org/wiki/Outline_of_automation)
   * [Hyperautomation](https://en.wikipedia.org/wiki/Robotic_process_automation#Hyperautomation)
+* [List of automation protocols](https://en.wikipedia.org/wiki/List_of_automation_protocols)
 * [Orchestration (computing)](https://en.wikipedia.org/wiki/Orchestration_(computing))
 * [As a service](https://en.wikipedia.org/wiki/As_a_service)
 * [Service economy](https://en.wikipedia.org/wiki/Service_economy)
