@@ -1,4 +1,5 @@
 # Apps
+* [Home Assistant](https://en.wikipedia.org/wiki/Home_Assistant)
 * [IFTTT](https://en.wikipedia.org/wiki/IFTTT)
 * [iNaturalist](https://en.wikipedia.org/wiki/INaturalist)
 * [LightBlue](https://punchthrough.com/lightblue/)
