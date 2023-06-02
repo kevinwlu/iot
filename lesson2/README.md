@@ -247,7 +247,7 @@ $ sudo i2cdetect -y 1
 * GND to GND
 * VDD to 3.3V or 5V
 * DQ to GPIO 4 (the 4th pin from the left of the bottom row) and through a 4.7k&Omega; resistor to VDD
-* An [asterisk](https://en.wikipedia.org/wiki/Asterisk) vocalized as star is a [wildcard character](https://en.wikipedia.org/wiki/Wildcard_character) representing a placeholder
+* An [asterisk](https://en.wikipedia.org/wiki/Asterisk) below vocalized as star is a [wildcard character](https://en.wikipedia.org/wiki/Wildcard_character) representing a placeholder
 
 ![1-wire_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/1-wire_bb.png)
 
