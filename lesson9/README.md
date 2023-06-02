@@ -102,6 +102,11 @@
   * [Xanadu Strawberry Fields](https://github.com/XanaduAI/strawberryfields)
 * [Cryogenics](https://en.wikipedia.org/wiki/Cryogenics)
   * [Bluefors](https://bluefors.com/) [Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)
+* [Software build](https://en.wikipedia.org/wiki/Software_build)
+* [Build automation](https://en.wikipedia.org/wiki/Build_automation)
+* [List of build automation software](https://en.wikipedia.org/wiki/List_of_build_automation_software)
+  * [Make](https://en.wikipedia.org/wiki/Make_(software))
+  * [CMake](https://en.wikipedia.org/wiki/CMake)
 
 ## Lab 9A: YANG
 * A YANG module can be translated into an alternative XML-based syntax called YIN
