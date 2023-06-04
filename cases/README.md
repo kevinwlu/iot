@@ -230,6 +230,7 @@
 * [Zunum Aero](https://en.wikipedia.org/wiki/Zunum_Aero)
 ## Transportation: Ground
 * [Drivetrain](https://en.wikipedia.org/wiki/Drivetrain)
+* [Collision avoidance system](https://en.wikipedia.org/wiki/Collision_avoidance_system)
 * [List of production battery electric vehicles](https://en.wikipedia.org/wiki/List_of_production_battery_electric_vehicles)
 * [List of self-driving system suppliers](https://en.wikipedia.org/wiki/List_of_self-driving_system_suppliers)
 * [List of truck types](https://en.wikipedia.org/wiki/List_of_truck_types)
@@ -251,6 +252,7 @@
 * [Fisker](https://en.wikipedia.org/wiki/Fisker_Inc.)
 * [Gatik](https://gatik.ai/)
 * [Gillig](https://en.wikipedia.org/wiki/Gillig)
+* [Hitachi Astemo](https://www.hitachiastemo.com/en/)
 * [Hyliion](https://www.hyliion.com/)
 * [Hyperloop](https://en.wikipedia.org/wiki/Hyperloop)
 * [Hyzon Motors](https://en.wikipedia.org/wiki/Hyzon_Motors)
