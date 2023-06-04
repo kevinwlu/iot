@@ -179,7 +179,7 @@ Electrical Engineering EE 629
 * [LoRa](https://en.wikipedia.org/wiki/LoRa) Alliance
 * [MIPI Alliance](https://en.wikipedia.org/wiki/MIPI_Alliance) (Mobile Industry Processor Interface)
 * [MulteFire](https://en.wikipedia.org/wiki/MulteFire)
-* [National Charging Experience Consortium](https://driveelectric.gov/chargex-consortium/) (ChargeX Consortium)
+* [National Charging Experience Consortium](https://inl.gov/chargex/) (ChargeX)
 * [Next G Alliance](https://www.nextgalliance.org/)
 * [Next Generation Mobile Networks](https://en.wikipedia.org/wiki/Next_Generation_Mobile_Networks) (NGMN) Alliance
 * [Nexus 5001 Forum](https://nexus5001.org/)
