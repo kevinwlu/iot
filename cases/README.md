@@ -243,8 +243,9 @@
 * [ZeroAvia](https://en.wikipedia.org/wiki/ZeroAvia)
 * [Zunum Aero](https://en.wikipedia.org/wiki/Zunum_Aero)
 ## Transportation: Ground
-* [Drivetrain](https://en.wikipedia.org/wiki/Drivetrain)
 * [Collision avoidance system](https://en.wikipedia.org/wiki/Collision_avoidance_system)
+* [Drivetrain](https://en.wikipedia.org/wiki/Drivetrain)
+* [Mileage-Based Road User Charges](https://highways.dot.gov/public-roads/marchapril-2006/mileage-based-road-user-charges)
 * [List of production battery electric vehicles](https://en.wikipedia.org/wiki/List_of_production_battery_electric_vehicles)
 * [List of self-driving system suppliers](https://en.wikipedia.org/wiki/List_of_self-driving_system_suppliers)
 * [List of truck types](https://en.wikipedia.org/wiki/List_of_truck_types)
@@ -255,6 +256,7 @@
 * [Aptiv](https://en.wikipedia.org/wiki/Aptiv)
 * [Argo AI](https://en.wikipedia.org/wiki/Argo_AI)
 * [Aurora Innovation](https://en.wikipedia.org/wiki/Aurora_Innovation)
+* [Autoliv](https://en.wikipedia.org/wiki/Autoliv)
 * [Autzu](https://www.autzu.com/)
 * [Canoo](https://en.wikipedia.org/wiki/Canoo)
 * [Canyon Bicycles](https://en.wikipedia.org/wiki/Canyon_Bicycles)
