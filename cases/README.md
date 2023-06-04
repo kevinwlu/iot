@@ -199,6 +199,7 @@
 * [Spaceflight Industries](https://en.wikipedia.org/wiki/Spaceflight_Industries)
 * [SpaceX](https://en.wikipedia.org/wiki/SpaceX)
 * [Startfish Space](https://www.starfishspace.com/)
+* [Stratolaunch Systems](https://en.wikipedia.org/wiki/Stratolaunch_Systems)
 * [United Launch Alliance](https://en.wikipedia.org/wiki/United_Launch_Alliance) (ULA)
 ## Sports
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
