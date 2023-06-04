@@ -152,6 +152,7 @@
 * [eLeapPower](https://www.eleappower.com/)
 * [Infinitum](https://goinfinitum.com/)
 * [Rosotics](https://www.rosotics.com/)
+* [STILFOLD](https://www.stilfold.com/)
 * [TNT Aerospace](https://www.tntaerospace.com/)
 * [Unified numbering system](https://en.wikipedia.org/wiki/Unified_numbering_system) (UNS)
 ## Public Services
@@ -214,6 +215,7 @@
 * [Boom Technology](https://en.wikipedia.org/wiki/Boom_Technology)
 * [DLR HY4](https://en.wikipedia.org/wiki/DLR_HY4)
 * [EHang](https://en.wikipedia.org/wiki/EHang)
+* [Eve Air Mobility](https://en.wikipedia.org/wiki/Eve_Air_Mobility)
 * [Eviation Alice](https://en.wikipedia.org/wiki/Eviation_Alice)
 * [Faradair Aerospace BEHA](https://en.wikipedia.org/wiki/Faradair_Aerospace_BEHA)
 * [GKN Aerospace](https://www.gknaerospace.com/)
