@@ -149,6 +149,7 @@
   * [U-Scan](https://www.withings.com/us/en/u-scan)
 ## Industrial
 * [Automated guided vehicle](https://en.wikipedia.org/wiki/Automated_guided_vehicle) (AGV)
+* [Cummins](https://en.wikipedia.org/wiki/Cummins)
 * [eLeapPower](https://www.eleappower.com/)
 * [Infinitum](https://goinfinitum.com/)
 * [Rosotics](https://www.rosotics.com/)
@@ -207,6 +208,7 @@
 * [AFWERX](https://en.wikipedia.org/wiki/AFWERX)
 * [Airworthiness](https://en.wikipedia.org/wiki/Airworthiness)
 * [Bell Textron](https://en.wikipedia.org/wiki/Bell_Textron)
+* [Boom Technology](https://en.wikipedia.org/wiki/Boom_Technology)
 * [Electronic flight bag](https://en.wikipedia.org/wiki/Electronic_flight_bag) (EFB)
 * [Elroy Air](https://en.wikipedia.org/wiki/Elroy_Air_Chaparral)
 * [eVTOL](https://en.wikipedia.org/wiki/EVTOL) (electric vertical take-off and landing) aircraft
