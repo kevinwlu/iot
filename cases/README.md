@@ -185,6 +185,7 @@
 ## Space
 * [Axiom Space](https://en.wikipedia.org/wiki/Axiom_Space)
 * [Blue Origin](https://en.wikipedia.org/wiki/Blue_Origin)
+* [GITAI](https://gitai.tech/)
 * [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter))
 * [Isar Aerospace](https://en.wikipedia.org/wiki/Isar_Aerospace)
 * [ispace](https://en.wikipedia.org/wiki/Ispace_(Japanese_company))
