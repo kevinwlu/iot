@@ -23,6 +23,7 @@
 * [Cybersecurity standards](https://en.wikipedia.org/wiki/Cybersecurity_standards)
 * [ERTICO](https://en.wikipedia.org/wiki/ERTICO) (European Road Transport Telematics Implementation Coordination)
 * [ETSI](https://en.wikipedia.org/wiki/ETSI) (European Telecommunications Standards Institute)
+* [Health Level 7](https://en.wikipedia.org/wiki/Health_Level_7) (HL7)
 * [IANA](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority) (Internet Assigned Numbers Authority)
   * [Service Name and Transport Protocol Port Number Registry](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
 * [IEC](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) (International Electrotechnical Commission)
