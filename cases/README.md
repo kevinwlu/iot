@@ -57,6 +57,7 @@
 * [Anovion](https://www.anoviontech.com/)
 * [Autel Energy](https://autelenergy.us/)
 * [Bel](https://www.belfuse.com/)
+* [Biofuel](https://en.wikipedia.org/wiki/Biofuel)
 * [CATL](https://en.wikipedia.org/wiki/CATL)
   * [Sodium-ion battery](https://en.wikipedia.org/wiki/Sodium-ion_battery)
 * [ChargePoint](https://en.wikipedia.org/wiki/ChargePoint)
