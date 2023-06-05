@@ -54,6 +54,7 @@
 * [Albemarle Corporation](https://en.wikipedia.org/wiki/Albemarle_Corporation)
 * [Amogy](https://amogy.co/)
   * [Ammonia](https://en.wikipedia.org/wiki/Ammonia)
+* [Ample](https://ample.com/)
 * [Anovion](https://www.anoviontech.com/)
 * [Autel Energy](https://autelenergy.us/)
 * [Bel](https://www.belfuse.com/)
