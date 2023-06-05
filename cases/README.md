@@ -277,6 +277,7 @@
 * [Argo AI](https://en.wikipedia.org/wiki/Argo_AI)
 * [Aurora Innovation](https://en.wikipedia.org/wiki/Aurora_Innovation)
 * [Autoliv](https://en.wikipedia.org/wiki/Autoliv)
+* [Autotalks](https://auto-talks.com/)
 * [Autzu](https://www.autzu.com/)
 * [Canoo](https://en.wikipedia.org/wiki/Canoo)
 * [Canyon Bicycles](https://en.wikipedia.org/wiki/Canyon_Bicycles)
