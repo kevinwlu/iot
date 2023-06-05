@@ -75,6 +75,7 @@
   * [General Fusion](https://en.wikipedia.org/wiki/General_Fusion)
   * [Helion Energy](https://en.wikipedia.org/wiki/Helion_Energy)
 * [Fusion ignition](https://en.wikipedia.org/wiki/Fusion_ignition)
+* [Kempower](https://kempower.com/)
 * [Lithionics Battery](https://lithionicsbattery.com/)
 * [Lithium–air battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93air_battery)
 * [Lithium iron phosphate battery](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery) (LFP)
