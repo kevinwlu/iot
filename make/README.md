@@ -1,6 +1,7 @@
 # Makeathon
 * [Hackathon](https://en.wikipedia.org/wiki/Hackathon)
 * [Devpost](https://en.wikipedia.org/wiki/Devpost)
+* [Gamification](https://en.wikipedia.org/wiki/Gamification)
 * [HackHarvard](https://hackharvard.io/)
 * [MakeHarvard](https://makeharvard.io/)
   * [The Story of MakeHarvard](https://medium.com/@camakk/the-story-of-makeharvard-e51e1fe12549)
