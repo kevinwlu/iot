@@ -81,6 +81,7 @@
   * [General Fusion](https://en.wikipedia.org/wiki/General_Fusion)
   * [Helion Energy](https://en.wikipedia.org/wiki/Helion_Energy)
 * [Fusion ignition](https://en.wikipedia.org/wiki/Fusion_ignition)
+* [Ingeteam](https://www.ingeteam.com/)
 * [Kempower](https://kempower.com/)
 * [Lithionics Battery](https://lithionicsbattery.com/)
 * [Lithium–air battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93air_battery)
