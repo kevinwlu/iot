@@ -51,6 +51,7 @@
 * [Inflection](https://inflection.ai/)
 * [Jenni](https://jenni.ai/)
 * [Khroma](https://www.khroma.co/)
+* [Late No More](https://www.focusbear.io/en/late-no-more)
 * [Meta AI](https://en.wikipedia.org/wiki/Meta_AI)
   * [BlenderBot](https://blenderbot.ai/)
   * [BlenderBot 3](https://parl.ai/projects/bb3/) (BB3)
