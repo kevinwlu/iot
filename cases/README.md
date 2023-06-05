@@ -194,6 +194,7 @@
 * [Open Robotics](https://en.wikipedia.org/wiki/Open_Robotics)
 * [Optimus (robot)](https://en.wikipedia.org/wiki/Optimus_(robot))
 * [Pliant Energy Systems](https://www.pliantenergy.com/)
+* [Richtech Robotics](https://www.richtechrobotics.com/)
 ## Space
 * [Axiom Space](https://en.wikipedia.org/wiki/Axiom_Space)
 * [Blue Origin](https://en.wikipedia.org/wiki/Blue_Origin)
