@@ -100,6 +100,7 @@
   * [Ubiquitous Energy](https://ubiquitous.energy/)
 * [Nighttime photovoltaic (PV) cells](https://aip.scitation.org/doi/10.1063/5.0085205)
 * [Northvolt](https://en.wikipedia.org/wiki/Northvolt)
+* [Plug Power](https://en.wikipedia.org/wiki/Plug_Power)
 * [Pumped-storage hydroelectricity](https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity) (PSH)
 * [Raven SR](https://ravensr.com/)
 * [Redwood Materials](https://en.wikipedia.org/wiki/Redwood_Materials,_Inc.)
