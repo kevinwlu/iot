@@ -99,6 +99,7 @@
     * [InterNano](https://www.internano.org/)
   * [Swift Solar](https://www.swiftsolar.com/)
   * [Ubiquitous Energy](https://ubiquitous.energy/)
+* [Nel ASA](https://en.wikipedia.org/wiki/Nel_ASA)
 * [Nighttime photovoltaic (PV) cells](https://aip.scitation.org/doi/10.1063/5.0085205)
 * [Northvolt](https://en.wikipedia.org/wiki/Northvolt)
 * [Plug Power](https://en.wikipedia.org/wiki/Plug_Power)
