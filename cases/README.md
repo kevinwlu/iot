@@ -40,6 +40,7 @@
 * [Labster](https://www.labster.com/)
 * [Riiid](https://riiid.com/)
 ## Enabler
+* [Liquid Wire](https://www.liquidwire.com/)
 * [Lumos Labs](https://www.lumoslabs.co/)
   * [BUIDL for Web3](https://hack.lumoslabs.co/)
   * [Lumosity](https://www.lumosity.com/en/)
