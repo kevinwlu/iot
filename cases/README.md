@@ -6,6 +6,8 @@
   * [Fendt](https://en.wikipedia.org/wiki/Fendt)
 * [Arable](https://www.arable.com/)
 * [AUGA Group](https://en.wikipedia.org/wiki/Auga_Group)
+* [Electric tractor](https://en.wikipedia.org/wiki/Electric_tractor)
+  * [Monarch Tractor](https://www.monarchtractor.com/)
 * [FarmBeats](https://www.microsoft.com/en-us/research/project/farmbeats-iot-agriculture/)
 * [FarmVibes](https://www.microsoft.com/en-us/research/project/project-farmvibes/)
   * [Farmvibes.AI](https://github.com/microsoft/farmvibes-ai)
