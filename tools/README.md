@@ -125,6 +125,7 @@
 * [Duolingo](https://en.wikipedia.org/wiki/Duolingo)
 * [Forvo](https://en.wikipedia.org/wiki/Forvo)
 ## Note Taking
+* [Liffery](https://www.liffery.com/)
 * [Notion](https://en.wikipedia.org/wiki/Notion_(productivity_software))
 * [Obsidian](https://en.wikipedia.org/wiki/Obsidian_(software))
 ## Object Detection and Facial Recognition
