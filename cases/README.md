@@ -46,6 +46,7 @@
 * [Sony Depthsensing Solutions](https://en.wikipedia.org/wiki/Sony_Depthsensing_Solutions)
 * [Telit](https://en.wikipedia.org/wiki/Telit)
 ## Energy and Power
+* [List of electric vehicle battery manufacturers](https://en.wikipedia.org/wiki/List_of_electric_vehicle_battery_manufacturers)
 * [Aeromine](https://www.aerominetechnologies.com/)
 * [Air Liquide](https://en.wikipedia.org/wiki/Air_Liquide)
 * [Albemarle Corporation](https://en.wikipedia.org/wiki/Albemarle_Corporation)
@@ -76,8 +77,9 @@
 * [Fusion ignition](https://en.wikipedia.org/wiki/Fusion_ignition)
 * [Lithionics Battery](https://lithionicsbattery.com/)
 * [Lithium–air battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93air_battery)
+* [Lithium iron phosphate battery](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery) (LFP)
+* [Lithium-sulfur battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93sulfur_battery)
 * [Lyten](https://lyten.com/)
-  * [Lithium-sulfur battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93sulfur_battery)
 * [MIT ONE Lab](https://www.onelab.mit.edu/)
   * [Thin Film Solar Panels](https://spectrum.ieee.org/thin-film-solar-panels)
     * [Active Surfaces](https://www.active-surfaces.com/en/)
