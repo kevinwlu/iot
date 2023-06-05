@@ -87,6 +87,7 @@
 * [Lithium iron phosphate battery](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery) (LFP)
 * [Lithium-sulfur battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93sulfur_battery)
 * [Lyten](https://lyten.com/)
+* [Martinrea](https://en.wikipedia.org/wiki/Martinrea)
 * [MIT ONE Lab](https://www.onelab.mit.edu/)
   * [Thin Film Solar Panels](https://spectrum.ieee.org/thin-film-solar-panels)
     * [Active Surfaces](https://www.active-surfaces.com/en/)
@@ -100,6 +101,7 @@
 * [Pumped-storage hydroelectricity](https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity) (PSH)
 * [Raven SR](https://ravensr.com/)
 * [Redwood Materials](https://en.wikipedia.org/wiki/Redwood_Materials,_Inc.)
+* [Skeleton Technologies](https://en.wikipedia.org/wiki/Skeleton_Technologies)
 * [Sol Systems](https://www.solsystems.com/)
 * [Solar cell](https://en.wikipedia.org/wiki/Solar_cell)
   * [List of photovoltaics companies](https://en.wikipedia.org/wiki/List_of_photovoltaics_companies)
@@ -223,6 +225,7 @@
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
 ## Transportation: Air
 * [List of electric aircraft](https://en.wikipedia.org/wiki/List_of_electric_aircraft)
+* [European Union Aviation Safety Agency](https://en.wikipedia.org/wiki/European_Union_Aviation_Safety_Agency) (EASA)
 * [Sustainable aviation fuels](https://www.energy.gov/eere/bioenergy/sustainable-aviation-fuels) (SAF)
 * [AFWERX](https://en.wikipedia.org/wiki/AFWERX)
 * [Airworthiness](https://en.wikipedia.org/wiki/Airworthiness)
