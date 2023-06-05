@@ -20,6 +20,7 @@
 * [Cellwize](https://www.cellwize.com/)
 * [Nile](https://nilesecure.com/)
 * [Radisys](https://en.wikipedia.org/wiki/Radisys)
+* [Spoke Safety](https://www.spokesafety.com/)
 * [Tor](https://en.wikipedia.org/wiki/Tor_(network))
 * [Ukama](https://www.ukama.com/)
 * [Wiwynn](https://www.wiwynn.com/)
