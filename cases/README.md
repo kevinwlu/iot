@@ -258,7 +258,6 @@
 ## Transportation: Ground
 * [Collision avoidance system](https://en.wikipedia.org/wiki/Collision_avoidance_system)
 * [Drivetrain](https://en.wikipedia.org/wiki/Drivetrain)
-* [Mileage-Based Road User Charges](https://highways.dot.gov/public-roads/marchapril-2006/mileage-based-road-user-charges)
 * [List of production battery electric vehicles](https://en.wikipedia.org/wiki/List_of_production_battery_electric_vehicles)
 * [List of self-driving system suppliers](https://en.wikipedia.org/wiki/List_of_self-driving_system_suppliers)
 * [List of truck types](https://en.wikipedia.org/wiki/List_of_truck_types)
