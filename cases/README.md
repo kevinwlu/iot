@@ -179,6 +179,7 @@
 * [ABB](https://en.wikipedia.org/wiki/ABB)
   * [ABB Robotics](https://new.abb.com/products/robotics)
 * [Ameca](https://www.engineeredarts.co.uk/robot/ameca/)
+* [ANYbotics](https://www.anybotics.com/)
 * [Apptronik](https://apptronik.com/)
 * [Elephant Robotics](https://www.elephantrobotics.com/en/)
   * [GitHub](https://github.com/elephantrobotics)
