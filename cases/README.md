@@ -161,6 +161,7 @@
   * [U-Scan](https://www.withings.com/us/en/u-scan)
 ## Industrial
 * [Automated guided vehicle](https://en.wikipedia.org/wiki/Automated_guided_vehicle) (AGV)
+* [Carbon-fiber-reinforced polymers](https://en.wikipedia.org/wiki/Carbon-fiber-reinforced_polymers) (CFRP)
 * [Cummins](https://en.wikipedia.org/wiki/Cummins)
 * [eLeapPower](https://www.eleappower.com/)
 * [Infinitum](https://goinfinitum.com/)
