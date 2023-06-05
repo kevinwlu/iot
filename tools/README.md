@@ -69,6 +69,7 @@
   * [Burstiness](https://en.wikipedia.org/wiki/Burstiness) is a measurement of the variation in perplexity
 * [AI Detector](https://contentatscale.ai/ai-content-detector/)
 * [Open Neural Network Exchange](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (ONNX)
+* [Paragraphica](https://bjoernkarmann.dk/project/paragraphica)
 * [Peppertype.ai](https://www.peppertype.ai/)
 * [Posemaniacs](https://www.posemaniacs.com/en)
 * [Shuffle](https://shuffle.dev/)
