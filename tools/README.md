@@ -34,6 +34,7 @@
 * [Copy.ai](https://www.copy.ai/)
 * [CustomGPT](https://customgpt.ai/)
 * [DeepL](https://www.deepl.com/)
+* [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
 * [GPTZero](https://gptzero.me/) requires at least 250 characters
 * [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot)
   * [GitHub Copilot X](https://github.com/features/preview/copilot-x)
