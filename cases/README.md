@@ -135,6 +135,7 @@
 * [Corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility) (CSR)
 * [Environmental, social, and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
 * [Greenspark](https://www.getgreenspark.com/)
+* [Humance](https://humance.io/en)
 * [Pollution](https://en.wikipedia.org/wiki/Pollution)
   * [Chlorofluorocarbon](https://en.wikipedia.org/wiki/Chlorofluorocarbon) (CFC)
   * [Persistent organic pollutant](https://en.wikipedia.org/wiki/Persistent_organic_pollutant) (POP)
