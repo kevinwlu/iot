@@ -18,6 +18,7 @@
 * [Affirmed Networks](https://www.affirmednetworks.com/)
 * [Altiostar](https://en.wikipedia.org/wiki/Altiostar)
 * [Cellwize](https://www.cellwize.com/)
+* [HAAS Alert](https://www.haasalert.com/)
 * [Nile](https://nilesecure.com/)
 * [Radisys](https://en.wikipedia.org/wiki/Radisys)
 * [Spoke Safety](https://www.spokesafety.com/)
