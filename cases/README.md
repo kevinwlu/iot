@@ -75,6 +75,7 @@
 * [Enel X](https://en.wikipedia.org/wiki/Enel_X)
 * [Energy Exploration Technologies](https://en.wikipedia.org/wiki/Energy_Exploration_Technologies) (EngeryX)
 * [EnerVenue](https://enervenue.com/)
+* [EVBox](https://en.wikipedia.org/wiki/EVBox)
 * [FORVIA](https://www.forvia.com/)
   * [Symbio](https://www.symbio.one/)
 * [Form Energy](https://en.wikipedia.org/wiki/Form_Energy)
