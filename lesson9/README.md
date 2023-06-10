@@ -49,6 +49,7 @@
 * [Creatio](https://en.wikipedia.org/wiki/Creatio) process automation
 ## Qiskit
 * [*My Quantum Experiment*](https://johnhorgan.org/books/my-quantum-experiment) by [John Horgan](https://johnhorgan.org/)
+* [*Science Without the Gobbledygook*](https://www.youtube.com/@SabineHossenfelder) by [Sabine Hossenfelder](https://en.wikipedia.org/wiki/Sabine_Hossenfelder)
 * [Timeline of quantum computing and communication](https://en.wikipedia.org/wiki/Timeline_of_quantum_computing_and_communication)
 * [List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
   * [D-Wave Systems](https://en.wikipedia.org/wiki/D-Wave_Systems)
