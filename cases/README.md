@@ -219,6 +219,7 @@
 * [Axiom Space](https://en.wikipedia.org/wiki/Axiom_Space)
 * [Ball Aerospace & Technologies](https://en.wikipedia.org/wiki/Ball_Aerospace_%26_Technologies)
 * [Blue Origin](https://en.wikipedia.org/wiki/Blue_Origin)
+* [Firefly Aerospace](https://en.wikipedia.org/wiki/Firefly_Aerospace)
 * [GITAI](https://gitai.tech/)
 * [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter))
 * [Isar Aerospace](https://en.wikipedia.org/wiki/Isar_Aerospace)
