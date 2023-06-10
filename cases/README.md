@@ -44,6 +44,7 @@
 * [Labster](https://www.labster.com/)
 * [Riiid](https://riiid.com/)
 ## Enabler
+* [Drover AI](https://drover.ai/)
 * [Liquid Wire](https://www.liquidwire.com/)
 * [Lumos Labs](https://www.lumoslabs.co/)
   * [BUIDL for Web3](https://hack.lumoslabs.co/)
