@@ -43,6 +43,7 @@
   * [Bard](https://bard.google.com/)
   * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
   * [DreamFusion](https://dreamfusion3d.github.io/)
+  * [Foundation models](https://ai.google/discover/foundation-models/)
   * [LaMDA](https://blog.google/technology/ai/lamda/), May 18, 2021
 * [Google Research](https://research.google/tools/)
 * [Ghostwriter](https://replit.com/site/ghostwriter) by [Replit](https://en.wikipedia.org/wiki/Replit)
