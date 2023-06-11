@@ -226,6 +226,7 @@
 * [ispace](https://en.wikipedia.org/wiki/Ispace_(Japanese_company))
 * [Kuiper Systems](https://en.wikipedia.org/wiki/Kuiper_Systems)
 * [Mobile User Objective System](https://en.wikipedia.org/wiki/Mobile_User_Objective_System) (MUOS)
+* [OneWeb](https://en.wikipedia.org/wiki/OneWeb)
 * [PLD Space](https://en.wikipedia.org/wiki/PLD_Space)
 * [Relativity Space](https://en.wikipedia.org/wiki/Relativity_Space)
 * [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab)
