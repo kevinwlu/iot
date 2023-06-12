@@ -206,6 +206,7 @@
 * [Ameca](https://www.engineeredarts.co.uk/robot/ameca/)
 * [ANYbotics](https://www.anybotics.com/)
 * [Apptronik](https://apptronik.com/)
+* [Boston Dynamics](https://en.wikipedia.org/wiki/Boston_Dynamics)
 * [Elephant Robotics](https://www.elephantrobotics.com/en/)
   * [GitHub](https://github.com/elephantrobotics)
 * [Intrinsic](https://intrinsic.ai/)
