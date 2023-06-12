@@ -166,6 +166,7 @@
 * [Language model](https://en.wikipedia.org/wiki/Language_model) (LM)
   * [The Dark Risk of Large Language Models](https://www.wired.com/story/large-language-models-artificial-intelligence/)
   * [Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
+  * [Shoggoth](https://en.wikipedia.org/wiki/Shoggoth)
 * [Alegion](https://www.alegion.com/)
   * [Language Model Scaling Laws and GPT-3](https://towardsdatascience.com/language-model-scaling-laws-and-gpt-3-5cdc034e67bb)
 * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
