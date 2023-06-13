@@ -90,6 +90,7 @@
 * [Fusion ignition](https://en.wikipedia.org/wiki/Fusion_ignition)
 * [Ingeteam](https://www.ingeteam.com/)
 * [Kempower](https://kempower.com/)
+* [KORE Power](https://korepower.com/)
 * [Lithionics Battery](https://lithionicsbattery.com/)
 * [Lithium–air battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93air_battery)
 * [Lithium iron phosphate battery](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery) (LFP)
