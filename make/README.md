@@ -43,3 +43,6 @@
 * [Servomotor](https://en.wikipedia.org/wiki/Servomotor)
 * [Solenoid](https://en.wikipedia.org/wiki/Solenoid)
 * [Stepper motor](https://en.wikipedia.org/wiki/Stepper_motor)
+## Control
+* [Pulse-width modulation](https://en.wikipedia.org/wiki/Pulse-width_modulation) (PWM)
+  * [Raspberry Pi PWM Generation Using Python and C](https://www.electronicwings.com/raspberry-pi/raspberry-pi-pwm-generation-using-python-and-c)
