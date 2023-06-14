@@ -1,4 +1,6 @@
 # Makeathon
+* [Adafruit](https://en.wikipedia.org/wiki/Adafruit_Industries)
+* [Adafruit Learning System](https://learn.adafruit.com/)
 * [Hackathon](https://en.wikipedia.org/wiki/Hackathon)
 * [Devpost](https://en.wikipedia.org/wiki/Devpost)
 * [Gamification](https://en.wikipedia.org/wiki/Gamification)
