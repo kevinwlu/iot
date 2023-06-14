@@ -47,6 +47,7 @@
 * [Pulse-width modulation](https://en.wikipedia.org/wiki/Pulse-width_modulation) (PWM)
   * [Raspberry Pi PWM Generation Using Python and C](https://www.electronicwings.com/raspberry-pi/raspberry-pi-pwm-generation-using-python-and-c)
   * [Controlling a DC Motor](https://learn.adafruit.com/adafruit-raspberry-pi-lesson-9-controlling-a-dc-motor)
+    * [L293D](https://learn.adafruit.com/adafruit-arduino-lesson-15-dc-motor-reversing/lm293d)
   * [5V PWM Output](https://forums.raspberrypi.com/viewtopic.php?t=330689)
     * [2N2222](https://en.wikipedia.org/wiki/2N2222)
     * [2N2907](https://en.wikipedia.org/wiki/2N2907)
