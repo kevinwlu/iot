@@ -47,3 +47,5 @@
 * [Pulse-width modulation](https://en.wikipedia.org/wiki/Pulse-width_modulation) (PWM)
   * [Raspberry Pi PWM Generation Using Python and C](https://www.electronicwings.com/raspberry-pi/raspberry-pi-pwm-generation-using-python-and-c)
   * [5V PWM Output](https://forums.raspberrypi.com/viewtopic.php?t=330689)
+    * [2N2222](https://en.wikipedia.org/wiki/2N2222)
+    * [2N2907](https://en.wikipedia.org/wiki/2N2907)
