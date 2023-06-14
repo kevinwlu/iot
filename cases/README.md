@@ -82,6 +82,7 @@
 * [FORVIA](https://www.forvia.com/)
   * [Symbio](https://www.symbio.one/)
 * [Form Energy](https://en.wikipedia.org/wiki/Form_Energy)
+* [Forum Mobility](https://forummobility.com/)
 * [Fuel cell](https://en.wikipedia.org/wiki/Fuel_cell)
 * [Fusion power](https://en.wikipedia.org/wiki/Fusion_power)
   * [First Light Fusion](https://firstlightfusion.com/)
