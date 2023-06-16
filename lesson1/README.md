@@ -6,6 +6,11 @@
 ##
 * IoT architecture source: [IERC-European Research Cluster on the Internet of Things](http://www.internet-of-things-research.eu/pdf/IoT-From%20Research%20and%20Innovation%20to%20Market%20Deployment_IERC_Cluster_eBook_978-87-93102-95-8_P.pdf)
 * [Open Systems Interconnecton (OSI) model](https://en.wikipedia.org/wiki/OSI_model)
+* [OSI protocols](https://en.wikipedia.org/wiki/OSI_protocols)
+* [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+  * [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) (TCP)
+  * [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol) (UDP)
+  * [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol)
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
 * [Machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine) (M2M) communication
 * [Network packet](https://en.wikipedia.org/wiki/Network_packet)
