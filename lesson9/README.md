@@ -105,6 +105,7 @@
   * [PennyLane](https://github.com/PennyLaneAI/pennylane)
   * [Microsoft Quantum Development Kit Samples](https://github.com/microsoft/Quantum)
   * [Xanadu Strawberry Fields](https://github.com/XanaduAI/strawberryfields)
+* [*Quantum Machine Learning and Optimization in Finance*](https://www.packtpub.com/product/quantum-machine-learning-and-optimisation-in-finance/9781801813570)
 * [Cryogenics](https://en.wikipedia.org/wiki/Cryogenics)
   * [Bluefors](https://bluefors.com/) [Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)
 * [Software build](https://en.wikipedia.org/wiki/Software_build)
