@@ -55,7 +55,6 @@
   * [PennyLane](https://github.com/PennyLaneAI/pennylane)
   * [Microsoft Quantum Development Kit Samples](https://github.com/microsoft/Quantum)
   * [Xanadu Strawberry Fields](https://github.com/XanaduAI/strawberryfields)
-###
 * [Software build](https://en.wikipedia.org/wiki/Software_build)
 * [Build automation](https://en.wikipedia.org/wiki/Build_automation)
 * [List of build automation software](https://en.wikipedia.org/wiki/List_of_build_automation_software)
@@ -102,7 +101,7 @@
   * [NIST Quantum Information Science](https://www.nist.gov/quantum-information-science)
 * [Cryogenics](https://en.wikipedia.org/wiki/Cryogenics)
   * [Bluefors](https://bluefors.com/) [Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)
-###
+##
 * [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
   * [Qubit](https://en.wikipedia.org/wiki/Qubit)
   * [Qutrit](https://en.wikipedia.org/wiki/Qutrit)
@@ -116,7 +115,7 @@
   * [Superconducting quantum computing](https://en.wikipedia.org/wiki/Superconducting_quantum_computing)
   * [FLOPS](https://en.wikipedia.org/wiki/FLOPS) (floating point operations per second)
   * [CLOPS](https://research.ibm.com/blog/circuit-layer-operations-per-second) (circuit layer operations per second)
-###
+##
 * [Quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)
   * [Quantum key distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution) (QKD)
   * [VMAC](https://en.wikipedia.org/wiki/VMAC)
