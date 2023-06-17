@@ -161,6 +161,9 @@
   * [Fumaric_acid](https://en.wikipedia.org/wiki/Fumaric_acid)
   * [Titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide)
 ## Fashion
+* [Virtually try on clothes with a new AI shopping feature](https://blog.google/products/shopping/ai-virtual-try-on-google-shopping/)
+  * [How AI makes virtual try-on more realistic](https://blog.google/products/shopping/virtual-try-on-google-generative-ai/)
+  * [TryOnDiffusion: A Tale of Two UNets](https://tryondiffusion.github.io/)
 * [Renewcell](https://www.renewcell.com/en/)
 ## Finance
 * [Financialization](https://en.wikipedia.org/wiki/Financialization)
