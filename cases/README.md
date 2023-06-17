@@ -186,6 +186,7 @@
 * [Withings](https://en.wikipedia.org/wiki/Withings)
   * [U-Scan](https://www.withings.com/us/en/u-scan)
 ## Industrial
+* [Alloy Enterprises](https://alloyenterprises.co/)
 * [Automated guided vehicle](https://en.wikipedia.org/wiki/Automated_guided_vehicle) (AGV)
 * [Carbon-fiber-reinforced polymers](https://en.wikipedia.org/wiki/Carbon-fiber-reinforced_polymers) (CFRP)
 * [Cummins](https://en.wikipedia.org/wiki/Cummins)
