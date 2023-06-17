@@ -48,12 +48,43 @@
   * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
 * [Creatio](https://en.wikipedia.org/wiki/Creatio) process automation
 ## Qiskit
+* [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
+  * [Qiskit repo](https://github.com/Qiskit)
+  * [Fun With Quantum](https://github.com/JanLahmann/Fun-with-Quantum)
+  * [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133)
+  * [PennyLane](https://github.com/PennyLaneAI/pennylane)
+  * [Microsoft Quantum Development Kit Samples](https://github.com/microsoft/Quantum)
+  * [Xanadu Strawberry Fields](https://github.com/XanaduAI/strawberryfields)
+###
+* [Software build](https://en.wikipedia.org/wiki/Software_build)
+* [Build automation](https://en.wikipedia.org/wiki/Build_automation)
+* [List of build automation software](https://en.wikipedia.org/wiki/List_of_build_automation_software)
+  * [Make](https://en.wikipedia.org/wiki/Make_(software))
+  * [CMake](https://en.wikipedia.org/wiki/CMake)
+### Quantum Mechanics
+* [Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
+* [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
+* [Copenhagen interpretation](https://en.wikipedia.org/wiki/Copenhagen_interpretation)
+* [Quantum information](https://en.wikipedia.org/wiki/Quantum_information)
+* [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
+* [Quantum superposition](https://en.wikipedia.org/wiki/Quantum_superposition)
+* [Quantum mind](https://en.wikipedia.org/wiki/Quantum_mind)
+* [Quantum readout](https://en.wikipedia.org/wiki/Quantum_readout)
 * [*My Quantum Experiment*](https://johnhorgan.org/books/my-quantum-experiment) by [John Horgan](https://johnhorgan.org/)
 * [*Science Without the Gobbledygook*](https://www.youtube.com/@SabineHossenfelder) by [Sabine Hossenfelder](https://en.wikipedia.org/wiki/Sabine_Hossenfelder)
 * [*The Biggest Ideas in the Universe: Space, Time, and Motion*](https://www.preposterousuniverse.com/) by [Sean M. Carroll](https://en.wikipedia.org/wiki/Sean_M._Carroll)
 * [*Q is for Quantum*](https://www.qisforquantum.org/) by [Terry Rudolph](https://en.wikipedia.org/wiki/Terry_Rudolph)
 * [*Quantum Machine Learning and Optimization in Finance*](https://www.packtpub.com/product/quantum-machine-learning-and-optimisation-in-finance/9781801813570) by [Antoine Jacquier](https://jackantoinejacquie.wixsite.com/jacquier) and [Oleksiy Kondratyev](https://www.packtpub.com/authors/oleksiy-kondratyev)
-* [Copenhagen interpretation](https://en.wikipedia.org/wiki/Copenhagen_interpretation)
+### Quantum Standards
+* [IEEE Quantum](https://quantum.ieee.org/)
+  * IEEE [P1913](https://standards.ieee.org/ieee/1913/6720/) Software-Defined Quantum Communication
+  * IEEE [P2995](https://standards.ieee.org/ieee/2995/10633/) Trial-Use Standard for a Quantum Algorithm Design and Development
+  * IEEE [P3120](https://standards.ieee.org/ieee/3120/10751/) Standard for Quantum Computing Architecture
+  * IEEE [P3155](https://standards.ieee.org/ieee/3155/10845/) Standard for Programmable Quantum Simulator
+  * IEEE [P7130](https://standards.ieee.org/ieee/7130/10680/) Standard for Quantum Technologies Definitions
+  * IEEE [P7131](https://standards.ieee.org/ieee/7131/10681/) Standard for Quantum Computing Performance Metrics and Performance Benchmarking
+  * [Erik P. DeBenedictis](https://debenedictis.org/erik/)
+### Quantum Computing and Communication
 * [Timeline of quantum computing and communication](https://en.wikipedia.org/wiki/Timeline_of_quantum_computing_and_communication)
 * [List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
   * [D-Wave Systems](https://en.wikipedia.org/wiki/D-Wave_Systems)
@@ -69,20 +100,10 @@
   * [QED-C](https://quantumconsortium.org/) (The Quantum Economic Development Consortium)
     * [Quantum jobs](https://quantumconsortium.org/quantum-jobs/)
   * [NIST Quantum Information Science](https://www.nist.gov/quantum-information-science)
-* [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
-* [Quantum mind](https://en.wikipedia.org/wiki/Quantum_mind)
-* [Quantum readout](https://en.wikipedia.org/wiki/Quantum_readout)
-* [Quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)
-  * [Quantum key distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution) (QKD)
-  * [VMAC](https://en.wikipedia.org/wiki/VMAC)
-  * [Post-quantum cryptography](https://en.wikipedia.org/wiki/Post-quantum_cryptography) (PQC)
-    * [NIST Post-Quantum Cryptography Standardization](https://en.wikipedia.org/wiki/NIST_Post-Quantum_Cryptography_Standardization)
-    * [Kyber](https://en.wikipedia.org/wiki/Kyber)
-    * [Supersingular isogeny key exchange](https://en.wikipedia.org/wiki/Supersingular_isogeny_key_exchange) (SIKE)
-    * [SIKE.org](https://sike.org/)
-    * [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+* [Cryogenics](https://en.wikipedia.org/wiki/Cryogenics)
+  * [Bluefors](https://bluefors.com/) [Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)
+###
 * [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
-  * [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
   * [Qubit](https://en.wikipedia.org/wiki/Qubit)
   * [Qutrit](https://en.wikipedia.org/wiki/Qutrit)
   * [Qudit](https://en.wiktionary.org/wiki/qudit)
@@ -95,29 +116,17 @@
   * [Superconducting quantum computing](https://en.wikipedia.org/wiki/Superconducting_quantum_computing)
   * [FLOPS](https://en.wikipedia.org/wiki/FLOPS) (floating point operations per second)
   * [CLOPS](https://research.ibm.com/blog/circuit-layer-operations-per-second) (circuit layer operations per second)
-* [IEEE Quantum](https://quantum.ieee.org/)
-  * IEEE [P1913](https://standards.ieee.org/ieee/1913/6720/) Software-Defined Quantum Communication
-  * IEEE [P2995](https://standards.ieee.org/ieee/2995/10633/) Trial-Use Standard for a Quantum Algorithm Design and Development
-  * IEEE [P3120](https://standards.ieee.org/ieee/3120/10751/) Standard for Quantum Computing Architecture
-  * IEEE [P3155](https://standards.ieee.org/ieee/3155/10845/) Standard for Programmable Quantum Simulator
-  * IEEE [P7130](https://standards.ieee.org/ieee/7130/10680/) Standard for Quantum Technologies Definitions
-  * IEEE [P7131](https://standards.ieee.org/ieee/7131/10681/) Standard for Quantum Computing Performance Metrics and Performance Benchmarking
-  * [Erik P. DeBenedictis](https://debenedictis.org/erik/)
-* [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
-  * [Qiskit repo](https://github.com/Qiskit)
-  * [Fun With Quantum](https://github.com/JanLahmann/Fun-with-Quantum)
-  * [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133)
-  * [PennyLane](https://github.com/PennyLaneAI/pennylane)
-  * [Microsoft Quantum Development Kit Samples](https://github.com/microsoft/Quantum)
-  * [Xanadu Strawberry Fields](https://github.com/XanaduAI/strawberryfields)
-* [Cryogenics](https://en.wikipedia.org/wiki/Cryogenics)
-  * [Bluefors](https://bluefors.com/) [Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)
-* [Software build](https://en.wikipedia.org/wiki/Software_build)
-* [Build automation](https://en.wikipedia.org/wiki/Build_automation)
-* [List of build automation software](https://en.wikipedia.org/wiki/List_of_build_automation_software)
-  * [Make](https://en.wikipedia.org/wiki/Make_(software))
-  * [CMake](https://en.wikipedia.org/wiki/CMake)
-
+###
+* [Quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)
+  * [Quantum key distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution) (QKD)
+  * [VMAC](https://en.wikipedia.org/wiki/VMAC)
+    * [Message authentication code](https://en.wikipedia.org/wiki/Message_authentication_code)
+  * [Post-quantum cryptography](https://en.wikipedia.org/wiki/Post-quantum_cryptography) (PQC)
+    * [NIST Post-Quantum Cryptography Standardization](https://en.wikipedia.org/wiki/NIST_Post-Quantum_Cryptography_Standardization)
+    * [Kyber](https://en.wikipedia.org/wiki/Kyber)
+    * [Supersingular isogeny key exchange](https://en.wikipedia.org/wiki/Supersingular_isogeny_key_exchange) (SIKE)
+    * [SIKE.org](https://sike.org/)
+    * [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 ## Lab 9A: YANG
 * A YANG module can be translated into an alternative XML-based syntax called YIN
 * The translated module is called a YIN module
