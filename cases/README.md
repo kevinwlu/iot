@@ -208,6 +208,9 @@
 * [Lawna](https://www.lawnatech.com/)
 * [MagicMirror](https://magicmirror.builders/)
 * [Otter](https://withotter.com/)
+## Ride Sharing
+* [Revel](https://gorevel.com/)
+* [Turo](https://turo.com/)
 ## Retail
 * [Amazon One](https://en.wikipedia.org/wiki/Amazon_One)
 * [Ocado](https://en.wikipedia.org/wiki/Ocado)
