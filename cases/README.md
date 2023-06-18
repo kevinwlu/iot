@@ -210,8 +210,8 @@
 * [Otter](https://withotter.com/)
 ## Ride Sharing
 * [Revel Transit](https://en.wikipedia.org/wiki/Revel_Transit)
-  * [Revel](https://gorevel.co)
-* [Turo](https://turo.com/)
+  * [Website](https://gorevel.co)
+* [Turo](https://en.wikipedia.org/wiki/Turo_(company))
 ## Retail
 * [Amazon One](https://en.wikipedia.org/wiki/Amazon_One)
 * [Ocado](https://en.wikipedia.org/wiki/Ocado)
