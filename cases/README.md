@@ -209,7 +209,8 @@
 * [MagicMirror](https://magicmirror.builders/)
 * [Otter](https://withotter.com/)
 ## Ride Sharing
-* [Revel](https://gorevel.com/)
+* [Revel Transit](https://en.wikipedia.org/wiki/Revel_Transit)
+  * [Revel](https://gorevel.co)
 * [Turo](https://turo.com/)
 ## Retail
 * [Amazon One](https://en.wikipedia.org/wiki/Amazon_One)
