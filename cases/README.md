@@ -14,6 +14,7 @@
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
 * [Xiang Tian Agriculture](https://www.sdxiangtian.cn/)
 ## Communications
+* [Wireless Internet service provider](https://en.wikipedia.org/wiki/Wireless_Internet_service_provider) (WISP)
 * [0G Project](http://n4wwwgzppoxfqgh4d37fjl4yanfiwhdr3rocjegzpyhlu2wesmrbknad.onion.ly/)
 * [Affirmed Networks](https://www.affirmednetworks.com/)
 * [Altiostar](https://en.wikipedia.org/wiki/Altiostar)
