@@ -24,6 +24,7 @@
 * [Spoke Safety](https://www.spokesafety.com/)
 * [Tor](https://en.wikipedia.org/wiki/Tor_(network))
 * [Ukama](https://www.ukama.com/)
+* [Vilo Living](https://store.viloliving.com/)
 * [Wiwynn](https://www.wiwynn.com/)
 ## Cybersecurity
 * [VicOne](https://vicone.com/)
