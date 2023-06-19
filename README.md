@@ -148,7 +148,7 @@ Electrical Engineering EE 629
   * [Leadership in Energy and Environmental Design](https://en.wikipedia.org/wiki/LEED) (LEED)
 * [Volition](https://www.govolition.com/)
 * [Wireless Internet Service Providers Association](https://www.wispa.org/) (WISPA)
-
+  * [Wireless Internet service provider](https://en.wikipedia.org/wiki/Wireless_Internet_service_provider) (WISP)
 ## Aliances and Consortia
 * [5G-ACIA](https://5g-acia.org/) (5G Alliance for Connected Industries and Automation)
 * [Adaptive Instructional Systems Consortium](https://aisconsortium.com/) (AIS)
