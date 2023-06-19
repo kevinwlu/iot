@@ -97,6 +97,7 @@
 * [Libera Chat](https://en.wikipedia.org/wiki/Libera_Chat)
 * [TerminalGPT](https://github.com/jucasoliveira/terminalGPT)
 ## Collaboration
+* [Comparison of remote desktop software](https://en.wikipedia.org/wiki/Comparison_of_remote_desktop_software)
 * [Miro (collaboration platform)](https://en.wikipedia.org/wiki/Miro_(collaboration_platform))
 * [Spline](https://spline.design/)
 * [TeamViewer](https://en.wikipedia.org/wiki/TeamViewer)
