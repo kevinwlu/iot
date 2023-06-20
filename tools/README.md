@@ -46,7 +46,9 @@
   * [DreamFusion](https://dreamfusion3d.github.io/)
   * [Foundation models](https://ai.google/discover/foundation-models/)
   * [Google I/O](https://io.google/)
-  * [LaMDA](https://blog.google/technology/ai/lamda/), May 18, 2021
+  * [LaMDA](https://en.wikipedia.org/wiki/LaMDA)
+    * [May 18, 2021](https://blog.google/technology/ai/lamda/)
+  * [PaLM](https://en.wikipedia.org/wiki/PaLM)
   * [PaLM2](https://ai.google/discover/palm2/)
     * [Med-PaLM](https://sites.research.google/med-palm/)
     * [Sec-PaLM](https://cloud.google.com/blog/products/identity-security/rsa-google-cloud-security-ai-workbench-generative-ai)
