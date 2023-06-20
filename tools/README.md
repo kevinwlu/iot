@@ -45,6 +45,7 @@
   * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
   * [DreamFusion](https://dreamfusion3d.github.io/)
   * [Foundation models](https://ai.google/discover/foundation-models/)
+  * [Google I/O](https://io.google/)
   * [LaMDA](https://blog.google/technology/ai/lamda/), May 18, 2021
   * [PaLM2](https://ai.google/discover/palm2/)
     * [Med-PaLM](https://sites.research.google/med-palm/)
