@@ -266,6 +266,7 @@
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
 ## Transportation: Air
 * [List of electric aircraft](https://en.wikipedia.org/wiki/List_of_electric_aircraft)
+* [More electric aircraft](https://moreelectricaircraft.com/) (MEA)
 * [European Union Aviation Safety Agency](https://en.wikipedia.org/wiki/European_Union_Aviation_Safety_Agency) (EASA)
 * [Sustainable aviation fuels](https://www.energy.gov/eere/bioenergy/sustainable-aviation-fuels) (SAF)
 * [AFWERX](https://en.wikipedia.org/wiki/AFWERX)
