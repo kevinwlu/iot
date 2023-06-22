@@ -176,6 +176,7 @@
 * [OpenSea](https://en.wikipedia.org/wiki/OpenSea)
 ## Healthcare
 * [Airgami](https://www.airgami.life/)
+* [Calico](https://en.wikipedia.org/wiki/Calico_(company))
 * [Display screen with light-emitting diodes for ultraviolet disinfection](https://patents.google.com/patent/US9492576B1/en)
   * [Self-cleaning system for displays using light emitting diodes emitting invisible violet light](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11579340)
 * [Epic Systems](https://en.wikipedia.org/wiki/Epic_Systems)
