@@ -30,6 +30,7 @@
 * [VicOne](https://vicone.com/)
 ## Drones
 * [Toroidal propeller](https://en.wikipedia.org/wiki/Toroidal_propeller)
+* [Unmanned ground vehicle](https://en.wikipedia.org/wiki/Unmanned_ground_vehicle) (UGV)
 * [Unmanned aerial vehicle](https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle) (UAV)
 * [List of unmanned aerial vehicles](https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicles)
 * [List of unmanned aerial vehicles of China](https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicles_of_China)
