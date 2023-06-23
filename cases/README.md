@@ -40,6 +40,7 @@
 * [Manna Drone Delivery](https://www.manna.aero/)
 * [Saildrone](https://en.wikipedia.org/wiki/Saildrone_(company))
 * [Skydio](https://en.wikipedia.org/wiki/Skydio)
+* [Starship Technologies](https://en.wikipedia.org/wiki/Starship_Technologies)
 * [Tevel Aerobotics](https://www.tevel-tech.com/)
 * [Zipline](https://www.flyzipline.com/)
 ## Education
