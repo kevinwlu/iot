@@ -140,6 +140,7 @@
 * [Vehicle-to-grid](https://en.wikipedia.org/wiki/Vehicle-to-grid) (V2G)
   * [Duck curve](https://en.wikipedia.org/wiki/Duck_curve)
 * [Voltaiq](https://www.voltaiq.com/)
+* [Wiferion](https://www.wiferion.com/us/)
 * [Yotta Energy](https://www.yottaenergy.com/)
 * [ZEV Station](https://zev-station.com/)
 ## Enterprise
