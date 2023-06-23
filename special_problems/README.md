@@ -1,5 +1,6 @@
 # Special Problems
 * [Computer vision](https://en.wikipedia.org/wiki/Computer_vision)
+* [Conference on Computer Vision and Pattern Recognition](https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition) (CVPR)
 * [Digital image processing](https://en.wikipedia.org/wiki/Digital_image_processing)
 * [Standard test image](https://en.wikipedia.org/wiki/Standard_test_image)
 * [Object detection](https://en.wikipedia.org/wiki/Object_detection)
