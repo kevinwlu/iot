@@ -348,6 +348,7 @@
 * [Karma Automotive](https://en.wikipedia.org/wiki/Karma_Automotive)
 * [Kempower](https://kempower.com/)
 * [Kenworth](https://en.wikipedia.org/wiki/Kenworth)
+* [Kodiak Robotics](https://kodiak.ai/)
 * [Lion Electric Company](https://en.wikipedia.org/wiki/Lion_Electric_Company)
 * [Lordstown Motors](https://en.wikipedia.org/wiki/Lordstown_Motors)
 * [Lucid Motors](https://en.wikipedia.org/wiki/Lucid_Motors)
