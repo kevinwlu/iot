@@ -209,6 +209,7 @@
 * [Olio](https://en.wikipedia.org/wiki/Olio_(app))
 * [Too Good To Go](https://en.wikipedia.org/wiki/Too_Good_To_Go)
 ## Residential
+* [Aqara](https://www.aqara.com/)
 * [Boxabl](https://www.boxabl.com/)
 * [Chirp](https://en.wikipedia.org/wiki/Chirp_(company))
 * [Enabot](https://na.enabot.com/)
