@@ -1,5 +1,6 @@
 # Systems Engineering
 * [Systems engineering](https://en.wikipedia.org/wiki/Systems_engineering)
+* [A/B testing](https://en.wikipedia.org/wiki/A/B_testing)
 * [Acceptance testing](https://en.wikipedia.org/wiki/Acceptance_testing)
 * [Availability](https://en.wikipedia.org/wiki/Availability)
   * [High availability](https://en.wikipedia.org/wiki/High_availability)
