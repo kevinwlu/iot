@@ -386,6 +386,7 @@
 * [Zoox](https://en.wikipedia.org/wiki/Zoox_(company))
 ## Transportation: Water
 * [Ship classification society](https://en.wikipedia.org/wiki/Ship_classification_society)
+* [Pressure vessel for human occupancy](https://en.wikipedia.org/wiki/Pressure_vessel_for_human_occupancy) (PVHO)
 * [International Association of Classification Societies](https://en.wikipedia.org/wiki/International_Association_of_Classification_Societies) (IACS)
 * [Autonomous underwater vehicles](https://en.wikipedia.org/wiki/Autonomous_underwater_vehicle) (AUV)
 * [Blue economy](https://en.wikipedia.org/wiki/Blue_economy)
