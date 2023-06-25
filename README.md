@@ -116,6 +116,7 @@ Electrical Engineering EE 629
   * [Web Content Accessibility Guidelines](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines) (WCAG)
 
 ## Associations and Communities
+* [Non-governmental organization](https://en.wikipedia.org/wiki/Non-governmental_organization) (NGO)
 * [4YFN](https://www.4yfn.com/)
 * [AI for Good](https://en.wikipedia.org/wiki/AI_for_Good)
 * [Augmented World Expo](https://www.awexr.com/) (AWE)
