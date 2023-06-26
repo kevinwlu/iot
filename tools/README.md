@@ -150,6 +150,7 @@
 ## Proof Assitant
 * [Proof assistant](https://en.wikipedia.org/wiki/Proof_assistant)
 * [Coq](https://en.wikipedia.org/wiki/Coq)
+* [List of conjectures](https://en.wikipedia.org/wiki/List_of_conjectures)
 ## Robotics
 * [Gazebo simulator](https://en.wikipedia.org/wiki/Gazebo_simulator)
 * [Robot Operating System](https://en.wikipedia.org/wiki/Robot_Operating_System) (ROS)
