@@ -198,6 +198,7 @@ Electrical Engineering EE 629
   * [Reconfigurable optical add-drop multiplexer](https://en.wikipedia.org/wiki/Reconfigurable_optical_add-drop_multiplexer) (ROADM)
 * [Printer Working Group](https://en.wikipedia.org/wiki/Printer_Working_Group) (PWG)
 * [TALQ Consortium](https://www.talq-consortium.org/)
+* [Telecom Infra Project](https://en.wikipedia.org/wiki/Telecom_Infra_Project) (TIP)
 * [UBBA](https://www.ubba.com/) (Utility Broadband Alliance)
 * [UCAIug](https://www.ucaiug.org/) (UCA International Users Group)
   * [EPRI](https://en.wikipedia.org/wiki/Electric_Power_Research_Institute) (Electric Power Research Institute)
