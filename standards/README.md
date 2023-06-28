@@ -115,6 +115,8 @@
 * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
   * [SAE Mobilus](https://saemobilus.sae.org/)
   * [User interface functionality for digital standards](https://patents.google.com/patent/US11520470B2/)
+  * [J1772](https://www.sae.org/standards/content/j1772_201710/) SAE Electric Vehicle and Plug in Hybrid Electric Vehicle Conductive Charge Coupler
+    * [SAE J1772](https://en.wikipedia.org/wiki/SAE_J1772)
   * [J2735](https://www.sae.org/standards/content/j2735_202211/) V2X Communications Message Set Dictionary
   * [J2908](https://www.sae.org/standards/content/j2908_202301/) Vehicle Power and Rated System Power Test for Electrified Powertrains
   * [J2945](https://www.sae.org/standards/content/j2945_201712/) Dedicated Short Range Communication (DSRC) Systems Engineering Process Guidance for SAE J2945/X Documents and Common Design Concepts
