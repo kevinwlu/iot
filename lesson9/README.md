@@ -17,6 +17,7 @@
   * [Namespace](https://en.wikipedia.org/wiki/Namespace)
   * [Remote procedure call](https://en.wikipedia.org/wiki/Remote_procedure_call) (RPC)
   * [Extensible Markup Language](https://en.wikipedia.org/wiki/XML) (XML)
+    * [Automatic Test Markup Language](https://en.wikipedia.org/wiki/ATML) (ATML)
   * [Extensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT) (XSLT)
   * [pyang](https://github.com/mbj4668/pyang)
 * [PlantUML](https://en.wikipedia.org/wiki/PlantUML)
