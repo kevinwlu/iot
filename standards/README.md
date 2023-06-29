@@ -1,6 +1,7 @@
 # Standards
 * [Standards organization](https://en.wikipedia.org/wiki/Standards_organization)
 * [List of technical standard organizations](https://en.wikipedia.org/wiki/List_of_technical_standard_organizations)
+* [Global Standards Collaboration](https://en.wikipedia.org/wiki/Global_Standards_Collaboration) (GSC)
 * [3GPP](https://en.wikipedia.org/wiki/3GPP) (3rd Generation Partnership Project)
   * [5G](https://en.wikipedia.org/wiki/5G)
   * [5G NR](https://en.wikipedia.org/wiki/5G_NR) (New Radio)
