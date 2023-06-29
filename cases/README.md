@@ -202,6 +202,7 @@
 * [Infinitum](https://goinfinitum.com/)
 * [Rosotics](https://www.rosotics.com/)
 * [STILFOLD](https://www.stilfold.com/)
+* [Tetra Technologies](https://tetratec.com/)
 * [TNT Aerospace](https://www.tntaerospace.com/)
 * [Unified numbering system](https://en.wikipedia.org/wiki/Unified_numbering_system) (UNS)
 ## Public Services
