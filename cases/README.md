@@ -13,6 +13,11 @@
   * [Farmvibes.AI](https://github.com/microsoft/farmvibes-ai)
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
 * [Xiang Tian Agriculture](https://www.sdxiangtian.cn/)
+## Climate and Weather
+* [El Niño](https://en.wikipedia.org/wiki/El_Ni%C3%B1o)
+* [La Niña](https://en.wikipedia.org/wiki/La_Ni%C3%B1a)
+* [Polar vortex](https://en.wikipedia.org/wiki/Polar_vortex)
+* [Quasi-biennial oscillation](https://en.wikipedia.org/wiki/Quasi-biennial_oscillation) (QBO)
 ## Communications
 * [0G Project](http://n4wwwgzppoxfqgh4d37fjl4yanfiwhdr3rocjegzpyhlu2wesmrbknad.onion.ly/)
 * [Affirmed Networks](https://www.affirmednetworks.com/)
