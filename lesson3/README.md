@@ -32,6 +32,7 @@
 * [Bitwise operators](https://wiki.python.org/moin/BitwiseOperators)
 * [Python virtual environments and packages](https://docs.python.org/3/tutorial/venv.html)
   > A virtual environment is a cooperatively isolated [runtime](https://en.wikipedia.org/wiki/Runtime_(program_lifecycle_phase)) environment that allows Python users and applications to install and upgrade Python distribution packages without interfering with the behaviour of other Python applications running on the same system.
+* [Runtime application self-protection](https://en.wikipedia.org/wiki/Runtime_application_self-protection) (RASP)
 * [pip](https://en.wikipedia.org/wiki/Pip_(package_manager))
   * [Setuptools](https://en.wikipedia.org/wiki/Setuptools)
   * [2to3](https://docs.python.org/3/library/2to3.html)
