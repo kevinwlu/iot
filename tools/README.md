@@ -81,6 +81,7 @@
 * [Open Neural Network Exchange](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (ONNX)
 * [Paragraphica](https://bjoernkarmann.dk/project/paragraphica)
 * [Peppertype.ai](https://www.peppertype.ai/)
+* [Personal.ai](https://www.personal.ai/)
 * [Posemaniacs](https://www.posemaniacs.com/en)
 * [Shuffle](https://shuffle.dev/)
   * [Shuffle Assistant](https://shuffle.dev/chat)
@@ -100,6 +101,7 @@
   * [Online chat](https://en.wikipedia.org/wiki/Online_chat)
   * [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat) (IRC)
 * [HexChat](https://en.wikipedia.org/wiki/HexChat)
+* [Inflection](https://inflection.ai/)
 * [Libera Chat](https://en.wikipedia.org/wiki/Libera_Chat)
 * [TerminalGPT](https://github.com/jucasoliveira/terminalGPT)
 ## Collaboration
