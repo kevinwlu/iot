@@ -252,6 +252,7 @@
 * [Richtech Robotics](https://www.richtechrobotics.com/)
 * [Shift Robotics](https://shiftrobotics.io/)
 ## Space
+* [AI SpaceFactory](https://www.aispacefactory.com/)
 * [Comparison of orbital launch systems](https://en.wikipedia.org/wiki/Comparison_of_orbital_launch_systems)
 * [Axiom Space](https://en.wikipedia.org/wiki/Axiom_Space)
 * [Ball Aerospace & Technologies](https://en.wikipedia.org/wiki/Ball_Aerospace_%26_Technologies)
