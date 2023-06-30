@@ -14,6 +14,7 @@
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
 * [Xiang Tian Agriculture](https://www.sdxiangtian.cn/)
 ## Climate and Weather
+* [Fire and smoke map](https://fire.airnow.gov/)
 * [El Niño](https://en.wikipedia.org/wiki/El_Ni%C3%B1o)
 * [La Niña](https://en.wikipedia.org/wiki/La_Ni%C3%B1a)
 * [Polar vortex](https://en.wikipedia.org/wiki/Polar_vortex)
