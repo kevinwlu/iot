@@ -24,7 +24,7 @@
 * [Explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
 * [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
 * [Ethics of artificial intelligence](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
-* [Existential risk from artificial general intelligence](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence) (
+* [Existential risk from artificial general intelligence](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence)
 * [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 * [Sentience](https://en.wikipedia.org/wiki/Sentience)
 * [Philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
