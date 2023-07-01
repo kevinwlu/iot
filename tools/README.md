@@ -183,12 +183,12 @@
 * [Selenium](https://www.selenium.dev/)
 * [Speech Services](https://en.wikipedia.org/wiki/Speech_Services)
 * [Bootstrap (front-end framework)](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
+* [Tailwind CSS](https://en.wikipedia.org/wiki/Tailwind_CSS)
 * [React (JavaScript library)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
   * [React Native](https://en.wikipedia.org/wiki/React_Native)
 * [Reactstrap](https://reactstrap.github.io/?path=/story/home-installation--page)
 * [React-DOM](https://www.npmjs.com/package/react-dom)
 * [Preact](https://preactjs.com/)
-* [Tailwind CSS](https://en.wikipedia.org/wiki/Tailwind_CSS)
 ## Web Browsers
 * [List of web browsers](https://en.wikipedia.org/wiki/List_of_web_browsers)
 * [Arc](https://arc.net/)
