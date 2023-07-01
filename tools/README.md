@@ -1,5 +1,5 @@
 # Tools
-## YouTube Channel
+## YouTube Channels
 * [Academind](https://www.youtube.com/@academind)
 * [Andreas Spiess](https://www.youtube.com/@AndreasSpiess)
 * [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV)
