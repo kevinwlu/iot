@@ -116,6 +116,7 @@
   * [Tom M. Mitchell](https://en.wikipedia.org/wiki/Tom_M._Mitchell)
 * [MLRelated.com](https://www.mlrelated.com/)
 * [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) (SL)
+  * [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering)
 * [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix)
 * [Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning)
 * [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) (RL)
