@@ -252,6 +252,7 @@
 * [Pliant Energy Systems](https://www.pliantenergy.com/)
 * [Richtech Robotics](https://www.richtechrobotics.com/)
 * [Shift Robotics](https://shiftrobotics.io/)
+* [Viam](https://www.viam.com/)
 ## Space
 * [AI SpaceFactory](https://www.aispacefactory.com/)
 * [Comparison of orbital launch systems](https://en.wikipedia.org/wiki/Comparison_of_orbital_launch_systems)
