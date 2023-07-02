@@ -112,6 +112,8 @@
 
 ## Machine Learning
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML)
+  * [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel_(computer_scientist))
+  * [Tom M. Mitchell](https://en.wikipedia.org/wiki/Tom_M._Mitchell)
 * [MLRelated.com](https://www.mlrelated.com/)
 * [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) (SL)
 * [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix)
