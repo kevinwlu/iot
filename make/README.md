@@ -1,5 +1,6 @@
 # Makeathon
 ## YouTube Channels
+* [Adafruit Industries](https://www.youtube.com/@adafruit)
 * [Simone Giertz](https://www.youtube.com/@simonegiertz) by [Simone Giertz](https://en.wikipedia.org/wiki/Simone_Giertz)
 ##
 * [Adafruit](https://en.wikipedia.org/wiki/Adafruit_Industries)
