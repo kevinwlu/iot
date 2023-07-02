@@ -1,4 +1,5 @@
 # Static Files
+* [Static library](https://en.wikipedia.org/wiki/Static_library)
 * [Responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design)
 * [Web Components](https://en.wikipedia.org/wiki/Web_Components)
 * [Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model) (DOM)
