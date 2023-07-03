@@ -7,6 +7,7 @@
 * [Concurrent engineering](https://en.wikipedia.org/wiki/Concurrent_engineering)
 * [Design for X](https://en.wikipedia.org/wiki/Design_for_X)
 * [Failure reporting, analysis, and corrective action system](https://en.wikipedia.org/wiki/Failure_reporting,_analysis,_and_corrective_action_system) (FRACAS)
+* [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem）
 * [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) (MVP)
 * [Nondestructive testing](https://en.wikipedia.org/wiki/Nondestructive_testing) (NDT)
 * [Reliability engineering](https://en.wikipedia.org/wiki/Reliability_engineering)
