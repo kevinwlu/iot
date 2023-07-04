@@ -384,6 +384,7 @@
 * [The Boring Company](https://en.wikipedia.org/wiki/The_Boring_Company)
 * [The Shyft Group](https://en.wikipedia.org/wiki/The_Shyft_Group)
 * [Torc Robotics](https://en.wikipedia.org/wiki/Torc_Robotics)
+* [Tresa Motors](https://tresamotors.com/)
 * [TuSimple](https://en.wikipedia.org/wiki/TuSimple)
 * [Velodyne Lidar](https://en.wikipedia.org/wiki/Velodyne_Lidar)
 * [Venti Technologies](https://www.ventitechnologies.com/)
