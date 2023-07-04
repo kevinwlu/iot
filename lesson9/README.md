@@ -61,6 +61,13 @@
 * [List of build automation software](https://en.wikipedia.org/wiki/List_of_build_automation_software)
   * [Make](https://en.wikipedia.org/wiki/Make_(software))
   * [CMake](https://en.wikipedia.org/wiki/CMake)
+### References
+* [*My Quantum Experiment*](https://johnhorgan.org/books/my-quantum-experiment) by [John Horgan](https://johnhorgan.org/)
+* [*Science Without the Gobbledygook*](https://www.youtube.com/@SabineHossenfelder) by [Sabine Hossenfelder](https://en.wikipedia.org/wiki/Sabine_Hossenfelder)
+* [*The Biggest Ideas in the Universe: Space, Time, and Motion*](https://www.preposterousuniverse.com/) by [Sean M. Carroll](https://en.wikipedia.org/wiki/Sean_M._Carroll)
+* [*Q is for Quantum*](https://www.qisforquantum.org/) by [Terry Rudolph](https://en.wikipedia.org/wiki/Terry_Rudolph)
+* [*Quantum Machine Learning and Optimization in Finance*](https://www.packtpub.com/product/quantum-machine-learning-and-optimisation-in-finance/9781801813570) by [Antoine Jacquier](https://jackantoinejacquie.wixsite.com/jacquier) and [Oleksiy Kondratyev](https://www.packtpub.com/authors/oleksiy-kondratyev)
+* [*Quantum Supremacy: How the Quantum Computer Revolution Will Change Everything*](https://mkaku.org/home/publications/quantum-supremacy/) by [Michio Kaku](https://en.wikipedia.org/wiki/Michio_Kaku)
 ### Quantum Mechanics
 * [Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
 * [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
@@ -70,12 +77,6 @@
 * [Quantum superposition](https://en.wikipedia.org/wiki/Quantum_superposition)
 * [Quantum mind](https://en.wikipedia.org/wiki/Quantum_mind)
 * [Quantum readout](https://en.wikipedia.org/wiki/Quantum_readout)
-* [*My Quantum Experiment*](https://johnhorgan.org/books/my-quantum-experiment) by [John Horgan](https://johnhorgan.org/)
-* [*Science Without the Gobbledygook*](https://www.youtube.com/@SabineHossenfelder) by [Sabine Hossenfelder](https://en.wikipedia.org/wiki/Sabine_Hossenfelder)
-* [*The Biggest Ideas in the Universe: Space, Time, and Motion*](https://www.preposterousuniverse.com/) by [Sean M. Carroll](https://en.wikipedia.org/wiki/Sean_M._Carroll)
-* [*Q is for Quantum*](https://www.qisforquantum.org/) by [Terry Rudolph](https://en.wikipedia.org/wiki/Terry_Rudolph)
-* [*Quantum Machine Learning and Optimization in Finance*](https://www.packtpub.com/product/quantum-machine-learning-and-optimisation-in-finance/9781801813570) by [Antoine Jacquier](https://jackantoinejacquie.wixsite.com/jacquier) and [Oleksiy Kondratyev](https://www.packtpub.com/authors/oleksiy-kondratyev)
-* [*Quantum Supremacy: How the Quantum Computer Revolution Will Change Everything*](https://mkaku.org/home/publications/quantum-supremacy/) by [Michio Kaku](https://en.wikipedia.org/wiki/Michio_Kaku)
 ### Quantum Standards
 * [IEEE Quantum](https://quantum.ieee.org/)
   * IEEE [P1913](https://standards.ieee.org/ieee/1913/6720/) Software-Defined Quantum Communication
