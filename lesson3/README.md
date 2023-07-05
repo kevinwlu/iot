@@ -57,7 +57,8 @@
 * [Invectio](https://github.com/thoth-station/invectio)
 
 ## Lab 3A: Python
-
+* [Python tutorial](https://docs.python.org/3/tutorial/index.html)
+  * [Formatted string literals](https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals) (f-strings)
 * [APT](https://en.wikipedia.org/wiki/APT_(software)) is used to install software on GNU/Linux such as Raspberry Pi OS
   * [Chocolatey](https://chocolatey.org/) may be used to install software on Windows
   * [Homebrew](https://brew.sh/) may be used to install software on macOS
