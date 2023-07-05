@@ -289,6 +289,7 @@
 * [Sustainable aviation fuels](https://www.energy.gov/eere/bioenergy/sustainable-aviation-fuels) (SAF)
 * [AFWERX](https://en.wikipedia.org/wiki/AFWERX)
 * [Airworthiness](https://en.wikipedia.org/wiki/Airworthiness)
+* [Alef Aeronautics](https://en.wikipedia.org/wiki/Alef_Aeronautics)
 * [Bell Textron](https://en.wikipedia.org/wiki/Bell_Textron)
 * [Boom Technology](https://en.wikipedia.org/wiki/Boom_Technology)
 * [Cosmic Aerospace](https://www.cosmicaerospace.com/)
