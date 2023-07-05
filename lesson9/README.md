@@ -91,6 +91,8 @@
 * [List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
   * [D-Wave Systems](https://en.wikipedia.org/wiki/D-Wave_Systems)
     * [D-Wave Leap](https://cloud.dwavesys.com/leap/)
+  * [Google Quantum AI](https://quantumai.google/)
+    * [Cirq](https://en.wikipedia.org/wiki/Cirq)
   * [IBM Quantum](https://www.ibm.com/quantum)
     * [IBM Quantum Composer and IBM Quantum Lab](https://quantum-computing.ibm.com/)
   * [IonQ](https://en.wikipedia.org/wiki/IonQ)
