@@ -68,6 +68,7 @@
 * [*Q is for Quantum*](https://www.qisforquantum.org/) by [Terry Rudolph](https://en.wikipedia.org/wiki/Terry_Rudolph)
 * [*Quantum Machine Learning and Optimization in Finance*](https://www.packtpub.com/product/quantum-machine-learning-and-optimisation-in-finance/9781801813570) by [Antoine Jacquier](https://jackantoinejacquie.wixsite.com/jacquier) and [Oleksiy Kondratyev](https://www.packtpub.com/authors/oleksiy-kondratyev)
 * [*Quantum Supremacy: How the Quantum Computer Revolution Will Change Everything*](https://mkaku.org/home/publications/quantum-supremacy/) by [Michio Kaku](https://en.wikipedia.org/wiki/Michio_Kaku)
+  * [Book Review](https://scottaaronson.blog/?p=7321) by [Scott Aaronson](https://en.wikipedia.org/wiki/Scott_Aaronson)
 ### Quantum Mechanics
 * [Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
 * [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
