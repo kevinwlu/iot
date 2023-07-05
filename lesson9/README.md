@@ -67,10 +67,10 @@
   * [Quantum Computers Could Solve These Problems](https://www.youtube.com/watch?v=IhS6ecYZFdQ)
 * [*The Biggest Ideas in the Universe: Space, Time, and Motion*](https://www.preposterousuniverse.com/) by [Sean M. Carroll](https://en.wikipedia.org/wiki/Sean_M._Carroll)
 * [*Q is for Quantum*](https://www.qisforquantum.org/) by [Terry Rudolph](https://en.wikipedia.org/wiki/Terry_Rudolph)
+* [How Quantum Computers Break the Internet](https://www.youtube.com/watch?v=-UrdExQW0cs) by [Derek Muller](https://en.wikipedia.org/wiki/Derek_Muller)
 * [*Quantum Machine Learning and Optimization in Finance*](https://www.packtpub.com/product/quantum-machine-learning-and-optimisation-in-finance/9781801813570) by [Antoine Jacquier](https://jackantoinejacquie.wixsite.com/jacquier) and [Oleksiy Kondratyev](https://www.packtpub.com/authors/oleksiy-kondratyev)
 * [*Quantum Supremacy: How the Quantum Computer Revolution Will Change Everything*](https://mkaku.org/home/publications/quantum-supremacy/) by [Michio Kaku](https://en.wikipedia.org/wiki/Michio_Kaku)
   * [Book Review](https://scottaaronson.blog/?p=7321) by [Scott Aaronson](https://en.wikipedia.org/wiki/Scott_Aaronson)
-  * [How Quantum Computers Break The Internet](https://www.youtube.com/watch?v=-UrdExQW0cs) by [Derek Muller](https://en.wikipedia.org/wiki/Derek_Muller)
 ### Quantum Mechanics
 * [Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
 * [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
