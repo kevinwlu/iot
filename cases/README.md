@@ -71,6 +71,7 @@
 * [Amogy](https://amogy.co/)
   * [Ammonia](https://en.wikipedia.org/wiki/Ammonia)
 * [Ample](https://ample.com/)
+* ANIONZ, formerly [ALGOLiON](https://www.algolion.com/)
 * [Anovion](https://www.anoviontech.com/)
 * [Ascend Elements](https://ascendelements.com/)
 * [Autel Energy](https://autelenergy.us/)
