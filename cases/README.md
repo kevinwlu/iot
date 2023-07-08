@@ -257,6 +257,7 @@
 * [Pliant Energy Systems](https://www.pliantenergy.com/)
 * [Richtech Robotics](https://www.richtechrobotics.com/)
 * [Shift Robotics](https://shiftrobotics.io/)
+* [SOMATIC](https://getsomatic.com/)
 * [Viam](https://www.viam.com/)
 ## Space
 * [AI SpaceFactory](https://www.aispacefactory.com/)
