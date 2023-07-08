@@ -250,6 +250,7 @@
 * [Elephant Robotics](https://www.elephantrobotics.com/en/)
   * [GitHub](https://github.com/elephantrobotics)
 * [Intrinsic](https://intrinsic.ai/)
+* [LionsBot](https://www.lionsbot.com/)
 * [Nauticus Robotics](https://nauticusrobotics.com/)
 * [Nuro](https://en.wikipedia.org/wiki/Nuro)
 * [Open Robotics](https://en.wikipedia.org/wiki/Open_Robotics)
