@@ -74,6 +74,7 @@
 ### Quantum Mechanics
 * [Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
 * [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
+* [Quantum nonlocality](https://en.wikipedia.org/wiki/Quantum_nonlocality)
 * [Copenhagen interpretation](https://en.wikipedia.org/wiki/Copenhagen_interpretation)
 * [Quantum information](https://en.wikipedia.org/wiki/Quantum_information)
 * [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
