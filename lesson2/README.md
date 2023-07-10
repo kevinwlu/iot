@@ -60,6 +60,7 @@
 * [Serial peripheral interface](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (SPI)
   * [Master/slave](https://en.wikipedia.org/wiki/Master/slave_(technology))
   * [Inclusive language](https://en.wikipedia.org/wiki/Inclusive_language)
+  * [Deprecation](https://en.wikipedia.org/wiki/Deprecation)
   * [Chip select](https://en.wikipedia.org/wiki/Chip_select)
   * Main/microcontroller in secondary/sensor out (MISO)
   * Main/microcontroller out secondary/sensor in (MOSI)
