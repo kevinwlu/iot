@@ -74,6 +74,7 @@
 ### Quantum Mechanics
 * [Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
 * [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
+* [Double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment)
 * [Quantum state](https://en.wikipedia.org/wiki/Quantum_state)
 * [Bra–ket notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation)
 * [Quantum nonlocality](https://en.wikipedia.org/wiki/Quantum_nonlocality)
