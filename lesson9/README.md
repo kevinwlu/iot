@@ -74,6 +74,7 @@
 ### Quantum Mechanics
 * [Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
 * [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
+* [Bra–ket notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation)
 * [Quantum nonlocality](https://en.wikipedia.org/wiki/Quantum_nonlocality)
 * [Copenhagen interpretation](https://en.wikipedia.org/wiki/Copenhagen_interpretation)
 * [Quantum information](https://en.wikipedia.org/wiki/Quantum_information)
