@@ -76,6 +76,7 @@
 * [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
 * [Double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment)
 * [Quantum state](https://en.wikipedia.org/wiki/Quantum_state)
+* [Hilbert space](https://en.wikipedia.org/wiki/Hilbert_space)
 * [Bra–ket notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation)
 * [Quantum nonlocality](https://en.wikipedia.org/wiki/Quantum_nonlocality)
 * [Copenhagen interpretation](https://en.wikipedia.org/wiki/Copenhagen_interpretation)
