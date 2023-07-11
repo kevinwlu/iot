@@ -102,6 +102,7 @@
 * [List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
   * [D-Wave Systems](https://en.wikipedia.org/wiki/D-Wave_Systems)
     * [D-Wave Leap](https://cloud.dwavesys.com/leap/)
+    * [Superconducting quantum interference device](https://en.wikipedia.org/wiki/SQUID) (SQUID)
   * [Google Quantum AI](https://quantumai.google/)
     * [Cirq](https://en.wikipedia.org/wiki/Cirq)
   * [IBM Quantum](https://www.ibm.com/quantum)
@@ -115,7 +116,6 @@
   * [QED-C](https://quantumconsortium.org/) (The Quantum Economic Development Consortium)
     * [Quantum jobs](https://quantumconsortium.org/quantum-jobs/)
   * [NIST Quantum Information Science](https://www.nist.gov/quantum-information-science)
-* [Superconducting quantum interference device](https://en.wikipedia.org/wiki/SQUID) (SQUID)
 * [Cryogenics](https://en.wikipedia.org/wiki/Cryogenics)
   * [Bluefors](https://bluefors.com/) [Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)
 ##
