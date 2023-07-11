@@ -105,6 +105,7 @@
   * [General Fusion](https://en.wikipedia.org/wiki/General_Fusion)
   * [Helion Energy](https://en.wikipedia.org/wiki/Helion_Energy)
 * [Fusion ignition](https://en.wikipedia.org/wiki/Fusion_ignition)
+* [HH2E](https://www.hh2e.de/en/)
 * [Ingeteam](https://www.ingeteam.com/)
 * [Kempower](https://kempower.com/)
 * [KORE Power](https://korepower.com/)
