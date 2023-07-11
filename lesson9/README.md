@@ -115,6 +115,7 @@
   * [QED-C](https://quantumconsortium.org/) (The Quantum Economic Development Consortium)
     * [Quantum jobs](https://quantumconsortium.org/quantum-jobs/)
   * [NIST Quantum Information Science](https://www.nist.gov/quantum-information-science)
+* [Superconducting quantum interference device](https://en.wikipedia.org/wiki/SQUID) (SQUID)
 * [Cryogenics](https://en.wikipedia.org/wiki/Cryogenics)
   * [Bluefors](https://bluefors.com/) [Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)
 ##
