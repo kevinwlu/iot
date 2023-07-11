@@ -73,6 +73,9 @@
 * [*Quantum Machine Learning and Optimization in Finance*](https://www.packtpub.com/product/quantum-machine-learning-and-optimisation-in-finance/9781801813570) by [Antoine Jacquier](https://jackantoinejacquie.wixsite.com/jacquier) and [Oleksiy Kondratyev](https://www.packtpub.com/authors/oleksiy-kondratyev)
 * [*Quantum Supremacy: How the Quantum Computer Revolution Will Change Everything*](https://mkaku.org/home/publications/quantum-supremacy/) by [Michio Kaku](https://en.wikipedia.org/wiki/Michio_Kaku)
   * [Book Review](https://scottaaronson.blog/?p=7321) by [Scott Aaronson](https://en.wikipedia.org/wiki/Scott_Aaronson)
+* ["It from bit"](https://plus.maths.org/content/it-bit) by [Rachel Thomas](https://www.linkedin.com/in/rachel-thomas-a25a59a/)
+* ["Information, physics, quantum: the search for links"](https://jawarchive.files.wordpress.com/2012/03/informationquantumphysics.pdf) by [John Archibald Wheeler
+](https://en.wikipedia.org/wiki/John_Archibald_Wheeler) 1911&mdash;2008
 ### Quantum Mechanics
 * [Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
 * [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
