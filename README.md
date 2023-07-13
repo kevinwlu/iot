@@ -61,7 +61,8 @@ Electrical Engineering EE 629
 * [PageRank](https://en.wikipedia.org/wiki/PageRank)
 * [International Forum Design](https://en.wikipedia.org/wiki/International_Forum_Design)
   * [iF Product Design Award](https://en.wikipedia.org/wiki/IF_Product_Design_Award)
-* [Red Dot](https://en.wikipedia.org/wiki/Red_Dot)
+* [Red Dot](https://en.wikipedia.org/wiki/Red_Dot) Design Award
+* [Luke Hawkins](https://www.lukehawkins.com.au/) Creative Director
 * [Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)
 * Effects of robots and automation on employment
   * Prof. [Daron Acemoglu](https://en.wikipedia.org/wiki/Daron_Acemoglu)
