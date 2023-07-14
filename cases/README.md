@@ -206,6 +206,8 @@
 * [iollo](https://www.iollo.com/)
 * [Kinsa](https://en.wikipedia.org/wiki/Kinsa)
 * [Little Otter](https://www.littleotterhealth.com/)
+* [Ottobock](https://en.wikipedia.org/wiki/Ottobock)
+  * [Exopulse Mollii Suit](https://www.ottobock.com/en-ex/exopulse-b2c)
 * [Smart Nora](https://smartnora.com/)
 * [Toi Labs](https://www.toilabs.com/)
 * [Upright](https://www.uprightpose.com/)
