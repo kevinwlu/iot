@@ -214,7 +214,8 @@
     * ["Introducing ChatGPT and Whisper APIs"](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), March 1, 2023
 * [OpenMinded](https://www.openmined.org/)
   * [PySyft](https://github.com/OpenMined/PySyft)
-* [Anthropic](https://www.anthropic.com/)
+* [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
+  * [Claude 2](https://www.anthropic.com/index/claude-2)
 * [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
 * [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
 * [Deepfake](https://en.wikipedia.org/wiki/Deepfake)
