@@ -180,6 +180,7 @@
   * [Tetraethyllead](https://en.wikipedia.org/wiki/Tetraethyllead) (TEL)
 * [Clean Earth Rovers](https://www.cleanearthrovers.com/)
 * [Food additive](https://en.wikipedia.org/wiki/Food_additive)
+  * [Aspartame](https://en.wikipedia.org/wiki/Aspartame)
   * [Fumaric_acid](https://en.wikipedia.org/wiki/Fumaric_acid)
   * [Titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide)
 ## Fashion
