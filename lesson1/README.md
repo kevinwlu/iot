@@ -95,6 +95,7 @@
     * [Distributed Disaggregated Chassis](https://www.opencompute.org/documents/20220920-ddc-v2-ocp-specification-ufispace-edit-docx-1-pdf) ( DDC)
 * [DevOps](https://en.wikipedia.org/wiki/DevOps)
     * Google Cloud [DevOps Research and Assessment](https://cloud.google.com/devops) (DORA)
+    * [CI/CD](https://en.wikipedia.org/wiki/CI/CD)
 ##
 * *[Internet of Things: A Hands-On Approach](http://www.hands-on-books-series.com/iot.html)* by [Arshdeep Bahga](https://arshdeep.bahga.in/) and [Vijay Madisetti](https://research.gatech.edu/vijay-madisetti)
 
