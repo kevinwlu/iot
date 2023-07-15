@@ -1,9 +1,8 @@
 # Use Cases
-## YouTube Channels
-* [Engineering with Rosie](https://www.youtube.com/@EngineeringwithRosie/)
-##
 * [Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)
 * [Needlab](https://www.needlab.org/)
+## YouTube Channels
+* [Engineering with Rosie](https://www.youtube.com/@EngineeringwithRosie/)
 ## Agriculture
 * [AGCO](https://en.wikipedia.org/wiki/AGCO)
   * [Fendt](https://en.wikipedia.org/wiki/Fendt)
