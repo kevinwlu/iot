@@ -1,6 +1,7 @@
 # Tools
 ## YouTube Channels
 * [Academind](https://www.youtube.com/@academind)
+  * [GitHub repositories](https://github.com/academind)
 * [Andreas Spiess](https://www.youtube.com/@AndreasSpiess)
 * [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV) by [Jay LaCroix](https://www.linkedin.com/in/jeremylacroix/)
 * [Paul McWhorter](https://www.youtube.com/@paulmcwhorter)
