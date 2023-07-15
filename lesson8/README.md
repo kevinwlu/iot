@@ -144,6 +144,7 @@
 * [Gradio](https://github.com/gradio-app/gradio)
 * [Infxl](https://infxl.com/)
 * [SynapseML](https://github.com/microsoft/SynapseML)
+* [MLOps](https://en.wikipedia.org/wiki/MLOps)
 
 ## Deep Learning
 * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
