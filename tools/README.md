@@ -4,6 +4,7 @@
   * [GitHub repositories](https://github.com/academind)
 * [Andreas Spiess](https://www.youtube.com/@AndreasSpiess)
   * [GitHub repositories](https://github.com/SensorsIot)
+* [Engineer4Free](https://www.youtube.com/user/engineer4free)
 * [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV) by [Jay LaCroix](https://www.linkedin.com/in/jeremylacroix/)
   * [GitHub repositories](https://github.com/learnLinuxTV)
 * [Paul McWhorter](https://www.youtube.com/@paulmcwhorter)
