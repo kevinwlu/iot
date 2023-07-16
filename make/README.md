@@ -2,6 +2,8 @@
 ## YouTube Channels
 * [Adafruit Industries](https://www.youtube.com/@adafruit)
 * [Simone Giertz](https://www.youtube.com/@simonegiertz) by [Simone Giertz](https://en.wikipedia.org/wiki/Simone_Giertz)
+* [SmarterEveryDay](https://www.youtube.com/@smartereveryday/) by [Destin Sandlin](https://en.wikipedia.org/wiki/Destin_Sandlin)
+* [Veritasium](https://www.youtube.com/@veritasium)
 ##
 * [Adafruit](https://en.wikipedia.org/wiki/Adafruit_Industries)
 * [Adafruit Learning System](https://learn.adafruit.com/)
