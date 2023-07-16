@@ -82,6 +82,8 @@
   * [Augmented reality](https://en.wikipedia.org/wiki/Augmented_reality) (AR)
     * [Head-up display](https://en.wikipedia.org/wiki/Head-up_display) (HUD)
   * [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) (VR)
+    * [Real image](https://en.wikipedia.org/wiki/Real_image)
+    * [Virtual image](https://en.wikipedia.org/wiki/Virtual_image)
     * [Nanome](https://nanome.ai/)
   * [Mixed reality](https://en.wikipedia.org/wiki/Mixed_reality) (MR)
     * [Apple Vision Pro](https://en.wikipedia.org/wiki/Apple_Vision_Pro)
