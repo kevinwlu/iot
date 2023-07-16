@@ -80,6 +80,7 @@
   * [George Berkeley](https://en.wikipedia.org/wiki/George_Berkeley) 1685&mdash;1753
 * [Metaverse](https://en.wikipedia.org/wiki/Metaverse)
   * [Augmented reality](https://en.wikipedia.org/wiki/Augmented_reality) (AR)
+    * [Head-up display](https://en.wikipedia.org/wiki/Head-up_display) (HUD)
   * [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) (VR)
     * [Nanome](https://nanome.ai/)
   * [Mixed reality](https://en.wikipedia.org/wiki/Mixed_reality) (MR)
