@@ -3,6 +3,7 @@
 * [Needlab](https://www.needlab.org/)
 ## YouTube Channels
 * [The Engineering Mindset](https://www.youtube.com/@EngineeringMindset/)
+* [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
 * [Engineering with Rosie](https://www.youtube.com/@EngineeringwithRosie/) by [Rosie Barnes](https://blog.google/intl/en-au/products/connect-communicate/meet-youtube-creator-rosie-barnes/)
 ## Agriculture
 * [AGCO](https://en.wikipedia.org/wiki/AGCO)
