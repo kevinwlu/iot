@@ -1,6 +1,8 @@
 # Makeathon
 ## YouTube Channels
 * [Adafruit Industries](https://www.youtube.com/@adafruit)
+* [Engineerguy](https://www.youtube.com/@engineerguyvideo) by [Bill Hammack](https://en.wikipedia.org/wiki/Bill_Hammack)
+* [Lesics](https://www.youtube.com/@Lesics) by [Sabin Mathew](https://www.linkedin.com/in/sabin-mathew/)
 * [Simone Giertz](https://www.youtube.com/@simonegiertz) by [Simone Giertz](https://en.wikipedia.org/wiki/Simone_Giertz)
 * [SmarterEveryDay](https://www.youtube.com/@smartereveryday/) by [Destin Sandlin](https://en.wikipedia.org/wiki/Destin_Sandlin)
 * [Veritasium](https://www.youtube.com/@veritasium) by [Derek Muller](https://en.wikipedia.org/wiki/Derek_Muller)
