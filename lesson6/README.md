@@ -124,6 +124,7 @@
 * [Mustache](https://en.wikipedia.org/wiki/Mustache_(template_system)) template system
 * [Handlebars.js](https://handlebarsjs.com/) template system
 * [Pystache](https://github.com/defunkt/pystache) Python implementation of Mustache template system
+* [Lua (programming language)](https://en.wikipedia.org/wiki/Lua_(programming_language))
 * [Rust (programming language)](https://en.wikipedia.org/wiki/Rust_(programming_language))
   * [rust-lang.org](https://www.rust-lang.org/)
   * [Rust Foundation](https://foundation.rust-lang.org/)
