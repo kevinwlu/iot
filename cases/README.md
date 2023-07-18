@@ -134,6 +134,7 @@
 * [Nel ASA](https://en.wikipedia.org/wiki/Nel_ASA)
 * [Nighttime photovoltaic (PV) cells](https://aip.scitation.org/doi/10.1063/5.0085205)
 * [Northvolt](https://en.wikipedia.org/wiki/Northvolt)
+* [Nyobolt](https://nyobolt.com/)
 * [OXCCU](https://www.oxccu.com/)
 * [Plug Power](https://en.wikipedia.org/wiki/Plug_Power)
 * [Pumped-storage hydroelectricity](https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity) (PSH)
