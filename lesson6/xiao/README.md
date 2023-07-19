@@ -1,5 +1,6 @@
-# Seeed XIAO BLE Sense
+# Seeed Studio XIAO Series
 * [Seeed Studio](https://github.com/Seeed-Studio)
+* [XIAO Series](https://www.seeedstudio.com/xiao-series-page)
 * [Getting started with XIAO BLE Sense](https://wiki.seeedstudio.com/XIAO_BLE/) on Windows
   * [Arduino IDE](https://www.arduino.cc/en/software)
   * [nRF52840](https://www.nordicsemi.com/Products/nRF52840) by [Nordic Semiconductor](https://en.wikipedia.org/wiki/Nordic_Semiconductor)
