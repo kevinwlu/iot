@@ -2,7 +2,7 @@
 * [Seeed Studio](https://github.com/Seeed-Studio)
 * [XIAO Series](https://www.seeedstudio.com/xiao-series-page)
 * [Getting Started with Seeed Studio XIAO ESP32S3 (Sense)](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/)
-* [Getting started with Seeed Studio XIAO BLE Sense](https://wiki.seeedstudio.com/XIAO_BLE/) on Windows
+* [Getting started with Seeed Studio XIAO nRF52840 (Sense)](https://wiki.seeedstudio.com/XIAO_BLE/) on Windows
   * [Arduino IDE](https://www.arduino.cc/en/software)
   * [nRF52840](https://www.nordicsemi.com/Products/nRF52840) by [Nordic Semiconductor](https://en.wikipedia.org/wiki/Nordic_Semiconductor)
   * [Floating-point unit](https://en.wikipedia.org/wiki/Floating-point_unit) (FCU)
