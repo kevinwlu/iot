@@ -48,6 +48,8 @@
   * [IEEE GET Program](https://standards.ieee.org/products-services/ieee-get-program.html) via [IEEE Xplore](https://ieeexplore.ieee.org/browse/standards/get-program/page)
   * [IEEE SA Government Engagement Program on Standards](https://standards.ieee.org/about/intl/government-engagement-program/) (GEPS)
   * [IEEE SA Open](https://saopen.ieee.org/)
+  * [IEEE SA Initiatives](https://standards.ieee.org/initiatives/)
+    * [IEEE SA Open Source Initiative](https://standards.ieee.org/initiatives/opensource/)
   * [IEEE SA GitLab](https://opensource.ieee.org/)
   * [IEEE IoT technical community](https://iot.ieee.org/)
   * [IEEE SA IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
