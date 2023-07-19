@@ -172,7 +172,7 @@ Electrical Engineering EE 629
 * [FIDO Alliance](https://en.wikipedia.org/wiki/FIDO_Alliance) (Fast IDentity Online)
 * [FiRa Consortium](https://en.wikipedia.org/wiki/FiRa_Consortium)
 * [Hexa-X](https://hexa-x.eu/)
-* [IAMTS](https://iamts.sae-itc.com/) (International Alliance for Mobility Testing and Standardization)
+* [IAMTS](https://www.iamts.org/en) (International Alliance for Mobility Testing and Standardization)
 * [IIC](https://en.wikipedia.org/wiki/Industrial_Internet_Consortium) (Industrial Internet Consortium)
 * [Interconnect Modeling Technical Advisory Board](https://ieee-isto.org/member_programs/interconnect-modeling-technical-advisory-board/) (IMTAB)
 * [ioXt](https://www.ioxtalliance.org/) (Internet of Secure Things)
