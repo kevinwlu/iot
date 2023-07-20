@@ -8,6 +8,10 @@
 * [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV) by [Jay LaCroix](https://www.linkedin.com/in/jeremylacroix/)
   * [GitHub repositories](https://github.com/learnLinuxTV)
 * [Paul McWhorter](https://www.youtube.com/@paulmcwhorter)
+## Magazines
+* [Aeon_(magazine)](https://en.wikipedia.org/wiki/Aeon_(magazine))
+* [Nautilus Quarterly](https://en.wikipedia.org/wiki/Nautilus_Quarterly)
+* [Quanta Magazine](https://en.wikipedia.org/wiki/Quanta_Magazine)
 ## Platform
 * [Comparison of platform virtualization software](https://en.wikipedia.org/wiki/Comparison_of_platform_virtualization_software)
 * [Canva](https://en.wikipedia.org/wiki/Canva)
