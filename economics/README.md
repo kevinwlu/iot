@@ -3,6 +3,7 @@
 * [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet)
 * [Bill of materials](https://en.wikipedia.org/wiki/Bill_of_materials) (BOM)
 * [Cash flow](https://en.wikipedia.org/wiki/Cash_flow)
+* [Circular economy](https://en.wikipedia.org/wiki/Circular_economy)
 * [Contribution margin](https://en.wikipedia.org/wiki/Contribution_margin)
 * [Cryptoeconomics](https://en.wikipedia.org/wiki/Cryptoeconomics)
 * [Deglobalization](https://en.wikipedia.org/wiki/Deglobalization)
