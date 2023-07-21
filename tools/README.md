@@ -198,8 +198,9 @@
 * [Tailwind CSS](https://en.wikipedia.org/wiki/Tailwind_CSS)
 * [React (JavaScript library)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
   * [React Native](https://en.wikipedia.org/wiki/React_Native)
-* [Reactstrap](https://reactstrap.github.io/?path=/story/home-installation--page)
+* [React Bootstrap](https://react-bootstrap.netlify.app/)
 * [React-DOM](https://www.npmjs.com/package/react-dom)
+* [Reactstrap](https://reactstrap.github.io/?path=/story/home-installation--page)
 * [Preact](https://preactjs.com/)
 ## Web Browsers
 * [List of web browsers](https://en.wikipedia.org/wiki/List_of_web_browsers)
