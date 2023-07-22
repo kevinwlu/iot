@@ -173,6 +173,8 @@
 * [List of gig economy companies](https://en.wikipedia.org/wiki/List_of_gig_economy_companies)
 * [Google Cloud Carbon Footprint](https://cloud.google.com/carbon-footprint)
 * [OpenSensors](https://www.opensensors.com/)
+## Entertainment
+* [SACO Technologies](https://www.saco.com/)
 ## Environmental and Social
 * [Corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility) (CSR)
 * [Environmental, social, and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
