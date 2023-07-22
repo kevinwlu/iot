@@ -5,6 +5,7 @@
 * [Cash flow](https://en.wikipedia.org/wiki/Cash_flow)
 * [Circular economy](https://en.wikipedia.org/wiki/Circular_economy)
 * [Contribution margin](https://en.wikipedia.org/wiki/Contribution_margin)
+* [Coopetition](https://en.wikipedia.org/wiki/Coopetition)
 * [Cryptoeconomics](https://en.wikipedia.org/wiki/Cryptoeconomics)
 * [Deglobalization](https://en.wikipedia.org/wiki/Deglobalization)
 * [Depreciation](https://en.wikipedia.org/wiki/Depreciation)
