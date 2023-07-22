@@ -16,6 +16,7 @@
 * [Economies of scale](https://en.wikipedia.org/wiki/Economies_of_scale)
 * [Economies of scope](https://en.wikipedia.org/wiki/Economies_of_scope)
 * [Enterprise resource planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning) (ERP)
+* [Game theory](https://en.wikipedia.org/wiki/Game_theory)
 * [Generally Accepted Accounting Principles](https://en.wikipedia.org/wiki/Generally_Accepted_Accounting_Principles_(United_States)) (GAAP)
   * [Mark-to-market accounting](https://en.wikipedia.org/wiki/Mark-to-market_accounting) or [fair value](https://en.wikipedia.org/wiki/Fair_value) accounting
 * [Goodwill](https://en.wikipedia.org/wiki/Goodwill_(accounting))
