@@ -165,7 +165,7 @@
   * Any SD card larger than 32 GB is likely an SDXC card with the [exFAT](https://en.wikipedia.org/wiki/ExFAT) file system that won't boot
 * [Raspberry Pi Imager](https://www.raspberrypi.org/software/) can erase and format any SD card as FAT32
 * [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS), formerly [NOOBS](https://github.com/raspberrypi/noobs) (New Out-Of-Box Software)
-  * [Images](http://downloads.raspberrypi.org/NOOBS/images/) since 2013-06-27
+  * [Images](http://downloads.raspberrypi.org/NOOBS/images/) since 2013-06-27 (NOOBS_v1_2_1)
   * [Release notes](https://downloads.raspberrypi.org/raspios_armhf/release_notes.txt) since 2013-09-10
   * [Archive](http://downloads.raspberrypi.org/NOOBS/archive/) since 2013-11-02
 
