@@ -188,7 +188,7 @@
     * [May 18, 2021](https://blog.google/technology/ai/lamda/)
     * R. Thoppilan et al., [LaMDA: Language Model for Dialogue Applications](https://arxiv.org/abs/2201.08239)
     * S. Pichai, [An important next step on our AI journey](https://blog.google/technology/ai/bard-google-ai-search-updates/), February 6, 2023
-  * [PaLM](https://en.wikipedia.org/wiki/PaLM)
+  * [PaLM](https://en.wikipedia.org/wiki/PaLM) (Pathways Language Model)
   * [PaLM2](https://ai.google/discover/palm2/)
     * [Med-PaLM](https://sites.research.google/med-palm/)
     * [Sec-PaLM](https://cloud.google.com/blog/products/identity-security/rsa-google-cloud-security-ai-workbench-generative-ai)
