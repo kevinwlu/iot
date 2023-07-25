@@ -147,6 +147,7 @@
   * [Alias](https://en.wikipedia.org/wiki/Alias_(command))
   * [Superuser](https://en.wikipedia.org/wiki/Superuser)
 * [57 Best Raspberry Pi Commands You Should Know](https://raspberrytips.com/raspberry-pi-commands/)
+* [OpenWrt on Raspberry Pi: Use your Pi as a router](https://raspberrytips.com/openwrt-on-raspberry-pi/)
 * [Tunneling protocol](https://en.wikipedia.org/wiki/Tunneling_protocol)
 * [Systemd](https://en.wikipedia.org/wiki/Systemd)
   * [How to Run a Raspberry Pi Program on Startup](https://learn.sparkfun.com/tutorials/how-to-run-a-raspberry-pi-program-on-startup/all)
