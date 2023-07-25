@@ -146,6 +146,7 @@
   * [Clobbering](https://en.wikipedia.org/wiki/Clobbering)
   * [Alias](https://en.wikipedia.org/wiki/Alias_(command))
   * [Superuser](https://en.wikipedia.org/wiki/Superuser)
+* [57 Best Raspberry Pi Commands You Should Know](https://raspberrytips.com/raspberry-pi-commands/)
 * [Tunneling protocol](https://en.wikipedia.org/wiki/Tunneling_protocol)
 * [Systemd](https://en.wikipedia.org/wiki/Systemd)
   * [How to Run a Raspberry Pi Program on Startup](https://learn.sparkfun.com/tutorials/how-to-run-a-raspberry-pi-program-on-startup/all)
