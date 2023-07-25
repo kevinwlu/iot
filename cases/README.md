@@ -295,6 +295,7 @@
 * [Isar Aerospace](https://en.wikipedia.org/wiki/Isar_Aerospace)
 * [ispace](https://en.wikipedia.org/wiki/Ispace_(Japanese_company))
 * [Kuiper Systems](https://en.wikipedia.org/wiki/Kuiper_Systems)
+* [Meteosat](https://en.wikipedia.org/wiki/Meteosat)
 * [Mobile User Objective System](https://en.wikipedia.org/wiki/Mobile_User_Objective_System) (MUOS)
 * [OneWeb](https://en.wikipedia.org/wiki/OneWeb)
 * [PLD Space](https://en.wikipedia.org/wiki/PLD_Space)
