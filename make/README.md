@@ -25,6 +25,7 @@
 * [Sensor](https://en.wikipedia.org/wiki/Sensor)
 * [List of sensors](https://en.wikipedia.org/wiki/List_of_sensors)
 * [All-sky, Raspberry Pi camera](https://spectrum.ieee.org/all-sky-camera)
+* [mmWave Radar Sensor Guide](https://wiki.seeedstudio.com/mmwave_radar_Intro/)
 * [Gas detector](https://en.wikipedia.org/wiki/Gas_detector)
 * [Materials and devices inspired by human skin](https://baogroup.stanford.edu/)
 * [Pressure sensor](https://en.wikipedia.org/wiki/Pressure_sensor)
