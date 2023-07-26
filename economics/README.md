@@ -30,6 +30,7 @@
   * [Corporation](https://en.wikipedia.org/wiki/Corporation)
   * [Incorporation](https://en.wikipedia.org/wiki/Incorporation_(business))
   * [Aktiengesellschaft](https://en.wikipedia.org/wiki/Aktiengesellschaft) (AG)
+  * [Besloten vennootschap](https://en.wikipedia.org/wiki/Besloten_vennootschap) (bv)
   * [Gesellschaft mit beschränkter Haftung](https://en.wikipedia.org/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung) (GmbH)  
   * [Limited liability company](https://en.wikipedia.org/wiki/Limited_liability_company) (LLC)
   * [Naamloze vennootschap](https://en.wikipedia.org/wiki/Naamloze_vennootschap) (nv)
