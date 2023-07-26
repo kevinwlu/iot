@@ -271,6 +271,7 @@
 * [Boston Dynamics](https://en.wikipedia.org/wiki/Boston_Dynamics)
 * [Elephant Robotics](https://www.elephantrobotics.com/en/)
   * [GitHub](https://github.com/elephantrobotics)
+* [FANUC](https://en.wikipedia.org/wiki/FANUC)
 * [Intrinsic](https://intrinsic.ai/)
 * [Levatas](https://levatas.com/)
 * [LionsBot](https://www.lionsbot.com/)
