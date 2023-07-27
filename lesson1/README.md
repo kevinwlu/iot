@@ -80,6 +80,7 @@
 * [6G](https://en.wikipedia.org/wiki/6G_(network))
   * [Brooklyn 6G Summit](https://b6gs.com/)
   * [one6G](https://one6g.org/)
+* [IEEE 5G/6G Innovation Testbed](https://testbed.ieee.org/)
 * [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
 * [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
   * [Cloud-computing comparison](https://en.wikipedia.org/wiki/Cloud-computing_comparison)
