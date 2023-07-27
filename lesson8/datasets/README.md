@@ -23,6 +23,7 @@
 * [MNIST database](https://en.wikipedia.org/wiki/MNIST_database)
 * [National Centers for Environmental Information](https://www.ncdc.noaa.gov/data-access) ([NCEI](https://en.wikipedia.org/wiki/National_Centers_for_Environmental_Information)) of the U.S. National Oceanic and Atmospheric Administration ([NOAA](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration))inder
 * [NextG Channel Model Alliance](https://nextg.nist.gov/) > Download datasets
+* [Numbeo](https://en.wikipedia.org/wiki/Numbeo)
 * [Organisation for Economic Co-operation and Development](https://data.oecd.org/) ([OECD](https://en.wikipedia.org/wiki/OECD))
 * [Open Data Network](https://www.opendatanetwork.com/)
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
