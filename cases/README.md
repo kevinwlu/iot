@@ -217,6 +217,8 @@
 * [Epic Systems](https://en.wikipedia.org/wiki/Epic_Systems)
 * [GNU Health](https://en.wikipedia.org/wiki/GNU_Health)
 * [iollo](https://www.iollo.com/)
+* [Intuitive Surgical](https://en.wikipedia.org/wiki/Intuitive_Surgical)
+  * [da Vinci Surgical System](https://en.wikipedia.org/wiki/Da_Vinci_Surgical_System)
 * [Kinsa](https://en.wikipedia.org/wiki/Kinsa)
 * [Little Otter](https://www.littleotterhealth.com/)
 * [Ottobock](https://en.wikipedia.org/wiki/Ottobock)
