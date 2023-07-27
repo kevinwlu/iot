@@ -77,7 +77,7 @@
     * [Wipro](https://www.wipro.com/blogs/sayon-sur/software-defined-vehicles-how-to-accelerate-the-future-of-automotive/)
 * [Network function virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization) (NFV)
 * [5G network slicing](https://en.wikipedia.org/wiki/5G_network_slicing)
-* [Understanding important 5G concepts: What are eMBB, URLLC and mMTC?](https://www.verizon.com/about/news/5g-understanding-embb-urllc-mmtc)
+* [Understanding important 5G concepts: What are eMBB, URLLC, and mMTC?](https://www.verizon.com/about/news/5g-understanding-embb-urllc-mmtc)
   * eMBB: Enhanced Mobile Broadband
   * [URLLC](https://www.3gpp.org/technologies/urlcc-2022): Ultra-Reliable and Low Latency Communications
   * mMTC: Massive Machine-Type Communications
