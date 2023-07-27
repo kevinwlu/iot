@@ -6,6 +6,7 @@
 * [Circular economy](https://en.wikipedia.org/wiki/Circular_economy)
 * [Contribution margin](https://en.wikipedia.org/wiki/Contribution_margin)
 * [Coopetition](https://en.wikipedia.org/wiki/Coopetition)
+* [Cost of goods sold](https://en.wikipedia.org/wiki/Cost_of_goods_sold) (COGS)
 * [Cryptoeconomics](https://en.wikipedia.org/wiki/Cryptoeconomics)
 * [Deglobalization](https://en.wikipedia.org/wiki/Deglobalization)
 * [Depreciation](https://en.wikipedia.org/wiki/Depreciation)
@@ -21,6 +22,7 @@
   * [Mark-to-market accounting](https://en.wikipedia.org/wiki/Mark-to-market_accounting) or [fair value](https://en.wikipedia.org/wiki/Fair_value) accounting
 * [Goodwill](https://en.wikipedia.org/wiki/Goodwill_(accounting))
 * [Government Accountability Office](https://en.wikipedia.org/wiki/Government_Accountability_Office) (GAO)
+* [Gross margin](https://en.wikipedia.org/wiki/Gross_margin)
 * [Income statement](https://en.wikipedia.org/wiki/Income_statement)
 * [Inflation](https://en.wikipedia.org/wiki/Inflation)
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator) or Key performance indicator (KPI)
