@@ -5,6 +5,7 @@
 * [AWS Open Data](https://registry.opendata.aws/)
 * [Cancer Program Datasets](http://portals.broadinstitute.org/cgi-bin/cancer/datasets.cgi) by [Broad Institute](https://en.wikipedia.org/wiki/Broad_Institute)
 * [CIFAR-10](https://en.wikipedia.org/wiki/CIFAR-10)
+* [City quality of life indices](https://en.wikipedia.org/wiki/City_quality_of_life_indices)
 * [COVID-19 Data Repository](https://github.com/CSSEGISandData/COVID-19) by JHU CSSE (John Hopkins University Center for Systems Science and Engineering) 
 * [Coronavirus (COVID-19) Data in the United States](https://github.com/nytimes/covid-19-data) by the New York Times
 * [Data.gov](https://www.data.gov/) by the U.S. Government
@@ -14,6 +15,7 @@
 * [Demographics of the United States](https://en.wikipedia.org/wiki/Demographics_of_the_United_States)
 * [Gapminder](https://www.gapminder.org/data/)
 * [Google Public Data](https://www.google.com/publicdata/directory)
+* [Housing affordability index](https://en.wikipedia.org/wiki/Housing_affordability_index) (HAI)
 * [IEEE DataPort Datasets](https://ieee-dataport.org/datasets)
 * [ImageNet](https://en.wikipedia.org/wiki/ImageNet)
 * [ITU-D ICT Statistics](https://www.itu.int/itu-d/sites/statistics/)
