@@ -303,6 +303,7 @@
 * [Kuiper Systems](https://en.wikipedia.org/wiki/Kuiper_Systems)
 * [Meteosat](https://en.wikipedia.org/wiki/Meteosat)
 * [Mobile User Objective System](https://en.wikipedia.org/wiki/Mobile_User_Objective_System) (MUOS)
+* [NASA Space Tech Industry Partnership](https://www.nasa.gov/directorates/spacetech/solicitations/tipping_points)
 * [OneWeb](https://en.wikipedia.org/wiki/OneWeb)
 * [PLD Space](https://en.wikipedia.org/wiki/PLD_Space)
 * [Relativity Space](https://en.wikipedia.org/wiki/Relativity_Space)
