@@ -157,6 +157,7 @@ Electrical Engineering EE 629
 * [Adaptive Instructional Systems Consortium](https://aisconsortium.com/) (AIS)
 * [AII](http://en.aii-alliance.org/) (Alliance of Industrial Internet)
 * [AIOTI](https://aioti.eu/) (Alliance for Internet of Things Innovation)
+* [Alliance for Automotive Innovation](https://en.wikipedia.org/wiki/Alliance_for_Automotive_Innovation)
 * [Automated Vehicle Safety Consortium](https://avsc.sae-itc.org/) (AVSC)
 * [Avnu Alliance](https://en.wikipedia.org/wiki/Avnu_Alliance)
 * [BITA Standards Council](https://bitastandardscouncil.org/) (BSC)
