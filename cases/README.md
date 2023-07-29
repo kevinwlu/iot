@@ -224,6 +224,7 @@
 * [Little Otter](https://www.littleotterhealth.com/)
 * [Ottobock](https://en.wikipedia.org/wiki/Ottobock)
   * [Exopulse Mollii Suit](https://www.ottobock.com/en-ex/exopulse-b2c)
+* [Pontosense](https://www.pontosense.com/) 
 * [Smart Nora](https://smartnora.com/)
 * [Toi Labs](https://www.toilabs.com/)
 * [Upright](https://www.uprightpose.com/)
@@ -290,6 +291,7 @@
 ## Space
 * [AI SpaceFactory](https://www.aispacefactory.com/)
 * [Comparison of orbital launch systems](https://en.wikipedia.org/wiki/Comparison_of_orbital_launch_systems)
+* [Astrobotic Technology](https://en.wikipedia.org/wiki/Astrobotic_Technology)
 * [Axiom Space](https://en.wikipedia.org/wiki/Axiom_Space)
 * [Ball Aerospace & Technologies](https://en.wikipedia.org/wiki/Ball_Aerospace_%26_Technologies)
 * [Blue Origin](https://en.wikipedia.org/wiki/Blue_Origin)
@@ -414,6 +416,7 @@
 * [Sedric](https://en.wikipedia.org/wiki/Sedric)
 * [Smart Mobility Living Lab](https://smartmobility.london/) (SMLL)
 * [Sonatus](https://www.sonatus.com/)
+* [Terra EV](https://www.terra-ev.com/)
 * [Tesla Autopilot](https://en.wikipedia.org/wiki/Tesla_Autopilot)
 * [Tevva](https://www.tevva.com/en)
 * [The Boring Company](https://en.wikipedia.org/wiki/The_Boring_Company)
