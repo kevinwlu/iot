@@ -129,7 +129,8 @@
   * [J2945](https://www.sae.org/standards/content/j2945_201712/) Dedicated Short Range Communication (DSRC) Systems Engineering Process Guidance for SAE J2945/X Documents and Common Design Concepts
   * [J2954](https://www.sae.org/standards/content/j2954_202010/) Wireless Power Transfer for Light-Duty Plug-in/Electric Vehicles and Alignment Methodology
   * [J3016](https://www.sae.org/standards/content/j3016_202104) Taxonomy and Definitions for Terms Related to Driving Autonomous Systems for On-Road Motor Vehicles
-* [Thread Group](https://www.threadgroup.org/)
+  * [J3400](https://www.sae.org/standards/content/j3400/) NACS Electric Vehicle Coupler
+* [Thread Group](https://www.threadgroup.org/) 
   * [Thread](https://en.wikipedia.org/wiki/Thread_(network_protocol))
   * [OpenThread](https://openthread.io/) released by Google
 * [URSI](https://en.wikipedia.org/wiki/International_Union_of_Radio_Science) (International Union of Radio Science)
