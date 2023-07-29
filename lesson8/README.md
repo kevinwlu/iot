@@ -194,6 +194,7 @@
     * [Sec-PaLM](https://cloud.google.com/blog/products/identity-security/rsa-google-cloud-security-ai-workbench-generative-ai)
   * [Google Brain](https://en.wikipedia.org/wiki/Google_Brain)
   * [DeepMind](https://en.wikipedia.org/wiki/DeepMind)
+    * [RT-2: New model translates vision and language into action](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action) July 28, 2023
   * [Ethical and Social Risks of Harm From Language Models](https://arxiv.org/abs/2112.04359)
   * [Google Research](https://research.google/)
   * [DreamFusion](https://dreamfusion3d.github.io/)
