@@ -75,6 +75,7 @@
 * [Redbear Duo](https://github.com/redbear/Duo)
 * [Sony Spresense](https://developer.sony.com/develop/spresense/)
 * [Tessel](https://tessel.github.io/t2-start/)
+* [Tomu](https://tomu.im/)
 ##
 * [CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol) (Constrained Application Protocol)
   * [txThings](https://github.com/mwasilak/txThings)
