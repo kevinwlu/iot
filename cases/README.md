@@ -327,6 +327,7 @@
 * [Autogyro](https://en.wikipedia.org/wiki/Autogyro) or gyrocopter
 * [Alef Aeronautics](https://en.wikipedia.org/wiki/Alef_Aeronautics)
 * [Bell Textron](https://en.wikipedia.org/wiki/Bell_Textron)
+* [Boeing Truss-Braced Wing](https://en.wikipedia.org/wiki/Boeing_Truss-Braced_Wing)
 * [Boom Technology](https://en.wikipedia.org/wiki/Boom_Technology)
 * [Cosmic Aerospace](https://www.cosmicaerospace.com/)
 * [Electronic flight bag](https://en.wikipedia.org/wiki/Electronic_flight_bag) (EFB)
