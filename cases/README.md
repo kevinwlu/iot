@@ -90,6 +90,7 @@
 * [Bel](https://www.belfuse.com/)
 * [Betterfrost](http://www.betterfrost.com/)
 * [Biofuel](https://en.wikipedia.org/wiki/Biofuel)
+* [Carbon–cement supercapacitors as a scalable bulk energy storage solution](https://www.pnas.org/doi/10.1073/pnas.2304318120), July 31, 2023
 * [CATL](https://en.wikipedia.org/wiki/CATL)
   * [Sodium-ion battery](https://en.wikipedia.org/wiki/Sodium-ion_battery)
 * [ChargePoint](https://en.wikipedia.org/wiki/ChargePoint)
