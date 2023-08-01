@@ -408,6 +408,7 @@
 * [Kempower](https://kempower.com/)
 * [Kenworth](https://en.wikipedia.org/wiki/Kenworth)
 * [Kodiak Robotics](https://kodiak.ai/)
+* [Leapmotor](https://en.wikipedia.org/wiki/Leapmotor)
 * [Li Auto](https://en.wikipedia.org/wiki/Li_Auto)
 * [Lion Electric Company](https://en.wikipedia.org/wiki/Lion_Electric_Company)
 * [Lordstown Motors](https://en.wikipedia.org/wiki/Lordstown_Motors)
