@@ -19,6 +19,7 @@
 * [FarmVibes](https://www.microsoft.com/en-us/research/project/project-farmvibes/)
   * [Farmvibes.AI](https://github.com/microsoft/farmvibes-ai)
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
+* [Pyka](https://www.flypyka.com/)
 * [Tevel Aerobotics](https://www.tevel-tech.com/) Flying Autonomous Robots
 * [Xiang Tian Agriculture](https://www.sdxiangtian.cn/)
 ## Climate and Weather
