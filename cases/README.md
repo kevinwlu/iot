@@ -324,6 +324,7 @@
 * [More electric aircraft](https://moreelectricaircraft.com/) (MEA)
 * [European Union Aviation Safety Agency](https://en.wikipedia.org/wiki/European_Union_Aviation_Safety_Agency) (EASA)
 * [Sustainable aviation fuels](https://www.energy.gov/eere/bioenergy/sustainable-aviation-fuels) (SAF)
+* [Advanced Air Mobility](https://en.wikipedia.org/wiki/Advanced_Air_Mobility) (AAM)
 * [AFWERX](https://en.wikipedia.org/wiki/AFWERX)
 * [Airworthiness](https://en.wikipedia.org/wiki/Airworthiness)
 * [Autogyro](https://en.wikipedia.org/wiki/Autogyro) or gyrocopter
