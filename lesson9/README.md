@@ -65,7 +65,7 @@
 * [*My Quantum Experiment*](https://johnhorgan.org/books/my-quantum-experiment) by [John Horgan](https://johnhorgan.org/)
 * [*Science Without the Gobbledygook*](https://www.youtube.com/@SabineHossenfelder) by [Sabine Hossenfelder](https://en.wikipedia.org/wiki/Sabine_Hossenfelder)
   * [Quantum Computers Could Solve These Problems](https://www.youtube.com/watch?v=IhS6ecYZFdQ)
-* [*Looking Glass Universe*](https://www.youtube.com/@LookingGlassUniverse) by Mithuna Yoganathan
+* [*Looking Glass Universe*](https://www.youtube.com/@LookingGlassUniverse) by [Mithuna Yoganathan](https://brilliant.org/educator-bios/)
 * [*3Blue1Brown*](https://www.youtube.com/3blue1brown) by [Grant Sanderson](https://en.wikipedia.org/wiki/3Blue1Brown)
 * [Quantum Made Simple by Physics Reimagined](https://toutestquantique.fr/en/)
 * [Quantum Made Simple by Superposition Studios](https://www.superposition-studios.co.uk/quantum-made-simple)
