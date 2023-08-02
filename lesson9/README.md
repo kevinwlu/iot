@@ -65,6 +65,7 @@
 * [*My Quantum Experiment*](https://johnhorgan.org/books/my-quantum-experiment) by [John Horgan](https://johnhorgan.org/)
 * [*Science Without the Gobbledygook*](https://www.youtube.com/@SabineHossenfelder) by [Sabine Hossenfelder](https://en.wikipedia.org/wiki/Sabine_Hossenfelder)
   * [Quantum Computers Could Solve These Problems](https://www.youtube.com/watch?v=IhS6ecYZFdQ)
+* [*Looking Glass Universe*](https://www.youtube.com/@LookingGlassUniverse) by Mithuna Yoganathan
 * [Quantum Made Simple by Physics Reimagined](https://toutestquantique.fr/en/)
 * [Quantum Made Simple by Superposition Studios](https://www.superposition-studios.co.uk/quantum-made-simple)
 * [*The Biggest Ideas in the Universe: Space, Time, and Motion*](https://www.preposterousuniverse.com/) by [Sean M. Carroll](https://en.wikipedia.org/wiki/Sean_M._Carroll)
@@ -80,6 +81,7 @@
 * [Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
 * [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
 * [Double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment)
+* [Particle in a box](https://en.wikipedia.org/wiki/Particle_in_a_box)
 * [Wave–particle duality](https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality)
 * [Quantum state](https://en.wikipedia.org/wiki/Quantum_state)
 * [Hilbert space](https://en.wikipedia.org/wiki/Hilbert_space)
