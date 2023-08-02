@@ -66,6 +66,7 @@
 * [*Science Without the Gobbledygook*](https://www.youtube.com/@SabineHossenfelder) by [Sabine Hossenfelder](https://en.wikipedia.org/wiki/Sabine_Hossenfelder)
   * [Quantum Computers Could Solve These Problems](https://www.youtube.com/watch?v=IhS6ecYZFdQ)
 * [*Looking Glass Universe*](https://www.youtube.com/@LookingGlassUniverse) by Mithuna Yoganathan
+* [*3Blue1Brown*](https://www.youtube.com/3blue1brown) by Grant Sanderson
 * [Quantum Made Simple by Physics Reimagined](https://toutestquantique.fr/en/)
 * [Quantum Made Simple by Superposition Studios](https://www.superposition-studios.co.uk/quantum-made-simple)
 * [*The Biggest Ideas in the Universe: Space, Time, and Motion*](https://www.preposterousuniverse.com/) by [Sean M. Carroll](https://en.wikipedia.org/wiki/Sean_M._Carroll)
