@@ -149,6 +149,7 @@
 * [Pumped-storage hydroelectricity](https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity) (PSH)
 * [Raven SR](https://ravensr.com/)
 * [Redwood Materials](https://en.wikipedia.org/wiki/Redwood_Materials,_Inc.)
+* [Sila Nanotechnologies](https://en.wikipedia.org/wiki/Sila_Nanotechnologies)
 * [Skeleton Technologies](https://en.wikipedia.org/wiki/Skeleton_Technologies)
 * [Sol Systems](https://www.solsystems.com/)
 * [Solar cell](https://en.wikipedia.org/wiki/Solar_cell)
