@@ -281,6 +281,7 @@
 * [Elephant Robotics](https://www.elephantrobotics.com/en/)
   * [GitHub](https://github.com/elephantrobotics)
 * [FANUC](https://en.wikipedia.org/wiki/FANUC) (Fuji Automatic Numerical Control)
+* [Impossible Metals](https://impossiblemetals.com/)
 * [Intrinsic](https://intrinsic.ai/)
 * [Levatas](https://levatas.com/)
 * [LionsBot](https://www.lionsbot.com/)
