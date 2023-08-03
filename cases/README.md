@@ -372,6 +372,7 @@
 * [Collision avoidance system](https://en.wikipedia.org/wiki/Collision_avoidance_system)
 * [Drivetrain](https://en.wikipedia.org/wiki/Drivetrain)
 * [Electric bicycle](https://en.wikipedia.org/wiki/Electric_bicycle)
+  * [VanMoof](https://www.vanmoof.com)
 * [List of production battery electric vehicles](https://en.wikipedia.org/wiki/List_of_production_battery_electric_vehicles)
 * [List of self-driving system suppliers](https://en.wikipedia.org/wiki/List_of_self-driving_system_suppliers)
 * [List of truck types](https://en.wikipedia.org/wiki/List_of_truck_types)
