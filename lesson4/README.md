@@ -76,6 +76,8 @@
 * [Apache Software Foundation](https://en.wikipedia.org/wiki/The_Apache_Software_Foundation)
   * [Apache](https://en.wikipedia.org/wiki/Apache)
 * [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySQL, PHP/Perl/Python)
+* [Social networking service](https://en.wikipedia.org/wiki/Social_networking_service)
+  * [List of social networking services](https://en.wikipedia.org/wiki/List_of_social_networking_services)
 * [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics)
   * [George Berkeley](https://en.wikipedia.org/wiki/George_Berkeley) 1685&mdash;1753
 * [Metaverse](https://en.wikipedia.org/wiki/Metaverse)
