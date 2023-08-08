@@ -170,6 +170,7 @@
 * [ThyssenKrupp](https://en.wikipedia.org/wiki/ThyssenKrupp)
   * [Thyssenkrupp Hydrogen](https://hydrogen.thyssenkrupp.com/en/)
   * [Thyssenkrupp Nucera](https://thyssenkrupp-nucera.com/)
+* [Traction Uranium](https://tractionuranium.com/)
 * [Utilidata](https://utilidata.com/)
 * [Vehicle-to-grid](https://en.wikipedia.org/wiki/Vehicle-to-grid) (V2G)
   * [Duck curve](https://en.wikipedia.org/wiki/Duck_curve)
