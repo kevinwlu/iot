@@ -102,6 +102,8 @@
 * [Eco Wave Power](https://www.ecowavepower.com/)
   * [Tidal power](https://en.wikipedia.org/wiki/Tidal_power)
   * [Wave power](https://en.wikipedia.org/wiki/Wave_power)
+* [Electric Power Research Institute](https://en.wikipedia.org/wiki/Electric_Power_Research_Institute) (EPRI)
+  * [EVs2Scale2030](https://restservice.epri.com/publicdownload/000000003002025622/0/Product)
 * [Element 25](https://www.element25.com.au/)
 * [Enel X](https://en.wikipedia.org/wiki/Enel_X)
 * [Energy Exploration Technologies](https://en.wikipedia.org/wiki/Energy_Exploration_Technologies) (EngeryX)
