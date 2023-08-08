@@ -235,6 +235,8 @@
 * [Upright](https://www.uprightpose.com/)
 * [Withings](https://en.wikipedia.org/wiki/Withings)
   * [U-Scan](https://www.withings.com/us/en/u-scan)
+## Imagery
+* [Array Labs](https://www.arraylabs.io/)
 ## Industrial
 * [Alloy Enterprises](https://alloyenterprises.co/)
 * [Automated guided vehicle](https://en.wikipedia.org/wiki/Automated_guided_vehicle) (AGV)
