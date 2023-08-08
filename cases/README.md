@@ -403,6 +403,7 @@
 * [Elbee](https://www.elbeemobility.com/)
 * [Ethernovia](https://www.ethernovia.com/)
 * [Faraday Future](https://en.wikipedia.org/wiki/Faraday_Future)
+* [Fernride](https://www.fernride.com/)
 * [Fisker](https://en.wikipedia.org/wiki/Fisker_Inc.)
 * [Gatik](https://gatik.ai/)
 * [Gillig](https://en.wikipedia.org/wiki/Gillig)
