@@ -162,6 +162,7 @@
 * [Solid-state battery](https://en.wikipedia.org/wiki/Solid-state_battery) (SSB)
   * [Factorial](https://factorialenergy.com/)
   * [Solid Power](https://www.solidpowerbattery.com/)
+  * [WeiLion](http://www.solidstatelion.com/en/)
 * [Space mirror (climate engineering)](https://en.wikipedia.org/wiki/Space_mirror_(climate_engineering))
 * [Space-based solar power](https://en.wikipedia.org/wiki/Space-based_solar_power)
   * [Caltech Space Solar Power Project](https://www.spacesolar.caltech.edu/)
