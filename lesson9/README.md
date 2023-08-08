@@ -215,7 +215,9 @@ $ gimp -a intrusiondetection.png
 * [Qiskit installation](https://qiskit.org/documentation/getting_started.html): Windows, macOS, and Ubuntu
 * [Qiskit tutorials](https://qiskit.org/documentation/tutorials.html)
 * IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
-* Learn quantum computation using Qiskit: [textbook](https://qiskit.org/textbook/preface.html)
+* Learn quantum computation using Qiskit:
+  * [Textbook](https://qiskit.org/textbook/preface.html)
+  * [YouTube channel](https://www.youtube.com/qiskit)
 * [Qiskit Runtime](https://quantum-computing.ibm.com/lab/docs/iql/runtime/)
   * [Runtime system](https://en.wikipedia.org/wiki/Runtime_system)
 
