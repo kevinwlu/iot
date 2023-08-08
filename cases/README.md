@@ -430,6 +430,7 @@
 * [Mobileye](https://en.wikipedia.org/wiki/Mobileye)
 * [Mojio](https://www.moj.io/)
 * [Motional](https://en.wikipedia.org/wiki/Motional)
+* [Motiv Power Systems](https://en.wikipedia.org/wiki/Motiv_Power_Systems)
 * [MoveEV](https://www.moveev.com/)
 * [New Flyer](https://en.wikipedia.org/wiki/New_Flyer)
 * [Nikola Corporation](https://en.wikipedia.org/wiki/Nikola_Corporation)
