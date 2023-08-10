@@ -102,6 +102,7 @@
 * [Comparison of operating systems](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
   * [QNX](https://en.wikipedia.org/wiki/QNX)
 * [Real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating_system) (RTOS)
+  * [Zephyr](https://zephyrproject.org/)
 * [Middleware](https://en.wikipedia.org/wiki/Middleware)
 ##
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
