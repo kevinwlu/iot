@@ -28,7 +28,6 @@
   * [How to integrate the Arduino IoT with IFTTT](https://support.arduino.cc/hc/en-us/articles/360013896199-How-to-integrate-the-Arduino-IoT-with-IFTTT)
   * [MQ-135](/lesson6/mq135) gas sensor in Lesson 6
   * [SoftwareSerial Library](https://www.arduino.cc/en/Reference/softwareSerial)
-  * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
   * [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE)
   * [Arduino language reference](https://www.arduino.cc/reference/en/)
   * [Nano 33 BLE Sense](https://docs.arduino.cc/hardware/nano-33-ble-sense)
@@ -102,7 +101,9 @@
 * [Comparison of operating systems](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
   * [QNX](https://en.wikipedia.org/wiki/QNX)
 * [Real-time operating system](https://en.wikipedia.org/wiki/Real-time_operating_system) (RTOS)
-  * [Zephyr](https://zephyrproject.org/)
+  * [Zephyr](https://en.wikipedia.org/wiki/Zephyr_(operating_system))
+* [Embedded operating system](https://en.wikipedia.org/wiki/Embedded_operating_system)
+  * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
 * [Middleware](https://en.wikipedia.org/wiki/Middleware)
 ##
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
