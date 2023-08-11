@@ -23,6 +23,8 @@
 * [Tevel Aerobotics](https://www.tevel-tech.com/) Flying Autonomous Robots
 * [Xiang Tian Agriculture](https://www.sdxiangtian.cn/)
 ## Climate and Weather
+* [Environmental effects of aviation](https://en.wikipedia.org/wiki/Environmental_effects_of_aviation)
+  * [Contrail](https://en.wikipedia.org/wiki/Contrail)
 * [Fire and smoke map](https://fire.airnow.gov/)
 * [El Niño](https://en.wikipedia.org/wiki/El_Ni%C3%B1o)
 * [La Niña](https://en.wikipedia.org/wiki/La_Ni%C3%B1a)
