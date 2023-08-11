@@ -404,6 +404,7 @@
 * [Cruise](https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle))
 * [Einride](https://en.wikipedia.org/wiki/Einride)
 * [Elbee](https://www.elbeemobility.com/)
+* [Elektrobit](https://www.elektrobit.com/)
 * [Ethernovia](https://www.ethernovia.com/)
 * [Faraday Future](https://en.wikipedia.org/wiki/Faraday_Future)
 * [Fernride](https://www.fernride.com/)
