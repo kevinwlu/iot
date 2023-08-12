@@ -72,6 +72,7 @@
   * [Zerynth](https://en.wikipedia.org/wiki/Zerynth)
 * [Particle](https://www.particle.io/)
   * [Particle](/lesson6/particle) in Lesson 6
+  * [Photon 2](https://store.particle.io/products/photon-2)
 * [Redbear Duo](https://github.com/redbear/Duo)
 * [Sony Spresense](https://developer.sony.com/develop/spresense/)
 * [Tessel](https://tessel.github.io/t2-start/)
