@@ -2,6 +2,7 @@
 ## YouTube Channels
 * [Adafruit Industries](https://www.youtube.com/@adafruit)
 * [Engineerguy](https://www.youtube.com/@engineerguyvideo) by [Bill Hammack](https://en.wikipedia.org/wiki/Bill_Hammack)
+* [Hackster.io](https://www.youtube.com/@HacksterIo)
 * [Lesics](https://www.youtube.com/@Lesics) by [Sabin Mathew](https://www.linkedin.com/in/sabin-mathew/)
 * [Seeed Studio](https://www.youtube.com/@SeeedStudioSZ)
 * [Simone Giertz](https://www.youtube.com/@simonegiertz) by [Simone Giertz](https://en.wikipedia.org/wiki/Simone_Giertz)
