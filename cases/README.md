@@ -213,6 +213,7 @@
   * [Aspartame](https://en.wikipedia.org/wiki/Aspartame)
   * [Fumaric_acid](https://en.wikipedia.org/wiki/Fumaric_acid)
   * [Titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide)
+* [Qube](https://www.qubeiot.com/)
 ## Fashion
 * [Virtually try on clothes with a new AI shopping feature](https://blog.google/products/shopping/ai-virtual-try-on-google-shopping/)
   * [How AI makes virtual try-on more realistic](https://blog.google/products/shopping/virtual-try-on-google-generative-ai/)
