@@ -336,29 +336,28 @@
 ## Sports
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
 ## Transportation: Air
+* [eVTOL](https://en.wikipedia.org/wiki/EVTOL) (electric vertical take-off and landing) aircraft
 * [List of electric aircraft](https://en.wikipedia.org/wiki/List_of_electric_aircraft)
 * [More electric aircraft](https://moreelectricaircraft.com/) (MEA)
 * [European Union Aviation Safety Agency](https://en.wikipedia.org/wiki/European_Union_Aviation_Safety_Agency) (EASA)
 * [Sustainable aviation fuels](https://www.energy.gov/eere/bioenergy/sustainable-aviation-fuels) (SAF)
 * [Advanced Air Mobility](https://en.wikipedia.org/wiki/Advanced_Air_Mobility) (AAM)
+* [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
 * [AFWERX](https://en.wikipedia.org/wiki/AFWERX)
 * [Airworthiness](https://en.wikipedia.org/wiki/Airworthiness)
-* [Autogyro](https://en.wikipedia.org/wiki/Autogyro) or gyrocopter
 * [Alef Aeronautics](https://en.wikipedia.org/wiki/Alef_Aeronautics)
+* [Archer Aviation](https://www.archer.com/)
+* [Autogyro](https://en.wikipedia.org/wiki/Autogyro) or gyrocopter
 * [Bell Textron](https://en.wikipedia.org/wiki/Bell_Textron)
+* [BETA Technologies](https://en.wikipedia.org/wiki/Beta_Technologies)
+* [BLADE Air Mobility](https://en.wikipedia.org/wiki/Blade_(company))
 * [Boeing Truss-Braced Wing](https://en.wikipedia.org/wiki/Boeing_Truss-Braced_Wing)
 * [Boom Technology](https://en.wikipedia.org/wiki/Boom_Technology)
 * [Cosmic Aerospace](https://www.cosmicaerospace.com/)
-* [Electronic flight bag](https://en.wikipedia.org/wiki/Electronic_flight_bag) (EFB)
-* [Elroy Air](https://en.wikipedia.org/wiki/Elroy_Air_Chaparral)
-* [eVTOL](https://en.wikipedia.org/wiki/EVTOL) (electric vertical take-off and landing) aircraft
-* [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
-* [Archer Aviation](https://www.archer.com/)
-* [BETA Technologies](https://en.wikipedia.org/wiki/Beta_Technologies)
-* [BLADE Air Mobility](https://en.wikipedia.org/wiki/Blade_(company))
-* [Boom Technology](https://en.wikipedia.org/wiki/Boom_Technology)
 * [DLR HY4](https://en.wikipedia.org/wiki/DLR_HY4)
 * [EHang](https://en.wikipedia.org/wiki/EHang)
+* [Electronic flight bag](https://en.wikipedia.org/wiki/Electronic_flight_bag) (EFB)
+* [Elroy Air](https://en.wikipedia.org/wiki/Elroy_Air_Chaparral)
 * [Eve Air Mobility](https://en.wikipedia.org/wiki/Eve_Air_Mobility)
 * [Eviation Alice](https://en.wikipedia.org/wiki/Eviation_Alice)
 * [Faradair Aerospace BEHA](https://en.wikipedia.org/wiki/Faradair_Aerospace_BEHA)
@@ -376,7 +375,7 @@
 * [Vertical Aerospace](https://en.wikipedia.org/wiki/Vertical_Aerospace)
 * [Volocopter](https://en.wikipedia.org/wiki/Volocopter)
 * [VoltAero Cassio](https://en.wikipedia.org/wiki/VoltAero_Cassio)
-* [Wisk Aero](https://en.wikipedia.org/wiki/Wisk_Aero)
+* [Wisk Aero](https://en.wikipedia.org/wiki/Wisk_Aero), a wholly owned subsidiary of Boeing since May 2023
 * [Whisper Aero](https://www.whisper.aero/)
 * [ZeroAvia](https://en.wikipedia.org/wiki/ZeroAvia)
 * [Zunum Aero](https://en.wikipedia.org/wiki/Zunum_Aero)
