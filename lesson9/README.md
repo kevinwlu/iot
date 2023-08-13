@@ -87,6 +87,7 @@
 * [Particle in a box](https://en.wikipedia.org/wiki/Particle_in_a_box)
 * [Wave–particle duality](https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality)
 * [String theory](https://en.wikipedia.org/wiki/String_theory)
+* [Quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
 * [Quantum state](https://en.wikipedia.org/wiki/Quantum_state)
 * [Hilbert space](https://en.wikipedia.org/wiki/Hilbert_space)
 * [Bra–ket notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation)
