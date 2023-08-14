@@ -172,6 +172,8 @@ Electrical Engineering EE 629
 * [Digital Twin Consortium](https://www.digitaltwinconsortium.org/)
 * [FIDO Alliance](https://en.wikipedia.org/wiki/FIDO_Alliance) (Fast IDentity Online)
 * [FiRa Consortium](https://en.wikipedia.org/wiki/FiRa_Consortium)
+* [Global Battery Alliance](https://www.globalbattery.org/) (GBA)
+  * [Battery Passport](https://www.globalbattery.org/battery-passport/)
 * [Hexa-X](https://hexa-x.eu/)
 * [IAMTS](https://www.iamts.org/en) (International Alliance for Mobility Testing and Standardization)
 * [IIC](https://en.wikipedia.org/wiki/Industrial_Internet_Consortium) (Industrial Internet Consortium)
