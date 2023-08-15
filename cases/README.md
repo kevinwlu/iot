@@ -312,6 +312,7 @@
 * [Astrobotic Technology](https://en.wikipedia.org/wiki/Astrobotic_Technology)
 * [Axiom Space](https://en.wikipedia.org/wiki/Axiom_Space)
 * [Ball Aerospace & Technologies](https://en.wikipedia.org/wiki/Ball_Aerospace_%26_Technologies)
+* [Blue Canyon Technologies](https://www.bluecanyontech.com/), a wholly owned subsidiary of Raytheon Technologies
 * [Blue Origin](https://en.wikipedia.org/wiki/Blue_Origin)
 * [Firefly Aerospace](https://en.wikipedia.org/wiki/Firefly_Aerospace)
 * [GITAI](https://gitai.tech/)
