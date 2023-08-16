@@ -146,6 +146,7 @@
     * [InterNano](https://www.internano.org/)
   * [Swift Solar](https://www.swiftsolar.com/)
   * [Ubiquitous Energy](https://ubiquitous.energy/)
+* [Mitra Chem](https://www.mitrachem.com/)
 * [Nel ASA](https://en.wikipedia.org/wiki/Nel_ASA)
 * [Nighttime photovoltaic (PV) cells](https://aip.scitation.org/doi/10.1063/5.0085205)
 * [Northvolt](https://en.wikipedia.org/wiki/Northvolt)
