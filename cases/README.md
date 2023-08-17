@@ -457,7 +457,7 @@
   * [A Pi-culiar Discovery](https://www.hackster.io/news/a-pi-culiar-discovery-322fce581415)
 * [Terra EV](https://www.terra-ev.com/)
 * [Tesla Autopilot](https://en.wikipedia.org/wiki/Tesla_Autopilot)
-* [Tevva](https://www.tevva.com/en)
+* [Tevva](https://www.tevva.com/en) merged with [ElectraMeccanica](https://www.emvauto.com/)
 * [The Boring Company](https://en.wikipedia.org/wiki/The_Boring_Company)
 * [The Shyft Group](https://en.wikipedia.org/wiki/The_Shyft_Group)
 * [Torc Robotics](https://en.wikipedia.org/wiki/Torc_Robotics)
