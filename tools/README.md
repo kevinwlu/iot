@@ -67,7 +67,7 @@
 * [HTTPie](https://httpie.io/)
 * [Hugging Face](https://en.wikipedia.org/wiki/Hugging_Face)
   * [HuggingGPT](https://huggingface.co/spaces/microsoft/HuggingGPT)
-* [Inflection](https://inflection.ai/)
+* [Inflection AI](https://en.wikipedia.org/wiki/Inflection_AI)
 * [Jenni](https://jenni.ai/)
 * [Khroma](https://www.khroma.co/)
 * [Late No More](https://www.focusbear.io/en/late-no-more)
