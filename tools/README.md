@@ -42,7 +42,8 @@
 * [Baidu](https://en.wikipedia.org/wiki/Baidu)
   * [How to register Baidu account outside China](https://www.adchina.io/how-to-open-a-baidu-account-outside-china/)
   * [ERNIE Bot](https://yiyan.baidu.com/)
-* [Cerelyze](https://www.cerelyze.com/): turn technical research papers into useable code
+* [Canopy](https://canopyai.xyz/): Realistic AI interviews
+* [Cerelyze](https://www.cerelyze.com/): Turn technical research papers into useable code
 * [Copy.ai](https://www.copy.ai/)
 * [CustomGPT](https://customgpt.ai/)
 * [DeepL](https://www.deepl.com/)
