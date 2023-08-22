@@ -54,6 +54,8 @@
   * [IEEE SA GitLab](https://opensource.ieee.org/)
   * [IEEE IoT technical community](https://iot.ieee.org/)
   * [IEEE SA IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
+  * [IEEE 1451](https://en.wikipedia.org/wiki/IEEE_1451)
+  * [IEEE P1451.0](https://standards.ieee.org/ieee/1451.0/11001/) Draft Standard for a Smart Transducer Interface for Sensors, Actuators, Devices, and Systems - Common Functions, Communication Protocols, and Transducer Electronic Data Sheet (TEDS) Formats
   * [IEEE P1451-99](https://standards.ieee.org/project/1451-99.html) Standard for Harmonization of Internet of Things (IoT) Devices and Systems
   * [IEEE 2050-2018](https://standards.ieee.org/ieee/2050/7178/) Standard for a Real-Time Operating System (RTOS) for Small-Scale Embedded Systems
     * [Micro T-Kernel](https://en.wikipedia.org/wiki/Micro_T-Kernel)
