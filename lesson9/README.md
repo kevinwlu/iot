@@ -89,6 +89,7 @@
 * [String theory](https://en.wikipedia.org/wiki/String_theory)
 * [Quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
 * [Quantum state](https://en.wikipedia.org/wiki/Quantum_state)
+* [Quantum tomography](https://en.wikipedia.org/wiki/Quantum_tomography)
 * [Hilbert space](https://en.wikipedia.org/wiki/Hilbert_space)
 * [Bra–ket notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation)
 * [Quantum nonlocality](https://en.wikipedia.org/wiki/Quantum_nonlocality)
