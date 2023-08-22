@@ -137,6 +137,7 @@
 * [Lithionics Battery](https://lithionicsbattery.com/)
 * [Lithium–air battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93air_battery)
   * [Metal–air electrochemical cell](https://en.wikipedia.org/wiki/Metal%E2%80%93air_electrochemical_cell)
+  * [Zinc–air battery](https://en.wikipedia.org/wiki/Zinc%E2%80%93air_battery)
 * [Lithium iron phosphate battery](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery) (LFP)
 * [Lithium-sulfur battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93sulfur_battery)
 * [Lyten](https://lyten.com/)
