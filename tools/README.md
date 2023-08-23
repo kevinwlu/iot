@@ -71,6 +71,7 @@
 * [Hugging Face](https://en.wikipedia.org/wiki/Hugging_Face)
   * [HuggingGPT](https://huggingface.co/spaces/microsoft/HuggingGPT)
 * [Inflection AI](https://en.wikipedia.org/wiki/Inflection_AI)
+  * [Pi](https://pi.ai/)
 * [Jenni](https://jenni.ai/)
 * [Khroma](https://www.khroma.co/)
 * [Late No More](https://www.focusbear.io/en/late-no-more)
@@ -83,6 +84,7 @@
   * [ChatGPT](https://chat.openai.com/chat)
   * [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins), March 23, 2023
   * [AI Text Classifier](https://platform.openai.com/ai-text-classifier) requires at least 1,000 characters, which is approximately 150 - 250 words
+* [Perplexity AI](https://www.perplexity.ai/)
 * [Feedback by AI](https://feedbackbyai.com/)
   * [AI Characters](https://feedbackbyai.com/characters)
 * [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg)
