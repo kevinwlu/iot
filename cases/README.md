@@ -108,6 +108,7 @@
 * [Eco Wave Power](https://www.ecowavepower.com/)
   * [Tidal power](https://en.wikipedia.org/wiki/Tidal_power)
   * [Wave power](https://en.wikipedia.org/wiki/Wave_power)
+* [Electric Era Technologies](https://electriceratechnologies.com/)
 * [Electric Power Research Institute](https://en.wikipedia.org/wiki/Electric_Power_Research_Institute) (EPRI)
   * [EVs2Scale2030](https://restservice.epri.com/publicdownload/000000003002025622/0/Product)
 * [Element 25](https://www.element25.com.au/)
