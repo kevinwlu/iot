@@ -4,6 +4,7 @@
 * [Acceptance testing](https://en.wikipedia.org/wiki/Acceptance_testing)
 * [Availability](https://en.wikipedia.org/wiki/Availability)
   * [High availability](https://en.wikipedia.org/wiki/High_availability)
+* [Bill of materials](https://en.wikipedia.org/wiki/Bill_of_materials) (BOM)
 * [Concurrent engineering](https://en.wikipedia.org/wiki/Concurrent_engineering)
 * [Design for X](https://en.wikipedia.org/wiki/Design_for_X)
 * [Failure reporting, analysis, and corrective action system](https://en.wikipedia.org/wiki/Failure_reporting,_analysis,_and_corrective_action_system) (FRACAS)
