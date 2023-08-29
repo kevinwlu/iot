@@ -12,4 +12,5 @@
 * [Nondestructive testing](https://en.wikipedia.org/wiki/Nondestructive_testing) (NDT)
 * [Reliability engineering](https://en.wikipedia.org/wiki/Reliability_engineering)
   * [Bathtub curve](https://en.wikipedia.org/wiki/Bathtub_curve)
+* [Software supply chain](https://en.wikipedia.org/wiki/Software_supply_chain)
 * [Verification and validation](https://en.wikipedia.org/wiki/Verification_and_validation) (V&V)
