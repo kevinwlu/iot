@@ -52,6 +52,7 @@
 * [Selling, General, and Administrative Expenses](https://en.wikipedia.org/wiki/SG%26A) (SG&A)
 * [Shovel ready](https://en.wikipedia.org/wiki/Shovel_ready)
 * [Time value of money](https://en.wikipedia.org/wiki/Time_value_of_money)
+* [Tocqueville effect](https://en.wikipedia.org/wiki/Tocqueville_effect)
 * [Tokenomics](https://en.wikipedia.org/wiki/Tokenomics)
 * [Trade-off](https://en.wikipedia.org/wiki/Trade-off)
   * [Double-edged sword](https://en.wiktionary.org/wiki/double-edged_sword)
