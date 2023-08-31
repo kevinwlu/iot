@@ -84,6 +84,7 @@
 ## Energy and Power
 * [List of electric vehicle battery manufacturers](https://en.wikipedia.org/wiki/List_of_electric_vehicle_battery_manufacturers)
 * [Electric vehicle charging network](https://en.wikipedia.org/wiki/Electric_vehicle_charging_network)
+* [Offshore wind power](https://en.wikipedia.org/wiki/Offshore_wind_power)
 * [Aeromine](https://www.aerominetechnologies.com/)
 * [Air Liquide](https://en.wikipedia.org/wiki/Air_Liquide)
 * [Albemarle Corporation](https://en.wikipedia.org/wiki/Albemarle_Corporation)
