@@ -67,6 +67,7 @@
   * [Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio) (SDR)
   * Software-defined vehicles (SDV)
     * [Amazon](https://aws.amazon.com/automotive/software-defined-vehicle/)
+    * [Apex.AI](https://www.apex.ai/)
     * [Aptiv](https://www.aptiv.com/en/insights/article/what-is-a-software-defined-vehicle)
     * [Arm](https://www.arm.com/solutions/automotive/software-defined-vehicles)
     * [Bosch](https://www.bosch-mobility-solutions.com/en/mobility-topics/software-defined-vehicle/)
