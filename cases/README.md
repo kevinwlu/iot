@@ -283,6 +283,7 @@
 * [Lawna](https://www.lawnatech.com/)
 * [MagicMirror](https://magicmirror.builders/)
 * [Otter](https://withotter.com/)
+* [Wyze Labs](https://en.wikipedia.org/wiki/Wyze_Labs)
 ## Ride Sharing
 * [Revel Transit](https://en.wikipedia.org/wiki/Revel_Transit)
   * [Website](https://gorevel.co)
