@@ -334,6 +334,7 @@
 * [ispace](https://en.wikipedia.org/wiki/Ispace_(Japanese_company))
 * [Kuiper Systems](https://en.wikipedia.org/wiki/Kuiper_Systems)
 * [Meteosat](https://en.wikipedia.org/wiki/Meteosat)
+* [Millennium Space Systems](https://www.millennium-space.com/)
 * [Mobile User Objective System](https://en.wikipedia.org/wiki/Mobile_User_Objective_System) (MUOS)
 * [NASA Space Tech Industry Partnership](https://www.nasa.gov/directorates/spacetech/solicitations/tipping_points)
 * [OneWeb](https://en.wikipedia.org/wiki/OneWeb)
