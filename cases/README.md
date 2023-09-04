@@ -265,6 +265,7 @@
 * [Cummins](https://en.wikipedia.org/wiki/Cummins)
 * [eLeapPower](https://www.eleappower.com/)
 * [Infinitum](https://goinfinitum.com/)
+* [Liebherr](https://en.wikipedia.org/wiki/Liebherr)
 * [Rosotics](https://www.rosotics.com/)
 * [STILFOLD](https://www.stilfold.com/)
 * [Tetra Technologies](https://tetratec.com/)
