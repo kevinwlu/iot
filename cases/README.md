@@ -347,6 +347,7 @@
 * [Starlab Space Station](https://en.wikipedia.org/wiki/Starlab_Space_Station)
 * [Startfish Space](https://www.starfishspace.com/)
 * [Stratolaunch Systems](https://en.wikipedia.org/wiki/Stratolaunch_Systems)
+* [TransAstra](https://transastra.com/)
 * [United Launch Alliance](https://en.wikipedia.org/wiki/United_Launch_Alliance) (ULA)
 ## Sports
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
