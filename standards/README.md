@@ -136,6 +136,7 @@
   * [J2954](https://www.sae.org/standards/content/j2954_202010/) Wireless Power Transfer for Light-Duty Plug-in/Electric Vehicles and Alignment Methodology
   * [J3016](https://www.sae.org/standards/content/j3016_202104) Taxonomy and Definitions for Terms Related to Driving Autonomous Systems for On-Road Motor Vehicles
   * [J3400](https://www.sae.org/standards/content/j3400/) NACS Electric Vehicle Coupler
+  * [Unified numbering system](https://en.wikipedia.org/wiki/Unified_numbering_system) (UNS) jointly managed with [ASTM International](https://en.wikipedia.org/wiki/ASTM_International)
 * [Thread Group](https://www.threadgroup.org/) 
   * [Thread](https://en.wikipedia.org/wiki/Thread_(network_protocol))
   * [OpenThread](https://openthread.io/) released by Google
