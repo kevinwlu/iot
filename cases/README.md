@@ -119,6 +119,7 @@
 * [EnerVenue](https://enervenue.com/)
 * [ev.energy](https://www.ev.energy/)
 * [EVBox](https://en.wikipedia.org/wiki/EVBox)
+* [Everfuel](https://www.everfuel.com/)
 * [FORVIA](https://www.forvia.com/)
   * [Symbio](https://www.symbio.one/)
 * [Form Energy](https://en.wikipedia.org/wiki/Form_Energy)
