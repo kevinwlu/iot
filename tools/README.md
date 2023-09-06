@@ -141,6 +141,7 @@
 * [Originality.AI](https://originality.ai/)
 ## Data Analysis and Visulization
 * [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
+* [Avizo](https://en.wikipedia.org/wiki/Avizo_(software))
 * [Google Marketing Platform](https://en.wikipedia.org/wiki/Google_Marketing_Platform)
   * [Google Data Studio](https://marketingplatform.google.com/about/data-studio/)
 * [Pivot table](https://en.wikipedia.org/wiki/Pivot_table)
