@@ -86,6 +86,7 @@
   * [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) (VR)
     * [Real image](https://en.wikipedia.org/wiki/Real_image)
     * [Virtual image](https://en.wikipedia.org/wiki/Virtual_image)
+    * [Head-mounted display](https://en.wikipedia.org/wiki/Head-mounted_display) (HMD)
     * [Nanome](https://nanome.ai/)
   * [Mixed reality](https://en.wikipedia.org/wiki/Mixed_reality) (MR)
     * [Apple Vision Pro](https://en.wikipedia.org/wiki/Apple_Vision_Pro)
