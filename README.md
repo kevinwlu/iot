@@ -124,6 +124,7 @@ Electrical Engineering EE 629
 * [American Radio Relay League](https://en.wikipedia.org/wiki/American_Radio_Relay_League) (ARRL)
 * [Association for Smarter Home and Buildings](https://www.ashb.com/) (ASHB)
 * [Augmented World Expo](https://www.awexr.com/) (AWE)
+* [Automotive Open System Architecture](https://en.wikipedia.org/wiki/AUTOSAR) (AUTOSAR)
 * [Consumer Technology Association](https://en.wikipedia.org/wiki/Consumer_Technology_Association) (CTA)
   * [Consumer Electronics Show](https://en.wikipedia.org/wiki/Consumer_Electronics_Show) (CES)
 * [Crowd Supply](https://en.wikipedia.org/wiki/Crowd_Supply)
