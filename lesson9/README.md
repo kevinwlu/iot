@@ -78,6 +78,7 @@
 * ["It from bit"](https://plus.maths.org/content/it-bit) by [Rachel Thomas](https://www.linkedin.com/in/rachel-thomas-a25a59a/)
 * ["Information, physics, quantum: the search for links"](https://jawarchive.files.wordpress.com/2012/03/informationquantumphysics.pdf) by [John Archibald Wheeler
 ](https://en.wikipedia.org/wiki/John_Archibald_Wheeler) 1911&mdash;2008
+* [Quantum Computing Is the Future, and Schools Need to Catch Up](https://www.scientificamerican.com/article/quantum-computing-is-the-future-and-schools-need-to-catch-up/)
 ### Quantum Mechanics
 * [Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
 * [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
