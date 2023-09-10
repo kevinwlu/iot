@@ -13,3 +13,6 @@
   * [Botany](https://en.wikipedia.org/wiki/Botany)
 * [Shazam (application)](https://en.wikipedia.org/wiki/Shazam_(application))
 * [Vysor](https://github.com/koush/vysor.io) app to control iOS or Android phones on desktop computers
+## Social Network
+* [Fizz](https://fizzsocial.app/)
+* [Saturn](https://www.joinsaturn.com/)
