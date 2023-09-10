@@ -14,6 +14,7 @@
 * [Shazam (application)](https://en.wikipedia.org/wiki/Shazam_(application))
 * [Vysor](https://github.com/koush/vysor.io) app to control iOS or Android phones on desktop computers
 ## Social Media Apps
+* [Anonymous social media](https://en.wikipedia.org/wiki/Anonymous_social_media)
 * [Fizz](https://fizzsocial.app/)
 * [Gas (app)](https://en.wikipedia.org/wiki/Gas_(app))
 * [Saturn](https://www.joinsaturn.com/)
