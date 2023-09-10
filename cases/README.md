@@ -207,6 +207,7 @@
 ## Environmental and Social
 * [Corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility) (CSR)
 * [Environmental, social, and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
+* [Greenhouse gas emissions](https://en.wikipedia.org/wiki/Greenhouse_gas_emissions)
 * [Greenspark](https://www.getgreenspark.com/)
 * [Humance](https://humance.io/en)
 * [Pollution](https://en.wikipedia.org/wiki/Pollution)
