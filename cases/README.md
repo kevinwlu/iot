@@ -323,6 +323,9 @@
 * [Shift Robotics](https://shiftrobotics.io/)
 * [SOMATIC](https://getsomatic.com/)
 * [Viam](https://www.viam.com/)
+## Security
+* [Ghaf Framework](https://github.com/tiiuae/ghaf-riscv)
+  * [Nix (package manager)](https://en.wikipedia.org/wiki/Nix_(package_manager))
 ## Space
 * [AI SpaceFactory](https://www.aispacefactory.com/)
 * [Comparison of orbital launch systems](https://en.wikipedia.org/wiki/Comparison_of_orbital_launch_systems)
