@@ -15,4 +15,5 @@
 * [Vysor](https://github.com/koush/vysor.io) app to control iOS or Android phones on desktop computers
 ## Social Apps
 * [Fizz](https://fizzsocial.app/)
+* [Gas (app)](https://en.wikipedia.org/wiki/Gas_(app))
 * [Saturn](https://www.joinsaturn.com/)
