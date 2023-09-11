@@ -63,6 +63,7 @@
 * [Arrive](https://www.arrive.tech/)
 * [Caltech Multi-Modal Mobility Morphobot](https://www.caltech.edu/about/news/new-bioinspired-robot-flies-rolls-walks-and-more) (M4)
   * [YouTube video](https://www.youtube.com/watch?v=J91jTI2-k_U)
+* [Clevon](https://clevon.com/) on-demand autonomous delivery
 * [DroneUp](https://www.droneup.com/)
 * [Heven Drones](https://www.hevendrones.com/)
 * [Manna Drone Delivery](https://www.manna.aero/)
