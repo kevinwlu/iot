@@ -94,7 +94,7 @@
 * [Ample](https://ample.com/)
 * ANIONZ, formerly [ALGOLiON](https://www.algolion.com/)
 * [Anovion](https://www.anoviontech.com/)
-* [Ascend Elements](https://ascendelements.com/)
+* [Ascend Elements](https://ascendelements.com/) electric-vehicle battery recycling company
 * [Autel Energy](https://autelenergy.us/)
 * [Battery management system](https://en.wikipedia.org/wiki/Battery_management_system) (BMS)
 * [Bel](https://www.belfuse.com/)
