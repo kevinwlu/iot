@@ -432,6 +432,7 @@
 * [Acer ebii](https://www.acer.com/ebii/us-en/index.html)
 * [Adient](https://en.wikipedia.org/wiki/Adient)
 * [Alpha Motor Corporation](https://en.wikipedia.org/wiki/Alpha_Motor_Corporation)
+* [Altos Radar](https://www.altosradar.com/)
 * [Apple electric car project](https://en.wikipedia.org/wiki/Apple_electric_car_project)
 * [Aptiv](https://en.wikipedia.org/wiki/Aptiv)
 * [Argo AI](https://en.wikipedia.org/wiki/Argo_AI)
