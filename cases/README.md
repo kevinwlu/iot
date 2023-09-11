@@ -436,6 +436,7 @@
 * [Charging station](https://en.wikipedia.org/wiki/Charging_station)
 * [ClearFlame Engine Technologies](https://www.clearflame.com/)
 * [Cruise](https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle))
+* [DeepRoute.ai](https://en.wikipedia.org/wiki/DeepRoute.ai)
 * [Einride](https://en.wikipedia.org/wiki/Einride)
 * [Elbee](https://www.elbeemobility.com/)
 * [Elektrobit](https://www.elektrobit.com/)
