@@ -481,6 +481,7 @@
 * [Sonatus](https://www.sonatus.com/)
 * [Spin](https://en.wikipedia.org/wiki/Spin_(company))
   * [A Pi-culiar Discovery](https://www.hackster.io/news/a-pi-culiar-discovery-322fce581415)
+* [Stack AV](https://stackav.com/)
 * [Terra EV](https://www.terra-ev.com/)
 * [Tesla Autopilot](https://en.wikipedia.org/wiki/Tesla_Autopilot)
 * [Tevva](https://www.tevva.com/en) merged with [ElectraMeccanica](https://www.emvauto.com/)
@@ -501,6 +502,7 @@
 * [Wejo](https://en.wikipedia.org/wiki/Wejo)
 * [WeRide](https://en.wikipedia.org/wiki/WeRide)
 * [Winnebago Industries](https://en.wikipedia.org/wiki/Winnebago_Industries)
+* [Woven by Toyota, Inc.](https://en.wikipedia.org/wiki/Woven_by_Toyota,_Inc.)
 * [ZF Friedrichshafen](https://en.wikipedia.org/wiki/ZF_Friedrichshafen)
 * [Zoox](https://en.wikipedia.org/wiki/Zoox_(company))
 ## Transportation: Water
