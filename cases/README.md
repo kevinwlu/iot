@@ -194,6 +194,7 @@
 * [VerAI](https://ver-ai.com/)
 * [Volta Energy Technologies](https://volta.vc/)
 * [Voltaiq](https://www.voltaiq.com/)
+* [WAE Technologies](https://wae.com/), a [Fortescue Metals Group](https://en.wikipedia.org/wiki/Fortescue_Metals_Group) Company
 * [Wiferion](https://www.wiferion.com/us/)
 * [Yotta Energy](https://www.yottaenergy.com/)
 * [ZEV Station](https://zev-station.com/)
