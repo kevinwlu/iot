@@ -442,6 +442,7 @@
 * [Autotalks](https://auto-talks.com/)
 * [Autzu](https://www.autzu.com/)
 * [AYRO](https://www.ayro.com/)
+* [Beep](https://ridebeep.com/) electric autonomous shuttle
 * [Canoo](https://en.wikipedia.org/wiki/Canoo)
 * [Canyon Bicycles](https://en.wikipedia.org/wiki/Canyon_Bicycles)
 * [Charging station](https://en.wikipedia.org/wiki/Charging_station)
