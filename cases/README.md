@@ -478,6 +478,7 @@
 * [Nikola Corporation](https://en.wikipedia.org/wiki/Nikola_Corporation)
 * [Nuro](https://en.wikipedia.org/wiki/Nuro)
 * [Orange EV](https://orangeev.com/)
+* [Oxa](https://en.wikipedia.org/wiki/Oxa)
 * [Pony.ai](https://en.wikipedia.org/wiki/Pony.ai)
 * [rFpro](https://en.wikipedia.org/wiki/RFpro)
 * [Rivian](https://en.wikipedia.org/wiki/Rivian)
