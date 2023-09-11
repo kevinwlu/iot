@@ -19,6 +19,7 @@
 * [FarmVibes](https://www.microsoft.com/en-us/research/project/project-farmvibes/)
   * [Farmvibes.AI](https://github.com/microsoft/farmvibes-ai)
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
+* [New Holland Agriculture](https://en.wikipedia.org/wiki/New_Holland_Agriculture)
 * [Pyka](https://www.flypyka.com/)
 * [Tevel Aerobotics](https://www.tevel-tech.com/) Flying Autonomous Robots
 * [Xiang Tian Agriculture](https://www.sdxiangtian.cn/)
@@ -437,6 +438,7 @@
 * [Autoliv](https://en.wikipedia.org/wiki/Autoliv)
 * [Autotalks](https://auto-talks.com/)
 * [Autzu](https://www.autzu.com/)
+* [AYRO](https://www.ayro.com/)
 * [Canoo](https://en.wikipedia.org/wiki/Canoo)
 * [Canyon Bicycles](https://en.wikipedia.org/wiki/Canyon_Bicycles)
 * [Charging station](https://en.wikipedia.org/wiki/Charging_station)
