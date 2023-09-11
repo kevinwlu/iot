@@ -135,6 +135,7 @@
   * [General Fusion](https://en.wikipedia.org/wiki/General_Fusion)
   * [Helion Energy](https://en.wikipedia.org/wiki/Helion_Energy)
 * [Fusion ignition](https://en.wikipedia.org/wiki/Fusion_ignition)
+* [Group14](https://group14.technology/en/)
 * [HH2E](https://www.hh2e.de/en/)
 * [Hydrogen economy](https://en.wikipedia.org/wiki/Hydrogen_economy)
 * [INEOS](https://en.wikipedia.org/wiki/Ineos)
