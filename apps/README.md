@@ -13,7 +13,8 @@
   * [Botany](https://en.wikipedia.org/wiki/Botany)
 * [Shazam (application)](https://en.wikipedia.org/wiki/Shazam_(application))
 * [Vysor](https://github.com/koush/vysor.io) app to control iOS or Android phones on desktop computers
-## Graphics Editors
+## Raster Graphics Editors
+* [Raster graphics](https://en.wikipedia.org/wiki/Raster_graphics)
 * [Procreate (software)](https://en.wikipedia.org/wiki/Procreate_(software))
 ## Social Media Apps
 * [Social media](https://en.wikipedia.org/wiki/Social_media)
