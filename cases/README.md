@@ -382,6 +382,7 @@
 * [BLADE Air Mobility](https://en.wikipedia.org/wiki/Blade_(company))
 * [Boeing Truss-Braced Wing](https://en.wikipedia.org/wiki/Boeing_Truss-Braced_Wing)
 * [Boom Technology](https://en.wikipedia.org/wiki/Boom_Technology)
+* [Bristow](https://www.bristowgroup.com/)
 * [Cosmic Aerospace](https://www.cosmicaerospace.com/)
 * [DLR HY4](https://en.wikipedia.org/wiki/DLR_HY4)
 * [EHang](https://en.wikipedia.org/wiki/EHang)
