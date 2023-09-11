@@ -161,6 +161,7 @@
 * [Nighttime photovoltaic (PV) cells](https://aip.scitation.org/doi/10.1063/5.0085205)
 * [Northvolt](https://en.wikipedia.org/wiki/Northvolt)
 * [Nyobolt](https://nyobolt.com/)
+* [ONE](https://one.ai/) our next energy storage for electric vehicles and the grid
 * [Ørsted](https://en.wikipedia.org/wiki/%C3%98rsted_(company))
 * [OXCCU](https://www.oxccu.com/)
 * [Plug Power](https://en.wikipedia.org/wiki/Plug_Power)
