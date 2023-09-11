@@ -339,7 +339,7 @@
 * [Blue Origin](https://en.wikipedia.org/wiki/Blue_Origin)
 * [Firefly Aerospace](https://en.wikipedia.org/wiki/Firefly_Aerospace)
 * [GITAI](https://gitai.tech/)
-* [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter))
+* [Ingenuity (helicopter)](https://en.wikipedia.org/wiki/Ingenuity_(helicopter))
 * [Intuitive Machines](https://en.wikipedia.org/wiki/Intuitive_Machines)
 * [Isar Aerospace](https://en.wikipedia.org/wiki/Isar_Aerospace)
 * [ispace](https://en.wikipedia.org/wiki/Ispace_(Japanese_company))
