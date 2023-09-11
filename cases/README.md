@@ -389,6 +389,7 @@
 * [Eviation Alice](https://en.wikipedia.org/wiki/Eviation_Alice)
 * [Faradair Aerospace BEHA](https://en.wikipedia.org/wiki/Faradair_Aerospace_BEHA)
 * [GKN Aerospace](https://www.gknaerospace.com/)
+* [Gulfstream Aerospace](https://en.wikipedia.org/wiki/Gulfstream_Aerospace)
 * [JetZero](https://www.jetzero.aero/)
 * [Joby Aviation](https://en.wikipedia.org/wiki/Joby_Aviation)
   * [H2FLY](https://www.h2fly.de/)
