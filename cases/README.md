@@ -114,6 +114,7 @@
 * [Electric Era Technologies](https://electriceratechnologies.com/)
 * [Electric Power Research Institute](https://en.wikipedia.org/wiki/Electric_Power_Research_Institute) (EPRI)
   * [EVs2Scale2030](https://restservice.epri.com/publicdownload/000000003002025622/0/Product)
+* [Electrofuel](https://en.wikipedia.org/wiki/Electrofuel) (e-fuels)
 * [Element 25](https://www.element25.com.au/)
 * [Enel X](https://en.wikipedia.org/wiki/Enel_X)
 * [Energy Exploration Technologies](https://en.wikipedia.org/wiki/Energy_Exploration_Technologies) (EngeryX)
