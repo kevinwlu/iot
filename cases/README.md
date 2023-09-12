@@ -110,6 +110,7 @@
 * [Chemix](https://chemix.ai/)
 * [Cirba Solutions](https://www.cirbasolutions.com/)
 * [Connected Kerb](https://www.connectedkerb.com/)
+* [dcbel](https://www.dcbel.energy/) residential bidirectional DC charger
 * [Eco Wave Power](https://www.ecowavepower.com/)
   * [Tidal power](https://en.wikipedia.org/wiki/Tidal_power)
   * [Wave power](https://en.wikipedia.org/wiki/Wave_power)
