@@ -223,6 +223,7 @@
   * [Local Law 97](https://www.nyc.gov/site/sustainablebuildings/ll97/local-law-97.page)
   * [Local Law 154](https://www.nyc.gov/assets/buildings/pdf/ll154.pdf)
 * [Accelera](https://www.accelerazero.com/)
+* [Advanced Ionics](https://advanced-ionics.com/) electrolizers for green hydrogen production
 * [Greenspark](https://www.getgreenspark.com/)
 * [Humance](https://humance.io/en)
 * [Pollution](https://en.wikipedia.org/wiki/Pollution)
@@ -362,6 +363,7 @@
 * [NASA Space Tech Industry Partnership](https://www.nasa.gov/directorates/spacetech/solicitations/tipping_points)
 * [OneWeb](https://en.wikipedia.org/wiki/OneWeb)
 * [PLD Space](https://en.wikipedia.org/wiki/PLD_Space)
+* [Psyche (spacecraft)](https://en.wikipedia.org/wiki/Psyche_(spacecraft))
 * [Relativity Space](https://en.wikipedia.org/wiki/Relativity_Space)
 * [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab)
 * [Sierra Space](https://www.sierraspace.com/)
@@ -383,6 +385,7 @@
 * [Sustainable aviation fuels](https://www.energy.gov/eere/bioenergy/sustainable-aviation-fuels) (SAF)
 * [Advanced Air Mobility](https://en.wikipedia.org/wiki/Advanced_Air_Mobility) (AAM)
 * [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
+* [AFuzion](https://afuzion.com/) avionics safety-critical services
 * [AFWERX](https://en.wikipedia.org/wiki/AFWERX)
 * [Airworthiness](https://en.wikipedia.org/wiki/Airworthiness)
 * [Alef Aeronautics](https://en.wikipedia.org/wiki/Alef_Aeronautics)
