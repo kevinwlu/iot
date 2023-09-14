@@ -106,6 +106,7 @@
 * [Stability AI](https://stability.ai/)
 * [Synthesia](https://www.synthesia.io/)
 * [Tome](https://beta.tome.app/)
+* [Trickle](https://www.trickle.so/) transforms screenshots using GPT-4
 ## Book Summarizing
 * [Blinkist](https://en.wikipedia.org/wiki/Blinkist)
 * [BookRag](http://www.bookrags.com/)
