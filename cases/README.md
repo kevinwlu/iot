@@ -201,6 +201,7 @@
 * [Vehicle-to-grid](https://en.wikipedia.org/wiki/Vehicle-to-grid) (V2G)
   * [Duck curve](https://en.wikipedia.org/wiki/Duck_curve)
 * [VerAI](https://ver-ai.com/)
+* [Verkor](https://verkor.com/en/)
 * [Volta Energy Technologies](https://volta.vc/)
 * [Voltaiq](https://www.voltaiq.com/)
 * [WAE Technologies](https://wae.com/), a [Fortescue Metals Group](https://en.wikipedia.org/wiki/Fortescue_Metals_Group) Company
