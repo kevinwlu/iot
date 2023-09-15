@@ -68,6 +68,7 @@
 * [DroneUp](https://www.droneup.com/)
 * [Heven Drones](https://www.hevendrones.com/)
 * [Manna Drone Delivery](https://www.manna.aero/)
+* [Qinetiq](https://en.wikipedia.org/wiki/Qinetiq)
 * [Saildrone](https://en.wikipedia.org/wiki/Saildrone_(company))
 * [Skydio](https://en.wikipedia.org/wiki/Skydio)
 * [Starship Technologies](https://en.wikipedia.org/wiki/Starship_Technologies)
