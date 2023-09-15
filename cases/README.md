@@ -408,6 +408,7 @@
 * [Faradair Aerospace BEHA](https://en.wikipedia.org/wiki/Faradair_Aerospace_BEHA)
 * [GKN Aerospace](https://www.gknaerospace.com/)
 * [Gulfstream Aerospace](https://en.wikipedia.org/wiki/Gulfstream_Aerospace)
+* [Hybrid Air Vehicles](https://en.wikipedia.org/wiki/Hybrid_Air_Vehicles) (HAV)
 * [JetZero](https://www.jetzero.aero/)
 * [Joby Aviation](https://en.wikipedia.org/wiki/Joby_Aviation)
   * [H2FLY](https://www.h2fly.de/)
