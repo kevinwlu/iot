@@ -8,6 +8,7 @@
   * [TensorFlow Lite](https://www.tensorflow.org/lite)
   * [Tensor Processing Unit](https://en.wikipedia.org/wiki/Tensor_Processing_Unit) (TPU)
   * [Edge TPU](https://cloud.google.com/edge-tpu)
+* [Libre Computer Project](https://en.wikipedia.org/wiki/Libre_Computer_Project)
 * [MangoPi-MQ Pro](https://mangopi.cc/mangopi_mqpro)
   * [Tina Linux](https://d1.docs.aw-ol.com/en/study/study_1tina/)
 * [NVIDIA Jetson](https://en.wikipedia.org/wiki/Nvidia_Jetson)
