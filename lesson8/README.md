@@ -161,6 +161,7 @@
 * [Convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN)
 * [Generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network) (GAN)
   * [Anomaly detection](https://en.wikipedia.org/wiki/Anomaly_detection)
+  * [f-AnoGAN](https://github.com/A03ki/f-AnoGAN) fast unsupervised anomaly detection
   * [Wasserstein GAN](https://en.wikipedia.org/wiki/Wasserstein_GAN) (WGAN)
 * [Generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
 * [Graph neural network](https://en.wikipedia.org/wiki/Graph_neural_network) (GNN)
