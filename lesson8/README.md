@@ -160,6 +160,7 @@
 * [Deep reinforcement learning](https://en.wikipedia.org/wiki/Deep_reinforcement_learning) (DRL)
 * [Convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN)
 * [Recurrent neural network](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN)
+  * [Long short-term memory](https://en.wikipedia.org/wiki/Long_short-term_memory) (LSTM)
 * [Generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network) (GAN)
   * [Anomaly detection](https://en.wikipedia.org/wiki/Anomaly_detection)
   * [f-AnoGAN](https://github.com/A03ki/f-AnoGAN) fast unsupervised anomaly detection
