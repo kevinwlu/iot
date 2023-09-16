@@ -159,6 +159,7 @@
   > A true dream is spoken of as coming through the gate of horn, a false dream as coming through the gate of ivory
 * [Deep reinforcement learning](https://en.wikipedia.org/wiki/Deep_reinforcement_learning) (DRL)
 * [Convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN)
+* [Recurrent neural network](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN)
 * [Generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network) (GAN)
   * [Anomaly detection](https://en.wikipedia.org/wiki/Anomaly_detection)
   * [f-AnoGAN](https://github.com/A03ki/f-AnoGAN) fast unsupervised anomaly detection
