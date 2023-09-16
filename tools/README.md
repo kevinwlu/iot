@@ -45,6 +45,7 @@
   * [ERNIE Bot](https://yiyan.baidu.com/)
 * [Canopy](https://canopyai.xyz/): Realistic AI interviews
 * [Cerelyze](https://www.cerelyze.com/): Turn technical research papers into useable code
+* [Codeium](https://codeium.com/)
 * [Copy.ai](https://www.copy.ai/)
 * [CustomGPT](https://customgpt.ai/)
 * [Deepen](https://www.deepen.ai/) multi-sensor data labelling and calibration tools and services to accelerate computer vision training for autonomous vehicles and robotics
@@ -105,6 +106,7 @@
   * [My AI](https://newsroom.snap.com/say-hi-to-my-ai), February 27, 2023
 * [Stability AI](https://stability.ai/)
 * [Synthesia](https://www.synthesia.io/)
+* [Tabnine](https://www.tabnine.com/)
 * [Tome](https://beta.tome.app/)
 * [Trickle](https://www.trickle.so/) transforms screenshots using GPT-4
 ## Book Summarizing
