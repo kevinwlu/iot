@@ -166,6 +166,7 @@
   * [f-AnoGAN](https://github.com/A03ki/f-AnoGAN) fast unsupervised anomaly detection
   * [U-Net GAN](https://github.com/boschresearch/unetgan)
   * [Wasserstein GAN](https://en.wikipedia.org/wiki/Wasserstein_GAN) (WGAN)
+  * [Monte Carlo dropout](https://docs.aws.amazon.com/prescriptive-guidance/latest/ml-quantifying-uncertainty/mc-dropout.html)
 * [Generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
 * [Graph neural network](https://en.wikipedia.org/wiki/Graph_neural_network) (GNN)
 * [Nervous system](https://en.wikipedia.org/wiki/Nervous_system)
