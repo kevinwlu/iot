@@ -160,6 +160,7 @@
 * [Deep reinforcement learning](https://en.wikipedia.org/wiki/Deep_reinforcement_learning) (DRL)
 * [Convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN)
 * [Generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network) (GAN)
+  * [Wasserstein GAN](https://en.wikipedia.org/wiki/Wasserstein_GAN) (WGAN)
 * [Generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
 * [Graph neural network](https://en.wikipedia.org/wiki/Graph_neural_network) (GNN)
 * [Nervous system](https://en.wikipedia.org/wiki/Nervous_system)
