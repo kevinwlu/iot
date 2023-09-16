@@ -180,6 +180,7 @@
 * [Large language model](https://en.wikipedia.org/wiki/Large_language_model) (LLM)
   * [The Dark Risk of Large Language Models](https://www.wired.com/story/large-language-models-artificial-intelligence/)
   * [Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
+  * [Attention (machine learning)](https://en.wikipedia.org/wiki/Attention_(machine_learning))
   * [Shoggoth](https://en.wikipedia.org/wiki/Shoggoth)
   * [Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity)
   * [Guardrails](https://shreyar.github.io/guardrails/) Python package
