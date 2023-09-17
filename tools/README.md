@@ -39,6 +39,7 @@
   * [Technology readiness level](https://en.wikipedia.org/wiki/Technology_readiness_level) (TRL)
 * [AI Query](https://www.aiquery.co/)
 * [AI Code Reviewer](https://ai-code-reviewer.com/)
+* [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 * [AnimeGAN.js](https://animegan.js.org/)
 * [Baidu](https://en.wikipedia.org/wiki/Baidu)
   * [How to register Baidu account outside China](https://www.adchina.io/how-to-open-a-baidu-account-outside-china/)
@@ -46,6 +47,7 @@
 * [Canopy](https://canopyai.xyz/): Realistic AI interviews
 * [Cerelyze](https://www.cerelyze.com/): Turn technical research papers into useable code
 * [Codeium](https://codeium.com/)
+* [CodeGPT](https://codegpt.co/) by [Judini](https://judini.ai/)
 * [Copy.ai](https://www.copy.ai/)
 * [CustomGPT](https://customgpt.ai/)
 * [Deepen](https://www.deepen.ai/) multi-sensor data labelling and calibration tools and services to accelerate computer vision training for autonomous vehicles and robotics
@@ -53,11 +55,11 @@
 * [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
 * [GPTZero](https://gptzero.me/) requires at least 250 characters
 * [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot)
-  * [GitHub Copilot X](https://github.com/features/preview/copilot-x)
+* [GitHub Copilot X](https://github.com/features/preview/copilot-x)
 * [Google AI](https://ai.google/tools/)
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
   * [Bard](https://bard.google.com/)
-  * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+  * [Colab](https://colab.research.google.com/)
   * [DreamFusion](https://dreamfusion3d.github.io/)
   * [Foundation models](https://ai.google/discover/foundation-models/)
   * [Google I/O](https://io.google/)
@@ -67,8 +69,10 @@
   * [PaLM2](https://ai.google/discover/palm2/)
     * [Med-PaLM](https://sites.research.google/med-palm/)
     * [Sec-PaLM](https://cloud.google.com/blog/products/identity-security/rsa-google-cloud-security-ai-workbench-generative-ai)
+  * [Studio Bot](https://developer.android.com/studio/preview/studio-bot)
 * [Google Research](https://research.google/tools/)
 * [Ghostwriter](https://replit.com/site/ghostwriter) by [Replit](https://en.wikipedia.org/wiki/Replit)
+* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) 
 * [HTTPie](https://httpie.io/)
 * [Hugging Face](https://en.wikipedia.org/wiki/Hugging_Face)
   * [HuggingGPT](https://huggingface.co/spaces/microsoft/HuggingGPT)
@@ -83,7 +87,7 @@
   * [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), February 24, 2023
 * [Natural language generation](https://en.wikipedia.org/wiki/Natural_language_generation) (NLG)
 * [OpenAI](https://openai.com/)
-  * [ChatGPT](https://chat.openai.com/chat)
+  * [ChatGPT](https://chat.openai.com/)
   * [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins), March 23, 2023
   * [AI Text Classifier](https://platform.openai.com/ai-text-classifier) requires at least 1,000 characters, which is approximately 150 - 250 words
 * [Perplexity AI](https://www.perplexity.ai/)
