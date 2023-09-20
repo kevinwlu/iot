@@ -24,6 +24,7 @@
 * [List of 3D printer manufacturers](https://en.wikipedia.org/wiki/List_of_3D_printer_manufacturers)
 * [Creality](https://en.wikipedia.org/wiki/Creality)
 * [MakerBot](https://en.wikipedia.org/wiki/MakerBot)
+* [Prusa](https://www.prusa3d.com/)
 * [RepRap project](https://en.wikipedia.org/wiki/RepRap_project)
 * [Ultimaker](https://en.wikipedia.org/wiki/Ultimaker)
 ## Animation
