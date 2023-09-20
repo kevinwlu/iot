@@ -22,6 +22,7 @@
 ## 3D Printing
 * [3D printing](https://en.wikipedia.org/wiki/3D_printing)
 * [List of 3D printer manufacturers](https://en.wikipedia.org/wiki/List_of_3D_printer_manufacturers)
+* [Comparison of 3D printers](https://en.wikipedia.org/wiki/Comparison_of_3D_printers)
 * [Creality](https://en.wikipedia.org/wiki/Creality)
 * [MakerBot](https://en.wikipedia.org/wiki/MakerBot)
 * [Prusa](https://en.wikipedia.org/wiki/Prusa_i3)
