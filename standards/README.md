@@ -60,6 +60,8 @@
   * [IEEE P1918.1](https://standards.ieee.org/ieee/1918.1/6721/) Standard for Tactile Internet: Application Scenarios, Definitions and Terminology, Architecture, Functions, and Technical Assumptions
   * [IEEE 2050-2018](https://standards.ieee.org/ieee/2050/7178/) Standard for a Real-Time Operating System (RTOS) for Small-Scale Embedded Systems
     * [Micro T-Kernel](https://en.wikipedia.org/wiki/Micro_T-Kernel)
+  * [IEEE 2089-2021](https://standards.ieee.org/ieee/2089/7633/) Standard for an Age Appropriate Digital Services Framework Based on the 5Rights Principles for Children
+    * [CEN/CENELEC Workshop Agreement (CWA) 18016 Age Appropriate Digital Services Framework](https://www.cencenelec.eu/news-and-events/news/2023/eninthespotlight/2023-09-14-cwa-18016-children-protection-online/)
   * [IEEE P2418.1](https://standards.ieee.org/ieee/2418.1/10460/) Standard for the Framework of Blockchain Use in Internet of Things (IoT)
   * [IEEE Ethics in Action in Autonomous and Intelligent Systems](https://ethicsinaction.ieee.org/)
     * [IEEE 7000 series of standards](https://ethicsinaction.ieee.org/p7000/)
