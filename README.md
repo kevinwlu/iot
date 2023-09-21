@@ -198,6 +198,8 @@ Electrical Engineering EE 629
   * [IoTivity](https://en.wikipedia.org/wiki/IoTivity)
 * [one6G](https://one6g.org/)
 * [OpenCAPI Consortium](https://opencapi.org/)
+* [Open Grid Alliance](https://www.opengridalliance.org/) (OGA)
+* [Open Grid Forum](https://en.wikipedia.org/wiki/Open_Grid_Forum) (OGF)
 * [Open Handset Alliance](https://en.wikipedia.org/wiki/Open_Handset_Alliance) (OHA)
 * [O-RAN Alliance](https://www.o-ran.org/)
   * [Open Test and Integration Center](https://www.o-ran.org/otics) (OTIC)
