@@ -165,6 +165,11 @@
 ## Languages
 * [Duolingo](https://en.wikipedia.org/wiki/Duolingo)
 * [Forvo](https://en.wikipedia.org/wiki/Forvo)
+## Naming
+* [Abjad](https://en.wikipedia.org/wiki/Abjad)
+* [Blend word](https://en.wikipedia.org/wiki/Blend_word)
+* [Disemvoweling](https://en.wikipedia.org/wiki/Disemvoweling)
+* [Numeronym](https://en.wikipedia.org/wiki/Numeronym)
 ## Note Taking
 * [Google Keep](https://en.wikipedia.org/wiki/Google_Keep)
 * [Liffery](https://www.liffery.com/)
