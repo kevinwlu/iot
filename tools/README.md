@@ -111,6 +111,7 @@
 * [Snapchat](https://en.wikipedia.org/wiki/Snapchat)
   * [My AI](https://newsroom.snap.com/say-hi-to-my-ai), February 27, 2023
 * [Stability AI](https://stability.ai/)
+* [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
 * [Synthesia](https://www.synthesia.io/)
 * [Tabnine](https://www.tabnine.com/)
 * [Tome](https://beta.tome.app/)
