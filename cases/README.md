@@ -302,7 +302,7 @@
 * [Boxabl](https://www.boxabl.com/)
 * [Chirp](https://en.wikipedia.org/wiki/Chirp_(company))
 * [Enabot](https://na.enabot.com/)
-* [Home Assistant](https://www.home-assistant.io/)
+* [Home Assistant](https://en.wikipedia.org/wiki/Home_Assistant)
 * [Lawna](https://www.lawnatech.com/)
 * [MagicMirror](https://magicmirror.builders/)
 * [Otter](https://withotter.com/)
