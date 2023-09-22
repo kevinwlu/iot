@@ -22,6 +22,7 @@
 * [Make: Makerthon](https://makezine.com/tag/makerthon/)
 * [Seeed Studio XIAO Starter Kit Courses](https://wiki.seeedstudio.com/XIAO-Kit-Courses/)
 * [Tindie](https://www.tindie.com/)
+  * [MH-EDU-Electronics](https://www.tindie.com/stores/mh-edu/)
 * [USC Make-a-Thon](https://www.uscmakeathon.com/)
 ## Sensors
 * [Sensor](https://en.wikipedia.org/wiki/Sensor)
