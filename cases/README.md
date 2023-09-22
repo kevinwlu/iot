@@ -36,6 +36,8 @@
 * [0G Project](http://n4wwwgzppoxfqgh4d37fjl4yanfiwhdr3rocjegzpyhlu2wesmrbknad.onion.ly/)
 * [Affirmed Networks](https://www.affirmednetworks.com/)
 * [Altiostar](https://en.wikipedia.org/wiki/Altiostar)
+* [Blues Wireless](https://blues.io/)
+  * [Ray Ozzie](https://en.wikipedia.org/wiki/Ray_Ozzie)
 * [Cellwize](https://www.cellwize.com/)
 * [Firecell](https://firecell.io/)
 * [HAAS Alert](https://www.haasalert.com/)
