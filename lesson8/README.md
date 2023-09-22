@@ -128,6 +128,7 @@
 * [Automated machine learning](https://en.wikipedia.org/wiki/Automated_machine_learning)
 * [AutoML](https://www.automl.org/) by [Prof. Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/) (University of Freiburg) and [Prof. Marius Lindauer](https://www.tnt.uni-hannover.de/staff/lindauer/) (Leibniz University of Hannover)
 * [Federated learning](https://en.wikipedia.org/wiki/Federated_learning)
+  * [Independent and identically distributed (i.i.d.) random variables](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
 * [tinyML Foundaton](https://www.tinyml.org/)
 * [Harvard Fundamentals of TinyML Course](https://online-learning.harvard.edu/course/fundamentals-tinyml) 
 * [Harvard CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
