@@ -37,6 +37,7 @@
   * [Portenta H7](https://docs.arduino.cc/hardware/portenta-h7)
 * [Processing](https://en.wikipedia.org/wiki/Processing)
 * [Wiring](https://en.wikipedia.org/wiki/Wiring_(development_platform))
+* [PIC microcontrollers](https://en.wikipedia.org/wiki/PIC_microcontrollers)
 * [TinyCircuits](https://tinycircuits.com/)
   * [TinyDuino](https://tinycircuits.com/products/tinyduino-processor-board)
   * [GitHub](https://github.com/TinyCircuits)
