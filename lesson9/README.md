@@ -102,6 +102,7 @@
 * [Quantum superposition](https://en.wikipedia.org/wiki/Quantum_superposition)
 * [Quantum mind](https://en.wikipedia.org/wiki/Quantum_mind)
 * [Quantum readout](https://en.wikipedia.org/wiki/Quantum_readout)
+* [Quantum teleportation](https://en.wikipedia.org/wiki/Quantum_teleportation)
 ### Quantum Standards
 * [IEEE Quantum](https://quantum.ieee.org/)
   * IEEE [P1913](https://standards.ieee.org/ieee/1913/6720/) Software-Defined Quantum Communication
