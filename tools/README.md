@@ -52,6 +52,7 @@
 * [CodeGPT](https://codegpt.co/) by [Judini](https://judini.ai/)
 * [Copy.ai](https://www.copy.ai/)
 * [CustomGPT](https://customgpt.ai/)
+* [Deep Render](https://deeprender.ai/)
 * [Deepen](https://www.deepen.ai/) multi-sensor data labelling and calibration tools and services to accelerate computer vision training for autonomous vehicles and robotics
 * [DeepL](https://www.deepl.com/)
 * [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
