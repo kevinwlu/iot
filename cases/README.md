@@ -23,6 +23,10 @@
 * [Pyka](https://www.flypyka.com/)
 * [Tevel Aerobotics](https://www.tevel-tech.com/) Flying Autonomous Robots
 * [Xiang Tian Agriculture](https://www.sdxiangtian.cn/)
+## Biotechnology and Biopharmaceutical
+* [Biopharmaceutical](https://en.wikipedia.org/wiki/Biopharmaceutical)
+* [Biotechnology](https://en.wikipedia.org/wiki/Biotechnology)
+* [Scala Biodesign](https://www.scala-bio.com/)
 ## Climate and Weather
 * [Environmental effects of aviation](https://en.wikipedia.org/wiki/Environmental_effects_of_aviation)
   * [Contrail](https://en.wikipedia.org/wiki/Contrail)
