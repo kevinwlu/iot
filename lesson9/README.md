@@ -100,6 +100,7 @@
 * [Quantum information](https://en.wikipedia.org/wiki/Quantum_information)
 * [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
 * [Quantum superposition](https://en.wikipedia.org/wiki/Quantum_superposition)
+* [Quantum annealing](https://en.wikipedia.org/wiki/Quantum_annealing)
 * [Quantum mind](https://en.wikipedia.org/wiki/Quantum_mind)
 * [Quantum readout](https://en.wikipedia.org/wiki/Quantum_readout)
 ### Quantum Standards
