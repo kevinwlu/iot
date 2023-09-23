@@ -108,6 +108,7 @@
 * [Peppertype.ai](https://www.peppertype.ai/)
 * [Personal.ai](https://www.personal.ai/)
 * [Posemaniacs](https://www.posemaniacs.com/en)
+* [Rewind AI](https://www.rewind.ai/)
 * [Shuffle](https://shuffle.dev/)
   * [Shuffle Assistant](https://shuffle.dev/chat)
 * [Snapchat](https://en.wikipedia.org/wiki/Snapchat)
