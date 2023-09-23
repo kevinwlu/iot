@@ -115,6 +115,7 @@
 * [Timeline of quantum computing and communication](https://en.wikipedia.org/wiki/Timeline_of_quantum_computing_and_communication)
 * [List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
   * [D-Wave Systems](https://en.wikipedia.org/wiki/D-Wave_Systems)
+    * [Adiabatic quantum computation](https://en.wikipedia.org/wiki/Adiabatic_quantum_computation) (AQC)
     * [D-Wave Leap](https://cloud.dwavesys.com/leap/)
     * [Superconducting quantum interference device](https://en.wikipedia.org/wiki/SQUID) (SQUID)
   * [Google Quantum AI](https://quantumai.google/)
