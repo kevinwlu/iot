@@ -125,6 +125,7 @@
 * [OMG](https://en.wikipedia.org/wiki/Object_Management_Group) (Object Management Group)
   * [Cloud Working Group](https://www.omg.org/cloud/)
   * [DDS](https://en.wikipedia.org/wiki/Data_Distribution_Service) (Data Distribution Service)
+* [oneAPI](https://en.wikipedia.org/wiki/OneAPI_(compute_acceleration))
 * [oneM2M](https://en.wikipedia.org/wiki/OneM2M)
   * [Technical specifications](https://www.onem2m.org/technical)
 * [SAE International](https://en.wikipedia.org/wiki/SAE_International)
