@@ -353,6 +353,7 @@
 ## Space
 * [AI SpaceFactory](https://www.aispacefactory.com/)
 * [Comparison of orbital launch systems](https://en.wikipedia.org/wiki/Comparison_of_orbital_launch_systems)
+* [Antaris](https://www.antaris.space/)
 * [Astrobotic Technology](https://en.wikipedia.org/wiki/Astrobotic_Technology)
 * [Axiom Space](https://en.wikipedia.org/wiki/Axiom_Space)
 * [Ball Aerospace & Technologies](https://en.wikipedia.org/wiki/Ball_Aerospace_%26_Technologies) acquired by [BAE Systems](https://en.wikipedia.org/wiki/BAE_Systems)
