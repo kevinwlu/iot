@@ -372,6 +372,7 @@
 * [Mobile User Objective System](https://en.wikipedia.org/wiki/Mobile_User_Objective_System) (MUOS)
 * [NASA Space Tech Industry Partnership](https://www.nasa.gov/directorates/spacetech/solicitations/tipping_points)
 * [OneWeb](https://en.wikipedia.org/wiki/OneWeb)
+* [Planet Labs](https://en.wikipedia.org/wiki/Planet_Labs)
 * [PLD Space](https://en.wikipedia.org/wiki/PLD_Space)
 * [Psyche (spacecraft)](https://en.wikipedia.org/wiki/Psyche_(spacecraft))
 * [Relativity Space](https://en.wikipedia.org/wiki/Relativity_Space)
