@@ -55,6 +55,8 @@
 * [Deepen](https://www.deepen.ai/) multi-sensor data labelling and calibration tools and services to accelerate computer vision training for autonomous vehicles and robotics
 * [DeepL](https://www.deepl.com/)
 * [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
+* [EleutherAI](https://en.wikipedia.org/wiki/EleutherAI)
+  * [GPT-J](https://en.wikipedia.org/wiki/GPT-J)
 * [GPTZero](https://gptzero.me/) requires at least 250 characters
 * [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot)
 * [GitHub Copilot X](https://github.com/features/preview/copilot-x)
