@@ -100,7 +100,6 @@
 * [Quantum information](https://en.wikipedia.org/wiki/Quantum_information)
 * [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
 * [Quantum superposition](https://en.wikipedia.org/wiki/Quantum_superposition)
-* [Quantum annealing](https://en.wikipedia.org/wiki/Quantum_annealing)
 * [Quantum mind](https://en.wikipedia.org/wiki/Quantum_mind)
 * [Quantum readout](https://en.wikipedia.org/wiki/Quantum_readout)
 ### Quantum Standards
@@ -126,6 +125,7 @@
   * [Intel Labs](https://en.wikipedia.org/wiki/Intel_Research_Lablets)
     * [Tunnel Falls Quantum Research Chip](https://www.intel.com/content/www/us/en/research/quantum-computing.html)
   * [IonQ](https://en.wikipedia.org/wiki/IonQ)
+  * [Jiuzhang](https://en.wikipedia.org/wiki/Jiuzhang_(quantum_computer)) photonic quantum computer
   * [PASQAL](https://www.pasqal.com/)
   * [PsiQuantum](https://psiquantum.com/)
   * [Quantinuum](https://www.quantinuum.com/)
@@ -147,6 +147,7 @@
   * [Quantum volume](https://en.wikipedia.org/wiki/Quantum_volume)
   * [Quantum artificial intelligence](https://en.wikipedia.org/wiki/Quantum_artificial_intelligence)
   * [Quantum optimization algorithms](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
+  * [Quantum annealing](https://en.wikipedia.org/wiki/Quantum_annealing)
   * [List of quantum processors](https://en.wikipedia.org/wiki/List_of_quantum_processors)
   * [Superconducting quantum computing](https://en.wikipedia.org/wiki/Superconducting_quantum_computing)
   * [FLOPS](https://en.wikipedia.org/wiki/FLOPS) (floating point operations per second)
