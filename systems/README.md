@@ -15,3 +15,12 @@
   * [Bathtub curve](https://en.wikipedia.org/wiki/Bathtub_curve)
 * [Software supply chain](https://en.wikipedia.org/wiki/Software_supply_chain)
 * [Verification and validation](https://en.wikipedia.org/wiki/Verification_and_validation) (V&V)
+# Project Management
+* [Project management](https://en.wikipedia.org/wiki/Project_management)
+* [Comparison of project management software](https://en.wikipedia.org/wiki/Comparison_of_project_management_software)
+* [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart)
+  * [Henry Gantt](https://en.wikipedia.org/wiki/Henry_Gantt) 1861&mdash;1919
+* [Harmonogram](https://www.pmi.org/learning/library/harmonogram-overlooked-method-scheduling-work-5666)
+  * [Karol Adamiecki](https://en.wikipedia.org/wiki/Karol_Adamiecki) 1866&mdash;1933
+* [Program evaluation and review technique](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique) (PERT)
+* [Critical path method](https://en.wikipedia.org/wiki/Critical_path_method) (CPM)
