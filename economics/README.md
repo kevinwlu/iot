@@ -64,6 +64,8 @@
   * [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore) 1929&mdash;2023
   * [Robert Noyce](https://en.wikipedia.org/wiki/Robert_Noyce) 1927&mdash;1990
   * P. E. Ross, "[5 commandments](https://spectrum.ieee.org/5-commandments)," _IEEE Spectrum_, December 1, 2003
+  * S. K. Moore, "[A Better Way to Measure Progress in Semiconductors](https://spectrum.ieee.org/a-better-way-to-measure-progress-in-semiconductors)," _IEEE Spectrum_, July 21, 2020
+  * S. K. Moore, "[The Node is Nonsense](The node is nonsense)," _IEEE Spectrum_, Vol. 57, No. 8, Aug. 2020, pp. 24-30
 * [Moore's second law](https://en.wikipedia.org/wiki/Moore%27s_second_law) or Rock's law
 * [Huang's law](https://en.wikipedia.org/wiki/Huang%27s_law)
 * [Machrone’s law](https://www.pcmag.com/archive/machrones-law-were-back-baby-121213)
