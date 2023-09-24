@@ -97,6 +97,10 @@
 * [Quantum nonlocality](https://en.wikipedia.org/wiki/Quantum_nonlocality)
 * [Copenhagen interpretation](https://en.wikipedia.org/wiki/Copenhagen_interpretation)
 * [Quantum Bayesianism](https://en.wikipedia.org/wiki/Quantum_Bayesianism) (QBism)
+  * [Bayesian optimization](https://en.wikipedia.org/wiki/Bayesian_optimization)
+  * [Thomas Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes) 1701&mdash;1761
+  * [Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics)
+  * [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)
 * [Quantum information](https://en.wikipedia.org/wiki/Quantum_information)
 * [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
 * [Quantum superposition](https://en.wikipedia.org/wiki/Quantum_superposition)
