@@ -255,7 +255,11 @@
   * [AutoAI](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=models-autoai)
 * IBM ILOG [CPLEX](https://en.wikipedia.org/wiki/CPLEX) Optimization Studio
   * [IBM Decision Optimization](https://github.com/IBMDecisionOptimization)
-
+* [List of statistical software](https://en.wikipedia.org/wiki/List_of_statistical_software)
+* [Comparison of statistical packages](https://en.wikipedia.org/wiki/Comparison_of_statistical_packages)
+  * [Stata](https://en.wikipedia.org/wiki/Stata)
+  * [S](https://en.wikipedia.org/wiki/S_(programming_language))
+  * [R](https://en.wikipedia.org/wiki/R_(programming_language))
 ## Lab 8A: Examples
 
 ### On Windows with [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10), open an Ubuntu terminal and install Python packages as follows
