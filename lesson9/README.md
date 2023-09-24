@@ -115,6 +115,8 @@
 ### Quantum Computing and Communication
 * [Timeline of quantum computing and communication](https://en.wikipedia.org/wiki/Timeline_of_quantum_computing_and_communication)
 * [List of companies involved in quantum computing or communication](https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing_or_communication)
+  * [Amazon Braket](https://aws.amazon.com/braket/)
+    * [GitHub](https://github.com/amazon-braket/amazon-braket-examples)
   * [D-Wave Systems](https://en.wikipedia.org/wiki/D-Wave_Systems)
     * [Adiabatic quantum computation](https://en.wikipedia.org/wiki/Adiabatic_quantum_computation) (AQC)
     * [D-Wave Leap](https://cloud.dwavesys.com/leap/)
