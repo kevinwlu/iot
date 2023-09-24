@@ -80,6 +80,7 @@
 ](https://en.wikipedia.org/wiki/John_Archibald_Wheeler) 1911&mdash;2008
 * [Bridging coherence optics and classical mechanics: A generic light polarization-entanglement complementary relation](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033110) by [Xiao-Feng Qian](https://www.stevens.edu/profile/xqian6) and [Misagh Izadi](https://www.linkedin.com/in/misagh-izadi-4a884b128/)
   * [Stevens Quantum Inspired Coherence Optics Research Group](https://sites.google.com/view/qiangroup)
+  * [Huygens–Fresnel principle](https://en.wikipedia.org/wiki/Huygens%E2%80%93Fresnel_principle)
   * [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) 1629&mdash;1695
   * [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) 1788&mdash;1827
 * [Quantum Computing Is the Future, and Schools Need to Catch Up](https://www.scientificamerican.com/article/quantum-computing-is-the-future-and-schools-need-to-catch-up/)
