@@ -139,8 +139,10 @@
     * [Tunnel Falls Quantum Research Chip](https://www.intel.com/content/www/us/en/research/quantum-computing.html)
   * [IonQ](https://en.wikipedia.org/wiki/IonQ)
   * [Jiuzhang](https://en.wikipedia.org/wiki/Jiuzhang_(quantum_computer)) photonic quantum computer
+  * [Oxford Quantum Circuits](https://oxfordquantumcircuits.com/) (OQC)
   * [PASQAL](https://www.pasqal.com/)
   * [PsiQuantum](https://psiquantum.com/)
+  * [QuEra Computing Inc.](https://en.wikipedia.org/wiki/QuEra_Computing_Inc.)
   * [Quantinuum](https://www.quantinuum.com/)
   * [Rigetti Computing](https://en.wikipedia.org/wiki/Rigetti_Computing)
   * [NQI](https://en.wikipedia.org/wiki/National_Quantum_Initiative_Act) (The National Quantum Initiative Act)
