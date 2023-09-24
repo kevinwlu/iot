@@ -78,8 +78,10 @@
 * [It from bit](https://plus.maths.org/content/it-bit) by [Rachel Thomas](https://www.linkedin.com/in/rachel-thomas-a25a59a/)
 * [Information, physics, quantum: the search for links](https://jawarchive.files.wordpress.com/2012/03/informationquantumphysics.pdf) by [John Archibald Wheeler
 ](https://en.wikipedia.org/wiki/John_Archibald_Wheeler) 1911&mdash;2008
-* [Bridging coherence optics and classical mechanics: A generic light polarization-entanglement complementary relation](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033110) by [Xiao-Feng Qian](https://www.stevens.edu/profile/xqian6) and Misagh Izadi
-  * 
+* [Bridging coherence optics and classical mechanics: A generic light polarization-entanglement complementary relation](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033110) by [Xiao-Feng Qian](https://www.stevens.edu/profile/xqian6) and [Misagh Izadi](https://www.linkedin.com/in/misagh-izadi-4a884b128/)
+  * [Stevens Quantum Inspired Coherence Optics Research Group](https://sites.google.com/view/qiangroup)
+  * [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) 1629&mdash;1695
+  * [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) 1788&mdash;1827
 * [Quantum Computing Is the Future, and Schools Need to Catch Up](https://www.scientificamerican.com/article/quantum-computing-is-the-future-and-schools-need-to-catch-up/)
 ### Quantum Mechanics
 * [Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
