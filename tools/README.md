@@ -28,6 +28,10 @@
 * [Prusa](https://en.wikipedia.org/wiki/Prusa_i3)
 * [RepRap project](https://en.wikipedia.org/wiki/RepRap_project)
 * [Ultimaker](https://en.wikipedia.org/wiki/Ultimaker)
+## Academic Databases
+* [List of academic databases and search engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)
+* [Author-level metrics](https://en.wikipedia.org/wiki/Author-level_metrics)
+* [h-index](https://en.wikipedia.org/wiki/H-index)
 ## Animation
 * [Cascadeur](https://cascadeur.com/)
 ## App Development
