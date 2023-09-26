@@ -75,6 +75,7 @@
 * [Learning curve](https://en.wikipedia.org/wiki/Learning_curve)
 * [David Sarnoff](https://en.wikipedia.org/wiki/David_Sarnoff)
 * [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
+  * [Big *O* notation](https://en.wikipedia.org/wiki/Big_O_notation)
   * [B. Briscoe](https://bobbriscoe.net), [A. Odlyzko](https://en.wikipedia.org/wiki/Andrew_Odlyzko), and B. Tilly, "[Metcalfe's law is wrong](https://spectrum.ieee.org/metcalfes-law-is-wrong)," _IEEE Spectrum_, July 1, 2006
   * B. Metcalfe, "[Metcalfe's law after 40 years of Ethernet](https://ieeexplore.ieee.org/document/6636305)," in _Computer_, vol. 46, no. 12, pp. 26-31, Dec. 2013, doi: 10.1109/MC.2013.374
   * X. Zhang, J. Liu, and Z. Xu "[Tencent and Facebook data validate Metcalfe’s law](https://link.springer.com/article/10.1007/s11390-015-1518-1), _Journal of Computer Science and Technology_, v. 30, pp. 246–251, March 13, 2015, [PDF](http://xingzhou.ac.cn/pdf/zhang-JCST15-Tencent_update.pdf)
