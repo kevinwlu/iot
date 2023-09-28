@@ -31,6 +31,7 @@
   * [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
   * [RP2040](https://en.wikipedia.org/wiki/RP2040)
   * [Picoprobe](https://github.com/raspberrypi/picoprobe)
+  * [Testing PCIe on the Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/testing-pcie-on-raspberry-pi-5) by [Jeff Geerling](https://www.jeffgeerling.com/), September 28, 2023
 * [Free Software Foundation](https://en.wikipedia.org/wiki/Free_Software_Foundation) (FSF)
   * [GNU](https://en.wikipedia.org/wiki/GNU)
   * [GNU Project](https://en.wikipedia.org/wiki/GNU_Project)
