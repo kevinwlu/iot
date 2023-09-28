@@ -36,6 +36,8 @@
     * [Precision Time Protocol](https://en.wikipedia.org/wiki/Precision_Time_Protocol) (PTP)
     * [Northbridge](https://en.wikipedia.org/wiki/Northbridge_(computing)) (NB)
     * [Southbridge](https://en.wikipedia.org/wiki/Southbridge_(computing)) (SB)
+* [Orange Pi](http://www.orangepi.org/)
+* [Rock Pi](https://rockpi.org/)
 * [Free Software Foundation](https://en.wikipedia.org/wiki/Free_Software_Foundation) (FSF)
   * [GNU](https://en.wikipedia.org/wiki/GNU)
   * [GNU Project](https://en.wikipedia.org/wiki/GNU_Project)
