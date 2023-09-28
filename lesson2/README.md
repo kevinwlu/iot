@@ -31,6 +31,8 @@
   * [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
   * [RP2040](https://en.wikipedia.org/wiki/RP2040)
   * [Picoprobe](https://github.com/raspberrypi/picoprobe)
+  * [Northbridge](https://en.wikipedia.org/wiki/Northbridge_(computing)) (NB)
+  * [Southbridge](https://en.wikipedia.org/wiki/Southbridge_(computing)) (SB)
   * [Testing PCIe on the Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/testing-pcie-on-raspberry-pi-5) by [Jeff Geerling](https://www.jeffgeerling.com/), September 28, 2023
 * [Free Software Foundation](https://en.wikipedia.org/wiki/Free_Software_Foundation) (FSF)
   * [GNU](https://en.wikipedia.org/wiki/GNU)
