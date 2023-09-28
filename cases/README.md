@@ -278,6 +278,7 @@
 * [Ottobock](https://en.wikipedia.org/wiki/Ottobock)
   * [Exopulse Mollii Suit](https://www.ottobock.com/en-ex/exopulse-b2c)
 * [Pontosense](https://www.pontosense.com/) 
+* [Saina Health](https://www.sainahealth.com/)
 * [Smart Nora](https://smartnora.com/)
 * [Toi Labs](https://www.toilabs.com/)
 * [Upright](https://www.uprightpose.com/)
