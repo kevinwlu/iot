@@ -32,6 +32,7 @@
   * [RP2040](https://en.wikipedia.org/wiki/RP2040)
   * [Picoprobe](https://github.com/raspberrypi/picoprobe)
   * [Introducing: Raspberry Pi 5!](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/) by Eben Upton, September 28, 2023
+    * [Confucius' Birthday](https://en.wikipedia.org/wiki/Confucius'_Birthday)
   * [Testing PCIe on the Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/testing-pcie-on-raspberry-pi-5) by [Jeff Geerling](https://www.jeffgeerling.com/), September 28, 2023
     * [Precision Time Protocol](https://en.wikipedia.org/wiki/Precision_Time_Protocol) (PTP)
     * [Northbridge](https://en.wikipedia.org/wiki/Northbridge_(computing)) (NB)
