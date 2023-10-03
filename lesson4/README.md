@@ -71,6 +71,7 @@
 * [Internet Engineering Task Force](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (IETF)
   * [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (HTTP)
   * [HTTP cookie](https://en.wikipedia.org/wiki/HTTP_cookie)
+    * [Magic cookie](https://en.wikipedia.org/wiki/Magic_cookie)
   * [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
   * [Hypertext Transfer Protocol Secure](https://en.wikipedia.org/wiki/HTTPS) (HTTPS)
   * [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security) (TLS)
