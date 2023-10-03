@@ -56,8 +56,6 @@
 * [Veea](https://www.veea.com/)
 * [Vilo Living](https://store.viloliving.com/)
 * [Wiwynn](https://www.wiwynn.com/)
-## Cybersecurity
-* [VicOne](https://vicone.com/)
 ## Drones
 * [Toroidal propeller](https://en.wikipedia.org/wiki/Toroidal_propeller)
 * [Uncrewed vehicle](https://en.wikipedia.org/wiki/Uncrewed_vehicle)
@@ -299,6 +297,9 @@
 * [Tetra Technologies](https://tetratec.com/)
 * [TNT Aerospace](https://www.tntaerospace.com/)
 * [Unified numbering system](https://en.wikipedia.org/wiki/Unified_numbering_system) (UNS)
+## Privacy and Security
+* [Cloaked](https://www.cloaked.app/)
+* [VicOne](https://vicone.com/)
 ## Public Services
 * [Food rescue](https://en.wikipedia.org/wiki/Food_rescue)
 * [Olio](https://en.wikipedia.org/wiki/Olio_(app))
