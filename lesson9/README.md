@@ -109,6 +109,7 @@
 * [Quantum information](https://en.wikipedia.org/wiki/Quantum_information)
 * [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
 * [Quantum superposition](https://en.wikipedia.org/wiki/Quantum_superposition)
+* [Quantum dot](https://en.wikipedia.org/wiki/Quantum_dot)
 * [Quantum mind](https://en.wikipedia.org/wiki/Quantum_mind)
 * [Quantum readout](https://en.wikipedia.org/wiki/Quantum_readout)
 * [Quantum teleportation](https://en.wikipedia.org/wiki/Quantum_teleportation)
