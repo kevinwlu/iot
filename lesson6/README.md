@@ -88,7 +88,7 @@
   * [aiocoap](https://github.com/chrysn/aiocoap)
   * [CoAPthon3](https://github.com/Tanganelli/CoAPthon3)
 * [u-blox EVK-R410M-02B](https://www.u-blox.com/en/product/evk-r4)
-  * [m-center](https://www.u-blox.com/en/product/m-center)
+  * [m-center](https://www.u-blox.com/en/product/m-center) cellular evaluation software for Windows
   * [SARA-R4 series AT commands manual](https://content.u-blox.com/sites/default/files/SARA-R4_ATCommands_UBX-17003787.pdf)  
 * [Narrowband IoT](https://en.wikipedia.org/wiki/Narrowband_IoT) (NB-IoT)
 * [LTE-M](https://en.wikipedia.org/wiki/LTE-M) Machine Type Communication
