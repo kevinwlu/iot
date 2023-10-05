@@ -93,7 +93,14 @@
     * Select componets to install: AT script files (u-blox public git repository)
   * [User Guide](https://content.u-blox.com/sites/default/files/EVK-R4_UserGuide_UBX-16029216.pdf)
     * Always send the +CPWROFF AT command before switching off the EVK-R410M-02B according to the User Guide Section 1.15
-  * [SARA-R4 series AT commands manual](https://content.u-blox.com/sites/default/files/SARA-R4_ATCommands_UBX-17003787.pdf)  
+  * [SARA-R4 series AT commands manual](https://content.u-blox.com/sites/default/files/SARA-R4_ATCommands_UBX-17003787.pdf)
+    * [Interprocessor communication](https://en.wikipedia.org/wiki/Inter-process_communication) (IPC)
+    * Mobile equipment control and status
+    * Call control, network service, security
+    * Short messages service
+    * SIM management and toolkit
+    * [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System) (DNS), IP, and SSL/TLS
+    * GPIO, FTP, HTTP, [GNSS](https://en.wikipedia.org/wiki/GNSS_applications), I2C, and MQTT
 * [Narrowband IoT](https://en.wikipedia.org/wiki/Narrowband_IoT) (NB-IoT)
 * [LTE-M](https://en.wikipedia.org/wiki/LTE-M) Machine Type Communication
 * [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System) (GPS)
