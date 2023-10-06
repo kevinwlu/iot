@@ -13,8 +13,10 @@
 * [FERET facial recognition technology](https://en.wikipedia.org/wiki/FERET_(facial_recognition_technology))
 * [FERET database](https://en.wikipedia.org/wiki/FERET_database)
 * [Hasty.ai](https://hasty.ai/docs/mp-wiki/getting-started/introduction) vision AI projects
+* [Roboflow](https://roboflow.com/) to create datasets, train models, and deploy to production
 
 ## 2023 Fall
+* Bee Detection: Counting Objects on Images
 
 ## 2023 Spring
 * [Building Recognition of UAV Remote Sensing Images Based on Mask R-CNN](https://github.com/spark1et/Object-Detection-Based-on-Mask-R-CNN)
