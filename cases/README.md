@@ -315,6 +315,7 @@
 * [Otter](https://withotter.com/)
 * [Wyze Labs](https://en.wikipedia.org/wiki/Wyze_Labs)
 ## Ride Sharing
+* [Alto](https://ridealto.com/)
 * [Revel Transit](https://en.wikipedia.org/wiki/Revel_Transit)
   * [Website](https://gorevel.co)
 * [Turo](https://en.wikipedia.org/wiki/Turo_(company))
