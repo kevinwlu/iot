@@ -151,6 +151,7 @@
   * [rust-lang.org](https://www.rust-lang.org/)
   * [Rust Foundation](https://foundation.rust-lang.org/)
   * [warp.dev](https://www.warp.dev/)
+* [Visual Basic for Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications) (VBA)
 
 ## Lab 6A: Node.js
 
