@@ -83,6 +83,7 @@
 * [Blues](https://blues.io/)
   * [Notecard](https://blues.io/products/notecard/)
 * [Micro Bit](https://en.wikipedia.org/wiki/Micro_Bit)
+* [Mbits](https://www.elecrow.com/wiki/index.php?title=Mbits)
 ##
 * [CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol) (Constrained Application Protocol)
   * [txThings](https://github.com/mwasilak/txThings)
