@@ -82,6 +82,7 @@
   * [.im](https://en.wikipedia.org/wiki/.im)
 * [Blues](https://blues.io/)
   * [Notecard](https://blues.io/products/notecard/)
+* [Micro Bit](https://en.wikipedia.org/wiki/Micro_Bit)
 ##
 * [CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol) (Constrained Application Protocol)
   * [txThings](https://github.com/mwasilak/txThings)
