@@ -9,6 +9,8 @@
   * [Seismocardiography](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8189030/) (SCG)
 * [Electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography) (EEG)
 * [Ex vivo](https://en.wikipedia.org/wiki/Ex_vivo), [in vivo](https://en.wikipedia.org/wiki/In_vivo)
+* [Examples of software functions that are not medical devices](https://www.fda.gov/medical-devices/device-software-functions-including-mobile-medical-applications/examples-software-functions-are-not-medical-devices)
+  * [FDA 510(k) Explained: A Basic Guide to Premarket Notification](https://www.thefdagroup.com/blog/510k-explained)
 * [Fiducial marker](https://en.wikipedia.org/wiki/Fiducial_marker)
 * [Fundus (eye)](https://en.wikipedia.org/wiki/Fundus_(eye))
 * [Heart valve](https://en.wikipedia.org/wiki/Heart_valve)
