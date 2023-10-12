@@ -63,8 +63,6 @@ admin.py  apps.py  __init__.py  migrations  models.py  tests.py  views.py
 ~/mycpu/myapp/templates/myapp $ nano index.html
 ```
 ## Copy static files
-* Stevens favicon: ~/iot/lesson4/static/favicon.ico
-* Xidian favicon: ~/iot/lesson4/static/xidian/favicon.ico
 ```sh
 ~/mycpu/myapp/templates/myapp $ cd ~/mycpu/myapp/static
 ~/mycpu/myapp/static $ cp ~/iot/lesson4/static/favicon.ico .
