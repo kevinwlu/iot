@@ -16,7 +16,7 @@
 * [Roboflow](https://roboflow.com/) to create datasets, train models, and deploy to production
 
 ## 2023 Fall
-* Bee Detection: Counting Objects on Images
+* [Bee Detection: Counting Objects on Images](https://github.com/HarshaTang/AAI800-Bee-Detection)
 
 ## 2023 Spring
 * [Building Recognition of UAV Remote Sensing Images Based on Mask R-CNN](https://github.com/spark1et/Object-Detection-Based-on-Mask-R-CNN)
