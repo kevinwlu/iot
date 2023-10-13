@@ -24,6 +24,7 @@
 * [Goodwill](https://en.wikipedia.org/wiki/Goodwill_(accounting))
 * [Government Accountability Office](https://en.wikipedia.org/wiki/Government_Accountability_Office) (GAO)
 * [Gross margin](https://en.wikipedia.org/wiki/Gross_margin)
+* [Home economics](https://en.wikipedia.org/wiki/Home_economics)
 * [Income statement](https://en.wikipedia.org/wiki/Income_statement)
 * [Inflation](https://en.wikipedia.org/wiki/Inflation)
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator) or Key performance indicator (KPI)
