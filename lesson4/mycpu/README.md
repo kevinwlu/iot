@@ -114,13 +114,10 @@ Superuser created successfully.
 
 ### Login with Django administration username (admin) and password (admin)
 
-### Click location data to add one of the following
-* Location Stevens
-  * Latitude 40.7451
-  * Longitude -74.0255
-* Location Xidian
-  * Latitude 34.12250
-  * Longitude 108.84029
+### Click location data to add the following
+Location Stevens
+* Latitude 40.7451
+* Longitude -74.0255
 
 ### Click SAVE
 
