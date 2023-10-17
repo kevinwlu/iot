@@ -1,5 +1,7 @@
 # Engineering Economics
+## YouTube Channels
 * [The Prof G Show](https://www.youtube.com/@TheProfGShow) by Prof. [Scott Galloway](https://en.wikipedia.org/wiki/Scott_Galloway_(professor))
+##
 * [Engineering economics](https://en.wikipedia.org/wiki/Engineering_economics)
 * [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet)
 * [Benefit corporation](https://en.wikipedia.org/wiki/Benefit_corporation) or B corporation
