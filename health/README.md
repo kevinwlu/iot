@@ -1,5 +1,6 @@
 # Health
 * [Aortic stenosis](https://en.wikipedia.org/wiki/Aortic_stenosis)
+* [Atrial fibrillation](https://en.wikipedia.org/wiki/Atrial_fibrillation) (AFib or AF)
 * [Blood pressure](https://en.wikipedia.org/wiki/Blood_pressure)
 * [Continuous noninvasive arterial pressure](https://en.wikipedia.org/wiki/Continuous_noninvasive_arterial_pressure) (CNAP)
 * [Data acquisition](https://en.wikipedia.org/wiki/Data_acquisition) (DAQ)
