@@ -9,6 +9,7 @@
 * [Contribution margin](https://en.wikipedia.org/wiki/Contribution_margin)
 * [Coopetition](https://en.wikipedia.org/wiki/Coopetition)
 * [Cost of goods sold](https://en.wikipedia.org/wiki/Cost_of_goods_sold) (COGS)
+* [Cost of living](https://en.wikipedia.org/wiki/Cost_of_living)
 * [Cryptoeconomics](https://en.wikipedia.org/wiki/Cryptoeconomics)
 * [Deglobalization](https://en.wikipedia.org/wiki/Deglobalization)
 * [Depreciation](https://en.wikipedia.org/wiki/Depreciation)
