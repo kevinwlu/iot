@@ -40,6 +40,7 @@
 * [Mobile app development](https://en.wikipedia.org/wiki/Mobile_app_development)
 ## Artificial Intelligence (AI)
 * [The Abyss](https://www.theabyss.ink/): Write a post
+* [Adept](https://www.adept.ai/)
 * [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)
 * [AI generated content](https://github.com/gongminmin/awesome-aigc) (AIGC) by [Minmin Gong](https://www.linkedin.com/in/minmin-gong-51323138/)
   * [Technology readiness level](https://en.wikipedia.org/wiki/Technology_readiness_level) (TRL)
