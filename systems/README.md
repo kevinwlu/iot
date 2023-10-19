@@ -24,3 +24,5 @@
   * [Karol Adamiecki](https://en.wikipedia.org/wiki/Karol_Adamiecki) 1866&mdash;1933
 * [Program evaluation and review technique](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique) (PERT)
 * [Critical path method](https://en.wikipedia.org/wiki/Critical_path_method) (CPM)
+## Companies
+* [Thornton Tomasetti](https://en.wikipedia.org/wiki/Thornton_Tomasetti)
