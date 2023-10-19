@@ -1,7 +1,8 @@
-# Systems Engineering
+# Systems Engineering and Science
 * [Systems engineering](https://en.wikipedia.org/wiki/Systems_engineering)
-* [List of systems engineers](https://en.wikipedia.org/wiki/List_of_systems_engineers)
+  * [List of systems engineers](https://en.wikipedia.org/wiki/List_of_systems_engineers)
 * [Systems science](https://en.wikipedia.org/wiki/Systems_science)
+  * [List of systems scientists](https://en.wikipedia.org/wiki/List_of_systems_scientists)
 * [A/B testing](https://en.wikipedia.org/wiki/A/B_testing)
 * [Acceptance testing](https://en.wikipedia.org/wiki/Acceptance_testing)
 * [Availability](https://en.wikipedia.org/wiki/Availability)
