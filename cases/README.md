@@ -246,7 +246,11 @@
 * [Clean Earth Rovers](https://www.cleanearthrovers.com/)
 * [Food additive](https://en.wikipedia.org/wiki/Food_additive)
   * [Aspartame](https://en.wikipedia.org/wiki/Aspartame)
+  * [Brominated vegetable oil](https://en.wikipedia.org/wiki/Brominated_vegetable_oil) (BVO)
+  * [Erythrosine](https://en.wikipedia.org/wiki/Erythrosine) (Red Dye No. 3)
   * [Fumaric_acid](https://en.wikipedia.org/wiki/Fumaric_acid)
+  * [Potassium bromate](https://en.wikipedia.org/wiki/Potassium_bromate)
+  * [Propylparaben](https://en.wikipedia.org/wiki/Propylparaben) (Europe number or [E number](https://en.wikipedia.org/wiki/E_number) E216)
   * [Titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide)
 * [Qube](https://www.qubeiot.com/)
 ## Fashion
