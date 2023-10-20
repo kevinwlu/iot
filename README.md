@@ -19,7 +19,7 @@ Electrical Engineering EE 629
 * [Health](/health)
 * [Makeathon](/make)
 * [Projects](/projects)
-* [Special problems](/projects)
+* [Special problems](/special_problems)
 * [Standards](/standards)
 * [Systems engineering](/systems)
 * [Tools](/tools)
