@@ -1,11 +1,13 @@
 # Special Problems
 * [Computer vision](https://en.wikipedia.org/wiki/Computer_vision)
+  * [OpenCV](https://en.wikipedia.org/wiki/OpenCV)
 * [Conference on Computer Vision and Pattern Recognition](https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition) (CVPR)
 * [Fei-Fei Li](https://en.wikipedia.org/wiki/Fei-Fei_Li)
   * [Google Scholar](https://scholar.google.com/citations?user=rDfyQnIAAAAJ&hl=en)
 * [Digital image processing](https://en.wikipedia.org/wiki/Digital_image_processing)
 * [Standard test image](https://en.wikipedia.org/wiki/Standard_test_image)
 * [Object detection](https://en.wikipedia.org/wiki/Object_detection)
+* [Open Neural Network Exchange](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (ONNX)
 * [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
   * [Eigenfaces](http://www.scholarpedia.org/article/Eigenfaces)
   * [Fisherfaces](http://www.scholarpedia.org/article/Fisherfaces)
