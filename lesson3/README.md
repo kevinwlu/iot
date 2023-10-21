@@ -61,8 +61,9 @@
 * [Python tutorial](https://docs.python.org/3/tutorial/index.html)
   * [Formatted string literals](https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals) (f-strings)
 * [APT](https://en.wikipedia.org/wiki/APT_(software)) is used to install software on GNU/Linux such as Raspberry Pi OS
-  * [Chocolatey](https://chocolatey.org/) may be used to install software on Windows
-  * [Homebrew](https://brew.sh/) may be used to install software on macOS
+> Windows does not come with a Python interpreter installed. The installer provides the option to append the proper paths to the PATH environment variable automatically so that the system knows how to find python.exe.
+* [Windows Package Manager](https://en.wikipedia.org/wiki/Windows_Package_Manager) or [Chocolatey](https://en.wikipedia.org/wiki/Chocolatey) may be used to install software on Windows
+* [Homebrew](https://en.wikipedia.org/wiki/Homebrew_(package_manager)) may be used to install software on macOS
 * [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) is used to install Python packages on GNU/Linux, macOS , or [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) (WSL)
   * Installing [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) requires Windows 11 or a higher version (or build) of Windows 10
   * Join the [Windows Insiders Program](https://insider.windows.com/en-us/getting-started) if necessary for a higher version (or build) of Windows 10
