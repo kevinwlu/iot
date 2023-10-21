@@ -156,7 +156,7 @@
 * [Visual Basic for Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications) (VBA)
 
 ## Lab 6A: Node.js
-
+* [Node.js tutorial](https://www.w3schools.com/nodejs/)
 ### [Node.js Downloads](https://nodejs.org/en/download/) include latest Long Term Support (LTS) version and npm
 * Pre-built installer and binary for Windows with an option to install (or upgrade) the necessary tools such as Chocalatey, Python, and Visual Studio
   * WARNING: Upgrading Python resets pip list with only pip and setuptools, requiring package reinstallation
