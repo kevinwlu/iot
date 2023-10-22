@@ -191,6 +191,7 @@
   * [Local binary patterns](https://en.wikipedia.org/wiki/Local_binary_patterns) (LBP)
 * [Object detection](https://en.wikipedia.org/wiki/Object_detection)
 * [OpenMV](https://github.com/openmv/openmv)
+* [Roboflow](https://roboflow.com/)
 ## Problem and Decision Analysis
 * [Kepner-Tregoe](https://kepner-tregoe.com/) (KT)
 ## Proof Assitant
