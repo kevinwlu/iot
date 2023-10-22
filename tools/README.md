@@ -14,6 +14,7 @@
 * [Quanta Magazine](https://en.wikipedia.org/wiki/Quanta_Magazine)
 ## Platform
 * [Comparison of platform virtualization software](https://en.wikipedia.org/wiki/Comparison_of_platform_virtualization_software)
+* [Cameo](https://en.wikipedia.org/wiki/Cameo_(website))
 * [Canva](https://en.wikipedia.org/wiki/Canva)
 * [ioBroker](https://www.iobroker.net/)
 * [PlatformIO](https://platformio.org/)
