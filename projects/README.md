@@ -4,6 +4,9 @@
   * [Neuralink](https://en.wikipedia.org/wiki/Neuralink)
   * [Neural oscillation](https://en.wikipedia.org/wiki/Neural_oscillation)
   * [Schumann resonances](https://en.wikipedia.org/wiki/Schumann_resonances)
+* [Homebridge](https://homebridge.io/)
+* [HomeKit](https://en.wikipedia.org/wiki/HomeKit)
+* [Pi-hole](https://en.wikipedia.org/wiki/Pi-hole)
 * [RepRap project](https://en.wikipedia.org/wiki/RepRap_project)
 
 ## 2022 Spring
