@@ -5,6 +5,7 @@
   * [Neural oscillation](https://en.wikipedia.org/wiki/Neural_oscillation)
   * [Schumann resonances](https://en.wikipedia.org/wiki/Schumann_resonances)
 * [Homebridge](https://homebridge.io/)
+  * [GitHub repository](https://github.com/homebridge/homebridge)
 * [HomeKit](https://en.wikipedia.org/wiki/HomeKit)
 * [Pi-hole](https://en.wikipedia.org/wiki/Pi-hole)
 * [RepRap project](https://en.wikipedia.org/wiki/RepRap_project)
