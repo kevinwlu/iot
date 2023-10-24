@@ -12,6 +12,7 @@
   * [Eigenfaces](http://www.scholarpedia.org/article/Eigenfaces)
   * [Fisherfaces](http://www.scholarpedia.org/article/Fisherfaces)
   * [Local Binary Patterns](http://www.scholarpedia.org/article/Local_Binary_Patterns) (LBP)
+  * [PimEyes](https://en.wikipedia.org/wiki/PimEyes) is a Polish website for facial recognition
 * [FERET facial recognition technology](https://en.wikipedia.org/wiki/FERET_(facial_recognition_technology))
 * [FERET database](https://en.wikipedia.org/wiki/FERET_database)
 * [Hasty.ai](https://hasty.ai/docs/mp-wiki/getting-started/introduction) vision AI projects
