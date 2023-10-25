@@ -209,6 +209,7 @@ Electrical Engineering EE 629
 * [Open ROADM](http://openroadm.org/)
   * [Reconfigurable optical add-drop multiplexer](https://en.wikipedia.org/wiki/Reconfigurable_optical_add-drop_multiplexer) (ROADM)
 * [Printer Working Group](https://en.wikipedia.org/wiki/Printer_Working_Group) (PWG)
+* [RAIN Alliance](https://rainrfid.org/)
 * [TALQ Consortium](https://www.talq-consortium.org/)
 * [Telecom Infra Project](https://en.wikipedia.org/wiki/Telecom_Infra_Project) (TIP)
 * [The Consortium of Cybersecurity Clinics](https://cybersecurityclinics.org/)
