@@ -9,3 +9,6 @@
 * [2019](https://www.gartner.com/smarterwithgartner/5-trends-appear-on-the-gartner-hype-cycle-for-emerging-technologies-2019)
 * [2018](https://www.gartner.com/smarterwithgartner/5-trends-emerge-in-gartner-hype-cycle-for-emerging-technologies-2018)
 * [2017](https://www.gartner.com/en/newsroom/press-releases/2017-08-15-gartner-identifies-three-megatrends-that-will-drive-digital-business-into-the-next-decade)
+
+##
+* [Magic Quadrant](https://en.wikipedia.org/wiki/Magic_Quadrant)
