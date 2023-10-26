@@ -40,6 +40,7 @@ Electrical Engineering EE 629
   * [Robotic process automation](https://en.wikipedia.org/wiki/Robotic_process_automation)
   * [Hyperautomation](https://en.wikipedia.org/wiki/Robotic_process_automation#Hyperautomation)
 * [Aritificial intelligence of things](https://en.wikipedia.org/wiki/Artificial_intelligence_of_things) (AIoT)
+* [IEEE Global Conference on Artificial Intelligence and Internet of Things](https://gcaiot.org/)
 * [AI winter](https://en.wikipedia.org/wiki/AI_winter)
 * [Informa](https://en.wikipedia.org/wiki/Informa)
   * [IoT World Today](https://www.iotworldtoday.com/) 
