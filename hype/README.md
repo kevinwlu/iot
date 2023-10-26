@@ -12,3 +12,4 @@
 
 ##
 * [Magic Quadrant](https://en.wikipedia.org/wiki/Magic_Quadrant)
+* [Positioning technology players within a specific market](https://www.gartner.com/en/research/methodologies/magic-quadrants-research)
