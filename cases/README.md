@@ -289,6 +289,9 @@
 * [Upright](https://www.uprightpose.com/)
 * [Withings](https://en.wikipedia.org/wiki/Withings)
   * [U-Scan](https://www.withings.com/us/en/u-scan)
+## Hospitality
+* [Amadeus IT Group](https://en.wikipedia.org/wiki/Amadeus_IT_Group)
+* [Smart Bar](https://www.smartbarusa.com/) automated cocktail dispensing system
 ## Imagery
 * [Array Labs](https://www.arraylabs.io/)
 ## Industrial
