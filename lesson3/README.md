@@ -64,7 +64,8 @@
 > Windows does not come with a Python interpreter installed. The installer provides the option to append the proper paths to the PATH environment variable automatically so that the system knows how to find python.exe.
 * [Windows Package Manager](https://en.wikipedia.org/wiki/Windows_Package_Manager) or [Chocolatey](https://en.wikipedia.org/wiki/Chocolatey) may be used to install software on Windows
 * [Homebrew](https://en.wikipedia.org/wiki/Homebrew_(package_manager)) may be used to install software on macOS
-* [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) is used to install Python packages on GNU/Linux, macOS , or [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) (WSL)
+* [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) is used to install Python packages on GNU/Linux, macOS, or [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) (WSL)
+  * [Install Python packages via APT or pip?](https://forums.raspberrypi.com/viewtopic.php?t=282238)
   * Installing [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) requires Windows 11 or a higher version (or build) of Windows 10
   * Join the [Windows Insiders Program](https://insider.windows.com/en-us/getting-started) if necessary for a higher version (or build) of Windows 10
 ### NOTE: Raspberry Pi OS (or macOS/Linux) has Python (both Python 2 and Python 3) and pip (both pip and pip3) already preinstalled
