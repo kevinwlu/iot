@@ -61,6 +61,7 @@
   * [Debian logos](https://www.debian.org/logos/)
   * [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu)
   * [APT](https://en.wikipedia.org/wiki/APT_(software)) (Advanced Package Tool)
+  * [What is the difference between apt and apt-get?](https://askubuntu.com/questions/445384/what-is-the-difference-between-apt-and-apt-get)
 * [LXDE](https://en.wikipedia.org/wiki/LXDE)
 * [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO)
   * [Hammer header](https://www.adafruit.com/product/3662)
