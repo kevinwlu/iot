@@ -84,6 +84,9 @@
       * White to TXD
       * Green to RXD
     * Either Red to 5V or USB power cable to Raspberry Pi
+  * [USB to TTL Serial Cable - Debug / Console Cable for Raspberry Pi](https://www.adafruit.com/product/954#technical-details)
+    * [Transistor–transistor logic](https://en.wikipedia.org/wiki/Transistor%E2%80%93transistor_logic) (TTL)
+    * [Silicon Labs](https://en.wikipedia.org/wiki/Silicon_Labs) [CP210x USB to UART Bridge VCP Drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
 * [Serial peripheral interface](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (SPI)
   * [Master/slave](https://en.wikipedia.org/wiki/Master/slave_(technology))
   * [Inclusive language](https://en.wikipedia.org/wiki/Inclusive_language)
