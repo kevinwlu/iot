@@ -75,6 +75,9 @@
 * [Actuator](https://en.wikipedia.org/wiki/Actuator)
 * [Serial communication](https://en.wikipedia.org/wiki/Serial_communication)
   * [Universal asynchronous receiver-transmitter](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter) (UART)
+  * [USB-to-serial adapter](https://en.wikipedia.org/wiki/USB-to-serial_adapter)
+  * [Adafruit Raspberri Pi Lesson 5: Using a Console Cable](https://cdn-learn.adafruit.com/downloads/pdf/adafruits-raspberry-pi-lesson-5-using-a-console-cable.pdf)
+  * Install driver on laptop: [Prolific](https://www.prolific.com.tw/US/index.aspx) > Product Application > SIO (Smart-IO) > USB to UART/Serial/Printer > PL2303G Driver Download
 * [Serial peripheral interface](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (SPI)
   * [Master/slave](https://en.wikipedia.org/wiki/Master/slave_(technology))
   * [Inclusive language](https://en.wikipedia.org/wiki/Inclusive_language)
