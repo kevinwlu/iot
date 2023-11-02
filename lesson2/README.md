@@ -77,7 +77,7 @@
   * [Universal asynchronous receiver-transmitter](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter) (UART)
   * [USB-to-serial adapter](https://en.wikipedia.org/wiki/USB-to-serial_adapter)
   * [Adafruit Raspberri Pi Lesson 5: Using a Console Cable](https://cdn-learn.adafruit.com/downloads/pdf/adafruits-raspberry-pi-lesson-5-using-a-console-cable.pdf)
-    * Install driver on a computer: [Prolific](https://www.prolific.com.tw/US/index.aspx) > Product Application > SIO (Smart-IO) > USB to UART/Serial/Printer > PL2303G Driver Download
+    * Install driver on a computer: [Prolific Technology](https://www.prolific.com.tw/US/index.aspx) > Product Application > SIO (Smart-IO) > USB to UART/Serial/Printer > PL2303G Driver Download
     * USB to the computer
     * Serial to Raspberry Pi GPIO
       * Black to GND
