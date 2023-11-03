@@ -18,6 +18,7 @@
   * [Bathtub curve](https://en.wikipedia.org/wiki/Bathtub_curve)
 * [Software supply chain](https://en.wikipedia.org/wiki/Software_supply_chain)
 * [Verification and validation](https://en.wikipedia.org/wiki/Verification_and_validation) (V&V)
+* [Web accessibility](https://en.wikipedia.org/wiki/Web_accessibility)
 ## Project Management
 * [Project management](https://en.wikipedia.org/wiki/Project_management)
 * [Comparison of project management software](https://en.wikipedia.org/wiki/Comparison_of_project_management_software)
