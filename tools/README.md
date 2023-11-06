@@ -128,6 +128,7 @@
 * [Tabnine](https://www.tabnine.com/)
 * [Tome](https://beta.tome.app/)
 * [Trickle](https://www.trickle.so/) transforms screenshots using GPT-4
+* [Vectara](https://vectara.com/) LLM-powered search-as-a-service
 ## Book Summarizing
 * [Blinkist](https://en.wikipedia.org/wiki/Blinkist)
 * [BookRag](http://www.bookrags.com/)
