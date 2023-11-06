@@ -50,6 +50,8 @@
 * [AI Code Reviewer](https://ai-code-reviewer.com/)
 * [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 * [AnimeGAN.js](https://animegan.js.org/)
+* [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
+  * [Claude 2](https://www.anthropic.com/index/claude-2)
 * [Auto-GPT](https://en.wikipedia.org/wiki/Auto-GPT)
 * [Baidu](https://en.wikipedia.org/wiki/Baidu)
   * [How to register Baidu account outside China](https://www.adchina.io/how-to-open-a-baidu-account-outside-china/)
