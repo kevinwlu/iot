@@ -74,6 +74,7 @@
 * [Manna Drone Delivery](https://www.manna.aero/)
 * [Qinetiq](https://en.wikipedia.org/wiki/Qinetiq)
 * [Saildrone](https://en.wikipedia.org/wiki/Saildrone_(company))
+* [Shield AI](https://en.wikipedia.org/wiki/Shield_AI)
 * [Skydio](https://en.wikipedia.org/wiki/Skydio)
 * [Starship Technologies](https://en.wikipedia.org/wiki/Starship_Technologies)
 * [Tevel Aerobotics](https://www.tevel-tech.com/)
