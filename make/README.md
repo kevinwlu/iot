@@ -22,6 +22,8 @@
 * [MakeHarvard](https://makeharvard.io/)
   * [The Story of MakeHarvard](https://medium.com/@camakk/the-story-of-makeharvard-e51e1fe12549)
 * [Make: Makerthon](https://makezine.com/tag/makerthon/)
+* [Google AIY Projects](https://aiyprojects.withgoogle.com/)
+  * [GitHub repository](https://github.com/google/aiyprojects-raspbian)
 * [Seeed Studio XIAO Starter Kit Courses](https://wiki.seeedstudio.com/XIAO-Kit-Courses/)
 * [Tindie](https://www.tindie.com/)
   * [MH-EDU-Electronics](https://www.tindie.com/stores/mh-edu/)
