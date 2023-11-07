@@ -65,6 +65,7 @@
 * [List of unmanned aerial vehicles of China](https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicles_of_China)
 * [General Atomics Aeronautical Systems](https://en.wikipedia.org/wiki/General_Atomics_Aeronautical_Systems)
 * [Apian](https://www.apian.aero/)
+* [Applied Aeronautics](https://en.wikipedia.org/wiki/Applied_Aeronautics)
 * [Arrive](https://www.arrive.tech/)
 * [Caltech Multi-Modal Mobility Morphobot](https://www.caltech.edu/about/news/new-bioinspired-robot-flies-rolls-walks-and-more) (M4)
   * [YouTube video](https://www.youtube.com/watch?v=J91jTI2-k_U)
