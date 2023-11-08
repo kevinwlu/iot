@@ -296,6 +296,7 @@
 * [Smart Bar](https://www.smartbarusa.com/) automated cocktail dispensing system
 ## Imagery
 * [Array Labs](https://www.arraylabs.io/)
+* [Bird Buddy](https://mybirdbuddy.com/)
 ## Industrial
 * [Alloy Enterprises](https://alloyenterprises.co/)
 * [Automated guided vehicle](https://en.wikipedia.org/wiki/Automated_guided_vehicle) (AGV)
