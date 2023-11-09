@@ -45,6 +45,10 @@
   * [XIAO](/lesson6/xiao) in Lesson 6
   * [XIAO nRF52840 Sense](https://www.seeedstudio.com/Seeed-XIAO-BLE-Sense-nRF52840-p-5253.html)
   * [XIAO ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html)
+* [Renesas Electronics](https://en.wikipedia.org/wiki/Renesas_Electronics)
+  * [Four metrics you must consider when developing TinyML systems](https://www.renesas.com/us/en/blogs/four-metrics-you-must-consider-when-developing-tinyml-systems)
+  * [RX65N](https://www.renesas.com/us/en/products/microcontrollers-microprocessors/rx-32-bit-performance-efficiency-mcus/rx65n-32-bit-microcontrollers-rxv2-core-large-capacity-ram-and-enhanced-security-connectivity-and-hmi)
+  * [RA6M4](https://www.renesas.com/us/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra6m4-200mhz-arm-cortex-m33-trustzone-high-integration-ethernet-and-octaspi)
 * [4G](https://en.wikipedia.org/wiki/4G)
   * [Waveshare SIM7600A-H 4G HAT](https://www.waveshare.com/sim7600a-h-4g-hat.htm)
   * [Makerfabs 4G LTE Hat for Raspberry Pi](https://github.com/Makerfabs/4G-LTE-Hat-For-Raspberry-Pi)
