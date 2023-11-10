@@ -323,6 +323,7 @@
 * [Chirp](https://en.wikipedia.org/wiki/Chirp_(company))
 * [Enabot](https://na.enabot.com/)
 * [Home Assistant](https://en.wikipedia.org/wiki/Home_Assistant)
+* [Humane](https://hu.ma.ne/) artificial intelligence (AI) pin
 * [Lawna](https://www.lawnatech.com/)
 * [MagicMirror](https://magicmirror.builders/)
 * [Otter](https://withotter.com/)
