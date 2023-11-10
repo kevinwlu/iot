@@ -259,17 +259,14 @@ $ gimp -a intrusiondetection.png
 * [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) DEPRECATED 2021-04-02
 * [Qiskit Ignis](https://github.com/Qiskit/qiskit-ignis) DEPRECATED 2021-12-06
 ```sh
-$ pip3 install qiskit[visualization] qiskit-ibmq-provider
+$ pip3 install qiskit[visualization] qiskit-aer qiskit_ibm_provider
 $ python3
->>> from qiskit import IBMQ
->>> IBMQ.save_account('MY_API_TOKEN')
->>> IBMQ.load_account()
+>>> from qiskit_ibm_provider import IBMProvider
+>>> IBMProvider.save_account('MY_API_TOKEN')
 >>> exit()
 $ cd ~/iot/lesson9
 $ python3 qiskit_terra_example.py
 $ python3 qiskit_aer_example.py
-$ python3 qiskit_aqua_example.py
-$ python3 qiskit_ignis_example.py
 ```
 ### SSH -Y to Raspberry Pi, refer to [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133) for installing Qiskit on Raspberry Pi OS, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
 * [Qiskit Terra](https://github.com/Qiskit/qiskit-terra)
