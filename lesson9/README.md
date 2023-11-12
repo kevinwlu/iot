@@ -51,7 +51,7 @@
 * [Creatio](https://en.wikipedia.org/wiki/Creatio) process automation
 ## Qiskit
 * [Qiskit](https://en.wikipedia.org/wiki/Qiskit)
-  * [Qiskit repo](https://github.com/Qiskit)
+  * [GitHub repository](https://github.com/Qiskit)
   * [Fun With Quantum](https://github.com/JanLahmann/Fun-with-Quantum)
   * [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133)
   * [PennyLane](https://github.com/PennyLaneAI/pennylane)
