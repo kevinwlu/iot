@@ -149,6 +149,7 @@
   * [QuEra Computing Inc.](https://en.wikipedia.org/wiki/QuEra_Computing_Inc.)
   * [Quantinuum](https://www.quantinuum.com/)
   * [Rigetti Computing](https://en.wikipedia.org/wiki/Rigetti_Computing)
+  * [Universal Quantum](https://universalquantum.com/)
   * [National Quantum Initiative Act](https://en.wikipedia.org/wiki/National_Quantum_Initiative_Act) (NQI)
   * [National Quantum Coordination Office](https://en.wikipedia.org/wiki/National_Quantum_Coordination_Office) (NQCO)
   * [Quantum Economic Development Consortium](https://quantumconsortium.org/) (QED-C)
