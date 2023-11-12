@@ -137,6 +137,7 @@
     * [Superconducting quantum interference device](https://en.wikipedia.org/wiki/SQUID) (SQUID)
   * [Google Quantum AI](https://quantumai.google/)
     * [Cirq](https://en.wikipedia.org/wiki/Cirq)
+      * [GitHub repository](https://github.com/quantumlib/Cirq)
   * [IBM Quantum](https://www.ibm.com/quantum)
     * [IBM Quantum Composer and IBM Quantum Lab](https://quantum-computing.ibm.com/)
   * [Intel Labs](https://en.wikipedia.org/wiki/Intel_Research_Lablets)
