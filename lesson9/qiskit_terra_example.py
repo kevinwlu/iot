@@ -1,5 +1,4 @@
 # https://en.wikipedia.org/wiki/Qiskit
-# https://qiskit.org/terra
 
 from qiskit import QuantumCircuit, Aer, execute
 
