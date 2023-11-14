@@ -416,6 +416,7 @@
 * [United Launch Alliance](https://en.wikipedia.org/wiki/United_Launch_Alliance) (ULA)
 ## Sports
 * [ai.io](https://www.ai.io/)
+* [Powrlink](https://powr.link/)
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
 ## Transportation: Air
 * [eVTOL](https://en.wikipedia.org/wiki/EVTOL) (electric vertical take-off and landing) aircraft
