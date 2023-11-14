@@ -9,6 +9,7 @@
 * [Object detection](https://en.wikipedia.org/wiki/Object_detection)
   * [Frigate](https://frigate.video/) [network video recorder](https://en.wikipedia.org/wiki/Network_video_recorder) (NVR)
     * [GitHub repository](https://github.com/blakeblackshear/frigate)
+  * [Coral](https://coral.ai/)
 * [Open Neural Network Exchange](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (ONNX)
 * [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
   * [Eigenfaces](http://www.scholarpedia.org/article/Eigenfaces)
