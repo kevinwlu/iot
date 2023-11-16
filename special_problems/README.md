@@ -22,8 +22,11 @@
 * [FERET database](https://en.wikipedia.org/wiki/FERET_database)
 * [Hasty.ai](https://hasty.ai/docs/mp-wiki/getting-started/introduction) vision AI projects
 * [Roboflow](https://roboflow.com/) to create datasets, train models, and deploy to production
-* [LightRidge](https://lightridge.github.io/lightridge/)
-  * 
+* [Diffractive deep neural network](https://samueli.ucla.edu/ucla-engineers-develop-artificial-intelligence-device-that-identifies-objects-at-the-speed-of-light/) (D2NN)
+  * ["A programmable diffractive deep neural network based on a digital-coding metasurface array"](https://www.nature.com/articles/s41928-022-00719-9)
+  * ["All-optical machine learning using diffractive deep neural networks"](https://www.science.org/doi/10.1126/science.aat8084)
+  * [LightRidge](https://lightridge.github.io/lightridge/)
+  * [Cunxi Yu](https://ycunxi.github.io/cunxiyu/)
 
 ## 2023 Fall
 * [Image Detection of Bees Using Deep Learning](https://github.com/HarshaTang/AAI800-Bee-Detection)
