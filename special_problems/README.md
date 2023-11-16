@@ -1,4 +1,6 @@
 # Special Problems
+* [Paper with code](https://paperswithcode.com/)
+  * [GitHub repository](https://github.com/paperswithcode)
 * [Computer vision](https://en.wikipedia.org/wiki/Computer_vision)
   * [OpenCV](https://en.wikipedia.org/wiki/OpenCV)
 * [Conference on Computer Vision and Pattern Recognition](https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition) (CVPR)
@@ -20,6 +22,8 @@
 * [FERET database](https://en.wikipedia.org/wiki/FERET_database)
 * [Hasty.ai](https://hasty.ai/docs/mp-wiki/getting-started/introduction) vision AI projects
 * [Roboflow](https://roboflow.com/) to create datasets, train models, and deploy to production
+* [LightRidge](https://lightridge.github.io/lightridge/)
+  * 
 
 ## 2023 Fall
 * [Image Detection of Bees Using Deep Learning](https://github.com/HarshaTang/AAI800-Bee-Detection)
