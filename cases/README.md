@@ -93,6 +93,7 @@
 * [Sony Depthsensing Solutions](https://en.wikipedia.org/wiki/Sony_Depthsensing_Solutions)
 * [Telit](https://en.wikipedia.org/wiki/Telit)
 ## Energy and Power
+* [List of battery types](https://en.wikipedia.org/wiki/List_of_battery_types)
 * [List of electric vehicle battery manufacturers](https://en.wikipedia.org/wiki/List_of_electric_vehicle_battery_manufacturers)
 * [Electric vehicle charging network](https://en.wikipedia.org/wiki/Electric_vehicle_charging_network)
 * [Offshore wind power](https://en.wikipedia.org/wiki/Offshore_wind_power)
@@ -167,6 +168,7 @@
 * [Lithium–air battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93air_battery)
   * [Metal–air electrochemical cell](https://en.wikipedia.org/wiki/Metal%E2%80%93air_electrochemical_cell)
   * [Zinc–air battery](https://en.wikipedia.org/wiki/Zinc%E2%80%93air_battery)
+* [Lithium-ion battery](https://en.wikipedia.org/wiki/Lithium-ion_battery)
 * [Lithium iron phosphate battery](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery) (LFP)
 * [Lithium nickel manganese cobalt oxides](https://en.wikipedia.org/wiki/Lithium_nickel_manganese_cobalt_oxides) (NMC)
 * [Lithium-sulfur battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93sulfur_battery)
