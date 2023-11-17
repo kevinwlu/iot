@@ -168,7 +168,7 @@
   * [Metal–air electrochemical cell](https://en.wikipedia.org/wiki/Metal%E2%80%93air_electrochemical_cell)
   * [Zinc–air battery](https://en.wikipedia.org/wiki/Zinc%E2%80%93air_battery)
 * [Lithium iron phosphate battery](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery) (LFP)
-* [Lithium nickel manganese cobalt (NMC) oxides](https://en.wikipedia.org/wiki/Lithium_nickel_manganese_cobalt_oxides)
+* [Lithium nickel manganese cobalt oxides](https://en.wikipedia.org/wiki/Lithium_nickel_manganese_cobalt_oxides) (NMC)
 * [Lithium-sulfur battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93sulfur_battery)
 * [Lyten](https://lyten.com/)
 * [Martinrea](https://en.wikipedia.org/wiki/Martinrea)
