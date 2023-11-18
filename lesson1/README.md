@@ -83,6 +83,7 @@
   * [URLLC](https://www.3gpp.org/technologies/urlcc-2022): Ultra-Reliable and Low Latency Communications
   * mMTC: Massive Machine-Type Communications
 * [6G](https://en.wikipedia.org/wiki/6G_(network))
+  * [6G exlained](https://www.nokia.com/about-us/newsroom/articles/6g-explained/) by [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs)
   * [Brooklyn 6G Summit](https://b6gs.com/)
   * [one6G](https://one6g.org/)
 * [IEEE 5G/6G Innovation Testbed](https://testbed.ieee.org/)
