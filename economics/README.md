@@ -7,6 +7,7 @@
 * [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet)
 * [Benefit corporation](https://en.wikipedia.org/wiki/Benefit_corporation) or B corporation
 * [Bill of materials](https://en.wikipedia.org/wiki/Bill_of_materials) (BOM)
+* [Brick and mortar](https://en.wikipedia.org/wiki/Brick_and_mortar) (B&M)
 * [Cash flow](https://en.wikipedia.org/wiki/Cash_flow)
 * [Circular economy](https://en.wikipedia.org/wiki/Circular_economy)
 * [Contribution margin](https://en.wikipedia.org/wiki/Contribution_margin)
