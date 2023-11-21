@@ -8,6 +8,8 @@
 * [Benefit corporation](https://en.wikipedia.org/wiki/Benefit_corporation) or B corporation
 * [Bill of materials](https://en.wikipedia.org/wiki/Bill_of_materials) (BOM)
 * [Brick and mortar](https://en.wikipedia.org/wiki/Brick_and_mortar) (B&M)
+  * [Figure of speech](https://en.wikipedia.org/wiki/Figure_of_speech)
+  * [List of metonyms](https://en.wikipedia.org/wiki/List_of_metonyms)
 * [Cash flow](https://en.wikipedia.org/wiki/Cash_flow)
 * [Circular economy](https://en.wikipedia.org/wiki/Circular_economy)
 * [Contribution margin](https://en.wikipedia.org/wiki/Contribution_margin)
