@@ -98,6 +98,7 @@
 * [Electric vehicle charging network](https://en.wikipedia.org/wiki/Electric_vehicle_charging_network)
 * [Offshore wind power](https://en.wikipedia.org/wiki/Offshore_wind_power)
   * [Deep foundation](https://en.wikipedia.org/wiki/Deep_foundation)
+* [Water-energy nexus](https://en.wikipedia.org/wiki/Water-energy_nexus)
 * [Aeromine](https://www.aerominetechnologies.com/)
 * [Air Liquide](https://en.wikipedia.org/wiki/Air_Liquide)
 * [Albemarle Corporation](https://en.wikipedia.org/wiki/Albemarle_Corporation)
