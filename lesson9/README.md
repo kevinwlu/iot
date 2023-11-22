@@ -95,6 +95,7 @@
 * [Wave–particle duality](https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality)
 * [String theory](https://en.wikipedia.org/wiki/String_theory)
 * [Quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
+* [Quantum gravity](https://en.wikipedia.org/wiki/Quantum_gravity)
 * [Quantum state](https://en.wikipedia.org/wiki/Quantum_state)
 * [Quantum tomography](https://en.wikipedia.org/wiki/Quantum_tomography)
   * ["Interferometric imaging of amplitude and phase of spatial biphoton states"](https://www.nature.com/articles/s41566-023-01272-3)
