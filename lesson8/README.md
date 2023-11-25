@@ -63,7 +63,9 @@
   | Even harder | How do physical properties determine [qualia](https://en.wikipedia.org/wiki/Qualia)? | Theories partially testable? |
   | Pretty hard | What physical properties distinguish conscious and unconscious systems? | Theories testable with brain-reading |
   | Easy | How does the brain process information? How does intelligence work? | Theories testable by simulation |
-
+##
+* [*Gödel, Escher, Bach*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) 1979 by [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter)
+  * [*I Am a Strange Loop*](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop) 2007
 ## NumPy
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
 * [Linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
