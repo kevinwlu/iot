@@ -1,6 +1,7 @@
 # Systems Engineering and Science
 * [Systems engineering](https://en.wikipedia.org/wiki/Systems_engineering)
   * [List of systems engineers](https://en.wikipedia.org/wiki/List_of_systems_engineers)
+  * [International Council on Systems Engineering](https://en.wikipedia.org/wiki/International_Council_on_Systems_Engineering) (INCOSE)
 * [Systems science](https://en.wikipedia.org/wiki/Systems_science)
   * [List of systems scientists](https://en.wikipedia.org/wiki/List_of_systems_scientists)
 * [A/B testing](https://en.wikipedia.org/wiki/A/B_testing)
@@ -20,7 +21,10 @@
 * [Verification and validation](https://en.wikipedia.org/wiki/Verification_and_validation) (V&V)
 * [Web accessibility](https://en.wikipedia.org/wiki/Web_accessibility)
 ## Project Management
+* [Management science](https://en.wikipedia.org/wiki/Management_science)
+  * [Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker) 1909&mdash;2005
 * [Project management](https://en.wikipedia.org/wiki/Project_management)
+  * [Project Management Institute](https://en.wikipedia.org/wiki/Project_Management_Institute) (PMI)
 * [Comparison of project management software](https://en.wikipedia.org/wiki/Comparison_of_project_management_software)
 * [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart)
   * [Henry Gantt](https://en.wikipedia.org/wiki/Henry_Gantt) 1861&mdash;1919
