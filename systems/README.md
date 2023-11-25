@@ -23,6 +23,7 @@
 ## Project Management
 * [Management science](https://en.wikipedia.org/wiki/Management_science)
   * [Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker) 1909&mdash;2005
+  * [Master of Business Administration](https://en.wikipedia.org/wiki/Master_of_Business_Administration) (MBA)
 * [Project management](https://en.wikipedia.org/wiki/Project_management)
   * [Project Management Institute](https://en.wikipedia.org/wiki/Project_Management_Institute) (PMI)
 * [Comparison of project management software](https://en.wikipedia.org/wiki/Comparison_of_project_management_software)
