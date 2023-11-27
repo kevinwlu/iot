@@ -64,7 +64,6 @@
 * [Selling, General, and Administrative Expenses](https://en.wikipedia.org/wiki/SG%26A) (SG&A)
 * [Shovel ready](https://en.wikipedia.org/wiki/Shovel_ready)
 * [Time value of money](https://en.wikipedia.org/wiki/Time_value_of_money)
-* [Tocqueville effect](https://en.wikipedia.org/wiki/Tocqueville_effect)
 * [Tokenomics](https://en.wikipedia.org/wiki/Tokenomics)
 * [Trade-off](https://en.wikipedia.org/wiki/Trade-off)
   * [Double-edged sword](https://en.wiktionary.org/wiki/double-edged_sword)
@@ -72,6 +71,7 @@
 * [Zero-based budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting) (ZBB)
 ## 
 * [List of eponymous laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
+* [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 * [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)
   * [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore) 1929&mdash;2023
   * [Robert Noyce](https://en.wikipedia.org/wiki/Robert_Noyce) 1927&mdash;1990
@@ -93,6 +93,7 @@
 * [Reed's law](https://en.wikipedia.org/wiki/Reed's_law)
 * [Power law](https://en.wikipedia.org/wiki/Power_law)
 * [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
+* [Tocqueville effect](https://en.wikipedia.org/wiki/Tocqueville_effect)
 * [Zipf's law](https://en.wikipedia.org/wiki/Zipf's_law)
 ## 
 * [S. Van Nieuwerburgh](https://www0.gsb.columbia.edu/faculty/svannieuwerburgh/), ["The Remote Work Revolution: Impact on Real Estate Values and the Urban Environment"](https://www.nber.org/papers/w30662)
