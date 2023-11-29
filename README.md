@@ -183,6 +183,7 @@ Electrical Engineering EE 629
 * [Hexa-X](https://hexa-x.eu/)
 * [IAMTS](https://www.iamts.org/en) (International Alliance for Mobility Testing and Standardization)
 * [IIC](https://en.wikipedia.org/wiki/Industrial_Internet_Consortium) (Industrial Internet Consortium)
+* [IMPALA](https://impala-consortium.org/) Consortium
 * [Interconnect Modeling Technical Advisory Board](https://ieee-isto.org/member_programs/interconnect-modeling-technical-advisory-board/) (IMTAB)
 * [ioXt](https://www.ioxtalliance.org/) (Internet of Secure Things)
 * [KNX](https://en.wikipedia.org/wiki/KNX_(standard))
