@@ -192,6 +192,7 @@ Electrical Engineering EE 629
 * [Li-Bridge](https://www.anl.gov/li-bridge)
 * [LoRa](https://en.wikipedia.org/wiki/LoRa) Alliance
 * [MIPI Alliance](https://en.wikipedia.org/wiki/MIPI_Alliance) (Mobile Industry Processor Interface)
+* [MPAI](https://mpai.community/) (Moving picture, audio and data coding by artificial intelligence)
 * [MulteFire](https://en.wikipedia.org/wiki/MulteFire)
 * [National Charging Experience Consortium](https://inl.gov/chargex/) (ChargeX)
 * [Next G Alliance](https://www.nextgalliance.org/)
