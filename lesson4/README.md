@@ -61,7 +61,7 @@
     * [Opera (web browser)](https://en.wikipedia.org/wiki/Opera_(web_browser))
   * [Clearnet](https://en.wikipedia.org/wiki/Clearnet_(networking)) refers to the publicly accessible internet
   * [Web accessibility](https://en.wikipedia.org/wiki/Web_accessibility)
-    * [alt attribute](https://en.wikipedia.org/wiki/Alt_attribute)
+    * [Alt attribute](https://en.wikipedia.org/wiki/Alt_attribute)
   * [Surface web](https://en.wikipedia.org/wiki/Surface_web) is readily available to the general public and searchable with standard web search engines
   * [Deep web](https://en.wikipedia.org/wiki/Deep_web) refers to the contents that are not indexed by standard web search-engines
   * [Dark web](https://en.wikipedia.org/wiki/Dark_web) exists on [darknets](https://en.wikipedia.org/wiki/Darknet) and is a portion of the deep web
