@@ -238,6 +238,7 @@
   * [Claude 2](https://www.anthropic.com/index/claude-2)
 * [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
 * [Pika](https://pika.art/) idea-to-video platform
+* [Runway](https://runwayml.com/)
 * [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
 * [Deepfake](https://en.wikipedia.org/wiki/Deepfake)
 * [15.ai](https://en.wikipedia.org/wiki/15.ai)
