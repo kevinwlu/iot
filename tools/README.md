@@ -118,6 +118,7 @@
 * [Paragraphica](https://bjoernkarmann.dk/project/paragraphica)
 * [Peppertype.ai](https://www.peppertype.ai/)
 * [Personal.ai](https://www.personal.ai/)
+* [Pika](https://pika.art/) idea-to-video platform
 * [Posemaniacs](https://www.posemaniacs.com/en)
 * [Rewind AI](https://www.rewind.ai/)
 * [Shuffle](https://shuffle.dev/)
