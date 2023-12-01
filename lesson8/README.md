@@ -173,7 +173,6 @@
   * [U-Net GAN](https://github.com/boschresearch/unetgan)
   * [Wasserstein GAN](https://en.wikipedia.org/wiki/Wasserstein_GAN) (WGAN)
   * [Monte Carlo dropout](https://docs.aws.amazon.com/prescriptive-guidance/latest/ml-quantifying-uncertainty/mc-dropout.html)
-* [Generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
 * [Graph neural network](https://en.wikipedia.org/wiki/Graph_neural_network) (GNN)
 * [Nervous system](https://en.wikipedia.org/wiki/Nervous_system)
   * [Synapse](https://en.wikipedia.org/wiki/Synapse)
@@ -181,6 +180,9 @@
 * [AlphaZero](https://en.wikipedia.org/wiki/AlphaZero)
 * [WaveNet](https://en.wikipedia.org/wiki/WaveNet)
 * [MindSpore](https://github.com/mindspore-ai/mindspore) deep learning training/inference framework
+
+## Generative AI
+* [Generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
 * [ELIZA](https://en.wikipedia.org/wiki/ELIZA)
 * [Chatbot](https://en.wikipedia.org/wiki/Chatbot)
 * [Foundation models](https://en.wikipedia.org/wiki/Foundation_models)
