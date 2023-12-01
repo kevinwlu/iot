@@ -185,6 +185,8 @@
 * [Generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
 * [ELIZA](https://en.wikipedia.org/wiki/ELIZA)
 * [Chatbot](https://en.wikipedia.org/wiki/Chatbot)
+* [Rhetorical device](https://en.wikipedia.org/wiki/Rhetorical_device)
+  * [Anaphora](https://en.wikipedia.org/wiki/Anaphora_(rhetoric))
 * [Foundation models](https://en.wikipedia.org/wiki/Foundation_models)
 * [Language model](https://en.wikipedia.org/wiki/Language_model) (LM)
 * [Large language model](https://en.wikipedia.org/wiki/Large_language_model) (LLM)
