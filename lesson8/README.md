@@ -236,6 +236,7 @@
   * [PySyft](https://github.com/OpenMined/PySyft)
 * [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
   * [Claude 2](https://www.anthropic.com/index/claude-2)
+* [Leonardo AI](https://leonardo.ai/)
 * [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
 * [Pika](https://pika.art/) idea-to-video platform
 * [Runway](https://runwayml.com/)
