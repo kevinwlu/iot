@@ -244,6 +244,7 @@
 * [Leonardo AI](https://leonardo.ai/)
 * [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
 * [Pika](https://pika.art/) idea-to-video platform
+* [Rask AI](https://www.rask.ai/) 
 * [Runway](https://runwayml.com/)
 * [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
 * [Deepfake](https://en.wikipedia.org/wiki/Deepfake)
