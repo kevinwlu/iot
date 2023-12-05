@@ -97,6 +97,10 @@
 * [Zipf's law](https://en.wikipedia.org/wiki/Zipf's_law)
 ##
 * [Black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory)
-## 
+* [Elephant in the room](https://en.wikipedia.org/wiki/Elephant_in_the_room)
+* [Michele Wucker](https://en.wikipedia.org/wiki/Michele_Wucker)
+* [Purple Cow](https://en.wikipedia.org/wiki/Purple_Cow)
+* [*Purple Cow: Transform Your Business by Being Remarkable*](https://en.wikipedia.org/wiki/Purple_Cow:_Transform_Your_Business_by_Being_Remarkable)
+* [Red herring](https://en.wikipedia.org/wiki/Red_herring)
 * [S. Van Nieuwerburgh](https://www0.gsb.columbia.edu/faculty/svannieuwerburgh/), ["The Remote Work Revolution: Impact on Real Estate Values and the Urban Environment"](https://www.nber.org/papers/w30662)
 * A. Gupta, V. Mittal, and Stijn Van Nieuwerburgh, ["Work From Home and the Office Real Estate Apocalypse"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
