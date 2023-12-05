@@ -95,6 +95,8 @@
 * [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
 * [Tocqueville effect](https://en.wikipedia.org/wiki/Tocqueville_effect)
 * [Zipf's law](https://en.wikipedia.org/wiki/Zipf's_law)
+##
+* [Black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory)
 ## 
 * [S. Van Nieuwerburgh](https://www0.gsb.columbia.edu/faculty/svannieuwerburgh/), ["The Remote Work Revolution: Impact on Real Estate Values and the Urban Environment"](https://www.nber.org/papers/w30662)
 * A. Gupta, V. Mittal, and Stijn Van Nieuwerburgh, ["Work From Home and the Office Real Estate Apocalypse"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
