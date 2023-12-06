@@ -34,6 +34,8 @@
 * [All-sky, Raspberry Pi camera](https://spectrum.ieee.org/all-sky-camera)
 * [mmWave Radar Sensor Guide](https://wiki.seeedstudio.com/mmwave_radar_Intro/)
 * [Gas detector](https://en.wikipedia.org/wiki/Gas_detector)
+* [Inertial navigation system](https://en.wikipedia.org/wiki/Inertial_navigation_system) (INS)
+  * [Charles Stark Draper](https://en.wikipedia.org/wiki/Charles_Stark_Draper) 1901&mdash;1987
 * [Materials and devices inspired by human skin](https://baogroup.stanford.edu/)
 * [Pressure sensor](https://en.wikipedia.org/wiki/Pressure_sensor)
   * [Air flow meter](https://en.wikipedia.org/wiki/Air_flow_meter)
