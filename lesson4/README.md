@@ -62,6 +62,7 @@
   * [Clearnet](https://en.wikipedia.org/wiki/Clearnet_(networking)) refers to the publicly accessible internet
   * [Web accessibility](https://en.wikipedia.org/wiki/Web_accessibility)
     * [Alt attribute](https://en.wikipedia.org/wiki/Alt_attribute)
+    * [Children's Code](https://en.wikipedia.org/wiki/Children%27s_Code) or age appropriate design code (AADC)
   * [Surface web](https://en.wikipedia.org/wiki/Surface_web) is readily available to the general public and searchable with standard web search engines
   * [Deep web](https://en.wikipedia.org/wiki/Deep_web) refers to the contents that are not indexed by standard web search-engines
   * [Dark web](https://en.wikipedia.org/wiki/Dark_web) exists on [darknets](https://en.wikipedia.org/wiki/Darknet) and is a portion of the deep web
