@@ -215,6 +215,7 @@
   * [Google Brain](https://en.wikipedia.org/wiki/Google_Brain)
   * [DeepMind](https://en.wikipedia.org/wiki/DeepMind)
     * [RT-2: New model translates vision and language into action](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action) (Robotic Transformer 2), July 28, 2023
+    * [Gemini](https://deepmind.google/technologies/gemini/)
   * [Ethical and Social Risks of Harm From Language Models](https://arxiv.org/abs/2112.04359)
   * [Google Research](https://research.google/)
     * [Climate and sustainability](https://research.google/teams/climate-and-sustainability/)
