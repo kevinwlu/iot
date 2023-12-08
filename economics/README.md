@@ -72,6 +72,9 @@
 ## 
 * [List of eponymous laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
 * [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+  * [Abraham Maslow](https://en.wikipedia.org/wiki/Abraham_Maslow) 1908&mdash;1970
+* [Murphy's law](https://en.wikipedia.org/wiki/Murphy's_law)
+  * [Edward A. Murphy Jr.](https://en.wikipedia.org/wiki/Edward_A._Murphy_Jr.) 1918&mdash;1990
 * [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law)
   * [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore) 1929&mdash;2023
   * [Robert Noyce](https://en.wikipedia.org/wiki/Robert_Noyce) 1927&mdash;1990
@@ -91,6 +94,8 @@
   * B. Metcalfe, "[Metcalfe's law after 40 years of Ethernet](https://ieeexplore.ieee.org/document/6636305)," in _Computer_, vol. 46, no. 12, pp. 26-31, Dec. 2013, doi: 10.1109/MC.2013.374
   * X. Zhang, J. Liu, and Z. Xu "[Tencent and Facebook data validate Metcalfe’s law](https://link.springer.com/article/10.1007/s11390-015-1518-1), _Journal of Computer Science and Technology_, v. 30, pp. 246–251, March 13, 2015, [PDF](http://xingzhou.ac.cn/pdf/zhang-JCST15-Tencent_update.pdf)
 * [Reed's law](https://en.wikipedia.org/wiki/Reed's_law)
+* [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
+  * [Laurence J. Peter](https://en.wikipedia.org/wiki/Laurence_J._Peter) 1919&mdash;1990
 * [Power law](https://en.wikipedia.org/wiki/Power_law)
 * [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
 * [Tocqueville effect](https://en.wikipedia.org/wiki/Tocqueville_effect)
