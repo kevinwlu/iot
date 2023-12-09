@@ -102,6 +102,7 @@
 * [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
 * [Tocqueville effect](https://en.wikipedia.org/wiki/Tocqueville_effect)
 * [Zipf's law](https://en.wikipedia.org/wiki/Zipf's_law)
+  * [George Kingsley Zipf](https://en.wikipedia.org/wiki/George_Kingsley_Zipf) 1902&mdash;1950
 ##
 * [Black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory)
 * [Elephant in the room](https://en.wikipedia.org/wiki/Elephant_in_the_room)
