@@ -232,13 +232,14 @@
   * [GPT-2](https://en.wikipedia.org/wiki/GPT-2)
   * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
   * [GPT-4](https://en.wikipedia.org/wiki/GPT-4)
-  * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
+  * [Whisper (speech recognition system)](https://en.wikipedia.org/wiki/Whisper_(speech_recognition_system))
     * ["Introducing Whisper"](https://openai.com/research/whisper), September 21, 2022
+  * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
     * ["Introducing ChatGPT"](https://openai.com/blog/chatgpt), November 30, 2022
-      * [ChatGPT](https://chat.openai.com/chat)    
-    * ["New AI classifier for indicating AI-written text"](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text), January 31, 2023
-      * [AI Text Classifier](https://platform.openai.com/ai-text-classifier)
-    * ["Introducing ChatGPT and Whisper APIs"](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), March 1, 2023
+    * [ChatGPT](https://chat.openai.com/chat)    
+  * ["New AI classifier for indicating AI-written text"](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text), January 31, 2023
+    * [AI Text Classifier](https://platform.openai.com/ai-text-classifier)
+  * ["Introducing ChatGPT and Whisper APIs"](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), March 1, 2023
 * [OpenMinded](https://www.openmined.org/)
   * [PySyft](https://github.com/OpenMined/PySyft)
 * [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
