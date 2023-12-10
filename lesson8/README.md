@@ -233,6 +233,7 @@
   * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
   * [GPT-4](https://en.wikipedia.org/wiki/GPT-4)
   * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
+    * ["Introducing Whisper"](https://openai.com/research/whisper), September 21, 2022
     * ["Introducing ChatGPT"](https://openai.com/blog/chatgpt), November 30, 2022
       * [ChatGPT](https://chat.openai.com/chat)    
     * ["New AI classifier for indicating AI-written text"](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text), January 31, 2023
