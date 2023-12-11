@@ -220,6 +220,8 @@
   * [Google Research](https://research.google/)
     * [Climate and sustainability](https://research.google/teams/climate-and-sustainability/)
   * [DreamFusion](https://dreamfusion3d.github.io/)
+* [Inflection AI](https://en.wikipedia.org/wiki/Inflection_AI)
+  * [Pi](https://pi.ai/)
 * [Meta AI](https://en.wikipedia.org/wiki/Meta_AI)
   * [BlenderBot](https://blenderbot.ai/)
   * [BlenderBot 3](https://parl.ai/projects/bb3/) (BB3)
