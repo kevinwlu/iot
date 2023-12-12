@@ -146,6 +146,7 @@
 * [OpenJS Foundation](https://en.wikipedia.org/wiki/OpenJS_Foundation#JS_Foundation)
 * [Deno](https://en.wikipedia.org/wiki/Deno_(software))
 * [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)): [MongoDB](https://en.wikipedia.org/wiki/MongoDB), [Express.js](https://en.wikipedia.org/wiki/Express.js), [AngularJS](https://en.wikipedia.org/wiki/AngularJS), and Node.js
+* [Comparison of JavaScript-based web frameworks](https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks)
 * [Crow](https://crowcpp.org/) C++ framework for creating HTTP or Websocket web services
   * [CrowCpp](https://github.com/CrowCpp/Crow) repository
 * [Mustache](https://en.wikipedia.org/wiki/Mustache_(template_system)) template system
