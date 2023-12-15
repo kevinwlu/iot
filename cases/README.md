@@ -335,6 +335,7 @@
 * [Boxabl](https://www.boxabl.com/)
 * [Chirp](https://en.wikipedia.org/wiki/Chirp_(company))
 * [Enabot](https://na.enabot.com/)
+* [Greenlight Networks](https://en.wikipedia.org/wiki/Greenlight_Networks)
 * [Home Assistant](https://en.wikipedia.org/wiki/Home_Assistant)
 * [Humane](https://hu.ma.ne/) artificial intelligence (AI) pin
 * [Lawna](https://www.lawnatech.com/)
