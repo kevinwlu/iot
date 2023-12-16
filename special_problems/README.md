@@ -29,7 +29,7 @@
   * [Cunxi Yu](https://ycunxi.github.io/cunxiyu/)
 
 ## 2023 Fall
-* [Image Detection of Bees Using Deep Learning](https://github.com/HarshaTang/AAI800-Bee-Detection)
+* [Maximized Detection of Bees Using Deep Learning](https://github.com/HarshaTang/AAI800-Bee-Detection)
 
 ## 2023 Spring
 * [Building Recognition of UAV Remote Sensing Images Based on Mask R-CNN](https://github.com/spark1et/Object-Detection-Based-on-Mask-R-CNN)
