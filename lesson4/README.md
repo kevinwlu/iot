@@ -66,6 +66,8 @@
   * [Surface web](https://en.wikipedia.org/wiki/Surface_web) is readily available to the general public and searchable with standard web search engines
   * [Deep web](https://en.wikipedia.org/wiki/Deep_web) refers to the contents that are not indexed by standard web search-engines
   * [Dark web](https://en.wikipedia.org/wiki/Dark_web) exists on [darknets](https://en.wikipedia.org/wiki/Darknet) and is a portion of the deep web
+* [Internet Assigned Numbers Authority](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority) (IANA)
+  * [List of TCP and UDP port numbers](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 * [Wiki](https://en.wikipedia.org/wiki/Wiki)
 * [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (CSS)
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (JS)
