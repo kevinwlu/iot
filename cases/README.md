@@ -267,6 +267,7 @@
   * [Potassium bromate](https://en.wikipedia.org/wiki/Potassium_bromate)
   * [Propylparaben](https://en.wikipedia.org/wiki/Propylparaben) (Europe number or [E number](https://en.wikipedia.org/wiki/E_number) E216)
   * [Titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide)
+* [Triclosan](https://en.wikipedia.org/wiki/Triclosan)
 * [Qube](https://www.qubeiot.com/)
 ## Fashion
 * [Dansko](https://en.wikipedia.org/wiki/Dansko)
