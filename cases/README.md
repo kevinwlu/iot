@@ -270,6 +270,8 @@
   * [Titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide)
 * [Polycyclic aromatic hydrocarbon](https://en.wikipedia.org/wiki/Polycyclic_aromatic_hydrocarbon) (PAH)
   * [Benzo[a]pyrene](https://en.wikipedia.org/wiki/Benzo(a)pyrene) (BaP)
+* [Heterocyclic amine](https://en.wikipedia.org/wiki/Heterocyclic_amine) (HCA)
+  * [Heterocyclic amine formation in meat](https://en.wikipedia.org/wiki/Heterocyclic_amine_formation_in_meat)
 * [Triclosan](https://en.wikipedia.org/wiki/Triclosan)
 * [Qube](https://www.qubeiot.com/)
 ## Fashion
