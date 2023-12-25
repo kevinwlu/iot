@@ -38,6 +38,7 @@
   * [2to3](https://docs.python.org/3/library/2to3.html)
   * [Astral](https://astral.readthedocs.io/en/latest/)
   * [GeoPy](https://geopy.readthedocs.io/en/stable/)
+  * [jdcal](https://pypi.org/project/jdcal/)
   * [psutil](https://pypi.org/project/psutil/)
   * [Pygame](https://en.wikipedia.org/wiki/Pygame)
 * [Unicode](https://en.wikipedia.org/wiki/Unicode)
