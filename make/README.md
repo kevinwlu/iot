@@ -41,6 +41,9 @@
   * [Inertial navigation system](https://en.wikipedia.org/wiki/Inertial_navigation_system) (INS)
   * [Charles Stark Draper](https://en.wikipedia.org/wiki/Charles_Stark_Draper) 1901&mdash;1987
   * [Charles Stark Draper Prize](https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize)
+* [Lidar](https://en.wikipedia.org/wiki/Lidar)
+  * [Hesai Technology](https://www.hesaitech.com/)
+  * [Ouster](https://en.wikipedia.org/wiki/Ouster_(company))
 * [Materials and devices inspired by human skin](https://baogroup.stanford.edu/)
 * [Pressure sensor](https://en.wikipedia.org/wiki/Pressure_sensor)
   * [Air flow meter](https://en.wikipedia.org/wiki/Air_flow_meter)
