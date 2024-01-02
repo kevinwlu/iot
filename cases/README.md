@@ -260,6 +260,7 @@
   * [Tetraethyllead](https://en.wikipedia.org/wiki/Tetraethyllead) (TEL)
   * [Volatile organic compound](https://en.wikipedia.org/wiki/Volatile_organic_compound) (VOC)
 * [Clean Earth Rovers](https://www.cleanearthrovers.com/)
+* [The Ocean Cleanup](https://theoceancleanup.com/)
 * [Food additive](https://en.wikipedia.org/wiki/Food_additive)
   * [Aspartame](https://en.wikipedia.org/wiki/Aspartame)
   * [Brominated vegetable oil](https://en.wikipedia.org/wiki/Brominated_vegetable_oil) (BVO)
