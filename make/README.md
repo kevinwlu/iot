@@ -28,6 +28,7 @@
 * [Tindie](https://www.tindie.com/)
   * [MH-EDU-Electronics](https://www.tindie.com/stores/mh-edu/)
 * [USC Make-a-Thon](https://www.uscmakeathon.com/)
+* [Youyeetoo](https://www.youyeetoo.com/)
 ## Sensors
 * [Sensor](https://en.wikipedia.org/wiki/Sensor)
 * [List of sensors](https://en.wikipedia.org/wiki/List_of_sensors)
