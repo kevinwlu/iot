@@ -42,6 +42,7 @@
   * [Charles Stark Draper](https://en.wikipedia.org/wiki/Charles_Stark_Draper) 1901&mdash;1987
   * [Charles Stark Draper Prize](https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize)
 * [Lidar](https://en.wikipedia.org/wiki/Lidar)
+  * [Time of flight](https://en.wikipedia.org/wiki/Time_of_flight) (ToF)
   * [Hesai Technology](https://www.hesaitech.com/)
   * [Ouster](https://en.wikipedia.org/wiki/Ouster_(company))
 * [Materials and devices inspired by human skin](https://baogroup.stanford.edu/)
@@ -78,6 +79,7 @@
 * [Servomotor](https://en.wikipedia.org/wiki/Servomotor)
 * [Solenoid](https://en.wikipedia.org/wiki/Solenoid)
 * [Stepper motor](https://en.wikipedia.org/wiki/Stepper_motor)
+* [Vibrating motor](https://www.adafruit.com/product/1201)
 ## Control
 * [Pulse-width modulation](https://en.wikipedia.org/wiki/Pulse-width_modulation) (PWM)
   * [Raspberry Pi PWM Generation Using Python and C](https://www.electronicwings.com/raspberry-pi/raspberry-pi-pwm-generation-using-python-and-c)
