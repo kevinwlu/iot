@@ -12,6 +12,7 @@
   * [List of metonyms](https://en.wikipedia.org/wiki/List_of_metonyms)
 * [Cash flow](https://en.wikipedia.org/wiki/Cash_flow)
 * [Circular economy](https://en.wikipedia.org/wiki/Circular_economy)
+* [Compound annual growth rate](https://en.wikipedia.org/wiki/Compound_annual_growth_rate) (CAGR)
 * [Contribution margin](https://en.wikipedia.org/wiki/Contribution_margin)
 * [Coopetition](https://en.wikipedia.org/wiki/Coopetition)
 * [Cost of goods sold](https://en.wikipedia.org/wiki/Cost_of_goods_sold) (COGS)
