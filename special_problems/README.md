@@ -9,6 +9,9 @@
 * [Digital image processing](https://en.wikipedia.org/wiki/Digital_image_processing)
 * [Standard test image](https://en.wikipedia.org/wiki/Standard_test_image)
 * [Object detection](https://en.wikipedia.org/wiki/Object_detection)
+  * [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
+  * [PyTorch](https://en.wikipedia.org/wiki/PyTorch)
+  * [Region Based Convolutional Neural Networks](https://en.wikipedia.org/wiki/Region_Based_Convolutional_Neural_Networks) (R-CNN)
   * [Frigate](https://frigate.video/) [network video recorder](https://en.wikipedia.org/wiki/Network_video_recorder) (NVR)
     * [GitHub repository](https://github.com/blakeblackshear/frigate)
   * [Coral](https://coral.ai/)
@@ -27,7 +30,6 @@
   * ["All-optical machine learning using diffractive deep neural networks"](https://www.science.org/doi/10.1126/science.aat8084)
   * [LightRidge](https://lightridge.github.io/lightridge/)
   * [Cunxi Yu](https://ycunxi.github.io/cunxiyu/)
-* [Region Based Convolutional Neural Networks](https://en.wikipedia.org/wiki/Region_Based_Convolutional_Neural_Networks) (R-CNN)
 
 ## 2023 Fall
 * [Maximized Detection of Bees Using Deep Learning](https://github.com/HarshaTang/AAI800-Bee-Detection)
