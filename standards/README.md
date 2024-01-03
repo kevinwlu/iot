@@ -1,4 +1,5 @@
 # Standards
+* [Standard-essential patent](https://en.wikipedia.org/wiki/Essential_patent) (SEP)
 * [Standards organization](https://en.wikipedia.org/wiki/Standards_organization)
 * [List of technical standard organizations](https://en.wikipedia.org/wiki/List_of_technical_standard_organizations)
 * [Global Standards Collaboration](https://en.wikipedia.org/wiki/Global_Standards_Collaboration) (GSC)
