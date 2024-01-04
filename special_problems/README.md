@@ -11,6 +11,7 @@
 * [Object detection](https://en.wikipedia.org/wiki/Object_detection)
   * [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
   * [PyTorch](https://en.wikipedia.org/wiki/PyTorch)
+  * [YOLO](https://arxiv.org/abs/1506.02640)
   * [Region Based Convolutional Neural Networks](https://en.wikipedia.org/wiki/Region_Based_Convolutional_Neural_Networks) (R-CNN)
   * [Frigate](https://frigate.video/) [network video recorder](https://en.wikipedia.org/wiki/Network_video_recorder) (NVR)
     * [GitHub repository](https://github.com/blakeblackshear/frigate)
