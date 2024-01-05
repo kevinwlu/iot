@@ -64,6 +64,7 @@
 * [Sarbanes–Oxley Act](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
 * [Selling, General, and Administrative Expenses](https://en.wikipedia.org/wiki/SG%26A) (SG&A)
 * [Shovel ready](https://en.wikipedia.org/wiki/Shovel_ready)
+* [Sovereign wealth fund](https://en.wikipedia.org/wiki/Sovereign_wealth_fund) (SWF)
 * [Time value of money](https://en.wikipedia.org/wiki/Time_value_of_money)
 * [Tokenomics](https://en.wikipedia.org/wiki/Tokenomics)
 * [Trade-off](https://en.wikipedia.org/wiki/Trade-off)
