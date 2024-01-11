@@ -21,8 +21,9 @@
 * [Reliability engineering](https://en.wikipedia.org/wiki/Reliability_engineering)
   * [Bathtub curve](https://en.wikipedia.org/wiki/Bathtub_curve)
   * [Control chart](https://en.wikipedia.org/wiki/Control_chart)
-  * [Statistical process control](https://en.wikipedia.org/wiki/Statistical_process_control)
+  * [Statistical process control](https://en.wikipedia.org/wiki/Statistical_process_control) (SPC)
   * [Walter A. Shewhart](https://en.wikipedia.org/wiki/Walter_A._Shewhart) 1891&mdash;1967
+  * [William Edwards Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming) 1900&mdash;1993
 * [Software supply chain](https://en.wikipedia.org/wiki/Software_supply_chain)
 * [Usability](https://en.wikipedia.org/wiki/Usability)
 * [Verification and validation](https://en.wikipedia.org/wiki/Verification_and_validation) (V&V)
