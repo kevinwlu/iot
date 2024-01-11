@@ -10,6 +10,7 @@
 * [Availability](https://en.wikipedia.org/wiki/Availability)
   * [High availability](https://en.wikipedia.org/wiki/High_availability)
 * [Bill of materials](https://en.wikipedia.org/wiki/Bill_of_materials) (BOM)
+* [Command and control](https://en.wikipedia.org/wiki/Command_and_control)
 * [Concurrent engineering](https://en.wikipedia.org/wiki/Concurrent_engineering)
 * [Dependability](https://en.wikipedia.org/wiki/Dependability)
 * [Design for X](https://en.wikipedia.org/wiki/Design_for_X)
