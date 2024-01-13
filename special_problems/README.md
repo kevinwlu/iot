@@ -10,6 +10,7 @@
   * [ImageNet](https://en.wikipedia.org/wiki/ImageNet)
 * [Digital image processing](https://en.wikipedia.org/wiki/Digital_image_processing)
 * [Standard test image](https://en.wikipedia.org/wiki/Standard_test_image)
+* [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
 * [Object detection](https://en.wikipedia.org/wiki/Object_detection)
   * [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
   * [PyTorch](https://en.wikipedia.org/wiki/PyTorch)
