@@ -196,6 +196,7 @@
   * [Shoggoth](https://en.wikipedia.org/wiki/Shoggoth)
   * [Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity)
   * [Guardrails](https://shreyar.github.io/guardrails/) Python package
+* ["Large content and behavior models to understand, simulate, and optimze content and behavior"](https://arxiv.org/abs/2309.00359)
 * [Alegion](https://www.alegion.com/)
   * [Language Model Scaling Laws and GPT-3](https://towardsdatascience.com/language-model-scaling-laws-and-gpt-3-5cdc034e67bb)
 * [Amazon Q](https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/)
