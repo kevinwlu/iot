@@ -108,6 +108,7 @@ Electrical Engineering EE 629
 * [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act) (CCPA)
 * [Federal Aviation Administration](https://en.wikipedia.org/wiki/Federal_Aviation_Administration) (FAA)
 * [Federal Trade Commission](https://en.wikipedia.org/wiki/Federal_Trade_Commission) (FTC)
+  * [United States International Trade Commission](https://en.wikipedia.org/wiki/United_States_International_Trade_Commission) (USITC)
 * [Food and Drug Administration](https://en.wikipedia.org/wiki/Food_and_Drug_Administration) (FDA)
 * [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (GDPR)
 * [National Highway Traffic Safety Administration](https://en.wikipedia.org/wiki/National_Highway_Traffic_Safety_Administration) (NHTSA)
