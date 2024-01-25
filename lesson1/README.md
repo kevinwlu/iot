@@ -376,6 +376,7 @@ $ sudo reboot
   * Installing [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) requires Windows 11 or a higher version (or build) of Windows 10
   * Join the [Windows Insiders Program](https://insider.windows.com/en-us/getting-started) if necessary
 * [Windows Terminal](https://en.wikipedia.org/wiki/Windows_Terminal)
+* [MSYS2](https://en.wikipedia.org/wiki/Mingw-w64#MSYS2)
 * [Git for Windows](https://gitforwindows.org/)
 * [PuTTY](https://en.wikipedia.org/wiki/PuTTY)
 ### 3. Run an SSH client to log into Raspberry Pi
