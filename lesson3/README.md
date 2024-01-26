@@ -18,6 +18,7 @@
   * [Pylint](https://en.wikipedia.org/wiki/Pylint)
   * [Keyboard interrupt](https://en.wikipedia.org/wiki/Keyboard_interrupt)
   * [Control-C](https://en.wikipedia.org/wiki/Control-C)
+* [Comparison of integrated development environments for Python](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#Python)
 * [Data type](https://en.wikipedia.org/wiki/Data_type)
 * [Data structure](https://en.wikipedia.org/wiki/Data_structure)
 * [List of data structures](https://en.wikipedia.org/wiki/List_of_data_structures)
