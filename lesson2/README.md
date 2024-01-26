@@ -17,6 +17,7 @@
   * [Geany](https://en.wikipedia.org/wiki/Geany)
   * [IDLE](https://en.wikipedia.org/wiki/IDLE) (Integrated Development and Learning Environment)
   * [PyCharm](https://en.wikipedia.org/wiki/PyCharm)
+  * [Spyder](https://en.wikipedia.org/wiki/Spyder_(software))
   * [Thonny](https://en.wikipedia.org/wiki/Thonny)
   * [Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio)
   * [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code) (VS Code)
