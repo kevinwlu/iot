@@ -37,6 +37,9 @@
   * [LightRidge](https://lightridge.github.io/lightridge/)
   * [Cunxi Yu](https://ycunxi.github.io/cunxiyu/)
 
+## 2024 Spring
+* 
+
 ## 2023 Fall
 * [Maximized Detection of Bees Using Deep Learning](https://github.com/HarshaTang/AAI800-Bee-Detection)
 
