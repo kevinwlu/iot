@@ -262,7 +262,7 @@
 * [Synthesys](https://synthesys.io/)
   * [Synthesys X](https://synthesys.io/x/)
 
-## 
+---
 * [Movidius Neural Compute Stick](https://github.com/movidius/ncsdk.git) (NCS)
   * [Intel NCS2](https://software.intel.com/content/www/us/en/develop/hardware/neural-compute-stick.html)
   * [Intel OpenVINO](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) (Visual Inference and Neural network Optimization)
