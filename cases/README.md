@@ -4,7 +4,7 @@
 * [Needlab](https://www.needlab.org/)
 ## YouTube Channels
 * [The Engineering Mindset](https://www.youtube.com/@EngineeringMindset/)
-* [MKBHD](https://www.youtube.com/@mkbhd) by [Marques Brownlee](https://en.wikipedia.org/wiki/Marques_Brownlee)
+* [MKBHD](https://www.youtube.com/@mkbhd) by [Marques Keith Brownlee](https://en.wikipedia.org/wiki/Marques_Brownlee)
 * [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
 * [Engineering Institute of Technology](https://www.youtube.com/@EngInstTech)
 * [Engineering with Rosie](https://www.youtube.com/@EngineeringwithRosie/) by [Rosie Barnes](https://blog.google/intl/en-au/products/connect-communicate/meet-youtube-creator-rosie-barnes/)
