@@ -49,6 +49,7 @@
 * [AI Query](https://www.aiquery.co/)
 * [AI Code Reviewer](https://ai-code-reviewer.com/)
 * [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+* [Amazon Rufus](https://www.aboutamazon.com/news/retail/amazon-rufus) generative AI-powered conversational shopping experience
 * [AnimeGAN.js](https://animegan.js.org/)
 * [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
   * [Claude 2](https://www.anthropic.com/index/claude-2), July 11, 2023
