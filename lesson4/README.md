@@ -99,6 +99,7 @@
     * [Nanome](https://nanome.ai/)
   * [Mixed reality](https://en.wikipedia.org/wiki/Mixed_reality) (MR)
     * [Apple Vision Pro](https://en.wikipedia.org/wiki/Apple_Vision_Pro)
+      * [VisionOS](https://en.wikipedia.org/wiki/VisionOS)
     * [Google Glass](https://en.wikipedia.org/wiki/Google_Glass)
     * [Meta Quest Pro](https://en.wikipedia.org/wiki/Meta_Quest_Pro)
     * [Microsoft HoloLens 2](https://en.wikipedia.org/wiki/HoloLens_2)
