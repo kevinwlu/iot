@@ -1,7 +1,7 @@
 # Engineering Economics
 ## YouTube Channels
 * [The Prof G Show](https://www.youtube.com/@TheProfGShow) by Prof. [Scott Galloway](https://en.wikipedia.org/wiki/Scott_Galloway_(professor))
-##
+---
 * [Engineering economics](https://en.wikipedia.org/wiki/Engineering_economics)
 * [Amoeba Management](https://en.wikipedia.org/wiki/Amoeba_Management) by [Kazuo Inamori](https://en.wikipedia.org/wiki/Kazuo_Inamori) 1932&mdash;2022, [official website](https://global.kyocera.com/inamori/)
 * [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet)
@@ -71,7 +71,7 @@
   * [Double-edged sword](https://en.wiktionary.org/wiki/double-edged_sword)
 * [World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum) (WEF)
 * [Zero-based budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting) (ZBB)
-## 
+---
 * [List of eponymous laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
 * [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
   * [Abraham Maslow](https://en.wikipedia.org/wiki/Abraham_Maslow) 1908&mdash;1970
@@ -105,7 +105,7 @@
 * [Tocqueville effect](https://en.wikipedia.org/wiki/Tocqueville_effect)
 * [Zipf's law](https://en.wikipedia.org/wiki/Zipf's_law)
   * [George Kingsley Zipf](https://en.wikipedia.org/wiki/George_Kingsley_Zipf) 1902&mdash;1950
-##
+---
 * [Black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory)
 * [Elephant in the room](https://en.wikipedia.org/wiki/Elephant_in_the_room)
 * [Michele Wucker](https://en.wikipedia.org/wiki/Michele_Wucker)
