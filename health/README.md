@@ -25,6 +25,7 @@
 * [Photoplethysmogram](https://en.wikipedia.org/wiki/Photoplethysmogram) (PPG)
 * [Respiratory sounds](https://en.wikipedia.org/wiki/Respiratory_sounds)
   * [Analysis of respiratory sounds: state of the art](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2990233/)
+  * [Stevens Students Make a Common Medical Procedure Safer for the Littlest Patients](https://www.stevens.edu/news/stevens-students-make-common-medical-procedure-safer-littlest-patients)
 * [Respiratory rate](https://en.wikipedia.org/wiki/Respiratory_rate) (RR)
   * [Breathing rate estimation from the electrocardiogram and photoplethysmogram: a review](https://ieeexplore.ieee.org/document/8081839)
   * [Contact and remote breathing rate monitoring techniques: a review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8769001/)
