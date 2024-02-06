@@ -162,6 +162,8 @@
   * [How to Run a Raspberry Pi Program on Startup](https://learn.sparkfun.com/tutorials/how-to-run-a-raspberry-pi-program-on-startup/all)
   * [Systemd.special](https://www.freedesktop.org/software/systemd/man/systemd.special.html)
   * [Bootup](https://www.freedesktop.org/software/systemd/man/bootup.html)
+* [`ifconfig`](https://en.wikipedia.org/wiki/Ifconfig)
+* [`ipconfig`](https://en.wikipedia.org/wiki/Ipconfig)
 * [SSH](https://en.wikipedia.org/wiki/Secure_Shell)
   * [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) (Rivest–Shamir–Adleman)
   * [DSA](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm) (Digital Signature Algorithm)
