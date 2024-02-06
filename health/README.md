@@ -38,3 +38,5 @@
 * [Sedentary lifestyle](https://en.wikipedia.org/wiki/Sedentary_lifestyle)
 * [Sphygmomanometer](https://en.wikipedia.org/wiki/Sphygmomanometer)
 * [Spirometer](https://en.wikipedia.org/wiki/Spirometer)
+* [Stethoscope](Stethoscope)
+* [Tinnitus](https://en.wikipedia.org/wiki/Tinnitus)
