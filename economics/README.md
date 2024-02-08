@@ -66,6 +66,7 @@
 * [Selling, General, and Administrative Expenses](https://en.wikipedia.org/wiki/SG%26A) (SG&A)
 * [Shovel ready](https://en.wikipedia.org/wiki/Shovel_ready)
 * [Sovereign wealth fund](https://en.wikipedia.org/wiki/Sovereign_wealth_fund) (SWF)
+* [Technical barriers to trade](https://en.wikipedia.org/wiki/Technical_barriers_to_trade) (TBT)
 * [Time value of money](https://en.wikipedia.org/wiki/Time_value_of_money)
 * [Tokenomics](https://en.wikipedia.org/wiki/Tokenomics)
 * [Trade-off](https://en.wikipedia.org/wiki/Trade-off)
