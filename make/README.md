@@ -29,6 +29,8 @@
   * [MH-EDU-Electronics](https://www.tindie.com/stores/mh-edu/)
 * [USC Make-a-Thon](https://www.uscmakeathon.com/)
 * [Youyeetoo](https://www.youyeetoo.com/)
+---
+* [Choke](https://en.wikipedia.org/wiki/Choke_(electronics)) is an inductor used to block higher-frequency alternating currents (AC) while passing direct current (DC) and lower-frequency ACs in a circuit
 * [Ferrite bead](https://en.wikipedia.org/wiki/Ferrite_bead) suppresses high-frequency electronic noise in electronic circuits
 ## Sensors
 * [Sensor](https://en.wikipedia.org/wiki/Sensor)
