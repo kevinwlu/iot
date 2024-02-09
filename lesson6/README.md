@@ -16,7 +16,7 @@
 * [PINE64](https://en.wikipedia.org/wiki/Pine64)
   * [Armbian](https://en.wikipedia.org/wiki/Armbian)
   * [Star64](https://www.hackster.io/news/pine64-s-star64-its-first-high-performance-risc-v-single-board-computer-design-finally-launches-d1fc1b226c86)
-##
+---
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
 * [EmbeddedRelated.com](https://www.embeddedrelated.com/)
 * [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller)
@@ -88,7 +88,7 @@
   * [Notecard](https://blues.io/products/notecard/)
 * [Micro Bit](https://en.wikipedia.org/wiki/Micro_Bit)
 * [Mbits](https://www.elecrow.com/wiki/index.php?title=Mbits)
-##
+---
 * [CoAP](https://en.wikipedia.org/wiki/Constrained_Application_Protocol) (Constrained Application Protocol)
   * [txThings](https://github.com/mwasilak/txThings)
   * [aiocoap](https://github.com/chrysn/aiocoap)
@@ -128,7 +128,7 @@
 * [Embedded operating system](https://en.wikipedia.org/wiki/Embedded_operating_system)
   * [OpenWrt](https://en.wikipedia.org/wiki/OpenWrt)
 * [Middleware](https://en.wikipedia.org/wiki/Middleware)
-##
+---
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
   * [Ryan Dahl](https://github.com/ry)
   * [Isaac Z. Schlueter](https://github.com/isaacs)
