@@ -11,6 +11,8 @@
 * [Digital image processing](https://en.wikipedia.org/wiki/Digital_image_processing)
 * [Standard test image](https://en.wikipedia.org/wiki/Standard_test_image)
 * [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
+* [Residual neural network](https://en.wikipedia.org/wiki/Residual_neural_network) (ResNet)
+* [Transformer](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture))
 * [Object detection](https://en.wikipedia.org/wiki/Object_detection)
   * [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
   * [PyTorch](https://en.wikipedia.org/wiki/PyTorch)
