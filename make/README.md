@@ -29,7 +29,7 @@
   * [MH-EDU-Electronics](https://www.tindie.com/stores/mh-edu/)
 * [USC Make-a-Thon](https://www.uscmakeathon.com/)
 * [Youyeetoo](https://www.youyeetoo.com/)
-* [Ferrite bead](https://en.wikipedia.org/wiki/Ferrite_bead)
+* [Ferrite bead](https://en.wikipedia.org/wiki/Ferrite_bead) suppresses high-frequency electronic noise in electronic circuits
 ## Sensors
 * [Sensor](https://en.wikipedia.org/wiki/Sensor)
 * [List of sensors](https://en.wikipedia.org/wiki/List_of_sensors)
