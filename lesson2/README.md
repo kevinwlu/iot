@@ -66,6 +66,9 @@
 * [LXDE](https://en.wikipedia.org/wiki/LXDE)
 * [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO)
   * [Hammer header](https://www.adafruit.com/product/3662)
+
+![GPIO Pinout](/GPIO-Pinout-Diagram-2.png)
+
 * [Breadboard](https://en.wikipedia.org/wiki/Breadboard)
   * [Broken-out breadboard](https://vilros.com/products/vilros-broken-out-breadboard-for-raspberry-pi)
 * [Antistatic bag](https://en.wikipedia.org/wiki/Antistatic_bag)
