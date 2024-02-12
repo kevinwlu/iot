@@ -13,7 +13,6 @@
 * [Examples of software functions that are not medical devices](https://www.fda.gov/medical-devices/device-software-functions-including-mobile-medical-applications/examples-software-functions-are-not-medical-devices)
   * [FDA 510(k) Explained: A Basic Guide to Premarket Notification](https://www.thefdagroup.com/blog/510k-explained)
 * [Fiducial marker](https://en.wikipedia.org/wiki/Fiducial_marker)
-* [Fundus (eye)](https://en.wikipedia.org/wiki/Fundus_(eye))
 * [Functional magnetic resonance imaging](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging) (fMRI)
 * [Heart valve](https://en.wikipedia.org/wiki/Heart_valve)
   * [Mitral valve](https://en.wikipedia.org/wiki/Mitral_valve)
@@ -41,3 +40,8 @@
 * [Spirometer](https://en.wikipedia.org/wiki/Spirometer)
 * [Stethoscope](Stethoscope)
 * [Tinnitus](https://en.wikipedia.org/wiki/Tinnitus)
+---
+* [Fundus (eye)](https://en.wikipedia.org/wiki/Fundus_(eye))
+* [Macular degeneration](https://en.wikipedia.org/wiki/Macular_degeneration)
+* [Photophobia](https://en.wikipedia.org/wiki/Photophobia)
+* [Phototoxicity](https://en.wikipedia.org/wiki/Phototoxicity)
