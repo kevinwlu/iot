@@ -60,6 +60,7 @@
 * [Mileage-Based Road User Charges](https://highways.dot.gov/public-roads/marchapril-2006/mileage-based-road-user-charges)
 * [Minsky moment](https://en.wikipedia.org/wiki/Minsky_moment)
 * [Price–earnings ratio](https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio) (P/E ratio)
+* [Prosumer](https://en.wikipedia.org/wiki/Prosumer)
 * [Rate of return](https://en.wikipedia.org/wiki/Rate_of_return)
 * [Return on investment](https://en.wikipedia.org/wiki/Return_on_investment) (ROI)
 * [Sarbanes–Oxley Act](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
