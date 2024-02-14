@@ -79,6 +79,7 @@
 * [Brushless DC electric motor](https://en.wikipedia.org/wiki/Brushless_DC_electric_motor) (BLDC)
   * [KinetiMax 68 EB Series](https://www.alliedmotion.com/wp-content/uploads/datasheets/Allied_Motion_Datasheet-KMX68_20171117.pdf) by [Allied Motion](https://en.wikipedia.org/wiki/Allied_Motion_Technologies)
 * [Counter-electromotive force](https://en.wikipedia.org/wiki/Counter-electromotive_force) (CEMF)
+* [Diffused RGB (tri-color) LED - Common Anode](https://www.adafruit.com/product/159)
 * [Head-up display](https://en.wikipedia.org/wiki/Head-up_display) (HUD)
 * [Servomotor](https://en.wikipedia.org/wiki/Servomotor)
 * [Solenoid](https://en.wikipedia.org/wiki/Solenoid)
