@@ -4,6 +4,7 @@
 * [Needlab](https://www.needlab.org/)
 ## YouTube Channels
 * [The Engineering Mindset](https://www.youtube.com/@EngineeringMindset/)
+* [Lex Fridman](https://www.youtube.com/@lexfridman) by [Lex Fridman](https://en.wikipedia.org/wiki/Lex_Fridman)
 * [MKBHD](https://www.youtube.com/@mkbhd) by [Marques Keith Brownlee](https://en.wikipedia.org/wiki/Marques_Brownlee)
 * [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
   * [Patrick Henry Winston](https://en.wikipedia.org/wiki/Patrick_Winston) 1943&mdash;2019, [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY), [IAP](https://elo.mit.edu/iap/) 2018
