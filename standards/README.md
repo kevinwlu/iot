@@ -101,6 +101,7 @@
   * [ISO/TC 268 Sustainable cities and communities](https://www.iso.org/committee/656906.html)
   * [ISO/IEC JTC 1/SC 6](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1/SC_6) [Telecommunications and information exchange between systems](https://www.iso.org/committee/45072.html)
   * [ISO/IEC JTC 1/SC 39](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1/SC_39) [Sustainability, IT and data centers](https://www.iso.org/committee/654019.html)
+  * [ISO 15118](https://en.wikipedia.org/wiki/ISO_15118) Road vehicles - Vehicle to grid communication interface
   * [ISO/IEC 15288](https://en.wikipedia.org/wiki/ISO/IEC_15288) 
   * [ISO/IEC 27000-series](https://en.wikipedia.org/wiki/ISO/IEC_27000-series)
   * [ISO/IEEE 11073](https://en.wikipedia.org/wiki/ISO/IEEE_11073)
