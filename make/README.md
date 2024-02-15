@@ -73,6 +73,8 @@
   * [Electret](https://en.wikipedia.org/wiki/Electret)
   * [Adafruit](https://www.adafruit.com/product/1935)
 * [Joystick](https://en.wikipedia.org/wiki/Joystick)
+* [Photodiode](https://en.wikipedia.org/wiki/Photodiode)
+  * [QSD2030](https://www.onsemi.com/pdf/datasheet/qsd2030-d.pdf)
 ## Actuators
 * [Actuator](https://en.wikipedia.org/wiki/Actuator)
 * [Brushed DC electric motor](https://en.wikipedia.org/wiki/Brushed_DC_electric_motor)
@@ -80,6 +82,8 @@
   * [KinetiMax 68 EB Series](https://www.alliedmotion.com/wp-content/uploads/datasheets/Allied_Motion_Datasheet-KMX68_20171117.pdf) by [Allied Motion](https://en.wikipedia.org/wiki/Allied_Motion_Technologies)
 * [Counter-electromotive force](https://en.wikipedia.org/wiki/Counter-electromotive_force) (CEMF)
 * [Diffused RGB (tri-color) LED - Common Anode](https://www.adafruit.com/product/159)
+* [LTL-4231NLC](https://www.digikey.com/en/products/detail/liteon/LTL-4231NLC/3198529) Green LED 569 nm by [Lite-On](https://en.wikipedia.org/wiki/Lite-On)
+* [IR204-A](https://www.digikey.com/en/products/detail/everlight-electronics-co-ltd/IR204-A/2675566) Infrared Emitter 940 nm by [Everlight Electronics](https://en.wikipedia.org/wiki/Everlight_Electronics)
 * [Head-up display](https://en.wikipedia.org/wiki/Head-up_display) (HUD)
 * [Servomotor](https://en.wikipedia.org/wiki/Servomotor)
 * [Solenoid](https://en.wikipedia.org/wiki/Solenoid)
