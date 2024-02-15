@@ -9,6 +9,7 @@
 * [MATLAB Mobile](https://www.mathworks.com/products/matlab-mobile.html)
 * [Merlin Bird ID](https://merlin.allaboutbirds.org/)
   * [Ornithology](https://en.wikipedia.org/wiki/Ornithology)
+* [Oko](https://www.ayes.ai/) AI-powered navigation app for people with a disability
 * [PimEyes](https://pimeyes.com/)
 * [Pl@ntNet](https://en.wikipedia.org/wiki/Pl@ntNet)
   * [Botany](https://en.wikipedia.org/wiki/Botany)
