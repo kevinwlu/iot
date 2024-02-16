@@ -244,6 +244,7 @@
   * ["New AI classifier for indicating AI-written text"](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text), January 31, 2023
     * [AI Text Classifier](https://platform.openai.com/ai-text-classifier)
   * ["Introducing ChatGPT and Whisper APIs"](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), March 1, 2023
+  * [Sora](https://openai.com/sora), February 15, 2024 
 * [OpenMinded](https://www.openmined.org/)
   * [PySyft](https://github.com/OpenMined/PySyft)
 * [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
