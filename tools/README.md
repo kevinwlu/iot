@@ -8,6 +8,7 @@
 * [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV) by [Jay LaCroix](https://www.linkedin.com/in/jeremylacroix/)
   * [GitHub repositories](https://github.com/learnLinuxTV)
 * [Paul McWhorter](https://www.youtube.com/@paulmcwhorter)
+* [Upper Story](https://www.youtube.com/@upperstory)
 ## Magazines
 * [Aeon_(magazine)](https://en.wikipedia.org/wiki/Aeon_(magazine))
 * [Nautilus Quarterly](https://en.wikipedia.org/wiki/Nautilus_Quarterly)
