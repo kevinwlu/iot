@@ -7,6 +7,7 @@
   * [iCIMS](https://en.wikipedia.org/wiki/ICIMS)
 * [KiwiCo](https://www.youtube.com/@KiwiCo)
 * [Lesics](https://www.youtube.com/@Lesics) by [Sabin Mathew](https://www.linkedin.com/in/sabin-mathew/)
+* [littleBits Electronics](https://www.youtube.com/@littleBitsElectronics)
 * [Lovevery](https://www.youtube.com/@Lovevery)
 * [Maker Kids](https://www.youtube.com/@makerkids)
 * [Seeed Studio](https://www.youtube.com/@SeeedStudioSZ)
