@@ -5,10 +5,12 @@
 * [Hackster.io](https://www.youtube.com/@HacksterIo)
 * [iCIMS Halloween Hackathon](https://www.youtube.com/watch?v=guMeD6ama5Q) on [October 27, 2018](https://www.icims.com/company/newsroom/icims-to-host-halloween-hackathon-at-bell-works/)
   * [iCIMS](https://en.wikipedia.org/wiki/ICIMS)
+* [KiwiCo](https://www.youtube.com/@KiwiCo)
 * [Lesics](https://www.youtube.com/@Lesics) by [Sabin Mathew](https://www.linkedin.com/in/sabin-mathew/)
 * [Seeed Studio](https://www.youtube.com/@SeeedStudioSZ)
 * [Simone Giertz](https://www.youtube.com/@simonegiertz) by [Simone Giertz](https://en.wikipedia.org/wiki/Simone_Giertz)
 * [SmarterEveryDay](https://www.youtube.com/@smartereveryday/) by [Destin Sandlin](https://en.wikipedia.org/wiki/Destin_Sandlin)
+* [Upper Story](https://www.youtube.com/@upperstory)
 * [Veritasium](https://www.youtube.com/@veritasium) by [Derek Muller](https://en.wikipedia.org/wiki/Derek_Muller)
 ---
 * [Adafruit](https://en.wikipedia.org/wiki/Adafruit_Industries)
