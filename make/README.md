@@ -7,6 +7,7 @@
   * [iCIMS](https://en.wikipedia.org/wiki/ICIMS)
 * [KiwiCo](https://www.youtube.com/@KiwiCo)
 * [Lesics](https://www.youtube.com/@Lesics) by [Sabin Mathew](https://www.linkedin.com/in/sabin-mathew/)
+* [Maker Kids](https://www.youtube.com/@makerkids)
 * [Seeed Studio](https://www.youtube.com/@SeeedStudioSZ)
 * [Simone Giertz](https://www.youtube.com/@simonegiertz) by [Simone Giertz](https://en.wikipedia.org/wiki/Simone_Giertz)
 * [SmarterEveryDay](https://www.youtube.com/@smartereveryday/) by [Destin Sandlin](https://en.wikipedia.org/wiki/Destin_Sandlin)
