@@ -157,6 +157,9 @@
   * [`uname`](https://en.wikipedia.org/wiki/Uname)
   * [`ifconfig`](https://en.wikipedia.org/wiki/Ifconfig)
   * [`ipconfig`](https://en.wikipedia.org/wiki/Ipconfig)
+  * [Using quotes sucessfully](https://powerbi-cli.github.io/content/howto-quotes.html)
+    > In Bash or PowerShell, both single and double quotes are interpreted correctly.
+    > In Windows Command Prompt, only double quotes are interpreted correctly -- single quotes are treated as part of the value.
 * [RaspberryTips](https://raspberrytips.com/)
   * [57 Best Raspberry Pi Commands You Should Know](https://raspberrytips.com/raspberry-pi-commands/)
   * [OpenWrt on Raspberry Pi: Use your Pi as a router](https://raspberrytips.com/openwrt-on-raspberry-pi/)
