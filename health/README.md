@@ -1,4 +1,7 @@
 # Health
+## YouTube Channels
+* [AudioTelligence](https://www.youtube.com/@audiotelligence5387)
+___
 * [Aortic stenosis](https://en.wikipedia.org/wiki/Aortic_stenosis)
 * [Atrial fibrillation](https://en.wikipedia.org/wiki/Atrial_fibrillation) (AFib or AF)
 * [Blood pressure](https://en.wikipedia.org/wiki/Blood_pressure)
