@@ -144,6 +144,8 @@
 * [User interface](https://en.wikipedia.org/wiki/User_interface) (UI)
 * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) (GUI)
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
+  * [Using quotes sucessfully](https://powerbi-cli.github.io/content/howto-quotes.html)
+    > In [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) or [PowerShell](https://en.wikipedia.org/wiki/PowerShell), both single and double quotes are interpreted correctly. In Windows [Command Prompt](https://en.wikipedia.org/wiki/Cmd.exe), only double quotes are interpreted correctly -- single quotes are treated as part of the value.
   * [Termina emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
   * [Keyboard shortcut](https://en.wikipedia.org/wiki/Keyboard_shortcut)
   * [Control-D](https://en.wikipedia.org/wiki/End-of-Transmission_character)
@@ -157,9 +159,6 @@
   * [`uname`](https://en.wikipedia.org/wiki/Uname)
   * [`ifconfig`](https://en.wikipedia.org/wiki/Ifconfig)
   * [`ipconfig`](https://en.wikipedia.org/wiki/Ipconfig)
-  * [Using quotes sucessfully](https://powerbi-cli.github.io/content/howto-quotes.html)
-    > In Bash or PowerShell, both single and double quotes are interpreted correctly.
-    > In Windows Command Prompt, only double quotes are interpreted correctly -- single quotes are treated as part of the value.
 * [RaspberryTips](https://raspberrytips.com/)
   * [57 Best Raspberry Pi Commands You Should Know](https://raspberrytips.com/raspberry-pi-commands/)
   * [OpenWrt on Raspberry Pi: Use your Pi as a router](https://raspberrytips.com/openwrt-on-raspberry-pi/)
