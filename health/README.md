@@ -38,6 +38,8 @@
 * [Sedentary lifestyle](https://en.wikipedia.org/wiki/Sedentary_lifestyle)
 * [Sphygmomanometer](https://en.wikipedia.org/wiki/Sphygmomanometer)
 * [Spirometer](https://en.wikipedia.org/wiki/Spirometer)
+---
+* [Cocktail party effect](https://en.wikipedia.org/wiki/Cocktail_party_effect)
 * [Stethoscope](Stethoscope)
 * [Tinnitus](https://en.wikipedia.org/wiki/Tinnitus)
 ---
