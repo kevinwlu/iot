@@ -14,6 +14,7 @@
 * [Lovevery](https://www.youtube.com/@Lovevery)
 * [Make:](https://www.youtube.com/@MAKE)
 * [Maker Kids](https://www.youtube.com/@makerkids)
+* [Product Hunt](https://www.youtube.com/@product_hunt)
 * [SciFri](https://www.youtube.com/@scifri)
 * [Seeed Studio](https://www.youtube.com/@SeeedStudioSZ)
 * [Simone Giertz](https://www.youtube.com/@simonegiertz) by [Simone Giertz](https://en.wikipedia.org/wiki/Simone_Giertz)
