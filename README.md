@@ -26,7 +26,7 @@ Electrical Engineering EE 629
 * [Use cases](/cases)
 
 ## References
-* [Hands-on books series](http://www.hands-on-books-series.com)
+* [Hands-on books series](http://www.hands-on-books-series.com) by [Arshdeep Bahga](https://arshdeep.bahga.in/) and [Vijay Madisetti](https://ece.gatech.edu/directory/vijay-k-madisetti)
 * [Internet](https://en.wikipedia.org/wiki/Internet)
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
   * [ETSI](https://en.wikipedia.org/wiki/ETSI) White Paper No. 45: [_ETSI Technology Radar_](https://www.etsi.org/images/files/ETSIWhitePapers/etsi_wp45_ETSI_technology_radar.pdf)
