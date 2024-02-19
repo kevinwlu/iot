@@ -270,6 +270,7 @@
   * [Aspartame](https://en.wikipedia.org/wiki/Aspartame)
   * [Brominated vegetable oil](https://en.wikipedia.org/wiki/Brominated_vegetable_oil) (BVO)
   * [Erythrosine](https://en.wikipedia.org/wiki/Erythrosine) (Red Dye No. 3)
+  * [Florfenicol](https://en.wikipedia.org/wiki/Florfenicol)
   * [Fumaric_acid](https://en.wikipedia.org/wiki/Fumaric_acid)
   * [Potassium bromate](https://en.wikipedia.org/wiki/Potassium_bromate)
   * [Propylparaben](https://en.wikipedia.org/wiki/Propylparaben) (Europe number or [E number](https://en.wikipedia.org/wiki/E_number) E216)
