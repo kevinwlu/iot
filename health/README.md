@@ -50,3 +50,6 @@ ___
 * [Macular degeneration](https://en.wikipedia.org/wiki/Macular_degeneration)
 * [Photophobia](https://en.wikipedia.org/wiki/Photophobia)
 * [Phototoxicity](https://en.wikipedia.org/wiki/Phototoxicity)
+___
+* [Docosahexaenoic acid](https://en.wikipedia.org/wiki/Docosahexaenoic_acid) (DHA)
+* [Lecithin](https://en.wikipedia.org/wiki/Lecithin)
