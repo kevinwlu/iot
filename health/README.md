@@ -57,5 +57,8 @@ ___
   * [Docosahexaenoic acid](https://en.wikipedia.org/wiki/Docosahexaenoic_acid) (DHA)
   * [Iron(II)](https://en.wikipedia.org/wiki/Iron(II))
   * [Iron(II) sulfide](https://en.wikipedia.org/wiki/Iron(II)_sulfide)
+  * [What causes a green ring around the yolk of a hard-cooked egg?](https://ask.usda.gov/s/article/What-causes-a-green-ring-around-the-yolk-of-a-hard-cooked-egg)
   * [Lecithin](https://en.wikipedia.org/wiki/Lecithin)
 * [Egg timer](https://en.wikipedia.org/wiki/Egg_timer)
+  * [How to avoid a green ring on hard-boiled egg yolks](https://food.unl.edu/how-avoid-green-ring-hard-boiled-egg-yolks)
+  * [How to make perfect boiled eggs without the green ring](https://www.uaex.uada.edu/counties/miller/news/fcs/meats-proteins/How%20to%20Make%20Perfect%20Boiled%20Eggs%20Without%20the%20Green%20Ring.aspx)
