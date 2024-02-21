@@ -40,7 +40,9 @@
   * [Cunxi Yu](https://ycunxi.github.io/cunxiyu/)
 
 ## 2024 Spring
-* 
+* [Automated ParkingAI System Using Computer Vision](https://github.com/RavikanthAI/AAI-800-820)
+* [Recipe Recommendation System](https://github.com/Vindhyau/Recipe-Recommendation-System-)
+* [Route Guide: A Network Device Classifier](https://github.com/pravi-2405)
 
 ## 2023 Fall
 * [Maximized Detection of Bees Using Deep Learning](https://github.com/HarshaTang/AAI800-Bee-Detection)
