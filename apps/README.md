@@ -1,5 +1,6 @@
 # Apps
 ## YouTube Channels
+* [Anthropic](https://www.youtube.com/@anthropic-ai)
 * [JigSpace](https://www.youtube.com/@JigSpace)
 ---
 * [List of home automation software](https://en.wikipedia.org/wiki/List_of_home_automation_software)
