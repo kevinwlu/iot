@@ -41,6 +41,7 @@ ___
   * [Respiration rate and volume measurements wsing Wearable strain sensors](https://www.nature.com/articles/s41746-019-0083-3)
   * [Respiratory rate assessments using a dual-accelerometer device](https://www.sciencedirect.com/science/article/abs/pii/S1569904813003698)
 * [Sedentary lifestyle](https://en.wikipedia.org/wiki/Sedentary_lifestyle)
+* [Situation, Background, Assessment, Recommendation](https://en.wikipedia.org/wiki/SBAR) (SBAR)
 * [Sphygmomanometer](https://en.wikipedia.org/wiki/Sphygmomanometer)
 * [Spirometer](https://en.wikipedia.org/wiki/Spirometer)
 ---
