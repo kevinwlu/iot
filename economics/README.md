@@ -39,6 +39,8 @@
 * [Income statement](https://en.wikipedia.org/wiki/Income_statement)
 * [Inflation](https://en.wikipedia.org/wiki/Inflation)
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator) or Key performance indicator (KPI)
+* [Price–performance ratio](https://en.wikipedia.org/wiki/Price%E2%80%93performance_ratio)
+  * [Benefit–cost ratio](https://en.wikipedia.org/wiki/Benefit%E2%80%93cost_ratio)
 * [Knowledge economy](https://en.wikipedia.org/wiki/Knowledge_economy)
 * [Letter of intent](https://en.wikipedia.org/wiki/Letter_of_intent) (LoI)
 * [Life-cycle cost](https://en.wikipedia.org/wiki/Whole-life_cost) (LCC)
