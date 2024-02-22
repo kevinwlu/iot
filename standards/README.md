@@ -59,6 +59,7 @@
   * [IEEE SA GitLab](https://opensource.ieee.org/)
   * [IEEE IoT technical community](https://iot.ieee.org/)
   * [IEEE SA IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
+    * [Why IoT Sensors Need Standards: They could improve performance and spur development of new applications](https://spectrum.ieee.org/why-iot-sensors-need-standards)
   * [IEEE 802](https://en.wikipedia.org/wiki/IEEE_802)
   * [IEEE 1451](https://en.wikipedia.org/wiki/IEEE_1451)
   * [IEEE 1451.0](https://standards.ieee.org/ieee/1451.0/11001/) Standard for a Smart Transducer Interface for Sensors, Actuators, Devices, and Systems - Common Functions, Communication Protocols, and Transducer Electronic Data Sheet (TEDS) Formats
