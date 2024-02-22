@@ -59,6 +59,7 @@
   * [IEEE SA GitLab](https://opensource.ieee.org/)
   * [IEEE IoT technical community](https://iot.ieee.org/)
   * [IEEE SA IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
+  * [IEEE 802](https://en.wikipedia.org/wiki/IEEE_802)
   * [IEEE 1451](https://en.wikipedia.org/wiki/IEEE_1451)
   * [IEEE P1451.0](https://standards.ieee.org/ieee/1451.0/11001/) Draft Standard for a Smart Transducer Interface for Sensors, Actuators, Devices, and Systems - Common Functions, Communication Protocols, and Transducer Electronic Data Sheet (TEDS) Formats
   * [IEEE P1451-99](https://standards.ieee.org/ieee/1451.99/10355/) Standard for Harmonization of Internet of Things (IoT) Devices and Systems
