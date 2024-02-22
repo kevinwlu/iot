@@ -3,6 +3,8 @@
   * "[Teaching standards to engineers](https://www.academia.edu/1450419/Teaching_standards_to_engineers)," 2007
   * "[The mathematical basis of standards](https://www.academia.edu/1450425/The_mathematical_basis_of_standards)," 2005
   * [Lectures](https://www.isology.com/lectures-by-ken-krechmer/)
+* [Good faith](https://en.wikipedia.org/wiki/Good_faith)
+  * [Bad faith](https://en.wikipedia.org/wiki/Bad_faith)
 * [Standard-essential patent](https://en.wikipedia.org/wiki/Essential_patent) (SEP)
 * [Standards organization](https://en.wikipedia.org/wiki/Standards_organization)
 * [List of technical standard organizations](https://en.wikipedia.org/wiki/List_of_technical_standard_organizations)
