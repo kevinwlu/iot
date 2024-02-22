@@ -47,6 +47,7 @@
 * [List of legal entity types by country](https://en.wikipedia.org/wiki/List_of_legal_entity_types_by_country)
   * [Company](https://en.wikipedia.org/wiki/Company)
   * [Corporation](https://en.wikipedia.org/wiki/Corporation)
+  * [Nonprofit organization](https://en.wikipedia.org/wiki/Nonprofit_organization)
     * [501(c) organization](https://en.wikipedia.org/wiki/501(c)_organization)
     * [501(c)(3) organization](https://en.wikipedia.org/wiki/501(c)(3)_organization)
   * [Incorporation](https://en.wikipedia.org/wiki/Incorporation_(business))
