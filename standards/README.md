@@ -62,6 +62,7 @@
   * [IEEE 1451](https://en.wikipedia.org/wiki/IEEE_1451)
   * [IEEE P1451.0](https://standards.ieee.org/ieee/1451.0/11001/) Draft Standard for a Smart Transducer Interface for Sensors, Actuators, Devices, and Systems - Common Functions, Communication Protocols, and Transducer Electronic Data Sheet (TEDS) Formats
   * [IEEE P1451-99](https://standards.ieee.org/ieee/1451.99/10355/) Standard for Harmonization of Internet of Things (IoT) Devices and Systems
+  * [IEEE 1547-2018](https://standards.ieee.org/ieee/1547/5915/) Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces
   * [IEEE P1918.1](https://standards.ieee.org/ieee/1918.1/6721/) Standard for Tactile Internet: Application Scenarios, Definitions and Terminology, Architecture, Functions, and Technical Assumptions
   * [IEEE 2030.5-2018](https://standards.ieee.org/ieee/2030.5/5897/) IEEE Standard for Smart Energy Profile Application Protocol
   * [IEEE 2050-2018](https://standards.ieee.org/ieee/2050/7178/) Standard for a Real-Time Operating System (RTOS) for Small-Scale Embedded Systems
