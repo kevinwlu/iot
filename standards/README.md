@@ -61,14 +61,13 @@
   * [IEEE SA IoT standards and projects](https://standards.ieee.org/initiatives/iot/)
   * [IEEE 802](https://en.wikipedia.org/wiki/IEEE_802)
   * [IEEE 1451](https://en.wikipedia.org/wiki/IEEE_1451)
-  * [IEEE P1451.0](https://standards.ieee.org/ieee/1451.0/11001/) Draft Standard for a Smart Transducer Interface for Sensors, Actuators, Devices, and Systems - Common Functions, Communication Protocols, and Transducer Electronic Data Sheet (TEDS) Formats
-  * [IEEE P1451-99](https://standards.ieee.org/ieee/1451.99/10355/) Standard for Harmonization of Internet of Things (IoT) Devices and Systems
-  * [IEEE 1547-2018](https://standards.ieee.org/ieee/1547/5915/) Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces
+  * [IEEE 1451.0](https://standards.ieee.org/ieee/1451.0/11001/) Standard for a Smart Transducer Interface for Sensors, Actuators, Devices, and Systems - Common Functions, Communication Protocols, and Transducer Electronic Data Sheet (TEDS) Formats
+  * [IEEE 1547](https://standards.ieee.org/ieee/1547/5915/) Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces
   * [IEEE P1918.1](https://standards.ieee.org/ieee/1918.1/6721/) Standard for Tactile Internet: Application Scenarios, Definitions and Terminology, Architecture, Functions, and Technical Assumptions
-  * [IEEE 2030.5-2018](https://standards.ieee.org/ieee/2030.5/5897/) IEEE Standard for Smart Energy Profile Application Protocol
-  * [IEEE 2050-2018](https://standards.ieee.org/ieee/2050/7178/) Standard for a Real-Time Operating System (RTOS) for Small-Scale Embedded Systems
+  * [IEEE 2030.5](https://standards.ieee.org/ieee/2030.5/5897/) IEEE Standard for Smart Energy Profile Application Protocol
+  * [IEEE 2050](https://standards.ieee.org/ieee/2050/7178/) Standard for a Real-Time Operating System (RTOS) for Small-Scale Embedded Systems
     * [Micro T-Kernel](https://en.wikipedia.org/wiki/Micro_T-Kernel)
-  * [IEEE 2089-2021](https://standards.ieee.org/ieee/2089/7633/) Standard for an Age Appropriate Digital Services Framework Based on the 5Rights Principles for Children
+  * [IEEE 2089](https://standards.ieee.org/ieee/2089/7633/) Standard for an Age Appropriate Digital Services Framework Based on the 5Rights Principles for Children
     * [CEN/CENELEC Workshop Agreement (CWA) 18016](https://www.cencenelec.eu/news-and-events/news/2023/eninthespotlight/2023-09-14-cwa-18016-children-protection-online/) Age Appropriate Digital Services Framework
   * [IEEE P2418.1](https://standards.ieee.org/ieee/2418.1/10460/) Standard for the Framework of Blockchain Use in Internet of Things (IoT)
   * [IEEE Ethics in Action in Autonomous and Intelligent Systems](https://ethicsinaction.ieee.org/)
