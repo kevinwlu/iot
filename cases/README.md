@@ -1,5 +1,5 @@
 # Use Cases
-* [Use case](https://en.wikipedia.org/wiki/Use_case) or användningsfall in Swedish
+* [Use case](https://en.wikipedia.org/wiki/Use_case) or användningsfall in Swedish by [Ivar Jacobson](https://en.wikipedia.org/wiki/Ivar_Jacobson) in 1987 to specify [functional requirements](https://en.wikipedia.org/wiki/Functional_requirement)
 * [Business case](https://en.wikipedia.org/wiki/Business_case)
 * [Case study](https://en.wikipedia.org/wiki/Case_study)
 * [Test case](https://en.wikipedia.org/wiki/Test_case)
