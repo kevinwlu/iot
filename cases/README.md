@@ -1,6 +1,8 @@
 # Use Cases
 * [Use case](https://en.wikipedia.org/wiki/Use_case) or användningsfall in Swedish by [Ivar Jacobson](https://en.wikipedia.org/wiki/Ivar_Jacobson) in 1987 to specify [functional requirements](https://en.wikipedia.org/wiki/Functional_requirement)
+* [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language) (UML)
 * [Business case](https://en.wikipedia.org/wiki/Business_case)
+* [Concept of operations](https://en.wikipedia.org/wiki/Concept_of_operations) (ConOps)
 * [Case study](https://en.wikipedia.org/wiki/Case_study)
 * [Test case](https://en.wikipedia.org/wiki/Test_case)
 * [Storyboard](https://en.wikipedia.org/wiki/Storyboard)
