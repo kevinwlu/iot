@@ -1,5 +1,5 @@
 # Use Cases
-* [Use case](https://en.wikipedia.org/wiki/Use_case)
+* [Use case](https://en.wikipedia.org/wiki/Use_case) or användningsfall in Swedish
 * [Business case](https://en.wikipedia.org/wiki/Business_case)
 * [Case study](https://en.wikipedia.org/wiki/Case_study)
 * [Test case](https://en.wikipedia.org/wiki/Test_case)
