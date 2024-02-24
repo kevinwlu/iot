@@ -412,6 +412,9 @@
 * [GITAI](https://gitai.tech/)
 * [Ingenuity (helicopter)](https://en.wikipedia.org/wiki/Ingenuity_(helicopter))
 * [Intuitive Machines](https://en.wikipedia.org/wiki/Intuitive_Machines)
+  * [IM-1](https://en.wikipedia.org/wiki/IM-1) mission
+  > On February 22, 2024, the *Odysseus* lander landed on the Moon
+  * [Odysseus](https://en.wikipedia.org/wiki/Odysseus)
 * [Isar Aerospace](https://en.wikipedia.org/wiki/Isar_Aerospace)
 * [ispace](https://en.wikipedia.org/wiki/Ispace_(Japanese_company))
 * [Kuiper Systems](https://en.wikipedia.org/wiki/Kuiper_Systems)
