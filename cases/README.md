@@ -1,4 +1,5 @@
 # Use Cases
+* [Use case](https://en.wikipedia.org/wiki/Use_case)
 * [Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)
 * [Sustainable transport](https://en.wikipedia.org/wiki/Sustainable_transport)
 * [Needlab](https://www.needlab.org/)
