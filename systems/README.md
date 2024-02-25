@@ -28,6 +28,8 @@
   * [The W. Edwards Deming Institute](https://deming.org/)
 * [Software supply chain](https://en.wikipedia.org/wiki/Software_supply_chain)
 * [Usability](https://en.wikipedia.org/wiki/Usability)
+* [User experience](https://en.wikipedia.org/wiki/User_experience) (UX)
+  * [1-Click](https://en.wikipedia.org/wiki/1-Click)
 * [Verification and validation](https://en.wikipedia.org/wiki/Verification_and_validation) (V&V)
 * [Web accessibility](https://en.wikipedia.org/wiki/Web_accessibility)
 ## Project Management
