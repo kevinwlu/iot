@@ -349,6 +349,8 @@
 * [Unified numbering system](https://en.wikipedia.org/wiki/Unified_numbering_system) (UNS)
 ## Privacy and Security
 * [Cloaked](https://www.cloaked.app/)
+* [Okta, Inc.](https://en.wikipedia.org/wiki/Okta,_Inc.)
+  * [Okta](https://en.wikipedia.org/wiki/Okta) measurements describe how many eighths of the sky are covered in cloud, ranging from 0 oktas (completely clear sky) to 8 oktas (completely [overcast](https://en.wikipedia.org/wiki/Overcast))
 * [VicOne](https://vicone.com/)
 ## Public Services
 * [Food rescue](https://en.wikipedia.org/wiki/Food_rescue)
