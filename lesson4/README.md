@@ -114,6 +114,7 @@
   * [Degrees of freedom (mechanics)](https://en.wikipedia.org/wiki/Degrees_of_freedom_(mechanics)) (DOF)
   * [MIROS](https://miros.technology/) (Multiscale Interactive Robotic Surface)
   * [Ultraleap](https://en.wikipedia.org/wiki/Leap_Motion)
+* [Persona](https://en.wikipedia.org/wiki/Persona)
 * [Virtual assistant](https://en.wikipedia.org/wiki/Virtual_assistant)
 * [Voice warning system](https://en.wikipedia.org/wiki/Voice_warning_system)
 ## Labs 4A and 4B: Django and Django REST
