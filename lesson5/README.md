@@ -1,7 +1,8 @@
 # Lesson 5: Paho and Crossbar.io
-
 * [Publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) (Pub/Sub)
 * [Message queuing telemetry transport](https://en.wikipedia.org/wiki/MQTT) (MQTT)
+  * [What is MQTT](https://www.youtube.com/watch?v=t5b7gGYAezQ) by [IoT for All](https://www.youtube.com/@IoTForAll)
+  * [Roger Light](https://github.com/ralight)
   * [OASIS](https://en.wikipedia.org/wiki/OASIS_(organization)) (Organization for the Advancement of Structured Information Standards)
   * [MQTT specification](https://mqtt.org/mqtt-specification/)
   * [Eclipse Foundation](https://en.wikipedia.org/wiki/Eclipse_Foundation)
