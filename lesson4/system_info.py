@@ -42,7 +42,8 @@ def get_connections():
 def get_temperature():
 # Returns the temperature in degrees C
     try:
-        s = (subprocess.check_output(['/opt/vc/bin/vcgencmd','measure_temp'])).decode()
+#        s = (subprocess.check_output(['/opt/vc/bin/vcgencmd','measure_temp'])).decode()
+        s = (subprocess.check_output(['/usr/bin/vcgencmd','measure_temp'])).decode()
         return float(s.split('=')[1][:-3])
     except:
         return 0
@@ -58,7 +59,8 @@ def get_ipaddress():
 
 def get_cpu_speed():
 # Returns the current CPU speed
-    f = os.popen('/opt/vc/bin/vcgencmd get_config arm_freq')
+#    f = os.popen('/opt/vc/bin/vcgencmd get_config arm_freq')
+    f = os.popen('/usr/bin/vcgencmd get_config arm_freq')
     cpu = f.read()
     return cpu
 
