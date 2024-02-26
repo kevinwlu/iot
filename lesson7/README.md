@@ -62,7 +62,7 @@ Should we save this key for future use? [y/N] >>>
 $ sudo pip3 install -U gspread oauth2client
 ```
 ### Copy system_info.py and rpi_spreadsheet.py to ~/demo
-* On Raspberry Pi OS (Bullseye), change /opt/vc/bin/vcgencmd to /usr/bin/vcgencmd in system_info.py
+* On Raspberry Pi OS (Bullseye and after), change /opt/vc/bin/vcgencmd to /usr/bin/vcgencmd in system_info.py
 ```sh
 $ cd demo
 $ cp ~/iot/lesson3/system_info.py .
