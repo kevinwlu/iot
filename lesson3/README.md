@@ -338,9 +338,9 @@ $ python3 cpu.py
 $ python3 battery.py
 $ python3 documentstats.py document.txt
 ```
-### On Raspberry Pi OS (Bullseye), change /opt/vc/bin/vcgencmd to /usr/bin/vcgencmd in system_info.py
+### On Raspberry Pi OS, run system_info.py
+* On older versions of Raspberry Pi OS before Bullseye, change /usr/bin/vcgencmd to /opt/vc/bin/vcgencmd in system_info.py
 ```sh
-$ nano system_info.py
 $ python3 system_info.py
 ```
 ### Run ifconfig on Raspberry Pi (macOS or Linux) or ipconfig on Windows to find IP address 
