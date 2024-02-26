@@ -78,14 +78,11 @@ pi@raspberrypi:~/myraspi/myapp/static/myapp $ cd ~/myraspi
 ```
 ## Copy system_info.py and controller.py to ~/myraspi
 * system_info.py only runs on Raspberry Pi
+* On older versions of Raspberry Pi OS before Bullseye, change /usr/bin/vcgencmd to /opt/vc/bin/vcgencmd in system_info.py
 * Alternatively, replace CPU temperature with other [psutil](https://pypi.org/project/psutil/) information
 ```sh
 pi@raspberrypi:~/myraspi $ cp ~/iot/lesson3/system_info.py .
 pi@raspberrypi:~/myraspi $ cp ~/iot/lesson4/myraspi/controller.py .
-```
-## On Raspberry Pi OS (Bullseye), change /opt/vc/bin/vcgencmd to /usr/bin/vcgencmd in system_info.py
-```sh
-pi@raspberrypi:~/myraspi $ nano system_info.py
 ```
 ## Change the default password 'raspberry' in controller.py
 ```sh
