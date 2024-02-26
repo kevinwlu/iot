@@ -3,6 +3,9 @@
 * [Message queuing telemetry transport](https://en.wikipedia.org/wiki/MQTT) (MQTT)
   * [What is MQTT](https://www.youtube.com/watch?v=t5b7gGYAezQ) by [IoT for All](https://www.youtube.com/@IoTForAll)
   * [Roger Light](https://github.com/ralight)
+    * [Cedalo](https://cedalo.com/) 
+    * [GmbH](https://en.wikipedia.org/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung)
+    * [AG](https://en.wikipedia.org/wiki/Aktiengesellschaft)
   * [OASIS](https://en.wikipedia.org/wiki/OASIS_(organization)) (Organization for the Advancement of Structured Information Standards)
   * [MQTT specification](https://mqtt.org/mqtt-specification/)
   * [Eclipse Foundation](https://en.wikipedia.org/wiki/Eclipse_Foundation)
@@ -10,9 +13,6 @@
   * [Eclipse IoT Sandboxes](https://iot.eclipse.org/projects/sandboxes/)
   * [Sandbox (software development)](https://en.wikipedia.org/wiki/Sandbox_(software_development))
   * [Sandbox (computer security)](https://en.wikipedia.org/wiki/Sandbox_(computer_security))
-  * [Cedalo](https://cedalo.com/) 
-    * [GmbH](https://en.wikipedia.org/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung)
-    * [AG](https://en.wikipedia.org/wiki/Aktiengesellschaft)
   * [Eclipse Paho](https://en.wikipedia.org/wiki/Eclipse_Paho)
     * [Paho](https://wiki.eclipse.org/Paho) in Eclipse Wiki
     * [Paho](https://maoridictionary.co.nz/search/?keywords=paho) in Te Aka Maori Dictionary
