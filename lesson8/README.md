@@ -285,7 +285,8 @@
   * [S](https://en.wikipedia.org/wiki/S_(programming_language))
   * [R](https://en.wikipedia.org/wiki/R_(programming_language))
 ## Lab 8A: Examples
-
+* [Q-engineering](https://qengineering.eu/)
+  * [Install TensorFlow on Raspberry 64 OS](https://qengineering.eu/install-tensorflow-on-raspberry-64-os.html)
 ### On Windows with [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10), open an Ubuntu terminal and install Python packages as follows
 ```sh
 $ sudo pip3 install numpy scipy scikit-learn matplotlib pandas tensorflow keras
