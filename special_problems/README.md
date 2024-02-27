@@ -41,6 +41,7 @@
 
 ## 2024 Spring
 * [Automated ParkingAI System Using Computer Vision](https://github.com/RavikanthAI/AAI-800-820)
+* [Real-Time Path Finding Using Object Detection and Teaching-Learning-Based Optimization for Autonomous Vehicles and Drones](https://github.com/saroj-raj)
 * [Recipe Recommendation System](https://github.com/Vindhyau/Recipe-Recommendation-System-)
 * [Route Guide: A Network Device Classifier](https://github.com/pravi-2405)
 
