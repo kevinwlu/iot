@@ -70,7 +70,6 @@
 * [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
 * [EleutherAI](https://en.wikipedia.org/wiki/EleutherAI)
   * [GPT-J](https://en.wikipedia.org/wiki/GPT-J)
-* [GPTZero](https://gptzero.me/) requires at least 250 characters
 * [GitHub Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot)
 * [GitHub Copilot X](https://github.com/features/preview/copilot-x)
 * [Google AI](https://ai.google/tools/)
@@ -111,7 +110,7 @@
 * [Feedback by AI](https://feedbackbyai.com/)
   * [AI Characters](https://feedbackbyai.com/characters)
 * [Detect GPT](https://chrome.google.com/webstore/detail/detect-gpt/oadkgbgppkhoaaoepjbcnjejmkknaobg)
-* [GPTZero](https://gptzero.me/)
+* [GPTZero](https://gptzero.me/) requires at least 250 characters
   * [Perplexity](https://en.wikipedia.org/wiki/Perplexity) (*PP*) is a measurement of the randomness of the text\
     A low perplexity indicates the probability distribution is good at predicting the sample.
   * [Burstiness](https://en.wikipedia.org/wiki/Burstiness) is a measurement of the variation in perplexity
