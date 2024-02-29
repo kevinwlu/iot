@@ -154,6 +154,7 @@
   * [Symbio](https://www.symbio.one/)
 * [Form Energy](https://en.wikipedia.org/wiki/Form_Energy)
 * [Forum Mobility](https://forummobility.com/)
+* [Fracking](https://en.wikipedia.org/wiki/Fracking)
 * [Fuel cell](https://en.wikipedia.org/wiki/Fuel_cell)
   * [GM HYDROTEC](https://www.gmhydrotec.com/product/public/us/en/hydrotec/Home.html)
 * [Fusion power](https://en.wikipedia.org/wiki/Fusion_power)
