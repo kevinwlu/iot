@@ -1,6 +1,7 @@
 # Apps
 ## YouTube Channels
 * [Anthropic](https://www.youtube.com/@anthropic-ai)
+* [Dana Yi](https://www.youtube.com/@DanaYi13)
 * [JigSpace](https://www.youtube.com/@JigSpace)
 ---
 * [List of home automation software](https://en.wikipedia.org/wiki/List_of_home_automation_software)
@@ -31,4 +32,6 @@
 ## Tests
 * [Human Benchmark](https://humanbenchmark.com/)
   * [Reaction time](https://humanbenchmark.com/tests/reactiontime)
-  * [GitHub repository](https://github.com/danayi13/human-benchmark) by [Dana Yi](https://www.youtube.com/@DanaYi13)
+  * [GitHub repository](https://github.com/danayi13/human-benchmark) by [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01)
+* [Rubik's Cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube)
+  * [World Cube Association](https://en.wikipedia.org/wiki/World_Cube_Association) (WCA)
