@@ -38,7 +38,7 @@
   * ["All-optical machine learning using diffractive deep neural networks"](https://www.science.org/doi/10.1126/science.aat8084)
   * [LightRidge](https://lightridge.github.io/lightridge/)
   * [Cunxi Yu](https://ycunxi.github.io/cunxiyu/)
-
+* [Three Minute Thesis](https://en.wikipedia.org/wiki/Three_Minute_Thesis) (3MT) competition
 ## 2024 Spring
 * [Automated ParkingAI System Using Computer Vision](https://github.com/RavikanthAI/AAI-800-820)
 * [Real-Time Path Finding Using Object Detection and Teaching-Learning-Based Optimization for Autonomous Vehicles and Drones](https://github.com/saroj-raj/Autonomous-Path-Finding)
