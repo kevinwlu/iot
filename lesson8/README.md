@@ -251,7 +251,8 @@
 * [OpenMinded](https://www.openmined.org/)
   * [PySyft](https://github.com/OpenMined/PySyft)
 * [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
-  * [Claude 2](https://www.anthropic.com/index/claude-2)
+  * [Claude 2](https://www.anthropic.com/news/claude-2), July 11, 2023
+  * [Claude 3](https://www.anthropic.com/news/claude-3-family), March 4, 2024
 * [Leonardo AI](https://leonardo.ai/)
 * [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
 * [Pika](https://pika.art/) idea-to-video platform
