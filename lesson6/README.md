@@ -39,6 +39,8 @@
 * [Wiring](https://en.wikipedia.org/wiki/Wiring_(development_platform))
   * [C](https://en.wikipedia.org/wiki/C_(programming_language))
   * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+  * [List of C++ template libraries](https://en.wikipedia.org/wiki/List_of_C%2B%2B_template_libraries)
+    * [Boost](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries))
   * [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) (OOP)
   * [Class](https://en.wikipedia.org/wiki/Class_(computer_programming))
   * [Increment and decrement operators](https://en.wikipedia.org/wiki/Increment_and_decrement_operators)
