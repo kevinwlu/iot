@@ -155,13 +155,15 @@
 * [Whiteboarding](https://en.wikipedia.org/wiki/Whiteboarding)
 ## Computer-Aided Design Software
 * [Comparison of computer-aided design software](https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_software)
-* [Autodesk](https://en.wikipedia.org/wiki/Autodesk)
-  * [AutoCAD](https://en.wikipedia.org/wiki/AutoCAD)
-  * [John Walker](https://en.wikipedia.org/wiki/John_Walker_(programmer))
+* [Digital prototyping](https://en.wikipedia.org/wiki/Digital_prototyping)
+* [AutoCAD](https://en.wikipedia.org/wiki/AutoCAD)
+  * [Autodesk](https://en.wikipedia.org/wiki/Autodesk)
+  * [John Walker](https://en.wikipedia.org/wiki/John_Walker_(programmer)) 1949&mdash;2024
 * [FreeCAD](https://en.wikipedia.org/wiki/FreeCAD)
 * [LibreCAD](https://en.wikipedia.org/wiki/LibreCAD)
 * [OpenSCAD](https://en.wikipedia.org/wiki/OpenSCAD)
 * [SolidWorks](https://en.wikipedia.org/wiki/SolidWorks)
+  * [Jon Hirschtick](https://en.wikipedia.org/wiki/Jon_Hirschtick)
 * [Tinkercad](https://en.wikipedia.org/wiki/Tinkercad)
 ## Content Similarity Detection
 * [Content similarity detection](https://en.wikipedia.org/wiki/Content_similarity_detection)
