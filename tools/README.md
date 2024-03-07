@@ -155,7 +155,9 @@
 * [Whiteboarding](https://en.wikipedia.org/wiki/Whiteboarding)
 ## Computer-Aided Design Software
 * [Comparison of computer-aided design software](https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_software)
-* [AutoCAD](https://en.wikipedia.org/wiki/AutoCAD)
+* [Autodesk](https://en.wikipedia.org/wiki/Autodesk)
+  * [AutoCAD](https://en.wikipedia.org/wiki/AutoCAD)
+  * [John Walker](https://en.wikipedia.org/wiki/John_Walker_(programmer))
 * [FreeCAD](https://en.wikipedia.org/wiki/FreeCAD)
 * [LibreCAD](https://en.wikipedia.org/wiki/LibreCAD)
 * [OpenSCAD](https://en.wikipedia.org/wiki/OpenSCAD)
