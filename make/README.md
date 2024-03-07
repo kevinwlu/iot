@@ -80,6 +80,8 @@
   * [Pulse-width modulation](https://en.wikipedia.org/wiki/Pulse-width_modulation) (PWM)
 * [Force-sensing resistor](https://en.wikipedia.org/wiki/Force-sensing_resistor) (FSR)
   * [Adafruit](https://learn.adafruit.com/force-sensitive-resistor-fsr)
+  * [Piezoelectricity](https://en.wikipedia.org/wiki/Piezoelectricity)
+  * [Lead zirconate titanate](https://en.wikipedia.org/wiki/Lead_zirconate_titanate) (PZT)
 * [Load cell](https://en.wikipedia.org/wiki/Load_cell)
   * [Wheatstone bridge](https://en.wikipedia.org/wiki/Wheatstone_bridge)
 * [Electret microphone](https://en.wikipedia.org/wiki/Electret_microphone)
