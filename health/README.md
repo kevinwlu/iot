@@ -30,6 +30,7 @@ ___
 * [Occupational safety and health](https://en.wikipedia.org/wiki/Occupational_safety_and_health) (OSH)
 * [Percutaneous aortic valve replacement](https://en.wikipedia.org/wiki/Percutaneous_aortic_valve_replacement) (PAVR)
 * [Photoplethysmogram](https://en.wikipedia.org/wiki/Photoplethysmogram) (PPG)
+* [Pulse diagnosis](https://en.wikipedia.org/wiki/Pulse_diagnosis)
 * [Respiratory sounds](https://en.wikipedia.org/wiki/Respiratory_sounds)
   * [Analysis of respiratory sounds: state of the art](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2990233/)
   * [Stevens Students Make a Common Medical Procedure Safer for the Littlest Patients](https://www.stevens.edu/news/stevens-students-make-common-medical-procedure-safer-littlest-patients)
