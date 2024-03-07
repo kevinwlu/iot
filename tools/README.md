@@ -163,6 +163,7 @@
 * [LibreCAD](https://en.wikipedia.org/wiki/LibreCAD)
 * [OpenSCAD](https://en.wikipedia.org/wiki/OpenSCAD)
 * [SolidWorks](https://en.wikipedia.org/wiki/SolidWorks)
+  * [Dassault Systèmes](https://en.wikipedia.org/wiki/Dassault_Syst%C3%A8mes)
   * [Jon Hirschtick](https://en.wikipedia.org/wiki/Jon_Hirschtick)
 * [Tinkercad](https://en.wikipedia.org/wiki/Tinkercad)
 ## Content Similarity Detection
