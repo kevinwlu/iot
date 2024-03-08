@@ -1,7 +1,7 @@
 # Health
 ## YouTube Channels
 * [AudioTelligence](https://www.youtube.com/@audiotelligence5387)
-___
+---
 * [*The Lancet*](https://en.wikipedia.org/wiki/The_Lancet)
 ---
 * [Aortic stenosis](https://en.wikipedia.org/wiki/Aortic_stenosis)
