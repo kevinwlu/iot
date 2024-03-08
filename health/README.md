@@ -50,6 +50,8 @@ ___
 * [Sphygmomanometer](https://en.wikipedia.org/wiki/Sphygmomanometer)
 * [Spirometer](https://en.wikipedia.org/wiki/Spirometer)
 ---
+* [Epstein–Barr virus](https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus)
+---
 * [Cocktail party effect](https://en.wikipedia.org/wiki/Cocktail_party_effect)
 * [Stethoscope](Stethoscope)
 * [Tinnitus](https://en.wikipedia.org/wiki/Tinnitus)
