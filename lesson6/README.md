@@ -39,8 +39,8 @@
 * [Wiring](https://en.wikipedia.org/wiki/Wiring_(development_platform))
   * [C](https://en.wikipedia.org/wiki/C_(programming_language))
   * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-  * [CMake](https://en.wikipedia.org/wiki/CMake)
-  * [Make](https://en.wikipedia.org/wiki/Make_(software))
+  * [CMake](https://en.wikipedia.org/wiki/CMake) creates output that can be used by buid systems like [Make](https://en.wikipedia.org/wiki/Make_(software))
+  * [Template (C++)](https://en.wikipedia.org/wiki/Template_(C%2B%2B))
   * [List of C++ template libraries](https://en.wikipedia.org/wiki/List_of_C%2B%2B_template_libraries)
     * [Boost](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries))
     * [Advent of Code in C++ Template Metaprogramming](https://blog.nelhage.com/post/advent-of-templates/)
@@ -159,7 +159,8 @@
 * [Comparison of JavaScript-based web frameworks](https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks)
 * [Crow](https://crowcpp.org/) C++ framework for creating HTTP or Websocket web services
   * [CrowCpp](https://github.com/CrowCpp/Crow) repository
-* [Mustache](https://en.wikipedia.org/wiki/Mustache_(template_system)) template system
+* [Mustache](https://en.wikipedia.org/wiki/Mustache_(template_system)) [web template system](https://en.wikipedia.org/wiki/Web_template_system)
+* [SquirrellyJS](https://squirrelly.js.org/)
 * [Handlebars.js](https://handlebarsjs.com/) template system
 * [Pystache](https://github.com/defunkt/pystache) Python implementation of Mustache template system
 * [Lua (programming language)](https://en.wikipedia.org/wiki/Lua_(programming_language))
