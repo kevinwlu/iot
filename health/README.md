@@ -2,6 +2,8 @@
 ## YouTube Channels
 * [AudioTelligence](https://www.youtube.com/@audiotelligence5387)
 ___
+* [*The Lancet*](https://en.wikipedia.org/wiki/The_Lancet)
+---
 * [Aortic stenosis](https://en.wikipedia.org/wiki/Aortic_stenosis)
 * [Atrial fibrillation](https://en.wikipedia.org/wiki/Atrial_fibrillation) (AFib or AF)
 * [Blinded experiment](https://en.wikipedia.org/wiki/Blinded_experiment)
@@ -50,6 +52,7 @@ ___
 * [Sphygmomanometer](https://en.wikipedia.org/wiki/Sphygmomanometer)
 * [Spirometer](https://en.wikipedia.org/wiki/Spirometer)
 ---
+* [COVID-19](https://en.wikipedia.org/wiki/COVID-19)
 * [Epstein–Barr virus](https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus)
 ---
 * [Cocktail party effect](https://en.wikipedia.org/wiki/Cocktail_party_effect)
@@ -60,7 +63,7 @@ ___
 * [Macular degeneration](https://en.wikipedia.org/wiki/Macular_degeneration)
 * [Photophobia](https://en.wikipedia.org/wiki/Photophobia)
 * [Phototoxicity](https://en.wikipedia.org/wiki/Phototoxicity)
-___
+---
 * [Boiled egg](https://en.wikipedia.org/wiki/Boiled_egg)
   * [Docosahexaenoic acid](https://en.wikipedia.org/wiki/Docosahexaenoic_acid) (DHA)
   * [Iron(II)](https://en.wikipedia.org/wiki/Iron(II))
