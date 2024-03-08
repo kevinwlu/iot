@@ -39,6 +39,8 @@
 * [Wiring](https://en.wikipedia.org/wiki/Wiring_(development_platform))
   * [C](https://en.wikipedia.org/wiki/C_(programming_language))
   * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+  * [CMake](https://en.wikipedia.org/wiki/CMake)
+  * [Make](https://en.wikipedia.org/wiki/Make_(software))
   * [List of C++ template libraries](https://en.wikipedia.org/wiki/List_of_C%2B%2B_template_libraries)
     * [Boost](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries))
   * [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) (OOP)
