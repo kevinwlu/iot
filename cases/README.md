@@ -265,6 +265,8 @@
 * [Humance](https://humance.io/en)
 * [Pollution](https://en.wikipedia.org/wiki/Pollution)
   * [Chlorofluorocarbon](https://en.wikipedia.org/wiki/Chlorofluorocarbon) (CFC)
+    * [Dichlorodifluoromethane](https://en.wikipedia.org/wiki/Dichlorodifluoromethane)
+    * [Freon](https://en.wikipedia.org/wiki/Freon)
   * [Persistent organic pollutant](https://en.wikipedia.org/wiki/Persistent_organic_pollutant) (POP) or "forever chemicals"
     * [Dioxins and dioxin-like compounds](https://en.wikipedia.org/wiki/Dioxins_and_dioxin-like_compounds)
     * [Per- and polyfluoroalkyl substances](https://en.wikipedia.org/wiki/Per-_and_polyfluoroalkyl_substances) (PFAS)
