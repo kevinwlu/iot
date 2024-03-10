@@ -124,8 +124,10 @@
   * [George Kingsley Zipf](https://en.wikipedia.org/wiki/George_Kingsley_Zipf) 1902&mdash;1950
 ---
 * [Black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory)
+  * [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
+  * [Testability](https://en.wikipedia.org/wiki/Testability)
 * [Elephant in the room](https://en.wikipedia.org/wiki/Elephant_in_the_room)
-* [Michele Wucker](https://en.wikipedia.org/wiki/Michele_Wucker)
+* *The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore* 2016 by [Michele Wucker](https://en.wikipedia.org/wiki/Michele_Wucker)
 * [Purple Cow](https://en.wikipedia.org/wiki/Purple_Cow)
 * [*Purple Cow: Transform Your Business by Being Remarkable*](https://en.wikipedia.org/wiki/Purple_Cow:_Transform_Your_Business_by_Being_Remarkable)
 * [Red herring](https://en.wikipedia.org/wiki/Red_herring)
