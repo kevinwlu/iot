@@ -267,6 +267,11 @@
   * [Chlorofluorocarbon](https://en.wikipedia.org/wiki/Chlorofluorocarbon) (CFC)
     * [Dichlorodifluoromethane](https://en.wikipedia.org/wiki/Dichlorodifluoromethane) (CFC-12)
     * [Freon](https://en.wikipedia.org/wiki/Freon)
+  * [Air pollution](https://en.wikipedia.org/wiki/Air_pollution)
+    * [Particulate pollution](https://en.wikipedia.org/wiki/Particulate_pollution)
+    * [Particulates](https://en.wikipedia.org/wiki/Particulates)
+    * [Air quality index](https://en.wikipedia.org/wiki/Air_quality_index) (AQI)
+    * [Air quality guideline](https://en.wikipedia.org/wiki/Air_quality_guideline)
   * [Persistent organic pollutant](https://en.wikipedia.org/wiki/Persistent_organic_pollutant) (POP) or "forever chemicals"
     * [Dioxins and dioxin-like compounds](https://en.wikipedia.org/wiki/Dioxins_and_dioxin-like_compounds)
     * [Per- and polyfluoroalkyl substances](https://en.wikipedia.org/wiki/Per-_and_polyfluoroalkyl_substances) (PFAS)
