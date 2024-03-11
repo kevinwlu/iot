@@ -116,6 +116,7 @@
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
   * [ITU-T](https://en.wikipedia.org/wiki/ITU-T)
   * [IoT Global Standards Initiative](https://www.itu.int/en/ITU-T/gsi/iot/)
+  * [ITU Kaleidoscope Academic Conferences](https://www.itu.int/en/ITU-T/academia/kaleidoscope/Pages/default.aspx)
   * [ITU-T SG15 Flyers](https://www.itu.int/en/ITU-T/studygroups/2022-2024/15/Pages/flyers.aspx)
   * ITU-T [G.652](https://en.wikipedia.org/wiki/G.652)
   * [ITU-T G SUPPL. 66 (10/2018)](https://www.itu.int/itu-t/recommendations/rec.aspx?rec=13826), 5G wireless fronthaul requirements in a passive optical network context
