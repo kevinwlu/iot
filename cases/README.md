@@ -93,6 +93,7 @@
 * [Skydio](https://en.wikipedia.org/wiki/Skydio)
 * [Starship Technologies](https://en.wikipedia.org/wiki/Starship_Technologies)
 * [Tevel Aerobotics](https://www.tevel-tech.com/)
+* [Textron](https://en.wikipedia.org/wiki/Textron)
 * [Wing (company)](https://en.wikipedia.org/wiki/Wing_(company))
 * [Zipline](https://www.flyzipline.com/)
 ## Education
