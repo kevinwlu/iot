@@ -78,6 +78,7 @@
 * [Sarbanes–Oxley Act](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
 * [Satisfaction equilibrium](https://en.wikipedia.org/wiki/Satisfaction_equilibrium)
 * [Selling, General, and Administrative Expenses](https://en.wikipedia.org/wiki/SG%26A) (SG&A)
+* [Shelf life](https://en.wikipedia.org/wiki/Shelf_life)
 * [Shovel ready](https://en.wikipedia.org/wiki/Shovel_ready)
 * [Social justice](https://en.wikipedia.org/wiki/Social_justice)
 * [Sovereign wealth fund](https://en.wikipedia.org/wiki/Sovereign_wealth_fund) (SWF)
