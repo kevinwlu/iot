@@ -398,6 +398,8 @@
 * [Apptronik](https://apptronik.com/)
 * [ASIMO](https://en.wikipedia.org/wiki/ASIMO)
 * [Boston Dynamics](https://en.wikipedia.org/wiki/Boston_Dynamics)
+* [Covariant](https://covariant.ai/)
+  * [Pieter Abbeel](https://en.wikipedia.org/wiki/Pieter_Abbeel)
 * [Elephant Robotics](https://www.elephantrobotics.com/en/)
   * [GitHub](https://github.com/elephantrobotics)
 * [FANUC](https://en.wikipedia.org/wiki/FANUC) (Fuji Automatic Numerical Control)
