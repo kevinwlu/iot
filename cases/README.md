@@ -294,6 +294,7 @@
   * [Fumaric_acid](https://en.wikipedia.org/wiki/Fumaric_acid)
   * [Potassium bromate](https://en.wikipedia.org/wiki/Potassium_bromate)
   * [Propylparaben](https://en.wikipedia.org/wiki/Propylparaben) (Europe number or [E number](https://en.wikipedia.org/wiki/E_number) E216)
+  * [Sudan stain](https://en.wikipedia.org/wiki/Sudan_stain)
   * [Titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide)
 * [Polycyclic aromatic hydrocarbon](https://en.wikipedia.org/wiki/Polycyclic_aromatic_hydrocarbon) (PAH)
   * [Benzo[a]pyrene](https://en.wikipedia.org/wiki/Benzo(a)pyrene) (BaP)
