@@ -26,6 +26,7 @@
 * [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
   * [Raspberry](https://en.wikipedia.org/wiki/Raspberry) fruit
   * [Raspberry](https://www.merriam-webster.com/dictionary/raspberry) tart
+  * [Raspberries](https://en.wikipedia.org/wiki/Raspberries_(band)) band
   * [Pi Day](https://en.wikipedia.org/wiki/Pi_Day)
   * [Raspberry documentation](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html)
     * [Introducing raspberrypi.com](https://www.raspberrypi.org/blog/introducing-raspberrypicom/) by [Philip Colligan](https://philipcolligan.com/), October 6, 2021
