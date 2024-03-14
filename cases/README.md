@@ -14,7 +14,7 @@
 * [Needlab](https://www.needlab.org/)
 * [Institute for Systems and Computer Engineering, Technology and Science](https://en.wikipedia.org/wiki/INESC_TEC) (INESC TEC)
 * [SINTEF](https://en.wikipedia.org/wiki/SINTEF)
-* [Iliad Consortium](https://ocean-twin.eu/)
+* [Iliad Consortium](https://ocean-twin.eu/) Digital Twins of the Ocean
 * [Open Geospatial Consortium](https://en.wikipedia.org/wiki/Open_Geospatial_Consortium) (OGC)
 * [National Aeronautics and Space Administration](https://en.wikipedia.org/wiki/NASA) (NASA)
 * [National Oceanic and Atmospheric Administration](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration) (NOAA)
