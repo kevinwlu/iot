@@ -10,7 +10,15 @@
 * [Sustainability](https://en.wikipedia.org/wiki/Sustainability)
 * [Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)
 * [Sustainable transport](https://en.wikipedia.org/wiki/Sustainable_transport)
+---
 * [Needlab](https://www.needlab.org/)
+* [Institute for Systems and Computer Engineering, Technology and Science](https://en.wikipedia.org/wiki/INESC_TEC) (INESC TEC)
+* [SINTEF](https://en.wikipedia.org/wiki/SINTEF)
+* [Iliad Consortium](https://ocean-twin.eu/)
+* [Open Geospatial Consortium](https://en.wikipedia.org/wiki/Open_Geospatial_Consortium) (OGC)
+* [National Aeronautics and Space Administration](https://en.wikipedia.org/wiki/NASA) (NASA)
+* [National Oceanic and Atmospheric Administration](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration) (NOAA)
+* [National Oceanography Centre](https://en.wikipedia.org/wiki/National_Oceanography_Centre) (NOC)
 * [United Nations Educational, Scientific, and Cultural Organization](https://en.wikipedia.org/wiki/UNESCO) (UNESCO)
 * [United Nations Children's Fund](https://en.wikipedia.org/wiki/UNICEF) (UNICEF: United Nations International Children’s Emergency Fund 1946&mdash;1953)
 ## YouTube Channels
