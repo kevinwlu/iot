@@ -11,6 +11,7 @@
 * [Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)
 * [Sustainable transport](https://en.wikipedia.org/wiki/Sustainable_transport)
 ---
+* [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 * [Needlab](https://www.needlab.org/)
 * [Institute for Systems and Computer Engineering, Technology and Science](https://en.wikipedia.org/wiki/INESC_TEC) (INESC TEC)
 * [SINTEF](https://en.wikipedia.org/wiki/SINTEF)
