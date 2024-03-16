@@ -12,6 +12,9 @@
 ## Magazines
 * [Aeon_(magazine)](https://en.wikipedia.org/wiki/Aeon_(magazine))
 * [Nautilus Quarterly](https://en.wikipedia.org/wiki/Nautilus_Quarterly)
+* [Jeffrey Kagan](https://niftypm.com/blog/author/jeff/)
+  * [12 Best AI Tools for Students in 2024](https://niftypm.com/blog/ai-tools-for-students/)
+  * [Top 19 Mind-Blowing AI Tools to Know in 2024](https://niftypm.com/blog/ai-tools/) 
 * [Quanta Magazine](https://en.wikipedia.org/wiki/Quanta_Magazine)
 ## Platform
 * [Comparison of platform virtualization software](https://en.wikipedia.org/wiki/Comparison_of_platform_virtualization_software)
