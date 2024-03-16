@@ -5,16 +5,21 @@
 * [Andreas Spiess](https://www.youtube.com/@AndreasSpiess)
   * [GitHub repositories](https://github.com/SensorsIot)
 * [Engineer4Free](https://www.youtube.com/user/engineer4free)
+* [Evolving AI Lab](https://www.youtube.com/@EvolvingAILab) by [Jeff Clune](http://jeffclune.com/)
 * [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV) by [Jay LaCroix](https://www.linkedin.com/in/jeremylacroix/)
   * [GitHub repositories](https://github.com/learnLinuxTV)
 * [Paul McWhorter](https://www.youtube.com/@paulmcwhorter)
 * [Upper Story](https://www.youtube.com/@upperstory)
-## Magazines
+## Blogs, Infographics, and Magazines
 * [Aeon_(magazine)](https://en.wikipedia.org/wiki/Aeon_(magazine))
-* [Nautilus Quarterly](https://en.wikipedia.org/wiki/Nautilus_Quarterly)
+* [AI Tool Guru](https://aitoolguru.com/)
+* [Doug Austin](https://ediscoverytoday.com/author/bulldoziers/)
+  * [120 Mind Blowing AI Tools: Artificial Intelligence Trends](https://ediscoverytoday.com/2023/07/21/120-mind-blowing-ai-tools-artificial-intelligence-trends/), July 21, 2023
+    * [Evolving AI](https://twitter.com/Evolving_AI/status/1677700159398920192/photo/1), July 8, 2023
 * [Jeffrey Kagan](https://niftypm.com/blog/author/jeff/)
   * [12 Best AI Tools for Students in 2024](https://niftypm.com/blog/ai-tools-for-students/)
   * [Top 19 Mind-Blowing AI Tools to Know in 2024](https://niftypm.com/blog/ai-tools/) 
+* [Nautilus Quarterly](https://en.wikipedia.org/wiki/Nautilus_Quarterly)
 * [Quanta Magazine](https://en.wikipedia.org/wiki/Quanta_Magazine)
 ## Platform
 * [Comparison of platform virtualization software](https://en.wikipedia.org/wiki/Comparison_of_platform_virtualization_software)
