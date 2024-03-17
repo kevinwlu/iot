@@ -81,4 +81,5 @@
 * [Radon](https://en.wikipedia.org/wiki/Radon)
 ---
 * [Fluticasone furoate](https://en.wikipedia.org/wiki/Fluticasone_furoate)
+  * [Glucocorticoid](https://en.wikipedia.org/wiki/Glucocorticoid)
 * [Olopatadine](https://en.wikipedia.org/wiki/Olopatadine)
