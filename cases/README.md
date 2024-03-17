@@ -200,6 +200,7 @@
   * [Zinc–air battery](https://en.wikipedia.org/wiki/Zinc%E2%80%93air_battery)
 * [Lithium-ion battery](https://en.wikipedia.org/wiki/Lithium-ion_battery)
   * [Sodium-ion battery](https://en.wikipedia.org/wiki/Sodium-ion_battery)
+  * [Top Sodium Ion Battery Companies](https://www.verifiedmarketreports.com/blog/top-10-sodium-ion-battery-companies/)
 * [Lithium iron phosphate battery](https://en.wikipedia.org/wiki/Lithium_iron_phosphate_battery) (LFP)
 * [Lithium nickel manganese cobalt oxides](https://en.wikipedia.org/wiki/Lithium_nickel_manganese_cobalt_oxides) (NMC)
 * [Lithium-sulfur battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93sulfur_battery)
