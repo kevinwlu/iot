@@ -277,6 +277,7 @@
 * [Atmospheric river](https://en.wikipedia.org/wiki/Atmospheric_river)
 * [Greenspark](https://www.getgreenspark.com/)
 * [Humance](https://humance.io/en)
+* [Plastic](https://en.wikipedia.org/wiki/Plastic)
 * [Pollution](https://en.wikipedia.org/wiki/Pollution)
   * [Chlorofluorocarbon](https://en.wikipedia.org/wiki/Chlorofluorocarbon) (CFC)
     * [Dichlorodifluoromethane](https://en.wikipedia.org/wiki/Dichlorodifluoromethane) (CFC-12)
