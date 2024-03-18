@@ -104,6 +104,7 @@
   * [Pi](https://pi.ai/)
 * [Jenni](https://jenni.ai/)
 * [Khroma](https://www.khroma.co/)
+* [Klangio](https://klang.io/) Transcribe Music to Scores
 * [Late No More](https://www.focusbear.io/en/late-no-more)
 * [Meta AI](https://en.wikipedia.org/wiki/Meta_AI)
   * [BlenderBot](https://blenderbot.ai/)
