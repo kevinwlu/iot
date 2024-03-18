@@ -43,6 +43,8 @@
   * [Template (C++)](https://en.wikipedia.org/wiki/Template_(C%2B%2B))
   * [List of C++ template libraries](https://en.wikipedia.org/wiki/List_of_C%2B%2B_template_libraries)
     * [Boost](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries))
+    * [Eigen](https://en.wikipedia.org/wiki/Eigen_(C%2B%2B_library))
+    * [Matrix Template Library](https://en.wikipedia.org/wiki/Matrix_Template_Library) (MTL)
     * [Advent of Code in C++ Template Metaprogramming](https://blog.nelhage.com/post/advent-of-templates/)
   * [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) (OOP)
   * [Class](https://en.wikipedia.org/wiki/Class_(computer_programming))
