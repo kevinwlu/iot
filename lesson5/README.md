@@ -8,8 +8,10 @@
     * [AG](https://en.wikipedia.org/wiki/Aktiengesellschaft)
   * [OASIS](https://en.wikipedia.org/wiki/OASIS_(organization)) (Organization for the Advancement of Structured Information Standards)
   * [MQTT specification](https://mqtt.org/mqtt-specification/)
+  * [Comparison of MQTT implementations](https://en.wikipedia.org/wiki/Comparison_of_MQTT_implementations)
   * [Eclipse Foundation](https://en.wikipedia.org/wiki/Eclipse_Foundation)
   * [Eclipse Mosquitto](https://mosquitto.org/)
+  * [Eclipse Paho](https://en.wikipedia.org/wiki/Eclipse_Paho)
   * [Eclipse IoT Sandboxes](https://iot.eclipse.org/projects/sandboxes/)
   * [Sandbox (software development)](https://en.wikipedia.org/wiki/Sandbox_(software_development))
   * [Sandbox (computer security)](https://en.wikipedia.org/wiki/Sandbox_(computer_security))
@@ -69,8 +71,9 @@ $ mosquitto_sub -h localhost -v -t test/topic &
 $ mosquitto_pub -h localhost -t test/topic -m "Hello"
 ```
 ### Intall Paho and run code to subscribe on one terminal and publish on another
+* [paho-mqtt-2.0.0 client issue](https://github.com/eclipse/paho.mqtt.python/issues/814)
 ```sh
-$ sudo pip3 install -U paho-mqtt
+$ sudo pip3 install paho-mqtt==1.6.1
 $ git clone https://github.com/eclipse/paho.mqtt.python.git
 $ cd ~/iot/lesson5
 $ python3 client.py
@@ -99,7 +102,7 @@ $ python3 subcpu.py
 ```sh
 $ python3 pubcpu.py
 ```
-### On Raspberry Pi OS (Bullseye), change /opt/vc/bin/vcgencmd to /usr/bin/vcgencmd in system_info.py
+### On older versions of Raspberry Pi OS before Bullseye, change /usr/bin/vcgencmd to /opt/vc/bin/vcgencmd in system_info.py
 * Copy ~/iot/lesson5/system_info.py to ~/demo
 * Copy ~/iot/lesson5/subraspi.py to ~/demo
 * Copy ~/iot/lesson5/pubraspi.py to ~/demo
