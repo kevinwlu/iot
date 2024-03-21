@@ -258,6 +258,8 @@
 * [Pika](https://pika.art/) idea-to-video platform
 * [Rask AI](https://www.rask.ai/) 
 * [Runway](https://runwayml.com/)
+* [xAI](https://en.wikipedia.org/wiki/XAI_(company))
+  * [Grok](https://en.wikipedia.org/wiki/Grok_(chatbot))
 * [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
 * [Deepfake](https://en.wikipedia.org/wiki/Deepfake)
 * [15.ai](https://en.wikipedia.org/wiki/15.ai)
