@@ -224,7 +224,7 @@
   * [Google Research](https://research.google/)
     * [Climate and sustainability](https://research.google/teams/climate-and-sustainability/)
   * [DreamFusion](https://dreamfusion3d.github.io/)
-* [Groq](https://groq.com/) 
+* [Groq](https://groq.com/) Language Processing Unit (LPU)
 * [Inflection AI](https://en.wikipedia.org/wiki/Inflection_AI)
   * [Pi](https://pi.ai/)
 * [Meta AI](https://en.wikipedia.org/wiki/Meta_AI)
