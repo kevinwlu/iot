@@ -124,6 +124,7 @@ Electrical Engineering EE 629
 ## Associations and Communities
 * [Non-governmental organization](https://en.wikipedia.org/wiki/Non-governmental_organization) (NGO)
 * [4YFN](https://www.4yfn.com/)
+* [7×24 Exchange International](https://www.7x24exchange.org/) for [data center](https://en.wikipedia.org/wiki/Data_center), [information technology](https://en.wikipedia.org/wiki/Information_technology) (IT), and [mission critical](https://en.wikipedia.org/wiki/Mission_critical) professionals
 * [AI for Good](https://en.wikipedia.org/wiki/AI_for_Good)
 * [American Radio Relay League](https://en.wikipedia.org/wiki/American_Radio_Relay_League) (ARRL)
 * [Association for Smarter Home and Buildings](https://www.ashb.com/) (ASHB)
