@@ -11,6 +11,7 @@
   * [Chicken or the egg](https://en.wikipedia.org/wiki/Chicken_or_the_egg)
   * [Bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping)
   * [Catch-22 (logic)](https://en.wikipedia.org/wiki/Catch-22_(logic))
+* [Profiling](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
 
 Most Python code runs well on PyPy except for code that depends on [CPython](https://en.wikipedia.org/wiki/CPython) extensions, which either does not work or incurs some overhead when run in PyPy.
 
