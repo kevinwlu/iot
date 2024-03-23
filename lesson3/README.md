@@ -98,7 +98,7 @@ $ python3
 ```
 * Strings: text and binary data
 ```sh
->>> s='Hello World!'
+>>> s='hello, world'
 >>> type(s)
 >>> s.upper()
 >>> s.lower()
