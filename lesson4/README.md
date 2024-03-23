@@ -40,6 +40,7 @@
   * [ACID](https://en.wikipedia.org/wiki/ACID) (atomicity, consistency, isolation, durability)
 * [ngrok](https://ngrok.com/), i.e., network grok
   * [Repository](https://github.com/inconshreveable/ngrok)
+  * [Tunneling protocol](https://en.wikipedia.org/wiki/Tunneling_protocol)
   * [Grok](https://en.wikipedia.org/wiki/Grok)
   * [Jargon File](https://en.wikipedia.org/wiki/Jargon_File)
 * [YAML](https://en.wikipedia.org/wiki/YAML)
