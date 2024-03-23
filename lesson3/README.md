@@ -6,7 +6,7 @@
 * [Monty Python](https://en.wikipedia.org/wiki/Monty_Python)
 * [Python (mythology)](https://en.wikipedia.org/wiki/Python_(mythology))
 * [Serpent (symbolism)](https://en.wikipedia.org/wiki/Serpent_(symbolism))
-* [_Dive Into Python 3_](https://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf) by [Mark Pilgrim](https://en.wikipedia.org/wiki/Mark_Pilgrim)
+* [*Dive Into Python 3*](https://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf) by [Mark Pilgrim](https://en.wikipedia.org/wiki/Mark_Pilgrim)
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
   * [CPython](https://en.wikipedia.org/wiki/CPython)
   * [Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution))
