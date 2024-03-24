@@ -3,6 +3,8 @@ import datetime
 import psutil
 import paho.mqtt.client as mqtt
 mqttc = mqtt.Client()
+#mqttc = mqtt.Client(mqtt.CallbackAPIVersion.VERSION1)
+#mqttc = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2)
 #mqttc.connect("mqtt.eclipseprojects.io", 1883, 60)
 mqttc.connect("test.mosquitto.org", 1883, 60)
 mqttc.loop_start()
