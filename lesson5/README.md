@@ -72,8 +72,9 @@ $ mosquitto_pub -h localhost -t test/topic -m "Hello"
 ```
 ### Intall Paho and run code to subscribe on one terminal and publish on another
 * [paho-mqtt-2.0.0 client issue](https://github.com/eclipse/paho.mqtt.python/issues/814)
-* [Eclipse Paho™ MQTT Python Client](https://eclipse.dev/paho/files/paho.mqtt.python/html/index.html)
-* [Migrations](https://eclipse.dev/paho/files/paho.mqtt.python/html/migrations.html)
+* Breaking change warning: [paho.mqtt.python](https://github.com/eclipse/paho.mqtt.python)
+  * [Release notes](https://eclipse.dev/paho/files/paho.mqtt.python/html/index.html)
+  * [Migrations](https://eclipse.dev/paho/files/paho.mqtt.python/html/migrations.html)
 ```sh
 $ sudo pip3 install paho-mqtt==1.6.1
 $ git clone https://github.com/eclipse/paho.mqtt.python.git
