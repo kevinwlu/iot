@@ -184,6 +184,14 @@
 ## Generative AI
 * [Transformer](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture))
   * ["Attention Is All You Need"](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need) 2017
+  * [Ashish Vaswani](https://en.wikipedia.org/wiki/Ashish_Vaswani): [Essential AI](https://essential.ai/)
+  * [Noam Shazeer](https://scholar.google.com/citations?user=wsGvgA8AAAAJ&hl=en): [Character.ai](https://en.wikipedia.org/wiki/Character.ai)
+  * [Niki Parmar](https://scholar.google.co.jp/citations?user=q2YXPSgAAAAJ&hl=en): [Essential AI](https://essential.ai/)
+  * [Jakob Uszkoreit](https://scholar.google.com/citations?user=mOG0bwsAAAAJ&hl=en): [Inceptive](https://inceptive.life/)
+  * [Llion Jones](https://scholar.google.com/citations?user=_3_P5VwAAAAJ&hl=en): [Sakana AI](https://sakana.ai/)
+  * [Aidan N. Gomez](https://en.wikipedia.org/wiki/Aidan_Gomez): [Cohere](https://en.wikipedia.org/wiki/Cohere)
+  * [Łukasz Kaiser](https://scholar.google.com/citations?user=JWmiQR0AAAAJ&hl=en): [OpenAI](https://en.wikipedia.org/wiki/OpenAI) and [CNRS](https://en.wikipedia.org/wiki/French_National_Centre_for_Scientific_Research)
+  * [Illia Polosukhin](https://scholar.google.com/citations?user=3SyxFIAAAAAJ&hl=en): [NEAR](https://near.org/) and [NEAR Protocol Developer Guide](https://github.com/near)
 * [Generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
 * [Text-to-image model](https://en.wikipedia.org/wiki/Text-to-image_model)
 * [Text-to-video model](https://en.wikipedia.org/wiki/Text-to-video_model)
