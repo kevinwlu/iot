@@ -105,6 +105,7 @@
     * [Google Glass](https://en.wikipedia.org/wiki/Google_Glass)
     * [Meta Quest Pro](https://en.wikipedia.org/wiki/Meta_Quest_Pro)
     * [Microsoft HoloLens 2](https://en.wikipedia.org/wiki/HoloLens_2)
+  * [Gamification](https://en.wikipedia.org/wiki/Gamification)
   * [Digital twin](https://en.wikipedia.org/wiki/Digital_twin)
   * [Persistence](https://en.wikipedia.org/wiki/Persistence_(computer_science)) 
   * [Persistent world](https://en.wikipedia.org/wiki/Persistent_world)
