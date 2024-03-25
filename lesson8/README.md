@@ -183,7 +183,7 @@
 
 ## Generative AI
 * [Transformer](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture))
-  * ["Attention Is All You Need"](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need)
+  * ["Attention Is All You Need"](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need) 2017
 * [Generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
 * [Text-to-image model](https://en.wikipedia.org/wiki/Text-to-image_model)
 * [Text-to-video model](https://en.wikipedia.org/wiki/Text-to-video_model)
