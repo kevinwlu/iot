@@ -76,7 +76,7 @@ $ mosquitto_pub -h localhost -t test/topic -m "Hello"
   * [Release notes](https://eclipse.dev/paho/files/paho.mqtt.python/html/index.html)
   * [Migrations](https://eclipse.dev/paho/files/paho.mqtt.python/html/migrations.html)
 ```sh
-$ sudo pip3 install paho-mqtt==1.6.1
+$ sudo pip3 install paho-mqtt
 $ git clone https://github.com/eclipse/paho.mqtt.python.git
 $ cd ~/iot/lesson5
 $ python3 client.py
