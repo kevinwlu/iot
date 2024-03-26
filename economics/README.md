@@ -136,3 +136,8 @@
 * [Red herring](https://en.wikipedia.org/wiki/Red_herring)
 * [S. Van Nieuwerburgh](https://www0.gsb.columbia.edu/faculty/svannieuwerburgh/), ["The Remote Work Revolution: Impact on Real Estate Values and the Urban Environment"](https://www.nber.org/papers/w30662)
 * A. Gupta, V. Mittal, and Stijn Van Nieuwerburgh, ["Work From Home and the Office Real Estate Apocalypse"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
+---
+* [Long and short scales](https://simple.wikipedia.org/wiki/Long_and_short_scales)
+* [Large numbers](https://en.wikipedia.org/wiki/Large_numbers)
+* [Graham's number](https://en.wikipedia.org/wiki/Graham's_number)
+* [Law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
