@@ -314,6 +314,7 @@
   * [Propylparaben](https://en.wikipedia.org/wiki/Propylparaben) (Europe number or [E number](https://en.wikipedia.org/wiki/E_number) E216)
   * [Sudan stain](https://en.wikipedia.org/wiki/Sudan_stain)
   * [Titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide)
+* [Bongkrek acid](https://en.wikipedia.org/wiki/Bongkrek_acid)
 * [Polycyclic aromatic hydrocarbon](https://en.wikipedia.org/wiki/Polycyclic_aromatic_hydrocarbon) (PAH)
   * [Benzo[a]pyrene](https://en.wikipedia.org/wiki/Benzo(a)pyrene) (BaP)
 * [Heterocyclic amine](https://en.wikipedia.org/wiki/Heterocyclic_amine) (HCA)
