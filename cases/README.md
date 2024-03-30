@@ -57,12 +57,15 @@
 ## Climate and Weather
 * [Global Forecast System](https://en.wikipedia.org/wiki/Global_Forecast_System) (GFS)
 * [European Centre for Medium-Range Weather Forecasts](https://en.wikipedia.org/wiki/European_Centre_for_Medium-Range_Weather_Forecasts) (ECMWF)
+* [Atmospheric lake](https://en.wikipedia.org/wiki/Atmospheric_lake)
+* [Atmospheric river](https://en.wikipedia.org/wiki/Atmospheric_river)
 * [Environmental effects of aviation](https://en.wikipedia.org/wiki/Environmental_effects_of_aviation)
   * [Contrail](https://en.wikipedia.org/wiki/Contrail)
   * [Google Climate and sustainability](https://research.google/teams/climate-and-sustainability/) 
 * [Fire and smoke map](https://fire.airnow.gov/)
 * [El Niño](https://en.wikipedia.org/wiki/El_Ni%C3%B1o)
 * [La Niña](https://en.wikipedia.org/wiki/La_Ni%C3%B1a)
+* [Jet stream](https://en.wikipedia.org/wiki/Jet_stream)
 * [Polar vortex](https://en.wikipedia.org/wiki/Polar_vortex)
 * [Quasi-biennial oscillation](https://en.wikipedia.org/wiki/Quasi-biennial_oscillation) (QBO)
 ## Communications
