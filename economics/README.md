@@ -141,3 +141,10 @@
 * [Large numbers](https://en.wikipedia.org/wiki/Large_numbers)
 * [Graham's number](https://en.wikipedia.org/wiki/Graham's_number)
 * [Law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
+---
+* [Temnothorax rugatulus](https://en.wikipedia.org/wiki/Temnothorax_rugatulus)
+* [Trophallaxis](https://en.wikipedia.org/wiki/Trophallaxis)
+* [Workers ‘specialized’ on inactivity: Behavioral consistency of inactive workers and their role in task allocation
+](https://link.springer.com/article/10.1007/s00265-015-1958-1), June 21, 2015
+* [Who Are the “Lazy” Ants? The Function of Inactivity in Social Insects and a Possible Role of Constraint: Inactive Ants Are Corpulent and May Be Young and/or Selfish](https://academic.oup.com/icb/article/57/3/649/4036211), July 25, 2017
+* [Who needs ‘lazy’ workers? Inactive workers act as a ‘reserve’ labor force replacing active workers, but inactive workers are not replaced when they are removed](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184074), September 6, 2017
