@@ -316,6 +316,7 @@
   * [Titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide)
 * [Aflatoxin](https://en.wikipedia.org/wiki/Aflatoxin)
 * [Bongkrek acid](https://en.wikipedia.org/wiki/Bongkrek_acid)
+* [Burkholderia gladioli](https://en.wikipedia.org/wiki/Burkholderia_gladioli)
 * [Mycotoxin](https://en.wikipedia.org/wiki/Mycotoxin)
 * [Polycyclic aromatic hydrocarbon](https://en.wikipedia.org/wiki/Polycyclic_aromatic_hydrocarbon) (PAH)
   * [Benzo[a]pyrene](https://en.wikipedia.org/wiki/Benzo(a)pyrene) (BaP)
