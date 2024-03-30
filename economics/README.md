@@ -142,6 +142,8 @@
 * [Graham's number](https://en.wikipedia.org/wiki/Graham's_number)
 * [Law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
 ---
+* [Behavioral ecology](https://en.wikipedia.org/wiki/Behavioral_ecology)
+* [Sociobiology](https://en.wikipedia.org/wiki/Sociobiology)
 * [Temnothorax rugatulus](https://en.wikipedia.org/wiki/Temnothorax_rugatulus)
 * [Trophallaxis](https://en.wikipedia.org/wiki/Trophallaxis)
 * [Workers ‘specialized’ on inactivity: Behavioral consistency of inactive workers and their role in task allocation
