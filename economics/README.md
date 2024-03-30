@@ -2,6 +2,9 @@
 ## YouTube Channels
 * [The Prof G Show](https://www.youtube.com/@TheProfGShow) by Prof. [Scott Galloway](https://en.wikipedia.org/wiki/Scott_Galloway_(professor))
 ---
+* [Economics](https://en.wikipedia.org/wiki/Economics)
+  * [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics)
+  * [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
 * [Engineering economics](https://en.wikipedia.org/wiki/Engineering_economics)
 * [Amoeba Management](https://en.wikipedia.org/wiki/Amoeba_Management) by [Kazuo Inamori](https://en.wikipedia.org/wiki/Kazuo_Inamori) 1932&mdash;2022, [official website](https://global.kyocera.com/inamori/)
 * [Annuity](https://en.wikipedia.org/wiki/Annuity)
@@ -64,8 +67,6 @@
   * [Public limited company](https://en.wikipedia.org/wiki/Public_limited_company) (PLC)
   * [S.A.](https://en.wikipedia.org/wiki/S.A._(corporation))
   * [Spółka z ograniczoną odpowiedzialnością](https://en.wikipedia.org/wiki/Sp%C3%B3%C5%82ka_z_ograniczon%C4%85_odpowiedzialno%C5%9Bci%C4%85) (Sp. z.o.o.)
-* [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
-* [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics)
 * [Memorandum of understanding](https://en.wikipedia.org/wiki/Memorandum_of_understanding) (MoU)
 * [Mileage-Based Road User Charges](https://highways.dot.gov/public-roads/marchapril-2006/mileage-based-road-user-charges)
 * [Minsky moment](https://en.wikipedia.org/wiki/Minsky_moment)
