@@ -92,6 +92,11 @@
 * [World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum) (WEF)
 * [Zero-based budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting) (ZBB)
 ---
+* [Long and short scales](https://simple.wikipedia.org/wiki/Long_and_short_scales)
+* [Large numbers](https://en.wikipedia.org/wiki/Large_numbers)
+* [Graham's number](https://en.wikipedia.org/wiki/Graham's_number)
+* [Law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
+---
 * [List of eponymous laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
 * [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
   * [Abraham Maslow](https://en.wikipedia.org/wiki/Abraham_Maslow) 1908&mdash;1970
@@ -136,11 +141,6 @@
 * [Red herring](https://en.wikipedia.org/wiki/Red_herring)
 * [S. Van Nieuwerburgh](https://www0.gsb.columbia.edu/faculty/svannieuwerburgh/), ["The Remote Work Revolution: Impact on Real Estate Values and the Urban Environment"](https://www.nber.org/papers/w30662)
 * A. Gupta, V. Mittal, and Stijn Van Nieuwerburgh, ["Work From Home and the Office Real Estate Apocalypse"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
----
-* [Long and short scales](https://simple.wikipedia.org/wiki/Long_and_short_scales)
-* [Large numbers](https://en.wikipedia.org/wiki/Large_numbers)
-* [Graham's number](https://en.wikipedia.org/wiki/Graham's_number)
-* [Law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
 ---
 * [Behavioral ecology](https://en.wikipedia.org/wiki/Behavioral_ecology)
 * [Sociobiology](https://en.wikipedia.org/wiki/Sociobiology)
