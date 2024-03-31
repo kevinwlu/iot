@@ -332,6 +332,7 @@
 * [Maillard reaction](https://en.wikipedia.org/wiki/Maillard_reaction)
 * [Triclosan](https://en.wikipedia.org/wiki/Triclosan)
 * [Qube](https://www.qubeiot.com/)
+* [Surfactant](https://en.wikipedia.org/wiki/Surfactant)
 ## Fashion
 * [Dansko](https://en.wikipedia.org/wiki/Dansko)
 * [Fit:match](https://www.fitmatch.ai/)
