@@ -29,6 +29,7 @@
 * [Independent component analysis](https://en.wikipedia.org/wiki/Independent_component_analysis) (ICA)
 * [Institutional review board](https://en.wikipedia.org/wiki/Institutional_review_board) (IRB)
 * [Mackey–Glass equations](https://en.wikipedia.org/wiki/Mackey%E2%80%93Glass_equations)
+* [Near-infrared spectroscopy](https://en.wikipedia.org/wiki/Near-infrared_spectroscopy) (NIRS)
 * [Netrin](https://en.wikipedia.org/wiki/Netrin)
   * [Netrin-1](https://en.wikipedia.org/wiki/Netrin_1)
 * [Occupational safety and health](https://en.wikipedia.org/wiki/Occupational_safety_and_health) (OSH)
