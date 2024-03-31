@@ -286,6 +286,7 @@
 * [Greenspark](https://www.getgreenspark.com/)
 * [Humance](https://humance.io/en)
 * [Plastic](https://en.wikipedia.org/wiki/Plastic)
+  * [Plasticizer](https://en.wikipedia.org/wiki/Plasticizer)
   * [Resin identification code](https://en.wikipedia.org/wiki/Resin_identification_code) (RIC)
 * [Pollution](https://en.wikipedia.org/wiki/Pollution)
   * [Chlorofluorocarbon](https://en.wikipedia.org/wiki/Chlorofluorocarbon) (CFC)
