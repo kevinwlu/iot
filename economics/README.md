@@ -132,11 +132,12 @@
 * [Zipf's law](https://en.wikipedia.org/wiki/Zipf's_law)
   * [George Kingsley Zipf](https://en.wikipedia.org/wiki/George_Kingsley_Zipf) 1902&mdash;1950
 ---
-* [Black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory)
+* [*The Black Swan: The Impact of the Highly Improbable*](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable) 2007 by [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
+  * [Black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory)
   * [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
   * [Testability](https://en.wikipedia.org/wiki/Testability)
 * [Elephant in the room](https://en.wikipedia.org/wiki/Elephant_in_the_room)
-* *The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore* 2016 by [Michele Wucker](https://en.wikipedia.org/wiki/Michele_Wucker)
+* [*The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore*](https://wucker.thegrayrhino.com/writing/the-gray-rhino/) 2016 by [Michele Wucker](https://en.wikipedia.org/wiki/Michele_Wucker)
 * [Purple Cow](https://en.wikipedia.org/wiki/Purple_Cow)
 * [*Purple Cow: Transform Your Business by Being Remarkable*](https://en.wikipedia.org/wiki/Purple_Cow:_Transform_Your_Business_by_Being_Remarkable)
 * [Red herring](https://en.wikipedia.org/wiki/Red_herring)
