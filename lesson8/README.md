@@ -21,6 +21,8 @@
 * [One Hundread Year Study on Artificial Intelligence](https://ai100.stanford.edu/)
 * [Association for the Advancement of Artificial Intelligence](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence) (AAAI)
 * [Partnership on AI](https://en.wikipedia.org/wiki/Partnership_on_AI)
+* [Chief Digital and Artificial Intelligence Office](https://www.ai.mil/) (CDAO)
+  * [Joint Artificial Intelligence Center](https://en.wikipedia.org/wiki/Joint_Artificial_Intelligence_Center) (JAIC)
 * [Explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
 * [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
 * [Ethics of artificial intelligence](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
@@ -270,6 +272,7 @@
 * [Pika](https://pika.art/) idea-to-video platform
 * [Rask AI](https://www.rask.ai/) 
 * [Runway](https://runwayml.com/)
+* [Vosaic](https://vosaic.com/) AI-powered feedback and analysis
 * [Wu Dao](https://en.wikipedia.org/wiki/Wu_Dao)
 * [xAI](https://en.wikipedia.org/wiki/XAI_(company))
   * [Grok](https://en.wikipedia.org/wiki/Grok_(chatbot))
