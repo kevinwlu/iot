@@ -144,6 +144,8 @@
 * [S. Van Nieuwerburgh](https://www0.gsb.columbia.edu/faculty/svannieuwerburgh/), ["The Remote Work Revolution: Impact on Real Estate Values and the Urban Environment"](https://www.nber.org/papers/w30662)
 * A. Gupta, V. Mittal, and Stijn Van Nieuwerburgh, ["Work From Home and the Office Real Estate Apocalypse"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
 ---
+* [Behavioral economics](https://en.wikipedia.org/wiki/Behavioral_economics)
+  * [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman) 1934&mdash;2024
 * [Behavioral ecology](https://en.wikipedia.org/wiki/Behavioral_ecology)
 * [Sociobiology](https://en.wikipedia.org/wiki/Sociobiology)
 * [Temnothorax rugatulus](https://en.wikipedia.org/wiki/Temnothorax_rugatulus)
