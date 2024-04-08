@@ -115,6 +115,7 @@
 * [Quantum dot](https://en.wikipedia.org/wiki/Quantum_dot)
 * [Quantum well](https://en.wikipedia.org/wiki/Quantum_well)
 * [Quantum wire](https://en.wikipedia.org/wiki/Quantum_wire)
+* [Quantum foam](https://en.wikipedia.org/wiki/Quantum_foam)
 * [Quantum mind](https://en.wikipedia.org/wiki/Quantum_mind)
 * [Quantum readout](https://en.wikipedia.org/wiki/Quantum_readout)
 * [Quantum teleportation](https://en.wikipedia.org/wiki/Quantum_teleportation)
