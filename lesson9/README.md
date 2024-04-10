@@ -90,8 +90,16 @@
 * [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
 * [Double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment)
 * [Elementary particle](https://en.wikipedia.org/wiki/Elementary_particle)
-  * [Higgs boson](https://en.wikipedia.org/wiki/Higgs_boson)
-  * [Peter Higgs](https://en.wikipedia.org/wiki/Peter_Higgs) 1929&mdash;2024
+  * [Standard Model](https://en.wikipedia.org/wiki/Standard_Model)
+  * [Spin quantum number](https://en.wikipedia.org/wiki/Spin_quantum_number)
+  * [Boson](https://en.wikipedia.org/wiki/Boson)
+    * [Higgs boson](https://en.wikipedia.org/wiki/Higgs_boson)
+    * [Peter Higgs](https://en.wikipedia.org/wiki/Peter_Higgs) 1929&mdash;2024
+  * [Fermion](https://en.wikipedia.org/wiki/Fermion)
+    * [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi) 1901&mdash;1954
+  * [Hadron](https://en.wikipedia.org/wiki/Hadron)
+  * [Lepton](https://en.wikipedia.org/wiki/Lepton)
+  * [Quark](https://en.wikipedia.org/wiki/Quark)
 * [Particle physics](https://en.wikipedia.org/wiki/Particle_physics)
 * [Particle in a box](https://en.wikipedia.org/wiki/Particle_in_a_box)
 * [Wave–particle duality](https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality)
