@@ -156,6 +156,8 @@
   * [Low-code development platofrm](https://en.wikipedia.org/wiki/Low-code_development_platform) (LCDP)
   * [List of low-code development platforms](https://en.wikipedia.org/wiki/List_of_low-code_development_platforms)
 * [OpenJS Foundation](https://en.wikipedia.org/wiki/OpenJS_Foundation#JS_Foundation)
+* [Application binary interface](https://en.wikipedia.org/wiki/Application_binary_interface) (ABI)
+* [Dynamic-link library](https://en.wikipedia.org/wiki/Dynamic-link_library) (DLL)
 * [Deno](https://en.wikipedia.org/wiki/Deno_(software))
 * [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)): [MongoDB](https://en.wikipedia.org/wiki/MongoDB), [Express.js](https://en.wikipedia.org/wiki/Express.js), [AngularJS](https://en.wikipedia.org/wiki/AngularJS), and Node.js
 * [Comparison of JavaScript-based web frameworks](https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks)
