@@ -90,6 +90,8 @@
 * [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
 * [Double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment)
 * [Elementary particle](https://en.wikipedia.org/wiki/Elementary_particle)
+  * [Higgs boson](https://en.wikipedia.org/wiki/Higgs_boson)
+  * [Peter Higgs](https://en.wikipedia.org/wiki/Peter_Higgs) 1929&mdash;2024
 * [Particle physics](https://en.wikipedia.org/wiki/Particle_physics)
 * [Particle in a box](https://en.wikipedia.org/wiki/Particle_in_a_box)
 * [Wave–particle duality](https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality)
