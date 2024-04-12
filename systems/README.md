@@ -15,7 +15,6 @@
   * [High availability](https://en.wikipedia.org/wiki/High_availability)
 * [Bill of materials](https://en.wikipedia.org/wiki/Bill_of_materials) (BOM)
 * [Biomimetics](https://en.wikipedia.org/wiki/Biomimetics)
-* [Cold chain](https://en.wikipedia.org/wiki/Cold_chain)
 * [Command and control](https://en.wikipedia.org/wiki/Command_and_control)
 * [Concurrent engineering](https://en.wikipedia.org/wiki/Concurrent_engineering)
 * [Dependability](https://en.wikipedia.org/wiki/Dependability)
@@ -32,7 +31,10 @@
   * [Walter A. Shewhart](https://en.wikipedia.org/wiki/Walter_A._Shewhart) 1891&mdash;1967
   * [W. Edwards Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming) 1900&mdash;1993
   * [The W. Edwards Deming Institute](https://deming.org/)
-* [Software supply chain](https://en.wikipedia.org/wiki/Software_supply_chain)
+* [Supply chain](https://en.wikipedia.org/wiki/Supply_chain)
+  * [Cold chain](https://en.wikipedia.org/wiki/Cold_chain)
+  * [Shelf life](https://en.wikipedia.org/wiki/Shelf_life)
+  * [Software supply chain](https://en.wikipedia.org/wiki/Software_supply_chain)
 * [Usability](https://en.wikipedia.org/wiki/Usability)
 * [User experience](https://en.wikipedia.org/wiki/User_experience) (UX)
   * [1-Click](https://en.wikipedia.org/wiki/1-Click)
