@@ -46,6 +46,8 @@
     * [Eigen](https://en.wikipedia.org/wiki/Eigen_(C%2B%2B_library))
     * [Matrix Template Library](https://en.wikipedia.org/wiki/Matrix_Template_Library) (MTL)
     * [Advent of Code in C++ Template Metaprogramming](https://blog.nelhage.com/post/advent-of-templates/)
+  * [C standard library](https://en.wikipedia.org/wiki/C_standard_library) (libc)
+    * [musl](https://en.wikipedia.org/wiki/Musl)
   * [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) (OOP)
   * [Class](https://en.wikipedia.org/wiki/Class_(computer_programming))
   * [Increment and decrement operators](https://en.wikipedia.org/wiki/Increment_and_decrement_operators)
