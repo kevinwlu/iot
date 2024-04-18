@@ -124,6 +124,8 @@
   * B. Metcalfe, "[Metcalfe's law after 40 years of Ethernet](https://ieeexplore.ieee.org/document/6636305)," in _Computer_, vol. 46, no. 12, pp. 26-31, Dec. 2013, doi: 10.1109/MC.2013.374
   * X. Zhang, J. Liu, and Z. Xu "[Tencent and Facebook data validate Metcalfe’s law](https://link.springer.com/article/10.1007/s11390-015-1518-1), _Journal of Computer Science and Technology_, v. 30, pp. 246–251, March 13, 2015, [PDF](http://xingzhou.ac.cn/pdf/zhang-JCST15-Tencent_update.pdf)
 * [Reed's law](https://en.wikipedia.org/wiki/Reed's_law)
+* [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)
+  * The law of [parsimony](https://en.wikipedia.org/wiki/Parsimony)
 * [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
   * [Cyril Northcote Parkinson](https://en.wikipedia.org/wiki/C._Northcote_Parkinson) 1909&mdash;1993
 * [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
