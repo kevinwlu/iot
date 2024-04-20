@@ -28,8 +28,12 @@ Electrical Engineering EE 629
 ## References
 * [Hands-on books series](http://www.hands-on-books-series.com) by [Arshdeep Bahga](https://arshdeep.bahga.in/) and Prof. [Vijay Madisetti](https://ece.gatech.edu/directory/vijay-k-madisetti)
 * [Internet](https://en.wikipedia.org/wiki/Internet)
-* [Internet Corporation for Assigned Names and Numbers](https://en.wikipedia.org/wiki/ICANN) (ICANN)
+* [Internet governance](https://en.wikipedia.org/wiki/Internet_governance)
   * [Internet Assigned Numbers Authority](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority) (IANA)
+  * [Internet Corporation for Assigned Names and Numbers](https://en.wikipedia.org/wiki/ICANN) (ICANN)
+  * [IEEE Registration Authority](https://en.wikipedia.org/wiki/IEEE_Registration_Authority)
+  * [Internet Engineering Task Force](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (IETF)
+  * [Internet Society](https://en.wikipedia.org/wiki/Internet_Society) (ISOC)
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
   * [ETSI](https://en.wikipedia.org/wiki/ETSI) White Paper No. 45: [_ETSI Technology Radar_](https://www.etsi.org/images/files/ETSIWhitePapers/etsi_wp45_ETSI_technology_radar.pdf)
 * [Supranet](https://en.wikipedia.org/wiki/Supranet)
