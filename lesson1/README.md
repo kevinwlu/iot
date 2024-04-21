@@ -54,6 +54,8 @@
 * [Simultaneous localization and mapping](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping) (SLAM)
 * [Human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
   * [OpenBCI](https://en.wikipedia.org/wiki/OpenBCI)
+    * [BrainFlow](https://brainflow-openbci.readthedocs.io/en/latest/)
+    * [GitHub repository](https://github.com/brainflow-dev/brainflow)
   * [NeuroPype](https://www.neuropype.io/)
 * [BRAIN Initiative](https://en.wikipedia.org/wiki/BRAIN_Initiative) (Brain Research Through Advancing Innovative Neurotechnologies)
   * [BRAIN Initiative](https://www.braininitiative.org/)
