@@ -368,6 +368,8 @@
 * [Smart Spoon for Parkinson's Patients](https://solve.mit.edu/challenges/solv-ed-youth-innovation-challenge-2/solutions/68738)
   * [GYENNO Bravo Twist](https://www.gyenno.com/bravo-twist)
   * [Lifeware Steady](https://www.liftware.com/steady/)
+  * [Parkinson's disease](https://en.wikipedia.org/wiki/Parkinson%27s_disease)
+    * [James Parkinson](https://en.wikipedia.org/wiki/James_Parkinson) 1755&mdash;1824
 * [Toi Labs](https://www.toilabs.com/)
 * [Upright](https://www.uprightpose.com/)
 * [Withings](https://en.wikipedia.org/wiki/Withings)
