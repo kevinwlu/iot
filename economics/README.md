@@ -73,6 +73,8 @@
 * [Mileage-Based Road User Charges](https://highways.dot.gov/public-roads/marchapril-2006/mileage-based-road-user-charges)
 * [Minsky moment](https://en.wikipedia.org/wiki/Minsky_moment)
 * [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium)
+* [Non-compete clause](https://en.wikipedia.org/wiki/Non-compete_clause)
+* [Non-disclosure agreement](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 * [Price–earnings ratio](https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio) (P/E ratio)
 * [Prospect theory](https://en.wikipedia.org/wiki/Prospect_theory)
 * [Prosumer](https://en.wikipedia.org/wiki/Prosumer)
