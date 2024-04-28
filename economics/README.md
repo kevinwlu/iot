@@ -3,11 +3,11 @@
 * [The Prof G Show](https://www.youtube.com/@TheProfGShow) by Prof. [Scott Galloway](https://en.wikipedia.org/wiki/Scott_Galloway_(professor))
 ---
 * [List of think tanks in the United States](https://en.wikipedia.org/wiki/List_of_think_tanks_in_the_United_States)
-  * [Centrism](https://en.wikipedia.org/wiki/Centrism)
-  * [Conservatism](https://en.wikipedia.org/wiki/Conservatism)
-    * [Libertarian conservatism](https://en.wikipedia.org/wiki/Libertarian_conservatism)
-  * [Libertarianism](https://en.wikipedia.org/wiki/Libertarianism)
-  * [Progressivism](https://en.wikipedia.org/wiki/Progressivism)
+* [Centrism](https://en.wikipedia.org/wiki/Centrism)
+* [Conservatism](https://en.wikipedia.org/wiki/Conservatism)
+   * [Libertarian conservatism](https://en.wikipedia.org/wiki/Libertarian_conservatism)
+* [Libertarianism](https://en.wikipedia.org/wiki/Libertarianism)
+* [Progressivism](https://en.wikipedia.org/wiki/Progressivism)
 * [Econlib](https://www.econlib.org/)
 * [*The Three Languages of Politics: Talking Across the Political Divides*](https://www.cato.org/three-languages-of-politics) 2017 by [Arnold Kling](https://en.wikipedia.org/wiki/Arnold_Kling)
   > Progressives see the world as a struggle between the oppressor and the oppressed, and they try to help the oppressed.
