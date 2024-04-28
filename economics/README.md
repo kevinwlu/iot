@@ -6,6 +6,7 @@
 * [Centrism](https://en.wikipedia.org/wiki/Centrism)
 * [Conservatism](https://en.wikipedia.org/wiki/Conservatism)
    * [Libertarian conservatism](https://en.wikipedia.org/wiki/Libertarian_conservatism)
+* [Liberalism](https://en.wikipedia.org/wiki/Liberalism)
 * [Libertarianism](https://en.wikipedia.org/wiki/Libertarianism)
 * [Progressivism](https://en.wikipedia.org/wiki/Progressivism)
 * [Econlib](https://www.econlib.org/)
