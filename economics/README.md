@@ -1,6 +1,10 @@
 # Engineering Economics
 ## YouTube Channels
 * [The Prof G Show](https://www.youtube.com/@TheProfGShow) by Prof. [Scott Galloway](https://en.wikipedia.org/wiki/Scott_Galloway_(professor))
+* [Econlib](https://www.econlib.org/)
+  * [*The Three Languages of Politics: Talking Across the Political Divides*](https://www.cato.org/three-languages-of-politics) 2017 by [Arnold Kling](https://en.wikipedia.org/wiki/Arnold_Kling)
+  > Progressives see the world as a struggle between the oppressor and the oppressed, and they try to help the oppressed.
+  > Conservatives see the world as a struggle between civilization and barbarism — between order and chaos — and they try to protect civilization.
 ---
 * [Economics](https://en.wikipedia.org/wiki/Economics)
   * [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics)
