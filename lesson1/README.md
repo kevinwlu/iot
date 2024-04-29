@@ -146,6 +146,8 @@
 * [Shell](https://en.wikipedia.org/wiki/Shell_(computing))
 * [User interface](https://en.wikipedia.org/wiki/User_interface) (UI)
 * [Graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) (GUI)
+  * [SRI International](https://en.wikipedia.org/wiki/SRI_International) founded in 1946
+  * [PARC](https://en.wikipedia.org/wiki/PARC_(company)) founded in 1970
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
   * [Termina emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
   * [Keyboard shortcut](https://en.wikipedia.org/wiki/Keyboard_shortcut)
