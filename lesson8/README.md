@@ -21,6 +21,7 @@
 * [One Hundread Year Study on Artificial Intelligence](https://ai100.stanford.edu/)
 * [Association for the Advancement of Artificial Intelligence](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence) (AAAI)
 * [Partnership on AI](https://en.wikipedia.org/wiki/Partnership_on_AI)
+* [AI Safety and Security Advsory Board](https://www.dhs.gov/ai/promoting-ai-safety-and-security) (AISSB)
 * [Chief Digital and Artificial Intelligence Office](https://www.ai.mil/) (CDAO)
   * [Joint Artificial Intelligence Center](https://en.wikipedia.org/wiki/Joint_Artificial_Intelligence_Center) (JAIC)
 * [Explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
