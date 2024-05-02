@@ -168,12 +168,14 @@
 * [Who needs ‘lazy’ workers? Inactive workers act as a ‘reserve’ labor force replacing active workers, but inactive workers are not replaced when they are removed](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184074), September 6, 2017
 ---
 * [List of think tanks in the United States](https://en.wikipedia.org/wiki/List_of_think_tanks_in_the_United_States)
+* [Government](https://en.wikipedia.org/wiki/Government)
 * [Centrism](https://en.wikipedia.org/wiki/Centrism)
 * [Conservatism](https://en.wikipedia.org/wiki/Conservatism)
    * [Libertarian conservatism](https://en.wikipedia.org/wiki/Libertarian_conservatism)
 * [Liberalism](https://en.wikipedia.org/wiki/Liberalism)
 * [Libertarianism](https://en.wikipedia.org/wiki/Libertarianism)
 * [Progressivism](https://en.wikipedia.org/wiki/Progressivism)
+* [Totalitarianism](https://en.wikipedia.org/wiki/Totalitarianism)
 * [Econlib](https://www.econlib.org/)
 * [*The Three Languages of Politics: Talking Across the Political Divides*](https://www.cato.org/three-languages-of-politics) 2017 by [Arnold Kling](https://en.wikipedia.org/wiki/Arnold_Kling)
   > Progressives see the world as a struggle between the oppressor and the oppressed, and they try to help the oppressed.
