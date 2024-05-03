@@ -3,8 +3,9 @@
   > [Eben Upton](https://en.wikipedia.org/wiki/Eben_Upton): Raspberry is a reference to a fruit naming tradition in the old days of microcomputers. 
   > A lot of computer companies were named after fruit. 
   > There's [Tangerine Computer Systems](https://en.wikipedia.org/wiki/Tangerine_Computer_Systems), [Apricot Computers](https://en.wikipedia.org/wiki/Apricot_Computers), and the old British company [Acorn](https://en.wikipedia.org/wiki/Acorn_Computers), which is a family of fruit.
-  > [Pi](https://en.wikipedia.org/wiki/Pi) is because originally we were going to produce a computer that could only really run Python. So the Pi in there is for Python. 
+  > Pi is because originally we were going to produce a computer that could only really run Python. So the Pi in there is for Python. 
   > Now you can run Python on the Raspberry Pi but the design we ended up going with is much more capable than the original we thought of, so it's kind of outlived its name a little bit.
+* [Pi](https://en.wikipedia.org/wiki/Pi)
   * [Zu Chongzhi](https://en.wikipedia.org/wiki/Zu_Chongzhi) 429&mdash;500 [AD](https://en.wikipedia.org/wiki/Anno_Domini)
   * [ZUC stream cipher](https://en.wikipedia.org/wiki/ZUC_stream_cipher)
 * [Microprocessor](https://en.wikipedia.org/wiki/Microprocessor)
