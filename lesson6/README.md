@@ -169,6 +169,8 @@
 * [SquirrellyJS](https://squirrelly.js.org/)
 * [Handlebars.js](https://handlebarsjs.com/) template system
 * [Pystache](https://github.com/defunkt/pystache) Python implementation of Mustache template system
+---
+* [APL (programming language)](https://en.wikipedia.org/wiki/APL_(programming_language))
 * [Lua (programming language)](https://en.wikipedia.org/wiki/Lua_(programming_language))
   * [lua.org](https://www.lua.org/)
 * [Ruby on Rails](https://en.wikipedia.org/wiki/Ruby_on_Rails)
