@@ -22,6 +22,7 @@
     * [DeepLabCut-Live](https://github.com/DeepLabCut/DeepLabCut-live)
   * [Frigate](https://frigate.video/) [network video recorder](https://en.wikipedia.org/wiki/Network_video_recorder) (NVR)
     * [GitHub repository](https://github.com/blakeblackshear/frigate)
+  * [MediaPipe](https://developers.google.com/mediapipe)
   * [Roboflow](https://roboflow.com/)
     * [FitHub repository](https://github.com/roboflow)
   * [Coral](https://coral.ai/)
