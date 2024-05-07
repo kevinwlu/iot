@@ -20,6 +20,8 @@
   * [Region Based Convolutional Neural Networks](https://en.wikipedia.org/wiki/Region_Based_Convolutional_Neural_Networks) (R-CNN)
   * [Frigate](https://frigate.video/) [network video recorder](https://en.wikipedia.org/wiki/Network_video_recorder) (NVR)
     * [GitHub repository](https://github.com/blakeblackshear/frigate)
+  * [Roboflow](https://roboflow.com/)
+    * [FitHub repository](https://github.com/roboflow)
   * [Coral](https://coral.ai/)
   * [Evaluation measures](https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval))
   * [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall)
