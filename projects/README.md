@@ -6,7 +6,6 @@
 * [Homebridge](https://homebridge.io/)
   * [GitHub repository](https://github.com/homebridge/homebridge)
 * [HomeKit](https://en.wikipedia.org/wiki/HomeKit)
-* [MediaPipe](https://developers.google.com/mediapipe)
 * [Pi-hole](https://en.wikipedia.org/wiki/Pi-hole)
 * [RepRap project](https://en.wikipedia.org/wiki/RepRap_project)
 ## 2023 Spring
