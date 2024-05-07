@@ -3,8 +3,6 @@
   * [Neuralink](https://en.wikipedia.org/wiki/Neuralink)
   * [Neural oscillation](https://en.wikipedia.org/wiki/Neural_oscillation)
   * [Schumann resonances](https://en.wikipedia.org/wiki/Schumann_resonances)
-* [DeepLabCut](https://www.mackenziemathislab.org/deeplabcut) for animal pose estimation
-  * [DeepLabCut-Live](https://github.com/DeepLabCut/DeepLabCut-live)
 * [Homebridge](https://homebridge.io/)
   * [GitHub repository](https://github.com/homebridge/homebridge)
 * [HomeKit](https://en.wikipedia.org/wiki/HomeKit)
