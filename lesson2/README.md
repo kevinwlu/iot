@@ -70,6 +70,8 @@
   * [APT](https://en.wikipedia.org/wiki/APT_(software)) (Advanced Package Tool)
   * [What is the difference between apt and apt-get?](https://askubuntu.com/questions/445384/what-is-the-difference-between-apt-and-apt-get)
 * [LXDE](https://en.wikipedia.org/wiki/LXDE)
+* [List of web browsers](https://en.wikipedia.org/wiki/List_of_web_browsers)
+  * [Chromium (web browser)](https://en.wikipedia.org/wiki/Chromium_(web_browser))
 * [General-purpose input/output](https://en.wikipedia.org/wiki/General-purpose_input/output) (GPIO)
   * [Hammer header](https://www.adafruit.com/product/3662)
 
