@@ -219,6 +219,7 @@
   * [Devin](https://www.cognition-labs.com/introducing-devin)
 * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
+  * [AlphaFold 3](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
   * [Bard](https://bard.google.com/)
   * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
   * [Google I/O](https://io.google/)
