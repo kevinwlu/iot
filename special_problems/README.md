@@ -11,6 +11,7 @@
 * [Digital image processing](https://en.wikipedia.org/wiki/Digital_image_processing)
 * [Standard test image](https://en.wikipedia.org/wiki/Standard_test_image)
 * [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
+* [Iterative Refinement Network](https://arxiv.org/abs/2211.04774) (IRNet)
 * [Residual neural network](https://en.wikipedia.org/wiki/Residual_neural_network) (ResNet)
 * [Dive into Deep Learning](https://d2l.ai/)
 * [Transformer](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture))
