@@ -42,6 +42,8 @@
 * [Gig worker](https://en.wikipedia.org/wiki/Gig_worker)
 * [Generally Accepted Accounting Principles](https://en.wikipedia.org/wiki/Generally_Accepted_Accounting_Principles_(United_States)) (GAAP)
   * [Mark-to-market accounting](https://en.wikipedia.org/wiki/Mark-to-market_accounting) or [fair value](https://en.wikipedia.org/wiki/Fair_value) accounting
+* [Goldilocks economy](https://en.wikipedia.org/wiki/Goldilocks_economy)
+  * [Goldilocks and the Three Bears](https://en.wikipedia.org/wiki/Goldilocks_and_the_Three_Bears)
 * [Goodwill](https://en.wikipedia.org/wiki/Goodwill_(accounting))
 * [Government Accountability Office](https://en.wikipedia.org/wiki/Government_Accountability_Office) (GAO)
 * [Gross margin](https://en.wikipedia.org/wiki/Gross_margin)
