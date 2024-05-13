@@ -51,9 +51,9 @@
   * [Cunxi Yu](https://ycunxi.github.io/cunxiyu/)
 * [Three Minute Thesis](https://en.wikipedia.org/wiki/Three_Minute_Thesis) (3MT) competition
 ## 2024 Spring
-* [Automated ParkingAI System Using Computer Vision](https://github.com/RavikanthAI/AAI-800-820)
-* [Image Recognition Using ResNet](https://github.com/Akki072/Image-Recognition-using-Resnet)
-* [Real-Time Path Finding Using Object Detection and Teaching-Learning-Based Optimization for Autonomous Vehicles and Drones](https://github.com/saroj-raj/Autonomous-Path-Finding)
+* [Automated Parking AI System Using Computer Vision](https://github.com/RavikanthAI/AAI-800-820)
+* [Animal Detection Using Deep Learning](https://github.com/Akki072/Image-Recognition-using-Resnet)
+* [Autonomous Path Finding Using Object Detection and Teaching-Learning-Based Optimization](https://github.com/saroj-raj/Autonomous-Path-Finding) (TLBO)
 * [Recipe Recommendation System](https://github.com/Vindhyau/Recipe-Recommendation-System-)
 * [Route Guide: A Network Device Classifier](https://github.com/pravi-2405)
 
