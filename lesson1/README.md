@@ -152,6 +152,7 @@
   * [Clobbering](https://en.wikipedia.org/wiki/Clobbering)
   * [Alias](https://en.wikipedia.org/wiki/Alias_(command))
   * [Superuser](https://en.wikipedia.org/wiki/Superuser)
+  * [List of POSIX commands](https://en.wikipedia.org/wiki/List_of_POSIX_commands)
   * [`sudo`](https://en.wikipedia.org/wiki/Sudo)
   * [`ping`](https://en.wikipedia.org/wiki/Ping_(networking_utility))
   * [`scrot`](https://en.wikipedia.org/wiki/Scrot) vs. screencapture on macOS
@@ -159,6 +160,8 @@
   * [`uname`](https://en.wikipedia.org/wiki/Uname)
   * [`ifconfig`](https://en.wikipedia.org/wiki/Ifconfig)
   * [`ipconfig`](https://en.wikipedia.org/wiki/Ipconfig)
+  * [Pipeline (Unix)](https://en.wikipedia.org/wiki/Pipeline_(Unix))
+  * [tee (command)](https://en.wikipedia.org/wiki/Tee_(command))
 * [Using quotes sucessfully](https://powerbi-cli.github.io/content/howto-quotes.html)
     > In [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) or [PowerShell](https://en.wikipedia.org/wiki/PowerShell), both single and double quotes are interpreted correctly. In Windows [Command Prompt](https://en.wikipedia.org/wiki/Cmd.exe), only double quotes are interpreted correctly -- single quotes are treated as part of the value.
 * [RaspberryTips](https://raspberrytips.com/)
