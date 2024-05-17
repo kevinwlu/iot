@@ -171,6 +171,7 @@
 ---
 * [List of think tanks in the United States](https://en.wikipedia.org/wiki/List_of_think_tanks_in_the_United_States)
 * [Government](https://en.wikipedia.org/wiki/Government)
+* [Authoritarianism](https://en.wikipedia.org/wiki/Authoritarianism)
 * [Centrism](https://en.wikipedia.org/wiki/Centrism)
 * [Conservatism](https://en.wikipedia.org/wiki/Conservatism)
    * [Libertarian conservatism](https://en.wikipedia.org/wiki/Libertarian_conservatism)
