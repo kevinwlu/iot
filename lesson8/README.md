@@ -220,7 +220,6 @@
 * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
   * [AlphaFold 3](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
-  * [Bard](https://bard.google.com/)
   * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
   * [Google I/O](https://io.google/)
   * [LaMDA](https://en.wikipedia.org/wiki/LaMDA)
@@ -235,7 +234,8 @@
   * [Google Brain](https://en.wikipedia.org/wiki/Google_Brain)
   * [DeepMind](https://en.wikipedia.org/wiki/DeepMind)
     * [RT-2: New model translates vision and language into action](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action) (Robotic Transformer 2), July 28, 2023
-    * [Gemini](https://en.wikipedia.org/wiki/Gemini_(language_model))
+    * [Gemini (chatbot)](https://en.wikipedia.org/wiki/Gemini_(chatbot))
+    * [Gemini (language model)](https://en.wikipedia.org/wiki/Gemini_(language_model))
   * [Ethical and Social Risks of Harm From Language Models](https://arxiv.org/abs/2112.04359)
   * [Google Research](https://research.google/)
     * [Climate and sustainability](https://research.google/teams/climate-and-sustainability/)
