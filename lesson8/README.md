@@ -268,6 +268,7 @@
 * [OpenMinded](https://www.openmined.org/)
   * [PySyft](https://github.com/OpenMined/PySyft)
 * [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
+  * [Claude](https://www.anthropic.com/news/introducing-claude), March 14, 2023
   * [Claude 2](https://www.anthropic.com/news/claude-2), July 11, 2023
   * [Claude 3](https://www.anthropic.com/news/claude-3-family), March 4, 2024
 * [Leonardo AI](https://leonardo.ai/)
