@@ -113,6 +113,8 @@
   * [Gamification](https://en.wikipedia.org/wiki/Gamification)
     * [Unity (game engine)](https://en.wikipedia.org/wiki/Unity_(game_engine))
     * [Gravity Sketch](https://www.gravitysketch.com/)
+    * [OpenGL](https://en.wikipedia.org/wiki/OpenGL)
+    * [WebGL](https://en.wikipedia.org/wiki/WebGL)
   * [Digital twin](https://en.wikipedia.org/wiki/Digital_twin)
   * [Persistence](https://en.wikipedia.org/wiki/Persistence_(computer_science)) 
   * [Persistent world](https://en.wikipedia.org/wiki/Persistent_world)
