@@ -91,7 +91,11 @@
 * [Metaphysics](https://en.wikipedia.org/wiki/Metaphysics)
   * [George Berkeley](https://en.wikipedia.org/wiki/George_Berkeley) 1685&mdash;1753
 * [Metaverse](https://en.wikipedia.org/wiki/Metaverse)
+  * [Extended reality](https://en.wikipedia.org/wiki/Extended_reality) (XR)
+    * [Wonderland Engine](https://wonderlandengine.com/)
+      * [GitHub repository](https://github.com/WonderlandEngine)
   * [Augmented reality](https://en.wikipedia.org/wiki/Augmented_reality) (AR)
+    * [Adobe Aero](https://www.adobe.com/products/aero.html)
     * [ARTag](https://en.wikipedia.org/wiki/ARTag)
     * [Head-up display](https://en.wikipedia.org/wiki/Head-up_display) (HUD)
   * [Virtual reality](https://en.wikipedia.org/wiki/Virtual_reality) (VR)
