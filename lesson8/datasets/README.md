@@ -30,6 +30,7 @@
 * [Numbeo](https://en.wikipedia.org/wiki/Numbeo)
 * [Organisation for Economic Co-operation and Development](https://data.oecd.org/) ([OECD](https://en.wikipedia.org/wiki/OECD))
 * [Open Data Network](https://www.opendatanetwork.com/)
+* [Planetary Data System](https://en.wikipedia.org/wiki/Planetary_Data_System) (PDS)
 * [Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) (SQuAD)
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 * [World Bank Open Data](https://data.worldbank.org/)
