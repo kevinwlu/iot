@@ -211,6 +211,7 @@ Electrical Engineering EE 629
   * [Specifications](https://openconnectivity.org/developer/specifications/)
   * [Fairhair Specification](https://openconnectivity.org/developer/specifications/fairhair/)
   * [IoTivity](https://en.wikipedia.org/wiki/IoTivity)
+* [OmniAir Consortium](https://omniair.org/)
 * [one6G](https://one6g.org/)
 * [OpenCAPI Consortium](https://opencapi.org/)
 * [Open Grid Alliance](https://www.opengridalliance.org/) (OGA)
