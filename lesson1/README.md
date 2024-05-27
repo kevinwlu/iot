@@ -17,6 +17,8 @@
 * [IEEE International Network Generations Roadmap](https://futurenetworks.ieee.org/roadmap) (INGR)
 * [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
 * [Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency) (RF)
+  * [Ultra high frequency](https://en.wikipedia.org/wiki/Ultra_high_frequency) (UHF)
+* [ALOHAnet](https://en.wikipedia.org/wiki/ALOHAnet)
 * [Wide area network](https://en.wikipedia.org/wiki/Wide_area_network) (WAN)
   * [Wireless WAN](https://en.wikipedia.org/wiki/Wireless_WAN)
   * [Closed platform](https://en.wikipedia.org/wiki/Closed_platform)
