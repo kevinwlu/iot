@@ -491,6 +491,7 @@
 * [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab)
 * [Sierra Space](https://www.sierraspace.com/)
 * [Skyroot Aerospace](https://en.wikipedia.org/wiki/Skyroot_Aerospace)
+* [SpaceBilt](https://www.spacebilt.com/)
 * [Spaceflight Industries](https://en.wikipedia.org/wiki/Spaceflight_Industries)
 * [SpaceX](https://en.wikipedia.org/wiki/SpaceX)
 * [Starlab Space Station](https://en.wikipedia.org/wiki/Starlab_Space_Station)
