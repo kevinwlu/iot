@@ -82,6 +82,7 @@
     * [IEEE 7000 series of standards](https://ethicsinaction.ieee.org/p7000/)
     * [IEEE Ethics Certification Program for Autonomous and Intelligent Systems](https://standards.ieee.org/industry-connections/ecpais/) (ECPAIS)
     * [Open Community for Ethics in Autonomous and Intelligent Systems](https://ethicsstandards.org/) (OCEANIS)
+  * [IEEE P7802](https://standards.ieee.org/ieee/7802/11238/) Standard for Measurement and Verification of Reduction of Greenhouse Gases for Climate Action Projects and Solutions
   * [IEEE Standards for Blockchain](https://blockchain.ieee.org/standards)
   * [IEEE Standards for Cybersecurity](https://engagestandards.ieee.org/cybersecurity.html)
   * [IEEE Standards for Smart Cities](https://engagestandards.ieee.org/smart-cities.html)
