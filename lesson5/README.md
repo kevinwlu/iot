@@ -17,12 +17,13 @@
   * [Sandbox (computer security)](https://en.wikipedia.org/wiki/Sandbox_(computer_security))
   * [Eclipse Paho](https://en.wikipedia.org/wiki/Eclipse_Paho)
     * [Paho](https://wiki.eclipse.org/Paho) in Eclipse Wiki
+    * [Paho](https://www.merriam-webster.com/dictionary/paho) is a [Hopi](https://en.wikipedia.org/wiki/Hopi) plumed prayer stick
+      * [Susanne Page](https://en.wikipedia.org/wiki/Susanne_Page) 1938&mdash;2024 was a photographer known for her photos of [indigenous peoples](https://en.wikipedia.org/wiki/Indigenous_peoples) of the [Southwestern United States](https://en.wikipedia.org/wiki/Southwestern_United_States)
     * [Paho](https://maoridictionary.co.nz/search/?keywords=paho) in Te Aka Maori Dictionary
       * (Verb) to broadcast, make widely known, announce, disseminate, transmit
       * [Maori people](https://en.wikipedia.org/wiki/M%C4%81ori_people)
     * [Paho](https://forvo.com/search/paho/) in [Minangkabau language](https://en.wikipedia.org/wiki/Minangkabau_language)
-    * [Paho](https://www.merriam-webster.com/dictionary/paho) is a [Hopi](https://en.wikipedia.org/wiki/Hopi) plumed prayer stick
-    * [Paho](https://en.wikipedia.org/wiki/Paho) is a village in Khiron block of Rae Bareli district, Uttar Pradesh, India
+    * [Paho](https://en.wikipedia.org/wiki/Paho) is also a village in Khiron block of Rae Bareli district, Uttar Pradesh, India
 * [Web application messaging protocol](https://en.wikipedia.org/wiki/Web_Application_Messaging_Protocol) (WAMP)
   * [WAMP specification](https://wamp-proto.org/spec.html)
   * [cURL](https://en.wikipedia.org/wiki/CURL) (Client URL)
