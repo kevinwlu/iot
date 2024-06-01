@@ -256,6 +256,7 @@
   * [GPT-2](https://en.wikipedia.org/wiki/GPT-2)
   * [GPT-3](https://en.wikipedia.org/wiki/GPT-3)
   * [GPT-4](https://en.wikipedia.org/wiki/GPT-4)
+  * [GPT-4o](https://en.wikipedia.org/wiki/GPT-4o)
   * [Whisper (speech recognition system)](https://en.wikipedia.org/wiki/Whisper_(speech_recognition_system))
     * ["Introducing Whisper"](https://openai.com/research/whisper), September 21, 2022
   * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
