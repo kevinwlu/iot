@@ -9,6 +9,7 @@
 * [Amoeba Management](https://en.wikipedia.org/wiki/Amoeba_Management) by [Kazuo Inamori](https://en.wikipedia.org/wiki/Kazuo_Inamori) 1932&mdash;2022, [official website](https://global.kyocera.com/inamori/)
 * [Annuity](https://en.wikipedia.org/wiki/Annuity)
   * [Perpetuity](https://en.wikipedia.org/wiki/Perpetuity)
+* [Attention economy](https://en.wikipedia.org/wiki/Attention_economy)
 * [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet)
 * [Benefit corporation](https://en.wikipedia.org/wiki/Benefit_corporation) or B corporation
 * [Bill of materials](https://en.wikipedia.org/wiki/Bill_of_materials) (BOM)
