@@ -58,6 +58,7 @@
 * [Photoplethysmogram](https://en.wikipedia.org/wiki/Photoplethysmogram) (PPG)
 * [Prebiotic_(nutrition)](https://en.wikipedia.org/wiki/Prebiotic_(nutrition))
 * [Probiotic](https://en.wikipedia.org/wiki/Probiotic)
+* [Psychobiotic](https://en.wikipedia.org/wiki/Psychobiotic)
 * [Pulse diagnosis](https://en.wikipedia.org/wiki/Pulse_diagnosis)
 * [Respiratory sounds](https://en.wikipedia.org/wiki/Respiratory_sounds)
   * [Analysis of respiratory sounds: state of the art](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2990233/)
