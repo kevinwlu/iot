@@ -1,4 +1,7 @@
 # Engineering Economics
+* [CHIPS and Science Act](https://en.wikipedia.org/wiki/CHIPS_and_Science_Act)
+* [Infrastructure Investment and Jobs Act](https://en.wikipedia.org/wiki/Infrastructure_Investment_and_Jobs_Act) (IIJA)
+* [Inflation Reduction Act](https://en.wikipedia.org/wiki/Inflation_Reduction_Act) (IRA)
 ## YouTube Channels
 * [The Prof G Show](https://www.youtube.com/@TheProfGShow) by Prof. [Scott Galloway](https://en.wikipedia.org/wiki/Scott_Galloway_(professor))
 ---
