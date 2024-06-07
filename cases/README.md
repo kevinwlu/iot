@@ -287,6 +287,7 @@
 * [Greenspark](https://www.getgreenspark.com/)
 * [Humance](https://humance.io/en)
 * [Plastic](https://en.wikipedia.org/wiki/Plastic)
+  * [Microplastics](https://en.wikipedia.org/wiki/Microplastics)
   * [Plasticizer](https://en.wikipedia.org/wiki/Plasticizer)
   * [Resin identification code](https://en.wikipedia.org/wiki/Resin_identification_code) (RIC)
 * [Pollution](https://en.wikipedia.org/wiki/Pollution)
