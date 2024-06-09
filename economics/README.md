@@ -42,6 +42,7 @@
 * [Economies of scope](https://en.wikipedia.org/wiki/Economies_of_scope)
 * [Enterprise resource planning](https://en.wikipedia.org/wiki/Enterprise_resource_planning) (ERP)
 * [Ephemera](https://en.wikipedia.org/wiki/Ephemera)
+  * [Mayfly](https://en.wikipedia.org/wiki/Mayfly)
 * [Fiduciary](https://en.wikipedia.org/wiki/Fiduciary)
 * [Game theory](https://en.wikipedia.org/wiki/Game_theory)
 * [Gift economy](https://en.wikipedia.org/wiki/Gift_economy)
