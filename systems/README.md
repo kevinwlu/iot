@@ -15,6 +15,8 @@
   * [High availability](https://en.wikipedia.org/wiki/High_availability)
 * [Bill of materials](https://en.wikipedia.org/wiki/Bill_of_materials) (BOM)
 * [Biomimetics](https://en.wikipedia.org/wiki/Biomimetics)
+* [Build to order](https://en.wikipedia.org/wiki/Build_to_order)
+  * [Turnkey](https://en.wikipedia.org/wiki/Turnkey)
 * [Command and control](https://en.wikipedia.org/wiki/Command_and_control)
 * [Concurrent engineering](https://en.wikipedia.org/wiki/Concurrent_engineering)
 * [Dependability](https://en.wikipedia.org/wiki/Dependability)
