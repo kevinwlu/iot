@@ -192,3 +192,7 @@
 * [*The Three Languages of Politics: Talking Across the Political Divides*](https://www.cato.org/three-languages-of-politics) 2017 by [Arnold Kling](https://en.wikipedia.org/wiki/Arnold_Kling)
   > Progressives see the world as a struggle between the oppressor and the oppressed, and they try to help the oppressed.
   > Conservatives see the world as a struggle between civilization and barbarism — between order and chaos — and they try to protect civilization.
+---
+* [Types of democracy](https://en.wikipedia.org/wiki/Types_of_democracy)
+* [Meritocracy](https://en.wikipedia.org/wiki/Meritocracy)
+* [Technocracy](https://en.wikipedia.org/wiki/Technocracy)
