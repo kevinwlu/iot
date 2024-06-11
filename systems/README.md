@@ -59,6 +59,7 @@
 * [*The Second Curve: Managing the Velocity of Change*](https://ianmorrison.com/books/) 1996 by [Ian Morrison](https://ianmorrison.com/)
 * [*The Second Curve: Thoughts on Reinventing Society*](https://www.goodreads.com/book/show/23346846-the-second-curve) 2015 by [Charles Handy](https://en.wikipedia.org/wiki/Charles_Handy)
 ## Companies
+* [HNTB](https://en.wikipedia.org/wiki/HNTB)
 * [Kepner-Tregoe](https://kepner-tregoe.com/)
   * [Charles Kepner](https://www.ontrackinternational.com/dr-charles-kepner-tribute/) 1922&mdash;2016
   * [Benjamin Tregoe](https://en.wikipedia.org/wiki/Benjamin_Tregoe) 1927&mdash;2005
