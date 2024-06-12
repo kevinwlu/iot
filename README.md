@@ -240,3 +240,8 @@ Electrical Engineering EE 629
 * [WirelessHD](https://en.wikipedia.org/wiki/WirelessHD)
 * [Wireless Power Consortium](https://en.wikipedia.org/wiki/Wireless_Power_Consortium)
 * [Zhaga Consortium](https://en.wikipedia.org/wiki/Zhaga_Consortium)
+## Developer Conferences
+* [Facebook F8](https://en.wikipedia.org/wiki/Facebook_F8)
+* [Google I/O](https://en.wikipedia.org/wiki/Google_I/O)
+* [Microsoft Build](https://en.wikipedia.org/wiki/Microsoft_Build)
+* [Worldwide Developers Conference](https://en.wikipedia.org/wiki/Worldwide_Developers_Conference) (WWDC)
