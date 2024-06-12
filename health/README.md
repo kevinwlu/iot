@@ -5,7 +5,7 @@
 * [*The Lancet*](https://en.wikipedia.org/wiki/The_Lancet)
 ---
 * [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease) (AD)
-* [Amyloid beta](https://en.wikipedia.org/wiki/Amyloid_beta)
+  * [Amyloid beta](https://en.wikipedia.org/wiki/Amyloid_beta)
 * [Aortic stenosis](https://en.wikipedia.org/wiki/Aortic_stenosis)
 * [Atrial fibrillation](https://en.wikipedia.org/wiki/Atrial_fibrillation) (AFib or AF)
 * [Blinded experiment](https://en.wikipedia.org/wiki/Blinded_experiment)
