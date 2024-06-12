@@ -6,8 +6,11 @@
 ---
 * [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease) (AD)
   * [Alois Alzheimer](https://en.wikipedia.org/wiki/Alois_Alzheimer) 1864&mdash;1915
-  * [Amyloid beta](https://en.wikipedia.org/wiki/Amyloid_beta)
+  * [Amyloid beta](https://en.wikipedia.org/wiki/Amyloid_beta) (Aβ)
+  * [Amyloid plaques](https://en.wikipedia.org/wiki/Amyloid_plaques)
+  * [Amyloid-beta precursor protein](https://en.wikipedia.org/wiki/Amyloid-beta_precursor_protein) (APP)
   * [Biochemistry of Alzheimer's disease](https://en.wikipedia.org/wiki/Biochemistry_of_Alzheimer%27s_disease)
+  * [Experimental models of Alzheimer's disease](https://en.wikipedia.org/wiki/Experimental_models_of_Alzheimer%27s_disease)
 * [Aortic stenosis](https://en.wikipedia.org/wiki/Aortic_stenosis)
 * [Atrial fibrillation](https://en.wikipedia.org/wiki/Atrial_fibrillation) (AFib or AF)
 * [Blinded experiment](https://en.wikipedia.org/wiki/Blinded_experiment)
