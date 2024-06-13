@@ -57,6 +57,7 @@
   * [National Electrical Safety Code](https://en.wikipedia.org/wiki/National_Electrical_Safety_Code) (NESC)
   * [Planet Positive 2030](https://sagroups.ieee.org/planetpositive2030/)
   * [IEEE Conference on Standards for Communications and Networking](https://ieeexplore.ieee.org/xpl/conhome/1810404/all-proceedings) (CSCN)
+  * [*IEEE Communications Standards Magazine*](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine)
   * [IEEE Industry Connections](https://standards.ieee.org/industry-connections/)
     * [Nendica](https://1.ieee802.org/802-nendica/): IEEE 802 “Network Enhancements for the Next Decade” Industry Connections Activity
   * [IEEE CertifAIEd](https://engagestandards.ieee.org/ieeecertifaied.html)
