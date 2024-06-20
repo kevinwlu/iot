@@ -257,6 +257,7 @@
 * [Microsoft Copilot](https://en.wikipedia.org/wiki/Microsoft_Copilot)
 * [Mistral AI](https://en.wikipedia.org/wiki/Mistral_AI)
 * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
+  * [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
   * [OpenAI Codex](https://openai.com/blog/openai-codex/)
   * [DALL-E](https://en.wikipedia.org/wiki/DALL-E)
   * [Point-E](https://github.com/openai/point-e)
