@@ -212,9 +212,15 @@
   * [Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity)
   * [Guardrails](https://shreyar.github.io/guardrails/) Python package
 * ["Large content and behavior models to understand, simulate, and optimze content and behavior"](https://arxiv.org/abs/2309.00359)
+---
 * [Alegion](https://www.alegion.com/)
   * [Language Model Scaling Laws and GPT-3](https://towardsdatascience.com/language-model-scaling-laws-and-gpt-3-5cdc034e67bb)
 * [Amazon Q](https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/)
+* [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
+  * [Claude](https://www.anthropic.com/news/introducing-claude), March 14, 2023
+  * [Claude 2](https://www.anthropic.com/news/claude-2), July 11, 2023
+  * [Claude 3](https://www.anthropic.com/news/claude-3-family), March 4, 2024
+* [Leonardo AI](https://leonardo.ai/)
 * [Apple Intelligence](https://en.wikipedia.org/wiki/Apple_Intelligence)
 * [Cognition Labs](https://www.cognition-labs.com/)
   * [Devin](https://www.cognition-labs.com/introducing-devin)
@@ -270,11 +276,8 @@
   * [Sora](https://en.wikipedia.org/wiki/Sora_(text-to-video_model)), February 15, 2024
 * [OpenMinded](https://www.openmined.org/)
   * [PySyft](https://github.com/OpenMined/PySyft)
-* [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
-  * [Claude](https://www.anthropic.com/news/introducing-claude), March 14, 2023
-  * [Claude 2](https://www.anthropic.com/news/claude-2), July 11, 2023
-  * [Claude 3](https://www.anthropic.com/news/claude-3-family), March 4, 2024
-* [Leonardo AI](https://leonardo.ai/)
+* [Safe Superintelligence](https://ssi.inc/) (SSI)
+---
 * [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
 * [Pika](https://pika.art/) idea-to-video platform
 * [Rask AI](https://www.rask.ai/) 
