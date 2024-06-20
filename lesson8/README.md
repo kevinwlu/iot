@@ -277,6 +277,7 @@
 * [OpenMinded](https://www.openmined.org/)
   * [PySyft](https://github.com/OpenMined/PySyft)
 * [Safe Superintelligence](https://ssi.inc/) (SSI)
+  * [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)
 ---
 * [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
 * [Pika](https://pika.art/) idea-to-video platform
