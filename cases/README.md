@@ -563,6 +563,8 @@
 * [Collision avoidance system](https://en.wikipedia.org/wiki/Collision_avoidance_system)
 * [Drivetrain](https://en.wikipedia.org/wiki/Drivetrain)
 * [Electric bicycle](https://en.wikipedia.org/wiki/Electric_bicycle)
+  * [ataraxyBSC](https://www.ataraxybsc.com/)
+    * [vabsRider](https://www.ataraxybsc.com/pages/product-information-vabsrider)
   * [VanMoof](https://www.vanmoof.com)
 * [Eno Center for Transportation](https://en.wikipedia.org/wiki/Eno_Center_for_Transportation)
 * [List of production battery electric vehicles](https://en.wikipedia.org/wiki/List_of_production_battery_electric_vehicles)
