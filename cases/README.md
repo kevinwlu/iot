@@ -70,6 +70,8 @@
 * [Jet stream](https://en.wikipedia.org/wiki/Jet_stream)
 * [Polar vortex](https://en.wikipedia.org/wiki/Polar_vortex)
 * [Quasi-biennial oscillation](https://en.wikipedia.org/wiki/Quasi-biennial_oscillation) (QBO)
+* [Woodwell Climate Research Center](https://en.wikipedia.org/wiki/Woodwell_Climate_Research_Center)
+  * [George M. Woodwell](https://en.wikipedia.org/wiki/George_M._Woodwell) 1928&mdash;2024
 ## Communications
 * [0G Project](http://n4wwwgzppoxfqgh4d37fjl4yanfiwhdr3rocjegzpyhlu2wesmrbknad.onion.ly/)
 * [Affirmed Networks](https://www.affirmednetworks.com/)
