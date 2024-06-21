@@ -67,6 +67,7 @@
   * [Chimor](https://en.wikipedia.org/wiki/Chimor)
   * [Chan Chan](https://en.wikipedia.org/wiki/Chan_Chan)
 * [La Niña](https://en.wikipedia.org/wiki/La_Ni%C3%B1a)
+  * [Heat dome](https://en.wikipedia.org/wiki/Heat_dome)
 * [Jet stream](https://en.wikipedia.org/wiki/Jet_stream)
 * [Polar vortex](https://en.wikipedia.org/wiki/Polar_vortex)
 * [Quasi-biennial oscillation](https://en.wikipedia.org/wiki/Quasi-biennial_oscillation) (QBO)
