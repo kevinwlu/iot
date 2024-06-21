@@ -103,6 +103,8 @@
 * [Selling, General, and Administrative Expenses](https://en.wikipedia.org/wiki/SG%26A) (SG&A)
 * [Shelf life](https://en.wikipedia.org/wiki/Shelf_life)
 * [Shovel ready](https://en.wikipedia.org/wiki/Shovel_ready)
+* [SkyBridge Alternatives Conference](https://www.salt.org/) (SALT)
+  * [SkyBridge Capital](https://en.wikipedia.org/wiki/SkyBridge_Capital)
 * [Social alienation](https://en.wikipedia.org/wiki/Social_alienation)
 * [Social justice](https://en.wikipedia.org/wiki/Social_justice)
 * [Sovereign wealth fund](https://en.wikipedia.org/wiki/Sovereign_wealth_fund) (SWF)
@@ -120,9 +122,6 @@
 * [Large numbers](https://en.wikipedia.org/wiki/Large_numbers)
 * [Graham's number](https://en.wikipedia.org/wiki/Graham's_number)
 * [Law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
----
-* [SkyBridge Alternatives Conference](https://www.salt.org/) (SALT)
-* [SkyBridge Capital](https://en.wikipedia.org/wiki/SkyBridge_Capital)
 ---
 * [List of eponymous laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
 * [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
