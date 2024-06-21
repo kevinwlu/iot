@@ -64,6 +64,8 @@
   * [Google Climate and sustainability](https://research.google/teams/climate-and-sustainability/) 
 * [Fire and smoke map](https://fire.airnow.gov/)
 * [El Niño](https://en.wikipedia.org/wiki/El_Ni%C3%B1o)
+  * [Chimor](https://en.wikipedia.org/wiki/Chimor)
+  * [Chan Chan](https://en.wikipedia.org/wiki/Chan_Chan)
 * [La Niña](https://en.wikipedia.org/wiki/La_Ni%C3%B1a)
 * [Jet stream](https://en.wikipedia.org/wiki/Jet_stream)
 * [Polar vortex](https://en.wikipedia.org/wiki/Polar_vortex)
