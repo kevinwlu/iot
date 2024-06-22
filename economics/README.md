@@ -190,6 +190,7 @@
    * [Libertarian conservatism](https://en.wikipedia.org/wiki/Libertarian_conservatism)
 * [Liberalism](https://en.wikipedia.org/wiki/Liberalism)
 * [Libertarianism](https://en.wikipedia.org/wiki/Libertarianism)
+* [Primus inter pares](https://en.wikipedia.org/wiki/Primus_inter_pares)
 * [Progressivism](https://en.wikipedia.org/wiki/Progressivism)
 * [Totalitarianism](https://en.wikipedia.org/wiki/Totalitarianism)
 * [Econlib](https://www.econlib.org/)
