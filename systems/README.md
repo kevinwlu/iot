@@ -26,7 +26,6 @@
 * [Ishikawa diagram](https://en.wikipedia.org/wiki/Ishikawa_diagram) by [Kaoru Ishikawa](https://en.wikipedia.org/wiki/Kaoru_Ishikawa) 1915&mdash;1989
 * [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) (MVP)
 * [Nondestructive testing](https://en.wikipedia.org/wiki/Nondestructive_testing) (NDT)
-* [OODA loop](https://en.wikipedia.org/wiki/OODA_loop) (observe, orient, decide, act)
 * [Reliability engineering](https://en.wikipedia.org/wiki/Reliability_engineering)
   * [Bathtub curve](https://en.wikipedia.org/wiki/Bathtub_curve)
   * [Control chart](https://en.wikipedia.org/wiki/Control_chart)
