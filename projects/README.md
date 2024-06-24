@@ -12,7 +12,9 @@
 * [HomeKit](https://en.wikipedia.org/wiki/HomeKit)
 * [Pi-hole](https://en.wikipedia.org/wiki/Pi-hole)
 * [RepRap project](https://en.wikipedia.org/wiki/RepRap_project)
-## 2023 Spring
+## 2024 Summer
+* [Predicting Near-Earth Object Impact Risk Using Machine Learning and 3D Trajectory Data](https://github.com/natalyjc/NASA-NJSGC/tree/main)
+## 2024 Spring
 * [C.A.T.S.: Camera Assissted Tracking System](https://github.com/dkrautha/CATS-ECE/tree/tensorflow)
 ## 2022 Spring
 * [Adaptive Correlative Microscopy System](https://github.com/Ephemeral-Devices/senior-design)
