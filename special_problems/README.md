@@ -14,6 +14,7 @@
 * [Iterative Refinement Network](https://arxiv.org/abs/2211.04774) (IRNet)
 * [Residual neural network](https://en.wikipedia.org/wiki/Residual_neural_network) (ResNet)
 * [Dive into Deep Learning](https://d2l.ai/)
+* [Jensen–Shannon divergence](https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence)
 * [Transformer](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture))
 * [Object detection](https://en.wikipedia.org/wiki/Object_detection)
   * [Convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN)
