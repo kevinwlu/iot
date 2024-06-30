@@ -43,6 +43,7 @@
 * [Cuisinart](https://en.wikipedia.org/wiki/Cuisinart)
 * Amos Winter
 * [Ezio Manzini](https://en.wikipedia.org/wiki/Ezio_Manzini)
+* [Prótesis Imbabura](https://protesisimbabura.com/) in [Ibarra, Ecuador](https://en.wikipedia.org/wiki/Ibarra,_Ecuador)
 * [Mass customization](https://en.wikipedia.org/wiki/Mass_customization)
 * [Todd Rose](https://en.wikipedia.org/wiki/Todd_Rose)
 * Gilbert Daniels
