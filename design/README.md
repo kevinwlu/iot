@@ -1,6 +1,7 @@
-# Engineering Design
+# _What Can a Body Do_
 * [Sara Hendren](https://sarahendren.com/)
-  * [Our Bodies, Aliveness, and the Built World](https://onbeing.org/programs/sara-hendren-our-bodies-aliveness-and-the-built-world/)
+* [Our Bodies, Aliveness, and the Built World](https://onbeing.org/programs/sara-hendren-our-bodies-aliveness-and-the-built-world/)
+## Who Is the Built World Built For
 * [Lennard J. Davis](https://en.wikipedia.org/wiki/Lennard_J._Davis)
 * [Adolphe Quetelet](https://en.wikipedia.org/wiki/Adolphe_Quetelet) 1796&mdash;1874
 * Peter Cryle
@@ -12,6 +13,7 @@
 * [Baruch Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza) 1632&mdash;1677
 * [Gilles Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze) 1925&mdash;1995
 * [Simi Linton](https://en.wikipedia.org/wiki/Simi_Linton)
+## Limb
 * [Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon) 1561&mdash;1626
 * [Donna Haraway](https://en.wikipedia.org/wiki/Donna_Haraway)
 * David Serlin
@@ -20,6 +22,7 @@
 * [David Edgerton (historian)](https://en.wikipedia.org/wiki/David_Edgerton_(historian))
 * [Jaipur foot](https://en.wikipedia.org/wiki/Jaipur_foot)
 * Steven Kurzman
+## Chair
 * [Audre Lorde](https://en.wikipedia.org/wiki/Audre_Lorde) 1934&mdash;1992
 * [Alex Truesdell](https://en.wikipedia.org/wiki/Alex_Truesdell)
   * [Adaptive Design Association](https://en.wikipedia.org/wiki/Adaptive_Design_Association) (ADA)
@@ -47,3 +50,15 @@
 * [Mass customization](https://en.wikipedia.org/wiki/Mass_customization)
 * [Todd Rose](https://en.wikipedia.org/wiki/Todd_Rose)
 * Gilbert Daniels
+## Room
+* [Thomas Hopkins Gallaudet](https://en.wikipedia.org/wiki/Thomas_Hopkins_Gallaudet) 1787&mdash;1851
+* [American School for the Deaf](https://en.wikipedia.org/wiki/American_School_for_the_Deaf) (ASD) was founded in 1817
+* [Amos Kendall](https://en.wikipedia.org/wiki/Amos_Kendall) 1789&mdash;1869
+* [Edward Miner Gallaudet](https://en.wikipedia.org/wiki/Edward_Miner_Gallaudet) 1837&mdash;1917
+* [Gallaudet University](https://en.wikipedia.org/wiki/Gallaudet_University) was founded in 1864
+* [American Sign Language](https://en.wikipedia.org/wiki/American_Sign_Language) (ASL)
+## Street
+
+## Clock
+
+## Making Assistance Visible
