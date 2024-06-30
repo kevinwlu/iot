@@ -2,6 +2,7 @@
 * [Sara Hendren](https://sarahendren.com/)
 * [Our Bodies, Aliveness, and the Built World](https://onbeing.org/programs/sara-hendren-our-bodies-aliveness-and-the-built-world/)
 ## Who Is the Built World Built For
+* [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) 1913&mdash;1960
 * [Lennard J. Davis](https://en.wikipedia.org/wiki/Lennard_J._Davis)
 * [Adolphe Quetelet](https://en.wikipedia.org/wiki/Adolphe_Quetelet) 1796&mdash;1874
 * Peter Cryle
@@ -51,6 +52,7 @@
 * [Todd Rose](https://en.wikipedia.org/wiki/Todd_Rose)
 * Gilbert Daniels
 ## Room
+* [Gaston Bachelard](https://en.wikipedia.org/wiki/Gaston_Bachelard) 1884&mdash;1962
 * [Thomas Hopkins Gallaudet](https://en.wikipedia.org/wiki/Thomas_Hopkins_Gallaudet) 1787&mdash;1851
 * [American School for the Deaf](https://en.wikipedia.org/wiki/American_School_for_the_Deaf) (ASD) was founded in 1817
 * [Amos Kendall](https://en.wikipedia.org/wiki/Amos_Kendall) 1789&mdash;1869
