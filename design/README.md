@@ -78,6 +78,7 @@
 * [Bess Williamson](https://besswilliamson.com/), [*Accessible America*](https://nyupress.org/9781479894093/accessible-america/) 2019
 * [Judith Heumann](https://en.wikipedia.org/wiki/Judith_Heumann) 1947&mdash;2023
 * [Independent living](https://en.wikipedia.org/wiki/Independent_living)
+* [Amyotrophic lateral sclerosis](https://en.wikipedia.org/wiki/ALS) (ALS)
 * [Steve Saling](http://www.alsri.org/who-is-steve-saling.html)
 * [Barry Berman](http://www.alsri.org/history.html)
 * [Eva Kittay](https://en.wikipedia.org/wiki/Eva_Kittay)
