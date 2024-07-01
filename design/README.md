@@ -1,6 +1,8 @@
 # _What Can a Body Do_
 * [Sara Hendren](https://sarahendren.com/)
 * [Our Bodies, Aliveness, and the Built World](https://onbeing.org/programs/sara-hendren-our-bodies-aliveness-and-the-built-world/)
+* [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand), [*How Buildings Learn*](https://en.wikipedia.org/wiki/How_Buildings_Learn) 1994
+* [Neil Marcus](https://en.wikipedia.org/wiki/Neil_Marcus) 1954&mdash;2021
 ## Who Is the Built World Built For
 * [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) 1913&mdash;1960
 * [Lennard J. Davis](https://en.wikipedia.org/wiki/Lennard_J._Davis)
@@ -59,6 +61,27 @@
 * [Edward Miner Gallaudet](https://en.wikipedia.org/wiki/Edward_Miner_Gallaudet) 1837&mdash;1917
 * [Gallaudet University](https://en.wikipedia.org/wiki/Gallaudet_University) was founded in 1864
 * [American Sign Language](https://en.wikipedia.org/wiki/American_Sign_Language) (ASL)
+* [Hansel Bauman](https://www.hanselbauman.online/)
+* [Matthew Malzkuhn](http://www.georgetownslrl.com/team.html)
+  * [YouTube](https://www.youtube.com/@matthewmalzkuhn8404)
+* [H-Dirksen L. Bauman](http://www.dirksenbauman.com/), [*Deaf Gain*](https://www.upress.umn.edu/9780816691227/deaf-gain/) 2014
+* [Cochlear Limited](https://en.wikipedia.org/wiki/Cochlear_Limited)
+* [Douglas Baynton](https://history.uiowa.edu/people/douglas-baynton)
+* [Samuel Johnson](https://en.wikipedia.org/wiki/Samuel_Johnson) 1709&mdash;1784
+* [Harriet Martineau](https://en.wikipedia.org/wiki/Harriet_Martineau) 1802&mdash;1876
+* [John Robertson Burnet](https://gallaudetupress.manifoldapp.org/read/a-mighty-change-an-anthology-of-deaf-american-writing-1816-1864/section/a10225d5-bde4-40c6-bfb1-88b59bba47d9) 1808&mdash;1874
+* [William Stokoe](https://en.wikipedia.org/wiki/William_Stokoe) 1919&mdash;2000
+* [Martin Heidegger](https://en.wikipedia.org/wiki/Martin_Heidegger) 1889&mdash;1976
+* [Ed Roberts (activist)](https://en.wikipedia.org/wiki/Ed_Roberts_(activist)) 1939&mdash;1995
+* [Henry Bicker Bruyn](https://www.sfgate.com/news/article/BRUYN-Henry-Bicker-M-D-2701360.php) 1918&mdash;2004
+  * [Online Archive of California](https://oac.cdlib.org/view?docId=kt5z09n82q;NAAN=13030&doc.view=frames&chunk.id=d0e765&toc.id=d0e793&brand=oac4) (OAC) 1999
+* [Bess Williamson](https://besswilliamson.com/), [*Accessible America*](https://nyupress.org/9781479894093/accessible-america/) 2019
+* [Judith Heumann](https://en.wikipedia.org/wiki/Judith_Heumann) 1947&mdash;2023
+* [Independent living](https://en.wikipedia.org/wiki/Independent_living)
+* [Steve Saling](http://www.alsri.org/who-is-steve-saling.html)
+* [Barry Berman](http://www.alsri.org/history.html)
+* [Eva Kittay](https://en.wikipedia.org/wiki/Eva_Kittay)
+* [Alasdair MacIntyre](https://en.wikipedia.org/wiki/Alasdair_MacIntyre)
 ## Street
 
 ## Clock
