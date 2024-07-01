@@ -485,6 +485,7 @@
   > On February 22, 2024, the *Odysseus* lander landed on the Moon
   * [Odysseus](https://en.wikipedia.org/wiki/Odysseus)
 * [Isar Aerospace](https://en.wikipedia.org/wiki/Isar_Aerospace)
+* [i-Space](https://en.wikipedia.org/wiki/I-Space_(Chinese_company))
 * [ispace](https://en.wikipedia.org/wiki/Ispace_(Japanese_company))
 * [Kuiper Systems](https://en.wikipedia.org/wiki/Kuiper_Systems)
 * [Mars Oxygen ISRU Experiment](https://en.wikipedia.org/wiki/Mars_Oxygen_ISRU_Experiment) (MOXIE)
@@ -492,6 +493,7 @@
 * [Millennium Space Systems](https://www.millennium-space.com/)
 * [Mobile User Objective System](https://en.wikipedia.org/wiki/Mobile_User_Objective_System) (MUOS)
 * [NASA Space Tech Industry Partnership](https://www.nasa.gov/directorates/spacetech/solicitations/tipping_points)
+* [OneSpace](https://en.wikipedia.org/wiki/OneSpace)
 * [OneWeb](https://en.wikipedia.org/wiki/OneWeb)
 * [Planet Labs](https://en.wikipedia.org/wiki/Planet_Labs)
 * [PLD Space](https://en.wikipedia.org/wiki/PLD_Space)
@@ -500,6 +502,7 @@
 * [Rocket Lab](https://en.wikipedia.org/wiki/Rocket_Lab)
 * [Sierra Space](https://www.sierraspace.com/)
 * [Skyroot Aerospace](https://en.wikipedia.org/wiki/Skyroot_Aerospace)
+* [Space Pioneer](https://en.wikipedia.org/wiki/Space_Pioneer)
 * [SpaceBilt](https://www.spacebilt.com/)
 * [Spaceflight Industries](https://en.wikipedia.org/wiki/Spaceflight_Industries)
 * [SpaceX](https://en.wikipedia.org/wiki/SpaceX)
