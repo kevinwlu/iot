@@ -84,7 +84,9 @@
 * [Eva Kittay](https://en.wikipedia.org/wiki/Eva_Kittay)
 * [Alasdair MacIntyre](https://en.wikipedia.org/wiki/Alasdair_MacIntyre)
 ## Street
-
+* [Henri Lefebvre](https://en.wikipedia.org/wiki/Henri_Lefebvre) 1901&mdash;1991
+* [Wendy Jacob](https://en.wikipedia.org/wiki/Wendy_Jacob)
+* [Temple Grandin](https://en.wikipedia.org/wiki/Temple_Grandin)
 ## Clock
 
 ## Making Assistance Visible
