@@ -87,6 +87,14 @@
 * [Henri Lefebvre](https://en.wikipedia.org/wiki/Henri_Lefebvre) 1901&mdash;1991
 * [Wendy Jacob](https://en.wikipedia.org/wiki/Wendy_Jacob)
 * [Temple Grandin](https://en.wikipedia.org/wiki/Temple_Grandin)
+* [Savant syndrome](https://en.wikipedia.org/wiki/Savant_syndrome)
+* [Steve Silberman](https://en.wikipedia.org/wiki/Steve_Silberman)
+* [Hans Asperger](https://en.wikipedia.org/wiki/Hans_Asperger) 1906&mdash;1980
+* [Leo Kanner](https://en.wikipedia.org/wiki/Leo_Kanner) 1894&mdash;1981
+* [Sensory processing disorder](https://en.wikipedia.org/wiki/Sensory_processing_disorder) 
+* [Spandex](https://en.wikipedia.org/wiki/Spandex)
+* [Rem Koolhaas](https://en.wikipedia.org/wiki/Rem_Koolhaas)
+* [Rebecca Solnit](https://en.wikipedia.org/wiki/Rebecca_Solnit)
 ## Clock
 
 ## Making Assistance Visible
