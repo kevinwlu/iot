@@ -1,9 +1,9 @@
-# _What Can a Body Do_
+# _What Can a Body Do?_
 * [Sara Hendren](https://sarahendren.com/)
 * [Our Bodies, Aliveness, and the Built World](https://onbeing.org/programs/sara-hendren-our-bodies-aliveness-and-the-built-world/)
 * [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand), [*How Buildings Learn*](https://en.wikipedia.org/wiki/How_Buildings_Learn) 1994
 * [Neil Marcus](https://en.wikipedia.org/wiki/Neil_Marcus) 1954&mdash;2021
-## Who Is the Built World Built For
+## Who Is the Built World Built For?
 * [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) 1913&mdash;1960
 * [Lennard J. Davis](https://en.wikipedia.org/wiki/Lennard_J._Davis)
 * [Adolphe Quetelet](https://en.wikipedia.org/wiki/Adolphe_Quetelet) 1796&mdash;1874
