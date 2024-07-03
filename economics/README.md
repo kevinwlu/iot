@@ -201,5 +201,10 @@
   > Conservatives see the world as a struggle between civilization and barbarism — between order and chaos — and they try to protect civilization.
 ---
 * [Types of democracy](https://en.wikipedia.org/wiki/Types_of_democracy)
+* [Anocracy](https://en.wikipedia.org/wiki/Anocracy)
+* [Aristocracy](https://en.wikipedia.org/wiki/Aristocracy)
+* [Autocracy](https://en.wikipedia.org/wiki/Autocracy)
+* [Democracy](https://en.wikipedia.org/wiki/Democracy)
 * [Meritocracy](https://en.wikipedia.org/wiki/Meritocracy)
+* [Plutocracy](https://en.wikipedia.org/wiki/Plutocracy)
 * [Technocracy](https://en.wikipedia.org/wiki/Technocracy)
