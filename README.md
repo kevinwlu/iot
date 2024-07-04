@@ -1,5 +1,6 @@
 # Internet of Things (IoT)
 ## Electrical Engineering EE 629
+* [Xiaojiang Du](https://www.stevens.edu/profile/xdu16) since 2022
 * [Kevin Lu](https://www.stevens.edu/profile/klu2) from 2015 Spring to 2021 Fall
 * [Learning](https://github.com/kevinwlu/kevinwlu.github.io/tree/main/Learning)
 * [Lesson 1](/lesson1): Overview
