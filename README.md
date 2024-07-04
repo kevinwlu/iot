@@ -12,7 +12,8 @@
 * [Lesson 8](/lesson8): Data Analysis
 * [Lesson 9](/lesson9): YANG and Qiskit
 * [Lesson 10](/lesson10): Blockchain
-* Labs by [David Krauthamer](https://github.com/dkrautha/d6)
+* Labs for CPE 322 by [Marc DiGeronimo](https://github.com/mdigeron/CPE322A)
+* Labs for EE 322 by [David Krauthamer](https://github.com/dkrautha/d6)
 * [Apps](/apps)
 * [Engineering Economics](/economics)
 * [Gartner hype cycle](/hype)
