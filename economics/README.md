@@ -93,6 +93,7 @@
 * [Non-compete clause](https://en.wikipedia.org/wiki/Non-compete_clause)
 * [Non-disclosure agreement](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator) or Key performance indicator (KPI)
+* [Phillips curve](https://en.wikipedia.org/wiki/Phillips_curve) by [Bill Phillips](https://en.wikipedia.org/wiki/Bill_Phillips_(economist)) 1914&mdash;1975
 * [Price–earnings ratio](https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio) (P/E ratio)
 * [Price–performance ratio](https://en.wikipedia.org/wiki/Price%E2%80%93performance_ratio)
   * [Benefit–cost ratio](https://en.wikipedia.org/wiki/Benefit%E2%80%93cost_ratio)
