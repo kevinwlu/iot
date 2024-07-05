@@ -103,6 +103,8 @@
 * [Todd Swanstrom](https://www.umsl.edu/political-science/directory/swanstrom-todd.html)
 * [Thick Injustice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1643578)
 * [Hogeweyk](https://en.wikipedia.org/wiki/Hogeweyk)
+* [Haloperidol](https://en.wikipedia.org/wiki/Haloperidol)
+* [*Lost in Space: Architecture and Dementia*](https://books.google.com/books/about/Lost_in_Space.html?id=FxvfsgEACAAJ)
 ## Clock
 
 ## Making Assistance Visible
