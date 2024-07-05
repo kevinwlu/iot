@@ -69,6 +69,8 @@
 ##
 * [*Gödel, Escher, Bach*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) 1979 by [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter)
   * [*I Am a Strange Loop*](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop) 2007
+* [Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity)
+  * [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil)
 ## NumPy
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
 * [Linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
