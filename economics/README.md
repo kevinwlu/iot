@@ -184,14 +184,15 @@
 * [Who Are the “Lazy” Ants? The Function of Inactivity in Social Insects and a Possible Role of Constraint: Inactive Ants Are Corpulent and May Be Young and/or Selfish](https://academic.oup.com/icb/article/57/3/649/4036211), July 25, 2017
 * [Who needs ‘lazy’ workers? Inactive workers act as a ‘reserve’ labor force replacing active workers, but inactive workers are not replaced when they are removed](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184074), September 6, 2017
 ---
+* [Political polarization](https://en.wikipedia.org/wiki/Political_polarization)
 * [List of think tanks in the United States](https://en.wikipedia.org/wiki/List_of_think_tanks_in_the_United_States)
-* [Government](https://en.wikipedia.org/wiki/Government)
 * [Authoritarianism](https://en.wikipedia.org/wiki/Authoritarianism)
 * [Centrism](https://en.wikipedia.org/wiki/Centrism)
 * [Conservatism](https://en.wikipedia.org/wiki/Conservatism)
    * [Libertarian conservatism](https://en.wikipedia.org/wiki/Libertarian_conservatism)
 * [Liberalism](https://en.wikipedia.org/wiki/Liberalism)
 * [Libertarianism](https://en.wikipedia.org/wiki/Libertarianism)
+* [Populism](https://en.wikipedia.org/wiki/Populism)
 * [Primus inter pares](https://en.wikipedia.org/wiki/Primus_inter_pares)
 * [Progressivism](https://en.wikipedia.org/wiki/Progressivism)
 * [Totalitarianism](https://en.wikipedia.org/wiki/Totalitarianism)
@@ -200,6 +201,7 @@
   > Progressives see the world as a struggle between the oppressor and the oppressed, and they try to help the oppressed.
   > Conservatives see the world as a struggle between civilization and barbarism — between order and chaos — and they try to protect civilization.
 ---
+* [Government](https://en.wikipedia.org/wiki/Government)
 * [Types of democracy](https://en.wikipedia.org/wiki/Types_of_democracy)
 * [Adhocracy](https://en.wikipedia.org/wiki/Adhocracy) as opposed to [Bureaucracy](https://en.wikipedia.org/wiki/Bureaucracy)
 * [Anocracy](https://en.wikipedia.org/wiki/Anocracy)
