@@ -97,6 +97,12 @@
 * [Rebecca Solnit](https://en.wikipedia.org/wiki/Rebecca_Solnit)
 * [Curb cut](https://en.wikipedia.org/wiki/Curb_cut)
 * [Americans with Disabilities Act of 1990](https://en.wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990) (ADA)
+* [Aimi Hamraie](https://aimihamraie.com/)
+* [Paternalism](https://en.wikipedia.org/wiki/Paternalism)
+* [Clarissa Rile Hayward](https://en.wikipedia.org/wiki/Clarissa_Rile_Hayward)
+* [Todd Swanstrom](https://www.umsl.edu/political-science/directory/swanstrom-todd.html)
+* [Thick Injustice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1643578)
+* [Hogeweyk](https://en.wikipedia.org/wiki/Hogeweyk)
 ## Clock
 
 ## Making Assistance Visible
