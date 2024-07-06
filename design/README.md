@@ -3,7 +3,7 @@
 * [Our Bodies, Aliveness, and the Built World](https://onbeing.org/programs/sara-hendren-our-bodies-aliveness-and-the-built-world/)
 * [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand), [*How Buildings Learn*](https://en.wikipedia.org/wiki/How_Buildings_Learn) 1994
 * [Neil Marcus](https://en.wikipedia.org/wiki/Neil_Marcus) 1954&mdash;2021
-* [https://en.wikipedia.org/wiki/Disability_studies](https://en.wikipedia.org/wiki/Disability_studies)
+* [Disability studies](https://en.wikipedia.org/wiki/Disability_studies)
 ## Who Is the Built World Built For?
 * [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) 1913&mdash;1960
 * [Lennard J. Davis](https://en.wikipedia.org/wiki/Lennard_J._Davis)
@@ -17,6 +17,7 @@
 * [Age by decade](https://www.britannica.com/dictionary/eb/qa/Age-by-Decade)
 * [Tom Shakespeare](https://en.wikipedia.org/wiki/Tom_Shakespeare)
 * [Katherine Ott](https://profiles.si.edu/display/nottk1102006)
+* [Assistive technology](https://en.wikipedia.org/wiki/Assistive_technology)
 * [Susan Wendell](https://wellcomecollection.org/works/p5zpv3tp)
 * [Baruch Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza) 1632&mdash;1677
 * [Gilles Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze) 1925&mdash;1995
