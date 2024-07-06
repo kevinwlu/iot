@@ -106,5 +106,15 @@
 * [Haloperidol](https://en.wikipedia.org/wiki/Haloperidol)
 * [*Lost in Space: Architecture and Dementia*](https://books.google.com/books/about/Lost_in_Space.html?id=FxvfsgEACAAJ)
 ## Clock
-
+* [Crip time](https://www.accessibility.com/blog/what-is-crip-time)
+* [Alison Kafer](https://en.wikipedia.org/wiki/Alison_Kafer)
+* [Ellen Samuels](https://gws.wisc.edu/staff/samuels-ellen/)
+* [Amniocentesis](https://en.wikipedia.org/wiki/Amniocentesis)
+* [Down syndrome](https://en.wikipedia.org/wiki/Down_syndrome) is named after [John Langdon Down](https://en.wikipedia.org/wiki/John_Langdon_Down) 1828&mdash;1896
+* [Benedictines](https://en.wikipedia.org/wiki/Benedictines)
+* [Lewis Mumford](https://en.wikipedia.org/wiki/Lewis_Mumford) 1895&mdash;1990
+* [Carlo Rovelli](https://en.wikipedia.org/wiki/Carlo_Rovelli)
+* [Inventing the Feeble Mind**](https://global.oup.com/academic/product/inventing-the-feeble-mind-9780199396184) by James Trent
+* [American Association on Intellectual and Developmental Disabilities](https://en.wikipedia.org/wiki/American_Association_on_Intellectual_and_Developmental_Disabilities) (AAIDD)
+* [James Watson](https://en.wikipedia.org/wiki/James_Watson)
 ## Making Assistance Visible
