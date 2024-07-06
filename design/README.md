@@ -9,7 +9,10 @@
 * [Adolphe Quetelet](https://en.wikipedia.org/wiki/Adolphe_Quetelet) 1796&mdash;1874
 * Peter Cryle
 * Elizabeth Stephens
+* [Euthanasia](https://en.wikipedia.org/wiki/Euthanasia)
 * [Rosemarie Garland-Thomson](https://en.wikipedia.org/wiki/Rosemarie_Garland-Thomson)
+* [Glaucoma](https://en.wikipedia.org/wiki/Glaucoma)
+* [Down syndrome](https://en.wikipedia.org/wiki/Down_syndrome) is named after [John Langdon Down](https://en.wikipedia.org/wiki/John_Langdon_Down) 1828&mdash;1896
 * [Tom Shakespeare](https://en.wikipedia.org/wiki/Tom_Shakespeare)
 * Katherine Ott
 * Susan Wendell
@@ -110,7 +113,6 @@
 * [Alison Kafer](https://en.wikipedia.org/wiki/Alison_Kafer)
 * [Ellen Samuels](https://gws.wisc.edu/staff/samuels-ellen/)
 * [Amniocentesis](https://en.wikipedia.org/wiki/Amniocentesis)
-* [Down syndrome](https://en.wikipedia.org/wiki/Down_syndrome) is named after [John Langdon Down](https://en.wikipedia.org/wiki/John_Langdon_Down) 1828&mdash;1896
 * [Benedictines](https://en.wikipedia.org/wiki/Benedictines)
 * [Lewis Mumford](https://en.wikipedia.org/wiki/Lewis_Mumford) 1895&mdash;1990
 * [Carlo Rovelli](https://en.wikipedia.org/wiki/Carlo_Rovelli)
