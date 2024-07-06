@@ -58,7 +58,7 @@
 * [Mass customization](https://en.wikipedia.org/wiki/Mass_customization)
 * [Todd Rose](https://en.wikipedia.org/wiki/Todd_Rose)
 * [Gilbert S. Daniels](https://education.asu.edu/about/news/opinion-gilbert-daniels-gardener-who-changed-our-world) 1927&mdash;2020
-  * [*The Average Man?*]((https://books.google.com/books/about/The_Average_Man.html?id=NxmdHAAACAAJ)) 1952
+  * [*The Average Man?*](https://books.google.com/books/about/The_Average_Man.html?id=NxmdHAAACAAJ) 1952
 ## Room
 * [Gaston Bachelard](https://en.wikipedia.org/wiki/Gaston_Bachelard) 1884&mdash;1962
 * [Thomas Hopkins Gallaudet](https://en.wikipedia.org/wiki/Thomas_Hopkins_Gallaudet) 1787&mdash;1851
