@@ -52,12 +52,12 @@
 * [Fiskars](https://en.wikipedia.org/wiki/Fiskars)
 * [Marc Harrison](https://en.wikipedia.org/wiki/Marc_Harrison) 1936&mdash;1998
 * [Cuisinart](https://en.wikipedia.org/wiki/Cuisinart)
-* Amos Winter
+* [Amos Winter](https://meche.mit.edu/people/faculty/awinter@mit.edu)
 * [Ezio Manzini](https://en.wikipedia.org/wiki/Ezio_Manzini)
 * [Prótesis Imbabura](https://protesisimbabura.com/) in [Ibarra, Ecuador](https://en.wikipedia.org/wiki/Ibarra,_Ecuador)
 * [Mass customization](https://en.wikipedia.org/wiki/Mass_customization)
 * [Todd Rose](https://en.wikipedia.org/wiki/Todd_Rose)
-* Gilbert Daniels
+* [Gilbert S. Daniels](https://books.google.com/books/about/The_Average_Man.html?id=NxmdHAAACAAJ) 1927&mdash;2020
 ## Room
 * [Gaston Bachelard](https://en.wikipedia.org/wiki/Gaston_Bachelard) 1884&mdash;1962
 * [Thomas Hopkins Gallaudet](https://en.wikipedia.org/wiki/Thomas_Hopkins_Gallaudet) 1787&mdash;1851
