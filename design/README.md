@@ -3,31 +3,33 @@
 * [Our Bodies, Aliveness, and the Built World](https://onbeing.org/programs/sara-hendren-our-bodies-aliveness-and-the-built-world/)
 * [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand), [*How Buildings Learn*](https://en.wikipedia.org/wiki/How_Buildings_Learn) 1994
 * [Neil Marcus](https://en.wikipedia.org/wiki/Neil_Marcus) 1954&mdash;2021
+* [https://en.wikipedia.org/wiki/Disability_studies](https://en.wikipedia.org/wiki/Disability_studies)
 ## Who Is the Built World Built For?
 * [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) 1913&mdash;1960
 * [Lennard J. Davis](https://en.wikipedia.org/wiki/Lennard_J._Davis)
 * [Adolphe Quetelet](https://en.wikipedia.org/wiki/Adolphe_Quetelet) 1796&mdash;1874
-* Peter Cryle
-* Elizabeth Stephens
+* [Peter Cryle](https://researchers.uq.edu.au/researcher/3685) and [Elizabeth Stephens](https://researchers.uq.edu.au/researcher/1204), [*Normality: A Critical Genealogy*](https://www.google.com/books/edition/Normality/fpY-DwAAQBAJ) 2017
 * [Euthanasia](https://en.wikipedia.org/wiki/Euthanasia)
 * [Rosemarie Garland-Thomson](https://en.wikipedia.org/wiki/Rosemarie_Garland-Thomson)
 * [Glaucoma](https://en.wikipedia.org/wiki/Glaucoma)
+* [Rheumatoid arthritis](https://en.wikipedia.org/wiki/Rheumatoid_arthritis)
 * [Down syndrome](https://en.wikipedia.org/wiki/Down_syndrome) is named after [John Langdon Down](https://en.wikipedia.org/wiki/John_Langdon_Down) 1828&mdash;1896
+* [Age by decade](https://www.britannica.com/dictionary/eb/qa/Age-by-Decade)
 * [Tom Shakespeare](https://en.wikipedia.org/wiki/Tom_Shakespeare)
-* Katherine Ott
-* Susan Wendell
+* [Katherine Ott](https://profiles.si.edu/display/nottk1102006)
+* [Susan Wendell](https://wellcomecollection.org/works/p5zpv3tp)
 * [Baruch Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza) 1632&mdash;1677
 * [Gilles Deleuze](https://en.wikipedia.org/wiki/Gilles_Deleuze) 1925&mdash;1995
 * [Simi Linton](https://en.wikipedia.org/wiki/Simi_Linton)
 ## Limb
 * [Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon) 1561&mdash;1626
 * [Donna Haraway](https://en.wikipedia.org/wiki/Donna_Haraway)
-* David Serlin
+* [David Serlin](https://communication.ucsd.edu/people/faculty/serlin-david.html)
 * [Henri-Jacques Stiker](https://fr.wikipedia.org/wiki/Henri-Jacques_Stiker)
   * [Disability in the Middle Ages](https://en.wikipedia.org/wiki/Disability_in_the_Middle_Ages)
 * [David Edgerton (historian)](https://en.wikipedia.org/wiki/David_Edgerton_(historian))
 * [Jaipur foot](https://en.wikipedia.org/wiki/Jaipur_foot)
-* Steven Kurzman
+* [Steven Kurzman](https://books.google.com/books/about/Performing_Able_bodiness.html?id=O6feNwAACAAJ)
 ## Chair
 * [Audre Lorde](https://en.wikipedia.org/wiki/Audre_Lorde) 1934&mdash;1992
 * [Alex Truesdell](https://en.wikipedia.org/wiki/Alex_Truesdell)
