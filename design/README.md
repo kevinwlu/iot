@@ -38,6 +38,7 @@
 ## Chair
 * [Audre Lorde](https://en.wikipedia.org/wiki/Audre_Lorde) 1934&mdash;1992
 * [Kente cloth](https://en.wikipedia.org/wiki/Kente_cloth)
+* [Tunic](https://en.wikipedia.org/wiki/Tunic)
 * [Alex Truesdell](https://en.wikipedia.org/wiki/Alex_Truesdell)
   * [Adaptive Design Association](https://en.wikipedia.org/wiki/Adaptive_Design_Association) (ADA)
 * [Galen Cranz](https://en.wikipedia.org/wiki/Galen_Cranz)
