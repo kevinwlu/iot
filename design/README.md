@@ -24,6 +24,8 @@
 * [Simi Linton](https://en.wikipedia.org/wiki/Simi_Linton)
 ## Limb
 * [Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon) 1561&mdash;1626
+* [Proportional myoelectric control](https://en.wikipedia.org/wiki/Proportional_myoelectric_control)
+  * [Electromyography](https://en.wikipedia.org/wiki/Electromyography) (EMG)
 * [Donna Haraway](https://en.wikipedia.org/wiki/Donna_Haraway)
 * [David Serlin](https://communication.ucsd.edu/people/faculty/serlin-david.html)
 * [Henri-Jacques Stiker](https://fr.wikipedia.org/wiki/Henri-Jacques_Stiker)
