@@ -124,4 +124,19 @@
 * [American Association on Intellectual and Developmental Disabilities](https://en.wikipedia.org/wiki/American_Association_on_Intellectual_and_Developmental_Disabilities) (AAIDD)
 * [Empowering People for Inclusive Communities](https://www.epicleaders.org/) (EPIC) founded in 2011 by [Jeff Lafata-Hernandez](https://www.epicleaders.org/epicteam)
 * [James Watson](https://en.wikipedia.org/wiki/James_Watson)
+* [Danielle Allen](https://en.wikipedia.org/wiki/Danielle_Allen)
 ## Making Assistance Visible
+* [Bonnie Honig](https://en.wikipedia.org/wiki/Bonnie_Honig)
+* [International Symbol of Access](https://en.wikipedia.org/wiki/International_Symbol_of_Access) (ISA)
+* [Isotype (picture language)](https://en.wikipedia.org/wiki/Isotype_(picture_language))
+* [Brian Glenney](https://en.wikipedia.org/wiki/Brian_Glenney)
+* [Krzysztof Wodiczko](https://en.wikipedia.org/wiki/Krzysztof_Wodiczko)
+  * [Interrogative Design: Selected Works of Krzysztof Wodiczko](https://www.gsd.harvard.edu/exhibition/interrogative-design-selected-works-of-krzysztof-wodiczko/)
+* [Tim Ferguson Sauder](https://www.returndesign.org/)
+* [Maxine Greene](https://en.wikipedia.org/wiki/Maxine_Greene) 1917&mdash;2014
+* [Sociological imagination](https://en.wikipedia.org/wiki/Sociological_imagination)
+* [Martha Albertson Fineman](https://en.wikipedia.org/wiki/Martha_Albertson_Fineman)
+## Acknowledgments
+* [Michael Bérubé](https://en.wikipedia.org/wiki/Michael_B%C3%A9rub%C3%A9)
+* [Graham Pullin](https://www.dundee.ac.uk/people/graham-pullin)
+* [Sarah Ruhl](https://en.wikipedia.org/wiki/Sarah_Ruhl)
