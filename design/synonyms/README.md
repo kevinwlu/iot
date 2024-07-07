@@ -20,7 +20,6 @@
 | 20 | rocochet | bounce |
 | 21 | spurt | flurry |
 | 21 | beset | plague |
-| 21 | replete | plump |
 | 22 | detritus | debris |
 | 22 | redolent | fragrant |
 | 22 | blundering | fumbling |
@@ -32,6 +31,17 @@
 | 23 | broach | surface |
 | 29 | posit | suggest |
 | 31 | perch | land |
+| 32 | tenuous | fragile |
+| 32 | blithely | breezily |
+| 32 | myopic | shortsighted |
+| 32 | malleable | plastic |
+| 35 | enigma | mystery |
+| 35 | affable | unaffected |
+| 36 | simulacrum | representation |
+| 36 | amiable | gracious |
+| 37 | metastasize | spread |
+| 38 | conspicous | noticeable |
+|  |  |  |
 | 183 | glimmer | hint |
 | 183 | cusp | verge |
 | 184 | convival | sociable |
