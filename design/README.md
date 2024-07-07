@@ -26,6 +26,8 @@
 * [Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon) 1561&mdash;1626
 * [Proportional myoelectric control](https://en.wikipedia.org/wiki/Proportional_myoelectric_control)
   * [Electromyography](https://en.wikipedia.org/wiki/Electromyography) (EMG)
+* [Rorschach test](https://en.wikipedia.org/wiki/Rorschach_test)
+  * [Hermann Rorschach](https://en.wikipedia.org/wiki/Hermann_Rorschach) 1884&mdash;1922
 * [Donna Haraway](https://en.wikipedia.org/wiki/Donna_Haraway)
 * [David Serlin](https://communication.ucsd.edu/people/faculty/serlin-david.html)
 * [Henri-Jacques Stiker](https://fr.wikipedia.org/wiki/Henri-Jacques_Stiker)
