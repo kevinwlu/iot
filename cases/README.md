@@ -449,6 +449,7 @@
   * [Pieter Abbeel](https://en.wikipedia.org/wiki/Pieter_Abbeel)
 * [Elephant Robotics](https://www.elephantrobotics.com/en/)
   * [GitHub](https://github.com/elephantrobotics)
+* [ElliQ](https://elliq.com/)
 * [FANUC](https://en.wikipedia.org/wiki/FANUC) (Fuji Automatic Numerical Control)
 * [Hanson Robotics](https://en.wikipedia.org/wiki/Hanson_Robotics)
 * [Impossible Metals](https://impossiblemetals.com/)
