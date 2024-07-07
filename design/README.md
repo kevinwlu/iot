@@ -35,11 +35,15 @@
 * [David Edgerton (historian)](https://en.wikipedia.org/wiki/David_Edgerton_(historian))
 * [Jaipur foot](https://en.wikipedia.org/wiki/Jaipur_foot)
 * [Steven Kurzman](https://books.google.com/books/about/Performing_Able_bodiness.html?id=O6feNwAACAAJ)
-* [Carabiner](https://en.wikipedia.org/wiki/Carabiner)
-## Chair
 * [Audre Lorde](https://en.wikipedia.org/wiki/Audre_Lorde) 1934&mdash;1992
 * [Kente cloth](https://en.wikipedia.org/wiki/Kente_cloth)
 * [Tunic](https://en.wikipedia.org/wiki/Tunic)
+* [Carabiner](https://en.wikipedia.org/wiki/Carabiner)
+## Chair
+* [STXBP1](https://en.wikipedia.org/wiki/STXBP1)
+* [Epilepsy](https://en.wikipedia.org/wiki/Epilepsy)
+* [Encephalopathy](https://en.wikipedia.org/wiki/Encephalopathy)
+* [Dowel](https://en.wikipedia.org/wiki/Dowel)
 * [Alex Truesdell](https://en.wikipedia.org/wiki/Alex_Truesdell)
   * [Adaptive Design Association](https://en.wikipedia.org/wiki/Adaptive_Design_Association) (ADA)
 * [Galen Cranz](https://en.wikipedia.org/wiki/Galen_Cranz)
