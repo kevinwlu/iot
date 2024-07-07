@@ -35,6 +35,7 @@
 * [David Edgerton (historian)](https://en.wikipedia.org/wiki/David_Edgerton_(historian))
 * [Jaipur foot](https://en.wikipedia.org/wiki/Jaipur_foot)
 * [Steven Kurzman](https://books.google.com/books/about/Performing_Able_bodiness.html?id=O6feNwAACAAJ)
+* [Carabiner](https://en.wikipedia.org/wiki/Carabiner)
 ## Chair
 * [Audre Lorde](https://en.wikipedia.org/wiki/Audre_Lorde) 1934&mdash;1992
 * [Kente cloth](https://en.wikipedia.org/wiki/Kente_cloth)
