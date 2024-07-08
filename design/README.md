@@ -56,6 +56,7 @@
   * [*Silent Spring*](https://en.wikipedia.org/wiki/Silent_Spring) 1962
 * [Jane Jacobs](https://en.wikipedia.org/wiki/Jane_Jacobs) 1916&mdash;2006
   * [*The Death and Life of Great American Cities*](https://en.wikipedia.org/wiki/The_Death_and_Life_of_Great_American_Cities) 1961
+* [Ethos](https://en.wikipedia.org/wiki/Ethos)
 * [Herman Miller](https://en.wikipedia.org/wiki/Herman_Miller)
 * [Bill Stumpf](https://en.wikipedia.org/wiki/Bill_Stumpf) 1936&mdash;2006
 * [Don Chadwick](https://en.wikipedia.org/wiki/Don_Chadwick)
