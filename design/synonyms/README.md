@@ -75,16 +75,104 @@
 | 68 | buttress | anchor |
 | 70 | parlance | terminology |
 | 70 | cosseted | spoiled |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 71 | itinerant | nomadic |
+| 71 | pastel | pale |
+| 71 | belie | misrepresent |
+| 72 | flabbergasted | amazed |
+| 72 | unfettered | unleashed |
+| 72 | exorbitant | excessive |
+| 72 | perch | land |
+| 74 | ambulatory | nomadic |
+| 74 | sedentary | lazy |
+| 74 | varicose | puffed |
+| 75 | perpetuate | commemorate |
+| 76 | devolve | deteriorate |
+| 77 | maim | incapacitate |
+| 77 | polemic | criticism |
+| 77 | clarion | clear |
+| 77 | withering | failing |
+| 77 | shroud | veil |
+| 77 | conjoin | combine |
+| 78 | rouse | wake |
+| 78 | slumber | sleep |
+| 78 | giddiness | exuberance |
+| 78 | pander | pimp |
+| 78 | ethos | principles |
+| 78 | rampant | runaway |
+| 79 | assent | agree |
+| 79 | able-bodied | healthy |
+| 80 | barbed | sarcastic |
+| 85 | protracted | prolonged |
+| 86 | ilk | kind |
+| 87 | surmised | guessed |
+| 98 | traipse | walk |
+| 99 | somatic | physical |
+| 99 | bric-a-barc | ornament |
+| 100 | amphitheater | auditorium |
+| 101 | innate | inherent |
+| 104 | paltry | pitiful |
+| 104 | pallid | pale |
+| 104 | wispy | feathery |
+| 105 | palpable | perceptible |
+| 105 | viscera | gut |
+| 105 | thrum | hum |
+| 117 | prescient | cautious |
+| 119 | berth | job |
+| 122 | devoid | void |
+| 124 | strenuously | strongly |
+| 128 | debauchery | corruption |
+| 129 | mete out | distribute |
+| 133 | lurch | shake |
+| 133 | climactic | pivotal |
+| 133 | gregarious | outgoing |
+| 133 | bemused | confused |
+| 135 | cavernous | gigantic |
+| 136 | maturation | development |
+| 137 | savant | scholar |
+| 138 | complicity | conspiracy |
+| 138 | pernicious | harmful |
+| 138 | abet | provoke |
+| 139 | gamut | range |
+| 140 | fidget | twitch |
+| 141 | corpus | output |
+| 141 | scruffy | neglected |
+| 145 | gingerly | careful |
+| 145 | rite | ritual |
+| 145 | unencumbered | unburdened |
+| 147 | protract | prolong |
+| 150 | blustery | windy |
+| 152 | enunciated | articulated |
+| 152 | lilt | accent |
+| 153 | precept | principle |
+| 156 | jaunt | tour |
+| 156 | convivial | friendly |
+| 157 | ire | anger |
+| 159 | precipitously | hastily |
+| 165 | congential | born |
+| 166 | precocious | early |
+| 168 | ossified | hardened |
+| 170 | smitten | struck |
+| 170 | etiology | cause |
+| 171 | palpable | perceptible |
+| 171 | pernicious | deadly |
+| 174 | liturgical | ritual |
+| 175 | prophecy | prediction |
+| 175 | magnate | tycoon |
+| 177 | squalor | staining |
+| 177 | feeble | weak |
+| 178 | eradication | elimination |
+| 178 | menace | threat |
+| 178 | imbecile | idiot |
+| 179 | condescension | dominance |
+| 179 | sequester | isolate |
+| 180 | enigmatic | mysterious |
+| 180 | wrest | pry |
+| 181 | beneficently | benevolently |
+| 181 | wittingly | intentionally |
+| 181 | familial | household |
+| 181 | beckoned | waved |
+| 182 | bestowe | donate |
+| 182 | impoverished | poor |
 | 183 | glimmer | hint |
 | 183 | cusp | verge |
 | 184 | convival | sociable |
