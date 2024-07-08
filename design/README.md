@@ -83,6 +83,8 @@
 * [Edward Miner Gallaudet](https://en.wikipedia.org/wiki/Edward_Miner_Gallaudet) 1837&mdash;1917
 * [Gallaudet University](https://en.wikipedia.org/wiki/Gallaudet_University) was founded in 1864
 * [American Sign Language](https://en.wikipedia.org/wiki/American_Sign_Language) (ASL)
+* [Bric-à-brac](https://en.wikipedia.org/wiki/Bric-%C3%A0-brac)
+* [Squint](https://en.wikipedia.org/wiki/Squint)
 * [Hansel Bauman](https://www.hanselbauman.online/)
 * [Matthew Malzkuhn](http://www.georgetownslrl.com/team.html)
   * [YouTube](https://www.youtube.com/@matthewmalzkuhn8404)
@@ -107,6 +109,7 @@
 * [Alasdair MacIntyre](https://en.wikipedia.org/wiki/Alasdair_MacIntyre)
 ## Street
 * [Henri Lefebvre](https://en.wikipedia.org/wiki/Henri_Lefebvre) 1901&mdash;1991
+* [Amphibious vehicle](https://en.wikipedia.org/wiki/Amphibious_vehicle)
 * [Wendy Jacob](https://en.wikipedia.org/wiki/Wendy_Jacob)
 * [Temple Grandin](https://en.wikipedia.org/wiki/Temple_Grandin)
 * [Savant syndrome](https://en.wikipedia.org/wiki/Savant_syndrome)
