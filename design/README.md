@@ -134,6 +134,7 @@
 ## Clock
 * [Crip time](https://www.accessibility.com/blog/what-is-crip-time)
 * [Alison Kafer](https://en.wikipedia.org/wiki/Alison_Kafer)
+* [Birth defect](https://en.wikipedia.org/wiki/Birth_defect)
 * [Ellen Samuels](https://gws.wisc.edu/staff/samuels-ellen/)
 * [Amniocentesis](https://en.wikipedia.org/wiki/Amniocentesis)
 * [Benedictines](https://en.wikipedia.org/wiki/Benedictines)
