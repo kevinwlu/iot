@@ -137,6 +137,7 @@
 * [Birth defect](https://en.wikipedia.org/wiki/Birth_defect)
 * [Ellen Samuels](https://gws.wisc.edu/staff/samuels-ellen/)
 * [Amniocentesis](https://en.wikipedia.org/wiki/Amniocentesis)
+* [Etiology](https://en.wikipedia.org/wiki/Etiology)
 * [Benedictines](https://en.wikipedia.org/wiki/Benedictines)
 * [Lewis Mumford](https://en.wikipedia.org/wiki/Lewis_Mumford) 1895&mdash;1990
 * [Carlo Rovelli](https://en.wikipedia.org/wiki/Carlo_Rovelli)
