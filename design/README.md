@@ -142,6 +142,8 @@
 * [Benedictines](https://en.wikipedia.org/wiki/Benedictines)
 * [Lewis Mumford](https://en.wikipedia.org/wiki/Lewis_Mumford) 1895&mdash;1990
 * [Carlo Rovelli](https://en.wikipedia.org/wiki/Carlo_Rovelli)
+* [Magnate](https://en.wikipedia.org/wiki/Magnate)
+* [Almshouse](https://en.wikipedia.org/wiki/Almshouse)
 * [*Inventing the Feeble Mind*](https://global.oup.com/academic/product/inventing-the-feeble-mind-9780199396184) by James Trent
 * [American Association on Intellectual and Developmental Disabilities](https://en.wikipedia.org/wiki/American_Association_on_Intellectual_and_Developmental_Disabilities) (AAIDD)
 * [Empowering People for Inclusive Communities](https://www.epicleaders.org/) (EPIC) founded in 2011 by [Jeff Lafata-Hernandez](https://www.epicleaders.org/epicteam)
