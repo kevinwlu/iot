@@ -148,6 +148,9 @@
 * [American Association on Intellectual and Developmental Disabilities](https://en.wikipedia.org/wiki/American_Association_on_Intellectual_and_Developmental_Disabilities) (AAIDD)
 * [Empowering People for Inclusive Communities](https://www.epicleaders.org/) (EPIC) founded in 2011 by [Jeff Lafata-Hernandez](https://www.epicleaders.org/epicteam)
 * [James Watson](https://en.wikipedia.org/wiki/James_Watson)
+* [Frieze](https://en.wikipedia.org/wiki/Frieze)
+* [Laboratory flask](https://en.wikipedia.org/wiki/Laboratory_flask)
+* [Beaker](https://en.wikipedia.org/wiki/Beaker_(laboratory_equipment))
 * [Danielle Allen](https://en.wikipedia.org/wiki/Danielle_Allen)
 ## Making Assistance Visible
 * [Bonnie Honig](https://en.wikipedia.org/wiki/Bonnie_Honig)
