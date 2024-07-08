@@ -48,6 +48,8 @@
   * [Adaptive Design Association](https://en.wikipedia.org/wiki/Adaptive_Design_Association) (ADA)
 * [Galen Cranz](https://en.wikipedia.org/wiki/Galen_Cranz)
 * [Klismos](https://en.wikipedia.org/wiki/Klismos)
+* [Architectonics](https://en.wikipedia.org/wiki/Architectonics)
+* [Anthropomorphism](https://en.wikipedia.org/wiki/Anthropomorphism)
 * [Tripp Trapp](https://en.wikipedia.org/wiki/Tripp_Trapp)
 * [Victor Papanek](https://en.wikipedia.org/wiki/Victor_Papanek) 1923&mdash;1998
 * [Rachel Carson](https://en.wikipedia.org/wiki/Rachel_Carson) 1907&mdash;1964
