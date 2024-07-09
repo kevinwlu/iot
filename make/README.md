@@ -2,6 +2,7 @@
 ## YouTube Channels
 * [Adafruit Industries](https://www.youtube.com/@adafruit)
 * [Be Smart](https://www.youtube.com/@besmart) With Joe Hanson
+* [Design Theory](https://www.youtube.com/@Design.Theory)
 * [DIY](https://www.youtube.com/@diytv)
 * [Electromaker](https://www.youtube.com/@Electromakerio)
 * [Engineerguy](https://www.youtube.com/@engineerguyvideo) by [Bill Hammack](https://en.wikipedia.org/wiki/Bill_Hammack)
