@@ -167,3 +167,4 @@
 * [Michael Bérubé](https://en.wikipedia.org/wiki/Michael_B%C3%A9rub%C3%A9)
 * [Graham Pullin](https://www.dundee.ac.uk/people/graham-pullin)
 * [Sarah Ruhl](https://en.wikipedia.org/wiki/Sarah_Ruhl)
+* [Brian Funck](https://www.brianfunck.com/)
