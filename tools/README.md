@@ -110,6 +110,7 @@
 * [Khroma](https://www.khroma.co/)
 * [Klangio](https://klang.io/) Transcribe Music to Scores
 * [Late No More](https://www.focusbear.io/en/late-no-more)
+* [Luma Labs](https://lumalabs.ai/)
 * [Meta AI](https://en.wikipedia.org/wiki/Meta_AI)
   * [BlenderBot](https://blenderbot.ai/)
   * [BlenderBot 3](https://parl.ai/projects/bb3/) (BB3)
