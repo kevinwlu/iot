@@ -295,6 +295,7 @@
   * [Microplastics](https://en.wikipedia.org/wiki/Microplastics)
   * [Plasticizer](https://en.wikipedia.org/wiki/Plasticizer)
   * [Resin identification code](https://en.wikipedia.org/wiki/Resin_identification_code) (RIC)
+* [Renouvo](https://renouvo.net/) is a brand of Ju Tian Cleantech Co,. Ltd. 
 * [Pollution](https://en.wikipedia.org/wiki/Pollution)
   * [Air pollution](https://en.wikipedia.org/wiki/Air_pollution)
     * [Particulate pollution](https://en.wikipedia.org/wiki/Particulate_pollution)
