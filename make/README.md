@@ -5,6 +5,7 @@
 * [Design Theory](https://www.youtube.com/@Design.Theory)
 * [DIY](https://www.youtube.com/@diytv)
 * [Electromaker](https://www.youtube.com/@Electromakerio)
+* [element14 presents](https://www.youtube.com/@element14presents/)
 * [Engineerguy](https://www.youtube.com/@engineerguyvideo) by [Bill Hammack](https://en.wikipedia.org/wiki/Bill_Hammack)
 * [Hackster.io](https://www.youtube.com/@HacksterIo)
 * [iCIMS Halloween Hackathon](https://www.youtube.com/watch?v=guMeD6ama5Q) on [October 27, 2018](https://www.icims.com/company/newsroom/icims-to-host-halloween-hackathon-at-bell-works/)
