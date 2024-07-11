@@ -116,8 +116,11 @@
   * [Usability](https://en.wikipedia.org/wiki/Usability)
   * [ISO/TC 204 Intelligent transport systems](https://www.iso.org/committee/54706.html)
   * [ISO/TC 268 Sustainable cities and communities](https://www.iso.org/committee/656906.html)
+  * [ISO/IEC JTC 1](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1) Information Technology
   * [ISO/IEC JTC 1/SC 6](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1/SC_6) [Telecommunications and information exchange between systems](https://www.iso.org/committee/45072.html)
   * [ISO/IEC JTC 1/SC 39](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1/SC_39) [Sustainability, IT and data centers](https://www.iso.org/committee/654019.html)
+  * [ISO/IEC JTC 1/WG 14](https://jtc1info.org/sd-2-history/jtc1-working-groups/wg-14/) Quantum Information Technology
+  * [ISO/IEC JTC 3](https://www.iso.org/committee/10138914.html) [Quantum technologies](https://www.iec.ch/dyn/www/f?p=103:7:::::FSP_ORG_ID:49854)
   * [ISO 15118](https://en.wikipedia.org/wiki/ISO_15118) Road vehicles - Vehicle to grid communication interface
   * [ISO/IEC 15288](https://en.wikipedia.org/wiki/ISO/IEC_15288) 
   * [ISO/IEC 27000-series](https://en.wikipedia.org/wiki/ISO/IEC_27000-series)
@@ -182,6 +185,7 @@
 ## National and Regional Standards Organization
 * [Association Française de Normalisation](https://en.wikipedia.org/wiki/AFNOR) (AFNOR)
 * [Austrian Standards International](https://en.wikipedia.org/wiki/Austrian_Standards_International) (ASI)
+* [British Standards Institution](https://en.wikipedia.org/wiki/BSI_Group) (BSI)
 * [Deutsches Institut für Normung](https://en.wikipedia.org/wiki/Deutsches_Institut_f%C3%BCr_Normung) (DIN)
   * [Automotive head unit](https://en.wikipedia.org/wiki/Automotive_head_unit)
   * [DKE](https://en.wikipedia.org/wiki/German_Commission_for_Electrotechnical,_Electronic,_and_Information_Technologies_of_DIN_and_VDE) (German Commission for Electrotechnical, Electronic, and Information Technologies of DIN and VDE)
