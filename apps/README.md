@@ -19,6 +19,7 @@
 * [Pl@ntNet](https://en.wikipedia.org/wiki/Pl@ntNet)
   * [Botany](https://en.wikipedia.org/wiki/Botany)
 * [Shazam (application)](https://en.wikipedia.org/wiki/Shazam_(application))
+* [Smartify](https://en.wikipedia.org/wiki/Smartify)
 * [Vysor](https://github.com/koush/vysor.io) app to control iOS or Android phones on desktop computers
 ## Raster Graphics Editors
 * [Raster graphics](https://en.wikipedia.org/wiki/Raster_graphics)
