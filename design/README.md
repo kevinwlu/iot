@@ -4,6 +4,8 @@
 * [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand), [*How Buildings Learn*](https://en.wikipedia.org/wiki/How_Buildings_Learn) 1994
 * [Neil Marcus](https://en.wikipedia.org/wiki/Neil_Marcus) 1954&mdash;2021
 * [Disability studies](https://en.wikipedia.org/wiki/Disability_studies)
+* [Handedness](https://en.wikipedia.org/wiki/Handedness)
+* [One-hand typing](https://en.wikipedia.org/wiki/One-hand_typing)
 * [Active Hands](https://www.activehands.com/)
 * [Joyride Design](https://joyride.design/)
 ## Who Is the Built World Built For?
