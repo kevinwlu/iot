@@ -126,6 +126,7 @@
 * [MLRelated.com](https://www.mlrelated.com/)
 * [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) (SL)
   * [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering)
+  * [k-nearest neighbors algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (k-NN)
 * [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix)
 * [Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning)
 * [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) (RL)
