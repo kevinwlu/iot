@@ -124,6 +124,8 @@
   * [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel_(computer_scientist))
   * [Tom M. Mitchell](https://en.wikipedia.org/wiki/Tom_M._Mitchell)
 * [MLRelated.com](https://www.mlrelated.com/)
+* [Ensemble learning](https://en.wikipedia.org/wiki/Ensemble_learning)
+  * [Random forest](https://en.wikipedia.org/wiki/Random_forest)
 * [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) (SL)
   * [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering)
   * [k-nearest neighbors algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) (k-NN)
