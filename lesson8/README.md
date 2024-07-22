@@ -221,13 +221,17 @@
 ---
 * [Alegion](https://www.alegion.com/)
   * [Language Model Scaling Laws and GPT-3](https://towardsdatascience.com/language-model-scaling-laws-and-gpt-3-5cdc034e67bb)
+* [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group)
+  * [Tongyi Qianwen](https://www.alibabacloud.com/en/solutions/generative-ai/qwen) (Qwen)
+  * [Qwen2](https://github.com/QwenLM/Qwen2)
 * [Amazon Q](https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/)
 * [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
   * [Claude](https://www.anthropic.com/news/introducing-claude), March 14, 2023
   * [Claude 2](https://www.anthropic.com/news/claude-2), July 11, 2023
   * [Claude 3](https://www.anthropic.com/news/claude-3-family), March 4, 2024
-* [Leonardo AI](https://leonardo.ai/)
 * [Apple Intelligence](https://en.wikipedia.org/wiki/Apple_Intelligence)
+* [Baidu](https://en.wikipedia.org/wiki/Baidu)
+  * [Ernie Bot](https://en.wikipedia.org/wiki/Ernie_Bot)
 * [Cognition Labs](https://www.cognition-labs.com/)
   * [Devin](https://www.cognition-labs.com/introducing-devin)
 * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
@@ -256,6 +260,11 @@
 * [Groq](https://groq.com/) Language Processing Unit (LPU)
 * [Inflection AI](https://en.wikipedia.org/wiki/Inflection_AI)
   * [Pi](https://pi.ai/)
+* [Kuaishou](https://en.wikipedia.org/wiki/Kuaishou)
+  * [Kling AI](https://klingai.org/)
+  * [Kling video model](https://kling.kuaishou.com/en)
+  * [Kling videos](https://www.youtube.com/@KlingAIOfficial/videos)
+* [Leonardo AI](https://leonardo.ai/)
 * [Meta AI](https://en.wikipedia.org/wiki/Meta_AI)
   * [BlenderBot](https://blenderbot.ai/)
   * [BlenderBot 3](https://parl.ai/projects/bb3/) (BB3)
@@ -285,6 +294,8 @@
   * [PySyft](https://github.com/OpenMined/PySyft)
 * [Safe Superintelligence](https://ssi.inc/) (SSI)
   * [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)
+* [SenseTime](https://en.wikipedia.org/wiki/SenseTime)
+  * [SenseNova](https://www.sensetime.com/en/news-detail/51168278)
 ---
 * [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
 * [Pika](https://pika.art/) idea-to-video platform
