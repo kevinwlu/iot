@@ -641,6 +641,8 @@
 * [Rivian](https://en.wikipedia.org/wiki/Rivian)
 * [Scout Motors](https://en.wikipedia.org/wiki/Scout_Motors)
 * [Sedric](https://en.wikipedia.org/wiki/Sedric)
+* [Seres Group](https://en.wikipedia.org/wiki/Seres_Group)
+  * [AITO](https://en.wikipedia.org/wiki/AITO_(marque))
 * [Smart Mobility Living Lab](https://smartmobility.london/) (SMLL)
 * [Sonatus](https://www.sonatus.com/)
 * [Spin](https://en.wikipedia.org/wiki/Spin_(company))
