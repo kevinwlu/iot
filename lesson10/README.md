@@ -51,6 +51,7 @@
 * [Dash (cryptocurrency)](https://en.wikipedia.org/wiki/Dash_(cryptocurrency))
 * [Dogecoin](https://en.wikipedia.org/wiki/Dogecoin)
 * [Helium System](https://www.helium.com/)
+* [Meme coin](https://en.wikipedia.org/wiki/Meme_coin)
 * [Polkadot (cryptocurrency)](https://en.wikipedia.org/wiki/Polkadot_(cryptocurrency))
 * [Ripple (payment protocol)](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 * [Shiba Inu (cryptocurrency)](https://en.wikipedia.org/wiki/Shiba_Inu_(cryptocurrency))
