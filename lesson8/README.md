@@ -231,8 +231,6 @@
   * [Devin](https://www.cognition-labs.com/introducing-devin)
 * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
-  * [AlphaFold 3](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
-  * [AlphaGeometry](https://en.wikipedia.org/wiki/AlphaGeometry)
   * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
   * [Google I/O](https://io.google/)
   * [LaMDA](https://en.wikipedia.org/wiki/LaMDA)
@@ -246,6 +244,9 @@
     * [Sec-PaLM](https://cloud.google.com/blog/products/identity-security/rsa-google-cloud-security-ai-workbench-generative-ai)
   * [Google Brain](https://en.wikipedia.org/wiki/Google_Brain)
   * [DeepMind](https://en.wikipedia.org/wiki/DeepMind)
+    * [AlphaFold 3](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
+    * [AlphaGeometry](https://en.wikipedia.org/wiki/AlphaGeometry)
+    * [AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/), July 25, 2024
     * [RT-2: New model translates vision and language into action](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action) (Robotic Transformer 2), July 28, 2023
     * [Gemini (chatbot)](https://en.wikipedia.org/wiki/Gemini_(chatbot))
     * [Gemini (language model)](https://en.wikipedia.org/wiki/Gemini_(language_model))
