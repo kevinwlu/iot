@@ -307,6 +307,8 @@
   * [Chlorofluorocarbon](https://en.wikipedia.org/wiki/Chlorofluorocarbon) (CFC)
     * [Dichlorodifluoromethane](https://en.wikipedia.org/wiki/Dichlorodifluoromethane) (CFC-12)
     * [Freon](https://en.wikipedia.org/wiki/Freon)
+  * [Diclofenac](https://en.wikipedia.org/wiki/Diclofenac)
+    * [Indian vulture crisis](https://en.wikipedia.org/wiki/Indian_vulture_crisis)
   * [Persistent organic pollutant](https://en.wikipedia.org/wiki/Persistent_organic_pollutant) (POP) or "forever chemicals"
     * [Dichlorodiphenyltrichloroethane](https://en.wikipedia.org/wiki/DDT) (DDT)
     * [Dioxins and dioxin-like compounds](https://en.wikipedia.org/wiki/Dioxins_and_dioxin-like_compounds)
