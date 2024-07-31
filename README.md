@@ -235,6 +235,7 @@
   * [UCA](https://www.epri.com/research/products/TP-114398) (Utility Communications Architecture)
 * [Universal Stylus Initiative](https://en.wikipedia.org/wiki/Universal_Stylus_Initiative)
 * [Uptane Alliance](https://en.wikipedia.org/wiki/Uptane)
+* [Waveform Architecture for Virtualized Ecosystems](https://waveconsortium.org/) (WAVE)
 * [Wi-Fi Alliance](https://en.wikipedia.org/wiki/Wi-Fi_Alliance)
 * [WiMedia Alliance](https://en.wikipedia.org/wiki/WiMedia_Alliance)
 * [Wi-SUN](https://wi-sun.org/)
