@@ -1,4 +1,6 @@
 # Projects
+* [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)
+  * [Thomas Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes) 1701&mdash;1761
 * [Brain–computer interface](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface) (BCI)
   * [Neuralink](https://en.wikipedia.org/wiki/Neuralink)
   * [Neural oscillation](https://en.wikipedia.org/wiki/Neural_oscillation)
