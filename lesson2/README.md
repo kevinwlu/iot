@@ -25,6 +25,10 @@
   * [Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio)
   * [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code) (VS Code)
   * [Xcode](https://en.wikipedia.org/wiki/Xcode)
+* [Visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language)
+  * [NetsBlox](https://netsblox.org/)
+  * [Scratch](https://en.wikipedia.org/wiki/Scratch_(programming_language))
+  * [Snap!](https://en.wikipedia.org/wiki/Snap!_(programming_language))
 * [Fritzing](https://en.wikipedia.org/wiki/Fritzing)
 * [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi)
   * [Raspberry](https://en.wikipedia.org/wiki/Raspberry) fruit
