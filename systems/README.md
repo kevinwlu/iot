@@ -49,6 +49,7 @@
 * [Project management](https://en.wikipedia.org/wiki/Project_management)
   * [Project Management Institute](https://en.wikipedia.org/wiki/Project_Management_Institute) (PMI)
   * [Project Management Body of Knowledge](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) (PMBOK)
+* [Balanced scorecard](https://en.wikipedia.org/wiki/Balanced_scorecard)
 * [Comparison of project management software](https://en.wikipedia.org/wiki/Comparison_of_project_management_software)
 * [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart)
   * [Henry Gantt](https://en.wikipedia.org/wiki/Henry_Gantt) 1861&mdash;1919
