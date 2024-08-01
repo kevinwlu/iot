@@ -84,6 +84,7 @@
   * [IEEE P2418.1](https://standards.ieee.org/ieee/2418.1/10460/) Standard for the Framework of Blockchain Use in Internet of Things (IoT)
   * [IEEE P3123](https://standards.ieee.org/ieee/3123/10744/) Standard for Artificial Intelligence and Machine Learning (AI/ML) Terminology and Data Format
   * [IEEE P3378](https://standards.ieee.org/ieee/3378/11304/) Standard for Framework and Process for Large-Scale Deep Learning Model Evaluation
+  * [IEEE P3469](https://standards.ieee.org/ieee/3469/11608/) Standard for an Environmental Liability Process Model for Accounting in Systems Engineering
   * [IEEE Ethics in Action in Autonomous and Intelligent Systems](https://ethicsinaction.ieee.org/)
     * [IEEE 7000 series of standards](https://ethicsinaction.ieee.org/p7000/)
     * [IEEE Ethics Certification Program for Autonomous and Intelligent Systems](https://standards.ieee.org/industry-connections/ecpais/) (ECPAIS)
