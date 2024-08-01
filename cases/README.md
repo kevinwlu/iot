@@ -280,6 +280,7 @@
 * [SACO Technologies](https://www.saco.com/)
 ## Environmental and Social
 * [Carbon accounting](https://en.wikipedia.org/wiki/Carbon_accounting)
+  * [Joel Cutcher Gershenfeld](https://scholarworks.brandeis.edu/esploro/profile/joel_gershenfeld/)
 * [Climate engineering](https://en.wikipedia.org/wiki/Climate_engineering)
 * [Corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility) (CSR)
 * [Environmental, social, and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
