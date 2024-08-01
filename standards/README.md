@@ -199,3 +199,6 @@
 * [Standards Council of Canada](https://en.wikipedia.org/wiki/Standards_Council_of_Canada) (SCC)
 ## References
 * [C. M. Schmidt](https://www.linkedin.com/in/charles-schmidt-789396a), "[Best Practices for Technical Standard Creation](https://www.mitre.org/sites/default/files/publications/17-1332-best-practices-for-technical-standard-creation.pdf)," [MITRE](https://en.wikipedia.org/wiki/Mitre_Corporation), April 2017
+* [H.R.1631 - Pro Codes Act](https://www.congress.gov/bill/118th-congress/house-bill/1631)
+* [EU: "Malamud" case and CJEU ruling on March 5, 2024](https://www.globalnorm.de/en/news-product-compliance/details/eu-malamud-case-and-cjeu-ruling-on-march-5-2024/)
+  * [Carl Malamud](https://en.wikipedia.org/wiki/Carl_Malamud)
