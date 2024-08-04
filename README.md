@@ -106,9 +106,12 @@
 * [TinyML](https://github.com/mit-han-lab/tinyml)
 
 ## Regulations
+* [American Data Privacy and Protection Act](https://en.wikipedia.org/wiki/American_Data_Privacy_and_Protection_Act) (ADPRA)
+* [American Privacy Rights Act](https://en.wikipedia.org/wiki/American_Privacy_Rights_Act) (APRA)
 * [Americans with Disabilities Act of 1990](https://en.wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990) (ADA)
 * [Artificial Intelligence Act](https://en.wikipedia.org/wiki/Artificial_Intelligence_Act)
   * [The EU AI Act](https://artificialintelligenceact.eu/)
+* [Children's Online Privacy Protection Act](https://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act) (COPRA)
 * [Cybersecurity regulation](https://en.wikipedia.org/wiki/Cyber-security_regulation)
   * [Internet of Things Cybersecurity Improvement Act](https://www.congress.gov/bill/116th-congress/house-bill/1668)
 * [Digital Millennium Copyright Act](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act) (DMCA)
