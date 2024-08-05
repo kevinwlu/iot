@@ -115,3 +115,7 @@
 * [Fluticasone furoate](https://en.wikipedia.org/wiki/Fluticasone_furoate)
   * [Glucocorticoid](https://en.wikipedia.org/wiki/Glucocorticoid)
 * [Olopatadine](https://en.wikipedia.org/wiki/Olopatadine)
+---
+* [Ionizing radiation](https://en.wikipedia.org/wiki/Ionizing_radiation)
+* [Rolf Maximilian Sievert](https://en.wikipedia.org/wiki/Rolf_Maximilian_Sievert) 1896&mdash;1966
+* [Sievert](https://en.wikipedia.org/wiki/Sievert) (Sv)
