@@ -15,7 +15,7 @@
 * [Pi-hole](https://en.wikipedia.org/wiki/Pi-hole)
 * [RepRap project](https://en.wikipedia.org/wiki/RepRap_project)
 ## 2024 Summer
-* [Predicting Near-Earth Object Impact Risk Using Machine Learning and 3D Trajectory Data](https://github.com/natalyjc/NASA-NJSGC/tree/main)
+* [Predicting Hazardous Near-Earth Objects With Random-Forest and Class Imbalance Techniques](https://github.com/natalyjc/NASA-NJSGC/tree/main)
 ## 2024 Spring
 * [C.A.T.S.: Camera Assissted Tracking System](https://github.com/dkrautha/CATS-ECE/tree/tensorflow)
 * [Personal Guide Belt](https://github.com/Jack-Tack/Personal-Guide-Belt/tree/main)
