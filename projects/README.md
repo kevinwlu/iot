@@ -13,6 +13,7 @@
   * [GitHub repository](https://github.com/homebridge/homebridge)
 * [HomeKit](https://en.wikipedia.org/wiki/HomeKit)
 * [Pi-hole](https://en.wikipedia.org/wiki/Pi-hole)
+* [Random forest](https://en.wikipedia.org/wiki/Random_forest)
 * [RepRap project](https://en.wikipedia.org/wiki/RepRap_project)
 ## 2024 Summer
 * [Predicting Hazardous Near-Earth Objects With Random-Forest and Class Imbalance Techniques](https://github.com/natalyjc/NASA-NJSGC/tree/main)
