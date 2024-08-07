@@ -19,7 +19,9 @@
 * [Predicting Hazardous Near-Earth Objects With Random-Forest and Class Imbalance Techniques](https://github.com/natalyjc/NASA-NJSGC/tree/main)
 ## 2024 Spring
 * [C.A.T.S.: Camera Assissted Tracking System](https://github.com/dkrautha/CATS-ECE/tree/tensorflow)
+  * [Neighborhood Cats](https://www.neighborhoodcats.org/)
 * [Personal Guide Belt](https://github.com/Jack-Tack/Personal-Guide-Belt/tree/main)
+  * [St. Joseph's School for the Blind](https://schoolfortheblind.org/)
 ## 2022 Spring
 * [Adaptive Correlative Microscopy System](https://github.com/Ephemeral-Devices/senior-design)
 * [BEEGUS: Bicameral Election Estimator for General Elections of the United States](https://github.com/e-c-cone/CPE-423)
