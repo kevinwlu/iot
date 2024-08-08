@@ -100,6 +100,8 @@
 * [Unmanned aerial vehicle](https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle) (UAV)
 * [List of unmanned aerial vehicles](https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicles)
 * [List of unmanned aerial vehicles of China](https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicles_of_China)
+  * [DJI](https://en.wikipedia.org/wiki/DJI)
+  * [Meituan](https://en.wikipedia.org/wiki/Meituan)
 * [General Atomics Aeronautical Systems](https://en.wikipedia.org/wiki/General_Atomics_Aeronautical_Systems)
 * [Anzu Robotics](https://www.anzurobotics.com/)
 * [Apian](https://www.apian.aero/)
@@ -110,7 +112,6 @@
 * [Clevon](https://clevon.com/) on-demand autonomous delivery
 * [DroneUp](https://www.droneup.com/)
 * [Heven Drones](https://www.hevendrones.com/)
-* [Meituan](https://en.wikipedia.org/wiki/Meituan)
 * [Manna Drone Delivery](https://www.manna.aero/)
 * [Qinetiq](https://en.wikipedia.org/wiki/Qinetiq)
 * [Saildrone](https://en.wikipedia.org/wiki/Saildrone_(company))
