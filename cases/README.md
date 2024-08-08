@@ -110,6 +110,7 @@
 * [Clevon](https://clevon.com/) on-demand autonomous delivery
 * [DroneUp](https://www.droneup.com/)
 * [Heven Drones](https://www.hevendrones.com/)
+* [Meituan](https://en.wikipedia.org/wiki/Meituan)
 * [Manna Drone Delivery](https://www.manna.aero/)
 * [Qinetiq](https://en.wikipedia.org/wiki/Qinetiq)
 * [Saildrone](https://en.wikipedia.org/wiki/Saildrone_(company))
