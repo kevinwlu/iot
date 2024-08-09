@@ -27,7 +27,7 @@
 * [ASHRAE](https://en.wikipedia.org/wiki/ASHRAE) (American Society of Heating, Refrigerating and Air-Conditioning Engineers)
 * [ATSC](https://www.atsc.org/) (Advanced Television Systems Committee)
   * [ATSC standards](https://en.wikipedia.org/wiki/ATSC_standards)
-* [CableLabs](https://en.wikipedia.org/wiki/CableLabs)
+* [CableLabs](https://en.wikipedia.org/wiki/CableLabs) founded in 1988
   * [Cable Internet access](https://en.wikipedia.org/wiki/Cable_Internet_access)
   * [Data Over Cable Service Interface Specification](https://en.wikipedia.org/wiki/DOCSIS) (DOCSIS)
 * [CEN](https://en.wikipedia.org/wiki/European_Committee_for_Standardization) (European Committee for Standardization)
@@ -48,7 +48,9 @@
   * [Service Name and Transport Protocol Port Number Registry](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
 * [IEC](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) (International Electrotechnical Commission)
   * [Ingress Protection Code](https://en.wikipedia.org/wiki/IP_Code)
-* [IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (Institute of Electrical and Electronics Engineers)
+* [IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (Institute of Electrical and Electronics Engineers) founded in 1963 by the merger AIEE and IRE
+  * [American Institute of Electrical Engineers](https://en.wikipedia.org/wiki/American_Institute_of_Electrical_Engineers) (AIEE) founded in 1884
+  * [Institute of Radio Engineers](https://en.wikipedia.org/wiki/Institute_of_Radio_Engineers) (IRE) founded in 1912
   * [IEEE Standards Association](https://standards.ieee.org/) (SA)
   * [Practices](https://standards.ieee.org/practices/)
     * [Connectivity and Telecom](https://standards.ieee.org/practices/connectivity-telecom/index.html)
