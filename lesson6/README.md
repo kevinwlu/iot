@@ -94,7 +94,7 @@
   * [Hayes command set](https://en.wikipedia.org/wiki/Hayes_command_set) or AT command set
   * [Zerynth](https://en.wikipedia.org/wiki/Zerynth)
 * [Particle](https://www.particle.io/)
-  * [Particle](/lesson6/particle) in Lesson 6
+  * [Particle folder](/lesson6/particle)
   * [Photon 2](https://store.particle.io/products/photon-2)
 * [Redbear Duo](https://github.com/redbear/Duo)
 * [Sony Spresense](https://developer.sony.com/develop/spresense/)
