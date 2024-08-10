@@ -262,6 +262,7 @@ $
 ## Optional Lab 6C: Particle Cloud
 
 * [The Particle on Raspberry Pi project has been discontinued](https://docs.particle.io/raspberry-pi/)
+  * [Particle Agent - Discontinued](https://docs.particle.io/assets/pdfs/raspberry-pi/particle-agent.pdf), January 29, 2020
 * Raspberry Pi 4B is not supported
   * Error claiming Raspberry Pi 4B to the Particle account
   * Raspberry Pi 4B green LED is on constantly
