@@ -165,6 +165,7 @@
 
 ## Deep Learning
 * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
+* [Deep belief network](https://en.wikipedia.org/wiki/Deep_belief_network) (DBN)
 * [Comparison of deep-learning software](https://en.wikipedia.org/wiki/Comparison_of_deep-learning_software)
 * [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
 * [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
