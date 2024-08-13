@@ -31,6 +31,7 @@
 * [Gas (app)](https://en.wikipedia.org/wiki/Gas_(app))
 * [Saturn](https://www.joinsaturn.com/)
 ## Tests
+* [Colblindor](https://www.color-blindness.com/)
 * [Human Benchmark](https://humanbenchmark.com/)
   * [Reaction time](https://humanbenchmark.com/tests/reactiontime)
   * [GitHub repository](https://github.com/danayi13/human-benchmark) by [Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01)
