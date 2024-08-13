@@ -132,6 +132,7 @@
 * [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix)
 * [Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning)
 * [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) (RL)
+  * [Q-learning](https://en.wikipedia.org/wiki/Q-learning)
 * [Transfer learning](https://en.wikipedia.org/wiki/Transfer_learning) (TL)
 * [One-shot learning](https://en.wikipedia.org/wiki/One-shot_learning)
 * [Zero-shot learning](https://en.wikipedia.org/wiki/Zero-shot_learning) (ZSL)
