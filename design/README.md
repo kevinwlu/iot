@@ -8,6 +8,7 @@
 * [One-hand typing](https://en.wikipedia.org/wiki/One-hand_typing)
 * [Active Hands](https://www.activehands.com/)
 * [Joyride Design](https://joyride.design/)
+* [Teach Access](https://teachaccess.org/) is a non-profit working to bridge the accessibility skills gap between education and industry
 ## Who Is the Built World Built For?
 * [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) 1913&mdash;1960
 * [Lennard J. Davis](https://en.wikipedia.org/wiki/Lennard_J._Davis)
