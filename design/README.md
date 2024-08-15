@@ -13,11 +13,11 @@
   * [Colblinder](https://www.color-blindness.com/)
 * [Handedness](https://en.wikipedia.org/wiki/Handedness)
 * [One-hand typing](https://en.wikipedia.org/wiki/One-hand_typing)
-* [Active Hands](https://www.activehands.com/)
-* [Joyride Design](https://joyride.design/)
 ---
 * [Accessibility](https://en.wikipedia.org/wiki/Accessibility)
 * [Teach Access](https://teachaccess.org/) is a non-profit working to bridge the accessibility skills gap between education and industry
+* [Active Hands](https://www.activehands.com/)
+* [Joyride Design](https://joyride.design/)
 ## Who Is the Built World Built For?
 * [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) 1913&mdash;1960
 * [Lennard J. Davis](https://en.wikipedia.org/wiki/Lennard_J._Davis)
