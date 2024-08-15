@@ -3,11 +3,18 @@
 * [Our Bodies, Aliveness, and the Built World](https://onbeing.org/programs/sara-hendren-our-bodies-aliveness-and-the-built-world/)
 * [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand), [*How Buildings Learn*](https://en.wikipedia.org/wiki/How_Buildings_Learn) 1994
 * [Neil Marcus](https://en.wikipedia.org/wiki/Neil_Marcus) 1954&mdash;2021
+---
 * [Disability studies](https://en.wikipedia.org/wiki/Disability_studies)
+  * [World Health Organization | Health topics | Disability](https://www.who.int/health-topics/disability)
+  * [International Classification of Functioning, Disability and Health](https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health) (ICF) in [PDF](https://iris.who.int/bitstream/handle/10665/42407/9241545429-eng.pdf)
+* [Color blindness](https://en.wikipedia.org/wiki/Color_blindness)
+  * [Colblinder](https://www.color-blindness.com/)
 * [Handedness](https://en.wikipedia.org/wiki/Handedness)
 * [One-hand typing](https://en.wikipedia.org/wiki/One-hand_typing)
 * [Active Hands](https://www.activehands.com/)
 * [Joyride Design](https://joyride.design/)
+---
+* [Accessibility](https://en.wikipedia.org/wiki/Accessibility)
 * [Teach Access](https://teachaccess.org/) is a non-profit working to bridge the accessibility skills gap between education and industry
 ## Who Is the Built World Built For?
 * [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) 1913&mdash;1960
