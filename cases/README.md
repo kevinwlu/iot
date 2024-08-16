@@ -8,7 +8,7 @@
 * [Test case](https://en.wikipedia.org/wiki/Test_case)
 * [Storyboard](https://en.wikipedia.org/wiki/Storyboard)
 * [Sustainability](https://en.wikipedia.org/wiki/Sustainability)
-* [Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)
+* [Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals) (SDG)
 * [Sustainable transport](https://en.wikipedia.org/wiki/Sustainable_transport)
 ---
 * [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
