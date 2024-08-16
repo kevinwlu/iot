@@ -415,6 +415,7 @@
 * [STILFOLD](https://www.stilfold.com/)
 * [Tetra Technologies](https://tetratec.com/)
 * [TNT Aerospace](https://www.tntaerospace.com/)
+* [Ubidots](https://ubidots.com/)
 * [Unified numbering system](https://en.wikipedia.org/wiki/Unified_numbering_system) (UNS)
 ## Privacy and Security
 * [Cloaked](https://www.cloaked.app/)
