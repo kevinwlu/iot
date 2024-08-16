@@ -175,6 +175,7 @@
 * [U.S. Green Building Council](https://en.wikipedia.org/wiki/U.S._Green_Building_Council) (USGBC)
   * [Leadership in Energy and Environmental Design](https://en.wikipedia.org/wiki/LEED) (LEED)
 * [Volition](https://www.govolition.com/)
+* [Wi-Fi NOW](https://wifinowglobal.com/)
 * [Wireless Internet Service Providers Association](https://www.wispa.org/) (WISPA)
   * [Wireless Internet service provider](https://en.wikipedia.org/wiki/Wireless_Internet_service_provider) (WISP)
 ## Aliances and Consortia
@@ -258,6 +259,7 @@
 * [Wireless Gigabit (WiGig) Alliance](https://en.wikipedia.org/wiki/Wireless_Gigabit_Alliance)
 * [WirelessHD](https://en.wikipedia.org/wiki/WirelessHD)
 * [Wireless Power Consortium](https://en.wikipedia.org/wiki/Wireless_Power_Consortium)
+* [World WLAN Application Alliance](https://www.waa-alliance.com/) (WAA)
 * [Zhaga Consortium](https://en.wikipedia.org/wiki/Zhaga_Consortium)
 ## Developer Conferences
 * [Facebook F8](https://en.wikipedia.org/wiki/Facebook_F8)
