@@ -4,6 +4,8 @@
 * [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand), [*How Buildings Learn*](https://en.wikipedia.org/wiki/How_Buildings_Learn) 1994
 * [Neil Marcus](https://en.wikipedia.org/wiki/Neil_Marcus) 1954&mdash;2021
 ---
+* [Marianne Williamson](https://en.wikipedia.org/wiki/Marianne_Williamson), [*A Return to Love*](https://en.wikipedia.org/wiki/A_Return_to_Love) 1992
+  > Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.
 * [Disability studies](https://en.wikipedia.org/wiki/Disability_studies) 
   * [United Nations](https://en.wikipedia.org/wiki/United_Nations) (UN)
   * [World Health Organization](https://en.wikipedia.org/wiki/World_Health_Organization) (WHO)
