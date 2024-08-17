@@ -268,5 +268,9 @@
 * [Arc](https://arc.net/)
   * [Arc Max](https://arc.net/max)
   * [The Browser Company](https://thebrowser.company/)
-## Web Design
-* [STUDIO AI](https://studio.design/)
+## Website Builders
+* [Website builder](https://en.wikipedia.org/wiki/Website_builder)
+* [Web design](https://en.wikipedia.org/wiki/Web_design)
+* [Squarespace](https://en.wikipedia.org/wiki/Squarespace)
+* [STUDIO](https://studio.design/)
+* [Wix](https://en.wikipedia.org/wiki/Wix.com)
