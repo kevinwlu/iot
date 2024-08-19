@@ -17,6 +17,8 @@
   * [Colblinder](https://www.color-blindness.com/)
 * [Handedness](https://en.wikipedia.org/wiki/Handedness)
 * [One-hand typing](https://en.wikipedia.org/wiki/One-hand_typing)
+* [Deaf culture](https://en.wikipedia.org/wiki/Deaf_culture)
+  * [Dorothy Miles](https://en.wikipedia.org/wiki/Dorothy_Miles) 1931&mdash;1993
 ---
 * [Accessibility](https://en.wikipedia.org/wiki/Accessibility)
 * [Teach Access](https://teachaccess.org/) is a non-profit working to bridge the accessibility skills gap between education and industry
