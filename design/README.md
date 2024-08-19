@@ -18,6 +18,7 @@
 * [Handedness](https://en.wikipedia.org/wiki/Handedness)
 * [One-hand typing](https://en.wikipedia.org/wiki/One-hand_typing)
 * [Deaf culture](https://en.wikipedia.org/wiki/Deaf_culture)
+  * [Sumain](https://en.wiktionary.org/wiki/Sumain) who communicates primarily using a sign language
   * [Dorothy Miles](https://en.wikipedia.org/wiki/Dorothy_Miles) 1931&mdash;1993
 ---
 * [Accessibility](https://en.wikipedia.org/wiki/Accessibility)
