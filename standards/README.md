@@ -125,6 +125,7 @@
   * [ISO/IEC JTC 1](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1) Information Technology
   * [ISO/IEC JTC 1/SC 6](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1/SC_6) [Telecommunications and information exchange between systems](https://www.iso.org/committee/45072.html)
   * [ISO/IEC JTC 1/SC 39](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1/SC_39) [Sustainability, IT and data centers](https://www.iso.org/committee/654019.html)
+  * [ISO/IEC JTC 1/SC 42](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1/SC_42) [Artificial intelligence](https://www.iso.org/committee/6794475.html)
   * [ISO/IEC JTC 1/WG 14](https://jtc1info.org/sd-2-history/jtc1-working-groups/wg-14/) Quantum Information Technology
   * [ISO/IEC JTC 3](https://www.iso.org/committee/10138914.html) [Quantum technologies](https://www.iec.ch/dyn/www/f?p=103:7:::::FSP_ORG_ID:49854)
   * [ISO 15118](https://en.wikipedia.org/wiki/ISO_15118) Road vehicles - Vehicle to grid communication interface
