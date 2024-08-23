@@ -208,6 +208,7 @@
   * [Speech Synthesis Markup Language](https://en.wikipedia.org/wiki/Speech_Synthesis_Markup_Language) (SSML)
   * [15.ai](https://en.wikipedia.org/wiki/15.ai)
   * [ElevenLabs](https://en.wikipedia.org/wiki/ElevenLabs)
+  * [Festival Speech Synthesis System](https://en.wikipedia.org/wiki/Festival_Speech_Synthesis_System)
   * [FreeTTS](https://en.wikipedia.org/wiki/FreeTTS)
   * [Respeecher](https://en.wikipedia.org/wiki/Respeecher)
 * [Text-to-image model](https://en.wikipedia.org/wiki/Text-to-image_model)
