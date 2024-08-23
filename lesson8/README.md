@@ -224,6 +224,9 @@
   * [Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity)
   * [Guardrails](https://shreyar.github.io/guardrails/) Python package
 * ["Large content and behavior models to understand, simulate, and optimze content and behavior"](https://arxiv.org/abs/2309.00359)
+* [Music and artificial intelligence](https://en.wikipedia.org/wiki/Music_and_artificial_intelligence)
+  * [Suno AI](https://en.wikipedia.org/wiki/Suno_AI)
+  * [Udio](https://en.wikipedia.org/wiki/Udio)
 ---
 * [Alegion](https://www.alegion.com/)
   * [Language Model Scaling Laws and GPT-3](https://towardsdatascience.com/language-model-scaling-laws-and-gpt-3-5cdc034e67bb)
