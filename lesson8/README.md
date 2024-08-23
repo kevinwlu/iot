@@ -210,6 +210,7 @@
   * [ElevenLabs](https://en.wikipedia.org/wiki/ElevenLabs)
   * [Festival Speech Synthesis System](https://en.wikipedia.org/wiki/Festival_Speech_Synthesis_System)
   * [FreeTTS](https://en.wikipedia.org/wiki/FreeTTS)
+  * [Orca (assistive technology)](https://en.wikipedia.org/wiki/Orca_(assistive_technology))
   * [Respeecher](https://en.wikipedia.org/wiki/Respeecher)
 * [Text-to-image model](https://en.wikipedia.org/wiki/Text-to-image_model)
 * [Text-to-video model](https://en.wikipedia.org/wiki/Text-to-video_model)
