@@ -16,6 +16,8 @@
 * [Single-board computer](https://en.wikipedia.org/wiki/Single-board_computer) (SBC)
 * [Integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment) (IDE)
   * [Comparison of integrated development environments](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
+  * [Cloud9 IDE](https://en.wikipedia.org/wiki/Cloud9_IDE) was acquired by Amazon in July 2016 and discontinued on July 25, 2024
+    * [Cloud Nine](https://en.wikipedia.org/wiki/Cloud_Nine)
   * [Eclipse](https://en.wikipedia.org/wiki/Eclipse_(software))
   * [Geany](https://en.wikipedia.org/wiki/Geany)
   * [IDLE](https://en.wikipedia.org/wiki/IDLE) (Integrated Development and Learning Environment)
