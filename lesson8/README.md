@@ -29,6 +29,7 @@
 * [Ethics of artificial intelligence](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
 * [Existential risk from artificial general intelligence](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence)
 * [Hallucination (artificial intelligence)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
+* [AI alignment](https://en.wikipedia.org/wiki/AI_alignment)
 * [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 * [Sentience](https://en.wikipedia.org/wiki/Sentience)
 * [Philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
@@ -298,6 +299,7 @@
   * ["New AI classifier for indicating AI-written text"](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text), January 31, 2023
     * [AI Text Classifier](https://platform.openai.com/ai-text-classifier)
   * ["Introducing ChatGPT and Whisper APIs"](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), March 1, 2023
+  * [Introducing Superalignment](https://openai.com/index/introducing-superalignment/), July 5, 2023
   * [Sora](https://en.wikipedia.org/wiki/Sora_(text-to-video_model)), February 15, 2024
 * [OpenMinded](https://www.openmined.org/)
   * [PySyft](https://github.com/OpenMined/PySyft)
