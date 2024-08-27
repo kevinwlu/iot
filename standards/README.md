@@ -87,6 +87,7 @@
   * [IEEE 2089](https://standards.ieee.org/ieee/2089/7633/) Standard for an Age Appropriate Digital Services Framework Based on the 5Rights Principles for Children
     * [CEN/CENELEC Workshop Agreement (CWA) 18016](https://www.cencenelec.eu/news-and-events/news/2023/eninthespotlight/2023-09-14-cwa-18016-children-protection-online/) Age Appropriate Digital Services Framework
   * [IEEE P2418.1](https://standards.ieee.org/ieee/2418.1/10460/) Standard for the Framework of Blockchain Use in Internet of Things (IoT)
+  * [IEEE 2933](https://standards.ieee.org/ieee/2933/7592/) Standard for Clinical Internet of Things (IoT) Data and Device Interoperability with TIPPSS - Trust, Identity, Privacy, Protection, Safety, Security
   * [IEEE P3123](https://standards.ieee.org/ieee/3123/10744/) Standard for Artificial Intelligence and Machine Learning (AI/ML) Terminology and Data Format
   * [IEEE P3378](https://standards.ieee.org/ieee/3378/11304/) Standard for Framework and Process for Large-Scale Deep Learning Model Evaluation
   * [IEEE P3469](https://standards.ieee.org/ieee/3469/11608/) Standard for an Environmental Liability Process Model for Accounting in Systems Engineering
