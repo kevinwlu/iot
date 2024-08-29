@@ -179,6 +179,8 @@
   * [Qubit](https://en.wikipedia.org/wiki/Qubit)
   * [Qutrit](https://en.wikipedia.org/wiki/Qutrit)
   * [Qudit](https://en.wiktionary.org/wiki/qudit)
+  * [FLOPS](https://en.wikipedia.org/wiki/FLOPS) (floating point operations per second)
+  * [CLOPS](https://research.ibm.com/blog/circuit-layer-operations-per-second) (circuit layer operations per second)
   * [Quantum supremacy](https://en.wikipedia.org/wiki/Quantum_supremacy)
   * [Quantum programming](https://en.wikipedia.org/wiki/Quantum_programming)
   * [Quantum volume](https://en.wikipedia.org/wiki/Quantum_volume)
@@ -188,9 +190,10 @@
   * [List of quantum processors](https://en.wikipedia.org/wiki/List_of_quantum_processors)
   * [Superconducting quantum computing](https://en.wikipedia.org/wiki/Superconducting_quantum_computing)
   * [Transmon](https://en.wikipedia.org/wiki/Transmon)
-  * [FLOPS](https://en.wikipedia.org/wiki/FLOPS) (floating point operations per second)
-  * [CLOPS](https://research.ibm.com/blog/circuit-layer-operations-per-second) (circuit layer operations per second)
-  * [Radio frequency (RF) calibrations](https://www.nist.gov/programs-projects/getting-qubit-mega-qubit-quantum-computers-radio-frequency-rf-calibrations)
+  * [Radio frequency (RF) calibrations](https://www.nist.gov/programs-projects/getting-qubit-mega-qubit-quantum-computers-radio-frequency-rf-calibrations) 
+  * [Yonatan Cohen](https://www.linkedin.com/in/yonatan-cohen-10076b113/), Co-Founder and CTO of [Quantum Machines](https://www.quantum-machines.co/)
+    * [Google Scholar](https://scholar.google.com/citations?user=EzokqfIAAAAJ&hl=en)
+    * [RF goes quantum](https://www.youtube.com/watch?v=5hSTobz6khw), Interlligent UK RF and Microwave Design Seminar, Cambridge, November 5, 2019
 ##
 * [Quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)
   * [Quantum key distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution) (QKD)
