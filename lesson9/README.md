@@ -187,6 +187,7 @@
   * [Quantum annealing](https://en.wikipedia.org/wiki/Quantum_annealing)
   * [List of quantum processors](https://en.wikipedia.org/wiki/List_of_quantum_processors)
   * [Superconducting quantum computing](https://en.wikipedia.org/wiki/Superconducting_quantum_computing)
+  * [Transmon](https://en.wikipedia.org/wiki/Transmon)
   * [FLOPS](https://en.wikipedia.org/wiki/FLOPS) (floating point operations per second)
   * [CLOPS](https://research.ibm.com/blog/circuit-layer-operations-per-second) (circuit layer operations per second)
 ##
