@@ -193,7 +193,7 @@
   * [Radio frequency (RF) calibrations](https://www.nist.gov/programs-projects/getting-qubit-mega-qubit-quantum-computers-radio-frequency-rf-calibrations) 
   * [Yonatan Cohen](https://www.linkedin.com/in/yonatan-cohen-10076b113/), Co-Founder and CTO of [Quantum Machines](https://www.quantum-machines.co/)
     * [Google Scholar](https://scholar.google.com/citations?user=EzokqfIAAAAJ&hl=en)
-    * [RF goes quantum](https://www.youtube.com/watch?v=5hSTobz6khw), Interlligent UK RF and Microwave Design Seminar, Cambridge, November 5, 2019
+    * [RF goes quantum](https://www.youtube.com/watch?v=5hSTobz6khw), [Interlligent](https://www.int-rf.com/) UK RF and Microwave Design Seminar, Cambridge, November 5, 2019
     * [QUA Universal Language for Quantum Computers](https://www.quantum-machines.co/blog/quantum-machines-announces-qua-as-first-standard-universal-language-for-quantum-computers/)
     * [QUA Platform](https://github.com/qua-platform)
 ##
