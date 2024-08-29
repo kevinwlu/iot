@@ -190,6 +190,7 @@
   * [Transmon](https://en.wikipedia.org/wiki/Transmon)
   * [FLOPS](https://en.wikipedia.org/wiki/FLOPS) (floating point operations per second)
   * [CLOPS](https://research.ibm.com/blog/circuit-layer-operations-per-second) (circuit layer operations per second)
+  * [Radio frequency (RF) calibrations](https://www.nist.gov/programs-projects/getting-qubit-mega-qubit-quantum-computers-radio-frequency-rf-calibrations)
 ##
 * [Quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)
   * [Quantum key distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution) (QKD)
