@@ -6,16 +6,18 @@
 * [Lesson 1](/lesson1): Overview
 * [Lesson 2](/lesson2): Raspberry Pi
 * [Lesson 3](/lesson3): Python
-* [Lesson 4](/lesson4): Django and Flask
-* [Lesson 5](/lesson5): Paho and Crossbar.io
-* [Lesson 6](/lesson6): Alternative Devices
+* [Lesson 4](/lesson4): Django
+* [Lesson 5](/lesson5): Paho
+* [Lesson 6](/lesson6): Alternatives
 * [Lesson 7](/lesson7): Cloud Platforms
 * [Lesson 8](/lesson8): Data Analysis
-* [Lesson 9](/lesson9): YANG and Qiskit
+* [Lesson 9](/lesson9): YANG
 * [Lesson 10](/lesson10): Blockchain
+* [Lesson 11](/lesson9): Qiskit
 * Labs for CPE 322 in 2023 Spring by [Marc DiGeronimo](https://github.com/mdigeron/CPE322A)
 * Labs for EE 322 in 2023 Spring by [David Krauthamer](https://github.com/dkrautha/d6)
 * [Apps](/apps)
+* [Design](/design)
 * [Engineering Economics](/economics)
 * [Gartner hype cycle](/hype)
 * [Health](/health)
