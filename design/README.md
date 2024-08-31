@@ -26,6 +26,7 @@
 * [Active Hands](https://www.activehands.com/)
 * [Joyride Design](https://joyride.design/)
 * [Summer Paralympic Games](https://en.wikipedia.org/wiki/Summer_Paralympic_Games)
+* [Aging in place](https://en.wikipedia.org/wiki/Aging_in_place)
 ## Who Is the Built World Built For?
 * [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) 1913&mdash;1960
 * [Lennard J. Davis](https://en.wikipedia.org/wiki/Lennard_J._Davis)
