@@ -5,10 +5,10 @@
 * [Neil Marcus](https://en.wikipedia.org/wiki/Neil_Marcus) 1954&mdash;2021
 ---
 Primary themes
-* Empathy as a foundation
+* [Empathy](https://en.wikipedia.org/wiki/Empathy) as a foundation
 * Embracing adaptation
-* Human-centered design
-* Collaboration and interdisciplinarity
+* [Human-centered design](https://en.wikipedia.org/wiki/Human-centered_design)
+* [Collaboration](https://en.wikipedia.org/wiki/Collaboration) and [interdisciplinarity](https://en.wikipedia.org/wiki/Interdisciplinarity)
 * Seeing constraints as opportunities
 ---
 * [Drew Dudley](https://www.drewdudley.com/)
