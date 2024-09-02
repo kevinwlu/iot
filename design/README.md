@@ -4,7 +4,7 @@
 * [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand), [*How Buildings Learn*](https://en.wikipedia.org/wiki/How_Buildings_Learn) 1994
 * [Neil Marcus](https://en.wikipedia.org/wiki/Neil_Marcus) 1954&mdash;2021
 ---
-Primary themes
+**Primary themes**
 * [Empathy](https://en.wikipedia.org/wiki/Empathy) as a foundation
 * Embracing adaptation
 * [Human-centered design](https://en.wikipedia.org/wiki/Human-centered_design)
