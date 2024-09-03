@@ -11,10 +11,6 @@
 * [Collaboration](https://en.wikipedia.org/wiki/Collaboration) and [interdisciplinarity](https://en.wikipedia.org/wiki/Interdisciplinarity)
 * Seeing constraints as opportunities
 ---
-* [Drew Dudley](https://www.drewdudley.com/)
-* [Shinerama](https://en.wikipedia.org/wiki/Shinerama)
-* [Marianne Williamson](https://en.wikipedia.org/wiki/Marianne_Williamson), [*A Return to Love*](https://en.wikipedia.org/wiki/A_Return_to_Love) 1992
-  > Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.
 * [Disability studies](https://en.wikipedia.org/wiki/Disability_studies) 
   * [United Nations](https://en.wikipedia.org/wiki/United_Nations) (UN)
   * [World Health Organization](https://en.wikipedia.org/wiki/World_Health_Organization) (WHO)
