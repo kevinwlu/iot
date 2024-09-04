@@ -79,6 +79,7 @@
   * [Noncontact monitoring of respiration by dynamic air-pressure sensor](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4581013/)
   * [Respiration rate and volume measurements wsing Wearable strain sensors](https://www.nature.com/articles/s41746-019-0083-3)
   * [Respiratory rate assessments using a dual-accelerometer device](https://www.sciencedirect.com/science/article/abs/pii/S1569904813003698)
+* [Seasonal affective disorder](https://en.wikipedia.org/wiki/Seasonal_affective_disorder) (SAD)
 * [Sedentary lifestyle](https://en.wikipedia.org/wiki/Sedentary_lifestyle)
 * [Situation, Background, Assessment, Recommendation](https://en.wikipedia.org/wiki/SBAR) (SBAR)
 * [Sphygmomanometer](https://en.wikipedia.org/wiki/Sphygmomanometer)
