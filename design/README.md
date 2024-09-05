@@ -30,6 +30,9 @@
 * [Joyride Design](https://joyride.design/)
 * [Summer Paralympic Games](https://en.wikipedia.org/wiki/Summer_Paralympic_Games)
 * [Aging in place](https://en.wikipedia.org/wiki/Aging_in_place)
+* [Participatory design](https://en.wikipedia.org/wiki/Participatory_design)
+* [Public participation (decision making)](https://en.wikipedia.org/wiki/Public_participation_(decision_making))
+  * [Sherry Arnstein](https://en.wikipedia.org/wiki/Sherry_Arnstein) 1930&mdash;1997
 ## Who Is the Built World Built For?
 * [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) 1913&mdash;1960
 * [Lennard J. Davis](https://en.wikipedia.org/wiki/Lennard_J._Davis)
