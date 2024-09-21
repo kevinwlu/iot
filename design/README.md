@@ -150,6 +150,7 @@
 * [Rem Koolhaas](https://en.wikipedia.org/wiki/Rem_Koolhaas)
 * [Rebecca Solnit](https://en.wikipedia.org/wiki/Rebecca_Solnit)
 * [Curb cut](https://en.wikipedia.org/wiki/Curb_cut)
+* [Curb cut effect](https://en.wikipedia.org/wiki/Curb_cut_effect)
 * [Glissando](https://en.wikipedia.org/wiki/Glissando)
 * [Americans with Disabilities Act of 1990](https://en.wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990) (ADA)
 * [Aimi Hamraie](https://aimihamraie.com/)
