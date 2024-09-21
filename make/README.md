@@ -21,6 +21,7 @@
 * [Product Hunt](https://www.youtube.com/@product_hunt)
 * [SciFri](https://www.youtube.com/@scifri)
 * [Seeed Studio](https://www.youtube.com/@SeeedStudioSZ)
+* [Simon Weckert](https://www.simonweckert.com/)
 * [Simone Giertz](https://www.youtube.com/@simonegiertz) by [Simone Giertz](https://en.wikipedia.org/wiki/Simone_Giertz)
 * [SmarterEveryDay](https://www.youtube.com/@smartereveryday/) by [Destin Sandlin](https://en.wikipedia.org/wiki/Destin_Sandlin)
 * [Sphero](https://www.youtube.com/@gosphero)
