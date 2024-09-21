@@ -4,7 +4,7 @@
 * [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand), [*How Buildings Learn*](https://en.wikipedia.org/wiki/How_Buildings_Learn) 1994
 * [Neil Marcus](https://en.wikipedia.org/wiki/Neil_Marcus) 1954&mdash;2021
 ---
-**Primary themes**
+**Primary Themes**
 * [Empathy](https://en.wikipedia.org/wiki/Empathy) as a foundation
 * Embracing adaptation
 * [Human-centered design](https://en.wikipedia.org/wiki/Human-centered_design)
@@ -26,6 +26,7 @@
 ---
 * [Accessibility](https://en.wikipedia.org/wiki/Accessibility)
 * [Teach Access](https://teachaccess.org/) is a non-profit working to bridge the accessibility skills gap between education and industry
+* [Inclusive design](https://en.wikipedia.org/wiki/Inclusive_design)
 * [Active Hands](https://www.activehands.com/)
 * [Joyride Design](https://joyride.design/)
 * [Summer Paralympic Games](https://en.wikipedia.org/wiki/Summer_Paralympic_Games)
