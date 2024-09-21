@@ -153,6 +153,7 @@
 * [Curb cut](https://en.wikipedia.org/wiki/Curb_cut)
   * [Curb cut effect](https://en.wikipedia.org/wiki/Curb_cut_effect)
   * [Angela Glover Blackwell](https://en.wikipedia.org/wiki/Angela_Glover_Blackwell)
+    * ["The Curb-Cut Effect"](https://ssir.org/articles/entry/the_curb_cut_effect) 2017
 * [Glissando](https://en.wikipedia.org/wiki/Glissando)
 * [Americans with Disabilities Act of 1990](https://en.wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990) (ADA)
 * [Aimi Hamraie](https://aimihamraie.com/)
