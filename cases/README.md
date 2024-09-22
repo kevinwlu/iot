@@ -148,6 +148,7 @@
 * [Ample](https://ample.com/)
 * ANIONZ, formerly [ALGOLiON](https://www.algolion.com/)
 * [Anovion](https://www.anoviontech.com/)
+* [Archimedes Windmill](https://thearchimedes.com/) (AWM)
 * [Ascend Elements](https://ascendelements.com/) electric-vehicle battery recycling company
 * [Autel Energy](https://autelenergy.us/)
 * [Battery management system](https://en.wikipedia.org/wiki/Battery_management_system) (BMS)
@@ -161,6 +162,7 @@
 * [Chemix](https://chemix.ai/)
 * [Cirba Solutions](https://www.cirbasolutions.com/)
 * [Connected Kerb](https://www.connectedkerb.com/)
+* [CorPower Ocean](https://en.wikipedia.org/wiki/CorPower_Ocean) clean energy from ocean waves
 * [dcbel](https://www.dcbel.energy/) residential bidirectional DC charger
 * [Eco Wave Power](https://www.ecowavepower.com/)
   * [Tidal power](https://en.wikipedia.org/wiki/Tidal_power)
