@@ -5,6 +5,7 @@
 * [Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)
 * [Concept of operations](https://en.wikipedia.org/wiki/Concept_of_operations) (ConOps)
 * [Case study](https://en.wikipedia.org/wiki/Case_study)
+* [Earth law](https://en.wikipedia.org/wiki/Earth_law)
 * [Test case](https://en.wikipedia.org/wiki/Test_case)
 * [Storyboard](https://en.wikipedia.org/wiki/Storyboard)
 * [Sustainability](https://en.wikipedia.org/wiki/Sustainability)
