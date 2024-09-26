@@ -13,6 +13,8 @@
 * [Standards Development Organization Act of 2004](https://www.ftc.gov/legal-library/browse/statutes/standards-development-organization-act-2004)
   * [108th Congress Public Law 108-237](https://www.govinfo.gov/content/pkg/PLAW-108publ237/pdf/PLAW-108publ237.pdf)
 * [Intellectual property organization](https://en.wikipedia.org/wiki/Intellectual_property_organization)
+  * [European Council](https://en.wikipedia.org/wiki/European_Council)
+  * [Council of the European Union](https://en.wikipedia.org/wiki/Council_of_the_European_Union)
   * [European Union Intellectual Property Office](https://en.wikipedia.org/wiki/European_Union_Intellectual_Property_Office) (EUIPO)
 * [List of technical standard organizations](https://en.wikipedia.org/wiki/List_of_technical_standard_organizations)
 * [Global Standards Collaboration](https://en.wikipedia.org/wiki/Global_Standards_Collaboration) (GSC)
