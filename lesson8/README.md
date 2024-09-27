@@ -230,6 +230,7 @@
   * [Shoggoth](https://en.wikipedia.org/wiki/Shoggoth)
   * [Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity)
   * [Guardrails](https://shreyar.github.io/guardrails/) Python package
+  * [Open LLMs](https://github.com/eugeneyan/open-llms)
 * [LoRA: Low-Rank Adaptation of Large Language Models](https://github.com/microsoft/LoRA)
 * ["Large content and behavior models to understand, simulate, and optimize content and behavior"](https://arxiv.org/abs/2309.00359)
 * [Music and artificial intelligence](https://en.wikipedia.org/wiki/Music_and_artificial_intelligence)
