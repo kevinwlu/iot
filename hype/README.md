@@ -3,6 +3,7 @@
   > We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.
 * [Aphorism](https://en.wikipedia.org/wiki/Aphorism)
 * [Gartner hype cycle](https://en.wikipedia.org/wiki/Gartner_hype_cycle)
+* [2024](https://www.gartner.com/en/newsroom/press-releases/2024-08-21-gartner-2024-hype-cycle-for-emerging-technologies-highlights-developer-productivity-total-experience-ai-and-security)
 * [2023](https://www.gartner.com/en/articles/what-s-new-in-the-2023-gartner-hype-cycle-for-emerging-technologies)
 * [2022](https://www.gartner.com/en/articles/what-s-new-in-the-2022-gartner-hype-cycle-for-emerging-technologies)
 * [2021](https://www.gartner.com/smarterwithgartner/3-themes-surface-in-the-2021-hype-cycle-for-emerging-technologies)
