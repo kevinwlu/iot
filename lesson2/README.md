@@ -43,6 +43,7 @@
   * [Raspberry Pi GitHub repository](https://github.com/raspberrypi)
   * [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
   * [RP2040](https://en.wikipedia.org/wiki/RP2040)
+  * [RP2350](https://en.wikipedia.org/wiki/RP2350)
   * [Picoprobe](https://github.com/raspberrypi/picoprobe)
   * [Introducing: Raspberry Pi 5!](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/) by Eben Upton, September 28, 2023
     * [Confucius' Birthday](https://en.wikipedia.org/wiki/Confucius'_Birthday)
