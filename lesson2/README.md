@@ -39,6 +39,7 @@
   * [Pi Day](https://en.wikipedia.org/wiki/Pi_Day)
   * [Raspberry documentation](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html)
     * [Introducing raspberrypi.com](https://www.raspberrypi.org/blog/introducing-raspberrypicom/) by [Philip Colligan](https://philipcolligan.com/), October 6, 2021
+    * [Raspberry Pi celebrates 12 years as sales break 61 million units](https://www.tomshardware.com/raspberry-pi/raspberry-pi-celebrates-12-years-as-sales-break-61-million-units) by [Les Pounder](https://www.youtube.com/c/LesPounder), February 29, 2024
   * [Raspberry Pi Foundation](https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation)
   * [Raspberry Pi GitHub repository](https://github.com/raspberrypi)
   * [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
