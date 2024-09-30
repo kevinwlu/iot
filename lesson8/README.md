@@ -280,7 +280,7 @@
   * [BlenderBot](https://blenderbot.ai/)
   * [BlenderBot 3](https://parl.ai/projects/bb3/) (BB3)
   * [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), February 24, 2023
-  * [Meta Smart Glasses](https://www.meta.com/smart-glasses/)
+  * [Ray-Ban Meta Smart Glasses](https://www.meta.com/smart-glasses/)
     * [Ray-Ban](https://en.wikipedia.org/wiki/Ray-Ban)
     * [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
 * [Microsoft Copilot](https://en.wikipedia.org/wiki/Microsoft_Copilot)
