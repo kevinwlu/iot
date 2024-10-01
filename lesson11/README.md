@@ -93,6 +93,7 @@
   * [Amazon Braket](https://aws.amazon.com/braket/)
     * [GitHub](https://github.com/amazon-braket/amazon-braket-examples)
     * [AWS Quantum Technologies Blog](https://aws.amazon.com/blogs/quantum-computing/)
+  * [Quantum Computing Inc.](https://quantumcomputinginc.com/)
   * [D-Wave Systems](https://en.wikipedia.org/wiki/D-Wave_Systems)
     * [Adiabatic quantum computation](https://en.wikipedia.org/wiki/Adiabatic_quantum_computation) (AQC)
     * [D-Wave Leap](https://cloud.dwavesys.com/leap/)
