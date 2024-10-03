@@ -249,6 +249,7 @@
   * [Devin](https://www.cognition-labs.com/introducing-devin)
 * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
+  * [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)) Bidirectional encoder representations from transformers
   * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
   * [Google I/O](https://io.google/)
   * [LaMDA](https://en.wikipedia.org/wiki/LaMDA)
