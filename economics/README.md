@@ -54,10 +54,12 @@
 * [Ephemera](https://en.wikipedia.org/wiki/Ephemera)
   * [Mayfly](https://en.wikipedia.org/wiki/Mayfly)
 * [Fiduciary](https://en.wikipedia.org/wiki/Fiduciary)
+* [Flying geese paradigm](https://en.wikipedia.org/wiki/Flying_geese_paradigm)
 * [Game theory](https://en.wikipedia.org/wiki/Game_theory)
 * [Gift economy](https://en.wikipedia.org/wiki/Gift_economy)
   * [In kind](https://en.wikipedia.org/wiki/In_kind)
 * [Gig worker](https://en.wikipedia.org/wiki/Gig_worker)
+* [Gini coefficient](https://en.wikipedia.org/wiki/Gini_coefficient)
 * [Generally Accepted Accounting Principles](https://en.wikipedia.org/wiki/Generally_Accepted_Accounting_Principles_(United_States)) (GAAP)
   * [Mark-to-market accounting](https://en.wikipedia.org/wiki/Mark-to-market_accounting) or [fair value](https://en.wikipedia.org/wiki/Fair_value) accounting
 * [Goldilocks economy](https://en.wikipedia.org/wiki/Goldilocks_economy)
