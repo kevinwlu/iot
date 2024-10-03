@@ -60,6 +60,7 @@
   * [In kind](https://en.wikipedia.org/wiki/In_kind)
 * [Gig worker](https://en.wikipedia.org/wiki/Gig_worker)
 * [Gini coefficient](https://en.wikipedia.org/wiki/Gini_coefficient)
+  * [Corrado Gini](https://en.wikipedia.org/wiki/Corrado_Gini) 1884&mdash;1965
 * [Generally Accepted Accounting Principles](https://en.wikipedia.org/wiki/Generally_Accepted_Accounting_Principles_(United_States)) (GAAP)
   * [Mark-to-market accounting](https://en.wikipedia.org/wiki/Mark-to-market_accounting) or [fair value](https://en.wikipedia.org/wiki/Fair_value) accounting
 * [Goldilocks economy](https://en.wikipedia.org/wiki/Goldilocks_economy)
