@@ -82,6 +82,7 @@
 * [Seasonal affective disorder](https://en.wikipedia.org/wiki/Seasonal_affective_disorder) (SAD)
   * ["Seasonal Affective Disorder: An Overview of Assessment and Treatment Approaches"](https://pubmed.ncbi.nlm.nih.gov/26688752/) by [Dr. Sherri Melrose](https://www.athabascau.ca/health-disciplines/our-people/sherri-melrose.html), November 25, 2015
   * [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4673349/pdf/DRT2015-178564.pdf)
+  * [f.lux](https://en.wikipedia.org/wiki/F.lux)
 * [Sedentary lifestyle](https://en.wikipedia.org/wiki/Sedentary_lifestyle)
 * [Situation, Background, Assessment, Recommendation](https://en.wikipedia.org/wiki/SBAR) (SBAR)
 * [Sphygmomanometer](https://en.wikipedia.org/wiki/Sphygmomanometer)
