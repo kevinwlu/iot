@@ -8,7 +8,6 @@
 * [The Prof G Show](https://www.youtube.com/@TheProfGShow) by Prof. [Scott Galloway](https://en.wikipedia.org/wiki/Scott_Galloway_(professor))
 ---
 * [Economics](https://en.wikipedia.org/wiki/Economics)
-  * [Gross domestic product](https://en.wikipedia.org/wiki/Gross_domestic_product) (GDP)
   * [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
   * [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics)
 * [Engineering economics](https://en.wikipedia.org/wiki/Engineering_economics)
@@ -68,6 +67,7 @@
   * [Goldilocks and the Three Bears](https://en.wikipedia.org/wiki/Goldilocks_and_the_Three_Bears)
 * [Goodwill](https://en.wikipedia.org/wiki/Goodwill_(accounting))
 * [Government Accountability Office](https://en.wikipedia.org/wiki/Government_Accountability_Office) (GAO)
+* [Gross domestic product](https://en.wikipedia.org/wiki/Gross_domestic_product) (GDP)
 * [Gross margin](https://en.wikipedia.org/wiki/Gross_margin)
 * [Home economics](https://en.wikipedia.org/wiki/Home_economics)
 * [Income statement](https://en.wikipedia.org/wiki/Income_statement)
@@ -77,6 +77,7 @@
   * [Patent](https://en.wikipedia.org/wiki/Patent)
   * [Trademark](https://en.wikipedia.org/wiki/Trademark)
   * [Trade secret](https://en.wikipedia.org/wiki/Trade_secret)
+* [Initial public offering](https://en.wikipedia.org/wiki/Initial_public_offering) (IPO)
 * [Knowledge economy](https://en.wikipedia.org/wiki/Knowledge_economy)
 * [Letter of intent](https://en.wikipedia.org/wiki/Letter_of_intent) (LoI)
 * [Life-cycle cost](https://en.wikipedia.org/wiki/Whole-life_cost) (LCC)
