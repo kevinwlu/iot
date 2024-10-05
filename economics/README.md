@@ -8,8 +8,9 @@
 * [The Prof G Show](https://www.youtube.com/@TheProfGShow) by Prof. [Scott Galloway](https://en.wikipedia.org/wiki/Scott_Galloway_(professor))
 ---
 * [Economics](https://en.wikipedia.org/wiki/Economics)
-  * [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics)
+  * [Gross domestic product](https://en.wikipedia.org/wiki/Gross_domestic_product) (GDP)
   * [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
+  * [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics)
 * [Engineering economics](https://en.wikipedia.org/wiki/Engineering_economics)
 * [Amoeba Management](https://en.wikipedia.org/wiki/Amoeba_Management) by [Kazuo Inamori](https://en.wikipedia.org/wiki/Kazuo_Inamori) 1932&mdash;2022, [official website](https://global.kyocera.com/inamori/)
 * [Annuity](https://en.wikipedia.org/wiki/Annuity)
