@@ -56,6 +56,7 @@
 * [3D reconstruction from multiple images](https://en.wikipedia.org/wiki/3D_reconstruction_from_multiple_images)
 * [Triangulation (computer vision)](https://en.wikipedia.org/wiki/Triangulation_(computer_vision))
   * [Hawk-Eye](https://en.wikipedia.org/wiki/Hawk-Eye)
+  * [*You Cannot Be Serious*](https://en.wikipedia.org/wiki/You_Cannot_Be_Serious) 2002 by [John McEnroe](https://en.wikipedia.org/wiki/John_McEnroe) and [James Kaplan](https://en.wikipedia.org/wiki/James_Kaplan)
 * [Three Minute Thesis](https://en.wikipedia.org/wiki/Three_Minute_Thesis) (3MT) competition
 ## 2024 Spring
 * [Automated Parking AI System Using Computer Vision](https://github.com/RavikanthAI/AAI-800-820)
