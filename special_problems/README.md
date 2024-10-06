@@ -53,6 +53,7 @@
   * ["All-optical machine learning using diffractive deep neural networks"](https://www.science.org/doi/10.1126/science.aat8084)
   * [LightRidge](https://lightridge.github.io/lightridge/)
   * [Cunxi Yu](https://ycunxi.github.io/cunxiyu/)
+* [3D reconstruction from multiple images](https://en.wikipedia.org/wiki/3D_reconstruction_from_multiple_images)
 * [Triangulation (computer vision)](https://en.wikipedia.org/wiki/Triangulation_(computer_vision))
   * [Hawk-Eye](https://en.wikipedia.org/wiki/Hawk-Eye)
 * [Three Minute Thesis](https://en.wikipedia.org/wiki/Three_Minute_Thesis) (3MT) competition
