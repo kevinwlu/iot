@@ -124,6 +124,12 @@
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML)
   * [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel_(computer_scientist))
   * [Tom M. Mitchell](https://en.wikipedia.org/wiki/Tom_M._Mitchell)
+* [Neural network (machine learning)](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))
+  * [John Hopfield](https://en.wikipedia.org/wiki/John_Hopfield)
+  * [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
+  * The Nobel Prize in Physics 2024 was awarded to John J. Hopfield and Geoffrey E. Hinton “for foundational discoveries and inventions that enable machine learning with artificial neural networks.”
+  * Hopfield created a structure that can store and reconstruct information.
+  * Hinton invented a method that can independently discover properties in data and which has become important for the large neural networks now in use.
 * [MLRelated.com](https://www.mlrelated.com/)
 * [Ensemble learning](https://en.wikipedia.org/wiki/Ensemble_learning)
   * [Random forest](https://en.wikipedia.org/wiki/Random_forest)
