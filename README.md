@@ -185,6 +185,7 @@
 * [Adaptive Instructional Systems Consortium](https://aisconsortium.com/) (AIS)
 * [AII](http://en.aii-alliance.org/) (Alliance of Industrial Internet)
 * [AIOTI](https://aioti.eu/) (Alliance for Internet of Things Innovation)
+* [AI Alliance](https://thealliance.ai/)
 * [Alliance for Automotive Innovation](https://en.wikipedia.org/wiki/Alliance_for_Automotive_Innovation)
 * [Automated Vehicle Safety Consortium](https://avsc.sae-itc.org/) (AVSC) is an industry program of [SAE Industry Technologies Consortia](https://www.sae-itc.com/) (ITC)
 * [Avnu Alliance](https://en.wikipedia.org/wiki/Avnu_Alliance)
