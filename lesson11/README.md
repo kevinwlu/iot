@@ -103,8 +103,8 @@
       * [GitHub repository](https://github.com/quantumlib/Cirq)
   * [IBM Quantum](https://www.ibm.com/quantum)
     * [IBM Quantum Composer and IBM Quantum Lab](https://quantum-computing.ibm.com/)
-    * Rolf Landauer 1927&mdash;1999
-    * Charles H. Bennett (physicist)
+    * [Rolf Landauer](https://en.wikipedia.org/wiki/Rolf_Landauer) 1927&mdash;1999
+    * [Charles H. Bennett](https://en.wikipedia.org/wiki/Charles_H._Bennett_(physicist)) (physicist)
   * [Intel Labs](https://en.wikipedia.org/wiki/Intel_Research_Lablets)
     * [Tunnel Falls Quantum Research Chip](https://www.intel.com/content/www/us/en/research/quantum-computing.html)
   * [IonQ](https://en.wikipedia.org/wiki/IonQ)
