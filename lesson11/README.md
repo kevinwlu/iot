@@ -136,6 +136,8 @@
 ##
 * [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
   * [Qubit](https://en.wikipedia.org/wiki/Qubit)
+    * [Benjamin Schumacher](https://en.wikipedia.org/wiki/Benjamin_Schumacher)
+    * [William Wootters](https://en.wikipedia.org/wiki/William_Wootters)
   * [Qutrit](https://en.wikipedia.org/wiki/Qutrit)
   * [Qudit](https://en.wiktionary.org/wiki/qudit)
   * [FLOPS](https://en.wikipedia.org/wiki/FLOPS) (floating point operations per second)
