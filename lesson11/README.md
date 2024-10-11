@@ -17,6 +17,7 @@
   * [Quantum Computers Could Solve These Problems](https://www.youtube.com/watch?v=IhS6ecYZFdQ)
 * [*Looking Glass Universe*](https://www.youtube.com/@LookingGlassUniverse) by [Mithuna Yoganathan](https://brilliant.org/educator-bios/)
 * [*3Blue1Brown*](https://www.youtube.com/3blue1brown) by [Grant Sanderson](https://en.wikipedia.org/wiki/3Blue1Brown)
+* [*Quantum Computing: Progress and Prospects*](https://nap.nationalacademies.org/catalog/25196/quantum-computing-progress-and-prospects) by National Academies of Sciences, Engineering, and Medicine, 2019
 * [Quantum Made Simple by Physics Reimagined](https://toutestquantique.fr/en/)
 * [Quantum Made Simple by Superposition Studios](https://www.superposition-studios.co.uk/quantum-made-simple)
 * [*The Biggest Ideas in the Universe: Space, Time, and Motion*](https://www.preposterousuniverse.com/) by [Sean M. Carroll](https://en.wikipedia.org/wiki/Sean_M._Carroll)
@@ -131,6 +132,7 @@
   * [National Q-12 Education Partnership](https://q12education.org/)
 * [Cryogenics](https://en.wikipedia.org/wiki/Cryogenics)
   * [Bluefors](https://bluefors.com/) [Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)
+* [Cryostat](https://en.wikipedia.org/wiki/Cryostat)
 ##
 * [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
   * [Qubit](https://en.wikipedia.org/wiki/Qubit)
