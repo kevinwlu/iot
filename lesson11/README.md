@@ -36,6 +36,8 @@
 * [Quantum Computing Is the Future, and Schools Need to Catch Up](https://www.scientificamerican.com/article/quantum-computing-is-the-future-and-schools-need-to-catch-up/)
 ### Quantum Mechanics
 * [Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
+* [Quantum superposition](https://en.wikipedia.org/wiki/Quantum_superposition)
+* [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
 * [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
 * [Double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment)
 * [Elementary particle](https://en.wikipedia.org/wiki/Elementary_particle)
@@ -69,8 +71,6 @@
   * [Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics)
   * [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)
 * [Quantum information](https://en.wikipedia.org/wiki/Quantum_information)
-* [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
-* [Quantum superposition](https://en.wikipedia.org/wiki/Quantum_superposition)
 * [Quantum dot](https://en.wikipedia.org/wiki/Quantum_dot)
 * [Quantum well](https://en.wikipedia.org/wiki/Quantum_well)
 * [Quantum wire](https://en.wikipedia.org/wiki/Quantum_wire)
