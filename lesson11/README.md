@@ -170,6 +170,14 @@
     * [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 
 ## Lab 11: Qiskit
+* [Classical element](https://en.wikipedia.org/wiki/Classical_element): earth, air, water, and fire
+* [Aether (classical element)](https://en.wikipedia.org/wiki/Aether_(classical_element))
+* [Quintessence](https://en.wikipedia.org/wiki/Quintessence)
+* [Aether theories](https://en.wikipedia.org/wiki/Aether_theories)
+* [Luminiferous aether](https://en.wikipedia.org/wiki/Luminiferous_aether)
+* [Ether](https://en.wikipedia.org/wiki/Ether)
+* [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
+
 ### [IBM Quantum Computing](https://www.ibm.com/quantum-computing/)
 * [IBM Quantum Roadmap](https://research.ibm.com/blog/ibm-quantum-roadmap)
 * [IBM Quantum System One](https://en.wikipedia.org/wiki/IBM_Q_System_One)
