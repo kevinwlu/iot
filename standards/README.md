@@ -152,6 +152,7 @@
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
   * [ITU-T](https://en.wikipedia.org/wiki/ITU-T)
   * [IoT Global Standards Initiative](https://www.itu.int/en/ITU-T/gsi/iot/)
+  * [ITU AI for Good](https://en.wikipedia.org/wiki/ITU_AI_for_Good)
   * [ITU Kaleidoscope Academic Conferences](https://www.itu.int/en/ITU-T/academia/kaleidoscope/Pages/default.aspx)
   * [ITU-T SG15 Flyers](https://www.itu.int/en/ITU-T/studygroups/2022-2024/15/Pages/flyers.aspx)
   * ITU-T [G.652](https://en.wikipedia.org/wiki/G.652)
