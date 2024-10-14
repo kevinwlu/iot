@@ -1,8 +1,9 @@
 # Standards
 * [Technical standard](https://en.wikipedia.org/wiki/Technical_standard)
 * [World Standards Day](https://en.wikipedia.org/wiki/World_Standards_Day) on October 14 was chosen in 1946 and first celebrated in 1970
+  * [Website](https://www.worldstandardsday.org)
 * [Coordinated Universal Time](https://en.wikipedia.org/wiki/Coordinated_Universal_Time) (UTC)
-* [Unix time](https://en.wikipedia.org/wiki/Unix_time) since 00:00:00 UTC on 1 January 1970
+  * [Unix time](https://en.wikipedia.org/wiki/Unix_time) since 00:00:00 UTC on 1 January 1970
 * [Ken Krechmer](https://www.isology.com/kens-bio/)
   * "[Teaching standards to engineers](https://www.academia.edu/1450419/Teaching_standards_to_engineers)," 2007
   * "[The mathematical basis of standards](https://www.academia.edu/1450425/The_mathematical_basis_of_standards)," 2005
