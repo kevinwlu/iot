@@ -59,8 +59,6 @@
 * [Gift economy](https://en.wikipedia.org/wiki/Gift_economy)
   * [In kind](https://en.wikipedia.org/wiki/In_kind)
 * [Gig worker](https://en.wikipedia.org/wiki/Gig_worker)
-* [Gini coefficient](https://en.wikipedia.org/wiki/Gini_coefficient)
-  * [Corrado Gini](https://en.wikipedia.org/wiki/Corrado_Gini) 1884&mdash;1965
 * [Generally Accepted Accounting Principles](https://en.wikipedia.org/wiki/Generally_Accepted_Accounting_Principles_(United_States)) (GAAP)
   * [Mark-to-market accounting](https://en.wikipedia.org/wiki/Mark-to-market_accounting) or [fair value](https://en.wikipedia.org/wiki/Fair_value) accounting
 * [Goodwill](https://en.wikipedia.org/wiki/Goodwill_(accounting))
@@ -172,10 +170,14 @@
 * [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
   * [Laurence J. Peter](https://en.wikipedia.org/wiki/Laurence_J._Peter) 1919&mdash;1990
 * [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
-* [Power law](https://en.wikipedia.org/wiki/Power_law)
+  * [Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto) 1848&mdash;1923
+* [Gini coefficient](https://en.wikipedia.org/wiki/Gini_coefficient)
+  * [Corrado Gini](https://en.wikipedia.org/wiki/Corrado_Gini) 1884&mdash;1965
 * [Zipf's law](https://en.wikipedia.org/wiki/Zipf's_law)
   * [George Kingsley Zipf](https://en.wikipedia.org/wiki/George_Kingsley_Zipf) 1902&mdash;1950
+* [Power law](https://en.wikipedia.org/wiki/Power_law)
 * [Tocqueville effect](https://en.wikipedia.org/wiki/Tocqueville_effect)
+  * [Alexis de Tocqueville](https://en.wikipedia.org/wiki/Alexis_de_Tocqueville) 1805&mdash;1859
 ---
 * [*The Black Swan: The Impact of the Highly Improbable*](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable) 2007 by [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
   * [Black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory)
