@@ -63,8 +63,6 @@
   * [Corrado Gini](https://en.wikipedia.org/wiki/Corrado_Gini) 1884&mdash;1965
 * [Generally Accepted Accounting Principles](https://en.wikipedia.org/wiki/Generally_Accepted_Accounting_Principles_(United_States)) (GAAP)
   * [Mark-to-market accounting](https://en.wikipedia.org/wiki/Mark-to-market_accounting) or [fair value](https://en.wikipedia.org/wiki/Fair_value) accounting
-* [Goldilocks economy](https://en.wikipedia.org/wiki/Goldilocks_economy)
-  * [Goldilocks and the Three Bears](https://en.wikipedia.org/wiki/Goldilocks_and_the_Three_Bears)
 * [Goodwill](https://en.wikipedia.org/wiki/Goodwill_(accounting))
 * [Government Accountability Office](https://en.wikipedia.org/wiki/Government_Accountability_Office) (GAO)
 * [Gross domestic product](https://en.wikipedia.org/wiki/Gross_domestic_product) (GDP)
@@ -168,13 +166,16 @@
   * The law of [parsimony](https://en.wikipedia.org/wiki/Parsimony)
 * [Parkinson's law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
   * [Cyril Northcote Parkinson](https://en.wikipedia.org/wiki/C._Northcote_Parkinson) 1909&mdash;1993
+* [Goldilocks principle](https://en.wikipedia.org/wiki/Goldilocks_principle)
+  * [Goldilocks and the Three Bears](https://en.wikipedia.org/wiki/Goldilocks_and_the_Three_Bears)
+  * [Goldilocks economy](https://en.wikipedia.org/wiki/Goldilocks_economy)
 * [Peter principle](https://en.wikipedia.org/wiki/Peter_principle)
   * [Laurence J. Peter](https://en.wikipedia.org/wiki/Laurence_J._Peter) 1919&mdash;1990
-* [Power law](https://en.wikipedia.org/wiki/Power_law)
 * [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
-* [Tocqueville effect](https://en.wikipedia.org/wiki/Tocqueville_effect)
+* [Power law](https://en.wikipedia.org/wiki/Power_law)
 * [Zipf's law](https://en.wikipedia.org/wiki/Zipf's_law)
   * [George Kingsley Zipf](https://en.wikipedia.org/wiki/George_Kingsley_Zipf) 1902&mdash;1950
+* [Tocqueville effect](https://en.wikipedia.org/wiki/Tocqueville_effect)
 ---
 * [*The Black Swan: The Impact of the Highly Improbable*](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable) 2007 by [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
   * [Black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory)
