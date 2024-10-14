@@ -1,5 +1,6 @@
 # Standards
 * [Technical standard](https://en.wikipedia.org/wiki/Technical_standard)
+* [World Standards Day](https://en.wikipedia.org/wiki/World_Standards_Day) on October 14
 * [Ken Krechmer](https://www.isology.com/kens-bio/)
   * "[Teaching standards to engineers](https://www.academia.edu/1450419/Teaching_standards_to_engineers)," 2007
   * "[The mathematical basis of standards](https://www.academia.edu/1450425/The_mathematical_basis_of_standards)," 2005
