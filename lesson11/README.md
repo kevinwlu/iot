@@ -150,6 +150,11 @@
   * [Quantum annealing](https://en.wikipedia.org/wiki/Quantum_annealing)
   * [List of quantum processors](https://en.wikipedia.org/wiki/List_of_quantum_processors)
   * [Superconducting quantum computing](https://en.wikipedia.org/wiki/Superconducting_quantum_computing)
+    * [Superconductivity](https://en.wikipedia.org/wiki/Superconductivity)
+    * [BCS theory](https://en.wikipedia.org/wiki/BCS_theory)
+    * [John Bardeen](https://en.wikipedia.org/wiki/John_Bardeen) 1908&mdash;1991
+    * [Leon Cooper](https://en.wikipedia.org/wiki/Leon_Cooper) 1930&mdash;2024
+    * [John Robert Schrieffer](https://en.wikipedia.org/wiki/John_Robert_Schrieffer) 1931&mdash;2019
   * [Transmon](https://en.wikipedia.org/wiki/Transmon)
   * [Radio frequency (RF) calibrations](https://www.nist.gov/programs-projects/getting-qubit-mega-qubit-quantum-computers-radio-frequency-rf-calibrations) 
   * [Yonatan Cohen](https://www.linkedin.com/in/yonatan-cohen-10076b113/), Co-Founder and CTO of [Quantum Machines](https://www.quantum-machines.co/)
