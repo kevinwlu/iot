@@ -87,6 +87,7 @@
   * [Piezoelectricity](https://en.wikipedia.org/wiki/Piezoelectricity)
   * [Circular Soft Potentiometer](https://www.adafruit.com/product/1069)
   * [Lead zirconate titanate](https://en.wikipedia.org/wiki/Lead_zirconate_titanate) (PZT)
+  * [Tekscan](https://www.tekscan.com/)
 * [Load cell](https://en.wikipedia.org/wiki/Load_cell)
   * [Wheatstone bridge](https://en.wikipedia.org/wiki/Wheatstone_bridge)
   * [Lifting hook](https://en.wikipedia.org/wiki/Lifting_hook)
