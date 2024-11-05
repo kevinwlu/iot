@@ -315,6 +315,7 @@
   * [Sora](https://en.wikipedia.org/wiki/Sora_(text-to-video_model)), February 15, 2024
 * [OpenMinded](https://www.openmined.org/)
   * [PySyft](https://github.com/OpenMined/PySyft)
+* [Physical Intelligence (π)](https://www.physicalintelligence.company/)
 * [Quora](https://en.wikipedia.org/wiki/Quora)
   * [Poe](https://poe.com/)
 * [Safe Superintelligence](https://ssi.inc/) (SSI)
