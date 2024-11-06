@@ -38,6 +38,7 @@
   * [Residual Block](https://paperswithcode.com/method/residual-block)
     * [Bottleneck Residual Block](https://paperswithcode.com/method/bottleneck-residual-block)
     * [Inverted Residual Block](https://paperswithcode.com/method/inverted-residual-block)
+  * [Residual neural network](https://en.wikipedia.org/wiki/Residual_neural_network) (ResNet)
   * [Vision transformer](https://en.wikipedia.org/wiki/Vision_transformer) (ViT)
 * [Open Neural Network Exchange](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (ONNX)
 * [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
