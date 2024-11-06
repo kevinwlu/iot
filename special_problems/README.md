@@ -31,7 +31,7 @@
     * [GitHub repository](https://github.com/blakeblackshear/frigate)
   * [MediaPipe](https://developers.google.com/mediapipe)
   * [Roboflow](https://roboflow.com/)
-    * [FitHub repository](https://github.com/roboflow)
+    * [GitHub repository](https://github.com/roboflow)
   * [Coral](https://coral.ai/)
   * [Evaluation measures](https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval))
   * [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall)
