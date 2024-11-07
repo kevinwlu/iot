@@ -65,7 +65,7 @@
 * Unveiling the Threat: Developing a Smart Surveillance System for Real-Time Detection
 * Comparison of Object Detection Models: YOLO, Faster R-CNN, and Mask R-CNN on the PennFudanPed Dataset
 * Speed Versus Accuracy: a Comprehensive Evaluation of Object Detection Based on YOLOV8 and Faster R-CNN
-* Analyzing the Impact of Training Maritime UA V Object Detection Models on Synthetic and Real Data
+* Analyzing the Impact of Training Maritime UAV Object Detection Models on Synthetic and Real Data
 * Machine Learning Approach on Face Recognition
 ## 2024 Spring
 * [Automated Parking AI System Using Computer Vision](https://github.com/RavikanthAI/AAI-800-820)
