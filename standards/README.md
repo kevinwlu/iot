@@ -22,6 +22,8 @@
 * [Standard-essential patent](https://en.wikipedia.org/wiki/Essential_patent) (SEP)
 * [Fair, reasonable, and non-discriminatory licensing](https://en.wikipedia.org/wiki/Reasonable_and_non-discriminatory_licensing) (FRAND)
 * [Standards organization](https://en.wikipedia.org/wiki/Standards_organization)
+* [Standards Development Organization Advancement Act of 2004](https://www.justice.gov/archive/atr/public/press_releases/2004/204345.htm) (SDOAA)
+  * Matthew Topic, "[The Standards Development Organization Advancement Act of 2004: A Victory for Consumer Choice?](https://scholarship.law.ufl.edu/jtlp/vol12/iss1/2)" Journal of Technology Law & Policy: Vol. 12: Iss. 1, Article 2, 2007. 
 * [Standards Development Organization Act of 2004](https://www.ftc.gov/legal-library/browse/statutes/standards-development-organization-act-2004)
   * [108th Congress Public Law 108-237](https://www.govinfo.gov/content/pkg/PLAW-108publ237/pdf/PLAW-108publ237.pdf)
 * [Intellectual property organization](https://en.wikipedia.org/wiki/Intellectual_property_organization)
