@@ -50,6 +50,7 @@
 * [Cardano (blockchain platform)](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
 * [Dash (cryptocurrency)](https://en.wikipedia.org/wiki/Dash_(cryptocurrency))
 * [Dogecoin](https://en.wikipedia.org/wiki/Dogecoin)
+  * [Department of Government Efficiency](https://en.wikipedia.org/wiki/Department_of_Government_Efficiency) (DOGE)
 * [Helium System](https://www.helium.com/)
 * [Meme coin](https://en.wikipedia.org/wiki/Meme_coin)
 * [Polkadot (cryptocurrency)](https://en.wikipedia.org/wiki/Polkadot_(cryptocurrency))
