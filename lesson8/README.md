@@ -15,6 +15,7 @@
 * [IEEE DataPort](https://ieee-dataport.org/)
 * [Datasets](https://github.com/kevinwlu/iot/tree/master/lesson8/datasets)
 * [Ground truth](https://en.wikipedia.org/wiki/Ground_truth)
+* [Controlled Unclassified Information](https://en.wikipedia.org/wiki/Controlled_Unclassified_Information) (CUI)
 
 ## Artificial Intelligence
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
