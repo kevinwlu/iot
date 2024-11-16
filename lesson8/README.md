@@ -15,6 +15,7 @@
 * [IEEE DataPort](https://ieee-dataport.org/)
 * [Datasets](https://github.com/kevinwlu/iot/tree/master/lesson8/datasets)
 * [Ground truth](https://en.wikipedia.org/wiki/Ground_truth)
+* [Surrogate model](https://en.wikipedia.org/wiki/Surrogate_model)
 * [Surrogate data](https://en.wikipedia.org/wiki/Surrogate_data)
 * [Synthetic data](https://en.wikipedia.org/wiki/Synthetic_data)
 * [Controlled Unclassified Information](https://en.wikipedia.org/wiki/Controlled_Unclassified_Information) (CUI)
