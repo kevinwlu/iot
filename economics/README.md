@@ -18,6 +18,7 @@
 * [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet)
 * [Bankruptcy](https://en.wikipedia.org/wiki/Bankruptcy)
   * [Chapter 11, Title 11, United States Code](https://en.wikipedia.org/wiki/Chapter_11,_Title_11,_United_States_Code)
+* [Bellwether](https://en.wikipedia.org/wiki/Bellwether)
 * [Benefit corporation](https://en.wikipedia.org/wiki/Benefit_corporation) or B corporation
 * [Bill of materials](https://en.wikipedia.org/wiki/Bill_of_materials) (BOM)
 * [Brick and mortar](https://en.wikipedia.org/wiki/Brick_and_mortar) (B&M)
