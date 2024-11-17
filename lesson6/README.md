@@ -175,6 +175,7 @@
 * [Pystache](https://github.com/defunkt/pystache) Python implementation of Mustache template system
 ---
 * [APL (programming language)](https://en.wikipedia.org/wiki/APL_(programming_language)) by [Kenneth E. Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson) 1920&mdash;2004
+* [BASIC](https://en.wikipedia.org/wiki/BASIC)
 * [Lua (programming language)](https://en.wikipedia.org/wiki/Lua_(programming_language))
   * [lua.org](https://www.lua.org/)
 * [Ruby (programming language)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
