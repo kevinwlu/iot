@@ -39,7 +39,9 @@
 * [Processing](https://en.wikipedia.org/wiki/Processing)
 * [Wiring](https://en.wikipedia.org/wiki/Wiring_(development_platform))
 * [C](https://en.wikipedia.org/wiki/C_(programming_language))
+  * [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) 1941&mdash;2011
 * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+  * [Bjarne Stroustrup](https://en.wikipedia.org/wiki/Bjarne_Stroustrup)
   * [CMake](https://en.wikipedia.org/wiki/CMake) creates output that can be used by buid systems like [Make](https://en.wikipedia.org/wiki/Make_(software))
   * [Template (C++)](https://en.wikipedia.org/wiki/Template_(C%2B%2B))
   * [List of C++ template libraries](https://en.wikipedia.org/wiki/List_of_C%2B%2B_template_libraries)
@@ -176,6 +178,8 @@
 ---
 * [APL (programming language)](https://en.wikipedia.org/wiki/APL_(programming_language)) by [Kenneth E. Iverson](https://en.wikipedia.org/wiki/Kenneth_E._Iverson) 1920&mdash;2004
 * [BASIC](https://en.wikipedia.org/wiki/BASIC)
+  * [John G. Kemeny](https://en.wikipedia.org/wiki/John_G._Kemeny) 1926&mdash;1992
+  * [Thomas E. Kurtz](https://en.wikipedia.org/wiki/Thomas_E._Kurtz) 1928&mdash;2024
 * [Lua (programming language)](https://en.wikipedia.org/wiki/Lua_(programming_language))
   * [lua.org](https://www.lua.org/)
 * [Ruby (programming language)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
