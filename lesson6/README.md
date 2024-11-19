@@ -94,7 +94,7 @@
   * [Obsidian Boa](https://github.com/gregdavill/obsidian-boa)
 * [ESP8266](https://en.wikipedia.org/wiki/ESP8266)
   * [ESP-01](https://jayconsystems.com/blog/getting-started-with-the-esp8266-esp-01)
-  * [Hayes command set](https://en.wikipedia.org/wiki/Hayes_command_set) or AT command set
+  * [Hayes AT command set](https://en.wikipedia.org/wiki/Hayes_AT_command_set) or AT command set
   * [Zerynth](https://en.wikipedia.org/wiki/Zerynth)
 * [Particle](https://www.particle.io/)
   * [Particle folder](/lesson6/particle)
@@ -189,7 +189,11 @@
   * [Rust Foundation](https://foundation.rust-lang.org/)
   * [warp.dev](https://www.warp.dev/)
 * [Visual Basic for Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications) (VBA)
-
+---
+* [Comparison of software and protocols for distributed social networking](https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking)
+* [AT Protocol](https://en.wikipedia.org/wiki/AT_Protocol)
+* [Bluesky](https://en.wikipedia.org/wiki/Bluesky)
+* [Mastodon (social network)](https://en.wikipedia.org/wiki/Mastodon_(social_network))
 ## Lab 6A: Node.js
 * [Node.js tutorial](https://www.w3schools.com/nodejs/)
 ### [Node.js Downloads](https://nodejs.org/en/download/) include latest Long Term Support (LTS) version and npm
