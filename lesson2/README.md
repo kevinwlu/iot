@@ -75,6 +75,8 @@
   * [Linux Foundation](https://en.wikipedia.org/wiki/Linux_Foundation) (LF)
   * [Linux GitHub repository](https://github.com/torvalds/linux)
   * [Linaro](https://en.wikipedia.org/wiki/Linaro)
+* [List of software package management systems](https://en.wikipedia.org/wiki/List_of_software_package_management_systems)
+  * [Flatpak](https://en.wikipedia.org/wiki/Flatpak)
 * [Robot Operating System](https://en.wikipedia.org/wiki/Robot_Operating_System) (ROS)
 * [Debian](https://en.wikipedia.org/wiki/Debian)
   * [Debian logos](https://www.debian.org/logos/)
