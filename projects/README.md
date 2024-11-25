@@ -15,6 +15,8 @@
 * [Pi-hole](https://en.wikipedia.org/wiki/Pi-hole)
 * [Random forest](https://en.wikipedia.org/wiki/Random_forest)
 * [RepRap project](https://en.wikipedia.org/wiki/RepRap_project)
+## 2024 Fall
+* [DensiSense](https://github.com/mczurlanis/DensiSense)
 ## 2024 Summer
 * [Predicting Hazardous Near-Earth Objects With Random-Forest and Class Imbalance Techniques](https://github.com/natalyjc/NASA-NJSGC/tree/main)
 * [Astronomical Data Analysis and Star Classification](https://github.com/Shashankk99/Astronomical-Data-Analysis-and-Star-Classification)
