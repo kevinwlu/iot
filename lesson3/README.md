@@ -5,6 +5,7 @@
   > When he began implementing [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) was also reading the published scripts from “*[Monty Python’s Flying Circus](https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus)*,” a BBC [(sketch) comedy](https://en.wikipedia.org/wiki/Sketch_comedy) series from the 1970s. Van Rossum thought he needed a name that was short, unique, and slightly mysterious, so he decided to call the language Python.
 * [Monty Python](https://en.wikipedia.org/wiki/Monty_Python)
 * [Python (mythology)](https://en.wikipedia.org/wiki/Python_(mythology))
+  * [Omphalos](https://en.wikipedia.org/wiki/Omphalos)
 * [Serpent (symbolism)](https://en.wikipedia.org/wiki/Serpent_(symbolism))
 * [*Dive Into Python 3*](https://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf) by [Mark Pilgrim](https://en.wikipedia.org/wiki/Mark_Pilgrim)
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
