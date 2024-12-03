@@ -66,6 +66,8 @@
 * [Bra–ket notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation)
 * [Quantum nonlocality](https://en.wikipedia.org/wiki/Quantum_nonlocality)
 * [Copenhagen interpretation](https://en.wikipedia.org/wiki/Copenhagen_interpretation)
+* [Path integral formulation](https://en.wikipedia.org/wiki/Path_integral_formulation)
+  * [Long-term financial predictions based on Feynman–Dirac path integrals, deep Bayesian networks and temporal generative adversarial networks](https://www.sciencedirect.com/science/article/pii/S2666827022000044)
 * [Quantum Bayesianism](https://en.wikipedia.org/wiki/Quantum_Bayesianism) (QBism)
   * [Bayesian optimization](https://en.wikipedia.org/wiki/Bayesian_optimization)
   * [Thomas Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes) 1701&mdash;1761
