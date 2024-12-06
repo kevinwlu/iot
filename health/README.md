@@ -123,3 +123,6 @@
 * [Ionizing radiation](https://en.wikipedia.org/wiki/Ionizing_radiation)
 * [Rolf Maximilian Sievert](https://en.wikipedia.org/wiki/Rolf_Maximilian_Sievert) 1896&mdash;1966
 * [Sievert](https://en.wikipedia.org/wiki/Sievert) (Sv)
+---
+* [Moxibustion](https://en.wikipedia.org/wiki/Moxibustion)
+* [Golding Bird](https://en.wikipedia.org/wiki/Golding_Bird) 1814&mdash;1854
