@@ -98,6 +98,9 @@
   * [IEEE 1451](https://en.wikipedia.org/wiki/IEEE_1451)
   * [IEEE 1451.0](https://standards.ieee.org/ieee/1451.0/11001/) Standard for a Smart Transducer Interface for Sensors, Actuators, Devices, and Systems - Common Functions, Communication Protocols, and Transducer Electronic Data Sheet (TEDS) Formats
   * [IEEE 1547](https://standards.ieee.org/ieee/1547/5915/) Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces
+  * [IEEE 1588](https://standards.ieee.org/ieee/1588/6825/) Standard for a Precision Clock Synchronization Protocol for Networked Measurement and Control Systems
+    * [IEEE 1588 Working Group](https://sagroups.ieee.org/1588/) or Precise Networked Clock Synchronization (PNCS) Working Group
+    * [Precision Time Protocol](https://en.wikipedia.org/wiki/Precision_Time_Protocol) (PTP)
   * [IEEE P1918.1](https://standards.ieee.org/ieee/1918.1/6721/) Standard for Tactile Internet: Application Scenarios, Definitions and Terminology, Architecture, Functions, and Technical Assumptions
   * [IEEE 2030.5](https://standards.ieee.org/ieee/2030.5/11216/) IEEE Standard for Smart Energy Profile Application Protocol
   * [IEEE 2050](https://standards.ieee.org/ieee/2050/7178/) Standard for a Real-Time Operating System (RTOS) for Small-Scale Embedded Systems
