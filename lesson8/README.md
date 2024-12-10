@@ -41,6 +41,9 @@
 * [Chinese room](https://en.wikipedia.org/wiki/Chinese_room)
 
 ![AI](/lesson8/AI.jpg)
+
+Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_generativeai-ml-llm-activity-7193399193988718593-VwcL)
+
 * [Office of Science and Technology Policy](https://en.wikipedia.org/wiki/Office_of_Science_and_Technology_Policy) (OSTP), [*Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People*](https://www.whitehouse.gov/wp-content/uploads/2022/10/Blueprint-for-an-AI-Bill-of-Rights.pdf), October 2022
 * [K. Lee](https://en.wikipedia.org/wiki/Kai-Fu_Lee), "[A Blueprint for Coexistence With Artifical Intelligence](https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/)," Wired, July 12, 2017
 
