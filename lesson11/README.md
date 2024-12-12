@@ -103,6 +103,7 @@
   * [Google Quantum AI](https://quantumai.google/)
     * [Cirq](https://en.wikipedia.org/wiki/Cirq)
       * [GitHub repository](https://github.com/quantumlib/Cirq)
+    * [Willow](https://blog.google/technology/research/google-willow-quantum-chip/), December 9, 2024
   * [IBM Quantum](https://www.ibm.com/quantum)
     * [IBM Quantum Composer and IBM Quantum Lab](https://quantum-computing.ibm.com/)
     * [Rolf Landauer](https://en.wikipedia.org/wiki/Rolf_Landauer) 1927&mdash;1999
