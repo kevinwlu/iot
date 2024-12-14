@@ -79,6 +79,10 @@
   * [Trademark](https://en.wikipedia.org/wiki/Trademark)
   * [Trade secret](https://en.wikipedia.org/wiki/Trade_secret)
 * [Initial public offering](https://en.wikipedia.org/wiki/Initial_public_offering) (IPO)
+* [John Forbes Nash Jr.](https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr.) 1928&mdash;2015
+  * [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium)
+  * [Cooperative bargaining](https://en.wikipedia.org/wiki/Cooperative_bargaining)
+  * [Non-cooperative game theory](https://en.wikipedia.org/wiki/Non-cooperative_game_theory)
 * [Knowledge economy](https://en.wikipedia.org/wiki/Knowledge_economy)
 * [Letter of intent](https://en.wikipedia.org/wiki/Letter_of_intent) (LoI)
 * [Life-cycle cost](https://en.wikipedia.org/wiki/Whole-life_cost) (LCC)
