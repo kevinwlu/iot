@@ -99,10 +99,6 @@
 * [Uncrewed vehicle](https://en.wikipedia.org/wiki/Uncrewed_vehicle)
 * [Unmanned ground vehicle](https://en.wikipedia.org/wiki/Unmanned_ground_vehicle) (UGV)
 * [Unmanned aerial vehicle](https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle) (UAV)
-* [Port and starboard](https://en.wikipedia.org/wiki/Port_and_starboard)
-* [Navigation light](https://en.wikipedia.org/wiki/Navigation_light)
-* [Formation light](https://en.wikipedia.org/wiki/Formation_light)
-* [Landing lights](https://en.wikipedia.org/wiki/Landing_lights)
 * [List of unmanned aerial vehicles](https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicles)
 * [List of unmanned aerial vehicles of China](https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicles_of_China)
   * [DJI](https://en.wikipedia.org/wiki/DJI)
@@ -539,6 +535,10 @@
 * [Powrlink](https://powr.link/)
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
 ## Transportation: Air
+* [Port and starboard](https://en.wikipedia.org/wiki/Port_and_starboard)
+* [Navigation light](https://en.wikipedia.org/wiki/Navigation_light)
+* [Formation light](https://en.wikipedia.org/wiki/Formation_light)
+* [Landing lights](https://en.wikipedia.org/wiki/Landing_lights)
 * [eVTOL](https://en.wikipedia.org/wiki/EVTOL) (electric vertical take-off and landing) aircraft
 * [List of electric aircraft](https://en.wikipedia.org/wiki/List_of_electric_aircraft)
 * [More electric aircraft](https://moreelectricaircraft.com/) (MEA)
@@ -587,6 +587,7 @@
 * [ZeroAvia](https://en.wikipedia.org/wiki/ZeroAvia)
 * [Zunum Aero](https://en.wikipedia.org/wiki/Zunum_Aero)
 ## Transportation: Ground
+* [Left- and right-hand traffic](https://en.wikipedia.org/wiki/Left-_and_right-hand_traffic)
 * [Charging Forward: A Toolkit for Planning and Funding Urban Electric Mobility Infrastructure](https://www.transportation.gov/sites/dot.gov/files/2023-06/Charging%20Forward-Urban%20Toolkit-June%202023-508%20compliant.pdf)
 * [Collision avoidance system](https://en.wikipedia.org/wiki/Collision_avoidance_system)
 * [Drivetrain](https://en.wikipedia.org/wiki/Drivetrain)
