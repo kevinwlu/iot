@@ -116,6 +116,10 @@
 * [Mold](https://en.wikipedia.org/wiki/Mold)
 * [Radon](https://en.wikipedia.org/wiki/Radon)
 ---
+* [Dry cleaning](https://en.wikipedia.org/wiki/Dry_cleaning)
+* [Tetrachloroethylene](https://en.wikipedia.org/wiki/Tetrachloroethylene) or perchloroethylene (PERC)
+* [Trichloroethylene](https://en.wikipedia.org/wiki/Trichloroethylene) (TCE)
+---
 * [Fluticasone furoate](https://en.wikipedia.org/wiki/Fluticasone_furoate)
   * [Glucocorticoid](https://en.wikipedia.org/wiki/Glucocorticoid)
 * [Olopatadine](https://en.wikipedia.org/wiki/Olopatadine)
