@@ -62,10 +62,10 @@
 * [Three Minute Thesis](https://en.wikipedia.org/wiki/Three_Minute_Thesis) (3MT) competition
 ## 2024 Fall
 * Driver Distraction Detection and Monitoring
-* Unveiling the Threat: Developing a Smart Surveillance System for Real-Time Detection
+* [Unveiling the Threat: Developing a Smart Surveillance System for Real-Time Detection](https://github.com/iiruks/Surveillance-System-with-a-Hybrid-Model-)
 * Comparison of Object Detection Models: YOLO, Faster R-CNN, and Mask R-CNN on the PennFudanPed Dataset
 * Speed Versus Accuracy: a Comprehensive Evaluation of Object Detection Based on YOLOv8 and Faster R-CNN
-* Analyzing the Impact of Training Maritime UAV Object Detection Models on Synthetic and Real Data
+* [Analyzing the Impact of Training Maritime UAV Object Detection Models on Synthetic and Real Data](https://github.com/prof-nuduls/EE800-Research)
 * Machine Learning Approach on Face Recognition
 ## 2024 Spring
 * [Automated Parking AI System Using Computer Vision](https://github.com/RavikanthAI/AAI-800-820)
