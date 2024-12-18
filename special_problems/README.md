@@ -45,6 +45,8 @@
   * [Eigenfaces](http://www.scholarpedia.org/article/Eigenfaces)
   * [Fisherfaces](http://www.scholarpedia.org/article/Fisherfaces)
   * [Local Binary Patterns](http://www.scholarpedia.org/article/Local_Binary_Patterns) (LBP)
+  * [Olivetti faces dataset](https://scikit-learn.org/0.19/datasets/olivetti_faces.html)
+    * [Face Recognition on Olivetti Dataset](https://www.kaggle.com/code/serkanpeldek/face-recognition-on-olivetti-dataset)
   * [PimEyes](https://en.wikipedia.org/wiki/PimEyes) is a Polish website for facial recognition
 * [FERET facial recognition technology](https://en.wikipedia.org/wiki/FERET_(facial_recognition_technology))
 * [FERET database](https://en.wikipedia.org/wiki/FERET_database)
