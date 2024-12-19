@@ -34,6 +34,7 @@
   * [Website](https://julianvossandreae.com/)
 * [Blender (software)](https://en.wikipedia.org/wiki/Blender_(software))
 * [Cinema 4D](https://en.wikipedia.org/wiki/Cinema_4D)
+* [Diorama](https://en.wikipedia.org/wiki/Diorama)
 * [RealityCapture](https://en.wikipedia.org/wiki/RealityCapture)
 ## 3D Printing
 * [3D printing](https://en.wikipedia.org/wiki/3D_printing)
