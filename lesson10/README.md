@@ -54,6 +54,7 @@
   * [Department of Government Efficiency](https://en.wikipedia.org/wiki/Department_of_Government_Efficiency) (DOGE)
 * [Helium System](https://www.helium.com/)
 * [Meme coin](https://en.wikipedia.org/wiki/Meme_coin)
+* [Meme stock](https://en.wikipedia.org/wiki/Meme_stock)
 * [Polkadot (cryptocurrency)](https://en.wikipedia.org/wiki/Polkadot_(cryptocurrency))
 * [Ripple (payment protocol)](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 * [Shiba Inu (cryptocurrency)](https://en.wikipedia.org/wiki/Shiba_Inu_(cryptocurrency))
