@@ -36,7 +36,6 @@
 * [FIRST Robotics Competition](https://en.wikipedia.org/wiki/FIRST_Robotics_Competition) (FRC)
   * [For Inspiration and Recognition of Science and Technology](https://en.wikipedia.org/wiki/For_Inspiration_and_Recognition_of_Science_and_Technology) (*FIRST*)
   * [Dean Kamen](https://en.wikipedia.org/wiki/Dean_Kamen)
-  * [J. P. Stevens High School](https://en.wikipedia.org/wiki/J._P._Stevens_High_School) named after John Peters Stevens Jr. 1897&mdash1976, the oldest son of [John Peters Stevens](https://en.wikipedia.org/wiki/John_Peters_Stevens) 1868&mdash;1929
 * [Gamification](https://en.wikipedia.org/wiki/Gamification)
 * [HackHarvard](https://hackharvard.io/)
 * [Health Make-a-Thon](https://healthmakerlab.medicine.illinois.edu/)
