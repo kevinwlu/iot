@@ -33,6 +33,7 @@
 * [Circuit bending](https://en.wikipedia.org/wiki/Circuit_bending)
 * [Hackathon](https://en.wikipedia.org/wiki/Hackathon)
 * [Devpost](https://en.wikipedia.org/wiki/Devpost)
+* [For Inspiration and Recognition of Science and Technology](https://en.wikipedia.org/wiki/For_Inspiration_and_Recognition_of_Science_and_Technology) (*FIRST*)
 * [Gamification](https://en.wikipedia.org/wiki/Gamification)
 * [HackHarvard](https://hackharvard.io/)
 * [Health Make-a-Thon](https://healthmakerlab.medicine.illinois.edu/)
