@@ -16,7 +16,10 @@
   * [MATLAB Mobile](https://www.mathworks.com/products/matlab-mobile.html)
 * [Pickle](https://docs.python.org/3/library/pickle.html): Python object serialization
 * [gspread](https://gspread.readthedocs.io/en/latest)
+* [gRPC](https://en.wikipedia.org/wiki/GRPC)
 * [OAuth](https://en.wikipedia.org/wiki/OAuth)
+* [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) (JWT)
+* [OpenAPI Specification](https://en.wikipedia.org/wiki/OpenAPI_Specification)
 * [OpenID Connect](https://en.wikipedia.org/wiki/OpenID_Connect) (OIDC)
 * [DHT](https://learn.adafruit.com/dht)11, DHT22, and AM2302 humidity-temperature sensor
   * Adafruit CircuitPython DHT [repository](https://github.com/adafruit/Adafruit_CircuitPython_DHT)
