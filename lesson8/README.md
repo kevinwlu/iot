@@ -303,6 +303,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Mistral AI](https://en.wikipedia.org/wiki/Mistral_AI)
 * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
   * [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
+  * [Suchir Balaji](https://en.wikipedia.org/wiki/Suchir_Balaji) 1998&mdash;2024
   * [OpenAI Codex](https://openai.com/blog/openai-codex/)
   * [DALL-E](https://en.wikipedia.org/wiki/DALL-E)
   * [Point-E](https://github.com/openai/point-e)
