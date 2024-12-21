@@ -9,6 +9,7 @@
   * [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
   * [Decentralized autonomous organization](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) (DAO)
   * [Decentralized finance](https://en.wikipedia.org/wiki/Decentralized_finance) (DeFi)
+  * [Salt (cryptography)](https://en.wikipedia.org/wiki/Salt_(cryptography))
   * [Hash function](https://en.wikipedia.org/wiki/Hash_function)
   * [Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
   * [SHA-2](https://en.wikipedia.org/wiki/SHA-2) (Secure Hash Algorithm 2)
