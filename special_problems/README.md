@@ -25,10 +25,14 @@
   * [PyTorch](https://en.wikipedia.org/wiki/PyTorch)
   * [YOLO](https://arxiv.org/abs/1506.02640)
   * [Amazon Rekognition](https://en.wikipedia.org/wiki/Amazon_Rekognition)
+  * [Cascading classifiers](https://en.wikipedia.org/wiki/Cascading_classifiers)
   * [DeepLabCut](https://www.mackenziemathislab.org/deeplabcut) for animal pose estimation
     * [DeepLabCut-Live](https://github.com/DeepLabCut/DeepLabCut-live)
   * [Frigate](https://frigate.video/) [network video recorder](https://en.wikipedia.org/wiki/Network_video_recorder) (NVR)
     * [GitHub repository](https://github.com/blakeblackshear/frigate)
+  * [Haar wavelet](https://en.wikipedia.org/wiki/Haar_wavelet)
+  * [Haar-like feature](https://en.wikipedia.org/wiki/Haar-like_feature)
+  * [Alfréd Haar](https://en.wikipedia.org/wiki/Alfr%C3%A9d_Haar) 1885&mdash;1933
   * [MediaPipe](https://developers.google.com/mediapipe)
   * [Roboflow](https://roboflow.com/)
     * [GitHub repository](https://github.com/roboflow)
