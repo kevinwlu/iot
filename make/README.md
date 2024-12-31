@@ -36,6 +36,8 @@
 * [FIRST Robotics Competition](https://en.wikipedia.org/wiki/FIRST_Robotics_Competition) (FRC)
   * [For Inspiration and Recognition of Science and Technology](https://en.wikipedia.org/wiki/For_Inspiration_and_Recognition_of_Science_and_Technology) (*FIRST*)
   * [Dean Kamen](https://en.wikipedia.org/wiki/Dean_Kamen)
+  * [Segway](https://en.wikipedia.org/wiki/Segway)
+  * [Segue](https://en.wikipedia.org/wiki/Segue)
 * [Gamification](https://en.wikipedia.org/wiki/Gamification)
 * [HackHarvard](https://hackharvard.io/)
 * [Health Make-a-Thon](https://healthmakerlab.medicine.illinois.edu/)
