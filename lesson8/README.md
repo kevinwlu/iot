@@ -193,6 +193,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   > A true dream is spoken of as coming through the gate of horn, a false dream as coming through the gate of ivory
 * [Deep reinforcement learning](https://en.wikipedia.org/wiki/Deep_reinforcement_learning) (DRL)
 * [Convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN)
+  * [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
 * [Recurrent neural network](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN)
   * [Long short-term memory](https://en.wikipedia.org/wiki/Long_short-term_memory) (LSTM)
 * [Generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network) (GAN)
