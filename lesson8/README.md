@@ -195,6 +195,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN)
   * [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
 * [Recurrent neural network](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN)
+  * [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio)
   * [Long short-term memory](https://en.wikipedia.org/wiki/Long_short-term_memory) (LSTM)
 * [Generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network) (GAN)
   * [Anomaly detection](https://en.wikipedia.org/wiki/Anomaly_detection)
