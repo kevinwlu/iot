@@ -37,6 +37,7 @@
 * [Artificial imagination](https://en.wikipedia.org/wiki/Artificial_imagination)
   * [De novo protein structure prediction](https://en.wikipedia.org/wiki/De_novo_protein_structure_prediction)
 * [AI alignment](https://en.wikipedia.org/wiki/AI_alignment)
+  * [Guardrails](https://github.com/guardrails-ai/guardrails)
 * [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 * [Sentience](https://en.wikipedia.org/wiki/Sentience)
 * [Philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
