@@ -133,7 +133,9 @@
 * [Judith Heumann](https://en.wikipedia.org/wiki/Judith_Heumann) 1947&mdash;2023
 * [Independent living](https://en.wikipedia.org/wiki/Independent_living)
 * [Amyotrophic lateral sclerosis](https://en.wikipedia.org/wiki/ALS) (ALS)
+  * [Lou Gehrig](https://en.wikipedia.org/wiki/Lou_Gehrig) 1903&mdash;1941
   * [ALStogether](https://www.alstogether.org/)
+  * [Eye tracking](https://en.wikipedia.org/wiki/Eye_tracking)
 * [Steve Saling](http://www.alsri.org/who-is-steve-saling.html)
 * [Barry Berman](http://www.alsri.org/history.html)
 * [Eva Kittay](https://en.wikipedia.org/wiki/Eva_Kittay)
