@@ -71,6 +71,9 @@
 * [Government Accountability Office](https://en.wikipedia.org/wiki/Government_Accountability_Office) (GAO)
 * [Gross domestic product](https://en.wikipedia.org/wiki/Gross_domestic_product) (GDP)
 * [Gross margin](https://en.wikipedia.org/wiki/Gross_margin)
+* [Happiness economics](https://en.wikipedia.org/wiki/Happiness_economics)
+  * [Easterlin paradox](https://en.wikipedia.org/wiki/Easterlin_paradox)
+  * [Richard Easterlin](https://en.wikipedia.org/wiki/Richard_Easterlin) 1926&mdash;2024
 * [Home economics](https://en.wikipedia.org/wiki/Home_economics)
 * [Income statement](https://en.wikipedia.org/wiki/Income_statement)
 * [Inflation](https://en.wikipedia.org/wiki/Inflation)
