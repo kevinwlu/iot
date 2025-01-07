@@ -500,6 +500,7 @@
 * [Firefly Aerospace](https://en.wikipedia.org/wiki/Firefly_Aerospace)
 * [GITAI](https://gitai.tech/)
 * [Ingenuity (helicopter)](https://en.wikipedia.org/wiki/Ingenuity_(helicopter))
+* [Interstellar Technologies](https://en.wikipedia.org/wiki/Interstellar_Technologies)
 * [Intuitive Machines](https://en.wikipedia.org/wiki/Intuitive_Machines)
   * [IM-1](https://en.wikipedia.org/wiki/IM-1) mission
   > On February 22, 2024, the *Odysseus* lander landed on the Moon
