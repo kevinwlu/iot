@@ -15,6 +15,9 @@
 * [Pi-hole](https://en.wikipedia.org/wiki/Pi-hole)
 * [Random forest](https://en.wikipedia.org/wiki/Random_forest)
 * [RepRap project](https://en.wikipedia.org/wiki/RepRap_project)
+* [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
+  * [Ray-Ban Meta](https://en.wikipedia.org/wiki/Ray-Ban_Meta)
+  * [Halliday](https://hallidayglobal.com/)
 ## 2024 Fall
 * [DensiSense](https://github.com/mczurlanis/DensiSense)
 ## 2024 Summer
