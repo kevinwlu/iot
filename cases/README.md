@@ -661,6 +661,7 @@
 * [Nuro](https://en.wikipedia.org/wiki/Nuro)
 * [Orange EV](https://orangeev.com/)
 * [Oxa](https://en.wikipedia.org/wiki/Oxa)
+* [Poimo](https://dl.acm.org/doi/10.1145/3379337.3415894) portable and inflatable mobility devices customizable for personal physical characteristics
 * [Pony.ai](https://en.wikipedia.org/wiki/Pony.ai)
 * [rFpro](https://en.wikipedia.org/wiki/RFpro)
 * [Rivian](https://en.wikipedia.org/wiki/Rivian)
@@ -702,6 +703,7 @@
 * [International Association of Classification Societies](https://en.wikipedia.org/wiki/International_Association_of_Classification_Societies) (IACS)
 * [Autonomous underwater vehicles](https://en.wikipedia.org/wiki/Autonomous_underwater_vehicle) (AUV)
 * [Blue economy](https://en.wikipedia.org/wiki/Blue_economy)
+* [MV *Doulos Hope*](https://en.wikipedia.org/wiki/MV_Doulos_Hope)
 * [Orca](https://en.wikipedia.org/wiki/Orca_(AUV)) autonomous underwater vehicle (AUV)
 * [Oru Kayak](https://www.orukayak.com/)
 * [Porrima](https://www.porrima.ch/en/)
