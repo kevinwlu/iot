@@ -66,6 +66,8 @@
   * [Hawk-Eye](https://en.wikipedia.org/wiki/Hawk-Eye)
   * [*You Cannot Be Serious*](https://en.wikipedia.org/wiki/You_Cannot_Be_Serious) 2002 by [John McEnroe](https://en.wikipedia.org/wiki/John_McEnroe) and [James Kaplan](https://en.wikipedia.org/wiki/James_Kaplan)
 * [Three Minute Thesis](https://en.wikipedia.org/wiki/Three_Minute_Thesis) (3MT) competition
+## 2025 Spring
+
 ## 2024 Fall
 * Driver Distraction Detection and Monitoring
 * [Unveiling the Threat: Developing a Smart Surveillance System for Real-Time Detection](https://github.com/iiruks/Surveillance-System-with-a-Hybrid-Model-)
