@@ -161,6 +161,7 @@
 * [CATL](https://en.wikipedia.org/wiki/CATL)
 * [ChargePoint](https://en.wikipedia.org/wiki/ChargePoint)
 * [Charging station](https://en.wikipedia.org/wiki/Charging_station)
+  * [State of charge](https://en.wikipedia.org/wiki/State_of_charge) (SoC)
 * [Chemix](https://chemix.ai/)
 * [Cirba Solutions](https://www.cirbasolutions.com/)
 * [Connected Kerb](https://www.connectedkerb.com/)
