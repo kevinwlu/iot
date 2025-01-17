@@ -185,6 +185,8 @@
 * [VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing)
 * [Remote desktop software](https://en.wikipedia.org/wiki/Remote_desktop_software)
 * [Comparison of remote desktop software](https://en.wikipedia.org/wiki/Comparison_of_remote_desktop_software)
+* [Raspberry Pi ID](https://www.raspberrypi.com/documentation/services/id.html)
+* [Raspberry Pi Connect](https://www.raspberrypi.com/documentation/services/connect.html)
 
 ## Lab 1A: Raspberry Pi Setup
 
