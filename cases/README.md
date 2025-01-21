@@ -672,6 +672,8 @@
   * [AITO](https://en.wikipedia.org/wiki/AITO_(marque))
 * [Smart Mobility Living Lab](https://smartmobility.london/) (SMLL)
 * [Sonatus](https://www.sonatus.com/)
+* [Sony Honda Mobility](https://en.wikipedia.org/wiki/Sony_Honda_Mobility)
+  * [Afeela 1](https://en.wikipedia.org/wiki/Afeela_1)
 * [Spin](https://en.wikipedia.org/wiki/Spin_(company))
   * [A Pi-culiar Discovery](https://www.hackster.io/news/a-pi-culiar-discovery-322fce581415)
 * [Stack AV](https://stackav.com/)
