@@ -182,6 +182,9 @@
   * [DSA](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm) (Digital Signature Algorithm)
   * [ECDSA](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm) (Elliptic Curve Digital Signature Algorithm)
   * [EdDSA](https://en.wikipedia.org/wiki/EdDSA) (Edwards-curve Digital Signature Algorithm) such as Ed25519
+* [X Window System](https://en.wikipedia.org/wiki/X_Window_System)
+* [Wayland](https://en.wikipedia.org/wiki/Wayland_(protocol))
+* [Mir](https://en.wikipedia.org/wiki/Mir_(software))
 * [VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing)
 * [Remote desktop software](https://en.wikipedia.org/wiki/Remote_desktop_software)
 * [Comparison of remote desktop software](https://en.wikipedia.org/wiki/Comparison_of_remote_desktop_software)
