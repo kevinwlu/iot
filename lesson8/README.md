@@ -316,6 +316,10 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Suchir Balaji](https://en.wikipedia.org/wiki/Suchir_Balaji) 1998&mdash;2024
   * [OpenAI Codex](https://openai.com/blog/openai-codex/)
   * [DALL-E](https://en.wikipedia.org/wiki/DALL-E)
+  * [Operator](https://operator.chatgpt.com/)
+    * [Introducing Operator](https://openai.com/index/introducing-operator/), January 23, 2025
+    * [Computer-Using Agent](https://openai.com/index/computer-using-agent/) (CUA), January 23, 2025
+    * [General Overview](https://help.openai.com/en/articles/10421097-operator)
   * [Point-E](https://github.com/openai/point-e)
   * [Generative pre-trained transformer](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer) (GPT)
   * [GPT-2](https://en.wikipedia.org/wiki/GPT-2)
