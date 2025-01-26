@@ -466,6 +466,7 @@
 * [Cobot](https://en.wikipedia.org/wiki/Cobot) 
 * [Covariant](https://covariant.ai/)
   * [Pieter Abbeel](https://en.wikipedia.org/wiki/Pieter_Abbeel)
+* [DEEP Robotics](https://www.deeprobotics.cn/en)
 * [Elephant Robotics](https://www.elephantrobotics.com/en/)
   * [GitHub](https://github.com/elephantrobotics)
 * [ElliQ](https://elliq.com/)
