@@ -274,7 +274,6 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Apple Intelligence](https://en.wikipedia.org/wiki/Apple_Intelligence)
 * [Cognition Labs](https://www.cognition-labs.com/)
   * [Devin](https://www.cognition-labs.com/introducing-devin)
-* [DeepSeek](https://en.wikipedia.org/wiki/DeepSeek)
 * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
   * [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)) Bidirectional encoder representations from transformers
@@ -356,6 +355,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Qwen2](https://github.com/QwenLM/Qwen2)
 * [Baidu](https://en.wikipedia.org/wiki/Baidu)
   * [Ernie Bot](https://en.wikipedia.org/wiki/Ernie_Bot)
+* [DeepSeek](https://en.wikipedia.org/wiki/DeepSeek)
 * [Kuaishou](https://en.wikipedia.org/wiki/Kuaishou)
   * [Kling AI](https://klingai.org/)
   * [Kling video model](https://kling.kuaishou.com/en)
