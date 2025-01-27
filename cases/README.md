@@ -468,7 +468,7 @@
   * [Pieter Abbeel](https://en.wikipedia.org/wiki/Pieter_Abbeel)
 * [DEEP Robotics](https://humanoids.wiki/w/Deep_Robotics)
   * [Wukong-IV](https://humanoids.wiki/w/Wukong-IV)
-  * [DEEP Robotics](https://www.deeprobotics.cn/en)
+  * [Website](https://www.deeprobotics.cn/en)
 * [Elephant Robotics](https://www.elephantrobotics.com/en/)
   * [GitHub](https://github.com/elephantrobotics)
 * [ElliQ](https://elliq.com/)
