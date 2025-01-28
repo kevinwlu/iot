@@ -145,7 +145,8 @@
 * [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) (International Organization for Standardization)
   * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
   * [Metric prefix](https://en.wikipedia.org/wiki/Metric_prefix)
-  * [Usability](https://en.wikipedia.org/wiki/Usability)
+  * [Usability](https://en.wikipedia.org/wiki/Usability
+  * [IEC/ISO SMART](https://www.iso.org/smart)
   * [ISO/TC 204 Intelligent transport systems](https://www.iso.org/committee/54706.html)
   * [ISO/TC 268 Sustainable cities and communities](https://www.iso.org/committee/656906.html)
   * [ISO/IEC JTC 1](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1) Information Technology
