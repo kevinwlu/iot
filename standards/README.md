@@ -1,5 +1,6 @@
 # Standards
 * [Technical standard](https://en.wikipedia.org/wiki/Technical_standard)
+* [Machine-readable medium and data](https://en.m.wikipedia.org/wiki/Machine-readable_medium_and_data)
 * [World Standards Day](https://en.wikipedia.org/wiki/World_Standards_Day) on October 14 was chosen in 1946 and first celebrated in 1970
   * [Website](https://www.worldstandardsday.org)
 * [Coordinated Universal Time](https://en.wikipedia.org/wiki/Coordinated_Universal_Time) (UTC)
