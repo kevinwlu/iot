@@ -187,6 +187,7 @@
 * [Rust (programming language)](https://en.wikipedia.org/wiki/Rust_(programming_language))
   * [rust-lang.org](https://www.rust-lang.org/)
   * [Rust Foundation](https://foundation.rust-lang.org/)
+  * [Warp](https://en.wikipedia.org/wiki/Warp_(terminal))
   * [warp.dev](https://www.warp.dev/)
 * [Visual Basic for Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications) (VBA)
 ---
