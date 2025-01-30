@@ -487,6 +487,7 @@
 * [Richtech Robotics](https://www.richtechrobotics.com/)
 * [Shift Robotics](https://shiftrobotics.io/)
 * [SOMATIC](https://getsomatic.com/)
+* [Unitree Robotics](https://en.wikipedia.org/wiki/Unitree_Robotics)
 * [Viam](https://www.viam.com/)
 ## Security
 * [Cloudflare](https://en.wikipedia.org/wiki/Cloudflare)
