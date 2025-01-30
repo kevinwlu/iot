@@ -183,6 +183,8 @@
   * [DSA](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm) (Digital Signature Algorithm)
   * [ECDSA](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm) (Elliptic Curve Digital Signature Algorithm)
   * [EdDSA](https://en.wikipedia.org/wiki/EdDSA) (Edwards-curve Digital Signature Algorithm) such as Ed25519
+* [Web shell](https://en.wikipedia.org/wiki/Web_shell)
+* [Web-based SSH](https://en.wikipedia.org/wiki/Web-based_SSH)
 * [X Window System](https://en.wikipedia.org/wiki/X_Window_System)
 * [Wayland](https://en.wikipedia.org/wiki/Wayland_(protocol))
 * [Mir](https://en.wikipedia.org/wiki/Mir_(software))
