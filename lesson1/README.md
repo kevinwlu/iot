@@ -152,6 +152,7 @@
   * [PARC](https://en.wikipedia.org/wiki/PARC_(company)) founded in 1970
 * [Command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI)
   * [Termina emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
+    * [List of terminal emulators](https://en.wikipedia.org/wiki/List_of_terminal_emulators)
   * [Keyboard shortcut](https://en.wikipedia.org/wiki/Keyboard_shortcut)
   * [Control-D](https://en.wikipedia.org/wiki/End-of-Transmission_character)
   * [Clobbering](https://en.wikipedia.org/wiki/Clobbering)
