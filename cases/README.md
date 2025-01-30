@@ -458,6 +458,7 @@
 * [ABB](https://en.wikipedia.org/wiki/ABB)
   * [ABB Robotics](https://new.abb.com/products/robotics)
 * [Actroid](https://en.wikipedia.org/wiki/Actroid)
+* [AgiBot](https://en.wikipedia.org/wiki/AgiBot)
 * [Ameca](https://www.engineeredarts.co.uk/robot/ameca/)
 * [ANYbotics](https://www.anybotics.com/)
 * [Apptronik](https://apptronik.com/)
@@ -473,6 +474,7 @@
   * [GitHub](https://github.com/elephantrobotics)
 * [ElliQ](https://elliq.com/)
 * [FANUC](https://en.wikipedia.org/wiki/FANUC) (Fuji Automatic Numerical Control)
+* [Fourier Intelligence](https://en.wikipedia.org/wiki/Fourier_Intelligence)
 * [Hanson Robotics](https://en.wikipedia.org/wiki/Hanson_Robotics)
 * [Impossible Metals](https://impossiblemetals.com/)
 * [Intrinsic](https://intrinsic.ai/)
@@ -487,6 +489,7 @@
 * [Richtech Robotics](https://www.richtechrobotics.com/)
 * [Shift Robotics](https://shiftrobotics.io/)
 * [SOMATIC](https://getsomatic.com/)
+* [UBtech Robotics](https://en.wikipedia.org/wiki/UBtech_Robotics)
 * [Unitree Robotics](https://en.wikipedia.org/wiki/Unitree_Robotics)
 * [Viam](https://www.viam.com/)
 ## Security
