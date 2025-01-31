@@ -348,6 +348,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Qwen](https://en.wikipedia.org/wiki/Qwen)
 * [Safe Superintelligence](https://ssi.inc/) (SSI)
   * [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)
+* [Stargate LLC](https://en.wikipedia.org/wiki/Stargate_LLC)
 ---
 * [Artificial intelligence industry in China](https://en.wikipedia.org/wiki/Artificial_intelligence_industry_in_China)
 * [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group)
@@ -356,6 +357,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Baidu](https://en.wikipedia.org/wiki/Baidu)
   * [Ernie Bot](https://en.wikipedia.org/wiki/Ernie_Bot)
 * [DeepSeek](https://en.wikipedia.org/wiki/DeepSeek)
+  * [GitHub repositories](https://github.com/deepseek-ai)
+  * [High-Flyer](https://en.wikipedia.org/wiki/High-Flyer)
 * [Kuaishou](https://en.wikipedia.org/wiki/Kuaishou)
   * [Kling AI](https://klingai.org/)
   * [Kling video model](https://kling.kuaishou.com/en)
