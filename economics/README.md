@@ -123,6 +123,7 @@
   * [Benefit–cost ratio](https://en.wikipedia.org/wiki/Benefit%E2%80%93cost_ratio)
 * [Prospect theory](https://en.wikipedia.org/wiki/Prospect_theory)
 * [Prosumer](https://en.wikipedia.org/wiki/Prosumer)
+* [Quantitative analysis (finance)](https://en.wikipedia.org/wiki/Quantitative_analysis_(finance))
 * [Rate of return](https://en.wikipedia.org/wiki/Rate_of_return)
 * [Return on investment](https://en.wikipedia.org/wiki/Return_on_investment) (ROI)
 * [Retailtainment](https://en.wikipedia.org/wiki/Retailtainment)
