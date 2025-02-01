@@ -214,6 +214,7 @@
   * [J3016](https://www.sae.org/standards/content/j3016_202104) Taxonomy and Definitions for Terms Related to Driving Autonomous Systems for On-Road Motor Vehicles
   * [J3400](https://www.sae.org/standards/content/j3400/) NACS Electric Vehicle Coupler
   * [Unified numbering system](https://en.wikipedia.org/wiki/Unified_numbering_system) (UNS) jointly managed with [ASTM International](https://en.wikipedia.org/wiki/ASTM_International)
+* [Sharable Content Object Reference Model](https://en.wikipedia.org/wiki/Sharable_Content_Object_Reference_Model) (SCORM)
 * [Thread Group](https://www.threadgroup.org/) 
   * [Thread](https://en.wikipedia.org/wiki/Thread_(network_protocol))
   * [OpenThread](https://openthread.io/) released by Google
