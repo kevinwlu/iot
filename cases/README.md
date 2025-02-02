@@ -59,6 +59,7 @@
 ## Climate and Weather
 * [Global Forecast System](https://en.wikipedia.org/wiki/Global_Forecast_System) (GFS)
 * [European Centre for Medium-Range Weather Forecasts](https://en.wikipedia.org/wiki/European_Centre_for_Medium-Range_Weather_Forecasts) (ECMWF)
+* [Anthropocene](https://en.wikipedia.org/wiki/Anthropocene)
 * [Atmospheric lake](https://en.wikipedia.org/wiki/Atmospheric_lake)
 * [Atmospheric river](https://en.wikipedia.org/wiki/Atmospheric_river)
 * [Environmental effects of aviation](https://en.wikipedia.org/wiki/Environmental_effects_of_aviation)
