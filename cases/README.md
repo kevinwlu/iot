@@ -366,10 +366,11 @@
 * [Fit:match](https://www.fitmatch.ai/)
 * [Gorpcore](https://en.wikipedia.org/wiki/Gorpcore)
 * [Hoka One One](https://en.wikipedia.org/wiki/Hoka_One_One)
+* [Renewcell](https://www.renewcell.com/en/)
+* [Sprezzatura](https://en.wikipedia.org/wiki/Sprezzatura)
 * [Virtually try on clothes with a new AI shopping feature](https://blog.google/products/shopping/ai-virtual-try-on-google-shopping/)
   * [How AI makes virtual try-on more realistic](https://blog.google/products/shopping/virtual-try-on-google-generative-ai/)
   * [TryOnDiffusion: A Tale of Two UNets](https://tryondiffusion.github.io/)
-* [Renewcell](https://www.renewcell.com/en/)
 ## Finance
 * [Financialization](https://en.wikipedia.org/wiki/Financialization)
 * [Fintech](https://en.wikipedia.org/wiki/Fintech)
