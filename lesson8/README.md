@@ -358,6 +358,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Ernie Bot](https://en.wikipedia.org/wiki/Ernie_Bot)
 * [DeepSeek](https://en.wikipedia.org/wiki/DeepSeek)
   * [GitHub repositories](https://github.com/deepseek-ai)
+  * [Reasoning Model](https://api-docs.deepseek.com/guides/reasoning_model)
   * [High-Flyer](https://en.wikipedia.org/wiki/High-Flyer)
 * [Kuaishou](https://en.wikipedia.org/wiki/Kuaishou)
   * [Kling AI](https://klingai.org/)
