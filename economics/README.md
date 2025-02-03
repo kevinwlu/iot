@@ -7,6 +7,9 @@
 ## YouTube Channels
 * [The Prof G Show](https://www.youtube.com/@TheProfGShow) by Prof. [Scott Galloway](https://en.wikipedia.org/wiki/Scott_Galloway_(professor))
 ---
+* [Fintech](https://en.wikipedia.org/wiki/Fintech)
+* [Klarna](https://en.wikipedia.org/wiki/Klarna)
+---
 * [Economics](https://en.wikipedia.org/wiki/Economics)
   * [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
   * [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics)
