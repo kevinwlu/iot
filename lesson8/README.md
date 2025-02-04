@@ -297,6 +297,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/), July 25, 2024
     * [RT-2: New model translates vision and language into action](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action) (Robotic Transformer 2), July 28, 2023
     * [Gemini (chatbot)](https://en.wikipedia.org/wiki/Gemini_(chatbot))
+    * [Try Deep Research and our new experimental model in Gemini, your AI assistant](https://blog.google/products/gemini/google-gemini-deep-research/), December 11, 2024
     * [Gemini (language model)](https://en.wikipedia.org/wiki/Gemini_(language_model))
   * [Ethical and Social Risks of Harm From Language Models](https://arxiv.org/abs/2112.04359)
   * [Google Research](https://research.google/)
@@ -320,6 +321,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Suchir Balaji](https://en.wikipedia.org/wiki/Suchir_Balaji) 1998&mdash;2024
   * [OpenAI Codex](https://openai.com/blog/openai-codex/)
   * [DALL-E](https://en.wikipedia.org/wiki/DALL-E)
+  * [Deep Research](https://help.openai.com/en/articles/10500283-deep-research-faq)
+    * [Introducing deep research](https://openai.com/index/introducing-deep-research/), February 2, 2025
   * [Operator](https://operator.chatgpt.com/)
     * [Introducing Operator](https://openai.com/index/introducing-operator/), January 23, 2025
     * [Computer-Using Agent](https://openai.com/index/computer-using-agent/) (CUA), January 23, 2025
