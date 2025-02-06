@@ -507,6 +507,8 @@
 * [Ball Aerospace & Technologies](https://en.wikipedia.org/wiki/Ball_Aerospace_%26_Technologies) acquired by [BAE Systems](https://en.wikipedia.org/wiki/BAE_Systems)
 * [Blue Canyon Technologies](https://www.bluecanyontech.com/), a wholly owned subsidiary of Raytheon Technologies
 * [Blue Origin](https://en.wikipedia.org/wiki/Blue_Origin)
+  * [Honeybee Robotics](https://en.wikipedia.org/wiki/Honeybee_Robotics)
+  * [VIPER (rover)](https://en.wikipedia.org/wiki/VIPER_(rover))
 * [Firefly Aerospace](https://en.wikipedia.org/wiki/Firefly_Aerospace)
 * [GITAI](https://gitai.tech/)
 * [Ingenuity (helicopter)](https://en.wikipedia.org/wiki/Ingenuity_(helicopter))
