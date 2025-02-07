@@ -6,9 +6,9 @@
 * [Lesson 1](/lesson1): Overview
 * [Lesson 2](/lesson2): Raspberry Pi
 * [Lesson 3](/lesson3): Python
-* [Lesson 4](/lesson4): Django
-* [Lesson 5](/lesson5): Paho
-* [Lesson 6](/lesson6): Alternatives
+* [Lesson 4](/lesson4): Django and Flask
+* [Lesson 5](/lesson5): MQTT and Paho
+* [Lesson 6](/lesson6): Alternative Devices
 * [Lesson 7](/lesson7): Cloud Platforms
 * [Lesson 8](/lesson8): Data Analysis
 * [Lesson 9](/lesson9): YANG
