@@ -1,4 +1,4 @@
-# Lesson 5: Paho and Crossbar.io
+# Lesson 5: MQTT and Paho
 * [Publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) (Pub/Sub)
 * [Message queuing telemetry transport](https://en.wikipedia.org/wiki/MQTT) (MQTT)
   * [What is MQTT](https://www.youtube.com/watch?v=t5b7gGYAezQ) by [IoT for All](https://www.youtube.com/@IoTForAll)
