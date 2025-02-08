@@ -67,7 +67,9 @@
   * [*You Cannot Be Serious*](https://en.wikipedia.org/wiki/You_Cannot_Be_Serious) 2002 by [John McEnroe](https://en.wikipedia.org/wiki/John_McEnroe) and [James Kaplan](https://en.wikipedia.org/wiki/James_Kaplan)
 * [Three Minute Thesis](https://en.wikipedia.org/wiki/Three_Minute_Thesis) (3MT) competition
 ## 2025 Spring
-
+* Face Recognition Using a Combination of Real and Synthetic Faces
+* NIRCAM and MIRI Celes.al Object Detec.on and Classifica.on Using JWST Images
+* Object Detection in Low-Light Conditions
 ## 2024 Fall
 * Driver Distraction Detection and Monitoring
 * [Unveiling the Threat: Developing a Smart Surveillance System for Real-Time Detection](https://github.com/iiruks/Surveillance-System-with-a-Hybrid-Model-)
