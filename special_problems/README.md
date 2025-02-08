@@ -67,8 +67,9 @@
   * [*You Cannot Be Serious*](https://en.wikipedia.org/wiki/You_Cannot_Be_Serious) 2002 by [John McEnroe](https://en.wikipedia.org/wiki/John_McEnroe) and [James Kaplan](https://en.wikipedia.org/wiki/James_Kaplan)
 * [Three Minute Thesis](https://en.wikipedia.org/wiki/Three_Minute_Thesis) (3MT) competition
 ## 2025 Spring
+* A Multi-Modal Aerial Object Detection Framework for Precision Agriculture
 * Face Recognition Using a Combination of Real and Synthetic Faces
-* NIRCAM and MIRI Celes.al Object Detec.on and Classifica.on Using JWST Images
+* NIRCAM and MIRI Celestial Object Detection and Classification Using JWST Images
 * Object Detection in Low-Light Conditions
 ## 2024 Fall
 * Driver Distraction Detection and Monitoring
