@@ -25,6 +25,7 @@
 * [Progress in artificial intelligence](https://en.wikipedia.org/wiki/Progress_in_artificial_intelligence)
 * [One Hundread Year Study on Artificial Intelligence](https://ai100.stanford.edu/)
 * [Association for the Advancement of Artificial Intelligence](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence) (AAAI)
+* [Allen Institute for AI](https://en.wikipedia.org/wiki/Allen_Institute_for_AI) (AI2)
 * [Partnership on AI](https://en.wikipedia.org/wiki/Partnership_on_AI)
 * [AI Safety and Security Advsory Board](https://www.dhs.gov/ai/promoting-ai-safety-and-security) (AISSB)
 * [Chief Digital and Artificial Intelligence Office](https://www.ai.mil/) (CDAO)
@@ -351,6 +352,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Qwen](https://en.wikipedia.org/wiki/Qwen)
 * [Safe Superintelligence](https://ssi.inc/) (SSI)
   * [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)
+* [s1: Simple test-time scaling](https://github.com/simplescaling/s1)
 * [Stargate LLC](https://en.wikipedia.org/wiki/Stargate_LLC)
 ---
 * [Artificial intelligence industry in China](https://en.wikipedia.org/wiki/Artificial_intelligence_industry_in_China)
