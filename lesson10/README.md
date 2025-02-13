@@ -14,6 +14,8 @@
   * [Cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
   * [SHA-2](https://en.wikipedia.org/wiki/SHA-2) (Secure Hash Algorithm 2)
   * [SHA-3](https://en.wikipedia.org/wiki/SHA-3) (Secure Hash Algorithm 3)
+  * [Hash table](https://en.wikipedia.org/wiki/Hash_table)
+    * [Optimal Bounds for Open Addressing Without Reordering](https://www.computer.org/csdl/proceedings-article/focs/2024/167400a594/22gEYdwwA4o)
   * [Blockchain repositories](https://github.com/blockchain)
   * [Alchemy](https://www.alchemy.com/)
     * [Nikil Viswanathan](https://en.wikipedia.org/wiki/Nikil_Viswanathan)
