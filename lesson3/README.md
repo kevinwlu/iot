@@ -45,7 +45,7 @@
   * [psutil](https://pypi.org/project/psutil/)
   * [Pygame](https://en.wikipedia.org/wiki/Pygame)
 * [Unicode](https://en.wikipedia.org/wiki/Unicode)
-* [GPIO Zero](https://gpiozero.readthedocs.io/en/stable)
+* [GPIO Zero](https://gpiozero.readthedocs.io/en/latest/)
   * [Use GPIO from Python](https://www.raspberrypi.com/documentation/computers/os.html#use-gpio-from-python)
 * [pigpio](http://abyz.me.uk/rpi/pigpio)
 * [PyPy](https://en.wikipedia.org/wiki/PyPy)
