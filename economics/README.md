@@ -147,6 +147,7 @@
 * [Tokenomics](https://en.wikipedia.org/wiki/Tokenomics)
 * [Trade-off](https://en.wikipedia.org/wiki/Trade-off)
   * [Double-edged sword](https://en.wiktionary.org/wiki/double-edged_sword)
+* [Transportation theory](https://en.wikipedia.org/wiki/Transportation_theory_(mathematics))
 * [World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum) (WEF)
 * [Zero-based budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting) (ZBB)
 ---
