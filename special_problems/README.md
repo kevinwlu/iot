@@ -8,6 +8,7 @@
   * [Google Scholar](https://scholar.google.com/citations?user=rDfyQnIAAAAJ&hl=en)
   * [*The Worlds I See: Curiosity, Exploration and Discovery at the Dawn of AI*](https://www.youtube.com/watch?v=nCnQbrV9PCA) 2023
   * [ImageNet](https://en.wikipedia.org/wiki/ImageNet)
+  * [World Labs](https://www.worldlabs.ai/)
 * [Digital image processing](https://en.wikipedia.org/wiki/Digital_image_processing)
 * [Standard test image](https://en.wikipedia.org/wiki/Standard_test_image)
 * [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
