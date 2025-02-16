@@ -24,6 +24,7 @@
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
 * [Progress in artificial intelligence](https://en.wikipedia.org/wiki/Progress_in_artificial_intelligence)
 * [One Hundread Year Study on Artificial Intelligence](https://ai100.stanford.edu/)
+* [AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia)
 * [Association for the Advancement of Artificial Intelligence](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence) (AAAI)
 * [Allen Institute for AI](https://en.wikipedia.org/wiki/Allen_Institute_for_AI) (AI2)
 * [Partnership on AI](https://en.wikipedia.org/wiki/Partnership_on_AI)
