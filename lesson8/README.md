@@ -355,6 +355,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)
 * [s1: Simple test-time scaling](https://github.com/simplescaling/s1)
 * [Stargate LLC](https://en.wikipedia.org/wiki/Stargate_LLC)
+* [Uber](https://www.uber.com/blog/)
+  * [QueryGPT](https://www.uber.com/blog/query-gpt/) Natural Language to SQL Using Generative AI, September 19, 2024
 ---
 * [Artificial intelligence industry in China](https://en.wikipedia.org/wiki/Artificial_intelligence_industry_in_China)
 * [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group)
