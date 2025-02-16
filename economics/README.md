@@ -145,6 +145,7 @@
 * [Technical barriers to trade](https://en.wikipedia.org/wiki/Technical_barriers_to_trade) (TBT)
 * [Time value of money](https://en.wikipedia.org/wiki/Time_value_of_money)
 * [Tokenomics](https://en.wikipedia.org/wiki/Tokenomics)
+* [Total factor productivity](https://en.wikipedia.org/wiki/Total_factor_productivity) (TFP)
 * [Trade-off](https://en.wikipedia.org/wiki/Trade-off)
   * [Double-edged sword](https://en.wiktionary.org/wiki/double-edged_sword)
 * [Transportation theory](https://en.wikipedia.org/wiki/Transportation_theory_(mathematics))
