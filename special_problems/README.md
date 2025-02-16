@@ -9,6 +9,8 @@
   * [*The Worlds I See: Curiosity, Exploration and Discovery at the Dawn of AI*](https://www.youtube.com/watch?v=nCnQbrV9PCA) 2023
   * [ImageNet](https://en.wikipedia.org/wiki/ImageNet)
   * [World Labs](https://www.worldlabs.ai/)
+  * [Large World Model](https://github.com/LargeWorldModel/LWM) (LWM)
+  * [Spatial intelligence](https://en.wikipedia.org/wiki/Spatial_intelligence_(psychology))
 * [Digital image processing](https://en.wikipedia.org/wiki/Digital_image_processing)
 * [Standard test image](https://en.wikipedia.org/wiki/Standard_test_image)
 * [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
