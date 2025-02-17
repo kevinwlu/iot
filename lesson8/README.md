@@ -358,6 +358,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Stargate LLC](https://en.wikipedia.org/wiki/Stargate_LLC)
 * [Uber](https://www.uber.com/blog/)
   * [QueryGPT](https://www.uber.com/blog/query-gpt/) Natural Language to SQL Using Generative AI, September 19, 2024
+* [xAI](https://en.wikipedia.org/wiki/XAI_(company))
+  * [Grok](https://en.wikipedia.org/wiki/Grok_(chatbot))
 ---
 * [Artificial intelligence industry in China](https://en.wikipedia.org/wiki/Artificial_intelligence_industry_in_China)
 * [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group)
@@ -385,8 +387,6 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Runway](https://runwayml.com/)
 * [Vosaic](https://vosaic.com/) AI-powered feedback and analysis
 * [Wu Dao](https://en.wikipedia.org/wiki/Wu_Dao)
-* [xAI](https://en.wikipedia.org/wiki/XAI_(company))
-  * [Grok](https://en.wikipedia.org/wiki/Grok_(chatbot))
 * [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
   * [Diffusion model](https://en.wikipedia.org/wiki/Diffusion_model)
 * [Deepfake](https://en.wikipedia.org/wiki/Deepfake)
