@@ -26,8 +26,6 @@
 * [One Hundread Year Study on Artificial Intelligence](https://ai100.stanford.edu/)
 * [AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia)
 * [Association for the Advancement of Artificial Intelligence](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence) (AAAI)
-* [Allen Institute for AI](https://en.wikipedia.org/wiki/Allen_Institute_for_AI) (AI2)
-* [Partnership on AI](https://en.wikipedia.org/wiki/Partnership_on_AI)
 * [AI Safety and Security Advsory Board](https://www.dhs.gov/ai/promoting-ai-safety-and-security) (AISSB)
 * [Chief Digital and Artificial Intelligence Office](https://www.ai.mil/) (CDAO)
   * [Joint Artificial Intelligence Center](https://en.wikipedia.org/wiki/Joint_Artificial_Intelligence_Center) (JAIC)
@@ -267,6 +265,9 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 ---
 * [Alegion](https://www.alegion.com/)
   * [Language Model Scaling Laws and GPT-3](https://towardsdatascience.com/language-model-scaling-laws-and-gpt-3-5cdc034e67bb)
+* [Allen Institute for AI](https://en.wikipedia.org/wiki/Allen_Institute_for_AI) (Ai2)
+  * [OLMoE](https://github.com/allenai/OLMoE) Open Mixture-of-Experts Language Models
+* [Partnership on AI](https://en.wikipedia.org/wiki/Partnership_on_AI)
 * [Amazon Q](https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/)
 * [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
   * [Claude](https://www.anthropic.com/news/introducing-claude), March 14, 2023
@@ -276,6 +277,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Apple Intelligence](https://en.wikipedia.org/wiki/Apple_Intelligence)
 * [Cognition Labs](https://www.cognition-labs.com/)
   * [Devin](https://www.cognition-labs.com/introducing-devin)
+* [Contextual AI](https://contextual.ai/)
+  * [Retrieval-augmented generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) (RAG)
 * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
   * [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)) Bidirectional encoder representations from transformers
