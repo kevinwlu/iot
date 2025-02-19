@@ -18,6 +18,8 @@
 * [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
   * [Ray-Ban Meta](https://en.wikipedia.org/wiki/Ray-Ban_Meta)
   * [Halliday](https://hallidayglobal.com/)
+* Stanford University
+  * [Mobile ALOHA](https://mobile-aloha.github.io/)
 ## 2025 Spring
 * [NJSGC project](https://github.com/lquaynor/researchtopic/)
 ## 2024 Fall
