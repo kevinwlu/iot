@@ -1,4 +1,5 @@
 # Special Problems
+* [ArXiv](https://en.wikipedia.org/wiki/ArXiv)
 * [Paper with code](https://paperswithcode.com/)
   * [GitHub repository](https://github.com/paperswithcode)
 * [Computer vision](https://en.wikipedia.org/wiki/Computer_vision)
@@ -11,6 +12,8 @@
   * [World Labs](https://www.worldlabs.ai/)
   * [Large World Model](https://github.com/LargeWorldModel/LWM) (LWM)
   * [Spatial intelligence](https://en.wikipedia.org/wiki/Spatial_intelligence_(psychology))
+  * [s1: Simple test-time scaling](https://github.com/simplescaling/s1)
+    * [arXiv](https://arxiv.org/pdf/2501.19393)
 * [Digital image processing](https://en.wikipedia.org/wiki/Digital_image_processing)
 * [Standard test image](https://en.wikipedia.org/wiki/Standard_test_image)
 * [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
