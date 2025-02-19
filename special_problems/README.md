@@ -72,7 +72,7 @@
   * [Hawk-Eye](https://en.wikipedia.org/wiki/Hawk-Eye)
   * [*You Cannot Be Serious*](https://en.wikipedia.org/wiki/You_Cannot_Be_Serious) 2002 by [John McEnroe](https://en.wikipedia.org/wiki/John_McEnroe) and [James Kaplan](https://en.wikipedia.org/wiki/James_Kaplan)
 * [Three Minute Thesis](https://en.wikipedia.org/wiki/Three_Minute_Thesis) (3MT) competition
-* [Mobile ALOHA](https://mobile-aloha.github.io/)
+* [Mobile ALOHA](https://mobile-aloha.github.io/) Learning Bimanual Mobile Manipulation With Low-Cost Whole-Body Teleoperation
 ## 2025 Spring
 * A Multi-Modal Aerial Object Detection Framework for Precision Agriculture
 * Face Recognition Using a Combination of Real and Synthetic Faces
