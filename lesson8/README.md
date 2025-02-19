@@ -357,7 +357,6 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Qwen](https://en.wikipedia.org/wiki/Qwen)
 * [Safe Superintelligence](https://ssi.inc/) (SSI)
   * [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)
-* [s1: Simple test-time scaling](https://github.com/simplescaling/s1)
 * [Stargate LLC](https://en.wikipedia.org/wiki/Stargate_LLC)
 * [Thinking Machines Lab](https://thinkingmachines.ai/) launched on February 18, 2025 by [Mira Murati](https://en.wikipedia.org/wiki/Mira_Murati)
 * [Uber](https://www.uber.com/blog/)
