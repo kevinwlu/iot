@@ -12,6 +12,7 @@
 * [Homebridge](https://homebridge.io/)
   * [GitHub repository](https://github.com/homebridge/homebridge)
 * [HomeKit](https://en.wikipedia.org/wiki/HomeKit)
+* [Human–computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) (HCI)
 * [Human–robot interaction](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction) (HRI)
 * [Pi-hole](https://en.wikipedia.org/wiki/Pi-hole)
 * [Random forest](https://en.wikipedia.org/wiki/Random_forest)
