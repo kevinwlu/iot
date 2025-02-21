@@ -12,13 +12,13 @@
 * [Homebridge](https://homebridge.io/)
   * [GitHub repository](https://github.com/homebridge/homebridge)
 * [HomeKit](https://en.wikipedia.org/wiki/HomeKit)
+* [Human–robot interaction](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction) (HRI)
 * [Pi-hole](https://en.wikipedia.org/wiki/Pi-hole)
 * [Random forest](https://en.wikipedia.org/wiki/Random_forest)
 * [RepRap project](https://en.wikipedia.org/wiki/RepRap_project)
 * [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
   * [Ray-Ban Meta](https://en.wikipedia.org/wiki/Ray-Ban_Meta)
   * [Halliday](https://hallidayglobal.com/)
-* [Human–robot interaction](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction) (HRI)
 ## 2025 Spring
 * [NJSGC project](https://github.com/lquaynor/researchtopic/)
 ## 2024 Fall
