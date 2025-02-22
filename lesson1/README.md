@@ -133,6 +133,8 @@
 * [Honeypot](https://en.wikipedia.org/wiki/Honeypot_(computing))
 * [Cloud computing security](https://en.wikipedia.org/wiki/Cloud_computing_security)
   * NIST [cloud security](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/cloud-security)
+  * [List of computer security companies](https://en.wikipedia.org/wiki/List_of_computer_security_companies)
+  * [Surfshark B.V.](https://en.wikipedia.org/wiki/Surfshark_B.V.)
 * [Secure access service edge](https://en.wikipedia.org/wiki/Secure_access_service_edge) (SASE)
 * [Zero trust security model](https://en.wikipedia.org/wiki/Zero_trust_security_model)
 * [Zero touch network & service management](https://www.etsi.org/technologies/zero-touch-network-service-management) (ZSM)
