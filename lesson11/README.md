@@ -116,6 +116,7 @@
     * [Learn with Azure Quantum katas](https://quantum.microsoft.com/en-us/tools/quantum-katas)
     * [Azure Quantum documentation](https://learn.microsoft.com/en-us/azure/quantum/)
     * [Azure Quantum Development Kit](https://github.com/microsoft/qsharp) (QDK)
+    * [Majorana 1](https://en.wikipedia.org/wiki/Majorana_1)
     * [Majorana 1 chip](https://news.microsoft.com/source/features/innovation/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/), February 19, 2025
     * [Majorana fermion](https://en.wikipedia.org/wiki/Majorana_fermion)
     * [Ettore Majorana](https://en.wikipedia.org/wiki/Ettore_Majorana)
@@ -170,6 +171,7 @@
     * [RF goes quantum](https://www.youtube.com/watch?v=5hSTobz6khw), [Interlligent](https://www.int-rf.com/) UK RF and Microwave Design Seminar, Cambridge, November 5, 2019
     * [QUA Universal Language for Quantum Computers](https://www.quantum-machines.co/blog/quantum-machines-announces-qua-as-first-standard-universal-language-for-quantum-computers/)
     * [QUA Platform](https://github.com/qua-platform)
+* [Topological quantum computer](https://en.wikipedia.org/wiki/Topological_quantum_computer)
 ##
 * [Quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)
   * [Quantum key distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution) (QKD)
