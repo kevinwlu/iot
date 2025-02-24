@@ -116,9 +116,11 @@
     * [Learn with Azure Quantum katas](https://quantum.microsoft.com/en-us/tools/quantum-katas)
     * [Azure Quantum documentation](https://learn.microsoft.com/en-us/azure/quantum/)
     * [Azure Quantum Development Kit](https://github.com/microsoft/qsharp) (QDK)
-    * [Majorana 1](https://en.wikipedia.org/wiki/Majorana_1)
+    * [Microsoft’s Majorana 1 chip carves new path for quantum computing](https://news.microsoft.com/source/features/innovation/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/), February 19, 2025
+    * [Introducing Microsoft Majorana 1](https://news.microsoft.com/azure-quantum/)
     * [Majorana 1 Explained: The Path to a Million Qubits](https://www.youtube.com/watch?v=wSHmygPQukQ)
-    * [Majorana 1 chip](https://news.microsoft.com/source/features/innovation/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/), February 19, 2025
+    * [Satya Nadella – Microsoft’s AGI Plan & Quantum Breakthrough](https://www.youtube.com/watch?v=4GLSzuYXh6w) with [Dwarkesh Patel](https://www.youtube.com/@DwarkeshPatel)
+    * [Majorana 1](https://en.wikipedia.org/wiki/Majorana_1)
     * [Majorana fermion](https://en.wikipedia.org/wiki/Majorana_fermion)
     * [Ettore Majorana](https://en.wikipedia.org/wiki/Ettore_Majorana)
   * [Origin Quantum](https://originqc.com.cn/en/index.html)
