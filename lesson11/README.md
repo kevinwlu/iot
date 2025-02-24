@@ -116,6 +116,7 @@
     * [Learn with Azure Quantum katas](https://quantum.microsoft.com/en-us/tools/quantum-katas)
     * [Azure Quantum documentation](https://learn.microsoft.com/en-us/azure/quantum/)
     * [Azure Quantum Development Kit](https://github.com/microsoft/qsharp) (QDK)
+    * [Majorana 1 chip](https://news.microsoft.com/source/features/innovation/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/), February 19, 2025
   * [Origin Quantum](https://originqc.com.cn/en/index.html)
     * [OriginQ Cloud](https://qcloud.originqc.com.cn/en/home)
     * ["China is catching up with America in quantum technology: But its state-heavy innovation model comes with risks,"](https://www.economist.com/business/2024/12/31/china-is-catching-up-with-america-in-quantum-technology) *The Economist*, December 31, 2024
