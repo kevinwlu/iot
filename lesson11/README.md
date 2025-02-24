@@ -117,6 +117,7 @@
     * [Azure Quantum documentation](https://learn.microsoft.com/en-us/azure/quantum/)
     * [Azure Quantum Development Kit](https://github.com/microsoft/qsharp) (QDK)
     * [Majorana 1](https://en.wikipedia.org/wiki/Majorana_1)
+    * [Majorana 1 Explained: The Path to a Million Qubits](https://www.youtube.com/watch?v=wSHmygPQukQ)
     * [Majorana 1 chip](https://news.microsoft.com/source/features/innovation/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/), February 19, 2025
     * [Majorana fermion](https://en.wikipedia.org/wiki/Majorana_fermion)
     * [Ettore Majorana](https://en.wikipedia.org/wiki/Ettore_Majorana)
