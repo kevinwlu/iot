@@ -9,6 +9,7 @@
     * [BrainFlow](https://brainflow-openbci.readthedocs.io/en/latest/)
     * [GitHub repository](https://github.com/brainflow-dev/brainflow)
   * [Schumann resonances](https://en.wikipedia.org/wiki/Schumann_resonances)
+* [Exoskeleton](https://en.wikipedia.org/wiki/Exoskeleton)
 * [Homebridge](https://homebridge.io/)
   * [GitHub repository](https://github.com/homebridge/homebridge)
 * [HomeKit](https://en.wikipedia.org/wiki/HomeKit)
