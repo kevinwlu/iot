@@ -104,6 +104,7 @@
     * [Cirq](https://en.wikipedia.org/wiki/Cirq)
       * [GitHub repository](https://github.com/quantumlib/Cirq)
     * [Willow](https://blog.google/technology/research/google-willow-quantum-chip/), December 9, 2024
+    * [Willow processor](https://en.wikipedia.org/wiki/Willow_processor) a 105-qubit superconducting quantum computing processor
   * [IBM Quantum](https://www.ibm.com/quantum)
     * [IBM Quantum Composer and IBM Quantum Lab](https://quantum-computing.ibm.com/)
     * [Rolf Landauer](https://en.wikipedia.org/wiki/Rolf_Landauer) 1927&mdash;1999
@@ -116,6 +117,7 @@
     * [Learn with Azure Quantum katas](https://quantum.microsoft.com/en-us/tools/quantum-katas)
     * [Azure Quantum documentation](https://learn.microsoft.com/en-us/azure/quantum/)
     * [Azure Quantum Development Kit](https://github.com/microsoft/qsharp) (QDK)
+    * [Chetan Nayak](https://en.wikipedia.org/wiki/Chetan_Nayak)
     * [Microsoft’s Majorana 1 chip carves new path for quantum computing](https://news.microsoft.com/source/features/innovation/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/), February 19, 2025
     * [Introducing Microsoft Majorana 1](https://news.microsoft.com/azure-quantum/)
     * [Majorana 1 Explained: The Path to a Million Qubits](https://www.youtube.com/watch?v=wSHmygPQukQ)
