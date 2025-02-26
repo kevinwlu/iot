@@ -11,6 +11,8 @@
   * [Schumann resonances](https://en.wikipedia.org/wiki/Schumann_resonances)
 * [Exoskeleton](https://en.wikipedia.org/wiki/Exoskeleton)
   * [Powered exoskeleton](https://en.wikipedia.org/wiki/Powered_exoskeleton)
+  * [Actuator](https://en.wikipedia.org/wiki/Actuator)
+  * [Linear actuator](https://en.wikipedia.org/wiki/Linear_actuator)
 * [Homebridge](https://homebridge.io/)
   * [GitHub repository](https://github.com/homebridge/homebridge)
 * [HomeKit](https://en.wikipedia.org/wiki/HomeKit)
