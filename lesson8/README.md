@@ -249,6 +249,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Foundation models](https://en.wikipedia.org/wiki/Foundation_models)
 * [Language model](https://en.wikipedia.org/wiki/Language_model) (LM)
 * [Large language model](https://en.wikipedia.org/wiki/Large_language_model) (LLM)
+  * [Lexical analysis](https://en.wikipedia.org/wiki/Lexical_analysis)
   * [The Dark Risk of Large Language Models](https://www.wired.com/story/large-language-models-artificial-intelligence/)
   * [Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
   * [Attention (machine learning)](https://en.wikipedia.org/wiki/Attention_(machine_learning))
