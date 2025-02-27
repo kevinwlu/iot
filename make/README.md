@@ -106,6 +106,9 @@
   * [QSD2030](https://www.onsemi.com/pdf/datasheet/qsd2030-d.pdf)
 ## Actuators
 * [Actuator](https://en.wikipedia.org/wiki/Actuator)
+  * [Linear actuator](https://en.wikipedia.org/wiki/Linear_actuator)
+  * [Switch](https://en.wikipedia.org/wiki/Switch)
+  * [Multiway switching](https://en.wikipedia.org/wiki/Multiway_switching)
 * [AC motor](https://en.wikipedia.org/wiki/AC_motor)
 * [Brushed DC electric motor](https://en.wikipedia.org/wiki/Brushed_DC_electric_motor)
 * [Brushless DC electric motor](https://en.wikipedia.org/wiki/Brushless_DC_electric_motor) (BLDC)
