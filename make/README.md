@@ -49,6 +49,7 @@
 * [Seeed Studio XIAO Starter Kit Courses](https://wiki.seeedstudio.com/XIAO-Kit-Courses/)
 * [Science fair](https://en.wikipedia.org/wiki/Science_fair)
   * [International Science and Engineering Fair](https://en.wikipedia.org/wiki/International_Science_and_Engineering_Fair) (ISEF)
+  * [Regeneron Science Talent Search](https://en.wikipedia.org/wiki/Regeneron_Science_Talent_Search)
   * [Terra North Jersey STEM Fair](https://tnjsf.org/)
 * [Tindie](https://www.tindie.com/)
   * [MH-EDU-Electronics](https://www.tindie.com/stores/mh-edu/)
