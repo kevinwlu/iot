@@ -91,6 +91,7 @@
   * [How to use a flex sensor - Arduino tutorial](https://www.instructables.com/How-to-use-a-Flex-Sensor-Arduino-Tutorial/)
     * [flexled.ino](/make/flexled.ino)
   * [Pulse-width modulation](https://en.wikipedia.org/wiki/Pulse-width_modulation) (PWM)
+* [Force gauge](https://en.wikipedia.org/wiki/Force_gauge)
 * [Force-sensing resistor](https://en.wikipedia.org/wiki/Force-sensing_resistor) (FSR)
   * [Adafruit](https://learn.adafruit.com/force-sensitive-resistor-fsr)
   * [Piezoelectricity](https://en.wikipedia.org/wiki/Piezoelectricity)
