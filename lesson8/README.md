@@ -157,6 +157,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning)
 * [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) (RL)
   * [Q-learning](https://en.wikipedia.org/wiki/Q-learning)
+  * [Andrew Barto](https://en.wikipedia.org/wiki/Andrew_Barto)
+  * [Richard S. Sutton](https://en.wikipedia.org/wiki/Richard_S._Sutton)
 * [Transfer learning](https://en.wikipedia.org/wiki/Transfer_learning) (TL)
 * [One-shot learning](https://en.wikipedia.org/wiki/One-shot_learning)
 * [Zero-shot learning](https://en.wikipedia.org/wiki/Zero-shot_learning) (ZSL)
