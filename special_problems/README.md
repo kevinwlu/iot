@@ -89,6 +89,7 @@
 * [Automated Parking AI System Using Computer Vision](https://github.com/RavikanthAI/AAI-800-820)
 * [Animal Detection Using Deep Learning](https://github.com/Akki072/Image-Recognition-using-Resnet)
 * [Autonomous Path Finding Using Object Detection and Teaching-Learning-Based Optimization](https://github.com/saroj-raj/Autonomous-Path-Finding) (TLBO)
+* LGC-Based Inverse Residual Target Detection Algorithm
 * [Recipe Recommendation System](https://github.com/Vindhyau/Recipe-Recommendation-System-)
 * [Route Guide: A Network Device Classifier](https://github.com/pravi-2405)
 ## 2023 Fall
