@@ -5,6 +5,8 @@
 * [Big data](https://en.wikipedia.org/wiki/Big_data)
 * [Data lake](https://en.wikipedia.org/wiki/Data_lake)
 * [Data science](https://en.wikipedia.org/wiki/Data_science)
+  * [Statistics](https://en.wikipedia.org/wiki/Statistics)
+  * [Post hoc analysis](https://en.wikipedia.org/wiki/Post_hoc_analysis)
 * [Diagnosis](https://en.wikipedia.org/wiki/Diagnosis)
 * [Prognostics](https://en.wikipedia.org/wiki/Prognostics)
 * [Kaggle](https://www.kaggle.com/)
