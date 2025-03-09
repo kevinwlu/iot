@@ -478,6 +478,7 @@
   * [GitHub](https://github.com/elephantrobotics)
 * [ElliQ](https://elliq.com/)
 * [FANUC](https://en.wikipedia.org/wiki/FANUC) (Fuji Automatic Numerical Control)
+* [Figure AI](https://en.wikipedia.org/wiki/Figure_AI)
 * [Fourier Intelligence](https://en.wikipedia.org/wiki/Fourier_Intelligence)
 * [Hanson Robotics](https://en.wikipedia.org/wiki/Hanson_Robotics)
 * [Impossible Metals](https://impossiblemetals.com/)
