@@ -72,6 +72,13 @@
   * [Dark web](https://en.wikipedia.org/wiki/Dark_web) exists on [darknets](https://en.wikipedia.org/wiki/Darknet) and is a portion of the deep web
 * [Internet Assigned Numbers Authority](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority) (IANA)
   * [List of TCP and UDP port numbers](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+  * [Top-level domain](https://en.wikipedia.org/wiki/Top-level_domain) (TLD)
+  * [Domain hack](https://en.wikipedia.org/wiki/Domain_hack)
+    * [.ai](https://en.wikipedia.org/wiki/.ai)
+    * [.im](https://en.wikipedia.org/wiki/.im)
+    * [.io](https://en.wikipedia.org/wiki/.io)
+    * [.me](https://en.wikipedia.org/wiki/.me)
+    * [.sh](https://en.wikipedia.org/wiki/.sh)
 * [Wiki](https://en.wikipedia.org/wiki/Wiki)
 * [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (CSS)
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (JS)
