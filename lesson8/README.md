@@ -275,6 +275,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [OLMoE](https://github.com/allenai/OLMoE) Open Mixture-of-Experts Language Models
   * [Tülu 3](https://allenai.org/tulu)
   * [Tülu 3: The next era in open post-training](https://allenai.org/blog/tulu-3-technical), November 21, 2024
+  * [Tülu 3: Pushing Frontiers in Open Language Model Post-Training](https://arxiv.org/abs/2411.15124), November 22, 2024
+  * [Tülu 3 Models](https://huggingface.co/collections/allenai/tulu-3-models-673b8e0dc3512e30e7dc54f5)
 * [Partnership on AI](https://en.wikipedia.org/wiki/Partnership_on_AI)
 * [Amazon Q](https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/)
 * [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
