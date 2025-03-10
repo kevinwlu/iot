@@ -24,6 +24,7 @@
 
 ## Artificial Intelligence
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
+* [AI Revolution - YouTube](https://www.youtube.com/@airevolutionx)
 * [Progress in artificial intelligence](https://en.wikipedia.org/wiki/Progress_in_artificial_intelligence)
 * [One Hundread Year Study on Artificial Intelligence](https://ai100.stanford.edu/)
 * [AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia)
