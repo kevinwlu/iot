@@ -184,6 +184,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Don't Be a Drip: A TinyML-Based Solution for Acoustic Pipe Leak Detection](https://www.edgeimpulse.com/blog/dont-be-a-drip-a-tinyml-based-solution-for-acoustic-pipe-leak-detection)
   * [Weighted Sums and Green Thumbs: Analyzing Crops in Remote Greenhouses With ML and IoT](https://www.edgeimpulse.com/blog/weighted-sums-and-green-thumbs-analyzing-crops-in-remote-greenhouses-with-ml-and-iot)
     * [Pothole Detection Using Edgeimpulse's FOMO Algorithm](https://www.hackster.io/shahizat/pothole-detection-using-edgeimpulse-s-fomo-algorithm-1df62d) (Faster Objects, More Objects)
+  * [Our Next Chapter: Edge Impulse is Joining Forces with Qualcomm Technologies!](https://edgeimpulse.com/blog/edge-impulse-qualcomm-acquisition/), March 10, 2025
 * [MLCommons](https://mlcommons.org/) Open ML/AI Engineering Consortium
   * [GitHub repository](https://github.com/mlcommons)
 * [BrainChip](https://en.wikipedia.org/wiki/BrainChip)
