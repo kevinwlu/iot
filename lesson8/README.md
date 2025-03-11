@@ -48,6 +48,7 @@
   * [Guardrails](https://github.com/guardrails-ai/guardrails)
 * [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 * [Sentience](https://en.wikipedia.org/wiki/Sentience)
+* [Center for Advancing Safety of Machine Intelligence](https://casmi.northwestern.edu/) (CASMI)
 * [Philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
 * [Turing Award](https://en.wikipedia.org/wiki/Turing_Award)
 * [Turing test](https://en.wikipedia.org/wiki/Turing_test)
@@ -296,6 +297,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)) Bidirectional encoder representations from transformers
   * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
   * [Google I/O](https://io.google/)
+  * [InstructPipe](https://research.google/pubs/instructpipe-building-visual-programming-pipelines-with-human-instructions/)
   * [LaMDA](https://en.wikipedia.org/wiki/LaMDA)
     * [May 18, 2021](https://blog.google/technology/ai/lamda/)
     * R. Thoppilan et al., [LaMDA: Language Model for Dialogue Applications](https://arxiv.org/abs/2201.08239)
