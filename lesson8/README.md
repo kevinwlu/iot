@@ -330,7 +330,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Meta AI](https://en.wikipedia.org/wiki/Meta_AI)
   * [BlenderBot](https://blenderbot.ai/)
   * [BlenderBot 3](https://parl.ai/projects/bb3/) (BB3)
-  * [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), February 24, 2023
+  * [Llama (language model)](https://en.wikipedia.org/wiki/Llama_(language_model))
+    * [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), February 24, 2023
   * [Ray-Ban Meta Smart Glasses](https://www.meta.com/smart-glasses/)
     * [Ray-Ban](https://en.wikipedia.org/wiki/Ray-Ban)
     * [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
