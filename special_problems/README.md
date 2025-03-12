@@ -73,6 +73,10 @@
   * [*You Cannot Be Serious*](https://en.wikipedia.org/wiki/You_Cannot_Be_Serious) 2002 by [John McEnroe](https://en.wikipedia.org/wiki/John_McEnroe) and [James Kaplan](https://en.wikipedia.org/wiki/James_Kaplan)
 * [Three Minute Thesis](https://en.wikipedia.org/wiki/Three_Minute_Thesis) (3MT) competition
 * [Mobile ALOHA](https://mobile-aloha.github.io/) Learning Bimanual Mobile Manipulation With Low-Cost Whole-Body Teleoperation
+* [FovealNet](https://arxiv.org/abs/2412.10456): Advancing AI-Driven Gaze Tracking Solutions for Optimized Foveated Rendering System Performance in Virtual Reality
+  * [Saccade](https://en.wikipedia.org/wiki/Saccade)
+* [Foveated Instance Segmentation](https://cvpr.thecvf.com/virtual/2025/poster/32485)
+* [Mitigating the Impact of Outlier Channels for Language Model Quantization with Activation Regularization](https://arxiv.org/html/2404.03605v1)
 ## 2025 Spring
 * A Multi-Modal Aerial Object Detection Framework for Precision Agriculture
 * Face Recognition Using a Combination of Real and Synthetic Faces
