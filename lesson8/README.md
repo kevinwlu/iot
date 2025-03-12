@@ -329,6 +329,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Pi](https://pi.ai/)
 * [Leonardo AI](https://leonardo.ai/)
 * [Lila Sciences](https://www.lila.ai/)
+* [Manus](https://manus.im/)
 * [Meta AI](https://en.wikipedia.org/wiki/Meta_AI)
   * [BlenderBot](https://blenderbot.ai/)
   * [BlenderBot 3](https://parl.ai/projects/bb3/) (BB3)
