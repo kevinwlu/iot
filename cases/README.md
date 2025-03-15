@@ -457,6 +457,7 @@
 * [Humanoid](https://en.wikipedia.org/wiki/Humanoid)
   * [Android](https://en.wikipedia.org/wiki/Android_(robot))
   * [Gynoid](https://en.wikipedia.org/wiki/Gynoid)
+* [Humanoid robot](https://en.wikipedia.org/wiki/Humanoid_robot)
 * [ABB](https://en.wikipedia.org/wiki/ABB)
   * [ABB Robotics](https://new.abb.com/products/robotics)
 * [Actroid](https://en.wikipedia.org/wiki/Actroid)
