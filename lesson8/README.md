@@ -317,7 +317,6 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/), July 25, 2024
     * [RT-2: New model translates vision and language into action](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action) (Robotic Transformer 2), July 28, 2023
     * [Gemini (chatbot)](https://en.wikipedia.org/wiki/Gemini_(chatbot))
-    * [Gemini (language model)](https://en.wikipedia.org/wiki/Gemini_(language_model))
     * [Try Deep Research and our new experimental model in Gemini, your AI assistant](https://blog.google/products/gemini/google-gemini-deep-research/), December 11, 2024
     * [Gemini (language model)](https://en.wikipedia.org/wiki/Gemini_(language_model))
   * [Ethical and Social Risks of Harm From Language Models](https://arxiv.org/abs/2112.04359)
