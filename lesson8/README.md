@@ -329,7 +329,6 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Pi](https://pi.ai/)
 * [Leonardo AI](https://leonardo.ai/)
 * [Lila Sciences](https://www.lila.ai/)
-* [Manus](https://manus.im/)
 * [Meta AI](https://en.wikipedia.org/wiki/Meta_AI)
   * [BlenderBot](https://blenderbot.ai/)
   * [BlenderBot 3](https://parl.ai/projects/bb3/) (BB3)
@@ -341,6 +340,9 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Microsoft Copilot](https://en.wikipedia.org/wiki/Microsoft_Copilot)
 * [Mistral AI](https://en.wikipedia.org/wiki/Mistral_AI)
 * [Monica](https://monica.im/en)
+  * [Manus (AI agent)](https://en.wikipedia.org/wiki/Manus_(AI_agent))
+    * [Manus](https://manus.im/)
+  * [Manus (anatomy))](https://en.wikipedia.org/wiki/Manus_(anatomy))
 * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
   * [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
   * [Suchir Balaji](https://en.wikipedia.org/wiki/Suchir_Balaji) 1998&mdash;2024
