@@ -339,10 +339,6 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
 * [Microsoft Copilot](https://en.wikipedia.org/wiki/Microsoft_Copilot)
 * [Mistral AI](https://en.wikipedia.org/wiki/Mistral_AI)
-* [Monica](https://monica.im/en)
-  * [Manus (AI agent)](https://en.wikipedia.org/wiki/Manus_(AI_agent))
-    * [Manus](https://manus.im/)
-  * [Manus (anatomy))](https://en.wikipedia.org/wiki/Manus_(anatomy))
 * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
   * [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
   * [Suchir Balaji](https://en.wikipedia.org/wiki/Suchir_Balaji) 1998&mdash;2024
@@ -394,6 +390,12 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Qwen2](https://github.com/QwenLM/Qwen2)
 * [Baidu](https://en.wikipedia.org/wiki/Baidu)
   * [Ernie Bot](https://en.wikipedia.org/wiki/Ernie_Bot)
+* Butterfly Effect
+  * [Monica](https://monica.im/en)
+  * [Manus (AI agent)](https://en.wikipedia.org/wiki/Manus_(AI_agent))
+    * [Manus](https://manus.im/)
+    * [Everyone in AI is talking about Manus. We put it to the test](https://www.technologyreview.com/2025/03/11/1113133/manus-ai-review/), March 11, 2025
+    * [Manus (anatomy))](https://en.wikipedia.org/wiki/Manus_(anatomy))
 * [DeepSeek](https://en.wikipedia.org/wiki/DeepSeek)
   * [GitHub repositories](https://github.com/deepseek-ai)
   * [Reasoning Model](https://api-docs.deepseek.com/guides/reasoning_model)
