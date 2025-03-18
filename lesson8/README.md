@@ -395,7 +395,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Manus (AI agent)](https://en.wikipedia.org/wiki/Manus_(AI_agent))
     * [Manus](https://manus.im/)
     * [Everyone in AI is talking about Manus. We put it to the test](https://www.technologyreview.com/2025/03/11/1113133/manus-ai-review/), March 11, 2025
-    * [Manus (anatomy))](https://en.wikipedia.org/wiki/Manus_(anatomy))
+    * [Manus (anatomy)](https://en.wikipedia.org/wiki/Manus_(anatomy))
 * [DeepSeek](https://en.wikipedia.org/wiki/DeepSeek)
   * [GitHub repositories](https://github.com/deepseek-ai)
   * [Reasoning Model](https://api-docs.deepseek.com/guides/reasoning_model)
