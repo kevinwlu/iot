@@ -385,6 +385,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Thinking Machines Lab](https://thinkingmachines.ai/) launched on February 18, 2025 by [Mira Murati](https://en.wikipedia.org/wiki/Mira_Murati)
 * [Uber](https://www.uber.com/blog/)
   * [QueryGPT](https://www.uber.com/blog/query-gpt/) Natural Language to SQL Using Generative AI, September 19, 2024
+* [Vicuna LLM](https://en.wikipedia.org/wiki/Vicuna_LLM)
 * [xAI](https://en.wikipedia.org/wiki/XAI_(company))
   * [Grok](https://en.wikipedia.org/wiki/Grok_(chatbot))
 ---
