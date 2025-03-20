@@ -275,6 +275,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Emerging Technologies Initiatives](https://www.comsoc.org/about/committees/emerging-technologies-initiatives) (ETI)
 * [GenAINet](https://genainet.committees.comsoc.org/)
 * [GenAINet: Enabling Wireless Collective Intelligence via Knowledge Transfer and Reasoning](https://arxiv.org/abs/2402.16631)
+* [TelecomGPT](https://arxiv.org/abs/2407.09424): A Framework to Build Telecom-Specfic Large Language Models
 ---
 * [Alegion](https://www.alegion.com/)
   * [Language Model Scaling Laws and GPT-3](https://towardsdatascience.com/language-model-scaling-laws-and-gpt-3-5cdc034e67bb)
@@ -382,7 +383,6 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [SambaNova Systems](https://sambanova.ai/)
   * [Kunle Olukotun](https://en.wikipedia.org/wiki/Kunle_Olukotun) 
 * [Stargate LLC](https://en.wikipedia.org/wiki/Stargate_LLC)
-* [TelecomGPT](https://arxiv.org/abs/2407.09424): A Framework to Build Telecom-Specfic Large Language Models
 * [Thinking Machines Lab](https://thinkingmachines.ai/) launched on February 18, 2025 by [Mira Murati](https://en.wikipedia.org/wiki/Mira_Murati)
 * [Uber](https://www.uber.com/blog/)
   * [QueryGPT](https://www.uber.com/blog/query-gpt/) Natural Language to SQL Using Generative AI, September 19, 2024
