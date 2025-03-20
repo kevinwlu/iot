@@ -298,6 +298,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Devin](https://www.cognition-labs.com/introducing-devin)
 * [Contextual AI](https://contextual.ai/)
   * [Retrieval-augmented generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) (RAG)
+* [The Falcon Series of Open Language Models](https://arxiv.org/abs/2311.16867)
 * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
   * [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)) Bidirectional encoder representations from transformers
