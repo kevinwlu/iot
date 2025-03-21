@@ -36,6 +36,7 @@
   * [Humanity's Last Exam](https://agi.safe.ai/) (HLE)
   * [GPQA](https://github.com/idavidrein/gpqa) (Google-Proof Q&A)
   * [MMLU](https://en.wikipedia.org/wiki/MMLU) (Measuring Massive Multitask Language Understanding)
+* [Blended artificial intelligence](https://en.wikipedia.org/wiki/Blended_artificial_intelligence)
 * [Explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
 * [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
 * [Ethics of artificial intelligence](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
@@ -386,6 +387,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Kunle Olukotun](https://en.wikipedia.org/wiki/Kunle_Olukotun) 
 * [Stargate LLC](https://en.wikipedia.org/wiki/Stargate_LLC)
 * [Thinking Machines Lab](https://thinkingmachines.ai/) launched on February 18, 2025 by [Mira Murati](https://en.wikipedia.org/wiki/Mira_Murati)
+* [Together AI](https://www.together.ai/)
 * [Uber](https://www.uber.com/blog/)
   * [QueryGPT](https://www.uber.com/blog/query-gpt/) Natural Language to SQL Using Generative AI, September 19, 2024
 * [Vicuna LLM](https://en.wikipedia.org/wiki/Vicuna_LLM)
