@@ -336,6 +336,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Pi](https://pi.ai/)
 * [Leonardo AI](https://leonardo.ai/)
 * [Lila Sciences](https://www.lila.ai/)
+* [LMArena](https://blog.lmarena.ai/blog/)
+  * [Chatbot Arena](https://lmarena.ai/)
 * [Meta AI](https://en.wikipedia.org/wiki/Meta_AI)
   * [BlenderBot](https://blenderbot.ai/)
   * [BlenderBot 3](https://parl.ai/projects/bb3/) (BB3)
