@@ -205,6 +205,8 @@
   * [YouTube channel](https://www.youtube.com/qiskit)
 * [IBM Quantum Lab was sunset on May 15, 2024](https://docs.quantum.ibm.com/announcements/product-updates/2024-03-22-announcement-cloud-simulators-and-lab)
   * [Runtime system](https://en.wikipedia.org/wiki/Runtime_system)
+  * [Migrate from qiskit_ibm_provider (IBM Quantum Platform)](https://quantum.cloud.ibm.com/docs/en/migration-guides/qiskit-runtime-from-ibm-provider)
+  * [Migrate from qiskit_ibm_provider (IBM Quantum Platform Classic)](https://docs.quantum.ibm.com/migration-guides/qiskit-runtime-from-ibm-provider)
 ---
 * [Qiskit Terra](https://pypi.org/project/qiskit-terra/) [Deprecated](https://en.wikipedia.org/wiki/Deprecation) 2024-08-15 (qiskit>=0.x,<2 only)
 * [Qiskit Aer](https://github.com/Qiskit/qiskit-aer)
@@ -218,12 +220,6 @@
   * [Ether](https://en.wikipedia.org/wiki/Ether)
   * [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
 
-### On Windows, macOS, or Ubuntu, install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run [Qiskit](https://github.com/Qiskit/qiskit) examples
-```sh
-$ pip3 install qiskit
-$ python3
->>> from qiskit_ibm_provider import IBMProvider
->>> IBMProvider.save_account('MY_API_TOKEN')
->>> exit()
-```
+### On Windows, macOS, or Ubuntu, install Qiskit, and run [Qiskit](https://github.com/Qiskit/qiskit) examples
+
 ### SSH -Y to Raspberry Pi, refer to [RasQberry](https://github.com/JanLahmann/RasQberry) for installing Qiskit on Raspberry Pi OS, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
