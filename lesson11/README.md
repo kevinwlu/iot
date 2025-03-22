@@ -216,7 +216,7 @@
   * [Runtime system](https://en.wikipedia.org/wiki/Runtime_system)
 
 ### On Windows, macOS, or Ubuntu, install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
-* [Qiskit Terra](https://github.com/Qiskit/qiskit-terra)
+* [Qiskit Terra](https://pypi.org/project/qiskit-terra/) , Deprecated 2024-08-15 (qiskit>=0.x,<2 only)
 * [Qiskit Aer](https://github.com/Qiskit/qiskit-aer)
 * [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) [Deprecated](https://en.wikipedia.org/wiki/Deprecation) 2021-04-02
 * [Qiskit Ignis](https://github.com/Qiskit/qiskit-ignis) Deprecated 2021-12-06
@@ -226,15 +226,15 @@ $ python3
 >>> from qiskit_ibm_provider import IBMProvider
 >>> IBMProvider.save_account('MY_API_TOKEN')
 >>> exit()
-$ cd ~/iot/lesson9
+$ cd ~/iot/lesson11
 $ python3 qiskit_terra_example.py
 $ python3 qiskit_aer_example.py
 ```
 ### SSH -Y to Raspberry Pi, refer to [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133) for installing Qiskit on Raspberry Pi OS, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
-* [Qiskit Terra](https://github.com/Qiskit/qiskit-terra)
+* [Qiskit Terra](https://pypi.org/project/qiskit-terra/) Deprecated 2024-08-15 (qiskit>=0.x,<2 only)
 * [Qiskit Aer](https://github.com/Qiskit/qiskit-aer)
-* [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) DEPRECATED 2021-04-02
-* [Qiskit Ignis](https://github.com/Qiskit/qiskit-ignis) DEPRECATED 2021-12-06
+* [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) Deprecated 2021-04-02
+* [Qiskit Ignis](https://github.com/Qiskit/qiskit-ignis) Deprecated 2021-12-06
 ```sh
 $ sudo sed -i 's/CONF_SWAPSIZE=100/CONF_SWAPSIZE=1024/' /etc/dphys-swapfile
 $ sudo /etc/init.d/dphys-swapfile stop
@@ -277,7 +277,7 @@ $ python3
 >>> backend
 <IBMQBackend('ibmq_lima') from IBMQ(hub='ibm-q', group='open', project='main')>
 >>> exit()
-$ cd ~/iot/lesson9
+$ cd ~/iot/lesson11
 $ python3 qiskit_terra_example.py
 $ python3 qiskit_aer_example.py
 $ python3 qiskit_aqua_example.py
