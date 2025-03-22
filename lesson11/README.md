@@ -190,13 +190,6 @@
     * [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 
 ## Lab 11: Qiskit
-* [Classical element](https://en.wikipedia.org/wiki/Classical_element): earth, air, water, and fire
-* [Aether (classical element)](https://en.wikipedia.org/wiki/Aether_(classical_element))
-* [Quintessence](https://en.wikipedia.org/wiki/Quintessence)
-* [Aether theories](https://en.wikipedia.org/wiki/Aether_theories)
-* [Luminiferous aether](https://en.wikipedia.org/wiki/Luminiferous_aether)
-* [Ether](https://en.wikipedia.org/wiki/Ether)
-* [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
 
 ### [IBM Quantum Platform](https://www.ibm.com/quantum)
 * [IBM Quantum Roadmap](https://www.ibm.com/quantum/blog/ibm-quantum-roadmap)
@@ -212,10 +205,18 @@
   * [YouTube channel](https://www.youtube.com/qiskit)
 * [IBM Quantum Lab was sunset on May 15, 2024](https://docs.quantum.ibm.com/announcements/product-updates/2024-03-22-announcement-cloud-simulators-and-lab)
   * [Runtime system](https://en.wikipedia.org/wiki/Runtime_system)
+---
 * [Qiskit Terra](https://pypi.org/project/qiskit-terra/) [Deprecated](https://en.wikipedia.org/wiki/Deprecation) 2024-08-15 (qiskit>=0.x,<2 only)
 * [Qiskit Aer](https://github.com/Qiskit/qiskit-aer)
 * [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) Deprecated 2021-04-02
 * [Qiskit Ignis](https://github.com/Qiskit/qiskit-ignis) Deprecated 2021-12-06
+  * [Classical element](https://en.wikipedia.org/wiki/Classical_element): earth, air, water, and fire
+  * [Aether (classical element)](https://en.wikipedia.org/wiki/Aether_(classical_element))
+  * [Quintessence](https://en.wikipedia.org/wiki/Quintessence)
+  * [Aether theories](https://en.wikipedia.org/wiki/Aether_theories)
+  * [Luminiferous aether](https://en.wikipedia.org/wiki/Luminiferous_aether)
+  * [Ether](https://en.wikipedia.org/wiki/Ether)
+  * [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
 
 ### On Windows, macOS, or Ubuntu, install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run [Qiskit](https://github.com/Qiskit/qiskit) examples
 ```sh
