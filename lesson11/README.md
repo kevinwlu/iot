@@ -198,27 +198,25 @@
 * [Ether](https://en.wikipedia.org/wiki/Ether)
 * [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
 
-### [IBM Quantum Computing](https://www.ibm.com/quantum-computing/)
-* [IBM Quantum Roadmap](https://research.ibm.com/blog/ibm-quantum-roadmap)
+### [IBM Quantum Platform](https://www.ibm.com/quantum)
+* [IBM Quantum Roadmap](https://www.ibm.com/quantum/blog/ibm-quantum-roadmap)
 * [IBM Quantum System One](https://en.wikipedia.org/wiki/IBM_Q_System_One)
 
-### Create an [account](https://quantum-computing.ibm.com/) for the IBM Quantum Composer and the IBM Quantum Lab
-* Previously known collectively as the [IBM Quantum Experience](https://en.wikipedia.org/wiki/IBM_Quantum_Experience)
-* [User Guides](https://quantum-computing.ibm.com/docs/)
-* [Access systems with your account](https://quantum-computing.ibm.com/docs/manage/account/ibmq)
-* [Qiskit installation](https://qiskit.org/documentation/getting_started.html): Windows, macOS, and Ubuntu
-* [Qiskit tutorials](https://qiskit.org/documentation/tutorials.html)
-* IBM Quantum Lab Qiskit Tutorials include a core reference set of [notebooks](https://quantum-computing.ibm.com/jupyter) outlining the features of Qiskit
-* Learn quantum computation using Qiskit:
-  * [Textbook](https://qiskit.org/textbook/preface.html)
+### Create an [IBM Quantum account](https://quantum.ibm.com/)
+* [IBM Quantum Platform](https://en.wikipedia.org/wiki/IBM_Quantum_Platform)
+* [Documentation](https://docs.quantum.ibm.com/)
+* [Install Qiskit](https://docs.quantum.ibm.com/guides/install-qiskit): Windows, macOS, and Ubuntu
+* [Map the problem to quantum circuits and operator](https://docs.quantum.ibm.com/guides/map-problem-to-circuits)
+* [Explore newly recommended notebook environments for Qiskit](https://www.ibm.com/quantum/blog/qiskit-notebook-environments)
+* [IBM Quantum Learning](https://learning.quantum.ibm.com/)
   * [YouTube channel](https://www.youtube.com/qiskit)
-* [Qiskit Runtime](https://quantum-computing.ibm.com/lab/docs/iql/runtime/)
+* [IBM Quantum Lab was sunset on May 15, 2024](https://docs.quantum.ibm.com/announcements/product-updates/2024-03-22-announcement-cloud-simulators-and-lab)
   * [Runtime system](https://en.wikipedia.org/wiki/Runtime_system)
 * [Qiskit Terra](https://pypi.org/project/qiskit-terra/) [Deprecated](https://en.wikipedia.org/wiki/Deprecation) 2024-08-15 (qiskit>=0.x,<2 only)
 * [Qiskit Aer](https://github.com/Qiskit/qiskit-aer)
 * [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) Deprecated 2021-04-02
 * [Qiskit Ignis](https://github.com/Qiskit/qiskit-ignis) Deprecated 2021-12-06
-* 
+
 ### On Windows, macOS, or Ubuntu, install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run [Qiskit](https://github.com/Qiskit/qiskit) examples
 ```sh
 $ pip3 install qiskit
