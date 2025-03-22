@@ -214,72 +214,17 @@
   * [YouTube channel](https://www.youtube.com/qiskit)
 * [Qiskit Runtime](https://quantum-computing.ibm.com/lab/docs/iql/runtime/)
   * [Runtime system](https://en.wikipedia.org/wiki/Runtime_system)
-
-### On Windows, macOS, or Ubuntu, install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
 * [Qiskit Terra](https://pypi.org/project/qiskit-terra/) [Deprecated](https://en.wikipedia.org/wiki/Deprecation) 2024-08-15 (qiskit>=0.x,<2 only)
 * [Qiskit Aer](https://github.com/Qiskit/qiskit-aer)
 * [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) Deprecated 2021-04-02
 * [Qiskit Ignis](https://github.com/Qiskit/qiskit-ignis) Deprecated 2021-12-06
+* 
+### On Windows, macOS, or Ubuntu, install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run [Qiskit](https://github.com/Qiskit/qiskit) examples
 ```sh
-$ pip3 install qiskit[visualization] qiskit-aer qiskit_ibm_provider
+$ pip3 install qiskit
 $ python3
 >>> from qiskit_ibm_provider import IBMProvider
 >>> IBMProvider.save_account('MY_API_TOKEN')
 >>> exit()
-$ cd ~/iot/lesson11
-$ python3 qiskit_terra_example.py
-$ python3 qiskit_aer_example.py
 ```
-### SSH -Y to Raspberry Pi, refer to [RasQberry](https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133) for installing Qiskit on Raspberry Pi OS, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
-* [Qiskit Terra](https://pypi.org/project/qiskit-terra/) Deprecated 2024-08-15 (qiskit>=0.x,<2 only)
-* [Qiskit Aer](https://github.com/Qiskit/qiskit-aer)
-* [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) Deprecated 2021-04-02
-* [Qiskit Ignis](https://github.com/Qiskit/qiskit-ignis) Deprecated 2021-12-06
-```sh
-$ sudo sed -i 's/CONF_SWAPSIZE=100/CONF_SWAPSIZE=1024/' /etc/dphys-swapfile
-$ sudo /etc/init.d/dphys-swapfile stop
-$ sudo /etc/init.d/dphys-swapfile start
-$ pip3 install setuptools-rust
-$ curl -o get_rustup.sh -s https://sh.rustup.rs
-$ sh ./get_rustup.sh -y
-$ source ~/.cargo/env
-$ pip3 install --prefer-binary retworkx
-$ sudo apt -y install cmake libatlas-base-dev git
-$ git clone https://github.com/sunqm/libcint.git
-$ mkdir -p libcint/build && cd libcint/build
-$ cmake -DCMAKE_INSTALL_PREFIX:PATH=/usr/local/ ..
-$ sudo make install
-$ cd
-$ sudo pip3 install --prefer-binary pyscf cython
-$ sudo pip3 install --prefer-binary 'qiskit[visualization]==0.23.1'
-$ python3
->>> from qiskit import IBMQ
->>> IBMQ.save_account('MY_API_TOKEN')
->>> IBMQ.load_account()
-<AccountProvider for IBMQ(hub='ibm-q', group='open', project='main')>
->>> IBMQ.providers()
-[<AccountProvider for IBMQ(hub='ibm-q', group='open', project='main')>]
->>> provider = IBMQ.get_provider(hub='ibm-q')
->>> provider.backends()
-[<IBMQSimulator('ibmq_qasm_simulator') from IBMQ(hub='ibm-q', group='open', project='main')>, 
-<IBMQBackend('ibmq_armonk') from IBMQ(hub='ibm-q', group='open', project='main')>, 
-<IBMQBackend('ibmq_santiago') from IBMQ(hub='ibm-q', group='open', project='main')>, 
-<IBMQBackend('ibmq_bogota') from IBMQ(hub='ibm-q', group='open', project='main')>, 
-<IBMQBackend('ibmq_lima') from IBMQ(hub='ibm-q', group='open', project='main')>, 
-<IBMQBackend('ibmq_belem') from IBMQ(hub='ibm-q', group='open', project='main')>, 
-<IBMQBackend('ibmq_quito') from IBMQ(hub='ibm-q', group='open', project='main')>, 
-<IBMQSimulator('simulator_statevector') from IBMQ(hub='ibm-q', group='open', project='main')>, 
-<IBMQSimulator('simulator_mps') from IBMQ(hub='ibm-q', group='open', project='main')>, 
-<IBMQSimulator('simulator_extended_stabilizer') from IBMQ(hub='ibm-q', group='open', project='main')>, 
-<IBMQSimulator('simulator_stabilizer') from IBMQ(hub='ibm-q', group='open', project='main')>, 
-<IBMQBackend('ibmq_manila') from IBMQ(hub='ibm-q', group='open', project='main')>]
->>> backend = provider.get_backend('ibmq_lima')
->>> backend
-<IBMQBackend('ibmq_lima') from IBMQ(hub='ibm-q', group='open', project='main')>
->>> exit()
-$ cd ~/iot/lesson11
-$ python3 qiskit_terra_example.py
-$ python3 qiskit_aer_example.py
-$ python3 qiskit_aqua_example.py
-$ python3 qiskit_ignis_example.py
-```
+### SSH -Y to Raspberry Pi, refer to [RasQberry](https://github.com/JanLahmann/RasQberry) for installing Qiskit on Raspberry Pi OS, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
