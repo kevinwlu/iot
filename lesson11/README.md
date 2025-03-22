@@ -216,9 +216,9 @@
   * [Runtime system](https://en.wikipedia.org/wiki/Runtime_system)
 
 ### On Windows, macOS, or Ubuntu, install Qiskit, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
-* [Qiskit Terra](https://pypi.org/project/qiskit-terra/) , Deprecated 2024-08-15 (qiskit>=0.x,<2 only)
+* [Qiskit Terra](https://pypi.org/project/qiskit-terra/) [Deprecated](https://en.wikipedia.org/wiki/Deprecation) 2024-08-15 (qiskit>=0.x,<2 only)
 * [Qiskit Aer](https://github.com/Qiskit/qiskit-aer)
-* [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) [Deprecated](https://en.wikipedia.org/wiki/Deprecation) 2021-04-02
+* [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua) Deprecated 2021-04-02
 * [Qiskit Ignis](https://github.com/Qiskit/qiskit-ignis) Deprecated 2021-12-06
 ```sh
 $ pip3 install qiskit[visualization] qiskit-aer qiskit_ibm_provider
