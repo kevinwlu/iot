@@ -195,7 +195,7 @@
 * [IBM Quantum Roadmap](https://www.ibm.com/quantum/blog/ibm-quantum-roadmap)
 * [IBM Quantum System One](https://en.wikipedia.org/wiki/IBM_Q_System_One)
 
-### Create an [IBM Quantum account](https://quantum.ibm.com/)
+### Create an [IBM Quantum account](https://quantum.ibm.com/) and copy the API token (i.e., Qiskit Runtime service instance initialization code)
 * [IBM Quantum Platform](https://en.wikipedia.org/wiki/IBM_Quantum_Platform)
 * [Documentation](https://docs.quantum.ibm.com/)
 * [Install Qiskit](https://docs.quantum.ibm.com/guides/install-qiskit): Windows, macOS, and Ubuntu
@@ -210,7 +210,7 @@
 
 ### On Windows, macOS, or Ubuntu, install Qiskit, and run [Qiskit](https://github.com/Qiskit/qiskit) examples
 
-### SSH -Y to Raspberry Pi, refer to [RasQberry](https://github.com/JanLahmann/RasQberry) for installing Qiskit on Raspberry Pi OS, copy and save API token from the [account](https://quantum-computing.ibm.com/account), and run Qiskit examples
+### SSH -Y to Raspberry Pi, refer to [RasQberry](https://github.com/JanLahmann/RasQberry) for installing Qiskit on Raspberry Pi OS, and run Qiskit examples
 ---
 * [Qiskit Terra](https://pypi.org/project/qiskit-terra/) [Deprecated](https://en.wikipedia.org/wiki/Deprecation) 2024-08-15 (qiskit>=0.x,<2 only)
 * [Qiskit Aer](https://github.com/Qiskit/qiskit-aer)
