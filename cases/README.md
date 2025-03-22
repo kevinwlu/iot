@@ -514,6 +514,7 @@
   * [Honeybee Robotics](https://en.wikipedia.org/wiki/Honeybee_Robotics)
   * [VIPER (rover)](https://en.wikipedia.org/wiki/VIPER_(rover))
 * [Firefly Aerospace](https://en.wikipedia.org/wiki/Firefly_Aerospace)
+  * [Firefly Aerospace Blue Ghost](https://en.wikipedia.org/wiki/Firefly_Aerospace_Blue_Ghost)
 * [GITAI](https://gitai.tech/)
 * [Ingenuity (helicopter)](https://en.wikipedia.org/wiki/Ingenuity_(helicopter))
 * [Interstellar Technologies](https://en.wikipedia.org/wiki/Interstellar_Technologies)
