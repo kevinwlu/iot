@@ -61,6 +61,7 @@
 * [Netrin](https://en.wikipedia.org/wiki/Netrin)
   * [Netrin-1](https://en.wikipedia.org/wiki/Netrin_1)
 * [Occupational safety and health](https://en.wikipedia.org/wiki/Occupational_safety_and_health) (OSH)
+* [Oxygen saturation (medicine)](https://en.wikipedia.org/wiki/Oxygen_saturation_(medicine))
 * [Percutaneous aortic valve replacement](https://en.wikipedia.org/wiki/Percutaneous_aortic_valve_replacement) (PAVR)
 * [Photoplethysmogram](https://en.wikipedia.org/wiki/Photoplethysmogram) (PPG)
 * [Prebiotic_(nutrition)](https://en.wikipedia.org/wiki/Prebiotic_(nutrition))
