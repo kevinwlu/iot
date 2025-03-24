@@ -5,6 +5,7 @@
 * [JigSpace](https://www.youtube.com/@JigSpace)
 ---
 * [List of home automation software](https://en.wikipedia.org/wiki/List_of_home_automation_software)
+* [Aira](https://aira.io/) 
 * [Deepen](https://thedeepen.app/) AI Therapy App
 * [Dolby On](https://www.dolby.com/apps/dolby-on/)
 * [Home Assistant](https://en.wikipedia.org/wiki/Home_Assistant)
