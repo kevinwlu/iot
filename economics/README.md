@@ -19,6 +19,9 @@
   * [Perpetuity](https://en.wikipedia.org/wiki/Perpetuity)
 * [Attention economy](https://en.wikipedia.org/wiki/Attention_economy)
 * [Balance sheet](https://en.wikipedia.org/wiki/Balance_sheet)
+* [Bancor](https://en.wikipedia.org/wiki/Bancor)
+  * [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) 1883&mdash;1946
+  * [E. F. Schumacher](https://en.wikipedia.org/wiki/E._F._Schumacher) 1911&mdash;1977
 * [Bankruptcy](https://en.wikipedia.org/wiki/Bankruptcy)
   * [Chapter 11, Title 11, United States Code](https://en.wikipedia.org/wiki/Chapter_11,_Title_11,_United_States_Code)
 * [Bellwether](https://en.wikipedia.org/wiki/Bellwether)
