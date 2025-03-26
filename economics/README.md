@@ -201,6 +201,10 @@
 * [Power law](https://en.wikipedia.org/wiki/Power_law)
 * [Tocqueville effect](https://en.wikipedia.org/wiki/Tocqueville_effect)
   * [Alexis de Tocqueville](https://en.wikipedia.org/wiki/Alexis_de_Tocqueville) 1805&mdash;1859
+* [Triffin dilemma](https://en.wikipedia.org/wiki/Triffin_dilemma)
+  * [Robert Triffin](https://en.wikipedia.org/wiki/Robert_Triffin) 1911&mdash;1993
+  * [Bretton Woods Conference](https://en.wikipedia.org/wiki/Bretton_Woods_Conference) from July 1 to 22, 1944
+  * [Bretton Woods system](https://en.wikipedia.org/wiki/Bretton_Woods_system)
 ---
 * [*The Black Swan: The Impact of the Highly Improbable*](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable) 2007 by [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
   * [Black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory)
