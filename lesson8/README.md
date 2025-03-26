@@ -227,6 +227,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [MindSpore](https://github.com/mindspore-ai/mindspore) deep learning training/inference framework
 
 ## Generative AI
+* [The Effects of Generative AI on High-Skilled Work: Evidence From Three Field Experiments With Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
 * [Transformer](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture))
   * ["Attention Is All You Need"](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need) 2017
   * [Ashish Vaswani](https://en.wikipedia.org/wiki/Ashish_Vaswani): [Essential AI](https://essential.ai/)
@@ -437,7 +438,6 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Memorable Ad Maker](https://admaker.memorable.io/)
 * [Synthesys](https://synthesys.io/)
   * [Synthesys X](https://synthesys.io/x/)
-
 ---
 * [Movidius Neural Compute Stick](https://github.com/movidius/ncsdk.git) (NCS)
   * [Intel NCS2](https://software.intel.com/content/www/us/en/develop/hardware/neural-compute-stick.html)
