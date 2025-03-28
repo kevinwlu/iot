@@ -3,6 +3,7 @@
 * [DragonBoard 410c](https://developer.qualcomm.com/hardware/dragonboard-410c)
 * [Google Coral Dev Board](https://coral.ai/products/dev-board/)
   * [Getting started with the Dev Board](https://coral.ai/docs/dev-board/get-started/)
+  * [Data sheet](https://coral.ai/docs/dev-board/datasheet/)
   * [Getting started with Mendel Linux](https://coral.googlesource.com/docs/+/refs/heads/master/GettingStarted.md)
   * [USB On-The-Go](https://en.wikipedia.org/wiki/USB_On-The-Go) (OTG)
   * [TensorFlow Lite](https://www.tensorflow.org/lite)
