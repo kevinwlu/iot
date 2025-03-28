@@ -718,6 +718,7 @@
 * [Wayve](https://wayve.ai/)
 * [Wejo](https://en.wikipedia.org/wiki/Wejo)
 * [WeRide](https://en.wikipedia.org/wiki/WeRide)
+* [Windrose Technology](https://windrose.tech/)
 * [Winnebago Industries](https://en.wikipedia.org/wiki/Winnebago_Industries)
 * [Woven by Toyota, Inc.](https://en.wikipedia.org/wiki/Woven_by_Toyota,_Inc.)
 * [ZF Friedrichshafen](https://en.wikipedia.org/wiki/ZF_Friedrichshafen)
