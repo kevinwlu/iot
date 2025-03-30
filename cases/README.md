@@ -493,6 +493,7 @@
 * [Optimus (robot)](https://en.wikipedia.org/wiki/Optimus_(robot))
 * [Pliant Energy Systems](https://www.pliantenergy.com/)
 * [Richtech Robotics](https://www.richtechrobotics.com/)
+* [Robotics and AI Institute](https://rai-inst.com/) (RAI)
 * [Shift Robotics](https://shiftrobotics.io/)
 * [SOMATIC](https://getsomatic.com/)
 * [UBtech Robotics](https://en.wikipedia.org/wiki/UBtech_Robotics)
