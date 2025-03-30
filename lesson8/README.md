@@ -350,6 +350,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
 * [Microsoft Copilot](https://en.wikipedia.org/wiki/Microsoft_Copilot)
 * [Mistral AI](https://en.wikipedia.org/wiki/Mistral_AI)
+  * [Mistral (wind)](https://en.wikipedia.org/wiki/Mistral_(wind))
 * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
   * [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
   * [Suchir Balaji](https://en.wikipedia.org/wiki/Suchir_Balaji) 1998&mdash;2024
