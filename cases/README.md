@@ -475,6 +475,7 @@
 * [DEEP Robotics](https://humanoids.wiki/w/Deep_Robotics)
   * [Wukong-IV](https://humanoids.wiki/w/Wukong-IV)
   * [Website](https://www.deeprobotics.cn/en)
+* [Dobot](https://en.wikipedia.org/wiki/Dobot)
 * [Elephant Robotics](https://www.elephantrobotics.com/en/)
   * [GitHub](https://github.com/elephantrobotics)
 * [ElliQ](https://elliq.com/)
