@@ -348,6 +348,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Ray-Ban Meta Smart Glasses](https://www.meta.com/smart-glasses/)
     * [Ray-Ban](https://en.wikipedia.org/wiki/Ray-Ban)
     * [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
+  * [Project Aria](https://www.projectaria.com/)
 * [Microsoft Copilot](https://en.wikipedia.org/wiki/Microsoft_Copilot)
 * [Mistral AI](https://en.wikipedia.org/wiki/Mistral_AI)
   * [Mistral (wind)](https://en.wikipedia.org/wiki/Mistral_(wind))
