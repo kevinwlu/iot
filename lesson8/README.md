@@ -516,9 +516,11 @@ $ ssh -Y pi@xxx.xxx.xxx.xxx
 $ ssh -Y pi@xxx.xxx.xxx.xxx
 ```
 ### [X applications](https://packages.debian.org/stretch/x11-apps)
+* [Icosahedron](https://en.wikipedia.org/wiki/Icosahedron)
 ```sh
 $ sudo apt update
 $ sudo apt install x11-apps
+$ cal
 $ ico
 $ oclock
 $ xcalc
