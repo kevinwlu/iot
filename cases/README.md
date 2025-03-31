@@ -481,7 +481,7 @@
 * [ElliQ](https://elliq.com/)
 * [FANUC](https://en.wikipedia.org/wiki/FANUC) (Fuji Automatic Numerical Control)
 * [Figure AI](https://en.wikipedia.org/wiki/Figure_AI)
-* [Fourier Intelligence](https://en.wikipedia.org/wiki/Fourier_Intelligence)
+* [Fourier (company)](https://en.wikipedia.org/wiki/Fourier_(company))
 * [Hanson Robotics](https://en.wikipedia.org/wiki/Hanson_Robotics)
 * [Impossible Metals](https://impossiblemetals.com/)
 * [Intrinsic](https://intrinsic.ai/)
