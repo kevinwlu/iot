@@ -515,7 +515,7 @@ $ ssh -Y pi@xxx.xxx.xxx.xxx
 ```sh
 $ ssh -Y pi@xxx.xxx.xxx.xxx
 ```
-### [X applications](https://packages.debian.org/stretch/x11-apps)
+### [X applications](https://packages.debian.org/sid/x11-apps)
 * [Icosahedron](https://en.wikipedia.org/wiki/Icosahedron)
 ```sh
 $ sudo apt update
