@@ -238,7 +238,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Aidan N. Gomez](https://en.wikipedia.org/wiki/Aidan_Gomez): [Cohere](https://en.wikipedia.org/wiki/Cohere)
   * [Łukasz Kaiser](https://scholar.google.com/citations?user=JWmiQR0AAAAJ&hl=en): [OpenAI](https://en.wikipedia.org/wiki/OpenAI) and [CNRS](https://en.wikipedia.org/wiki/French_National_Centre_for_Scientific_Research)
   * [Illia Polosukhin](https://scholar.google.com/citations?user=3SyxFIAAAAAJ&hl=en): [NEAR](https://near.org/) and [NEAR Protocol Developer Guide](https://github.com/near)
-* [Belief State Transformer](https://arxiv.org/abs/2410.23506)
+* [Belief State Transformer](https://arxiv.org/abs/2410.23506) (BST)
 * [Generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
 * [Speech synthesis](https://en.wikipedia.org/wiki/Speech_synthesis)
   * [Speech Synthesis Markup Language](https://en.wikipedia.org/wiki/Speech_Synthesis_Markup_Language) (SSML)
