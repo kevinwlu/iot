@@ -41,6 +41,7 @@
   * [Impedance cardiography](https://en.wikipedia.org/wiki/Impedance_cardiography) (ICG)
   * [Seismocardiography](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8189030/) (SCG)
 * [Electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography) (EEG)
+* [Electromyography](https://en.wikipedia.org/wiki/Electromyography) (EMG)
 * [Ex vivo](https://en.wikipedia.org/wiki/Ex_vivo)
 * [In vivo](https://en.wikipedia.org/wiki/In_vivo)
 * [In vitro](https://en.wikipedia.org/wiki/In_vitro)
