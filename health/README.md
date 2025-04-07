@@ -93,7 +93,10 @@
 * [COVID-19](https://en.wikipedia.org/wiki/COVID-19)
 * [Epstein–Barr virus](https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus)
 ---
+* [Active noise control](https://en.wikipedia.org/wiki/Active_noise_control) (ANC)
+* [Auditory processing disorder](https://en.wikipedia.org/wiki/Auditory_processing_disorder) (APD)
 * [Cocktail party effect](https://en.wikipedia.org/wiki/Cocktail_party_effect)
+* [Selective auditory attention](https://en.wikipedia.org/wiki/Selective_auditory_attention)
 * [Stethoscope](Stethoscope)
 * [Tinnitus](https://en.wikipedia.org/wiki/Tinnitus)
 ---
