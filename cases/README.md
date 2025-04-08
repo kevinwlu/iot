@@ -153,6 +153,7 @@
 * [Anovion](https://www.anoviontech.com/)
 * [Archimedes Windmill](https://thearchimedes.com/) (AWM)
 * [Ascend Elements](https://ascendelements.com/) electric-vehicle battery recycling company
+* [Astrodyne TDI](https://www.astrodynetdi.com/)
 * [Autel Energy](https://autelenergy.us/)
 * [Battery management system](https://en.wikipedia.org/wiki/Battery_management_system) (BMS)
 * [Bel](https://www.belfuse.com/)
@@ -244,6 +245,7 @@
 * [OXCCU](https://www.oxccu.com/)
 * [Plug Power](https://en.wikipedia.org/wiki/Plug_Power)
 * [Pumped-storage hydroelectricity](https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity) (PSH)
+* [Pure Power Engineering](https://www.purepower.com/)
 * [Raven SR](https://ravensr.com/)
 * [Redwood Materials](https://en.wikipedia.org/wiki/Redwood_Materials,_Inc.)
 * [Réseau de Transport d'Électricité](https://en.wikipedia.org/wiki/R%C3%A9seau_de_Transport_d%27%C3%89lectricit%C3%A9) (RTE)
