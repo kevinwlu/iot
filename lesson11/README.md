@@ -106,9 +106,10 @@
     * [Willow](https://blog.google/technology/research/google-willow-quantum-chip/), December 9, 2024
     * [Willow processor](https://en.wikipedia.org/wiki/Willow_processor) a 105-qubit superconducting quantum computing processor
   * [IBM Quantum](https://www.ibm.com/quantum)
-    * [IBM Quantum Composer and IBM Quantum Lab](https://quantum-computing.ibm.com/)
+    * [IBM Quantum Composer and IBM Quantum Lab](https://quantum.ibm.com/)
     * [Rolf Landauer](https://en.wikipedia.org/wiki/Rolf_Landauer) 1927&mdash;1999
     * [Charles H. Bennett](https://en.wikipedia.org/wiki/Charles_H._Bennett_(physicist)) (physicist)
+    * [IBM Launches Its Most Advanced Quantum Computers, Fueling New Scientific Value and Progress towards Quantum Advantage](https://newsroom.ibm.com/2024-11-13-ibm-launches-its-most-advanced-quantum-computers,-fueling-new-scientific-value-and-progress-towards-quantum-advantage), November 13, 2024
   * [Intel Labs](https://en.wikipedia.org/wiki/Intel_Research_Lablets)
     * [Tunnel Falls Quantum Research Chip](https://www.intel.com/content/www/us/en/research/quantum-computing.html)
   * [IonQ](https://en.wikipedia.org/wiki/IonQ)
