@@ -35,6 +35,9 @@
   * [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens) 1629&mdash;1695
   * [Augustin-Jean Fresnel](https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel) 1788&mdash;1827
 * [Quantum Computing Is the Future, and Schools Need to Catch Up](https://www.scientificamerican.com/article/quantum-computing-is-the-future-and-schools-need-to-catch-up/)
+* [World Quantum Day](https://en.wikipedia.org/wiki/World_Quantum_Day) on April 14
+  * [Max Planck](https://en.wikipedia.org/wiki/Max_Planck) 1858&mdash;1947
+  * [Planck constant](https://en.wikipedia.org/wiki/Planck_constant)
 ### Quantum Mechanics
 * [Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics)
 * [Quantum superposition](https://en.wikipedia.org/wiki/Quantum_superposition)
