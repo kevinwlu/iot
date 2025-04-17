@@ -370,6 +370,10 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [GPT-4](https://en.wikipedia.org/wiki/GPT-4)
   * [GPT-4o](https://en.wikipedia.org/wiki/GPT-4o)
   * [GPT-4.5](https://en.wikipedia.org/wiki/GPT-4.5), February 27, 2025
+  * [Reasoning models](https://platform.openai.com/docs/guides/reasoning)
+    * [Reasoning best practices](https://platform.openai.com/docs/guides/reasoning-best-practices)
+    * [Thinking with images](https://openai.com/index/thinking-with-images/) April 16, 2025
+    * [Learning to reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) September 12, 2024
   * [Whisper (speech recognition system)](https://en.wikipedia.org/wiki/Whisper_(speech_recognition_system))
     * ["Introducing Whisper"](https://openai.com/research/whisper), September 21, 2022
   * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
