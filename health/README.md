@@ -58,6 +58,7 @@
 * [Holter monitor](https://en.wikipedia.org/wiki/Holter_monitor)
 * [Independent component analysis](https://en.wikipedia.org/wiki/Independent_component_analysis) (ICA)
 * [Institutional review board](https://en.wikipedia.org/wiki/Institutional_review_board) (IRB)
+* [Ionizing radiation](https://en.wikipedia.org/wiki/Ionizing_radiation)
 * [Mackey–Glass equations](https://en.wikipedia.org/wiki/Mackey%E2%80%93Glass_equations)
 * [Near-infrared spectroscopy](https://en.wikipedia.org/wiki/Near-infrared_spectroscopy) (NIRS)
 * [Netrin](https://en.wikipedia.org/wiki/Netrin)
