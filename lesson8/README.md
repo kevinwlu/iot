@@ -295,11 +295,15 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Claude 2](https://www.anthropic.com/news/claude-2), July 11, 2023
   * [Claude 3](https://www.anthropic.com/news/claude-3-family), March 4, 2024
   * [Claude 3.5](https://www.anthropic.com/news/claude-3-5-sonnet), June 20, 2024
+  * [Decomposing Language Models Into Understandable Components](https://www.anthropic.com/news/decomposing-language-models-into-understandable-components), October 5, 2023
+  * [Exploring model welfare](https://www.anthropic.com/research/exploring-model-welfare), April 24, 2025
 * [Apple Intelligence](https://en.wikipedia.org/wiki/Apple_Intelligence)
 * [Cognition Labs](https://www.cognition-labs.com/)
   * [Devin](https://www.cognition-labs.com/introducing-devin)
 * [Contextual AI](https://contextual.ai/)
   * [Retrieval-augmented generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) (RAG)
+* [Eleos AI Research](https://eleosai.org/)
+  * [Taking AI Welfare Seriously](https://arxiv.org/abs/2411.00986), November 4, 2024
 * [The Falcon Series of Open Language Models](https://arxiv.org/abs/2311.16867)
 * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
