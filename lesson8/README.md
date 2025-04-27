@@ -195,6 +195,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [SynapseML](https://github.com/microsoft/SynapseML)
 * [MLOps](https://en.wikipedia.org/wiki/MLOps)
   * [Data Version Control (software)](https://en.wikipedia.org/wiki/Data_Version_Control_(software)) (DVC)
+* [Scale AI](https://en.wikipedia.org/wiki/Scale_AI)
 
 ## Deep Learning
 * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
