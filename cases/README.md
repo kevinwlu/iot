@@ -706,6 +706,7 @@
 * [Spin](https://en.wikipedia.org/wiki/Spin_(company))
   * [A Pi-culiar Discovery](https://www.hackster.io/news/a-pi-culiar-discovery-322fce581415)
 * [Stack AV](https://stackav.com/)
+* [Studebaker](https://en.wikipedia.org/wiki/Studebaker) founded in February 1852 and defunct in February 1968
 * [Terra EV](https://www.terra-ev.com/)
 * [Tesla Autopilot](https://en.wikipedia.org/wiki/Tesla_Autopilot)
 * [Tevva](https://www.tevva.com/en) merged with [ElectraMeccanica](https://www.emvauto.com/)
