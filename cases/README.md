@@ -331,7 +331,7 @@
     * [Per- and polyfluoroalkyl substances](https://en.wikipedia.org/wiki/Per-_and_polyfluoroalkyl_substances) (PFAS)
     * [Perfluorooctanoic acid](https://en.wikipedia.org/wiki/Perfluorooctanoic_acid) (PFOA)
     * [Perfluorooctanesulfonic acid](https://en.wikipedia.org/wiki/Perfluorooctanesulfonic_acid) (PFOS)
-  * [Phthalate](https://en.wikipedia.org/wiki/Phthalate)
+  * [Phthalates](https://en.wikipedia.org/wiki/Phthalates)
   * [Polychlorinated biphenyl](https://en.wikipedia.org/wiki/Polychlorinated_biphenyl) (PCB)
   * [Phosgene](https://en.wikipedia.org/wiki/Phosgene)
   * [Tetraethyllead](https://en.wikipedia.org/wiki/Tetraethyllead) (TEL)
