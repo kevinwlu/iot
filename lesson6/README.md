@@ -41,6 +41,7 @@
 * [Wiring](https://en.wikipedia.org/wiki/Wiring_(development_platform))
 * [C](https://en.wikipedia.org/wiki/C_(programming_language))
   * [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) 1941&mdash;2011
+  * [Dennis Ritchie Thesis](https://dmrthesis.net/)
 * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
   * [Bjarne Stroustrup](https://en.wikipedia.org/wiki/Bjarne_Stroustrup)
   * [CMake](https://en.wikipedia.org/wiki/CMake) creates output that can be used by buid systems like [Make](https://en.wikipedia.org/wiki/Make_(software))
