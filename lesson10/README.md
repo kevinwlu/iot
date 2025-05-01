@@ -65,6 +65,7 @@
 * [Solana (blockchain platform)](https://en.wikipedia.org/wiki/Solana_(blockchain_platform))
 * [Terra (blockchain)](https://en.wikipedia.org/wiki/Terra_(blockchain))
 * [Terra (currency)](https://en.wikipedia.org/wiki/Terra_(currency))
+* [Tether (cryptocurrency)](https://en.wikipedia.org/wiki/Tether_(cryptocurrency))
 * [Uniswap](https://en.wikipedia.org/wiki/Uniswap)
 * [Worldcoin](https://en.wikipedia.org/wiki/Worldcoin)
 * [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
