@@ -18,6 +18,8 @@
 * [Continuous noninvasive arterial pressure](https://en.wikipedia.org/wiki/Continuous_noninvasive_arterial_pressure) (CNAP)
 * [Data acquisition](https://en.wikipedia.org/wiki/Data_acquisition) (DAQ)
 * [Diabetes](https://en.wikipedia.org/wiki/Diabetes)
+  * [Type 1 diabetes](https://en.wikipedia.org/wiki/Type_1_diabetes) (T1D)
+  * [Type 2 diabetes](https://en.wikipedia.org/wiki/Type_2_diabetes) (T2D)
   * [Blood sugar level](https://en.wikipedia.org/wiki/Blood_sugar_level)
   * [Carbohydrate](https://en.wikipedia.org/wiki/Carbohydrate)
     * [Amylose](https://en.wikipedia.org/wiki/Amylose)
