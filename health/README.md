@@ -35,6 +35,7 @@
     * [Starch](https://en.wikipedia.org/wiki/Starch)
   * [Insulin](https://en.wikipedia.org/wiki/Insulin)
   * [Insulin resistance](https://en.wikipedia.org/wiki/Insulin_resistance)
+  * [Metformin](https://en.wikipedia.org/wiki/Metformin)
   * [Ketone](https://en.wikipedia.org/wiki/Ketone)
   * [List of diets](https://en.wikipedia.org/wiki/List_of_diets)
 * [Electrocardiography](https://en.wikipedia.org/wiki/Electrocardiography) (ECG or EKG)
