@@ -67,7 +67,7 @@
 * [Terra (currency)](https://en.wikipedia.org/wiki/Terra_(currency))
 * [Tether (cryptocurrency)](https://en.wikipedia.org/wiki/Tether_(cryptocurrency))
 * [Uniswap](https://en.wikipedia.org/wiki/Uniswap)
-* [Worldcoin](https://en.wikipedia.org/wiki/Worldcoin)
+* [World (blockchain)](https://en.wikipedia.org/wiki/World_(blockchain))
 * [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
 * [CBDC](https://en.wikipedia.org/wiki/Central_bank_digital_currency) (Central bank digital currency)
   * [The competing priorities facing U.S. crypto regulations](https://www.brookings.edu/techstream/the-competing-priorities-facing-u-s-crypto-regulations-bitcoin-ethereum/) by [Prof. Josephine Wolff](https://engineering.tufts.edu/cs/people/faculty/josephine-wolff)
