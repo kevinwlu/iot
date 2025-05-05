@@ -86,6 +86,11 @@
   * [Noncontact monitoring of respiration by dynamic air-pressure sensor](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4581013/)
   * [Respiration rate and volume measurements wsing Wearable strain sensors](https://www.nature.com/articles/s41746-019-0083-3)
   * [Respiratory rate assessments using a dual-accelerometer device](https://www.sciencedirect.com/science/article/abs/pii/S1569904813003698)
+* [List of terms of lung size and activity](https://en.wikipedia.org/wiki/List_of_terms_of_lung_size_and_activity)
+  * [Bradypnea](https://en.wikipedia.org/wiki/Bradypnea)
+  * [Eupnea](https://en.wikipedia.org/wiki/Eupnea)
+  * [Kussmaul breathing](https://en.wikipedia.org/wiki/Kussmaul_breathing)
+    * [Adolf Kussmaul](https://en.wikipedia.org/wiki/Adolf_Kussmaul) 1822&mdash;1902
 * [Seasonal affective disorder](https://en.wikipedia.org/wiki/Seasonal_affective_disorder) (SAD)
   * ["Seasonal Affective Disorder: An Overview of Assessment and Treatment Approaches"](https://pubmed.ncbi.nlm.nih.gov/26688752/) by [Dr. Sherri Melrose](https://www.athabascau.ca/health-disciplines/our-people/sherri-melrose.html), November 25, 2015
   * [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4673349/pdf/DRT2015-178564.pdf)
