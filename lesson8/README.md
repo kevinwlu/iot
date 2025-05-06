@@ -381,6 +381,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Reasoning best practices](https://platform.openai.com/docs/guides/reasoning-best-practices)
     * [Thinking with images](https://openai.com/index/thinking-with-images/) April 16, 2025
     * [Learning to reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) September 12, 2024
+  * [OpenAI o3 and o4-mini System Card](https://cdn.openai.com/pdf/2221c875-02dc-4789-800b-e7758f3722c1/o3-and-o4-mini-system-card.pdf)
   * [Whisper (speech recognition system)](https://en.wikipedia.org/wiki/Whisper_(speech_recognition_system))
     * ["Introducing Whisper"](https://openai.com/research/whisper), September 21, 2022
   * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
