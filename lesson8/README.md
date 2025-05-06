@@ -404,6 +404,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Together AI](https://www.together.ai/)
 * [Uber](https://www.uber.com/blog/)
   * [QueryGPT](https://www.uber.com/blog/query-gpt/) Natural Language to SQL Using Generative AI, September 19, 2024
+* [Vectara](https://www.vectara.com/)
+  * [Vectara GitHub](https://github.com/vectara)
 * [Vicuna LLM](https://en.wikipedia.org/wiki/Vicuna_LLM)
 * [xAI](https://en.wikipedia.org/wiki/XAI_(company))
   * [Grok](https://en.wikipedia.org/wiki/Grok_(chatbot))
