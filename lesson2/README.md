@@ -19,6 +19,7 @@
   * [Comparison of integrated development environments](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments)
   * [Cloud9 IDE](https://en.wikipedia.org/wiki/Cloud9_IDE) was acquired by Amazon in July 2016 and discontinued on July 25, 2024
     * [Cloud Nine](https://en.wikipedia.org/wiki/Cloud_Nine)
+  * [Cursor (code editor)](https://en.wikipedia.org/wiki/Cursor_(code_editor))
   * [Eclipse](https://en.wikipedia.org/wiki/Eclipse_(software))
   * [Geany](https://en.wikipedia.org/wiki/Geany)
   * [IDLE](https://en.wikipedia.org/wiki/IDLE) (Integrated Development and Learning Environment)
@@ -27,6 +28,7 @@
   * [Thonny](https://en.wikipedia.org/wiki/Thonny)
   * [Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio)
   * [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code) (VS Code)
+  * [Warp (terminal)](https://en.wikipedia.org/wiki/Warp_(terminal))
   * [Xcode](https://en.wikipedia.org/wiki/Xcode)
 * [Visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language)
   * [NetsBlox](https://netsblox.org/)
