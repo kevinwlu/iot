@@ -80,7 +80,7 @@
 ## 2025 Spring
 * A Multi-Modal Aerial Object Detection Framework for Precision Agriculture
 * Face Recognition Using a Combination of Real and Synthetic Faces
-* NIRCam and MIRI Object Detection and Classification Using JWST Images
+* NIRCam and MIRI Composite Imaging and Enhancement Using JWST Images
 * Low-Light Object Detection on ExDark via Joint Enhancement-Detection Pipelines
 ## 2024 Fall
 * Driver Distraction Detection and Monitoring
