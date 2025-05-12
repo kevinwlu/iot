@@ -81,6 +81,7 @@
 * A Multi-Modal Aerial Object Detection Framework for Precision Agriculture
 * Face Recognition Using a Combination of Real and Synthetic Faces
 * NIRCam and MIRI Composite Imaging and Enhancement Using JWST Images
+  * [Bicubic interpolation](https://en.wikipedia.org/wiki/Bicubic_interpolation)
 * Low-Light Object Detection on ExDark via Joint Enhancement-Detection Pipelines
 ## 2024 Fall
 * Driver Distraction Detection and Monitoring
