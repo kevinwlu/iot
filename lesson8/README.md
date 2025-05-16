@@ -103,6 +103,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Basic Linear Algebra Subprograms](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) (BLAS)
 * [Quickstart](https://numpy.org/devdocs/user/quickstart.html)
 * [Random number generation](https://en.wikipedia.org/wiki/Random_number_generation)
+* [CuPy](https://en.wikipedia.org/wiki/CuPy)
+* [JAX (software)](https://en.wikipedia.org/wiki/JAX_(software))
 
 ## SciPy
 * [SciPy](https://en.wikipedia.org/wiki/SciPy)
@@ -155,6 +157,13 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * Hopfield created a structure that can store and reconstruct information.
   * Hinton invented a method that can independently discover properties in data and which has become important for the large neural networks now in use.
 * [MLRelated.com](https://www.mlrelated.com/)
+* [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
+* [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
+* [Keras](https://en.wikipedia.org/wiki/Keras)
+  > In the [*Odyssey*](https://en.wikipedia.org/wiki/Odyssey) by Homer, book 19, lines 560-569, the literary image of the [gates of horn and ivory](https://en.wikipedia.org/wiki/Gates_of_horn_and_ivory) was used to distinguish true dreams (corresponding to factual occurrences) from false\
+  > Keras, the Greek word for "horn," is similar to that for "fulfill," and the Greek word for "ivory" is similar to that for "deceive"\
+  > A true dream is spoken of as coming through the gate of horn, a false dream as coming through the gate of ivory
+* [PyTorch](https://en.wikipedia.org/wiki/PyTorch)
 * [Ensemble learning](https://en.wikipedia.org/wiki/Ensemble_learning)
   * [Random forest](https://en.wikipedia.org/wiki/Random_forest)
 * [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) (SL)
@@ -203,12 +212,6 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
 * [Deep belief network](https://en.wikipedia.org/wiki/Deep_belief_network) (DBN)
 * [Comparison of deep-learning software](https://en.wikipedia.org/wiki/Comparison_of_deep-learning_software)
-* [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
-* [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
-* [Keras](https://en.wikipedia.org/wiki/Keras)
-  > In the [*Odyssey*](https://en.wikipedia.org/wiki/Odyssey) by Homer, book 19, lines 560-569, the literary image of the [gates of horn and ivory](https://en.wikipedia.org/wiki/Gates_of_horn_and_ivory) was used to distinguish true dreams (corresponding to factual occurrences) from false\
-  > Keras, the Greek word for "horn," is similar to that for "fulfill," and the Greek word for "ivory" is similar to that for "deceive"\
-  > A true dream is spoken of as coming through the gate of horn, a false dream as coming through the gate of ivory
 * [Deep reinforcement learning](https://en.wikipedia.org/wiki/Deep_reinforcement_learning) (DRL)
 * [Convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN)
   * [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
