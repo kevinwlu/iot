@@ -7,6 +7,8 @@
 * [Data science](https://en.wikipedia.org/wiki/Data_science)
   * [Statistics](https://en.wikipedia.org/wiki/Statistics)
   * [Post hoc analysis](https://en.wikipedia.org/wiki/Post_hoc_analysis)
+* [Data Prep Kit](https://developer.ibm.com/components/data-prep-kit/) (DPK)
+  * [GitHub repository](https://github.com/data-prep-kit/data-prep-kit)
 * [Diagnosis](https://en.wikipedia.org/wiki/Diagnosis)
 * [Prognostics](https://en.wikipedia.org/wiki/Prognostics)
 * [Kaggle](https://www.kaggle.com/)
