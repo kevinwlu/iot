@@ -79,6 +79,7 @@
     * [.cc](https://en.wikipedia.org/wiki/.cc)
     * [.co](https://en.wikipedia.org/wiki/.co)
     * [.cx](https://en.wikipedia.org/wiki/.cx)
+    * [.gg](https://en.wikipedia.org/wiki/.gg)
     * [.gl](https://en.wikipedia.org/wiki/.gl)
     * [.im](https://en.wikipedia.org/wiki/.im)
     * [.io](https://en.wikipedia.org/wiki/.io)
