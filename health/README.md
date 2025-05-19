@@ -99,6 +99,8 @@
 * [Situation, Background, Assessment, Recommendation](https://en.wikipedia.org/wiki/SBAR) (SBAR)
 * [Sphygmomanometer](https://en.wikipedia.org/wiki/Sphygmomanometer)
 * [Spirometer](https://en.wikipedia.org/wiki/Spirometer)
+* [Stroke](https://en.wikipedia.org/wiki/Stroke)
+* [Transient ischemic attack](https://en.wikipedia.org/wiki/Transient_ischemic_attack) (TIA)
 ---
 * [COVID-19](https://en.wikipedia.org/wiki/COVID-19)
 * [Extracorporeal membrane oxygenation](https://en.wikipedia.org/wiki/Extracorporeal_membrane_oxygenation) (ECMO)
