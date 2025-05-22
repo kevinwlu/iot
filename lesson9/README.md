@@ -29,7 +29,10 @@
   * [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics) (Portable Network Graphics)
   * [GIMP](https://en.wikipedia.org/wiki/GIMP) (GNU Image Manipulation Program)
   * [Pinta](https://en.wikipedia.org/wiki/Pinta_(software))
+* [List of information graphics software](https://en.wikipedia.org/wiki/List_of_information_graphics_software)
 * [Systems modeling language](https://en.wikipedia.org/wiki/Systems_modeling_language) (SysML)
+* [diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net) formerly draw.io
+* [Network diagram software](https://en.wikipedia.org/wiki/Network_diagram_software)
 * [NetHogs](https://github.com/raboof/nethogs)
 * [OpenNMS](https://en.wikipedia.org/wiki/OpenNMS)
 * [Prometheus](https://en.wikipedia.org/wiki/Prometheus_(software))
