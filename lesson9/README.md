@@ -21,9 +21,11 @@
   * [Extensible Stylesheet Language Transformations](https://en.wikipedia.org/wiki/XSLT) (XSLT)
   * [pyang](https://github.com/mbj4668/pyang)
 * [Tail-f Systems](https://www.tail-f.com/), a [Cisco](https://en.wikipedia.org/wiki/Cisco) company
-* [PlantUML](https://en.wikipedia.org/wiki/PlantUML)
-  * [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language) (UML)
+* [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language) (UML)
+  * [List of Unified Modeling Language tools](https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools)
   * [UMLet](https://en.wikipedia.org/wiki/UMLet)
+  * [List of concept- and mind-mapping software](https://en.wikipedia.org/wiki/List_of_concept-_and_mind-mapping_software)
+  * [PlantUML](https://en.wikipedia.org/wiki/PlantUML)
   * [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics) (Portable Network Graphics)
   * [GIMP](https://en.wikipedia.org/wiki/GIMP) (GNU Image Manipulation Program)
   * [Pinta](https://en.wikipedia.org/wiki/Pinta_(software))
