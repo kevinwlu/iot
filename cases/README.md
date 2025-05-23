@@ -393,6 +393,7 @@
 * [Kinsa](https://en.wikipedia.org/wiki/Kinsa)
 * [Little Otter](https://www.littleotterhealth.com/)
 * [Neko Health](https://www.nekohealth.com/)
+* [Oura Health](https://en.wikipedia.org/wiki/Oura_Health)
 * [Ottobock](https://en.wikipedia.org/wiki/Ottobock)
   * [Exopulse Mollii Suit](https://www.ottobock.com/en-ex/exopulse-b2c)
 * [Pontosense](https://www.pontosense.com/) 
