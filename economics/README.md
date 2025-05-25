@@ -32,6 +32,8 @@
   * [List of metonyms](https://en.wikipedia.org/wiki/List_of_metonyms)
 * [Business cycle](https://en.wikipedia.org/wiki/Business_cycle)
   * [Soft landing](https://en.wikipedia.org/wiki/Soft_landing_(economics))
+* [Business model](https://en.wikipedia.org/wiki/Business_model)
+  * [Razor and blades model](https://en.wikipedia.org/wiki/Razor_and_blades_model)
 * [Carbon accounting](https://en.wikipedia.org/wiki/Carbon_accounting)
 * [Cash flow](https://en.wikipedia.org/wiki/Cash_flow)
 * [Circular economy](https://en.wikipedia.org/wiki/Circular_economy)
