@@ -137,6 +137,7 @@
   * Data input/output (DQ)
 * [Light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED)
   * [Shuji Nakamura](https://en.wikipedia.org/wiki/Shuji_Nakamura)
+  * [Nobel Prize in Physics 2014](https://www.nobelprize.org/prizes/physics/2014/summary/)
   * [Why It Was Almost Impossible to Make the Blue LED](https://www.youtube.com/watch?v=AF8d72mA41M) by [Derek Muller](https://en.wikipedia.org/wiki/Derek_Muller) of [Veritasium](https://www.youtube.com/@veritasium)
   * [LED strip light](https://en.wikipedia.org/wiki/LED_strip_light)
   * [JST connector](https://en.wikipedia.org/wiki/JST_connector)
