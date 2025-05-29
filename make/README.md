@@ -72,6 +72,7 @@
   * [Inertial navigation system](https://en.wikipedia.org/wiki/Inertial_navigation_system) (INS)
   * [Charles Stark Draper](https://en.wikipedia.org/wiki/Charles_Stark_Draper) 1901&mdash;1987
   * [Charles Stark Draper Prize](https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize)
+  * [National Academy of Engineering](https://en.wikipedia.org/wiki/National_Academy_of_Engineering) (NAE)
 * [Lidar](https://en.wikipedia.org/wiki/Lidar)
   * [Time of flight](https://en.wikipedia.org/wiki/Time_of_flight) (ToF)
   * [Hesai Technology](https://www.hesaitech.com/)
