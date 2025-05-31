@@ -337,6 +337,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Gemini (chatbot)](https://en.wikipedia.org/wiki/Gemini_(chatbot))
     * [Try Deep Research and our new experimental model in Gemini, your AI assistant](https://blog.google/products/gemini/google-gemini-deep-research/), December 11, 2024
     * [Gemini (language model)](https://en.wikipedia.org/wiki/Gemini_(language_model))
+    * [Imagen (text-to-image model)](https://en.wikipedia.org/wiki/Imagen_(text-to-image_model))
   * [Ethical and Social Risks of Harm From Language Models](https://arxiv.org/abs/2112.04359)
   * [Google Research](https://research.google/)
     * [Climate and sustainability](https://research.google/teams/climate-and-sustainability/)
@@ -453,7 +454,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Runway](https://runwayml.com/)
 * [Vosaic](https://vosaic.com/) AI-powered feedback and analysis
 * [Wu Dao](https://en.wikipedia.org/wiki/Wu_Dao)
-* [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
+* [Stability AI](https://en.wikipedia.org/wiki/Stability_AI)
+  * [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
   * [Diffusion model](https://en.wikipedia.org/wiki/Diffusion_model)
 * [Deepfake](https://en.wikipedia.org/wiki/Deepfake)
 * [15.ai](https://en.wikipedia.org/wiki/15.ai)
