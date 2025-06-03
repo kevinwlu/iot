@@ -21,6 +21,7 @@
 * [ALOHAnet](https://en.wikipedia.org/wiki/ALOHAnet)
 * [Wide area network](https://en.wikipedia.org/wiki/Wide_area_network) (WAN)
   * [Wireless WAN](https://en.wikipedia.org/wiki/Wireless_WAN)
+  * [List of wireless sensor nodes](https://en.wikipedia.org/wiki/List_of_wireless_sensor_nodes)
   * [Closed platform](https://en.wikipedia.org/wiki/Closed_platform)
   * [Ultra-wideband](https://en.wikipedia.org/wiki/Ultra-wideband) (UWB)
   * [International Mobile Equipment Identity](https://en.wikipedia.org/wiki/International_Mobile_Equipment_Identity) (IMEI)
