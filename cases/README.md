@@ -42,6 +42,7 @@
 * [Arable](https://www.arable.com/)
 * [AUGA Group](https://en.wikipedia.org/wiki/Auga_Group)
 * [Carbon Robotics](https://carbonrobotics.com/) Laserweeder
+* [DunavNET](https://dunavnet.eu/)
 * [Electric tractor](https://en.wikipedia.org/wiki/Electric_tractor)
   * [Monarch Tractor](https://www.monarchtractor.com/)
 * [FarmBeats](https://www.microsoft.com/en-us/research/project/farmbeats-iot-agriculture/)
