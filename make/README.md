@@ -131,6 +131,8 @@
 * [Stepper motor](https://en.wikipedia.org/wiki/Stepper_motor)
 * [Vibrating motor](https://www.adafruit.com/product/1201)
 ## Control
+* [List of computer-aided manufacturing software](https://en.wikipedia.org/wiki/List_of_computer-aided_manufacturing_software)
+* [G-code](https://en.wikipedia.org/wiki/G-code)
 * [H-bridge](https://en.wikipedia.org/wiki/H-bridge)
 * [Pulse-width modulation](https://en.wikipedia.org/wiki/Pulse-width_modulation) (PWM)
   * [Raspberry Pi PWM Generation Using Python and C](https://www.electronicwings.com/raspberry-pi/raspberry-pi-pwm-generation-using-python-and-c)
