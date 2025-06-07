@@ -678,6 +678,7 @@
 * [Lion Electric Company](https://en.wikipedia.org/wiki/Lion_Electric_Company)
 * [Lordstown Motors](https://en.wikipedia.org/wiki/Lordstown_Motors)
 * [Lucid Motors](https://en.wikipedia.org/wiki/Lucid_Motors)
+* [Lumina](https://www.luminatech.co/) all-electric bulldozer
 * [Magna International](https://www.magna.com/)
 * [MAKA Motors](https://www.maka-motors.com/)
 * [Mobileye](https://en.wikipedia.org/wiki/Mobileye)
