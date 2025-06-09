@@ -28,11 +28,15 @@
 * [Failure reporting, analysis, and corrective action system](https://en.wikipedia.org/wiki/Failure_reporting,_analysis,_and_corrective_action_system) (FRACAS)
 * [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
 * [Ishikawa diagram](https://en.wikipedia.org/wiki/Ishikawa_diagram) by [Kaoru Ishikawa](https://en.wikipedia.org/wiki/Kaoru_Ishikawa) 1915&mdash;1989
+* [Maintainability](https://en.wikipedia.org/wiki/Maintainability)
 * [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) (MVP)
 * [Nondestructive testing](https://en.wikipedia.org/wiki/Nondestructive_testing) (NDT)
 * [Reliability engineering](https://en.wikipedia.org/wiki/Reliability_engineering)
   * [Bathtub curve](https://en.wikipedia.org/wiki/Bathtub_curve)
   * [Control chart](https://en.wikipedia.org/wiki/Control_chart)
+  * [Failure rate](https://en.wikipedia.org/wiki/Failure_rate)
+  * [Mean time between failures](https://en.wikipedia.org/wiki/Mean_time_between_failures) (MTBF)
+  * [Repairability](https://en.wikipedia.org/wiki/Repairability)
   * [Statistical process control](https://en.wikipedia.org/wiki/Statistical_process_control) (SPC)
   * [Walter A. Shewhart](https://en.wikipedia.org/wiki/Walter_A._Shewhart) 1891&mdash;1967
   * [W. Edwards Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming) 1900&mdash;1993
