@@ -2,6 +2,7 @@
 ## YouTube Channels
 * [AudioTelligence](https://www.youtube.com/@audiotelligence5387)
 ---
+* [eMedicine](https://en.wikipedia.org/wiki/EMedicine)
 * [*The Lancet*](https://en.wikipedia.org/wiki/The_Lancet)
 ---
 * [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease) (AD)
