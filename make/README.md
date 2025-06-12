@@ -133,6 +133,9 @@
 ## Control
 * [List of computer-aided manufacturing software](https://en.wikipedia.org/wiki/List_of_computer-aided_manufacturing_software)
 * [G-code](https://en.wikipedia.org/wiki/G-code)
+  * [Universal G-Code Sender](https://winder.github.io/ugs_website/)
+  * [Grbl](https://github.com/grbl/grbl) G-Code Reference Block Library
+  * [GRBL software guide](https://all3dp.com/2/grbl-software-guide/)
 * [H-bridge](https://en.wikipedia.org/wiki/H-bridge)
 * [Pulse-width modulation](https://en.wikipedia.org/wiki/Pulse-width_modulation) (PWM)
   * [Raspberry Pi PWM Generation Using Python and C](https://www.electronicwings.com/raspberry-pi/raspberry-pi-pwm-generation-using-python-and-c)
