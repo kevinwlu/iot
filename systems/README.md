@@ -4,6 +4,7 @@
   * [Siege engine](https://en.wikipedia.org/wiki/Siege_engine)
   * [List of siege engines](https://en.wikipedia.org/wiki/List_of_siege_engines)
   * [Catapult](https://en.wikipedia.org/wiki/Catapult)
+  * [Jan Žižka](https://en.wikipedia.org/wiki/Jan_%C5%BDi%C5%BEka) 1360&mdash;1424
 * [Science](https://en.wikipedia.org/wiki/Science)
 * [Systems theory](https://en.wikipedia.org/wiki/Systems_theory)
 * [Systems engineering](https://en.wikipedia.org/wiki/Systems_engineering)
