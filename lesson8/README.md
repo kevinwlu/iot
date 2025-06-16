@@ -230,7 +230,6 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Nervous system](https://en.wikipedia.org/wiki/Nervous_system)
   * [Synapse](https://en.wikipedia.org/wiki/Synapse)
 * [ONNX](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (Open Neural Network Exchange)
-* [AlphaZero](https://en.wikipedia.org/wiki/AlphaZero)
 * [WaveNet](https://en.wikipedia.org/wiki/WaveNet)
 * [MindSpore](https://github.com/mindspore-ai/mindspore) deep learning training/inference framework
 
@@ -330,9 +329,12 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Sec-PaLM](https://cloud.google.com/blog/products/identity-security/rsa-google-cloud-security-ai-workbench-generative-ai)
   * [Google Brain](https://en.wikipedia.org/wiki/Google_Brain)
   * [DeepDream](https://en.wikipedia.org/wiki/DeepDream)
-  * [DeepMind](https://en.wikipedia.org/wiki/DeepMind)
+  * [DeepMind](https://en.wikipedia.org/wiki/Google_DeepMind)
+    * [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis)
+    * [AlphaZero](https://en.wikipedia.org/wiki/AlphaZero)
     * [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold)
-      * [AlphaFold 3](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
+    * [AlphaFold 3](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
+    * [Nobel Prize in Chemistry 2024](https://www.nobelprize.org/prizes/chemistry/2024/summary/)
     * [AlphaGeometry](https://en.wikipedia.org/wiki/AlphaGeometry)
     * [AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/), July 25, 2024
     * [RT-2: New model translates vision and language into action](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action) (Robotic Transformer 2), July 28, 2023
