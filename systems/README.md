@@ -55,6 +55,9 @@
 * [The Toyota Way](https://en.wikipedia.org/wiki/The_Toyota_Way)
   * [Production leveling](https://en.wikipedia.org/wiki/Production_leveling)
   * [Continual improvement process](https://en.wikipedia.org/wiki/Continual_improvement_process)
+* [Traceability](https://en.wikipedia.org/wiki/Traceability)
+  * [Supply chain and asset traceability for the electric grid](https://standards.ieee.org/industry-connections/activities/supply-chain-and-asset-traceability-for-electric-grid-scate/) (SCATE)
+  * IEEE [P3476](https://standards.ieee.org/ieee/3476/11637/) Standard for Unique IDs and Smart Tags for Supply Chain and Asset Traceability for the Electric Grid
 * [Usability](https://en.wikipedia.org/wiki/Usability)
 * [User experience](https://en.wikipedia.org/wiki/User_experience) (UX)
   * [1-Click](https://en.wikipedia.org/wiki/1-Click)
