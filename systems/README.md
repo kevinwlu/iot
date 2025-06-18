@@ -65,6 +65,7 @@
 * [Web accessibility](https://en.wikipedia.org/wiki/Web_accessibility)
 ---
 * [Gin pole](https://en.wikipedia.org/wiki/Gin_pole)
+* [Jib (camera)](https://en.wikipedia.org/wiki/Jib_(camera))
 * [Jib (crane)](https://en.wikipedia.org/wiki/Jib_(crane))
 ## Project Management
 * [Management science](https://en.wikipedia.org/wiki/Management_science)
