@@ -63,6 +63,9 @@
   * [1-Click](https://en.wikipedia.org/wiki/1-Click)
 * [Verification and validation](https://en.wikipedia.org/wiki/Verification_and_validation) (V&V)
 * [Web accessibility](https://en.wikipedia.org/wiki/Web_accessibility)
+---
+* [Gin pole](https://en.wikipedia.org/wiki/Gin_pole)
+* [Jib (crane)](https://en.wikipedia.org/wiki/Jib_(crane))
 ## Project Management
 * [Management science](https://en.wikipedia.org/wiki/Management_science)
   * [Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker) 1909&mdash;2005
