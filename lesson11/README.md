@@ -17,6 +17,8 @@
   * [Quantum Computers Could Solve These Problems](https://www.youtube.com/watch?v=IhS6ecYZFdQ)
 * [*Looking Glass Universe*](https://www.youtube.com/@LookingGlassUniverse) by [Mithuna Yoganathan](https://brilliant.org/educator-bios/)
 * [*3Blue1Brown*](https://www.youtube.com/3blue1brown) by [Grant Sanderson](https://en.wikipedia.org/wiki/3Blue1Brown)
+* [*The Feynman Lectures on Physics*](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics) 
+  * [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) 1918&mdash;1988
 * [*Quantum Computing: Progress and Prospects*](https://nap.nationalacademies.org/catalog/25196/quantum-computing-progress-and-prospects) by National Academies of Sciences, Engineering, and Medicine, 2019
 * [Quantum Made Simple by Physics Reimagined](https://toutestquantique.fr/en/)
 * [Quantum Made Simple by Superposition Studios](https://www.superposition-studios.co.uk/quantum-made-simple)
