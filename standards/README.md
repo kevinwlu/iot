@@ -87,7 +87,9 @@
   * [IEEE CertifAIEd](https://engagestandards.ieee.org/ieeecertifaied.html)
   * [IEEE GET Program](https://standards.ieee.org/products-services/ieee-get-program.html) via [IEEE Xplore](https://ieeexplore.ieee.org/browse/standards/get-program/page)
   * [IEEE SA Government Engagement Program on Standards](https://standards.ieee.org/about/intl/government-engagement-program/) (GEPS)
-  * [IEEE SA Standards-Related Patent Letter of Assurance](https://standards.ieee.org/about/sasb/patcom/patents/) (LoA) for essential patent claims\
+  * [IEEE SA Standards-Related Patent Letter of Assurance](https://standards.ieee.org/about/sasb/patcom/patents/)\
+    Letter of Assurance (LoA) for Essential Patent Claims\
+    No license is implied by submission of this Letter of Assurance\
     A. Submitter\
     B. Submitter's contact information\
     C. IEEE standard or project, e.g., amendment, corrigendum, or revision\
