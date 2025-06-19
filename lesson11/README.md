@@ -23,6 +23,7 @@
 * [Quantum Made Simple by Physics Reimagined](https://toutestquantique.fr/en/)
 * [Quantum Made Simple by Superposition Studios](https://www.superposition-studios.co.uk/quantum-made-simple)
 * [*The Biggest Ideas in the Universe: Space, Time, and Motion*](https://www.preposterousuniverse.com/) by [Sean M. Carroll](https://en.wikipedia.org/wiki/Sean_M._Carroll)
+  * [A Brief History of Quantum Mechanics](https://www.youtube.com/watch?v=5hVmeOCJjOU)
 * [*Q is for Quantum*](https://www.qisforquantum.org/) by [Terry Rudolph](https://en.wikipedia.org/wiki/Terry_Rudolph)
 * [How Quantum Computers Break the Internet](https://www.youtube.com/watch?v=-UrdExQW0cs) by [Derek Muller](https://en.wikipedia.org/wiki/Derek_Muller)
 * [*Quantum Machine Learning and Optimization in Finance*](https://www.packtpub.com/product/quantum-machine-learning-and-optimisation-in-finance/9781801813570) by [Antoine Jacquier](https://jackantoinejacquie.wixsite.com/jacquier) and [Oleksiy Kondratyev](https://www.packtpub.com/authors/oleksiy-kondratyev)
