@@ -251,6 +251,8 @@
 * [GCC Standardization Organization](https://en.wikipedia.org/wiki/GCC_Standardization_Organization) (GSO)
 * [Ghana Standards Authority](https://en.wikipedia.org/wiki/Ghana_Standards_Authority)
 * [Hungarian Standards Institution](http://www.mszt.hu/) (MSZT)
+* [Korean Agency for Technology and Standards](https://en.wikipedia.org/wiki/Korean_Agency_for_Technology_and_Standards) (KATS)
+* [Korea Association of Standards and Testing Organizations](https://en.wikipedia.org/wiki/Korea_Association_of_Standards_and_Testing_Organizations) (KASTO)
 * [Standards Council of Canada](https://en.wikipedia.org/wiki/Standards_Council_of_Canada) (SCC)
 * [Technical Standards Institute of Costa Rica](https://inteco.org/) (INTECO)
 ## References
