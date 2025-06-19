@@ -36,6 +36,7 @@
   * [Failure reporting, analysis, and corrective action system](https://en.wikipedia.org/wiki/Failure_reporting,_analysis,_and_corrective_action_system) (FRACAS)
   * [Vapor lock](https://en.wikipedia.org/wiki/Vapor_lock)
   * [Engine Vapor Lock in Aviation: Symptoms & Prevention Strategies](https://www.pilotmall.com/blogs/news/engine-vapor-lock-symptoms-prevention)
+  * [Ram air turbine](https://en.wikipedia.org/wiki/Ram_air_turbine)
 * [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
 * [Ishikawa diagram](https://en.wikipedia.org/wiki/Ishikawa_diagram) by [Kaoru Ishikawa](https://en.wikipedia.org/wiki/Kaoru_Ishikawa) 1915&mdash;1989
 * [Maintainability](https://en.wikipedia.org/wiki/Maintainability)
