@@ -32,7 +32,8 @@
 * [Concurrent engineering](https://en.wikipedia.org/wiki/Concurrent_engineering)
 * [Dependability](https://en.wikipedia.org/wiki/Dependability)
 * [Design for X](https://en.wikipedia.org/wiki/Design_for_X)
-* [Failure reporting, analysis, and corrective action system](https://en.wikipedia.org/wiki/Failure_reporting,_analysis,_and_corrective_action_system) (FRACAS)
+* [Failure rate](https://en.wikipedia.org/wiki/Failure_rate)
+  * [Failure reporting, analysis, and corrective action system](https://en.wikipedia.org/wiki/Failure_reporting,_analysis,_and_corrective_action_system) (FRACAS)
 * [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
 * [Ishikawa diagram](https://en.wikipedia.org/wiki/Ishikawa_diagram) by [Kaoru Ishikawa](https://en.wikipedia.org/wiki/Kaoru_Ishikawa) 1915&mdash;1989
 * [Maintainability](https://en.wikipedia.org/wiki/Maintainability)
@@ -41,7 +42,6 @@
 * [Reliability engineering](https://en.wikipedia.org/wiki/Reliability_engineering)
   * [Bathtub curve](https://en.wikipedia.org/wiki/Bathtub_curve)
   * [Control chart](https://en.wikipedia.org/wiki/Control_chart)
-  * [Failure rate](https://en.wikipedia.org/wiki/Failure_rate)
   * [Mean time between failures](https://en.wikipedia.org/wiki/Mean_time_between_failures) (MTBF)
   * [Repairability](https://en.wikipedia.org/wiki/Repairability)
   * [Statistical process control](https://en.wikipedia.org/wiki/Statistical_process_control) (SPC)
