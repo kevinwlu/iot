@@ -238,8 +238,10 @@
   * [Principles for the Development of International Standards, Guides and Recommendations](https://www.wto.org/english/tratop_e/tbt_e/principles_standards_tbt_e.htm)
 ## National and Regional Standards Organization
 * [Association Française de Normalisation](https://en.wikipedia.org/wiki/AFNOR) (AFNOR)
+* [Association for Standardization and Certification](https://www.ance.org.mx/Ance/) (ANCE)
 * [Austrian Standards International](https://en.wikipedia.org/wiki/Austrian_Standards_International) (ASI)
 * [British Standards Institution](https://en.wikipedia.org/wiki/BSI_Group) (BSI)
+* [Colombian Institute of Technical Standards and Certification](https://en.wikipedia.org/wiki/Colombian_Institute_of_Technical_Standards_and_Certification) (ICONTEC)
 * [Deutsches Institut für Normung](https://en.wikipedia.org/wiki/Deutsches_Institut_f%C3%BCr_Normung) (DIN)
   * [Automotive head unit](https://en.wikipedia.org/wiki/Automotive_head_unit)
   * [DKE](https://en.wikipedia.org/wiki/German_Commission_for_Electrotechnical,_Electronic,_and_Information_Technologies_of_DIN_and_VDE) (German Commission for Electrotechnical, Electronic, and Information Technologies of DIN and VDE)
@@ -250,6 +252,7 @@
 * [Ghana Standards Authority](https://en.wikipedia.org/wiki/Ghana_Standards_Authority)
 * [Hungarian Standards Institution](http://www.mszt.hu/) (MSZT)
 * [Standards Council of Canada](https://en.wikipedia.org/wiki/Standards_Council_of_Canada) (SCC)
+* [Technical Standards Institute of Costa Rica](https://inteco.org/) (INTECO)
 ## References
 * [C. M. Schmidt](https://www.linkedin.com/in/charles-schmidt-789396a), "[Best Practices for Technical Standard Creation](https://www.mitre.org/sites/default/files/publications/17-1332-best-practices-for-technical-standard-creation.pdf)," [MITRE](https://en.wikipedia.org/wiki/Mitre_Corporation), April 2017
 * [H.R.1631 - Pro Codes Act](https://www.congress.gov/bill/118th-congress/house-bill/1631)
