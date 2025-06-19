@@ -44,6 +44,8 @@
 * [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
 * [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
 * [Double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment)
+  * [Diffraction](https://en.wikipedia.org/wiki/Diffraction)
+  * [Diffraction from slits](https://en.wikipedia.org/wiki/Diffraction_from_slits)
 * [Elementary particle](https://en.wikipedia.org/wiki/Elementary_particle)
   * [Standard Model](https://en.wikipedia.org/wiki/Standard_Model)
   * [Spin quantum number](https://en.wikipedia.org/wiki/Spin_quantum_number)
