@@ -15,6 +15,7 @@
     * [Acquisition Innovation Research Center](https://acqirc.org/) (AIRC)
   * [Capstone Marketplace](https://capstonemarketplace.org/)
     * [United States Army Special Operations Command](https://en.wikipedia.org/wiki/United_States_Army_Special_Operations_Command) (USASOC)
+    * [William Shepherd](https://en.wikipedia.org/wiki/William_Shepherd)
 * [Systems science](https://en.wikipedia.org/wiki/Systems_science)
   * [List of systems scientists](https://en.wikipedia.org/wiki/List_of_systems_scientists)
   * [List of systems sciences organizations](https://en.wikipedia.org/wiki/List_of_systems_sciences_organizations)
