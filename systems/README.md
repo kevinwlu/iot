@@ -13,7 +13,7 @@
   * [Systems Engineering Research Center](https://sercuarc.org/) (SERC)
     * [University Affiliated Research Center](https://en.wikipedia.org/wiki/University_Affiliated_Research_Center) (UARC)
     * [Acquisition Innovation Research Center](https://acqirc.org/) (AIRC)
-  * [Capstone Marketplace](https://sercuarc.org/capstone-marketplace/)
+  * [Capstone Marketplace](https://capstonemarketplace.org/)
     * [United States Army Special Operations Command](https://en.wikipedia.org/wiki/United_States_Army_Special_Operations_Command) (USASOC)
 * [Systems science](https://en.wikipedia.org/wiki/Systems_science)
   * [List of systems scientists](https://en.wikipedia.org/wiki/List_of_systems_scientists)
