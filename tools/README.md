@@ -224,7 +224,8 @@
 * [Kepner-Tregoe](https://kepner-tregoe.com/) (KT)
 ## Proof Assitant
 * [Proof assistant](https://en.wikipedia.org/wiki/Proof_assistant)
-* [Coq](https://en.wikipedia.org/wiki/Coq)
+* [Lean (proof assistant)](https://en.wikipedia.org/wiki/Lean_(proof_assistant))
+* [Rocq](https://en.wikipedia.org/wiki/Rocq)
 * [List of conjectures](https://en.wikipedia.org/wiki/List_of_conjectures)
 ## Robotics
 * [Gazebo simulator](https://en.wikipedia.org/wiki/Gazebo_simulator)
