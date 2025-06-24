@@ -26,6 +26,7 @@
 * [United Nations Children's Fund](https://en.wikipedia.org/wiki/UNICEF) (UNICEF: United Nations International Children’s Emergency Fund 1946&mdash;1953)
 ## YouTube Channels
 * [Consumer Reports](https://www.youtube.com/@consumerreports) by [Consumer Reports](https://en.wikipedia.org/wiki/Consumer_Reports) (CR)
+* [Dr. Ben Miles](https://www.drbenmiles.com/)
 * [Sky Elements Drone Shows](https://www.youtube.com/@SkyElementsDroneShows)
 * [Engineering Institute of Technology](https://www.youtube.com/@EngInstTech)
 * [Engineering Mindset](https://www.youtube.com/@EngineeringMindset/)
@@ -246,6 +247,8 @@
 * [Ørsted](https://en.wikipedia.org/wiki/%C3%98rsted_(company))
 * [OXCCU](https://www.oxccu.com/)
 * [Oxford Photovoltaics](https://en.wikipedia.org/wiki/Oxford_Photovoltaics)
+  * [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale)
+  * [Nikolai Kardashev](https://en.wikipedia.org/wiki/Nikolai_Kardashev) 1932&mdash;2019
   * [Perovskite](https://en.wikipedia.org/wiki/Perovskite)
   * [Perovskite solar cell](https://en.wikipedia.org/wiki/Perovskite_solar_cell)
 * [Plug Power](https://en.wikipedia.org/wiki/Plug_Power)
