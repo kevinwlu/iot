@@ -4,6 +4,7 @@
 * [Be Smart](https://www.youtube.com/@besmart) With Joe Hanson
 * [Design Theory](https://www.youtube.com/@Design.Theory)
 * [DIY](https://www.youtube.com/@diytv)
+* [Dr. Ben Miles](https://www.drbenmiles.com/)
 * [Electromaker](https://www.youtube.com/@Electromakerio)
 * [element14 presents](https://www.youtube.com/@element14presents/)
 * [Engineerguy](https://www.youtube.com/@engineerguyvideo) by [Bill Hammack](https://en.wikipedia.org/wiki/Bill_Hammack)
