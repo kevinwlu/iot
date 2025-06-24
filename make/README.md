@@ -31,6 +31,8 @@
 * [Adafruit](https://en.wikipedia.org/wiki/Adafruit_Industries)
   * [Adafruit Learning System](https://learn.adafruit.com/)
 * [Capture the flag](https://en.wikipedia.org/wiki/Capture_the_flag) (CTF)
+  * [CTFd](https://ctfd.io/)
+  * [GitHub repository](https://github.com/CTFd/CTFd)
 * [Circuit bending](https://en.wikipedia.org/wiki/Circuit_bending)
 * [Devpost](https://en.wikipedia.org/wiki/Devpost)
 * [FIRST Robotics Competition](https://en.wikipedia.org/wiki/FIRST_Robotics_Competition) (FRC)
