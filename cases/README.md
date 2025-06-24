@@ -245,6 +245,9 @@
 * [ONE](https://one.ai/) our next energy storage for electric vehicles and the grid
 * [Ørsted](https://en.wikipedia.org/wiki/%C3%98rsted_(company))
 * [OXCCU](https://www.oxccu.com/)
+* [Oxford Photovoltaics](https://en.wikipedia.org/wiki/Oxford_Photovoltaics)
+  * [Perovskite](https://en.wikipedia.org/wiki/Perovskite)
+  * [Perovskite solar cell](https://en.wikipedia.org/wiki/Perovskite_solar_cell)
 * [Plug Power](https://en.wikipedia.org/wiki/Plug_Power)
 * [Pumped-storage hydroelectricity](https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity) (PSH)
 * [Pure Power Engineering](https://www.purepower.com/)
