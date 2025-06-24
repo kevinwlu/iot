@@ -1,5 +1,4 @@
 # Lesson 10: Blockchain
-
 * [Digital currency](https://en.wikipedia.org/wiki/Digital_currency)
 * [SWIFT](https://en.wikipedia.org/wiki/SWIFT) (Society for Worldwide Interbank Financial Telecommunication)
 * [Bank Secrecy Act](https://en.wikipedia.org/wiki/Bank_Secrecy_Act) (BSA)
@@ -20,6 +19,7 @@
   * [Alchemy](https://www.alchemy.com/)
     * [Nikil Viswanathan](https://en.wikipedia.org/wiki/Nikil_Viswanathan)
     * [Cross-chain bridge](https://www.alchemy.com/overviews/cross-chain-bridges)
+* [DFINITY Foundation](https://dfinity.org/)
 * [Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)
   * [List of cryptocurrencies](https://en.wikipedia.org/wiki/List_of_cryptocurrencies)
   * [Cryptocurrency prices by maket cap](https://coinmarketcap.com/)
