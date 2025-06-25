@@ -103,6 +103,10 @@
 * [Spirometer](https://en.wikipedia.org/wiki/Spirometer)
 * [Stroke](https://en.wikipedia.org/wiki/Stroke)
 * [Transient ischemic attack](https://en.wikipedia.org/wiki/Transient_ischemic_attack) (TIA)
+* [Warburg effect (oncology)](https://en.wikipedia.org/wiki/Warburg_effect_(oncology))
+  * [Otto Heinrich Warburg](https://en.wikipedia.org/wiki/Otto_Heinrich_Warburg) 1883&mdash;1970
+  * [Cell therapy](https://en.wikipedia.org/wiki/Cell_therapy)
+  * [Brown adipose tissue](https://en.wikipedia.org/wiki/Brown_adipose_tissue) (BAT)
 ---
 * [COVID-19](https://en.wikipedia.org/wiki/COVID-19)
 * [Extracorporeal membrane oxygenation](https://en.wikipedia.org/wiki/Extracorporeal_membrane_oxygenation) (ECMO)
