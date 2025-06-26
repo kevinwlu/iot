@@ -572,6 +572,7 @@
 * [Powrlink](https://powr.link/)
 * [Wavelight](https://en.wikipedia.org/wiki/Wavelight)
 ## Transportation: Air
+* [1962 United States Tri-Service aircraft designation system](https://en.wikipedia.org/wiki/1962_United_States_Tri-Service_aircraft_designation_system)
 * [Port and starboard](https://en.wikipedia.org/wiki/Port_and_starboard)
 * [Navigation light](https://en.wikipedia.org/wiki/Navigation_light)
 * [Formation light](https://en.wikipedia.org/wiki/Formation_light)
