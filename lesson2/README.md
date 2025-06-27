@@ -65,6 +65,9 @@
   * [GNU Project](https://en.wikipedia.org/wiki/GNU_Project)
   * [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License) (GPL)
   * [GNU nano](https://en.wikipedia.org/wiki/GNU_nano) text editor
+* [List of text editors](https://en.wikipedia.org/wiki/List_of_text_editors)
+  * [Atom (text editor)](https://en.wikipedia.org/wiki/Atom_(text_editor))
+  * [Zed (text editor)](https://en.wikipedia.org/wiki/Zed_(text_editor))
 * [List of compilers](https://en.wikipedia.org/wiki/List_of_compilers)
   * [GNU Compiler Collection](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) (GCC)
   * [Clang](https://en.wikipedia.org/wiki/Clang)
