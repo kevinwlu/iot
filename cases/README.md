@@ -689,6 +689,7 @@
 * [Lumina](https://www.luminatech.co/) all-electric bulldozer
 * [Magna International](https://www.magna.com/)
 * [MAKA Motors](https://www.maka-motors.com/)
+* [May Mobility](https://maymobility.com/)
 * [Mobileye](https://en.wikipedia.org/wiki/Mobileye)
 * [Mojio](https://www.moj.io/)
 * [Motional](https://en.wikipedia.org/wiki/Motional)
