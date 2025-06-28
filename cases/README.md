@@ -124,6 +124,7 @@
 * [Shield AI](https://en.wikipedia.org/wiki/Shield_AI)
 * [Skydio](https://en.wikipedia.org/wiki/Skydio)
 * [Starship Technologies](https://en.wikipedia.org/wiki/Starship_Technologies)
+* [Teledyne FLIR Black Hornet Nano](https://en.wikipedia.org/wiki/Teledyne_FLIR_Black_Hornet_Nano)
 * [Tevel Aerobotics](https://www.tevel-tech.com/)
 * [Textron](https://en.wikipedia.org/wiki/Textron)
 * [Wing (company)](https://en.wikipedia.org/wiki/Wing_(company))
