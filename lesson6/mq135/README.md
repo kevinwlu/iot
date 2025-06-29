@@ -2,6 +2,7 @@
 
 * [Atmospheric CO<sub>2</sub>](https://www.co2.earth/)
   * [Eunice Newton Foote](https://en.wikipedia.org/wiki/Eunice_Newton_Foote)
+* [Lake Nyos](https://en.wikipedia.org/wiki/Lake_Nyos)
 * [MQ-135 Gas Sensor Guide](https://www.waveshare.com/wiki/MQ-135_Gas_Sensor)
 * [How to Use MQ-135 Gas Sensor](https://www.codrey.com/electronic-circuits/how-to-use-mq-135-gas-sensor/)
   * Open Arduino IDE > Include Library > Manage Libraries > MQ135 > Install > Close
