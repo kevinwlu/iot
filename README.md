@@ -144,6 +144,8 @@
 * [Association for Smarter Home and Buildings](https://www.ashb.com/) (ASHB)
 * [Augmented World Expo](https://www.awexr.com/) (AWE)
 * [Automotive Open System Architecture](https://en.wikipedia.org/wiki/AUTOSAR) (AUTOSAR)
+* [Computing Research Association](https://en.wikipedia.org/wiki/Computing_Research_Association) (CRA)
+  * [NSF LEVEL UP AI](https://cra.org/level-up-ai/)
 * [Consumer Technology Association](https://en.wikipedia.org/wiki/Consumer_Technology_Association) (CTA)
   * [Consumer Electronics Show](https://en.wikipedia.org/wiki/Consumer_Electronics_Show) (CES)
 * [Digital Governance Standards Institute](https://dgc-cgn.org/standards/)
