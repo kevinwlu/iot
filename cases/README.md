@@ -444,6 +444,7 @@
 * [VicOne](https://vicone.com/)
 ## Public Services
 * [Food rescue](https://en.wikipedia.org/wiki/Food_rescue)
+* [Multiple-alarm fire](https://en.wikipedia.org/wiki/Multiple-alarm_fire)
 * [Olio](https://en.wikipedia.org/wiki/Olio_(app))
 * [Too Good To Go](https://en.wikipedia.org/wiki/Too_Good_To_Go)
 ## Residential
