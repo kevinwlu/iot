@@ -706,9 +706,6 @@
 * [Pony.ai](https://en.wikipedia.org/wiki/Pony.ai)
 * [rFpro](https://en.wikipedia.org/wiki/RFpro)
 * [Rivian](https://en.wikipedia.org/wiki/Rivian)
-* [Rolling stock](https://en.wikipedia.org/wiki/Rolling_stock)
-  * [List of rolling stock manufacturers](https://en.wikipedia.org/wiki/List_of_rolling_stock_manufacturers)
-  * [List of high-speed trains](https://en.wikipedia.org/wiki/List_of_high-speed_trains)
 * [Scout Motors](https://en.wikipedia.org/wiki/Scout_Motors)
 * [Sedric](https://en.wikipedia.org/wiki/Sedric)
 * [Seres Group](https://en.wikipedia.org/wiki/Seres_Group)
@@ -749,6 +746,13 @@
 * [Woven by Toyota, Inc.](https://en.wikipedia.org/wiki/Woven_by_Toyota,_Inc.)
 * [ZF Friedrichshafen](https://en.wikipedia.org/wiki/ZF_Friedrichshafen)
 * [Zoox](https://en.wikipedia.org/wiki/Zoox_(company))
+## Transportation: Rail
+* [Positive train control](https://en.wikipedia.org/wiki/Positive_train_control) (PTC)
+* [Locomotive](https://en.wikipedia.org/wiki/Locomotive)
+* [Rolling stock](https://en.wikipedia.org/wiki/Rolling_stock)
+* [List of locomotive builders](https://en.wikipedia.org/wiki/List_of_locomotive_builders)
+* [List of rolling stock manufacturers](https://en.wikipedia.org/wiki/List_of_rolling_stock_manufacturers)
+* [List of high-speed trains](https://en.wikipedia.org/wiki/List_of_high-speed_trains)
 ## Transportation: Water
 * [Pressure vessel for human occupancy](https://en.wikipedia.org/wiki/Pressure_vessel_for_human_occupancy) (PVHO)* [Ship classification society](https://en.wikipedia.org/wiki/Ship_classification_society)
 * [Submersible](https://en.wikipedia.org/wiki/Submersible)
