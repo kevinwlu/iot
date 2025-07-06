@@ -366,7 +366,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Ray-Ban](https://en.wikipedia.org/wiki/Ray-Ban)
     * [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
   * [Project Aria](https://www.projectaria.com/)
-  * Meta Superintelligence Labs (MSL)
+  * [Meta Superintelligence Labs](https://www.cnbc.com/2025/06/30/mark-zuckerberg-creating-meta-superintelligence-labs-read-the-memo.html) (MSL), June 30, 2025
     * [Alexandr Wang](https://en.wikipedia.org/wiki/Alexandr_Wang)
     * [Nat Friedman](https://en.wikipedia.org/wiki/Nat_Friedman)
 * [Microsoft Copilot](https://en.wikipedia.org/wiki/Microsoft_Copilot)
