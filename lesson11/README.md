@@ -70,6 +70,8 @@
 * [Quantum state](https://en.wikipedia.org/wiki/Quantum_state)
 * [Quantum tomography](https://en.wikipedia.org/wiki/Quantum_tomography)
   * ["Interferometric imaging of amplitude and phase of spatial biphoton states"](https://www.nature.com/articles/s41566-023-01272-3)
+* [Quantum tunnelling](https://en.wikipedia.org/wiki/Quantum_tunnelling)
+  * [Ivar Giaever](https://en.wikipedia.org/wiki/Ivar_Giaever) 1929&mdash;2025
 * [Hilbert space](https://en.wikipedia.org/wiki/Hilbert_space)
 * [Bra–ket notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation)
 * [Quantum nonlocality](https://en.wikipedia.org/wiki/Quantum_nonlocality)
