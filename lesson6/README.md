@@ -170,6 +170,7 @@
 * [Dynamic-link library](https://en.wikipedia.org/wiki/Dynamic-link_library) (DLL)
 * [Deno](https://en.wikipedia.org/wiki/Deno_(software))
 * [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack)): [MongoDB](https://en.wikipedia.org/wiki/MongoDB), [Express.js](https://en.wikipedia.org/wiki/Express.js), [AngularJS](https://en.wikipedia.org/wiki/AngularJS), and Node.js
+* [MUMPS](https://en.wikipedia.org/wiki/MUMPS) (Massachusetts General Hospital Utility Multi-Programming System)
 * [Comparison of JavaScript-based web frameworks](https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks)
 * [Crow](https://crowcpp.org/) C++ framework for creating HTTP or Websocket web services
   * [CrowCpp](https://github.com/CrowCpp/Crow) repository
