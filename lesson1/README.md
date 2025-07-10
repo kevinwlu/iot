@@ -15,6 +15,8 @@
 * [Machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine) (M2M) communication
 * [Network packet](https://en.wikipedia.org/wiki/Network_packet)
 * [IEEE International Network Generations Roadmap](https://futurenetworks.ieee.org/roadmap) (INGR)
+  * [IEEE Future Networks](https://futurenetworks.ieee.org/)
+  * [YouTube Channel](https://www.youtube.com/@IEEEFutureNetworks)
 * [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
 * [Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency) (RF)
   * [Ultra high frequency](https://en.wikipedia.org/wiki/Ultra_high_frequency) (UHF)
