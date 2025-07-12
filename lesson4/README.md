@@ -63,7 +63,7 @@
   * [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web)
   * [Web3](https://en.wikipedia.org/wiki/Web3)
     * [Arc (web browser)](https://en.wikipedia.org/wiki/Arc_(web_browser))
-      * [Dia](https://www.diabrowser.com/)
+      * [Dia](https://www.diabrowser.com/) builds its AI chatbot directly into the browser in a parallel window
     * [Brave (web browser)](https://en.wikipedia.org/wiki/Brave_(web_browser))
     * [Opera (web browser)](https://en.wikipedia.org/wiki/Opera_(web_browser))
   * [Clearnet](https://en.wikipedia.org/wiki/Clearnet_(networking)) refers to the publicly accessible internet
