@@ -18,7 +18,7 @@
 * [Human–robot interaction](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction) (HRI)
 * [Optical character recognition](https://en.wikipedia.org/wiki/Optical_character_recognition) (OCR)
 * [Pi-hole](https://en.wikipedia.org/wiki/Pi-hole)
-* [Project Farm](https://www.youtube.com/@ProjectFarm)
+* [Project Farm](https://www.youtube.com/@ProjectFarm) YouTube Channel
 * [Random forest](https://en.wikipedia.org/wiki/Random_forest)
 * [RepRap project](https://en.wikipedia.org/wiki/RepRap_project)
 * [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
