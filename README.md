@@ -136,6 +136,7 @@
   * [Web Content Accessibility Guidelines](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines) (WCAG)
 
 ## Associations and Communities
+* [Guild](https://en.wikipedia.org/wiki/Guild)
 * [Non-governmental organization](https://en.wikipedia.org/wiki/Non-governmental_organization) (NGO)
 * [4YFN](https://www.4yfn.com/), i.e., 4 Years From Now that refers to how startups will be in four years
 * [7×24 Exchange International](https://www.7x24exchange.org/) for [data center](https://en.wikipedia.org/wiki/Data_center), [information technology](https://en.wikipedia.org/wiki/Information_technology) (IT), and [mission critical](https://en.wikipedia.org/wiki/Mission_critical) professionals
