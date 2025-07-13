@@ -42,6 +42,7 @@
   * [Insulin resistance](https://en.wikipedia.org/wiki/Insulin_resistance)
   * [Ketone](https://en.wikipedia.org/wiki/Ketone)
   * [List of diets](https://en.wikipedia.org/wiki/List_of_diets)
+* [Doctor of Osteopathic Medicine](https://en.wikipedia.org/wiki/Doctor_of_Osteopathic_Medicine)
 * [Electrocardiography](https://en.wikipedia.org/wiki/Electrocardiography) (ECG or EKG)
   * [Gyrocardiography](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7700364/) (GCG)
   * [Impedance cardiography](https://en.wikipedia.org/wiki/Impedance_cardiography) (ICG)
