@@ -76,6 +76,7 @@
 * [Jet stream](https://en.wikipedia.org/wiki/Jet_stream)
 * [Polar vortex](https://en.wikipedia.org/wiki/Polar_vortex)
 * [Quasi-biennial oscillation](https://en.wikipedia.org/wiki/Quasi-biennial_oscillation) (QBO)
+* [WindBorne Systems](https://windbornesystems.com/) based in Palo Alto, California, fusse data from its long-duration balloons with AI models to produce weather forecasts
 * [Woodwell Climate Research Center](https://en.wikipedia.org/wiki/Woodwell_Climate_Research_Center)
   * [George M. Woodwell](https://en.wikipedia.org/wiki/George_M._Woodwell) 1928&mdash;2024
 ## Communications
@@ -143,6 +144,7 @@
 ## Energy and Power
 * [List of battery types](https://en.wikipedia.org/wiki/List_of_battery_types)
 * [List of electric vehicle battery manufacturers](https://en.wikipedia.org/wiki/List_of_electric_vehicle_battery_manufacturers)
+* [List of wind turbine manufacturers](https://en.wikipedia.org/wiki/List_of_wind_turbine_manufacturers)
 * [Electric vehicle charging network](https://en.wikipedia.org/wiki/Electric_vehicle_charging_network)
 * [Offshore wind power](https://en.wikipedia.org/wiki/Offshore_wind_power)
   * [Deep foundation](https://en.wikipedia.org/wiki/Deep_foundation)
