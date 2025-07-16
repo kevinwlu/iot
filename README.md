@@ -120,6 +120,8 @@
 * [Health Insurance Portability and Accountability Act](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act) (HIPAA)
 * [California Consumer Privacy Act](https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act) (CCPA)
 * [Federal Aviation Administration](https://en.wikipedia.org/wiki/Federal_Aviation_Administration) (FAA)
+  * [Federal Aviation Regulations](https://en.wikipedia.org/wiki/Federal_Aviation_Regulations) (FARs)
+  * [Pilot certification in the United States](https://en.wikipedia.org/wiki/Pilot_certification_in_the_United_States)
 * [Federal Trade Commission](https://en.wikipedia.org/wiki/Federal_Trade_Commission) (FTC)
   * [United States International Trade Commission](https://en.wikipedia.org/wiki/United_States_International_Trade_Commission) (USITC)
 * [Food and Drug Administration](https://en.wikipedia.org/wiki/Food_and_Drug_Administration) (FDA)
