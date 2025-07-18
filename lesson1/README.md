@@ -49,6 +49,7 @@
 * [Personal area network](https://en.wikipedia.org/wiki/Personal_area_network) (PAN)
   * [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
     * [Harald Bluetooth](https://en.wikipedia.org/wiki/Harald_Bluetooth) Gormsson was a king of Denmark and Norway
+    * [Epithet](https://en.wikipedia.org/wiki/Epithet)
   * [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) (BLE)
   * [Zigbee](https://en.wikipedia.org/wiki/Zigbee)
     * [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance)
