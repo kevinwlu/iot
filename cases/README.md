@@ -128,6 +128,7 @@
 * [General Atomics Aeronautical Systems](https://en.wikipedia.org/wiki/General_Atomics_Aeronautical_Systems)
 * [Heven Drones](https://www.hevendrones.com/)
 * [Manna Drone Delivery](https://www.manna.aero/)
+* [Neros](https://www.neros.tech/)
 * [Qinetiq](https://en.wikipedia.org/wiki/Qinetiq)
 * [Saildrone](https://en.wikipedia.org/wiki/Saildrone_(company))
 * [Shield AI](https://en.wikipedia.org/wiki/Shield_AI)
