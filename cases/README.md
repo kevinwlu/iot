@@ -109,6 +109,7 @@
   * [Autel Robotics](https://en.wikipedia.org/wiki/Autel_Robotics)
   * [DJI](https://en.wikipedia.org/wiki/DJI)
   * [Meituan](https://en.wikipedia.org/wiki/Meituan)
+* [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
 * [Anzu Robotics](https://www.anzurobotics.com/)
 * [Apian](https://www.apian.aero/)
 * [Applied Aeronautics](https://en.wikipedia.org/wiki/Applied_Aeronautics)
@@ -119,6 +120,7 @@
   * [YouTube video](https://www.youtube.com/watch?v=J91jTI2-k_U)
 * [Clevon](https://clevon.com/) on-demand autonomous delivery
 * [Conservation Drones](https://en.wikipedia.org/wiki/Conservation_Drones)
+* [Defense Innovation Unit](https://en.wikipedia.org/wiki/Defense_Innovation_Unit) (DIU)
 * [Dragoon Technology](https://www.dragoon.tech/)
   * [Dragoon](https://en.wikipedia.org/wiki/Dragoon)
   * [Dragoon, Arizona](https://en.wikipedia.org/wiki/Dragoon,_Arizona)
