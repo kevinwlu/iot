@@ -128,6 +128,7 @@
 * [Teledyne FLIR Black Hornet Nano](https://en.wikipedia.org/wiki/Teledyne_FLIR_Black_Hornet_Nano)
 * [Tevel Aerobotics](https://www.tevel-tech.com/)
 * [Textron](https://en.wikipedia.org/wiki/Textron)
+* [Unusual Machines](https://www.unusualmachines.com/)
 * [Wing (company)](https://en.wikipedia.org/wiki/Wing_(company))
 * [Zipline](https://www.flyzipline.com/)
 ## Education
