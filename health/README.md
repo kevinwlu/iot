@@ -95,8 +95,6 @@
   * [Eupnea](https://en.wikipedia.org/wiki/Eupnea)
   * [Kussmaul breathing](https://en.wikipedia.org/wiki/Kussmaul_breathing)
     * [Adolf Kussmaul](https://en.wikipedia.org/wiki/Adolf_Kussmaul) 1822&mdash;1902
-* [Pancreaticoduodenectomy](https://en.wikipedia.org/wiki/Pancreaticoduodenectomy) also known as a Whipple procedure
-  * [Allen Whipple](https://en.wikipedia.org/wiki/Allen_Whipple) 1881&mdash;1963
 * [Seasonal affective disorder](https://en.wikipedia.org/wiki/Seasonal_affective_disorder) (SAD)
   * ["Seasonal Affective Disorder: An Overview of Assessment and Treatment Approaches"](https://pubmed.ncbi.nlm.nih.gov/26688752/) by [Dr. Sherri Melrose](https://www.athabascau.ca/health-disciplines/our-people/sherri-melrose.html), November 25, 2015
   * [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4673349/pdf/DRT2015-178564.pdf)
@@ -158,3 +156,6 @@
 ---
 * [Moxibustion](https://en.wikipedia.org/wiki/Moxibustion)
 * [Golding Bird](https://en.wikipedia.org/wiki/Golding_Bird) 1814&mdash;1854
+---
+* [Pancreaticoduodenectomy](https://en.wikipedia.org/wiki/Pancreaticoduodenectomy) also known as a Whipple procedure
+  * [Allen Whipple](https://en.wikipedia.org/wiki/Allen_Whipple) 1881&mdash;1963
