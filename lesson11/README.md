@@ -46,6 +46,7 @@
 * [Quantum superposition](https://en.wikipedia.org/wiki/Quantum_superposition)
 * [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
 * [Quantum foundations](https://en.wikipedia.org/wiki/Quantum_foundations)
+* [Quantum engineering](https://en.wikipedia.org/wiki/Quantum_engineering)
 * [Double-slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment)
   * [Diffraction](https://en.wikipedia.org/wiki/Diffraction)
   * [Diffraction from slits](https://en.wikipedia.org/wiki/Diffraction_from_slits)
@@ -159,6 +160,7 @@
   * [Bluefors](https://bluefors.com/) [Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)
 * [Cryostat](https://en.wikipedia.org/wiki/Cryostat)
 ##
+* [Quantum information science](https://en.wikipedia.org/wiki/Quantum_information_science)
 * [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
   * [Qubit](https://en.wikipedia.org/wiki/Qubit)
     * [Benjamin Schumacher](https://en.wikipedia.org/wiki/Benjamin_Schumacher)
@@ -199,7 +201,10 @@
     * [Supersingular isogeny key exchange](https://en.wikipedia.org/wiki/Supersingular_isogeny_key_exchange) (SIKE)
     * [SIKE.org](https://sike.org/)
     * [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
-## Quantum Sensor
+## Quantum Optics
+* [Quantum optics](https://en.wikipedia.org/wiki/Quantum_optics)
+* [Quantum dot laser](https://en.wikipedia.org/wiki/Quantum_dot_laser)
+* [Quantum-cascade laser](https://en.wikipedia.org/wiki/Quantum-cascade_laser) (QCL)
 * [Quantum sensor](https://en.wikipedia.org/wiki/Quantum_sensor)
 * [Quantum radar](https://en.wikipedia.org/wiki/Quantum_radar)
 * [Lidar](https://en.wikipedia.org/wiki/Lidar)
