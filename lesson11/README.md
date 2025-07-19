@@ -188,7 +188,7 @@
     * [QUA Universal Language for Quantum Computers](https://www.quantum-machines.co/blog/quantum-machines-announces-qua-as-first-standard-universal-language-for-quantum-computers/)
     * [QUA Platform](https://github.com/qua-platform)
 * [Topological quantum computer](https://en.wikipedia.org/wiki/Topological_quantum_computer)
-##
+## Quantum Cryptography
 * [Quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)
   * [Quantum key distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution) (QKD)
   * [VMAC](https://en.wikipedia.org/wiki/VMAC)
@@ -199,9 +199,11 @@
     * [Supersingular isogeny key exchange](https://en.wikipedia.org/wiki/Supersingular_isogeny_key_exchange) (SIKE)
     * [SIKE.org](https://sike.org/)
     * [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
-
+## Quantum Sensor
+* [Quantum sensor](https://en.wikipedia.org/wiki/Quantum_sensor)
+* [Quantum radar](https://en.wikipedia.org/wiki/Quantum_radar)
+* [Lidar](https://en.wikipedia.org/wiki/Lidar)
 ## Lab 11: Qiskit
-
 ### [IBM Quantum Platform](https://www.ibm.com/quantum)
 * [IBM Quantum Roadmap](https://www.ibm.com/quantum/blog/ibm-quantum-roadmap)
 * [IBM Quantum System One](https://en.wikipedia.org/wiki/IBM_Q_System_One)
