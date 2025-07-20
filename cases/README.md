@@ -326,6 +326,7 @@
   * [Local Law 154](https://www.nyc.gov/assets/buildings/pdf/ll154.pdf)
 * [Accelera](https://www.accelerazero.com/)
 * [Advanced Ionics](https://advanced-ionics.com/) electrolizers for green hydrogen production
+* [Coastal squeeze](https://www.coastalwiki.org/wiki/Coastal_squeeze)
 * [Greenspark](https://www.getgreenspark.com/)
 * [Humance](https://humance.io/en)
 * [Plastic](https://en.wikipedia.org/wiki/Plastic)
