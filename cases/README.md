@@ -372,6 +372,7 @@
   * [Sudan stain](https://en.wikipedia.org/wiki/Sudan_stain)
   * [Titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide)
 * [Aflatoxin](https://en.wikipedia.org/wiki/Aflatoxin)
+* [Bisphenol A](https://en.wikipedia.org/wiki/Bisphenol_A) (BPA)
 * [Bongkrek acid](https://en.wikipedia.org/wiki/Bongkrek_acid)
 * [Burkholderia gladioli](https://en.wikipedia.org/wiki/Burkholderia_gladioli)
 * [Lead and cadmium in dark chocolate](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1366231/full)
@@ -383,6 +384,7 @@
 * [Maillard reaction](https://en.wikipedia.org/wiki/Maillard_reaction)
 * [Triclosan](https://en.wikipedia.org/wiki/Triclosan)
 * [Qube](https://www.qubeiot.com/)
+* [Sun protective clothing](https://en.wikipedia.org/wiki/Sun_protective_clothing)
 * [Surfactant](https://en.wikipedia.org/wiki/Surfactant)
 ## Fashion
 * [Dansko](https://en.wikipedia.org/wiki/Dansko)
