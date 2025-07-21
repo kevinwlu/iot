@@ -507,6 +507,8 @@
 * [Elephant Robotics](https://www.elephantrobotics.com/en/)
   * [GitHub](https://github.com/elephantrobotics)
 * [ElliQ](https://elliq.com/)
+* [Engineered Arts](https://en.wikipedia.org/wiki/Engineered_Arts)
+  * [Ameca_(robot)](https://en.wikipedia.org/wiki/Ameca_(robot))
 * [FANUC](https://en.wikipedia.org/wiki/FANUC) (Fuji Automatic Numerical Control)
 * [Figure AI](https://en.wikipedia.org/wiki/Figure_AI)
 * [Fourier (company)](https://en.wikipedia.org/wiki/Fourier_(company))
