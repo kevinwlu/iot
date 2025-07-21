@@ -211,6 +211,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Scale AI](https://en.wikipedia.org/wiki/Scale_AI)
 * [CentML](https://github.com/CentML)
   * [Gennady Pekhimenko](https://www.cs.toronto.edu/~pekhimenko/)
+  * [Parallel Computer Architecture and Programming](https://uoft-ecosystem.github.io/CSC2224-Website/)
 
 ## Deep Learning
 * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
