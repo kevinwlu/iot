@@ -86,6 +86,7 @@
   * [Richard Easterlin](https://en.wikipedia.org/wiki/Richard_Easterlin) 1926&mdash;2024
 * [Home economics](https://en.wikipedia.org/wiki/Home_economics)
 * [Income statement](https://en.wikipedia.org/wiki/Income_statement)
+* [Indemnity](https://en.wikipedia.org/wiki/Indemnity)
 * [Inflation](https://en.wikipedia.org/wiki/Inflation)
 * [Intellectual property](https://en.wikipedia.org/wiki/Intellectual_property)
   * [Copyright](https://en.wikipedia.org/wiki/Copyright)
