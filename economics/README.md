@@ -45,6 +45,9 @@
   * [Double jeopardy](https://en.wikipedia.org/wiki/Double_jeopardy)
   * [Fixed-price contract](https://en.wikipedia.org/wiki/Fixed-price_contract)
   * [*Force majeure*](https://en.wikipedia.org/wiki/Force_majeure)
+  * [Indemnity](https://en.wikipedia.org/wiki/Indemnity)
+    * [Guarantee](https://en.wikipedia.org/wiki/Guarantee)
+    * [Warranty](https://en.wikipedia.org/wiki/Warranty)
   * [Product liability](https://en.wikipedia.org/wiki/Product_liability)
   * [Time and materials](https://en.wikipedia.org/wiki/Time_and_materials) (T&M)
   * [Tort](https://en.wikipedia.org/wiki/Tort)
@@ -86,7 +89,6 @@
   * [Richard Easterlin](https://en.wikipedia.org/wiki/Richard_Easterlin) 1926&mdash;2024
 * [Home economics](https://en.wikipedia.org/wiki/Home_economics)
 * [Income statement](https://en.wikipedia.org/wiki/Income_statement)
-* [Indemnity](https://en.wikipedia.org/wiki/Indemnity)
 * [Inflation](https://en.wikipedia.org/wiki/Inflation)
 * [Intellectual property](https://en.wikipedia.org/wiki/Intellectual_property)
   * [Copyright](https://en.wikipedia.org/wiki/Copyright)
