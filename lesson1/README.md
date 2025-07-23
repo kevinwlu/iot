@@ -216,6 +216,8 @@
   * [Images](http://downloads.raspberrypi.org/NOOBS/images/) since 2013-06-27 (NOOBS_v1_2_1)
   * [Release notes](https://downloads.raspberrypi.org/raspios_armhf/release_notes.txt) since 2013-09-10
   * [Archive](http://downloads.raspberrypi.org/NOOBS/archive/) since 2013-11-02
+  * [Out of the box (feature)](https://en.wikipedia.org/wiki/Out_of_the_box_(feature))
+  * [Thinking outside the box](https://en.wikipedia.org/wiki/Thinking_outside_the_box)
 
 ### 1. On a laptop computer, download and open [Raspberry Pi Imager](https://www.raspberrypi.org/software/)
 
