@@ -351,6 +351,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Google Research](https://research.google/)
     * [Climate and sustainability](https://research.google/teams/climate-and-sustainability/)
   * [DreamFusion](https://dreamfusion3d.github.io/)
+* [GPTZero](https://en.wikipedia.org/wiki/GPTZero)
 * [Groq](https://en.wikipedia.org/wiki/Groq)
   * Language Processing Unit (LPU)
 * [Inflection AI](https://en.wikipedia.org/wiki/Inflection_AI)
