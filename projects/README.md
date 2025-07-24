@@ -24,6 +24,7 @@
 * [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
   * [Ray-Ban Meta](https://en.wikipedia.org/wiki/Ray-Ban_Meta)
   * [Halliday](https://hallidayglobal.com/)
+  * [Orion](https://www.meta.com/blog/orion-ar-glasses-augmented-reality/), September 25, 2024
 ## 2025 Spring
 * [NJSGC project](https://github.com/lquaynor/researchtopic/)
 ## 2024 Fall
