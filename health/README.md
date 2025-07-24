@@ -158,5 +158,7 @@
 * [Moxibustion](https://en.wikipedia.org/wiki/Moxibustion)
 * [Golding Bird](https://en.wikipedia.org/wiki/Golding_Bird) 1814&mdash;1854
 ---
+* [T cell](https://en.wikipedia.org/wiki/T_cell)
+  * [Zelig Eshhar](https://en.wikipedia.org/wiki/Zelig_Eshhar) 1941&mdash;2025
 * [Pancreaticoduodenectomy](https://en.wikipedia.org/wiki/Pancreaticoduodenectomy) also known as a Whipple procedure
   * [Allen Whipple](https://en.wikipedia.org/wiki/Allen_Whipple) 1881&mdash;1963
