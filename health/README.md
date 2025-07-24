@@ -49,6 +49,7 @@
   * [Seismocardiography](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8189030/) (SCG)
 * [Electroencephalography](https://en.wikipedia.org/wiki/Electroencephalography) (EEG)
 * [Electromyography](https://en.wikipedia.org/wiki/Electromyography) (EMG)
+  * [A Look at Our Surface EMG Research Focused on Equity and Accessibility](https://www.meta.com/blog/surface-emg-wristband-electromyography-human-computer-interaction-hci/), September 25, 2024
 * [Ex vivo](https://en.wikipedia.org/wiki/Ex_vivo)
 * [In vivo](https://en.wikipedia.org/wiki/In_vivo)
 * [In vitro](https://en.wikipedia.org/wiki/In_vitro)
