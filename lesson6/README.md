@@ -21,7 +21,8 @@
 ---
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
 * [EmbeddedRelated.com](https://www.embeddedrelated.com/)
-* [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller)
+* [Microprocessor](https://en.wikipedia.org/wiki/Microprocessor)
+* [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller) unit (MCU)
 * [Bare machine](https://en.wikipedia.org/wiki/Bare_machine)
 * [Bare machine computing](https://en.wikipedia.org/wiki/Bare_machine_computing)
 * [AVR microcontrollers](https://en.wikipedia.org/wiki/AVR_microcontrollers)
