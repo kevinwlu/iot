@@ -170,6 +170,8 @@
 * [Law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
 ---
 * [List of eponymous laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
+* [Amdahl's law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
+  * [Gene Amdahl](https://en.wikipedia.org/wiki/Gene_Amdahl) 1922&mdash;2015
 * [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
   * [Abraham Maslow](https://en.wikipedia.org/wiki/Abraham_Maslow) 1908&mdash;1970
 * [Murphy's law](https://en.wikipedia.org/wiki/Murphy's_law)
