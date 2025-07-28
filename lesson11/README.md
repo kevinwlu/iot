@@ -67,6 +67,8 @@
 * [cGh physics](https://en.wikipedia.org/wiki/CGh_physics)
 * [String theory](https://en.wikipedia.org/wiki/String_theory)
 * [Quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
+  * [Dirac equation](https://en.wikipedia.org/wiki/Dirac_equation)
+  * [Weyl equation](https://en.wikipedia.org/wiki/Weyl_equation)
 * [Quantum gravity](https://en.wikipedia.org/wiki/Quantum_gravity)
 * [Quantum state](https://en.wikipedia.org/wiki/Quantum_state)
 * [Quantum tomography](https://en.wikipedia.org/wiki/Quantum_tomography)
