@@ -7,6 +7,7 @@
 * [Django Software Foundation](https://en.wikipedia.org/wiki/Django_Software_Foundation)
   * [Django's Structure - A Heretic’s Eye View](https://djangobook.com/mdj2-django-structure/) by [The Django Book](https://djangobook.com/)
 * [Web framework](https://en.wikipedia.org/wiki/Web_framework)
+  * [Shiny (web framework)](https://en.wikipedia.org/wiki/Shiny_(web_framework))
 * [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer) (REST)
   * [Django REST framework](https://www.django-rest-framework.org/)
 * [Web Server Gateway Interface](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface) (WSGI)
