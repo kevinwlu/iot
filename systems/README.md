@@ -42,6 +42,7 @@
 * [Ishikawa diagram](https://en.wikipedia.org/wiki/Ishikawa_diagram) by [Kaoru Ishikawa](https://en.wikipedia.org/wiki/Kaoru_Ishikawa) 1915&mdash;1989
 * [Maintainability](https://en.wikipedia.org/wiki/Maintainability)
 * [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) (MVP)
+* [New England Complex Systems Institute](https://en.wikipedia.org/wiki/New_England_Complex_Systems_Institute) (NECSI)
 * [Nondestructive testing](https://en.wikipedia.org/wiki/Nondestructive_testing) (NDT)
 * [Reliability engineering](https://en.wikipedia.org/wiki/Reliability_engineering)
   * [Bathtub curve](https://en.wikipedia.org/wiki/Bathtub_curve)
