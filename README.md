@@ -144,7 +144,7 @@
 * [7×24 Exchange International](https://www.7x24exchange.org/) for [data center](https://en.wikipedia.org/wiki/Data_center), [information technology](https://en.wikipedia.org/wiki/Information_technology) (IT), and [mission critical](https://en.wikipedia.org/wiki/Mission_critical) professionals
 * [AI for Good](https://en.wikipedia.org/wiki/AI_for_Good)
 * [American Radio Relay League](https://en.wikipedia.org/wiki/American_Radio_Relay_League) (ARRL)
-* [Association for Smarter Home and Buildings](https://www.ashb.com/) (ASHB)
+* [Association for Smarter Home and Buildings](https://www.ashb.com/) (ASHB) formerly [Continental Automated Buildings Association](https://en.wikipedia.org/wiki/Continental_Automated_Buildings_Association) (CABA)
 * [Augmented World Expo](https://www.awexr.com/) (AWE)
 * [Automotive Open System Architecture](https://en.wikipedia.org/wiki/AUTOSAR) (AUTOSAR)
 * [Computing Research Association](https://en.wikipedia.org/wiki/Computing_Research_Association) (CRA)
