@@ -87,6 +87,7 @@
   * [Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics)
   * [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)
 * [Quantum information](https://en.wikipedia.org/wiki/Quantum_information)
+* [Quantum information science](https://en.wikipedia.org/wiki/Quantum_information_science)
 * [Quantum dot](https://en.wikipedia.org/wiki/Quantum_dot)
 * [Quantum well](https://en.wikipedia.org/wiki/Quantum_well)
 * [Quantum wire](https://en.wikipedia.org/wiki/Quantum_wire)
@@ -162,7 +163,6 @@
   * [Bluefors](https://bluefors.com/) [Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)
 * [Cryostat](https://en.wikipedia.org/wiki/Cryostat)
 ##
-* [Quantum information science](https://en.wikipedia.org/wiki/Quantum_information_science)
 * [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
   * [Qubit](https://en.wikipedia.org/wiki/Qubit)
     * [Benjamin Schumacher](https://en.wikipedia.org/wiki/Benjamin_Schumacher)
