@@ -240,6 +240,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [The Effects of Generative AI on High-Skilled Work: Evidence From Three Field Experiments With Software Developers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566)
 * [Transformer](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture))
   * ["Attention Is All You Need"](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need) 2017
+    * [ArXiv](https://en.wikipedia.org/wiki/ArXiv)
   * [Ashish Vaswani](https://en.wikipedia.org/wiki/Ashish_Vaswani): [Essential AI](https://essential.ai/)
   * [Noam Shazeer](https://scholar.google.com/citations?user=wsGvgA8AAAAJ&hl=en): [Character.ai](https://en.wikipedia.org/wiki/Character.ai)
   * [Niki Parmar](https://scholar.google.co.jp/citations?user=q2YXPSgAAAAJ&hl=en): [Essential AI](https://essential.ai/)
