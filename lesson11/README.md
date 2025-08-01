@@ -95,6 +95,8 @@
 * [Quantum mind](https://en.wikipedia.org/wiki/Quantum_mind)
 * [Quantum readout](https://en.wikipedia.org/wiki/Quantum_readout)
 * [Quantum teleportation](https://en.wikipedia.org/wiki/Quantum_teleportation)
+* [Quantum Zeno effect](https://en.wikipedia.org/wiki/Quantum_Zeno_effect)
+* [Josephson effect](https://en.wikipedia.org/wiki/Josephson_effect)
 ### Quantum Standards
 * [IEEE Quantum](https://quantum.ieee.org/)
   * IEEE [P1913](https://standards.ieee.org/ieee/1913/6720/) Software-Defined Quantum Communication
@@ -173,6 +175,7 @@
   * [CLOPS](https://research.ibm.com/blog/circuit-layer-operations-per-second) (circuit layer operations per second)
   * [Quantum supremacy](https://en.wikipedia.org/wiki/Quantum_supremacy)
   * [Quantum programming](https://en.wikipedia.org/wiki/Quantum_programming)
+  * [Quantum memory](https://en.wikipedia.org/wiki/Quantum_memory)
   * [Quantum volume](https://en.wikipedia.org/wiki/Quantum_volume)
   * [Quantum artificial intelligence](https://en.wikipedia.org/wiki/Quantum_artificial_intelligence)
   * [Quantum optimization algorithms](https://en.wikipedia.org/wiki/Quantum_optimization_algorithms)
@@ -210,6 +213,7 @@
 * [Quantum sensor](https://en.wikipedia.org/wiki/Quantum_sensor)
 * [Quantum radar](https://en.wikipedia.org/wiki/Quantum_radar)
 * [Lidar](https://en.wikipedia.org/wiki/Lidar)
+* [Spontaneous parametric down-conversion](https://en.wikipedia.org/wiki/Spontaneous_parametric_down-conversion) (SPDC)
 ## Lab 11: Qiskit
 ### [IBM Quantum Platform](https://www.ibm.com/quantum)
 * [IBM Quantum Roadmap](https://www.ibm.com/quantum/blog/ibm-quantum-roadmap)
