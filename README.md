@@ -176,6 +176,7 @@
 * [Society of Motion Picture and Television Engineers](https://en.wikipedia.org/wiki/Society_of_Motion_Picture_and_Television_Engineers) (SMPTE)
 * [Storage Networking Industry Association](https://en.wikipedia.org/wiki/Storage_Networking_Industry_Association) (SNIA)
 * [Sourcehere](https://sourcehere.com/)
+* [TM Forum](https://en.wikipedia.org/wiki/TM_Forum)
 * [U.S. Green Building Council](https://en.wikipedia.org/wiki/U.S._Green_Building_Council) (USGBC)
   * [Leadership in Energy and Environmental Design](https://en.wikipedia.org/wiki/LEED) (LEED)
 * [Volition](https://www.govolition.com/)
