@@ -214,6 +214,7 @@
 * [Quantum radar](https://en.wikipedia.org/wiki/Quantum_radar)
 * [Lidar](https://en.wikipedia.org/wiki/Lidar)
 * [Spontaneous parametric down-conversion](https://en.wikipedia.org/wiki/Spontaneous_parametric_down-conversion) (SPDC)
+* [Sum-frequency generation](https://en.wikipedia.org/wiki/Sum-frequency_generation) (SFG)
 ## Lab 11: Qiskit
 ### [IBM Quantum Platform](https://www.ibm.com/quantum)
 * [IBM Quantum Roadmap](https://www.ibm.com/quantum/blog/ibm-quantum-roadmap)
