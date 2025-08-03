@@ -150,6 +150,11 @@
   * [USB4](https://en.wikipedia.org/wiki/USB4)
 * [Webcam](https://en.wikipedia.org/wiki/Webcam)
 * [Microphone](https://en.wikipedia.org/wiki/Microphone)
+* [tty (Unix)](https://en.wikipedia.org/wiki/Tty_(Unix))
+  * [Teleprinter](https://en.wikipedia.org/wiki/Teleprinter)
+  * [Typewriter](https://en.wikipedia.org/wiki/Typewriter)
+  * [Chinese typewriter](https://en.wikipedia.org/wiki/Chinese_typewriter)
+  * [Japanese typewriter](https://en.wikipedia.org/wiki/Japanese_typewriter)
 
 ## Lab 2A:  General-purpose input/output (GPIO) and serial communication
 
