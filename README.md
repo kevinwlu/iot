@@ -149,6 +149,8 @@
 * [Automotive Open System Architecture](https://en.wikipedia.org/wiki/AUTOSAR) (AUTOSAR)
 * [Computing Research Association](https://en.wikipedia.org/wiki/Computing_Research_Association) (CRA)
   * [NSF LEVEL UP AI](https://cra.org/level-up-ai/)
+  * [CRA Summit on AI Undergraduate Education](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2533723)
+  * [CUE-T: A Study of the Creation of Interdisciplinary Computing Majors](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2434248) - Their Implementation and Impact on Broadening Participation in Computing at 10 Public Universities
 * [Consumer Technology Association](https://en.wikipedia.org/wiki/Consumer_Technology_Association) (CTA)
   * [Consumer Electronics Show](https://en.wikipedia.org/wiki/Consumer_Electronics_Show) (CES)
 * [Digital Governance Standards Institute](https://dgc-cgn.org/standards/)
