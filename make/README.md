@@ -21,6 +21,10 @@
 * [Maker Kids](https://www.youtube.com/@makerkids)
 * [Product Hunt](https://www.youtube.com/@product_hunt)
 * [Project MFG](https://www.youtube.com/@ProjectMFG)
+  * [Adele Ratcliff](https://www.businessdefense.gov/ibr/mceip/icam/leadership/adele-ratcliff.html)
+  * [Ray Dick](https://theorg.com/org/project-mfg/org-chart/ray-dick)
+  * [Haas Automation](https://en.wikipedia.org/wiki/Haas_Automation)
+  * [Mastercam](https://en.wikipedia.org/wiki/Mastercam)
 * [SciFri](https://www.youtube.com/@scifri)
 * [Seeed Studio](https://www.youtube.com/@SeeedStudioSZ)
 * [Simon Weckert](https://www.simonweckert.com/)
@@ -65,8 +69,6 @@
 * [Choke](https://en.wikipedia.org/wiki/Choke_(electronics)) is an inductor used to block higher-frequency alternating currents (AC) while passing direct current (DC) and lower-frequency ACs in a circuit
 * [Ferrite bead](https://en.wikipedia.org/wiki/Ferrite_bead) suppresses high-frequency electronic noise in electronic circuits
 * [HX711](https://www.adafruit.com/product/5974) 24-bit ADC for Load Cells / Strain Gauges
----
-* [Haas Automation](https://en.wikipedia.org/wiki/Haas_Automation)
 ## Sensors
 * [Sensor](https://en.wikipedia.org/wiki/Sensor)
 * [List of sensors](https://en.wikipedia.org/wiki/List_of_sensors)
