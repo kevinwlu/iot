@@ -144,6 +144,10 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Q-Q plot](https://en.wikipedia.org/wiki/Q%E2%80%93Q_plot)
 * [Seaborn](https://seaborn.pydata.org/)
 * [Bokeh](https://bokeh.org/)
+* [Diagram](https://en.wikipedia.org/wiki/Diagram)
+* [Exponential family random graph models](https://en.wikipedia.org/wiki/Exponential_family_random_graph_models) (ERGM)
+* [Hypergraph](https://en.wikipedia.org/wiki/Hypergraph)
+* [Sankey diagram](https://en.wikipedia.org/wiki/Sankey_diagram)
 
 ## Pandas
 * [Pandas](https://en.wikipedia.org/wiki/Pandas_(software)) Python data analysis library
