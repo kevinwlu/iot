@@ -20,6 +20,7 @@
 * [Make:](https://www.youtube.com/@MAKE)
 * [Maker Kids](https://www.youtube.com/@makerkids)
 * [Product Hunt](https://www.youtube.com/@product_hunt)
+* [Project MFG](https://www.youtube.com/@ProjectMFG)
 * [SciFri](https://www.youtube.com/@scifri)
 * [Seeed Studio](https://www.youtube.com/@SeeedStudioSZ)
 * [Simon Weckert](https://www.simonweckert.com/)
