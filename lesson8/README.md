@@ -354,6 +354,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Try Deep Research and our new experimental model in Gemini, your AI assistant](https://blog.google/products/gemini/google-gemini-deep-research/), December 11, 2024
     * [Gemini (language model)](https://en.wikipedia.org/wiki/Gemini_(language_model))
     * [Imagen (text-to-image model)](https://en.wikipedia.org/wiki/Imagen_(text-to-image_model))
+    * [Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/), August 5, 2025
   * [Ethical and Social Risks of Harm From Language Models](https://arxiv.org/abs/2112.04359)
   * [Google Research](https://research.google/)
     * [Climate and sustainability](https://research.google/teams/climate-and-sustainability/)
