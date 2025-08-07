@@ -23,6 +23,7 @@
 * [Surrogate data](https://en.wikipedia.org/wiki/Surrogate_data)
 * [Synthetic data](https://en.wikipedia.org/wiki/Synthetic_data)
 * [Controlled Unclassified Information](https://en.wikipedia.org/wiki/Controlled_Unclassified_Information) (CUI)
+* [DeepWiki](https://deepwiki.com/)
 
 ## Artificial Intelligence
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
