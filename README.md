@@ -161,6 +161,11 @@
   * [OneAPI](https://en.wikipedia.org/wiki/OneAPI_(GSM_telecom))
 * [Hannover Messe](https://en.wikipedia.org/wiki/Hannover_Messe) (HM)
 * [IBM IoT Community](https://community.ibm.com/community/user/iot/home)
+* [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (IEEE) 1963
+  * [American Institute of Electrical Engineers](https://en.wikipedia.org/wiki/American_Institute_of_Electrical_Engineers) (AIEE) 1884
+    * [Norvin Green](https://en.wikipedia.org/wiki/Norvin_Green) 1818&mdash;1893 was a founding member and the first president.
+  * [Institute of Radio Engineers](https://en.wikipedia.org/wiki/Institute_of_Radio_Engineers) (IRE) 1912
+  * [IEEE Day](https://ieeeday.org/) is celebrated annually on the first Tuesday of October. The first IEEE Day was celebrated in [2010](https://spectrum.ieee.org/ieee-day-2024).
 * [IEEE Blended Learning Portal](https://blended-learning.ieee.org/Portal/) (BLP)
 * [IEEE Future Networks](https://futurenetworks.ieee.org/)
   * [IEEE International Network Generations Roadmap](https://futurenetworks.ieee.org/roadmap) (INGR)
