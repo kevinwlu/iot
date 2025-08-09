@@ -170,6 +170,9 @@
   * [ISO/IEC 27000-series](https://en.wikipedia.org/wiki/ISO/IEC_27000-series)
   * [ISO/IEEE 11073](https://en.wikipedia.org/wiki/ISO/IEEE_11073)
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
+  * [ITU AI for Good](https://en.wikipedia.org/wiki/ITU_AI_for_Good) 2017
+    * [Website](https://ai4good.org/)
+    * [AI for Good Innovate for Impact2025 Report](https://www.itu.int/hub/publication/t-ai4g-ai4good-2025-1/)
   * [ITU-T](https://en.wikipedia.org/wiki/ITU-T)
   * [IoT Global Standards Initiative](https://www.itu.int/en/ITU-T/gsi/iot/)
   * [ITU AI for Good](https://en.wikipedia.org/wiki/ITU_AI_for_Good)
