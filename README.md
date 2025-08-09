@@ -220,7 +220,7 @@
 * [IAMTS](https://www.iamts.org/en) (International Alliance for Mobility Testing and Standardization)
 * [IIC](https://en.wikipedia.org/wiki/Industrial_Internet_Consortium) (Industrial Internet Consortium)
 * [IMPALA](https://impala-consortium.org/) Consortium
-* [IEEE-ISTO](https://en.wikipedia.org/wiki/IEEE-ISTO)
+* [Industry Standards and Technology Organization](https://en.wikipedia.org/wiki/IEEE-ISTO) (ISTO)
   * [ISTO Website](https://isto.org/)
   * [Interconnect Modeling Technical Advisory Board](https://ieee-isto.org/member_programs/interconnect-modeling-technical-advisory-board/) (IMTAB)
   * [Liberty Technical Advisory Board](https://ieee-isto.org/member_programs/liberty-technical-advisory-board/) (LTAB)
