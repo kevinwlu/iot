@@ -32,6 +32,8 @@
 * [Regulation of artificial intelligence](https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence)
 * [One Hundread Year Study on Artificial Intelligence](https://ai100.stanford.edu/)
 * [AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia)
+* [ITU AI for Good](https://en.wikipedia.org/wiki/ITU_AI_for_Good)
+  * [Website](https://ai4good.org/)
 * [Association for the Advancement of Artificial Intelligence](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence) (AAAI)
 * [AI Safety and Security Advsory Board](https://www.dhs.gov/ai/promoting-ai-safety-and-security) (AISSB)
 * [Chief Digital and Artificial Intelligence Office](https://www.ai.mil/) (CDAO)
