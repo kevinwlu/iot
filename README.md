@@ -220,12 +220,14 @@
 * [IAMTS](https://www.iamts.org/en) (International Alliance for Mobility Testing and Standardization)
 * [IIC](https://en.wikipedia.org/wiki/Industrial_Internet_Consortium) (Industrial Internet Consortium)
 * [IMPALA](https://impala-consortium.org/) Consortium
-* [Interconnect Modeling Technical Advisory Board](https://ieee-isto.org/member_programs/interconnect-modeling-technical-advisory-board/) (IMTAB)
+* [IEEE-ISTO](https://en.wikipedia.org/wiki/IEEE-ISTO)
+  * [ISTO Website](https://isto.org/)
+  * [Interconnect Modeling Technical Advisory Board](https://ieee-isto.org/member_programs/interconnect-modeling-technical-advisory-board/) (IMTAB)
+  * [Liberty Technical Advisory Board](https://ieee-isto.org/member_programs/liberty-technical-advisory-board/) (LTAB)
 * [ioXt](https://www.ioxtalliance.org/) (Internet of Secure Things)
 * [Khronos Group](https://en.wikipedia.org/wiki/Khronos_Group)
 * [KNX](https://en.wikipedia.org/wiki/KNX_(standard))
 * [LaSAR Alliance](https://lasaralliance.org/) (Laser Scanning for Augmented Reality)
-* [Liberty Technical Advisory Board](https://ieee-isto.org/member_programs/liberty-technical-advisory-board/) (LTAB)
 * [Li-Bridge](https://www.anl.gov/li-bridge)
 * [LoRa](https://en.wikipedia.org/wiki/LoRa) Alliance
 * [MIPI Alliance](https://en.wikipedia.org/wiki/MIPI_Alliance) (Mobile Industry Processor Interface)
