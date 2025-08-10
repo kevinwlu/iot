@@ -33,6 +33,10 @@
 * [Concurrent engineering](https://en.wikipedia.org/wiki/Concurrent_engineering)
 * [Dependability](https://en.wikipedia.org/wiki/Dependability)
 * [Design for X](https://en.wikipedia.org/wiki/Design_for_X)
+* [Design review (U.S. government)](https://en.wikipedia.org/wiki/Design_review_(U.S._government))
+  * [System requirements review](https://www.dau.edu/acquipedia-article/system-requirements-review-srr) (SRR)
+  * [Preliminary design review](https://www.dau.edu/acquipedia-article/preliminary-design-review-pdr) (PDR)
+  * [Critical design review](https://www.dau.edu/acquipedia-article/critical-design-review-cdr) (CDR)
 * [Failure rate](https://en.wikipedia.org/wiki/Failure_rate)
   * [Failure reporting, analysis, and corrective action system](https://en.wikipedia.org/wiki/Failure_reporting,_analysis,_and_corrective_action_system) (FRACAS)
   * [Vapor lock](https://en.wikipedia.org/wiki/Vapor_lock)
@@ -53,6 +57,7 @@
   * [Walter A. Shewhart](https://en.wikipedia.org/wiki/Walter_A._Shewhart) 1891&mdash;1967
   * [W. Edwards Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming) 1900&mdash;1993
   * [The W. Edwards Deming Institute](https://deming.org/)
+* [Requirement](https://en.wikipedia.org/wiki/Requirement)
 * [Supply chain](https://en.wikipedia.org/wiki/Supply_chain)
   * [Cold chain](https://en.wikipedia.org/wiki/Cold_chain)
   * [Shelf life](https://en.wikipedia.org/wiki/Shelf_life)
