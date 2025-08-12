@@ -635,6 +635,7 @@
 * [Reliable Robotics](https://reliable.co/)
 * [Safran](https://en.wikipedia.org/wiki/Safran)
   * [Safran Helicopter Engines](https://en.wikipedia.org/wiki/Safran_Helicopter_Engines)
+* [Tidal Flight](https://www.tidalflight.com/)
 * [Vertical Aerospace](https://en.wikipedia.org/wiki/Vertical_Aerospace)
 * [Volocopter](https://en.wikipedia.org/wiki/Volocopter)
 * [VoltAero Cassio](https://en.wikipedia.org/wiki/VoltAero_Cassio)
