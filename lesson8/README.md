@@ -420,8 +420,9 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Whisper (speech recognition system)](https://en.wikipedia.org/wiki/Whisper_(speech_recognition_system))
     * ["Introducing Whisper"](https://openai.com/research/whisper), September 21, 2022
   * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
+    * [ChatGPT](https://chat.openai.com/chat)
     * ["Introducing ChatGPT"](https://openai.com/blog/chatgpt), November 30, 2022
-    * [ChatGPT](https://chat.openai.com/chat)    
+    * ["Introducing study mode"](https://openai.com/index/chatgpt-study-mode/), July 29, 2025
   * ["New AI classifier for indicating AI-written text"](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text), January 31, 2023
     * [AI Text Classifier](https://platform.openai.com/ai-text-classifier)
   * ["Introducing ChatGPT and Whisper APIs"](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), March 1, 2023
