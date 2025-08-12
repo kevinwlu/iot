@@ -43,6 +43,8 @@
   * [GPQA](https://github.com/idavidrein/gpqa) (Google-Proof Q&A)
   * [MMLU](https://en.wikipedia.org/wiki/MMLU) (Measuring Massive Multitask Language Understanding)
 * [Agentic AI](https://en.wikipedia.org/wiki/Agentic_AI)
+  * [Agent2Agent Protocol](https://a2aprotocol.ai/) (A2A)
+  * [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/), April 9, 2025
 * [Blended artificial intelligence](https://en.wikipedia.org/wiki/Blended_artificial_intelligence)
 * [Explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
 * [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
