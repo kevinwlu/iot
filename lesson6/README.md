@@ -1,4 +1,6 @@
 # Lesson 6: Alternative Devices
+* [Random Nerd Tutorials](https://randomnerdtutorials.com/)
+---
 * [BeagleBoard](https://en.wikipedia.org/wiki/BeagleBoard)
 * [DragonBoard 410c](https://developer.qualcomm.com/hardware/dragonboard-410c)
 * [Google Coral Dev Board](https://coral.ai/products/dev-board/)
@@ -94,6 +96,9 @@
   * [Mbed](https://en.wikipedia.org/wiki/Mbed)
   * [ARMmbed/mbed-os-example-blinky](https://github.com/ARMmbed/mbed-os-example-blinky)
 * [ESP32](https://en.wikipedia.org/wiki/ESP32)
+  * [ESP-MQTT](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/protocols/mqtt.html)
+    * [EspMQTTClient](https://docs.arduino.cc/libraries/espmqttclient/)
+    * [ESP32 MQTT – Publish and Subscribe with Arduino IDE](https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/)
   * [MH-ET LIVE MiniKit](https://doc.riot-os.org/group__boards__esp32__mh-et-live-minikit.html)
   * [Obsidian Boa](https://github.com/gregdavill/obsidian-boa)
 * [ESP8266](https://en.wikipedia.org/wiki/ESP8266)
