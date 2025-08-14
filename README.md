@@ -211,6 +211,7 @@
 * [Digital Trust and Safety Partnership](https://dtspartnership.org/)
 * [Digital Twin Consortium](https://www.digitaltwinconsortium.org/)
 * [Distributed Management Task Force](https://en.wikipedia.org/wiki/Distributed_Management_Task_Force) (DMTF)
+* [Edge AI and Vision Alliance](https://www.edge-ai-vision.com/)
 * [FIDO Alliance](https://en.wikipedia.org/wiki/FIDO_Alliance) (Fast IDentity Online)
 * [Financial Information eXchange](https://en.wikipedia.org/wiki/Financial_Information_eXchange) (FIX)
 * [FiRa Consortium](https://en.wikipedia.org/wiki/FiRa_Consortium)
