@@ -94,6 +94,7 @@
   * [Mbed](https://en.wikipedia.org/wiki/Mbed)
   * [ARMmbed/mbed-os-example-blinky](https://github.com/ARMmbed/mbed-os-example-blinky)
 * [ESP32](https://en.wikipedia.org/wiki/ESP32)
+  * [MH-ET LIVE MiniKit](https://doc.riot-os.org/group__boards__esp32__mh-et-live-minikit.html)
   * [Obsidian Boa](https://github.com/gregdavill/obsidian-boa)
 * [ESP8266](https://en.wikipedia.org/wiki/ESP8266)
   * [ESP-01](https://jayconsystems.com/blog/getting-started-with-the-esp8266-esp-01)
