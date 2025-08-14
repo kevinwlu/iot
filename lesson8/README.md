@@ -175,6 +175,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   > Keras, the Greek word for "horn," is similar to that for "fulfill," and the Greek word for "ivory" is similar to that for "deceive"\
   > A true dream is spoken of as coming through the gate of horn, a false dream as coming through the gate of ivory
 * [PyTorch](https://en.wikipedia.org/wiki/PyTorch)
+  * [ExecuTorch](https://github.com/pytorch/executorch)
 * [Ensemble learning](https://en.wikipedia.org/wiki/Ensemble_learning)
   * [Random forest](https://en.wikipedia.org/wiki/Random_forest)
 * [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) (SL)
