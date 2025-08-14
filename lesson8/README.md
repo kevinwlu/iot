@@ -196,6 +196,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Federated learning](https://en.wikipedia.org/wiki/Federated_learning)
   * [Independent and identically distributed (i.i.d.) random variables](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)
   * [Flower](https://flower.ai/)
+* [femtoAI](https://femto.ai/)
 * [tinyML Foundaton](https://www.tinyml.org/)
 * [Harvard Fundamentals of TinyML Course](https://online-learning.harvard.edu/course/fundamentals-tinyml) 
 * [Harvard CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
