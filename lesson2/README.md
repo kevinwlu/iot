@@ -80,6 +80,7 @@
   * [Linux GitHub repository](https://github.com/torvalds/linux)
   * [Linaro](https://en.wikipedia.org/wiki/Linaro)
   * [DistroWatch](https://en.wikipedia.org/wiki/DistroWatch)
+  * [RIOT (operating system)](https://en.wikipedia.org/wiki/RIOT_(operating_system))
 * [List of software package management systems](https://en.wikipedia.org/wiki/List_of_software_package_management_systems)
   * [Flatpak](https://en.wikipedia.org/wiki/Flatpak)
   * [UserLand Software](https://en.wikipedia.org/wiki/UserLand_Software)
