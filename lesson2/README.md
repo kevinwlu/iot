@@ -139,6 +139,7 @@
 * [Inter-integrated circuit](https://en.wikipedia.org/wiki/I%C2%B2C) (I<sup>2</sup>C, I2C, or IIC)
   * Serial data line (SDA)
   * Serial clock line (SCL)
+* [I3C (bus)](https://en.wikipedia.org/wiki/I3C_(bus)) (Improved Inter-Integrated Circuit) or SenseWire
 * [1-Wire](https://en.wikipedia.org/wiki/1-Wire)
   * Data input/output (DQ)
 * [Light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED)
