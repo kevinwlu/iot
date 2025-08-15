@@ -22,6 +22,7 @@
 * [Surrogate model](https://en.wikipedia.org/wiki/Surrogate_model)
 * [Surrogate data](https://en.wikipedia.org/wiki/Surrogate_data)
 * [Synthetic data](https://en.wikipedia.org/wiki/Synthetic_data)
+  * [Symage](https://www.symage.ai/) by [Geisel Software](https://geisel.software/)
 * [Controlled Unclassified Information](https://en.wikipedia.org/wiki/Controlled_Unclassified_Information) (CUI)
 * [DeepWiki](https://deepwiki.com/)
 
