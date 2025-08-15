@@ -170,13 +170,15 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * Hinton invented a method that can independently discover properties in data and which has become important for the large neural networks now in use.
 * [MLRelated.com](https://www.mlrelated.com/)
 * [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
-* [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
+  * [Quantization aware training](https://www.tensorflow.org/model_optimization/guide/quantization/training)
+  * [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers)
 * [Keras](https://en.wikipedia.org/wiki/Keras)
   > In the [*Odyssey*](https://en.wikipedia.org/wiki/Odyssey) by Homer, book 19, lines 560-569, the literary image of the [gates of horn and ivory](https://en.wikipedia.org/wiki/Gates_of_horn_and_ivory) was used to distinguish true dreams (corresponding to factual occurrences) from false\
   > Keras, the Greek word for "horn," is similar to that for "fulfill," and the Greek word for "ivory" is similar to that for "deceive"\
   > A true dream is spoken of as coming through the gate of horn, a false dream as coming through the gate of ivory
 * [PyTorch](https://en.wikipedia.org/wiki/PyTorch)
   * [ExecuTorch](https://github.com/pytorch/executorch)
+  * [Quantization-Aware Training for Large Language Models with PyTorch](https://pytorch.org/blog/quantization-aware-training/), July 30, 2024
 * [Ensemble learning](https://en.wikipedia.org/wiki/Ensemble_learning)
   * [Random forest](https://en.wikipedia.org/wiki/Random_forest)
 * [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) (SL)
