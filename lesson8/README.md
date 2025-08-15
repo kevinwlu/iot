@@ -331,6 +331,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Retrieval-augmented generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) (RAG)
 * [Eleos AI Research](https://eleosai.org/)
   * [Taking AI Welfare Seriously](https://arxiv.org/abs/2411.00986), November 4, 2024
+* [ENERZAi](https://enerzai.com/)
 * [The Falcon Series of Open Language Models](https://arxiv.org/abs/2311.16867)
 * [Fireworks AI](https://fireworks.ai/)
 * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
