@@ -87,6 +87,7 @@
   * [Time of flight](https://en.wikipedia.org/wiki/Time_of_flight) (ToF)
   * [Hesai Technology](https://www.hesaitech.com/)
   * [Ouster](https://en.wikipedia.org/wiki/Ouster_(company))
+* [Time-of-flight camera](https://en.wikipedia.org/wiki/Time-of-flight_camera)
 * [Materials and devices inspired by human skin](https://baogroup.stanford.edu/)
 * [Pressure sensor](https://en.wikipedia.org/wiki/Pressure_sensor)
   * [Air flow meter](https://en.wikipedia.org/wiki/Air_flow_meter)
