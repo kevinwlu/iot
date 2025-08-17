@@ -419,6 +419,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [GPT-4o](https://en.wikipedia.org/wiki/GPT-4o)
   * [GPT-4.5](https://en.wikipedia.org/wiki/GPT-4.5), February 27, 2025
   * [GPT 5](https://openai.com/index/introducing-gpt-5/), August 7, 2025
+  * [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/), August 2025
   * [Reasoning models](https://platform.openai.com/docs/guides/reasoning)
     * [Reasoning best practices](https://platform.openai.com/docs/guides/reasoning-best-practices)
     * [Thinking with images](https://openai.com/index/thinking-with-images/) April 16, 2025
