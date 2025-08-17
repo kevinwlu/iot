@@ -327,8 +327,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Decomposing Language Models Into Understandable Components](https://www.anthropic.com/news/decomposing-language-models-into-understandable-components), October 5, 2023
   * [Exploring model welfare](https://www.anthropic.com/research/exploring-model-welfare), April 24, 2025
 * [Apple Intelligence](https://en.wikipedia.org/wiki/Apple_Intelligence)
-* [Cognition Labs](https://www.cognition-labs.com/)
-  * [Devin](https://www.cognition-labs.com/introducing-devin)
+* [Cognition AI](https://en.wikipedia.org/wiki/Cognition_AI)
+  * [Devin AI](https://en.wikipedia.org/wiki/Devin_AI)
 * [Contextual AI](https://contextual.ai/)
   * [Retrieval-augmented generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) (RAG)
 * [Eleos AI Research](https://eleosai.org/)
