@@ -385,7 +385,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [BlenderBot 3](https://parl.ai/projects/bb3/) (BB3)
   * [Llama (language model)](https://en.wikipedia.org/wiki/Llama_(language_model))
     * [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), February 24, 2023
-    * [Guanaco](https://guanaco-model.github.io/): Generative Universal Assistant for Natural-language Adaptive Context-aware Omnilingual outputs
+    * [Guanaco](https://guanaco-model.github.io/): Generative Universal Assistant for Natural-language Adaptive Context-aware Omnilingual Outputs
+    * [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/), April 5, 2025
   * [Ray-Ban Meta Smart Glasses](https://www.meta.com/smart-glasses/)
     * [Ray-Ban](https://en.wikipedia.org/wiki/Ray-Ban)
     * [Smartglasses](https://en.wikipedia.org/wiki/Smartglasses)
