@@ -140,6 +140,7 @@
 * [Servomotor](https://en.wikipedia.org/wiki/Servomotor)
 * [Solenoid](https://en.wikipedia.org/wiki/Solenoid)
 * [Stepper motor](https://en.wikipedia.org/wiki/Stepper_motor)
+  * [A4988 Stepper Motor Driver](https://lastminuteengineers.com/a4988-stepper-motor-driver-arduino-tutorial/)
 * [Vibrating motor](https://www.adafruit.com/product/1201)
 ## Control
 * [List of computer-aided manufacturing software](https://en.wikipedia.org/wiki/List_of_computer-aided_manufacturing_software)
