@@ -63,6 +63,8 @@
 * [Philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
 * [Turing Award](https://en.wikipedia.org/wiki/Turing_Award)
 * [Turing test](https://en.wikipedia.org/wiki/Turing_test)
+  * [Challenge–response authentication](https://en.wikipedia.org/wiki/Challenge%E2%80%93response_authentication)
+  * [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) (Completely Automated Public Turing test to tell Computers and Humans Apart)
 * [Chinese room](https://en.wikipedia.org/wiki/Chinese_room)
 
 ![AI](/lesson8/AI.jpg)
