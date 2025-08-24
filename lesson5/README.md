@@ -11,7 +11,7 @@
   * [Comparison of MQTT implementations](https://en.wikipedia.org/wiki/Comparison_of_MQTT_implementations)
   * [Eclipse Foundation](https://en.wikipedia.org/wiki/Eclipse_Foundation)
   * [Eclipse Mosquitto](https://mosquitto.org/)
-  * [Eclipse Paho](https://en.wikipedia.org/wiki/Eclipse_Paho)
+    * [Chikungunya](https://en.wikipedia.org/wiki/Chikungunya)
   * [Eclipse IoT Sandboxes](https://iot.eclipse.org/projects/sandboxes/)
   * [Sandbox (software development)](https://en.wikipedia.org/wiki/Sandbox_(software_development))
   * [Sandbox (computer security)](https://en.wikipedia.org/wiki/Sandbox_(computer_security))
