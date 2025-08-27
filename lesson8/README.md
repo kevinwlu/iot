@@ -367,6 +367,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Gemini (chatbot)](https://en.wikipedia.org/wiki/Gemini_(chatbot))
     * [Try Deep Research and our new experimental model in Gemini, your AI assistant](https://blog.google/products/gemini/google-gemini-deep-research/), December 11, 2024
     * [Gemini (language model)](https://en.wikipedia.org/wiki/Gemini_(language_model))
+    * [Gemini Gems](https://gemini.google/overview/gems/)
     * [Imagen (text-to-image model)](https://en.wikipedia.org/wiki/Imagen_(text-to-image_model))
     * [Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/), August 5, 2025
   * [Ethical and Social Risks of Harm From Language Models](https://arxiv.org/abs/2112.04359)
