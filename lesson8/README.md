@@ -449,6 +449,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Physical Intelligence (π)](https://www.physicalintelligence.company/)
 * [Quora](https://en.wikipedia.org/wiki/Quora)
   * [Poe](https://poe.com/)
+  * [Edgar Allan Poe](https://en.wikipedia.org/wiki/Edgar_Allan_Poe) 1808&mdash;1849
 * [Qwen](https://en.wikipedia.org/wiki/Qwen)
 * [Safe Superintelligence](https://ssi.inc/) (SSI)
   * [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)
