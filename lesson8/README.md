@@ -331,6 +331,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Apple Intelligence](https://en.wikipedia.org/wiki/Apple_Intelligence)
 * [Cognition AI](https://en.wikipedia.org/wiki/Cognition_AI)
   * [Devin AI](https://en.wikipedia.org/wiki/Devin_AI)
+  * [Windsurf](https://windsurf.com/)
 * [Contextual AI](https://contextual.ai/)
   * [Retrieval-augmented generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) (RAG)
 * [Eleos AI Research](https://eleosai.org/)
