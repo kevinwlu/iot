@@ -228,7 +228,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [CentML](https://github.com/CentML)
   * [Gennady Pekhimenko](https://www.cs.toronto.edu/~pekhimenko/)
   * [Parallel Computer Architecture and Programming](https://uoft-ecosystem.github.io/CSC2224-Website/)
-
+* [Oversampling and undersampling in data analysis](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis)
 ## Deep Learning
 * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
 * [Deep belief network](https://en.wikipedia.org/wiki/Deep_belief_network) (DBN)
