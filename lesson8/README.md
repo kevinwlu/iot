@@ -53,6 +53,7 @@
 * [Existential risk from artificial general intelligence](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence)
 * [Hallucination (artificial intelligence)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))
   * [AI slop](https://en.wikipedia.org/wiki/AI_slop)
+  * [*Clanker*](https://en.wikipedia.org/wiki/Clanker)
 * [Artificial imagination](https://en.wikipedia.org/wiki/Artificial_imagination)
   * [De novo protein structure prediction](https://en.wikipedia.org/wiki/De_novo_protein_structure_prediction)
 * [AI alignment](https://en.wikipedia.org/wiki/AI_alignment)
