@@ -413,7 +413,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [DALL-E](https://en.wikipedia.org/wiki/DALL-E)
   * [Deep Research](https://help.openai.com/en/articles/10500283-deep-research-faq)
     * [Introducing deep research](https://openai.com/index/introducing-deep-research/), February 2, 2025
-  * [Operator](https://operator.chatgpt.com/)
+  * [Operator](https://en.wikipedia.org/wiki/OpenAI_Operator) deprecated in August 2025
     * [Introducing Operator](https://openai.com/index/introducing-operator/), January 23, 2025
     * [Computer-Using Agent](https://openai.com/index/computer-using-agent/) (CUA), January 23, 2025
     * [General Overview](https://help.openai.com/en/articles/10421097-operator)
@@ -424,8 +424,9 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [GPT-4](https://en.wikipedia.org/wiki/GPT-4)
   * [GPT-4o](https://en.wikipedia.org/wiki/GPT-4o)
   * [GPT-4.5](https://en.wikipedia.org/wiki/GPT-4.5), February 27, 2025
-  * [GPT 5](https://openai.com/index/introducing-gpt-5/), August 7, 2025
-  * [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/), August 2025
+  * [GPT 5](https://en.wikipedia.org/wiki/GPT-5), August 7, 2025
+    * [Introducing GPT-5](https://openai.com/index/introducing-gpt-5/), August 7, 2025
+  * [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/), August 5, 2025
   * [Reasoning models](https://platform.openai.com/docs/guides/reasoning)
     * [Reasoning best practices](https://platform.openai.com/docs/guides/reasoning-best-practices)
     * [Thinking with images](https://openai.com/index/thinking-with-images/) April 16, 2025
