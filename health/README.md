@@ -17,6 +17,7 @@
 * [Atrial fibrillation](https://en.wikipedia.org/wiki/Atrial_fibrillation) (AFib or AF)
 * [Blinded experiment](https://en.wikipedia.org/wiki/Blinded_experiment)
 * [Blood pressure](https://en.wikipedia.org/wiki/Blood_pressure)
+* [Cardiac amyloidosis](https://en.wikipedia.org/wiki/Cardiac_amyloidosis)
 * [Continuous noninvasive arterial pressure](https://en.wikipedia.org/wiki/Continuous_noninvasive_arterial_pressure) (CNAP)
 * [Data acquisition](https://en.wikipedia.org/wiki/Data_acquisition) (DAQ)
 * [Diabetes](https://en.wikipedia.org/wiki/Diabetes)
