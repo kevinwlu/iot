@@ -27,7 +27,7 @@
   * [Halliday](https://hallidayglobal.com/)
   * [Orion](https://www.meta.com/blog/orion-ar-glasses-augmented-reality/), September 25, 2024
 ## 2025 Spring
-* [NJSGC project](https://github.com/lquaynor/researchtopic/)
+* [Exploring Animal Physiological Adaptations to Microgravity](https://github.com/lquaynor/researchtopic/)
 ## 2024 Fall
 * [DensiSense](https://github.com/mczurlanis/DensiSense)
 ## 2024 Summer
