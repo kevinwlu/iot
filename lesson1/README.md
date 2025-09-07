@@ -31,6 +31,7 @@
   * [Ultra-wideband](https://en.wikipedia.org/wiki/Ultra-wideband) (UWB)
   * [International Mobile Equipment Identity](https://en.wikipedia.org/wiki/International_Mobile_Equipment_Identity) (IMEI)
   * [International Mobile Subscriber Identity](https://en.wikipedia.org/wiki/International_mobile_subscriber_identity) (IMSI)
+  * [Internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization) (i18n and l10n)
   * [Universal integrated circuit card](https://en.wikipedia.org/wiki/Universal_integrated_circuit_card) (UICC)
   * Subscriber Identity Module [SIM card](https://en.wikipedia.org/wiki/SIM_card)
   * [Communication channel](https://en.wikipedia.org/wiki/Communication_channel)
