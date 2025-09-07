@@ -56,7 +56,8 @@
 * [Microservices](https://en.wikipedia.org/wiki/Microservices)
   * [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
 * [Creatio](https://en.wikipedia.org/wiki/Creatio) process automation
-
+* [KaaIoT Technologies, LLC](https://www.kaaiot.com/)
+  * [Kaa](https://en.wikipedia.org/wiki/Kaa)
 ## Lab 9: YANG
 * A YANG module can be translated into an alternative XML-based syntax called YIN
 * The translated module is called a YIN module
