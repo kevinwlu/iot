@@ -359,7 +359,7 @@ $ python3 socket_client.py 'The Server IP Address'
 ```
 ## Lab 3B: Breadboard
 
-### 1. Connect the breadboard components (including a 1&mu;F capacitor) to Raspberry Pi 3V3, GND, GPIO 18, GPIO 24, and GPIO 25 using five jump wires
+### 1. Connect the breadboard components (including a 1 &mu;F capacitor) to Raspberry Pi 3V3, GND, GPIO 18, GPIO 24, and GPIO 25 using five jump wires
 
 ![ldr_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson3/ldr_bb.png)
 
