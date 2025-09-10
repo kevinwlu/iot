@@ -49,6 +49,7 @@
 * [GPIO Zero](https://gpiozero.readthedocs.io/en/latest/)
   * [Use GPIO from Python](https://www.raspberrypi.com/documentation/computers/os.html#use-gpio-from-python)
 * [pigpio](http://abyz.me.uk/rpi/pigpio)
+* [Network socket](https://en.wikipedia.org/wiki/Network_socket)
 * [PyPy](https://en.wikipedia.org/wiki/PyPy)
 * [Codon](https://github.com/exaloop/codon)
   * [Codons](https://en.wikipedia.org/wiki/Genetic_code#Codons) in [genetic code](https://en.wikipedia.org/wiki/Genetic_code)
@@ -405,8 +406,8 @@ $ GPIOZERO_PIN_FACTORY=pigpio PIGPIO_ADDR=<CONTROLLED_ADDRESS> python3 led.py
 ### Connect DS18B20 to Raspberry Pi and run the Python program:
 
 * GND to GND
-* VDD to 3.3V or 5V
-* DQ to GPIO 4 (the 4th pin from the left of the bottom row) and through a 4.7k&Omega; resistor to VDD
+* VDD to 3.3 V or 5 V
+* DQ to GPIO 4 (the 4th pin from the left of the bottom row) and through a 4.7k &Omega; resistor to VDD
 
 ![1-wire_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson3/1-wire_bb.png)
 
