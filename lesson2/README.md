@@ -123,7 +123,7 @@
       * Black to GND
       * White to TXD
       * Green to RXD
-    * Either Red to 5V or USB power cable to Raspberry Pi
+    * Either Red to 5 V or USB power cable to Raspberry Pi
   * [USB to TTL Serial Cable - Debug / Console Cable for Raspberry Pi](https://www.adafruit.com/product/954#technical-details)
     * [Transistor–transistor logic](https://en.wikipedia.org/wiki/Transistor%E2%80%93transistor_logic) (TTL)
     * [Silicon Labs](https://en.wikipedia.org/wiki/Silicon_Labs) [CP210x USB to UART Bridge VCP Drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
@@ -330,7 +330,7 @@ $ sudo i2cdetect -y 1
 
 [IC power-supply pin](https://en.wikipedia.org/wiki/IC_power-supply_pin) of [BJT](https://en.wikipedia.org/wiki/Bipolar_junction_transistor) (bipolar junction transistor) and [FET](https://en.wikipedia.org/wiki/Field-effect_transistor) (field-effect transistor)
 * GND to GND
-* VDD to 3.3V or 5V
+* VDD to 3.3 V or 5 V
 * DQ to GPIO 4 (the 4th pin from the left of the bottom row) and through a 4.7 k&Omega; resistor to VDD
 * An [asterisk](https://en.wikipedia.org/wiki/Asterisk) below vocalized as star is a [wildcard character](https://en.wikipedia.org/wiki/Wildcard_character) representing a placeholder
 
