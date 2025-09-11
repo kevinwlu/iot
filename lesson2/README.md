@@ -291,7 +291,7 @@ root@raspberypi:/home/pi# exit
 ## Lab 2E: Inter-integrated circuit (I2C)
 
 * Test I2C addresses with the preinstalled [i2c-tools](https://i2c.wiki.kernel.org/index.php/I2C_Tools)
-* Connect an I2C device [ADXL345](https://learn.adafruit.com/adxl345-digital-accelerometer) (3-axis accelerometer) to 3V3, GND, SDA, and SCL of a Raspberry Pi with two 4.7k&Omega; pull-up resistors
+* Connect an I2C device [ADXL345](https://learn.adafruit.com/adxl345-digital-accelerometer) (3-axis accelerometer) to 3V3, GND, SDA, and SCL of a Raspberry Pi with two 4.7 k&Omega; pull-up resistors
 
 ![adxl345_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/adxl345_bb.png)
 
@@ -331,7 +331,7 @@ $ sudo i2cdetect -y 1
 [IC power-supply pin](https://en.wikipedia.org/wiki/IC_power-supply_pin) of [BJT](https://en.wikipedia.org/wiki/Bipolar_junction_transistor) (bipolar junction transistor) and [FET](https://en.wikipedia.org/wiki/Field-effect_transistor) (field-effect transistor)
 * GND to GND
 * VDD to 3.3V or 5V
-* DQ to GPIO 4 (the 4th pin from the left of the bottom row) and through a 4.7k&Omega; resistor to VDD
+* DQ to GPIO 4 (the 4th pin from the left of the bottom row) and through a 4.7 k&Omega; resistor to VDD
 * An [asterisk](https://en.wikipedia.org/wiki/Asterisk) below vocalized as star is a [wildcard character](https://en.wikipedia.org/wiki/Wildcard_character) representing a placeholder
 
 ![1-wire_bb.png](https://github.com/kevinwlu/iot/blob/master/lesson2/1-wire_bb.png)
