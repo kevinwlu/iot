@@ -246,7 +246,6 @@
 * Change [password](https://en.wikipedia.org/wiki/Password) (default: raspberry) > Next
 * Set up screen: click the box if "the taskbar does not fit onto the screen" > Next
 * Select Wi-Fi network > Next
-  * [Learn how to connect to Stevens Wi-Fi](https://www.stevens.edu/services/stevens-wi-fi) > Stevens-IoT
 * Enter Wi-Fi password > Next
 * Update software > Next > System is up to date > OK
 * Setup complete > Restart
