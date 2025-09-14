@@ -311,6 +311,7 @@
 ## Entertainment
 * [SACO Technologies](https://www.saco.com/)
 ## Environmental and Social
+* [Benzene](https://en.wikipedia.org/wiki/Benzene)
 * [Carbon accounting](https://en.wikipedia.org/wiki/Carbon_accounting)
   * [Joel Cutcher Gershenfeld](https://scholarworks.brandeis.edu/esploro/profile/joel_gershenfeld/)
   * [Scarlett Lanzas](https://www.inclusivecapitalism.com/member/scarlett-lanzas/)
@@ -322,6 +323,7 @@
 * [Environmental, social, and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
 * [Ethanol](https://en.wikipedia.org/wiki/Ethanol)
 * [Greenhouse gas emissions](https://en.wikipedia.org/wiki/Greenhouse_gas_emissions)
+* [Hexane](https://en.wikipedia.org/wiki/Hexane)
 * [New York City Building Energy Laws](https://accelerator.nyc/building-laws)
   * [Local Law 97](https://www.nyc.gov/site/sustainablebuildings/ll97/local-law-97.page)
   * [Local Law 154](https://www.nyc.gov/assets/buildings/pdf/ll154.pdf)
