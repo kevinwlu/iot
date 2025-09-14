@@ -320,6 +320,7 @@
 * [Climate engineering](https://en.wikipedia.org/wiki/Climate_engineering)
 * [Corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility) (CSR)
 * [Environmental, social, and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance) (ESG)
+* [Ethanol](https://en.wikipedia.org/wiki/Ethanol)
 * [Greenhouse gas emissions](https://en.wikipedia.org/wiki/Greenhouse_gas_emissions)
 * [New York City Building Energy Laws](https://accelerator.nyc/building-laws)
   * [Local Law 97](https://www.nyc.gov/site/sustainablebuildings/ll97/local-law-97.page)
