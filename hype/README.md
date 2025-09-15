@@ -1,4 +1,4 @@
-# Gartner Hype Cycle for Emerging Technologies
+# Gartner Hype Cycle for Artificial Intelligence and Emerging Technologies
 * [Roy Amara](https://en.wikipedia.org/wiki/Roy_Amara) 1925&mdash;2007 and his [adage](https://en.wikipedia.org/wiki/Adage) known as Amara's law
   > We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.
 * [Aphorism](https://en.wikipedia.org/wiki/Aphorism)
