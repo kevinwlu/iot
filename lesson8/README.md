@@ -312,6 +312,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [GenAINet: Enabling Wireless Collective Intelligence via Knowledge Transfer and Reasoning](https://arxiv.org/abs/2402.16631)
 * [TelecomGPT](https://arxiv.org/abs/2407.09424): A Framework to Build Telecom-Specfic Large Language Models
 ---
+* AI Creativity S.r.l.
+  * [Remini](https://remini.ai/)
 * [Alegion](https://www.alegion.com/)
   * [Language Model Scaling Laws and GPT-3](https://towardsdatascience.com/language-model-scaling-laws-and-gpt-3-5cdc034e67bb)
 * [Allen Institute for AI](https://en.wikipedia.org/wiki/Allen_Institute_for_AI) (Ai2)
