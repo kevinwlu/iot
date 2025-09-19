@@ -117,6 +117,7 @@
   * [Naamloze vennootschap](https://en.wikipedia.org/wiki/Naamloze_vennootschap) (nv)
   * [Osakeyhtiö](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6) (Oy)
   * [Public limited company](https://en.wikipedia.org/wiki/Public_limited_company) (PLC)
+  * [Private limited company](https://en.wikipedia.org/wiki/Private_limited_company)
   * [S.A.](https://en.wikipedia.org/wiki/S.A._(corporation))
   * [Spółka z ograniczoną odpowiedzialnością](https://en.wikipedia.org/wiki/Sp%C3%B3%C5%82ka_z_ograniczon%C4%85_odpowiedzialno%C5%9Bci%C4%85) (Sp. z.o.o.)
 * [List of largest companies by revenue](https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue)
