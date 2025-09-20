@@ -693,6 +693,9 @@
 * [Faraday Future](https://en.wikipedia.org/wiki/Faraday_Future)
 * [Fernride](https://www.fernride.com/)
 * [Fisker](https://en.wikipedia.org/wiki/Fisker_Inc.) filed for [Chapter 11](https://en.wikipedia.org/wiki/Chapter_11,_Title_11,_United_States_Code) bankruptcy protection in Delaware on 17 June 2024
+* [Funicular](https://en.wikipedia.org/wiki/Funicular)
+  * [Ascensor da Glória](https://en.wikipedia.org/wiki/Ascensor_da_Gl%C3%B3ria)
+  * [Fløibanen](https://en.wikipedia.org/wiki/Fl%C3%B8ibanen)
 * [Gatik](https://gatik.ai/)
 * [Gillig](https://en.wikipedia.org/wiki/Gillig)
 * [Harmony Intelligent Mobility Alliance](https://en.wikipedia.org/wiki/Harmony_Intelligent_Mobility_Alliance) (HIMA)
@@ -754,6 +757,7 @@
 * [The Boring Company](https://en.wikipedia.org/wiki/The_Boring_Company)
 * [The Shyft Group](https://en.wikipedia.org/wiki/The_Shyft_Group)
 * [Torc Robotics](https://en.wikipedia.org/wiki/Torc_Robotics)
+* [Trams in Budapest](https://en.wikipedia.org/wiki/Trams_in_Budapest)
 * [Tresa Motors](https://tresamotors.com/)
 * [TuSimple](https://en.wikipedia.org/wiki/TuSimple)
 * [Velodyne Lidar](https://en.wikipedia.org/wiki/Velodyne_Lidar)
