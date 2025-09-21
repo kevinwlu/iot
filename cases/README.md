@@ -313,6 +313,9 @@
 ## Entertainment
 * [SACO Technologies](https://www.saco.com/)
 ## Environmental and Social
+* [Environmental protection](https://en.wikipedia.org/wiki/Environmental_protection)
+  * [Earth Day](https://en.wikipedia.org/wiki/Earth_Day), first held on April 22, 1970
+  * [Unix time](https://en.wikipedia.org/wiki/Unix_time) is the number of non-leap seconds since 00:00:00 UTC on 1 Janaury 1970
 * [Benzene](https://en.wikipedia.org/wiki/Benzene)
 * [Carbon accounting](https://en.wikipedia.org/wiki/Carbon_accounting)
   * [Joel Cutcher Gershenfeld](https://scholarworks.brandeis.edu/esploro/profile/joel_gershenfeld/)
