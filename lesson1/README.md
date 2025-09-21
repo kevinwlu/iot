@@ -172,6 +172,7 @@
   * [Clobbering](https://en.wikipedia.org/wiki/Clobbering)
   * [Alias](https://en.wikipedia.org/wiki/Alias_(command))
   * [Superuser](https://en.wikipedia.org/wiki/Superuser)
+  * [Epoch (computing)](https://en.wikipedia.org/wiki/Epoch_(computing))
   * [List of POSIX commands](https://en.wikipedia.org/wiki/List_of_POSIX_commands)
     * [`date`](https://en.wikipedia.org/wiki/System_time#Retrieving_system_time)\
       `date +%s`
