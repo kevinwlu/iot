@@ -316,6 +316,8 @@
 * [Environmental protection](https://en.wikipedia.org/wiki/Environmental_protection)
   * [Earth Day](https://en.wikipedia.org/wiki/Earth_Day), first held on April 22, 1970
   * [Unix time](https://en.wikipedia.org/wiki/Unix_time) is the number of non-leap seconds since 00:00:00 UTC on 1 Janaury 1970
+  * [Sun Day](https://en.wikipedia.org/wiki/Sun_Day), first held on May 3, 1978
+    * [Sun Day](https://www.sunday.earth/) is a day of action on September 21, 2025, celebrating the power of clean energy
 * [Benzene](https://en.wikipedia.org/wiki/Benzene)
 * [Carbon accounting](https://en.wikipedia.org/wiki/Carbon_accounting)
   * [Joel Cutcher Gershenfeld](https://scholarworks.brandeis.edu/esploro/profile/joel_gershenfeld/)
