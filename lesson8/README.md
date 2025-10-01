@@ -453,6 +453,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Sora](https://en.wikipedia.org/wiki/Sora_(text-to-video_model)), February 15, 2024
 * [OpenMinded](https://www.openmined.org/)
   * [PySyft](https://github.com/OpenMined/PySyft)
+* [Periodic Labs](https://periodic.com/), May 2025
 * [Perplexity AI](https://en.wikipedia.org/wiki/Perplexity_AI)
   * [Comet](https://comet.perplexity.ai/)
 * [Physical Intelligence (π)](https://www.physicalintelligence.company/)
