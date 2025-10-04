@@ -2,6 +2,8 @@
 * [Roy Amara](https://en.wikipedia.org/wiki/Roy_Amara) 1925&mdash;2007 and his [adage](https://en.wikipedia.org/wiki/Adage) known as Amara's law
   > We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.
 * [Aphorism](https://en.wikipedia.org/wiki/Aphorism)
+* [Epigram](https://en.wikipedia.org/wiki/Epigram)
+  * [Ashleigh Brilliant](https://en.wikipedia.org/wiki/Ashleigh_Brilliant) 1933&mdash;2025
 * [Gartner hype cycle](https://en.wikipedia.org/wiki/Gartner_hype_cycle)
 * Gartner hype cycle for artificial intelligence
   * [2025](https://www.gartner.com/en/newsroom/press-releases/2025-08-05-gartner-hype-cycle-identifies-top-ai-innovations-in-2025)
