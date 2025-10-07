@@ -130,10 +130,12 @@
     * [IEEE 7000 series of standards](https://ethicsinaction.ieee.org/p7000/)
     * [IEEE Ethics Certification Program for Autonomous and Intelligent Systems](https://standards.ieee.org/industry-connections/ecpais/) (ECPAIS)
     * [Open Community for Ethics in Autonomous and Intelligent Systems](https://ethicsstandards.org/) (OCEANIS)
+  * [IEEE P7100](https://standards.ieee.org/ieee/7100/11671/) Standard for Measurement of Environmental Impacts of Artificial Intelligence Systems
+  * [IEEE P7999](https://standards.ieee.org/ieee/7999/11740/) Standard for Integrating Organizational Ethics Oversight in Projects and Processes Involving Artificial Intelligence
   * [IEEE P7802](https://standards.ieee.org/ieee/7802/11238/) Standard for Measurement and Verification of Reduction of Greenhouse Gases for Climate Action Projects and Solutions
   * [IEEE Standards for Blockchain](https://blockchain.ieee.org/standards)
-  * [IEEE Standards for Cybersecurity](https://engagestandards.ieee.org/cybersecurity.html)
-  * [IEEE Standards for Smart Cities](https://engagestandards.ieee.org/smart-cities.html)
+  * [IEEE Standards and Projects for Cybersecurity](https://standards.ieee.org/initiatives/cybersecurity-standards-projects/)
+  * [IEEE Standards for Smart Cities](https://standards.ieee.org/initiatives/smart-cities-standards/)
   * [IEEE Sustainable Development](https://standards.ieee.org/featured/sustainable-development/)
   * [IEEE Sustainable ICT](https://sustainableict.ieee.org/)
     * [Information and communications technology](https://en.wikipedia.org/wiki/Information_and_communications_technology)
