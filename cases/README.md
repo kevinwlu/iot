@@ -279,6 +279,7 @@
   * [List of photovoltaics companies](https://en.wikipedia.org/wiki/List_of_photovoltaics_companies)
   * [Hanwha Group](https://en.wikipedia.org/wiki/Hanwha_Group)
 * [Solar Decathlon](https://en.wikipedia.org/wiki/Solar_Decathlon)
+  * [BuildingsNEXT Student Design Competition](https://www.solardecathlon.gov/)
 * [SolarEdge](https://en.wikipedia.org/wiki/SolarEdge)
 * [Solar geoengineering](https://en.wikipedia.org/wiki/Solar_geoengineering)
 * [Solid-state battery](https://en.wikipedia.org/wiki/Solid-state_battery) (SSB)
