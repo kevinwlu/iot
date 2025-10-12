@@ -5,8 +5,6 @@
   * [Website](https://www.worldstandardsday.org)
 * [Coordinated Universal Time](https://en.wikipedia.org/wiki/Coordinated_Universal_Time) (UTC)
   * [Unix time](https://en.wikipedia.org/wiki/Unix_time) since 00:00:00 UTC on 1 January 1970
-* [*Daubert* standard](https://en.wikipedia.org/wiki/Daubert_standard)
-* [*Frye* standard](https://en.wikipedia.org/wiki/Frye_standard)
 * [Ken Krechmer](https://www.isology.com/kens-bio/)
   * "[Teaching standards to engineers](https://www.academia.edu/1450419/Teaching_standards_to_engineers)," 2007
   * "[The mathematical basis of standards](https://www.academia.edu/1450425/The_mathematical_basis_of_standards)," 2005
@@ -267,3 +265,8 @@
 * [H.R.1631 - Pro Codes Act](https://www.congress.gov/bill/118th-congress/house-bill/1631)
 * [EU: "Malamud" case and CJEU ruling on March 5, 2024](https://www.globalnorm.de/en/news-product-compliance/details/eu-malamud-case-and-cjeu-ruling-on-march-5-2024/)
   * [Carl Malamud](https://en.wikipedia.org/wiki/Carl_Malamud)
+---
+* [*Daubert* standard](https://en.wikipedia.org/wiki/Daubert_standard)
+  * [*Daubert v. Merrell Dow Pharmaceuticals, Inc.*](https://en.wikipedia.org/wiki/Daubert_v._Merrell_Dow_Pharmaceuticals,_Inc.) 1993
+* [*Frye* standard](https://en.wikipedia.org/wiki/Frye_standard)
+  * *Frye v. United States* 1923
