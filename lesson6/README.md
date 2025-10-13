@@ -29,6 +29,8 @@
 * [Bare machine computing](https://en.wikipedia.org/wiki/Bare_machine_computing)
 * [AVR microcontrollers](https://en.wikipedia.org/wiki/AVR_microcontrollers)
 * [Arduino](https://en.wikipedia.org/wiki/Arduino)
+  * [Qualcomm to Acquire Arduino—Accelerating Developers’ Access to its Leading Edge Computing and AI](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i), 7 October 2025
+  * [Arduino joins forces with Qualcomm Technologies](https://www.arduino.cc/qualcomm/)
   * [Install Arduino IDE on Raspberry Pi](https://www.raspberrypi-spy.co.uk/2020/12/install-arduino-ide-on-raspberry-pi/)
   * [List of Arduino boards and compatible systems](https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems)
   * [Arduino Cloud](https://docs.arduino.cc/arduino-cloud/)
