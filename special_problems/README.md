@@ -29,7 +29,8 @@
     * [Long short-term memory](https://en.wikipedia.org/wiki/Long_short-term_memory) (LSTM)
   * [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
   * [PyTorch](https://en.wikipedia.org/wiki/PyTorch)
-  * [YOLO](https://arxiv.org/abs/1506.02640)
+  * [You Only Look Once](https://en.wikipedia.org/wiki/You_Only_Look_Once) 2015
+    * [YOLO](https://arxiv.org/abs/1506.02640)
   * [Amazon Rekognition](https://en.wikipedia.org/wiki/Amazon_Rekognition)
   * [Cascading classifiers](https://en.wikipedia.org/wiki/Cascading_classifiers)
   * [DeepLabCut](https://www.mackenziemathislab.org/deeplabcut) for animal pose estimation
@@ -44,6 +45,9 @@
     * [GitHub repository](https://github.com/roboflow)
   * [Coral](https://coral.ai/)
   * [Evaluation measures](https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval))
+  * [Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index) 1901
+    * [Paul Jaccard](https://en.wikipedia.org/wiki/Paul_Jaccard) 1868&mdash;1944
+    * [Grove Karl Gilbert](https://en.wikipedia.org/wiki/Grove_Karl_Gilbert) 1843&mdash;1918
   * [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall)
   * [Residual Block](https://paperswithcode.com/method/residual-block)
     * [Bottleneck Residual Block](https://paperswithcode.com/method/bottleneck-residual-block)
