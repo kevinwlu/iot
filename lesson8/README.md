@@ -407,6 +407,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Alexandr Wang](https://en.wikipedia.org/wiki/Alexandr_Wang)
     * [Nat Friedman](https://en.wikipedia.org/wiki/Nat_Friedman)
 * [Microsoft Copilot](https://en.wikipedia.org/wiki/Microsoft_Copilot)
+  * [CodeBERT](https://github.com/microsoft/CodeBERT)
 * [Mistral AI](https://en.wikipedia.org/wiki/Mistral_AI)
   * [Mistral (wind)](https://en.wikipedia.org/wiki/Mistral_(wind))
 * [Nota AI](https://www.nota.ai/)
