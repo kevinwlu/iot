@@ -124,6 +124,9 @@
 * [Cocktail party effect](https://en.wikipedia.org/wiki/Cocktail_party_effect)
 * [Selective auditory attention](https://en.wikipedia.org/wiki/Selective_auditory_attention)
 * [Stethoscope](Stethoscope)
+  * [Eko Health Inc.](https://en.wikipedia.org/wiki/Eko_Health_Inc.)
+  * [ibiomedi](https://www.ibiomedi.com/index.php?lang=en)
+  * [Heroic-Faith](https://heroicfaithusa.com/)
 * [Tinnitus](https://en.wikipedia.org/wiki/Tinnitus)
 ---
 * [Fundus (eye)](https://en.wikipedia.org/wiki/Fundus_(eye))
