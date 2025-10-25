@@ -123,8 +123,16 @@
 * [Auditory processing disorder](https://en.wikipedia.org/wiki/Auditory_processing_disorder) (APD)
 * [Cocktail party effect](https://en.wikipedia.org/wiki/Cocktail_party_effect)
 * [Selective auditory attention](https://en.wikipedia.org/wiki/Selective_auditory_attention)
+* [Auscultation](https://en.wikipedia.org/wiki/Auscultation)
+  * [René Laennec](https://en.wikipedia.org/wiki/Ren%C3%A9_Laennec) 1781&mdash;1826
 * [Stethoscope](Stethoscope)
+  * [David Littmann](https://en.wikipedia.org/wiki/David_Littmann) 1906&mdash;1981
   * [Eko Health Inc.](https://en.wikipedia.org/wiki/Eko_Health_Inc.)
+    * [AI-Enabled Eko Health Stethoscope TRICORDER Trial Marks Historic Leap in Early Heart Disease Detection](https://www.ekohealth.com/blogs/newsroom/tricorder-ai-study)
+    * [Heart failure](https://en.wikipedia.org/wiki/Heart_failure)
+    * [Atrial fibrillation](https://en.wikipedia.org/wiki/Atrial_fibrillation)
+    * [Valvular heart disease](https://en.wikipedia.org/wiki/Valvular_heart_disease)
+    * [Tricorder](https://en.wikipedia.org/wiki/Tricorder)
   * [ibiomedi](https://www.ibiomedi.com/index.php?lang=en)
   * [Heroic-Faith](https://heroicfaithusa.com/)
 * [Tinnitus](https://en.wikipedia.org/wiki/Tinnitus)
