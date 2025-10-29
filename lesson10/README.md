@@ -59,6 +59,7 @@
 * [Meme coin](https://en.wikipedia.org/wiki/Meme_coin)
 * [Meme stock](https://en.wikipedia.org/wiki/Meme_stock)
   * [Volatility (finance)](https://en.wikipedia.org/wiki/Volatility_(finance))
+* [NEO (blockchain)](https://en.wikipedia.org/wiki/NEO_(blockchain))
 * [Polkadot (cryptocurrency)](https://en.wikipedia.org/wiki/Polkadot_(cryptocurrency))
 * [Ripple (payment protocol)](https://en.wikipedia.org/wiki/Ripple_(payment_protocol))
 * [Shiba Inu (cryptocurrency)](https://en.wikipedia.org/wiki/Shiba_Inu_(cryptocurrency))
