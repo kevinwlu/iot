@@ -104,11 +104,16 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   | Even harder | How do physical properties determine [qualia](https://en.wikipedia.org/wiki/Qualia)? | Theories partially testable? |
   | Pretty hard | What physical properties distinguish conscious and unconscious systems? | Theories testable with brain-reading |
   | Easy | How does the brain process information? How does intelligence work? | Theories testable by simulation |
-##
+## 
 * [*Gödel, Escher, Bach*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) 1979 by [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter)
   * [*I Am a Strange Loop*](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop) 2007
 * [Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity)
   * [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil)
+## AI in Education
+* [Consortium for Generative AI in CS Education](https://www.teachcswithai.org/)
+* [MLCommons](https://mlcommons.org/) an Open AI Engineering Consortium
+  * [GitHub repository](https://github.com/mlcommons)
+* [Playlab](https://www.playlab.ai/)
 ## NumPy
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
 * [Linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
@@ -223,8 +228,6 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Weighted Sums and Green Thumbs: Analyzing Crops in Remote Greenhouses With ML and IoT](https://www.edgeimpulse.com/blog/weighted-sums-and-green-thumbs-analyzing-crops-in-remote-greenhouses-with-ml-and-iot)
     * [Pothole Detection Using Edgeimpulse's FOMO Algorithm](https://www.hackster.io/shahizat/pothole-detection-using-edgeimpulse-s-fomo-algorithm-1df62d) (Faster Objects, More Objects)
   * [Our Next Chapter: Edge Impulse is Joining Forces with Qualcomm Technologies!](https://edgeimpulse.com/blog/edge-impulse-qualcomm-acquisition/), March 10, 2025
-* [MLCommons](https://mlcommons.org/) Open ML/AI Engineering Consortium
-  * [GitHub repository](https://github.com/mlcommons)
 * [BrainChip](https://en.wikipedia.org/wiki/BrainChip)
 * [Gradio](https://github.com/gradio-app/gradio)
 * [Infxl](https://infxl.com/)
