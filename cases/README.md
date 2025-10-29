@@ -499,6 +499,7 @@
   * [Android](https://en.wikipedia.org/wiki/Android_(robot))
   * [Gynoid](https://en.wikipedia.org/wiki/Gynoid)
 * [Humanoid robot](https://en.wikipedia.org/wiki/Humanoid_robot)
+* [Hand–eye calibration problem](https://en.wikipedia.org/wiki/Hand%E2%80%93eye_calibration_problem)
 * [1X Technologies](https://en.wikipedia.org/wiki/1X_Technologies)
 * [ABB](https://en.wikipedia.org/wiki/ABB)
   * [ABB Robotics](https://new.abb.com/products/robotics)
