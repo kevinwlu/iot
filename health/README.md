@@ -147,6 +147,7 @@
   * [Iron(II)](https://en.wikipedia.org/wiki/Iron(II))
   * [Iron(II) sulfide](https://en.wikipedia.org/wiki/Iron(II)_sulfide)
   * [Lecithin](https://en.wikipedia.org/wiki/Lecithin)
+* [Eggshell membrane](https://en.wikipedia.org/wiki/Eggshell_membrane)
 * [Egg timer](https://en.wikipedia.org/wiki/Egg_timer)
   * [What causes a green ring around the yolk of a hard-cooked egg?](https://ask.usda.gov/s/article/What-causes-a-green-ring-around-the-yolk-of-a-hard-cooked-egg)
   * [How to avoid a green ring on hard-boiled egg yolks](https://food.unl.edu/how-avoid-green-ring-hard-boiled-egg-yolks)
