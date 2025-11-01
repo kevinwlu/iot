@@ -135,6 +135,7 @@
     * [Tricorder](https://en.wikipedia.org/wiki/Tricorder)
   * [ibiomedi](https://www.ibiomedi.com/index.php?lang=en)
   * [Heroic-Faith](https://heroicfaithusa.com/)
+* [Hearing aid](https://en.wikipedia.org/wiki/Hearing_aid)
 * [Tinnitus](https://en.wikipedia.org/wiki/Tinnitus)
 ---
 * [Fundus (eye)](https://en.wikipedia.org/wiki/Fundus_(eye))
