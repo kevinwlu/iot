@@ -29,6 +29,7 @@
     * [Native Americans in the United States](https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States)
     * [Indigenous peoples in Canada](https://en.wikipedia.org/wiki/Indigenous_peoples_in_Canada)
     * [First Nations in Canada](https://en.wikipedia.org/wiki/First_Nations_in_Canada)
+* [ZeroMQ](https://en.wikipedia.org/wiki/ZeroMQ) system can run without a dedicated message broker, i.e., zero broker
 * [Web application messaging protocol](https://en.wikipedia.org/wiki/Web_Application_Messaging_Protocol) (WAMP)
   * [WAMP specification](https://wamp-proto.org/spec.html)
   * [cURL](https://en.wikipedia.org/wiki/CURL) (Client URL)
