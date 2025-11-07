@@ -136,6 +136,7 @@
   * [ibiomedi](https://www.ibiomedi.com/index.php?lang=en)
   * [Heroic-Faith](https://heroicfaithusa.com/)
   * [Top Stethoscope Datasets and Models](https://universe.roboflow.com/search?q=class%3Astethoscope)
+  * [Heart Lung Disease Detection](https://www.kaggle.com/code/jabilojose/heart-lung-disease-detection)
   * [A Dataset of Lung Sounds](https://www.kaggle.com/datasets/arashnic/lung-dataset)
   * [HLS-CMDS: Heart and Lung Sounds Dataset Recorded From a Clinical Manikin Using Digital Stethoscope](https://archive.ics.uci.edu/dataset/1202/hls-cmds:+heart+and+lung+sounds+dataset+recorded+from+a+clinical+manikin+using+digital+stethoscope)
 * [Hearing aid](https://en.wikipedia.org/wiki/Hearing_aid)
