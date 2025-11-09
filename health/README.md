@@ -185,3 +185,5 @@
   * [Allen Whipple](https://en.wikipedia.org/wiki/Allen_Whipple) 1881&mdash;1963
 ---
 * [Schistosomiasis](https://en.wikipedia.org/wiki/Schistosomiasis)
+---
+* [PCSK9](https://en.wikipedia.org/wiki/PCSK9)
