@@ -101,6 +101,7 @@
   * [Cooperative bargaining](https://en.wikipedia.org/wiki/Cooperative_bargaining)
   * [Non-cooperative game theory](https://en.wikipedia.org/wiki/Non-cooperative_game_theory)
 * [Knowledge economy](https://en.wikipedia.org/wiki/Knowledge_economy)
+* [Lean startup](https://en.wikipedia.org/wiki/Lean_startup)
 * [Letter of intent](https://en.wikipedia.org/wiki/Letter_of_intent) (LoI)
 * [Life-cycle cost](https://en.wikipedia.org/wiki/Whole-life_cost) (LCC)
 * [List of legal entity types by country](https://en.wikipedia.org/wiki/List_of_legal_entity_types_by_country)
