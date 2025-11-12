@@ -44,6 +44,7 @@
 * [ANSI](https://en.wikipedia.org/wiki/American_National_Standards_Institute) (American National Standards Institute)
   * [C](https://en.wikipedia.org/wiki/C_(programming_language))
 * [ASHRAE](https://en.wikipedia.org/wiki/ASHRAE) (American Society of Heating, Refrigerating and Air-Conditioning Engineers)
+* [ASTM International](https://en.wikipedia.org/wiki/ASTM_International) (American Society for Testing and Materials)
 * [ATSC](https://www.atsc.org/) (Advanced Television Systems Committee)
   * [ATSC standards](https://en.wikipedia.org/wiki/ATSC_standards)
 * [CableLabs](https://en.wikipedia.org/wiki/CableLabs) founded in 1988
