@@ -40,6 +40,7 @@
   * [CTFd](https://ctfd.io/)
   * [GitHub repository](https://github.com/CTFd/CTFd)
 * [Circuit bending](https://en.wikipedia.org/wiki/Circuit_bending)
+* [Cybathlon](https://en.wikipedia.org/wiki/Cybathlon)
 * [Devpost](https://en.wikipedia.org/wiki/Devpost)
 * [FIRST Robotics Competition](https://en.wikipedia.org/wiki/FIRST_Robotics_Competition) (FRC)
   * [For Inspiration and Recognition of Science and Technology](https://en.wikipedia.org/wiki/For_Inspiration_and_Recognition_of_Science_and_Technology) (*FIRST*)
