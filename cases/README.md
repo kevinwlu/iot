@@ -433,6 +433,7 @@
 * [Ottobock](https://en.wikipedia.org/wiki/Ottobock)
   * [Exopulse Mollii Suit](https://www.ottobock.com/en-ex/exopulse-b2c)
 * [Pontosense](https://www.pontosense.com/) 
+* [Pulsetto](https://pulsetto.tech/)
 * [Saina Health](https://www.sainahealth.com/)
 * [Smart Nora](https://smartnora.com/)
 * [Smart Spoon for Parkinson's Patients](https://solve.mit.edu/challenges/solv-ed-youth-innovation-challenge-2/solutions/68738)
