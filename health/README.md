@@ -187,3 +187,5 @@
 * [Schistosomiasis](https://en.wikipedia.org/wiki/Schistosomiasis)
 ---
 * [PCSK9](https://en.wikipedia.org/wiki/PCSK9)
+---
+* [Vagus nerve](https://en.wikipedia.org/wiki/Vagus_nerve)
