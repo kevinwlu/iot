@@ -30,6 +30,8 @@
 * [Numbeo](https://en.wikipedia.org/wiki/Numbeo)
 * [Organisation for Economic Co-operation and Development](https://data.oecd.org/) ([OECD](https://en.wikipedia.org/wiki/OECD))
 * [Open Data Network](https://www.opendatanetwork.com/)
+* [Penn-Fudan Database for Pedestrian Detection and Segmentation](https://www.cis.upenn.edu/~jshi/ped_html/)
+  * [Kaggle](https://www.kaggle.com/datasets/psvishnu/pennfudan-database-for-pedestrian-detection-zip)
 * [Planetary Data System](https://en.wikipedia.org/wiki/Planetary_Data_System) (PDS)
   * [Website](https://pds.nasa.gov/)
   * [GitHub repositories](https://github.com/NASA-PDS)
