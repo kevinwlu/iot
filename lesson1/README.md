@@ -9,9 +9,10 @@
 * [OSI protocols](https://en.wikipedia.org/wiki/OSI_protocols)
 * [Closed platform](https://en.wikipedia.org/wiki/Closed_platform)
 * [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-  * [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) (TCP)
+  * [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) (TCP) since 1974
   * [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol) (UDP)
-  * [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol)
+  * [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol) (IP)
+  * [IP address](https://en.wikipedia.org/wiki/IP_address) since 1983
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
 * [Machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine) (M2M) communication
 * [Network packet](https://en.wikipedia.org/wiki/Network_packet)
