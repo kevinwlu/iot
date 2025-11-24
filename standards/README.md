@@ -172,6 +172,7 @@
   * [ISO/IEC 15288](https://en.wikipedia.org/wiki/ISO/IEC_15288) 
   * [ISO/IEC 27000-series](https://en.wikipedia.org/wiki/ISO/IEC_27000-series)
   * [ISO/IEEE 11073](https://en.wikipedia.org/wiki/ISO/IEEE_11073)
+  * IEC 60529 [IP code](https://en.wikipedia.org/wiki/IP_code) (Ingress Protection code)
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
   * [ITU AI for Good](https://en.wikipedia.org/wiki/ITU_AI_for_Good) 2017
     * [Website](https://ai4good.org/)
