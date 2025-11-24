@@ -27,6 +27,7 @@
   * [108th Congress Public Law 108-237](https://www.govinfo.gov/content/pkg/PLAW-108publ237/pdf/PLAW-108publ237.pdf)
   * Matthew Topic, "[The Standards Development Organization Advancement Act of 2004: A Victory for Consumer Choice?](https://scholarship.law.ufl.edu/jtlp/vol12/iss1/2)" Journal of Technology Law & Policy: Vol. 12: Iss. 1, Article 2, 2007. 
   * [Standards Development Organization Act of 2004](https://www.ftc.gov/legal-library/browse/statutes/standards-development-organization-act-2004)
+* [Intellectual property](https://en.wikipedia.org/wiki/Intellectual_property) (IP)
 * [Intellectual property organization](https://en.wikipedia.org/wiki/Intellectual_property_organization)
   * [European Council](https://en.wikipedia.org/wiki/European_Council)
   * [Council of the European Union](https://en.wikipedia.org/wiki/Council_of_the_European_Union)
