@@ -67,7 +67,7 @@
 * [IANA](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority) (Internet Assigned Numbers Authority)
   * [Service Name and Transport Protocol Port Number Registry](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
 * [IEC](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) (International Electrotechnical Commission)
-  * [Ingress Protection Code](https://en.wikipedia.org/wiki/IP_Code)
+  * IEC 60529 [IP code](https://en.wikipedia.org/wiki/IP_code) (Ingress Protection code) since 1976
 * [IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (Institute of Electrical and Electronics Engineers) founded in 1963 by the merger AIEE and IRE
   * [American Institute of Electrical Engineers](https://en.wikipedia.org/wiki/American_Institute_of_Electrical_Engineers) (AIEE) founded in 1884
   * [Institute of Radio Engineers](https://en.wikipedia.org/wiki/Institute_of_Radio_Engineers) (IRE) founded in 1912
@@ -172,7 +172,6 @@
   * [ISO/IEC 15288](https://en.wikipedia.org/wiki/ISO/IEC_15288) 
   * [ISO/IEC 27000-series](https://en.wikipedia.org/wiki/ISO/IEC_27000-series)
   * [ISO/IEEE 11073](https://en.wikipedia.org/wiki/ISO/IEEE_11073)
-  * IEC 60529 [IP code](https://en.wikipedia.org/wiki/IP_code) (Ingress Protection code)
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
   * [ITU AI for Good](https://en.wikipedia.org/wiki/ITU_AI_for_Good) 2017
     * [Website](https://ai4good.org/)
