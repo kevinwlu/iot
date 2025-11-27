@@ -192,6 +192,7 @@
 * [BASIC](https://en.wikipedia.org/wiki/BASIC)
   * [John G. Kemeny](https://en.wikipedia.org/wiki/John_G._Kemeny) 1926&mdash;1992
   * [Thomas E. Kurtz](https://en.wikipedia.org/wiki/Thomas_E._Kurtz) 1928&mdash;2024
+* [Dart (programming language)](https://en.wikipedia.org/wiki/Dart_(programming_language))
 * [Lua (programming language)](https://en.wikipedia.org/wiki/Lua_(programming_language))
   * [lua.org](https://www.lua.org/)
 * [Ruby (programming language)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
