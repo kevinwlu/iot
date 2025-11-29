@@ -69,6 +69,7 @@
   * [Service Name and Transport Protocol Port Number Registry](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)
 * [IEC](https://en.wikipedia.org/wiki/International_Electrotechnical_Commission) (International Electrotechnical Commission)
   * IEC 60529 [IP code](https://en.wikipedia.org/wiki/IP_code) (Ingress Protection code) since 1976
+  * [IEC 60601](https://en.wikipedia.org/wiki/IEC_60601) Medical Electrical Equipment
 * [IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (Institute of Electrical and Electronics Engineers) founded in 1963 by the merger AIEE and IRE
   * [American Institute of Electrical Engineers](https://en.wikipedia.org/wiki/American_Institute_of_Electrical_Engineers) (AIEE) founded in 1884
   * [Institute of Radio Engineers](https://en.wikipedia.org/wiki/Institute_of_Radio_Engineers) (IRE) founded in 1912
