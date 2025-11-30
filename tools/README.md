@@ -258,6 +258,7 @@
 ## User Interface and User Experience
 * [Comparison of vector graphics editors](https://en.wikipedia.org/wiki/Comparison_of_vector_graphics_editors)
 * [Light and Versatile Graphics Library](https://lvgl.io/) (LVGL)
+* [Model–view–viewmodel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) (MVVM)
 * [Figma](https://en.wikipedia.org/wiki/Figma_(software))
 * [Selenium](https://www.selenium.dev/)
 * [Speech Services](https://en.wikipedia.org/wiki/Speech_Services)
