@@ -2,6 +2,8 @@
 * [W. Timothy Garvey](https://en.wikipedia.org/wiki/W._Timothy_Garvey), Professor and Chair, Department of Nutrition Sciences, University of Alabama at Birmingham
   > Knowledge is telling the past. Wisdom is predicting the future.
 * [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
+* [Apache Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop)
+* [Apache Parquet](https://en.wikipedia.org/wiki/Apache_Parquet)
 * [Big data](https://en.wikipedia.org/wiki/Big_data)
 * [Data lake](https://en.wikipedia.org/wiki/Data_lake)
 * [Data science](https://en.wikipedia.org/wiki/Data_science)
