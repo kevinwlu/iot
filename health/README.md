@@ -7,7 +7,9 @@
 ---
 * [Health system](https://en.wikipedia.org/wiki/Health_system)
 * [Healthcare in Taiwan](https://en.wikipedia.org/wiki/Healthcare_in_Taiwan)
+* [Numbeo](https://en.wikipedia.org/wiki/Numbeo) crowd-sourced online database
 * [Health Care Index by Country](https://www.numbeo.com/health-care/rankings_by_country.jsp)
+* [Countries With the Best Health Care Systems, 2025](https://ceoworld.biz/2025/09/21/countries-with-the-best-health-care-systems-2025/)
 ---
 * [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease) (AD)
   * [Alois Alzheimer](https://en.wikipedia.org/wiki/Alois_Alzheimer) 1864&mdash;1915
