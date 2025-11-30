@@ -31,6 +31,7 @@
   * [How to use Firebase with Django project](https://medium.com/@canadiyaman/how-to-use-firebase-with-django-project-34578516bafe) by [Can Adiyaman](https://github.com/canadiyaman)
   * [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
   * [MongoDB](https://en.wikipedia.org/wiki/MongoDB)
+  * [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)
   * [Couchbase Server](https://en.wikipedia.org/wiki/Couchbase_Server)
   * [CockroachDB](https://en.wikipedia.org/wiki/CockroachDB)
   * [RavenDB](https://en.wikipedia.org/wiki/RavenDB)
