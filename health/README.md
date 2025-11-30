@@ -21,6 +21,8 @@
 * [Blood pressure](https://en.wikipedia.org/wiki/Blood_pressure)
 * [Cardiac amyloidosis](https://en.wikipedia.org/wiki/Cardiac_amyloidosis)
 * [Continuous noninvasive arterial pressure](https://en.wikipedia.org/wiki/Continuous_noninvasive_arterial_pressure) (CNAP)
+* [Cortisol](https://en.wikipedia.org/wiki/Cortisol) 
+  * [Stress hormone](https://en.wikipedia.org/wiki/Stress_hormone)
 * [Data acquisition](https://en.wikipedia.org/wiki/Data_acquisition) (DAQ)
 * [Diabetes](https://en.wikipedia.org/wiki/Diabetes)
   * [Type 1 diabetes](https://en.wikipedia.org/wiki/Type_1_diabetes) (T1D)
