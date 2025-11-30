@@ -197,6 +197,8 @@
 * [Google Marketing Platform](https://en.wikipedia.org/wiki/Google_Marketing_Platform)
   * [Google Data Studio](https://marketingplatform.google.com/about/data-studio/)
 * [Pivot table](https://en.wikipedia.org/wiki/Pivot_table)
+## Diagramming
+* [Lucidchart](https://en.wikipedia.org/wiki/Lucidchart)
 ## Diversity, Equality, and Inclusion (DEI)
 * [Diversity, equity, and inclusion](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion)
 * [Ongig](https://www.ongig.com/)
