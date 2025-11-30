@@ -5,6 +5,10 @@
 * [eMedicine](https://en.wikipedia.org/wiki/EMedicine)
 * [*The Lancet*](https://en.wikipedia.org/wiki/The_Lancet)
 ---
+* [Health system](https://en.wikipedia.org/wiki/Health_system)
+* [Healthcare in Taiwan](https://en.wikipedia.org/wiki/Healthcare_in_Taiwan)
+* [Health Care Index by Country](https://www.numbeo.com/health-care/rankings_by_country.jsp)
+---
 * [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease) (AD)
   * [Alois Alzheimer](https://en.wikipedia.org/wiki/Alois_Alzheimer) 1864&mdash;1915
   * [Amyloid beta](https://en.wikipedia.org/wiki/Amyloid_beta) (Aβ)
@@ -14,6 +18,9 @@
   * [Dementia](https://en.wikipedia.org/wiki/Dementia)
   * [Experimental models of Alzheimer's disease](https://en.wikipedia.org/wiki/Experimental_models_of_Alzheimer%27s_disease)
   * [Limbic-predominant age-related TDP-43 encephalopathy](https://en.wikipedia.org/wiki/Limbic-predominant_age-related_TDP-43_encephalopathy) (LATE)
+  * [MIND diet](https://en.wikipedia.org/wiki/MIND_diet)
+    * [DASH diet](https://en.wikipedia.org/wiki/DASH_diet)
+    * [Healthy diet](https://en.wikipedia.org/wiki/Healthy_diet)
 * [Anemia](https://en.wikipedia.org/wiki/Anemia)
 * [Aneurysm](https://en.wikipedia.org/wiki/Aneurysm)
   * [Intracranial aneurysm](https://en.wikipedia.org/wiki/Intracranial_aneurysm)
