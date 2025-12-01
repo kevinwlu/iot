@@ -199,6 +199,8 @@
   * [Google Data Studio](https://marketingplatform.google.com/about/data-studio/)
 * [Pivot table](https://en.wikipedia.org/wiki/Pivot_table)
 ## Diagramming
+* [CircuitLab](https://www.circuitlab.com/)
+* [Circuit Diagram](https://www.circuit-diagram.org/)
 * [Lucidchart](https://en.wikipedia.org/wiki/Lucidchart)
 ## Diversity, Equality, and Inclusion (DEI)
 * [Diversity, equity, and inclusion](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion)
