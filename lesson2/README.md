@@ -78,6 +78,7 @@
 * [List of operating systems](https://en.wikipedia.org/wiki/List_of_operating_systems)
   * [Linux](https://en.wikipedia.org/wiki/Linux)
   * [GNU/Linux Distributions Timeline](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
+    * [Kali Linux](https://en.wikipedia.org/wiki/Kali_Linux)
   * [Linux Foundation](https://en.wikipedia.org/wiki/Linux_Foundation) (LF)
   * [Linux GitHub repository](https://github.com/torvalds/linux)
   * [Linaro](https://en.wikipedia.org/wiki/Linaro)
