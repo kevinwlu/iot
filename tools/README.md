@@ -202,6 +202,9 @@
 * [CircuitLab](https://www.circuitlab.com/)
 * [Circuit Diagram](https://www.circuit-diagram.org/)
 * [Lucidchart](https://en.wikipedia.org/wiki/Lucidchart)
+## Digital Forensics
+* [Digital forensics](https://en.wikipedia.org/wiki/Digital_forensics)
+* [List of digital forensics tools](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
 ## Diversity, Equality, and Inclusion (DEI)
 * [Diversity, equity, and inclusion](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion)
 * [Ongig](https://www.ongig.com/)
