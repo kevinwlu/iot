@@ -66,12 +66,6 @@
 * [Leet](https://en.wikipedia.org/wiki/Leet) or 1337
 * [Numeronym](https://en.wikipedia.org/wiki/Numeronym)
 * [Eponym](https://en.wikipedia.org/wiki/Eponym)
-* [AngelList](https://en.wikipedia.org/wiki/AngelList)
-  * [Angel investor](https://en.wikipedia.org/wiki/Angel_investor)
-* [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator)
-  * [List of Y Combinator startups](https://en.wikipedia.org/wiki/List_of_Y_Combinator_startups)
-  * [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
-* [Unicorn](https://en.wikipedia.org/wiki/Unicorn_(finance)) and decacorn
 * [PageRank](https://en.wikipedia.org/wiki/PageRank)
 * [International Forum Design](https://en.wikipedia.org/wiki/International_Forum_Design)
   * [iF Product Design Award](https://en.wikipedia.org/wiki/IF_Product_Design_Award)
