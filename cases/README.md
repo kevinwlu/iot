@@ -806,6 +806,8 @@
 * [Porrima](https://www.porrima.ch/en/)
 * [Tyde](https://tyde.one/)
 * [Zhuhai Cloud](https://en.wikipedia.org/wiki/Zhuhai_Cloud)
+## Travel Agency
+* [Travel agency](https://en.wikipedia.org/wiki/Travel_agency)
 ## Other
 * [Animagraffs](https://www.youtube.com/@animagraffs/featured)
 * [Bored Panda](https://en.wikipedia.org/wiki/Bored_Panda)
