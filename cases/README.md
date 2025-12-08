@@ -138,6 +138,7 @@
 * [Tevel Aerobotics](https://www.tevel-tech.com/)
 * [Textron](https://en.wikipedia.org/wiki/Textron)
 * [Unusual Machines](https://www.unusualmachines.com/)
+* [Vanilla UAV](https://en.wikipedia.org/wiki/Vanilla_UAV)
 * [Wing (company)](https://en.wikipedia.org/wiki/Wing_(company))
 * [Zipline](https://www.flyzipline.com/)
 ## Education
