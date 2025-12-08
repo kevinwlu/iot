@@ -49,6 +49,8 @@
     * [Paul Jaccard](https://en.wikipedia.org/wiki/Paul_Jaccard) 1868&mdash;1944
     * [Grove Karl Gilbert](https://en.wikipedia.org/wiki/Grove_Karl_Gilbert) 1843&mdash;1918
   * [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall)
+    * [False positives and false negatives](https://en.wikipedia.org/wiki/False_positives_and_false_negatives)
+    * [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix)
   * [Residual Block](https://paperswithcode.com/method/residual-block)
     * [Bottleneck Residual Block](https://paperswithcode.com/method/bottleneck-residual-block)
     * [Inverted Residual Block](https://paperswithcode.com/method/inverted-residual-block)
