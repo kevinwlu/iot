@@ -129,6 +129,7 @@
   * [IEEE P3123](https://standards.ieee.org/ieee/3123/10744/) Standard for Artificial Intelligence and Machine Learning (AI/ML) Terminology and Data Format
   * [IEEE P3378](https://standards.ieee.org/ieee/3378/11304/) Standard for Framework and Process for Large-Scale Deep Learning Model Evaluation
   * [IEEE P3469](https://standards.ieee.org/ieee/3469/11608/) Standard for an Environmental Liability Process Model for Accounting in Systems Engineering
+  * [IEEE P3497](https://standards.ieee.org/ieee/3497/11833/) Standard for Performance Benchmarking of Artificial Intelligence for Database Management Systems for Structured Query Language-Based Databases
   * [IEEE Ethics in Action in Autonomous and Intelligent Systems](https://ethicsinaction.ieee.org/)
     * [IEEE 7000 series of standards](https://ethicsinaction.ieee.org/p7000/)
     * [IEEE Ethics Certification Program for Autonomous and Intelligent Systems](https://standards.ieee.org/industry-connections/ecpais/) (ECPAIS)
