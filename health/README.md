@@ -40,6 +40,7 @@
   * [Type 1 diabetes](https://en.wikipedia.org/wiki/Type_1_diabetes) (T1D)
   * [Type 2 diabetes](https://en.wikipedia.org/wiki/Type_2_diabetes) (T2D)
     * [Metformin](https://en.wikipedia.org/wiki/Metformin)
+  * [Amadori rearrangement](https://en.wikipedia.org/wiki/Amadori_rearrangement)
   * [Blood sugar level](https://en.wikipedia.org/wiki/Blood_sugar_level)
   * [Carbohydrate](https://en.wikipedia.org/wiki/Carbohydrate)
     * [Amylose](https://en.wikipedia.org/wiki/Amylose)
