@@ -203,6 +203,7 @@
   * [PbD-SE](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=pbd-se) (Privacy by Design Documentation for Software Engineers)
   * [XSPA](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=xspa) (Cross-Enterprise Security and Privacy Authorization)
 * [OECD](https://en.wikipedia.org/wiki/OECD) (Organisation for Economic Co-operation and Development)
+  * [Global Partnership for AI](https://oecd.ai/en/) (GPAI)
 * [OMA](https://en.wikipedia.org/wiki/Open_Mobile_Alliance) (Open Mobile Alliance)
   * [OMA IoT SpecWorks](https://omaspecworks.org/what-is-oma-specworks/iot/)
 * [OMG](https://en.wikipedia.org/wiki/Object_Management_Group) (Object Management Group)
