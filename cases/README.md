@@ -447,8 +447,10 @@
 * [Withings](https://en.wikipedia.org/wiki/Withings)
   * [U-Scan](https://www.withings.com/us/en/u-scan)
 ## Hospitality
+* [Hospitality](https://en.wikipedia.org/wiki/Hospitality)
 * [Amadeus IT Group](https://en.wikipedia.org/wiki/Amadeus_IT_Group)
 * [Smart Bar](https://www.smartbarusa.com/) automated cocktail dispensing system
+* [VM-Fi](https://www.vmfi.net/)
 ## Imagery
 * [Array Labs](https://www.arraylabs.io/)
 * [Bird Buddy](https://mybirdbuddy.com/)
