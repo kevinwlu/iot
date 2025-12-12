@@ -216,7 +216,8 @@
   * [General Fusion](https://en.wikipedia.org/wiki/General_Fusion)
   * [Helion Energy](https://en.wikipedia.org/wiki/Helion_Energy)
   * [Marvel Fusion](https://marvelfusion.com/)
-  * [NearStar Fusion](https://www.nearstarfusion.com/)
+  * [NearStar Fusion](https://www.nearstarfusion.com/)\
+  * [Thea Energy](https://en.wikipedia.org/wiki/Thea_Energy)
 * [Fusion ignition](https://en.wikipedia.org/wiki/Fusion_ignition)
   * [National Ignition Facility](https://en.wikipedia.org/wiki/National_Ignition_Facility) (NIF)
   * [Focused Energy](https://focused-energy.world/)
