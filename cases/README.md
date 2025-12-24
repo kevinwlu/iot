@@ -201,6 +201,7 @@
 * [EVBox](https://en.wikipedia.org/wiki/EVBox)
 * [Everfuel](https://www.everfuel.com/)
 * [Faradion](https://faradion.co.uk/)
+* [First Solar](https://en.wikipedia.org/wiki/First_Solar)
 * [Form Energy](https://en.wikipedia.org/wiki/Form_Energy)
 * [Forum Mobility](https://forummobility.com/)
 * [FORVIA](https://www.forvia.com/)
@@ -236,6 +237,8 @@
 * [Hydrogen economy](https://en.wikipedia.org/wiki/Hydrogen_economy)
 * [INEOS](https://en.wikipedia.org/wiki/Ineos)
 * [Ingeteam](https://www.ingeteam.com/)
+* [Intersect](https://www.intersect.com/)
+  * [Alphabet Announces Agreement to Acquire Intersect to Advance U.S. Energy Innovation](https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Agreement-to-Acquire-Intersect-to-Advance-U-S--Energy-Innovation-2025-DVIuVDM9wW/default.aspx), December 22, 2025
 * [Kempower](https://kempower.com/)
 * [KoBold Metals](https://www.koboldmetals.com/)
 * [KORE Power](https://korepower.com/)
