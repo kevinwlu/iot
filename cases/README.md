@@ -293,6 +293,7 @@
 * [Solar Decathlon](https://en.wikipedia.org/wiki/Solar_Decathlon)
   * [BuildingsNEXT Student Design Competition](https://www.solardecathlon.gov/)
   * [National Renewable Energy Laboratory](https://en.wikipedia.org/wiki/National_Renewable_Energy_Laboratory) (NREL)
+* [SolarCity](https://en.wikipedia.org/wiki/SolarCity)
 * [SolarEdge](https://en.wikipedia.org/wiki/SolarEdge)
 * [Solar geoengineering](https://en.wikipedia.org/wiki/Solar_geoengineering)
 * [Solid-state battery](https://en.wikipedia.org/wiki/Solid-state_battery) (SSB)
