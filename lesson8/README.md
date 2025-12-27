@@ -5,6 +5,8 @@
 * [Apache Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop)
 * [Apache Parquet](https://en.wikipedia.org/wiki/Apache_Parquet)
 * [Big data](https://en.wikipedia.org/wiki/Big_data)
+* [Data annotation](https://en.wikipedia.org/wiki/Data_annotation)
+  * [Surge AI](https://en.wikipedia.org/wiki/Surge_AI)
 * [Data lake](https://en.wikipedia.org/wiki/Data_lake)
 * [Data science](https://en.wikipedia.org/wiki/Data_science)
   * [Statistics](https://en.wikipedia.org/wiki/Statistics)
@@ -111,6 +113,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [*I Am a Strange Loop*](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop) 2007
 * [Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity)
   * [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil)
+
 ## AI in Education
 * [Consortium for Generative AI in CS Education](https://www.teachcswithai.org/)
 * [MLCommons](https://mlcommons.org/) an Open AI Engineering Consortium
@@ -206,6 +209,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Q-learning](https://en.wikipedia.org/wiki/Q-learning)
   * [Andrew Barto](https://en.wikipedia.org/wiki/Andrew_Barto)
   * [Richard S. Sutton](https://en.wikipedia.org/wiki/Richard_S._Sutton)
+  * [Reinforcement learning from human feedback](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback) (RLHF)
 * [Transfer learning](https://en.wikipedia.org/wiki/Transfer_learning) (TL)
 * [One-shot learning](https://en.wikipedia.org/wiki/One-shot_learning)
 * [Zero-shot learning](https://en.wikipedia.org/wiki/Zero-shot_learning) (ZSL)
