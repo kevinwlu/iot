@@ -28,6 +28,7 @@
 ## Social Media Apps
 * [Social media](https://en.wikipedia.org/wiki/Social_media)
 * [Anonymous social media](https://en.wikipedia.org/wiki/Anonymous_social_media)
+* [CapCut](https://en.wikipedia.org/wiki/CapCut)
 * [Fizz](https://fizzsocial.app/)
 * [Gas (app)](https://en.wikipedia.org/wiki/Gas_(app))
 * [Saturn](https://www.joinsaturn.com/)
