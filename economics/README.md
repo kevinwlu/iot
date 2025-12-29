@@ -125,7 +125,9 @@
 * [Memorandum of understanding](https://en.wikipedia.org/wiki/Memorandum_of_understanding) (MoU)
 * [Mileage-Based Road User Charges](https://highways.dot.gov/public-roads/marchapril-2006/mileage-based-road-user-charges)
 * [Minsky moment](https://en.wikipedia.org/wiki/Minsky_moment)
+  * [Hyman Minsky](https://en.wikipedia.org/wiki/Hyman_Minsky) 1919&mdash;1996
 * [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium)
+  * [John Forbes Nash Jr.](https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr.) 1928&mdash;2015
 * [Non-compete clause](https://en.wikipedia.org/wiki/Non-compete_clause)
 * [Non-disclosure agreement](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 * [Office of Foreign Assets Control](https://en.wikipedia.org/wiki/Office_of_Foreign_Assets_Control) (OFAC)
