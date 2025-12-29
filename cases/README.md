@@ -118,6 +118,7 @@
   * [Autel Robotics](https://en.wikipedia.org/wiki/Autel_Robotics)
   * [DJI](https://en.wikipedia.org/wiki/DJI)
   * [Meituan](https://en.wikipedia.org/wiki/Meituan)
+* [Unmanned combat aerial vehicle](https://en.wikipedia.org/wiki/Unmanned_combat_aerial_vehicle)
 * [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
 * [Anzu Robotics](https://www.anzurobotics.com/)
 * [Apian](https://www.apian.aero/)
