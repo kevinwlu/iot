@@ -557,6 +557,7 @@
 * [Impossible Metals](https://impossiblemetals.com/)
 * [Intrinsic](https://intrinsic.ai/)
 * [Kinova](https://en.wikipedia.org/wiki/Kinova)
+* [KUKA](https://en.wikipedia.org/wiki/KUKA) was aquired by [Midea Group](https://en.wikipedia.org/wiki/Midea_Group) in 2016
 * [Leju Robot](https://en.wikipedia.org/wiki/Leju_Robot)
 * [Levatas](https://levatas.com/)
 * [LionsBot](https://www.lionsbot.com/)
