@@ -153,6 +153,7 @@
 * [Social alienation](https://en.wikipedia.org/wiki/Social_alienation)
 * [Social justice](https://en.wikipedia.org/wiki/Social_justice)
 * [Sovereign wealth fund](https://en.wikipedia.org/wiki/Sovereign_wealth_fund) (SWF)
+* [Stagflation](https://en.wikipedia.org/wiki/Stagflation)
 * [Sustainability](https://en.wikipedia.org/wiki/Sustainability)
 * [Tariff](https://en.wikipedia.org/wiki/Tariff)
   * [Smoot–Hawley Tariff Act](https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act)
