@@ -484,6 +484,7 @@
 * [eLeapPower](https://www.eleappower.com/)
 * [Infinitum](https://goinfinitum.com/)
 * [Liebherr](https://en.wikipedia.org/wiki/Liebherr)
+* [Putzmeister](https://en.wikipedia.org/wiki/Putzmeister) was acquired by [Sany](https://en.wikipedia.org/wiki/Sany) in 2012
 * [Rosotics](https://www.rosotics.com/)
 * [STILFOLD](https://www.stilfold.com/)
 * [Tetra Technologies](https://tetratec.com/)
