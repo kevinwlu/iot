@@ -265,6 +265,7 @@
 * [Lithium-sulfur battery](https://en.wikipedia.org/wiki/Lithium%E2%80%93sulfur_battery)
 * [Lyten](https://lyten.com/)
 * [Martinrea](https://en.wikipedia.org/wiki/Martinrea)
+* [Meerwind Offshore Wind Farm](https://en.wikipedia.org/wiki/Meerwind_Offshore_Wind_Farm)
 * [M. Stanley Whittingham](https://en.wikipedia.org/wiki/M._Stanley_Whittingham)
   * [Nobel Prize in Chemistry 2019](https://www.nobelprize.org/prizes/chemistry/2019/summary/)
 * [MIT ONE Lab](https://www.onelab.mit.edu/)
