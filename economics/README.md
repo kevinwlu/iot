@@ -134,6 +134,9 @@
   * [Specially Designated Nationals and Blocked Persons List](https://en.wikipedia.org/wiki/Specially_Designated_Nationals_and_Blocked_Persons_List)
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator) or Key performance indicator (KPI)
 * [Phillips curve](https://en.wikipedia.org/wiki/Phillips_curve) by [Bill Phillips](https://en.wikipedia.org/wiki/Bill_Phillips_(economist)) 1914&mdash;1975
+* [Plaza Accord](https://en.wikipedia.org/wiki/Plaza_Accord)
+  * [Japanese asset price bubble](https://en.wikipedia.org/wiki/Japanese_asset_price_bubble)
+  * [Lost Decades](https://en.wikipedia.org/wiki/Lost_Decades)
 * [Price–earnings ratio](https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio) (P/E ratio)
 * [Price–performance ratio](https://en.wikipedia.org/wiki/Price%E2%80%93performance_ratio)
   * [Benefit–cost ratio](https://en.wikipedia.org/wiki/Benefit%E2%80%93cost_ratio)
