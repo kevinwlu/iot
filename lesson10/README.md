@@ -92,6 +92,8 @@
   * [OpenSea](https://en.wikipedia.org/wiki/OpenSea)
   * [Sfermion](https://www.sfermion.io/)
   * [SuperRare](https://superrare.com/)
+* [Zerocoin protocol](https://en.wikipedia.org/wiki/Zerocoin_protocol)
+* [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof) (ZKP)
 
 ## Lab 10A: Blockchain
 
