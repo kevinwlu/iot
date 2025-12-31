@@ -27,6 +27,7 @@
 * [Bellwether](https://en.wikipedia.org/wiki/Bellwether)
 * [Benefit corporation](https://en.wikipedia.org/wiki/Benefit_corporation) or B corporation
 * [Bill of materials](https://en.wikipedia.org/wiki/Bill_of_materials) (BOM)
+* [Black Monday (1987)](https://en.wikipedia.org/wiki/Black_Monday_(1987))
 * [Brick and mortar](https://en.wikipedia.org/wiki/Brick_and_mortar) (B&M)
   * [Figure of speech](https://en.wikipedia.org/wiki/Figure_of_speech)
   * [List of metonyms](https://en.wikipedia.org/wiki/List_of_metonyms)
@@ -261,6 +262,7 @@
 * [Liberalism](https://en.wikipedia.org/wiki/Liberalism)
 * [Libertarianism](https://en.wikipedia.org/wiki/Libertarianism)
 * [Minoritarianism](https://en.wikipedia.org/wiki/Minoritarianism)
+* [Monroe Doctrine](https://en.wikipedia.org/wiki/Monroe_Doctrine)
 * [Nepotism](https://en.wikipedia.org/wiki/Nepotism)
 * [Populism](https://en.wikipedia.org/wiki/Populism)
 * [Primus inter pares](https://en.wikipedia.org/wiki/Primus_inter_pares)
