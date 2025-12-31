@@ -19,6 +19,8 @@
   * [Alchemy](https://www.alchemy.com/)
     * [Nikil Viswanathan](https://en.wikipedia.org/wiki/Nikil_Viswanathan)
     * [Cross-chain bridge](https://www.alchemy.com/overviews/cross-chain-bridges)
+* [Blockchain Literacy for Everyone](https://blocklitfoundation.org/)
+* [Blockchain Literacy Foundation](https://www.blockchainliteracyfoundation.com/)
 * [DFINITY Foundation](https://dfinity.org/)
 * [Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)
   * [List of cryptocurrencies](https://en.wikipedia.org/wiki/List_of_cryptocurrencies)
