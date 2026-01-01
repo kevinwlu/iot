@@ -300,6 +300,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Rhetorical device](https://en.wikipedia.org/wiki/Rhetorical_device)
   * [Anaphora](https://en.wikipedia.org/wiki/Anaphora_(rhetoric))
 * [Foundation models](https://en.wikipedia.org/wiki/Foundation_models)
+* [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing) (NLP)
 * [Language model](https://en.wikipedia.org/wiki/Language_model) (LM)
 * [Large language model](https://en.wikipedia.org/wiki/Large_language_model) (LLM)
   * [Retrieval-augmented generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) (RAG)
@@ -326,6 +327,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 ---
 * AI Creativity S.r.l.
   * [Remini](https://remini.ai/)
+* [AI21 Labs](https://en.wikipedia.org/wiki/AI21_Labs)
 * [Alegion](https://www.alegion.com/)
   * [Language Model Scaling Laws and GPT-3](https://towardsdatascience.com/language-model-scaling-laws-and-gpt-3-5cdc034e67bb)
 * [Allen Institute for AI](https://en.wikipedia.org/wiki/Allen_Institute_for_AI) (Ai2)
