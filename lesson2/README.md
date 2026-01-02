@@ -30,6 +30,7 @@
   * [Thonny](https://en.wikipedia.org/wiki/Thonny)
   * [Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio)
   * [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code) (VS Code)
+  * [Windsurf](https://windsurf.com/)
   * [Xcode](https://en.wikipedia.org/wiki/Xcode)
 * [Visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language)
   * [NetsBlox](https://netsblox.org/)
