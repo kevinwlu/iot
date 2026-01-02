@@ -125,6 +125,7 @@
   * [S.A.](https://en.wikipedia.org/wiki/S.A._(corporation))
   * [Spółka z ograniczoną odpowiedzialnością](https://en.wikipedia.org/wiki/Sp%C3%B3%C5%82ka_z_ograniczon%C4%85_odpowiedzialno%C5%9Bci%C4%85) (Sp. z.o.o.)
 * [List of largest companies by revenue](https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue)
+* [Locomotive Acts](https://en.wikipedia.org/wiki/Locomotive_Acts)
 * [Memorandum of understanding](https://en.wikipedia.org/wiki/Memorandum_of_understanding) (MoU)
 * [Mileage-Based Road User Charges](https://highways.dot.gov/public-roads/marchapril-2006/mileage-based-road-user-charges)
 * [Minsky moment](https://en.wikipedia.org/wiki/Minsky_moment)
