@@ -627,6 +627,8 @@
 * [TransAstra](https://transastra.com/)
 * [United Launch Alliance](https://en.wikipedia.org/wiki/United_Launch_Alliance) (ULA)
 ---
+* [Chinese space program](https://en.wikipedia.org/wiki/Chinese_space_program)
+  * [Shijian](https://en.wikipedia.org/wiki/Shijian)
 * [CAS Space](https://en.wikipedia.org/wiki/CAS_Space)
 * [Deep Blue Aerospace](https://en.wikipedia.org/wiki/Deep_Blue_Aerospace)
 * [ExPace](https://en.wikipedia.org/wiki/ExPace)
