@@ -398,7 +398,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [DreamFusion](https://dreamfusion3d.github.io/)
 * [GPTZero](https://en.wikipedia.org/wiki/GPTZero)
 * [Groq](https://en.wikipedia.org/wiki/Groq)
-  * Language Processing Unit (LPU)
+  * [Language Processing Unit](https://groq.com/blog/the-groq-lpu-explained) (LPU)
+  * [Groq and Nvidia Enter Non-Exclusive Inference Technology Licensing Agreement to Accelerate AI Inference at Global Scale](https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale), December 24, 2025
 * [Inflection AI](https://en.wikipedia.org/wiki/Inflection_AI)
   * [Pi](https://pi.ai/)
 * [Leonardo AI](https://leonardo.ai/)
