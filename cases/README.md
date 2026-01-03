@@ -766,6 +766,7 @@
 * [MoveEV](https://www.moveev.com/)
 * [New Flyer](https://en.wikipedia.org/wiki/New_Flyer)
 * [Nikola Corporation](https://en.wikipedia.org/wiki/Nikola_Corporation)
+* [Nio Inc.](https://en.wikipedia.org/wiki/Nio_Inc.)
 * [North American Charging System](https://en.wikipedia.org/wiki/North_American_Charging_System) (NACS: SAE J3400)
 * [Nuro](https://en.wikipedia.org/wiki/Nuro)
 * [Orange EV](https://orangeev.com/)
