@@ -161,6 +161,7 @@
   * [SkyBridge Capital](https://en.wikipedia.org/wiki/SkyBridge_Capital)
 * [Social alienation](https://en.wikipedia.org/wiki/Social_alienation)
 * [Social justice](https://en.wikipedia.org/wiki/Social_justice)
+* [Society for Worldwide Interbank Financial Telecommunication](https://en.wikipedia.org/wiki/SWIFT) (SWIFT)
 * [Sovereign wealth fund](https://en.wikipedia.org/wiki/Sovereign_wealth_fund) (SWF)
 * [Stagflation](https://en.wikipedia.org/wiki/Stagflation)
 * [Sustainability](https://en.wikipedia.org/wiki/Sustainability)
