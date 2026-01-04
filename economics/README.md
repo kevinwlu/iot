@@ -33,6 +33,7 @@
 * [Brick and mortar](https://en.wikipedia.org/wiki/Brick_and_mortar) (B&M)
   * [Figure of speech](https://en.wikipedia.org/wiki/Figure_of_speech)
   * [List of metonyms](https://en.wikipedia.org/wiki/List_of_metonyms)
+* [BRICS Pay](https://en.wikipedia.org/wiki/BRICS_Pay)
 * [Business cycle](https://en.wikipedia.org/wiki/Business_cycle)
   * [Soft landing](https://en.wikipedia.org/wiki/Soft_landing_(economics))
 * [Business model](https://en.wikipedia.org/wiki/Business_model)
@@ -61,6 +62,7 @@
 * [Creator economy](https://en.wikipedia.org/wiki/Creator_economy) also known as influencer economy
   * [Astroturfing](https://en.wikipedia.org/wiki/Astroturfing)
   * [Haley Sacks](https://en.wikipedia.org/wiki/Haley_Sacks)
+* [Cross-Border Interbank Payment System](https://en.wikipedia.org/wiki/Cross-Border_Interbank_Payment_System) (CIPS)
 * [Cryptoeconomics](https://en.wikipedia.org/wiki/Cryptoeconomics)
 * [Deglobalization](https://en.wikipedia.org/wiki/Deglobalization)
 * [Depreciation](https://en.wikipedia.org/wiki/Depreciation)
