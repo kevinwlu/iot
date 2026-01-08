@@ -31,6 +31,7 @@
 * [Atrial fibrillation](https://en.wikipedia.org/wiki/Atrial_fibrillation) (AFib or AF)
 * [Blinded experiment](https://en.wikipedia.org/wiki/Blinded_experiment)
 * [Blood pressure](https://en.wikipedia.org/wiki/Blood_pressure)
+* [Carcinoma](https://en.wikipedia.org/wiki/Carcinoma) 
 * [Cardiac amyloidosis](https://en.wikipedia.org/wiki/Cardiac_amyloidosis)
 * [Continuous noninvasive arterial pressure](https://en.wikipedia.org/wiki/Continuous_noninvasive_arterial_pressure) (CNAP)
 * [Cortisol](https://en.wikipedia.org/wiki/Cortisol) 
