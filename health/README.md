@@ -87,6 +87,7 @@
 * [Institutional review board](https://en.wikipedia.org/wiki/Institutional_review_board) (IRB)
 * [Ionizing radiation](https://en.wikipedia.org/wiki/Ionizing_radiation)
 * [Mackey–Glass equations](https://en.wikipedia.org/wiki/Mackey%E2%80%93Glass_equations)
+* [Mandible](https://en.wikipedia.org/wiki/Mandible)
 * [Near-infrared spectroscopy](https://en.wikipedia.org/wiki/Near-infrared_spectroscopy) (NIRS)
 * [Netrin](https://en.wikipedia.org/wiki/Netrin)
   * [Netrin-1](https://en.wikipedia.org/wiki/Netrin_1)
