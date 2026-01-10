@@ -41,8 +41,11 @@
 * [AGCO](https://en.wikipedia.org/wiki/AGCO)
   * [Fendt](https://en.wikipedia.org/wiki/Fendt)
 * [Arable](https://www.arable.com/)
+* [Archer Daniels Midland](https://en.wikipedia.org/wiki/Archer_Daniels_Midland) (ADM)
 * [AUGA Group](https://en.wikipedia.org/wiki/Auga_Group)
+* [Bunge Global](https://en.wikipedia.org/wiki/Bunge_Global)
 * [Carbon Robotics](https://carbonrobotics.com/) Laserweeder
+* [Cargill](https://en.wikipedia.org/wiki/Cargill)
 * [DunavNET](https://dunavnet.eu/)
 * [Electric tractor](https://en.wikipedia.org/wiki/Electric_tractor)
   * [Monarch Tractor](https://www.monarchtractor.com/)
@@ -50,6 +53,7 @@
 * [FarmVibes](https://www.microsoft.com/en-us/research/project/project-farmvibes/)
   * [Farmvibes.AI](https://github.com/microsoft/farmvibes-ai)
 * [Freight Farms](https://en.wikipedia.org/wiki/Freight_Farms)
+* [Louis Dreyfus Company](https://en.wikipedia.org/wiki/Louis_Dreyfus_Company) (LDC)
 * [New Holland Agriculture](https://en.wikipedia.org/wiki/New_Holland_Agriculture)
 * [Pyka](https://www.flypyka.com/)
 * [Tevel Aerobotics](https://www.tevel-tech.com/) Flying Autonomous Robots
