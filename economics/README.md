@@ -178,6 +178,7 @@
 * [Transportation theory](https://en.wikipedia.org/wiki/Transportation_theory_(mathematics))
 * [Vibecession](https://en.wikipedia.org/wiki/Vibecession)
 * [World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum) (WEF)
+* [World Trade Organization](https://en.wikipedia.org/wiki/World_Trade_Organization) (WTO)
 * [Zero-based budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting) (ZBB)
 ---
 * [Long and short scales](https://simple.wikipedia.org/wiki/Long_and_short_scales)
