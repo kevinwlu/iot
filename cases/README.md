@@ -46,6 +46,7 @@
 * [Bunge Global](https://en.wikipedia.org/wiki/Bunge_Global)
 * [Carbon Robotics](https://carbonrobotics.com/) Laserweeder
 * [Cargill](https://en.wikipedia.org/wiki/Cargill)
+* [China Grain Reserves Group](https://en.wikipedia.org/wiki/China_Grain_Reserves_Group) (SINOGRAIN)
 * [DunavNET](https://dunavnet.eu/)
 * [Electric tractor](https://en.wikipedia.org/wiki/Electric_tractor)
   * [Monarch Tractor](https://www.monarchtractor.com/)
