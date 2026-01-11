@@ -26,6 +26,8 @@
 * [Wide area network](https://en.wikipedia.org/wiki/Wide_area_network) (WAN)
   * [Wireless WAN](https://en.wikipedia.org/wiki/Wireless_WAN)
   * [Cellular V2X](https://en.wikipedia.org/wiki/Cellular_V2X)
+    * [FCC adopts C-V2X auto safety spectrum rules](https://docs.fcc.gov/public/attachments/DOC-407683A1.pdf), November 21, 2024
+    * [FCC 24-123](https://docs.fcc.gov/public/attachments/FCC-24-123A1.pdf), November 21, 2024
   * [List of wireless sensor nodes](https://en.wikipedia.org/wiki/List_of_wireless_sensor_nodes)
     * [SensorUp](https://en.wikipedia.org/wiki/SensorUp)
     * [Sentilo Platform](https://en.wikipedia.org/wiki/Sentilo_Platform)
