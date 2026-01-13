@@ -66,6 +66,7 @@
 * [AI alignment](https://en.wikipedia.org/wiki/AI_alignment)
   * [Guardrails](https://github.com/guardrails-ai/guardrails)
 * [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+* [Physical AI](https://www.nvidia.com/en-us/glossary/generative-physical-ai/) lets autonomous systems like cameras, robots, and self-driving cars perceive, understand, reason, and perform or orchestrate complex actions in the physical world
 * [Sentience](https://en.wikipedia.org/wiki/Sentience)
 * [Center for Advancing Safety of Machine Intelligence](https://casmi.northwestern.edu/) (CASMI)
 * [Philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
