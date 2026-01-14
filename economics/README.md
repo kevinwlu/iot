@@ -109,6 +109,7 @@
 * [Lean startup](https://en.wikipedia.org/wiki/Lean_startup)
 * [Letter of intent](https://en.wikipedia.org/wiki/Letter_of_intent) (LoI)
 * [Life-cycle cost](https://en.wikipedia.org/wiki/Whole-life_cost) (LCC)
+* [Lights out (manufacturing)](https://en.wikipedia.org/wiki/Lights_out_(manufacturing))
 * [List of legal entity types by country](https://en.wikipedia.org/wiki/List_of_legal_entity_types_by_country)
   * [Company](https://en.wikipedia.org/wiki/Company)
   * [Corporation](https://en.wikipedia.org/wiki/Corporation)
