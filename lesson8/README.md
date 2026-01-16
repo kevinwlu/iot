@@ -524,7 +524,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [SenseNova](https://www.sensetime.com/en/news-detail/51168278)
 * [Tencent](https://en.wikipedia.org/wiki/Tencent)
   * [Tencent Cloud AI Digital Human](https://www.tencentcloud.com/products/ivh)
-* [Zhipu AI](https://www.zhipuai.cn/en/)
+* [Z.ai](https://en.wikipedia.org/wiki/Z.ai)
+  * [Zhipu AI](https://www.zhipuai.cn/en/)
 ---
 * [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
 * [Pika](https://pika.art/) idea-to-video platform
