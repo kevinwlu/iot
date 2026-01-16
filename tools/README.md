@@ -202,6 +202,8 @@
 * [CircuitLab](https://www.circuitlab.com/)
 * [Circuit Diagram](https://www.circuit-diagram.org/)
 * [Lucidchart](https://en.wikipedia.org/wiki/Lucidchart)
+* [Mermaid (software)](https://en.wikipedia.org/wiki/Mermaid_(software))
+  * [Google Workspace Marketplace](https://workspace.google.com/marketplace/app/mermaid_diagramming_and_charting_tool/636321283856)
 ## Digital Forensics
 * [Digital forensics](https://en.wikipedia.org/wiki/Digital_forensics)
 * [List of digital forensics tools](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
