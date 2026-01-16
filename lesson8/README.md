@@ -292,6 +292,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Festival Speech Synthesis System](https://en.wikipedia.org/wiki/Festival_Speech_Synthesis_System)
   * [FreeTTS](https://en.wikipedia.org/wiki/FreeTTS)
   * [Respeecher](https://en.wikipedia.org/wiki/Respeecher)
+  * [Speechify](https://en.wikipedia.org/wiki/Speechify)
 * [Screen reader](https://en.wikipedia.org/wiki/Screen_reader)
   * [List of screen readers](https://en.wikipedia.org/wiki/List_of_screen_readers)
   * [Orca (assistive technology)](https://en.wikipedia.org/wiki/Orca_(assistive_technology))
