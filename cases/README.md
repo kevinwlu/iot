@@ -211,6 +211,7 @@
 * [Element 25](https://www.element25.com.au/)
 * [Enel X](https://en.wikipedia.org/wiki/Enel_X)
 * [Energy Exploration Technologies](https://en.wikipedia.org/wiki/Energy_Exploration_Technologies) (EngeryX)
+* [Energy Information Administration](https://en.wikipedia.org/wiki/Energy_Information_Administration) (EIA)
 * [EnerVenue](https://enervenue.com/)
 * [ev.energy](https://www.ev.energy/)
 * [EVBox](https://en.wikipedia.org/wiki/EVBox)
@@ -252,6 +253,7 @@
 * [Hydrogen economy](https://en.wikipedia.org/wiki/Hydrogen_economy)
 * [INEOS](https://en.wikipedia.org/wiki/Ineos)
 * [Ingeteam](https://www.ingeteam.com/)
+* [International Energy Agency](https://en.wikipedia.org/wiki/International_Energy_Agency) (IEA)
 * [Intersect](https://www.intersect.com/)
   * [Alphabet Announces Agreement to Acquire Intersect to Advance U.S. Energy Innovation](https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Agreement-to-Acquire-Intersect-to-Advance-U-S--Energy-Innovation-2025-DVIuVDM9wW/default.aspx), December 22, 2025
 * [Kempower](https://kempower.com/)
