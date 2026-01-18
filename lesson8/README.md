@@ -247,6 +247,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Gennady Pekhimenko](https://www.cs.toronto.edu/~pekhimenko/)
   * [Parallel Computer Architecture and Programming](https://uoft-ecosystem.github.io/CSC2224-Website/)
 * [Oversampling and undersampling in data analysis](https://en.wikipedia.org/wiki/Oversampling_and_undersampling_in_data_analysis)
+
 ## Deep Learning
 * [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) (DL)
 * [Deep belief network](https://en.wikipedia.org/wiki/Deep_belief_network) (DBN)
@@ -362,6 +363,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [ENERZAi](https://enerzai.com/)
 * [The Falcon Series of Open Language Models](https://arxiv.org/abs/2311.16867)
 * [Fireworks AI](https://fireworks.ai/)
+* [Genentech](https://en.wikipedia.org/wiki/Genentech)
 * [Google AI](https://en.wikipedia.org/wiki/Google_AI)
   * [AI Hub](https://aihub.cloud.google.com/u/0/)
   * [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)) Bidirectional encoder representations from transformers
@@ -430,6 +432,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Nota AI](https://www.nota.ai/)
 * [Okahu](https://www.okahu.ai/)
   * [GitHub](https://github.com/okahu)
+* [opAIda.ai](https://opaida.ai/)
 * [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
   * [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
   * [Suchir Balaji](https://en.wikipedia.org/wiki/Suchir_Balaji) 1998&mdash;2024
