@@ -62,6 +62,7 @@
   * [International Science and Engineering Fair](https://en.wikipedia.org/wiki/International_Science_and_Engineering_Fair) (ISEF)
   * [Regeneron Science Talent Search](https://en.wikipedia.org/wiki/Regeneron_Science_Talent_Search)
   * [Terra North Jersey STEM Fair](https://tnjsf.org/)
+* [Stark Hacks](https://starkhacks.com/) organized by the Humanoid Robot Club at Purdue University
 * [Tindie](https://www.tindie.com/)
   * [MH-EDU-Electronics](https://www.tindie.com/stores/mh-edu/)
 * [USC Make-a-Thon](https://www.uscmakeathon.com/)
