@@ -6,6 +6,7 @@
 * [Digital Markets Act](https://en.wikipedia.org/wiki/Digital_Markets_Act) (DMA) is an EU regulation
 * [Digital Services Act](https://en.wikipedia.org/wiki/Digital_Services_Act) (DSA) is an EU regulation
 * [Regional Comprehensive Economic Partnership](https://en.wikipedia.org/wiki/Regional_Comprehensive_Economic_Partnership) (RCEP)
+* [Trans-Pacific Partnership](https://en.wikipedia.org/wiki/Trans-Pacific_Partnership) (TPP)
 ## YouTube Channels
 * [The Prof G Show](https://www.youtube.com/@TheProfGShow) by Prof. [Scott Galloway](https://en.wikipedia.org/wiki/Scott_Galloway_(professor))
 ---
