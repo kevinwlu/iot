@@ -352,6 +352,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Claude 3.5](https://www.anthropic.com/news/claude-3-5-sonnet), June 20, 2024
   * [Decomposing Language Models Into Understandable Components](https://www.anthropic.com/news/decomposing-language-models-into-understandable-components), October 5, 2023
   * [Exploring model welfare](https://www.anthropic.com/research/exploring-model-welfare), April 24, 2025
+  * [Claude Sonnet](https://www.anthropic.com/claude/sonnet)
 * [Apple Intelligence](https://en.wikipedia.org/wiki/Apple_Intelligence)
 * [Cognition AI](https://en.wikipedia.org/wiki/Cognition_AI)
   * [Devin AI](https://en.wikipedia.org/wiki/Devin_AI)
