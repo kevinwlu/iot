@@ -199,6 +199,7 @@
   * [Google Data Studio](https://marketingplatform.google.com/about/data-studio/)
 * [Pivot table](https://en.wikipedia.org/wiki/Pivot_table)
 ## Diagramming
+* [ChartGen AI](https://chartgen.ai/)
 * [CircuitLab](https://www.circuitlab.com/)
 * [Circuit Diagram](https://www.circuit-diagram.org/)
 * [Lucidchart](https://en.wikipedia.org/wiki/Lucidchart)
