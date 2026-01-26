@@ -499,6 +499,12 @@
 * [TNT Aerospace](https://www.tntaerospace.com/)
 * [Ubidots](https://ubidots.com/)
 * [Unified numbering system](https://en.wikipedia.org/wiki/Unified_numbering_system) (UNS)
+## Mining
+* [Mining in Australia](https://en.wikipedia.org/wiki/Mining_in_Australia)
+* [BHP](https://en.wikipedia.org/wiki/BHP)
+* [Fortescue (company)](https://en.wikipedia.org/wiki/Fortescue_(company))
+* [Rio Tinto (corporation)](https://en.wikipedia.org/wiki/Rio_Tinto_(corporation))
+* [Simandou mine](https://en.wikipedia.org/wiki/Simandou_mine)
 ## Privacy and Security
 * [Cloaked](https://www.cloaked.app/)
 * [Okta, Inc.](https://en.wikipedia.org/wiki/Okta,_Inc.)
