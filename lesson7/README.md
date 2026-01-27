@@ -18,6 +18,8 @@
 * [gspread](https://gspread.readthedocs.io/en/latest)
 * [gRPC](https://en.wikipedia.org/wiki/GRPC)
 * [OAuth](https://en.wikipedia.org/wiki/OAuth)
+  * [On-Behalf-Of ](https://learn.microsoft.com/en-us/entra/identity-platform/v2-oauth2-on-behalf-of-flow) (OBO)
+  * [Out-of-Band Authentication](https://www.pingidentity.com/en/resources/blog/post/what-is-out-of-band-authentication-ooba.html) (OOB)
 * [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) (JWT)
 * [OpenAPI Specification](https://en.wikipedia.org/wiki/OpenAPI_Specification)
 * [OpenID Connect](https://en.wikipedia.org/wiki/OpenID_Connect) (OIDC)
