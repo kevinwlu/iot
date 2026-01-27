@@ -43,6 +43,7 @@
 * [Cash flow](https://en.wikipedia.org/wiki/Cash_flow)
 * [Circular economy](https://en.wikipedia.org/wiki/Circular_economy)
 * [Compound annual growth rate](https://en.wikipedia.org/wiki/Compound_annual_growth_rate) (CAGR)
+* [Common law](https://en.wikipedia.org/wiki/Common_law)
 * [Contract](https://en.wikipedia.org/wiki/Contract)
   * [Contract theory](https://en.wikipedia.org/wiki/Contract_theory)
   * [Cost-plus contract](https://en.wikipedia.org/wiki/Cost-plus_contract)
