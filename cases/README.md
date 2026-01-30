@@ -701,6 +701,7 @@
 * [Leonardo S.p.A.](https://en.wikipedia.org/wiki/Leonardo_S.p.A.)
 * [Lilium Jet](https://en.wikipedia.org/wiki/Lilium_Jet)
 * [Lockheed Martin X-59 QueSST](https://en.wikipedia.org/wiki/Lockheed_Martin_X-59_QueSST)
+* [Motor Sich](https://en.wikipedia.org/wiki/Motor_Sich)
 * [Natilus](https://en.wikipedia.org/wiki/Natilus)
 * [Reliable Robotics](https://reliable.co/)
 * [Safran](https://en.wikipedia.org/wiki/Safran)
