@@ -63,6 +63,7 @@
   * [Deloitte was caught using AI in $290,000 report to help the Australian government crack down on welfare after a researcher flagged hallucinations](https://fortune.com/2025/10/07/deloitte-ai-australia-government-report-hallucinations-technology-290000-refund/), October 7, 2025
 * [Artificial imagination](https://en.wikipedia.org/wiki/Artificial_imagination)
   * [De novo protein structure prediction](https://en.wikipedia.org/wiki/De_novo_protein_structure_prediction)
+* [Sycophancy](https://en.wikipedia.org/wiki/Sycophancy)
 * [AI alignment](https://en.wikipedia.org/wiki/AI_alignment)
   * [Guardrails](https://github.com/guardrails-ai/guardrails)
 * [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
