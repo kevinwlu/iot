@@ -141,6 +141,7 @@
 * [COVID-19](https://en.wikipedia.org/wiki/COVID-19)
 * [Extracorporeal membrane oxygenation](https://en.wikipedia.org/wiki/Extracorporeal_membrane_oxygenation) (ECMO)
 * [Epstein–Barr virus](https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus)
+* [Nipah virus](https://en.wikipedia.org/wiki/Nipah_virus)
 ---
 * [Active noise control](https://en.wikipedia.org/wiki/Active_noise_control) (ANC)
 * [Auditory processing disorder](https://en.wikipedia.org/wiki/Auditory_processing_disorder) (APD)
