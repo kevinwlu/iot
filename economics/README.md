@@ -40,6 +40,7 @@
 * [Business model](https://en.wikipedia.org/wiki/Business_model)
   * [Razor and blades model](https://en.wikipedia.org/wiki/Razor_and_blades_model)
 * [Carbon accounting](https://en.wikipedia.org/wiki/Carbon_accounting)
+* [Carry (investment)](https://en.wikipedia.org/wiki/Carry_(investment))
 * [Cash flow](https://en.wikipedia.org/wiki/Cash_flow)
 * [Circular economy](https://en.wikipedia.org/wiki/Circular_economy)
 * [Compound annual growth rate](https://en.wikipedia.org/wiki/Compound_annual_growth_rate) (CAGR)
