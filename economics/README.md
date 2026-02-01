@@ -12,6 +12,7 @@
 ---
 * [Fintech](https://en.wikipedia.org/wiki/Fintech)
 * [Klarna](https://en.wikipedia.org/wiki/Klarna)
+* [Rakuten](https://en.wikipedia.org/wiki/Rakuten)
 ---
 * [Economics](https://en.wikipedia.org/wiki/Economics)
   * [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
