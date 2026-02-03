@@ -42,6 +42,7 @@
 * [Circuit bending](https://en.wikipedia.org/wiki/Circuit_bending)
 * [Cybathlon](https://en.wikipedia.org/wiki/Cybathlon)
 * [Devpost](https://en.wikipedia.org/wiki/Devpost)
+* [Eventornado](https://eventornado.com/)
 * [FIRST Robotics Competition](https://en.wikipedia.org/wiki/FIRST_Robotics_Competition) (FRC)
   * [For Inspiration and Recognition of Science and Technology](https://en.wikipedia.org/wiki/For_Inspiration_and_Recognition_of_Science_and_Technology) (*FIRST*)
   * [Dean Kamen](https://en.wikipedia.org/wiki/Dean_Kamen)
