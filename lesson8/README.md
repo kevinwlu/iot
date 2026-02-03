@@ -53,6 +53,7 @@
   * [Agent2Agent Protocol](https://a2aprotocol.ai/) (A2A)
   * [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/), April 9, 2025
   * [AI agent](https://en.wikipedia.org/wiki/AI_agent)
+  * [Multi-agent system](https://en.wikipedia.org/wiki/Multi-agent_system) (MAS)
 * [Blended artificial intelligence](https://en.wikipedia.org/wiki/Blended_artificial_intelligence)
 * [Explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
 * [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
@@ -68,7 +69,7 @@
 * [AI alignment](https://en.wikipedia.org/wiki/AI_alignment)
   * [Guardrails](https://github.com/guardrails-ai/guardrails)
 * [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
-* [Physical AI](https://www.nvidia.com/en-us/glossary/generative-physical-ai/) lets autonomous systems like cameras, robots, and self-driving cars perceive, understand, reason, and perform or orchestrate complex actions in the physical world
+* [Physical AI](https://www.nvidia.com/en-us/glossary/generative-physical-ai/) lets autonomous systems like cameras, robots, and self-driving cars perceive, understand, [reason](https://en.wikipedia.org/wiki/Reason), and perform or orchestrate complex actions in the physical world
 * [Sentience](https://en.wikipedia.org/wiki/Sentience)
 * [Center for Advancing Safety of Machine Intelligence](https://casmi.northwestern.edu/) (CASMI)
 * [Philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence)
