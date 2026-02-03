@@ -432,6 +432,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [CodeBERT](https://github.com/microsoft/CodeBERT)
 * [Mistral AI](https://en.wikipedia.org/wiki/Mistral_AI)
   * [Mistral (wind)](https://en.wikipedia.org/wiki/Mistral_(wind))
+* [Moltbook](https://en.wikipedia.org/wiki/Moltbook)
 * [Nota AI](https://www.nota.ai/)
 * [Okahu](https://www.okahu.ai/)
   * [GitHub](https://github.com/okahu)
@@ -477,6 +478,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * ["Introducing ChatGPT and Whisper APIs"](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), March 1, 2023
   * [Introducing Superalignment](https://openai.com/index/introducing-superalignment/), July 5, 2023
   * [Sora](https://en.wikipedia.org/wiki/Sora_(text-to-video_model)), February 15, 2024
+* [OpenClaw](https://en.wikipedia.org/wiki/OpenClaw)
 * [OpenMinded](https://www.openmined.org/)
   * [PySyft](https://github.com/OpenMined/PySyft)
 * [Periodic Labs](https://periodic.com/), May 2025
