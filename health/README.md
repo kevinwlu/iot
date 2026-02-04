@@ -27,6 +27,8 @@
   * [Nicotinamide adenine dinucleotide](https://en.wikipedia.org/wiki/Nicotinamide_adenine_dinucleotide) (NAD)
   * [P7C3](https://en.wikipedia.org/wiki/P7C3)
   * [P7C3-A20](https://en.wikipedia.org/wiki/P7C3-A20)
+  * [Xenon](https://en.wikipedia.org/wiki/Xenon)
+  * [Inhaled xenon modulates microglia and ameliorates disease in mouse models of amyloidosis and tauopathy](https://pubmed.ncbi.nlm.nih.gov/39813317/)
 * [Anemia](https://en.wikipedia.org/wiki/Anemia)
 * [Aneurysm](https://en.wikipedia.org/wiki/Aneurysm)
   * [Intracranial aneurysm](https://en.wikipedia.org/wiki/Intracranial_aneurysm)
