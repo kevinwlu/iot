@@ -72,6 +72,8 @@
 * [Choke](https://en.wikipedia.org/wiki/Choke_(electronics)) is an inductor used to block higher-frequency alternating currents (AC) while passing direct current (DC) and lower-frequency ACs in a circuit
 * [Ferrite bead](https://en.wikipedia.org/wiki/Ferrite_bead) suppresses high-frequency electronic noise in electronic circuits
 * [HX711](https://www.adafruit.com/product/5974) 24-bit ADC for Load Cells / Strain Gauges
+## 3D
+* [Lenticular printing](https://en.wikipedia.org/wiki/Lenticular_printing)
 ## Sensors
 * [Sensor](https://en.wikipedia.org/wiki/Sensor)
 * [List of sensors](https://en.wikipedia.org/wiki/List_of_sensors)
