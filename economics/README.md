@@ -161,6 +161,7 @@
 * [Rate of return](https://en.wikipedia.org/wiki/Rate_of_return)
 * [Return on investment](https://en.wikipedia.org/wiki/Return_on_investment) (ROI)
 * [Retailtainment](https://en.wikipedia.org/wiki/Retailtainment)
+* [Real estate investment trust](https://en.wikipedia.org/wiki/Real_estate_investment_trust) (REIT)
 * [Robert Reich](https://en.wikipedia.org/wiki/Robert_Reich)
 * [Sarbanes–Oxley Act](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
 * [Satisfaction equilibrium](https://en.wikipedia.org/wiki/Satisfaction_equilibrium)
