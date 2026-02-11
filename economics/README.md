@@ -163,6 +163,7 @@
 * [Retailtainment](https://en.wikipedia.org/wiki/Retailtainment)
 * [Real estate investment trust](https://en.wikipedia.org/wiki/Real_estate_investment_trust) (REIT)
 * [Robert Reich](https://en.wikipedia.org/wiki/Robert_Reich)
+* [Salami slicing tactics](https://en.wikipedia.org/wiki/Salami_slicing_tactics)
 * [Sarbanes–Oxley Act](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
 * [Satisfaction equilibrium](https://en.wikipedia.org/wiki/Satisfaction_equilibrium)
 * [Selling, General, and Administrative Expenses](https://en.wikipedia.org/wiki/SG%26A) (SG&A)
