@@ -35,6 +35,8 @@
 * [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
 * [AI Revolution - YouTube](https://www.youtube.com/@airevolutionx)
 * [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/), February 8, 2026
+  * [Facial Recognition, a Lost-Dog Finder, and 3 More Big Announcements From Amazon’s Fall Event](https://www.nytimes.com/wirecutter/reviews/amazon-fall-event-recap-2025/), September 30, 2025 
+  * [Using Retina Tuning](https://ring.com/support/articles/wfw30/using-retinal-tuning)
 * [DuckAI](https://duck-ai-stevens.github.io/)
 * [Progress in artificial intelligence](https://en.wikipedia.org/wiki/Progress_in_artificial_intelligence)
 * [Regulation of artificial intelligence](https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence)
