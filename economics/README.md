@@ -251,6 +251,8 @@
   * [Bretton Woods Conference](https://en.wikipedia.org/wiki/Bretton_Woods_Conference) from July 1 to 22, 1944
   * [Bretton Woods system](https://en.wikipedia.org/wiki/Bretton_Woods_system)
 ---
+* [Black sheep](https://en.wikipedia.org/wiki/Black_sheep)
+  * [Black sheep effect](https://en.wikipedia.org/wiki/Black_sheep_effect)
 * [*The Black Swan: The Impact of the Highly Improbable*](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable) 2007 by [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
   * [Black swan theory](https://en.wikipedia.org/wiki/Black_swan_theory)
   * [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
