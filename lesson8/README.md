@@ -127,6 +127,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [MLCommons](https://mlcommons.org/) an Open AI Engineering Consortium
   * [GitHub repository](https://github.com/mlcommons)
 * [Playlab](https://www.playlab.ai/)
+* [A.I. Companies Are Eating Higher Education](https://www.nytimes.com/2026/02/12/opinion/ai-companies-college-students.html) by [Matthew Connelly](https://history.columbia.edu/person/connelly-matthew/), February 12, 2026
 ## NumPy
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
 * [Linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
