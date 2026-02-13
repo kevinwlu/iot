@@ -73,7 +73,11 @@
 * [Ferrite bead](https://en.wikipedia.org/wiki/Ferrite_bead) suppresses high-frequency electronic noise in electronic circuits
 * [HX711](https://www.adafruit.com/product/5974) 24-bit ADC for Load Cells / Strain Gauges
 ## 3D
+* [Comparison of computer-aided design software](https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_software)
 * [Lenticular printing](https://en.wikipedia.org/wiki/Lenticular_printing)
+* [List of 3D printing software](https://en.wikipedia.org/wiki/List_of_3D_printing_software)
+* [Onshape](https://en.wikipedia.org/wiki/Onshape)
+* [SolidWorks](https://en.wikipedia.org/wiki/SolidWorks)
 ## Sensors
 * [Sensor](https://en.wikipedia.org/wiki/Sensor)
 * [List of sensors](https://en.wikipedia.org/wiki/List_of_sensors)
