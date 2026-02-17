@@ -309,7 +309,6 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Orca (assistive technology)](https://en.wikipedia.org/wiki/Orca_(assistive_technology))
 * [Text-to-image model](https://en.wikipedia.org/wiki/Text-to-image_model)
 * [Text-to-video model](https://en.wikipedia.org/wiki/Text-to-video_model)
-  * [Seedance 2.0](https://en.wikipedia.org/wiki/Seedance_2.0)
 * [ELIZA](https://en.wikipedia.org/wiki/ELIZA)
 * [Chatbot](https://en.wikipedia.org/wiki/Chatbot)
 * [Rhetorical device](https://en.wikipedia.org/wiki/Rhetorical_device)
@@ -531,6 +530,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
     * [Everyone in AI is talking about Manus. We put it to the test](https://www.technologyreview.com/2025/03/11/1113133/manus-ai-review/), March 11, 2025
     * [Manus (anatomy)](https://en.wikipedia.org/wiki/Manus_(anatomy))
   * [Meta to buy Chinese founded startup Manus to boost advanced AI](https://www.reuters.com/world/china/meta-acquire-chinese-startup-manus-boost-advanced-ai-features-2025-12-29/), December 30, 2025
+* [CapCut](https://en.wikipedia.org/wiki/CapCut)
 * [DeepSeek](https://en.wikipedia.org/wiki/DeepSeek)
   * [GitHub repositories](https://github.com/deepseek-ai)
   * [Reasoning Model](https://api-docs.deepseek.com/guides/reasoning_model)
@@ -539,6 +539,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Kling AI](https://klingai.org/)
   * [Kling video model](https://kling.kuaishou.com/en)
   * [Kling videos](https://www.youtube.com/@KlingAIOfficial/videos)
+* [Seedance 2.0](https://en.wikipedia.org/wiki/Seedance_2.0)
 * [SenseTime](https://en.wikipedia.org/wiki/SenseTime)
   * [SenseNova](https://www.sensetime.com/en/news-detail/51168278)
 * [Tencent](https://en.wikipedia.org/wiki/Tencent)
