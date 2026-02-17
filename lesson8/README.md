@@ -309,6 +309,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Orca (assistive technology)](https://en.wikipedia.org/wiki/Orca_(assistive_technology))
 * [Text-to-image model](https://en.wikipedia.org/wiki/Text-to-image_model)
 * [Text-to-video model](https://en.wikipedia.org/wiki/Text-to-video_model)
+  * [Seedance 2.0](https://en.wikipedia.org/wiki/Seedance_2.0)
 * [ELIZA](https://en.wikipedia.org/wiki/ELIZA)
 * [Chatbot](https://en.wikipedia.org/wiki/Chatbot)
 * [Rhetorical device](https://en.wikipedia.org/wiki/Rhetorical_device)
