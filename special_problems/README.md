@@ -83,6 +83,8 @@
   * [Saccade](https://en.wikipedia.org/wiki/Saccade)
 * [Foveated Instance Segmentation](https://cvpr.thecvf.com/virtual/2025/poster/32485)
 * [Mitigating the Impact of Outlier Channels for Language Model Quantization with Activation Regularization](https://arxiv.org/html/2404.03605v1)
+## 2026 Spring
+* Decentralized and Safety Guaranteed Deep Multi-Agent Reinforcement Learning With Applications to the Persistent Monitoring Problem
 ## 2025 Spring
 * A Multi-Modal Aerial Object Detection Framework for Precision Agriculture
 * Face Recognition Using a Combination of Real and Synthetic Faces
