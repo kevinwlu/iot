@@ -12,6 +12,8 @@
 * [Countries With the Best Health Care Systems, 2025](https://ceoworld.biz/2025/09/21/countries-with-the-best-health-care-systems-2025/)
 * [IEEE Global Standardized Medical Mobile Health Apps Registry](https://standards.ieee.org/products-programs/icap/mobile-health-app-registry/)
 * [Osteopathic medicine in the United States](https://en.wikipedia.org/wiki/Osteopathic_medicine_in_the_United_States)
+* [The Deeper Story](https://www.stevens.edu/indicator/fall-2023/the-deeper-story)
+  * [Theresa Macphail](https://theresamacphail.com/)
 ---
 * [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease) (AD)
   * [Alois Alzheimer](https://en.wikipedia.org/wiki/Alois_Alzheimer) 1864&mdash;1915
