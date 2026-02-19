@@ -442,6 +442,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Mistral AI](https://en.wikipedia.org/wiki/Mistral_AI)
   * [Mistral (wind)](https://en.wikipedia.org/wiki/Mistral_(wind))
 * [Moltbook](https://en.wikipedia.org/wiki/Moltbook)
+* [Moltiverse](https://molti-verse.com/)
 * [Nota AI](https://www.nota.ai/)
 * [Okahu](https://www.okahu.ai/)
   * [GitHub](https://github.com/okahu)
