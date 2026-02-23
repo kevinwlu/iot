@@ -579,6 +579,7 @@
 * [MangDang](https://mangdang.store/)
   * [GitHub](https://github.com/mangdangroboticsclub)
   * [YouTube](https://www.youtube.com/@MangDangRobotics)
+  * [Mount Mangdang](https://en.wikipedia.org/wiki/Mount_Mangdang)
 * [Muks Robotics](https://muksrobotics.com/)
 * [Nauticus Robotics](https://nauticusrobotics.com/)
 * [Nuro](https://en.wikipedia.org/wiki/Nuro)
