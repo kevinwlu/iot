@@ -836,7 +836,7 @@
 * [Wallbox](https://en.wikipedia.org/wiki/Wallbox)
 * [WattEV](https://www.wattev.com/)
 * [Waymo](https://en.wikipedia.org/wiki/Waymo)
-* [Wayve](https://wayve.ai/)
+* [Wayve](https://en.wikipedia.org/wiki/Wayve)
 * [Wejo](https://en.wikipedia.org/wiki/Wejo)
 * [WeRide](https://en.wikipedia.org/wiki/WeRide)
 * [Windrose Technology](https://windrose.tech/)
