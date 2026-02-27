@@ -551,6 +551,7 @@
   * [List of weapons and armour in Middle-earth](https://en.wikipedia.org/wiki/List_of_weapons_and_armour_in_Middle-earth)
 * [ANYbotics](https://www.anybotics.com/)
 * [Apptronik](https://apptronik.com/)
+* [ARTag](https://en.wikipedia.org/wiki/ARTag)
 * [ASIMO](https://en.wikipedia.org/wiki/ASIMO)
 * [Boston Dynamics](https://en.wikipedia.org/wiki/Boston_Dynamics)
 * [Cobot](https://en.wikipedia.org/wiki/Cobot) 
