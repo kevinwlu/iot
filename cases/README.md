@@ -526,6 +526,7 @@
 * [Lawna](https://www.lawnatech.com/)
 * [Lymow](https://www.lymow.com/)
   * [YouTube](https://www.youtube.com/@Lymow)
+  * [Lymow vs. Yarbo](https://www.youtube.com/watch?v=XqqLi13yGR0)
 * [MagicMirror](https://magicmirror.builders/)
 * [Otter](https://withotter.com/)
 * [Wyze Labs](https://en.wikipedia.org/wiki/Wyze_Labs)
