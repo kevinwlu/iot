@@ -147,6 +147,7 @@
 * [Non-disclosure agreement](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 * [Office of Foreign Assets Control](https://en.wikipedia.org/wiki/Office_of_Foreign_Assets_Control) (OFAC)
   * [Specially Designated Nationals and Blocked Persons List](https://en.wikipedia.org/wiki/Specially_Designated_Nationals_and_Blocked_Persons_List)
+* [Paul Volcker](https://en.wikipedia.org/wiki/Paul_Volcker) 1927&mdash;2019
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator) or Key performance indicator (KPI)
 * [Phillips curve](https://en.wikipedia.org/wiki/Phillips_curve) by [Bill Phillips](https://en.wikipedia.org/wiki/Bill_Phillips_(economist)) 1914&mdash;1975
 * [Plaza Accord](https://en.wikipedia.org/wiki/Plaza_Accord)
