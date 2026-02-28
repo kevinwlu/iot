@@ -527,6 +527,8 @@
 * [MagicMirror](https://magicmirror.builders/)
 * [Otter](https://withotter.com/)
 * [Wyze Labs](https://en.wikipedia.org/wiki/Wyze_Labs)
+* [Yarbo](https://www.yarbo.com/)
+  * [Wiki](https://wiki.yarbo.com/)
 ## Ride Sharing
 * [Alto](https://ridealto.com/)
 * [Revel Transit](https://en.wikipedia.org/wiki/Revel_Transit)
