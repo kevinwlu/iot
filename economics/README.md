@@ -154,6 +154,7 @@
   * [Lost Decades](https://en.wikipedia.org/wiki/Lost_Decades)
 * [Precariat](https://en.wikipedia.org/wiki/Precariat)
   * [Guy Standing (economist)](https://en.wikipedia.org/wiki/Guy_Standing_(economist))
+  * [Proletariat](https://en.wikipedia.org/wiki/Proletariat)
 * [Price–earnings ratio](https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio) (P/E ratio)
 * [Price–performance ratio](https://en.wikipedia.org/wiki/Price%E2%80%93performance_ratio)
   * [Benefit–cost ratio](https://en.wikipedia.org/wiki/Benefit%E2%80%93cost_ratio)
