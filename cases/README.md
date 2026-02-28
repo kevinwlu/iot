@@ -524,11 +524,14 @@
 * [Home Assistant](https://en.wikipedia.org/wiki/Home_Assistant)
 * [Humane](https://hu.ma.ne/) artificial intelligence (AI) pin
 * [Lawna](https://www.lawnatech.com/)
+* [Lymow](https://www.lymow.com/)
+  * [YouTube](https://www.youtube.com/@Lymow)
 * [MagicMirror](https://magicmirror.builders/)
 * [Otter](https://withotter.com/)
 * [Wyze Labs](https://en.wikipedia.org/wiki/Wyze_Labs)
 * [Yarbo](https://www.yarbo.com/)
   * [Wiki](https://wiki.yarbo.com/)
+  * [YouTube](https://www.youtube.com/@yarboglobal)
 ## Ride Sharing
 * [Alto](https://ridealto.com/)
 * [Revel Transit](https://en.wikipedia.org/wiki/Revel_Transit)
