@@ -83,17 +83,18 @@
   * [Directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (DAG)
   * [IOTA Tangle MainNet](http://tangle.glumb.de/)
   * [IOTA Tangle Explorer](https://thetangle.org/) by [Peter Willemsen](https://github.com/peterwilli) and contributors
-* [Ruuvi](https://ruuvi.com/) Innovations Ltd ([Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)), Finland
-  * [Ruuvi](https://fi.wikipedia.org/wiki/Ruuvi) is the Finnish word for "screw"
-  * [RuuviTag](https://ruuvi.com/ruuvitag/) wireless temperature sensor
-  * Ruuvi GitHub [Repositories](https://github.com/ruuvi)
-  * [RuuviLab](https://lab.ruuvi.com/) community
 * [Non-fungible token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT)
   * [List of most expensive non-fungible tokens](https://en.wikipedia.org/wiki/List_of_most_expensive_non-fungible_tokens)
   * [GFT Exchange](https://www.gft.exchange/)
   * [OpenSea](https://en.wikipedia.org/wiki/OpenSea)
   * [Sfermion](https://www.sfermion.io/)
   * [SuperRare](https://superrare.com/)
+* [Ruuvi](https://ruuvi.com/) Innovations Ltd ([Oy](https://en.wikipedia.org/wiki/Osakeyhti%C3%B6)), Finland
+  * [Ruuvi](https://fi.wikipedia.org/wiki/Ruuvi) is the Finnish word for "screw"
+  * [RuuviTag](https://ruuvi.com/ruuvitag/) wireless temperature sensor
+  * Ruuvi GitHub [Repositories](https://github.com/ruuvi)
+  * [RuuviLab](https://lab.ruuvi.com/) community
+* [Stripe, Inc.](https://en.wikipedia.org/wiki/Stripe,_Inc.)
 * [Zerocoin protocol](https://en.wikipedia.org/wiki/Zerocoin_protocol)
 * [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof) (ZKP)
 
