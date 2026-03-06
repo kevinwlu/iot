@@ -107,6 +107,7 @@
 ## Data Centers
 * [Data center](https://en.wikipedia.org/wiki/Data_center)
 * [Cirrascale Cloud Services](https://en.wikipedia.org/wiki/Cirrascale_Cloud_Services)
+* [Cloverleaf Infrastructure](https://www.cloverleafinfra.com/)
 * [CoreWeave](https://en.wikipedia.org/wiki/CoreWeave)
 * [DOE Data Center Load Flexibility Workshop Summary](https://eta.lbl.gov/publications/doe-data-center-load-flexibility), January 1, 2025
 * [Google data centers](https://en.wikipedia.org/wiki/Google_data_centers)
