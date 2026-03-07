@@ -134,6 +134,7 @@
   * [Spółka z ograniczoną odpowiedzialnością](https://en.wikipedia.org/wiki/Sp%C3%B3%C5%82ka_z_ograniczon%C4%85_odpowiedzialno%C5%9Bci%C4%85) (Sp. z.o.o.)
 * [List of largest companies by revenue](https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue)
 * [Locomotive Acts](https://en.wikipedia.org/wiki/Locomotive_Acts)
+* [Long-Term Capital Management](https://en.wikipedia.org/wiki/Long-Term_Capital_Management) (LTCM)
 * [Market research](https://en.wikipedia.org/wiki/Market_research)
   * [Ipsos](https://en.wikipedia.org/wiki/Ipsos)
 * [Memorandum of understanding](https://en.wikipedia.org/wiki/Memorandum_of_understanding) (MoU)
