@@ -352,6 +352,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Tülu 3: Pushing Frontiers in Open Language Model Post-Training](https://arxiv.org/abs/2411.15124), November 22, 2024
   * [Tülu 3 Models](https://huggingface.co/collections/allenai/tulu-3-models-673b8e0dc3512e30e7dc54f5)
   * [Ai2 Playground](https://playground.allenai.org/)
+* [Advanced Machine Intelligence](https://amilabs.xyz/) AMI Labs
+  * [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
 * [Partnership on AI](https://en.wikipedia.org/wiki/Partnership_on_AI)
 * [Amazon Q](https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/)
 * [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
