@@ -441,12 +441,12 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Meta Superintelligence Labs](https://www.cnbc.com/2025/06/30/mark-zuckerberg-creating-meta-superintelligence-labs-read-the-memo.html) (MSL), June 30, 2025
     * [Alexandr Wang](https://en.wikipedia.org/wiki/Alexandr_Wang)
     * [Nat Friedman](https://en.wikipedia.org/wiki/Nat_Friedman)
+* [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms) acquired [Moltbook](https://en.wikipedia.org/wiki/Moltbook) on March 10, 2026
+    * [Moltiverse](https://molti-verse.com/)
 * [Microsoft Copilot](https://en.wikipedia.org/wiki/Microsoft_Copilot)
   * [CodeBERT](https://github.com/microsoft/CodeBERT)
 * [Mistral AI](https://en.wikipedia.org/wiki/Mistral_AI)
   * [Mistral (wind)](https://en.wikipedia.org/wiki/Mistral_(wind))
-* [Moltbook](https://en.wikipedia.org/wiki/Moltbook)
-* [Moltiverse](https://molti-verse.com/)
 * [Nota AI](https://www.nota.ai/)
 * [Okahu](https://www.okahu.ai/)
   * [GitHub](https://github.com/okahu)
