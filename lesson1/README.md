@@ -50,6 +50,7 @@
   * [IEEE 802](https://en.wikipedia.org/wiki/IEEE_802)
 * [Local area network](https://en.wikipedia.org/wiki/Local_area_network) (LAN)
   * [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi)
+    * [Eduroam](https://en.wikipedia.org/wiki/Eduroam)
   * [IEEE 802.11](https://en.wikipedia.org/wiki/IEEE_802.11)
     * [IEEE 802.11p](https://en.wikipedia.org/wiki/IEEE_802.11p)
     * [Dedicated short-range communications](https://en.wikipedia.org/wiki/Dedicated_short-range_communications) (DSRC)
