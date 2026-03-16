@@ -110,6 +110,7 @@
   * [HuggingGPT](https://huggingface.co/spaces/microsoft/HuggingGPT)
 * [Inflection AI](https://en.wikipedia.org/wiki/Inflection_AI)
   * [Pi](https://pi.ai/)
+* [iThenticate](https://www.ithenticate.com/)
 * [Jenni](https://jenni.ai/)
 * [Khroma](https://www.khroma.co/)
 * [Klangio](https://klang.io/) Transcribe Music to Scores
@@ -149,9 +150,11 @@
   * [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
 * [Synthesia](https://www.synthesia.io/)
 * [Tabnine](https://www.tabnine.com/)
+* [TextGuard](https://textguard.ai/general)
 * [Tome](https://beta.tome.app/)
 * [Trickle](https://www.trickle.so/) transforms screenshots using GPT-4
 * [Vectara](https://vectara.com/) LLM-powered search-as-a-service
+* [WCopyfind](https://plagiarism.bloomfieldmedia.com/software/wcopyfind/)
 ## Book Summarizing
 * [Blinkist](https://en.wikipedia.org/wiki/Blinkist)
 * [BookRag](http://www.bookrags.com/)
