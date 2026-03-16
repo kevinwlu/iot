@@ -110,7 +110,6 @@
   * [HuggingGPT](https://huggingface.co/spaces/microsoft/HuggingGPT)
 * [Inflection AI](https://en.wikipedia.org/wiki/Inflection_AI)
   * [Pi](https://pi.ai/)
-* [iThenticate](https://www.ithenticate.com/)
 * [Jenni](https://jenni.ai/)
 * [Khroma](https://www.khroma.co/)
 * [Klangio](https://klang.io/) Transcribe Music to Scores
@@ -150,11 +149,9 @@
   * [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
 * [Synthesia](https://www.synthesia.io/)
 * [Tabnine](https://www.tabnine.com/)
-* [TextGuard](https://textguard.ai/general)
 * [Tome](https://beta.tome.app/)
 * [Trickle](https://www.trickle.so/) transforms screenshots using GPT-4
 * [Vectara](https://vectara.com/) LLM-powered search-as-a-service
-* [WCopyfind](https://plagiarism.bloomfieldmedia.com/software/wcopyfind/)
 ## Book Summarizing
 * [Blinkist](https://en.wikipedia.org/wiki/Blinkist)
 * [BookRag](http://www.bookrags.com/)
@@ -193,8 +190,11 @@
 * [Content similarity detection](https://en.wikipedia.org/wiki/Content_similarity_detection)
 * [Comparison of anti-plagiarism software](https://en.wikipedia.org/wiki/Comparison_of_anti-plagiarism_software)
   * [Turnitin](https://en.wikipedia.org/wiki/Turnitin)
-* [VeriGuide](https://veriguide1.cse.cuhk.edu.hk/portal/plagiarism_detection/index.jsp)
+* [iThenticate](https://en.wikipedia.org/wiki/IThenticate)
 * [Originality.AI](https://originality.ai/)
+* [TextGuard](https://textguard.ai/general)
+* [VeriGuide](https://veriguide1.cse.cuhk.edu.hk/portal/plagiarism_detection/index.jsp)
+* [WCopyfind](https://plagiarism.bloomfieldmedia.com/software/wcopyfind/)
 ## Data Analysis and Visulization
 * [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
 * [Avizo](https://en.wikipedia.org/wiki/Avizo_(software))
