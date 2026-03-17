@@ -368,6 +368,7 @@
 * [Ethanol](https://en.wikipedia.org/wiki/Ethanol)
 * [Greenhouse gas emissions](https://en.wikipedia.org/wiki/Greenhouse_gas_emissions)
 * [Hexane](https://en.wikipedia.org/wiki/Hexane)
+* [Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services](https://en.wikipedia.org/wiki/Intergovernmental_Science-Policy_Platform_on_Biodiversity_and_Ecosystem_Services) (IPBES)
 * [International Union for Conservation of Nature](https://en.wikipedia.org/wiki/International_Union_for_Conservation_of_Nature) (IUCN) founded in 1948
 * [New York City Building Energy Laws](https://accelerator.nyc/building-laws)
   * [Local Law 97](https://www.nyc.gov/site/sustainablebuildings/ll97/local-law-97.page)
