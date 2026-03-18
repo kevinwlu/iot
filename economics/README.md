@@ -151,6 +151,7 @@
 * [Paul Volcker](https://en.wikipedia.org/wiki/Paul_Volcker) 1927&mdash;2019
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator) or Key performance indicator (KPI)
 * [Phillips curve](https://en.wikipedia.org/wiki/Phillips_curve) by [Bill Phillips](https://en.wikipedia.org/wiki/Bill_Phillips_(economist)) 1914&mdash;1975
+* [Pig butchering scam](https://en.wikipedia.org/wiki/Pig_butchering_scam)
 * [Plaza Accord](https://en.wikipedia.org/wiki/Plaza_Accord)
   * [Japanese asset price bubble](https://en.wikipedia.org/wiki/Japanese_asset_price_bubble)
   * [Lost Decades](https://en.wikipedia.org/wiki/Lost_Decades)
