@@ -540,6 +540,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [GitHub repositories](https://github.com/deepseek-ai)
   * [Reasoning Model](https://api-docs.deepseek.com/guides/reasoning_model)
   * [High-Flyer](https://en.wikipedia.org/wiki/High-Flyer)
+* [HiDream.ai](https://hidreamai.com/home)
 * [Kuaishou](https://en.wikipedia.org/wiki/Kuaishou)
   * [Kling AI](https://klingai.org/)
   * [Kling video model](https://kling.kuaishou.com/en)
