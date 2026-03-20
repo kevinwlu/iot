@@ -356,6 +356,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
 * [Partnership on AI](https://en.wikipedia.org/wiki/Partnership_on_AI)
 * [Amazon Q](https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/)
+  * [Project Prometheus (company)](https://en.wikipedia.org/wiki/Project_Prometheus_(company))
 * [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
   * [Dario Amodei](https://en.wikipedia.org/wiki/Dario_Amodei)
   * [The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability), April 2025
