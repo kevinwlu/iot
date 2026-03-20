@@ -355,7 +355,8 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Advanced Machine Intelligence](https://amilabs.xyz/) AMI Labs
   * [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
 * [Partnership on AI](https://en.wikipedia.org/wiki/Partnership_on_AI)
-* [Amazon Q](https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/)
+* [Amazon Q](https://en.wikipedia.org/wiki/Amazon_Q)
+  * [Introducing Amazon Q, a new generative AI-powered assistant (preview)](https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/) November 28, 2023
   * [Project Prometheus (company)](https://en.wikipedia.org/wiki/Project_Prometheus_(company))
 * [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
   * [Dario Amodei](https://en.wikipedia.org/wiki/Dario_Amodei)
