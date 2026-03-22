@@ -19,6 +19,8 @@
 * [Lovevery](https://www.youtube.com/@Lovevery)
 * [Make:](https://www.youtube.com/@MAKE)
 * [Maker Kids](https://www.youtube.com/@makerkids)
+* [Pitsco Education](https://www.pitsco.com/)
+  * [Tetrix Robotics Kit](https://en.wikipedia.org/wiki/Tetrix_Robotics_Kit)
 * [Product Hunt](https://www.youtube.com/@product_hunt)
 * [Project MFG](https://www.youtube.com/@ProjectMFG)
   * [Adele Ratcliff](https://www.businessdefense.gov/ibr/mceip/icam/leadership/adele-ratcliff.html)
