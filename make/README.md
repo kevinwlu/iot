@@ -136,6 +136,10 @@
 * [Joystick](https://en.wikipedia.org/wiki/Joystick)
 * [Photodiode](https://en.wikipedia.org/wiki/Photodiode)
   * [QSD2030](https://www.onsemi.com/pdf/datasheet/qsd2030-d.pdf)
+* [Water quality](https://en.wikipedia.org/wiki/Water_quality)
+  * [Turbidity](https://en.wikipedia.org/wiki/Turbidity)
+  * [Total dissolved solids](https://en.wikipedia.org/wiki/Total_dissolved_solids) (TDS)
+  * [Total suspended solids](https://en.wikipedia.org/wiki/Total_suspended_solids) (TSS)
 ## Actuators
 * [Actuator](https://en.wikipedia.org/wiki/Actuator)
   * [Linear actuator](https://en.wikipedia.org/wiki/Linear_actuator)
