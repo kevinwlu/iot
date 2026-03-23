@@ -60,6 +60,7 @@
   * [AI agent](https://en.wikipedia.org/wiki/AI_agent)
   * [Multi-agent system](https://en.wikipedia.org/wiki/Multi-agent_system) (MAS)
 * [Blended artificial intelligence](https://en.wikipedia.org/wiki/Blended_artificial_intelligence)
+* [Brain in Overdrive: Ruminating Questions on The Future of Science Education](https://woolee.substack.com/p/brain-in-overdrive), March 22, 2026
 * [Explainable AI](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
 * [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
 * [Ethics of artificial intelligence](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
