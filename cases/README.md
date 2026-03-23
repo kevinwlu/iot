@@ -549,6 +549,8 @@
 * [Amazon One](https://en.wikipedia.org/wiki/Amazon_One)
 * [Ocado](https://en.wikipedia.org/wiki/Ocado)
 ## Robotics
+* [Human–robot collaboration](https://en.wikipedia.org/wiki/Human%E2%80%93robot_collaboration) (HRC)
+* [Human–robot interaction](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction) (HRI)
 * [Humanoid](https://en.wikipedia.org/wiki/Humanoid)
   * [Android](https://en.wikipedia.org/wiki/Android_(robot))
   * [Gynoid](https://en.wikipedia.org/wiki/Gynoid)
