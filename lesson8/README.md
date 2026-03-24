@@ -173,6 +173,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 ## Matplotlib
 * [Matplotlib](https://en.wikipedia.org/wiki/Matplotlib) visualization with Python
 * [Data visualization](https://en.wikipedia.org/wiki/Data_visualization)
+* [JoVE](https://en.wikipedia.org/wiki/JoVE), formerly *Journal of Visualized Experiments*
 * [Histogram](https://en.wikipedia.org/wiki/Histogram)
 * [Box plot](https://en.wikipedia.org/wiki/Box_plot)
   * [Median](https://en.wikipedia.org/wiki/Median)
