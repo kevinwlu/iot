@@ -27,6 +27,8 @@
     * [Region Based Convolutional Neural Networks](https://en.wikipedia.org/wiki/Region_Based_Convolutional_Neural_Networks) (R-CNN)
     * [Mask R-CNN](https://arxiv.org/abs/1703.06870)
     * [Gradient-weighted Class Activation Mapping](https://arxiv.org/abs/1610.02391) (Grad-CAM)
+    * [Non Maximum Suppression](https://learnopencv.com/non-maximum-suppression-theory-and-implementation-in-pytorch/) (NMS)
+    * [Weighted Boxes Fusion](https://learnopencv.com/weighted-boxes-fusion/) (WBF)
   * [Recurrent neural network](https://en.wikipedia.org/wiki/Recurrent_neural_network) (RNN)
     * [Long short-term memory](https://en.wikipedia.org/wiki/Long_short-term_memory) (LSTM)
   * [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
