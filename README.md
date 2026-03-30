@@ -126,6 +126,12 @@
 * [National Highway Traffic Safety Administration](https://en.wikipedia.org/wiki/National_Highway_Traffic_Safety_Administration) (NHTSA)
 * [National Institute for Occupational Safety and Health](https://en.wikipedia.org/wiki/National_Institute_for_Occupational_Safety_and_Health) (NIOSH)
 * [Net neutrality](https://en.wikipedia.org/wiki/Net_neutrality)
+* [Occupational Safety and Health Administration](https://en.wikipedia.org/wiki/Occupational_Safety_and_Health_Administration) (OSHA)
+  * [Title 29 of the Code of Federal Regulations](https://en.wikipedia.org/wiki/Title_29_of_the_Code_of_Federal_Regulations)
+  * [*Code of Federal Regulations*](https://en.wikipedia.org/wiki/Code_of_Federal_Regulations) (CFR)
+  * 29 CFR 1910.132 Personal Protective Equipment
+  * 29 CFR 1910.1200 Hazard Communication
+  * 29 CFR 1910.1450 Occupational Exposure to Hazardous Chemicals in Laboratories
 * [Personal Information Protection Law](https://en.wikipedia.org/wiki/Personal_Information_Protection_Law_of_the_People's_Republic_of_China) (PIPL)
 * [Supply chain security](https://en.wikipedia.org/wiki/Supply_chain_security)
 * [United States antitrust law](https://en.wikipedia.org/wiki/United_States_antitrust_law)
