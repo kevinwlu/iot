@@ -79,6 +79,7 @@
 * [Electromyography](https://en.wikipedia.org/wiki/Electromyography) (EMG)
   * [A Look at Our Surface EMG Research Focused on Equity and Accessibility](https://www.meta.com/blog/surface-emg-wristband-electromyography-human-computer-interaction-hci/), September 25, 2024
 * [Encephalopathy](https://en.wikipedia.org/wiki/Encephalopathy) 
+* [Epilepsy)](https://en.wikipedia.org/wiki/Epilepsy)
 * [Ex vivo](https://en.wikipedia.org/wiki/Ex_vivo)
 * [In vivo](https://en.wikipedia.org/wiki/In_vivo)
 * [In vitro](https://en.wikipedia.org/wiki/In_vitro)
