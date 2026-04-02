@@ -6,6 +6,7 @@
 * [Digital Services Act](https://en.wikipedia.org/wiki/Digital_Services_Act) (DSA) is an EU regulation
 * [Infrastructure Investment and Jobs Act](https://en.wikipedia.org/wiki/Infrastructure_Investment_and_Jobs_Act) (IIJA)
 * [Inflation Reduction Act](https://en.wikipedia.org/wiki/Inflation_Reduction_Act) (IRA)
+* [Office of Foreign Assets Control](https://en.wikipedia.org/wiki/Office_of_Foreign_Assets_Control) (OFAC)
 * [Regional Comprehensive Economic Partnership](https://en.wikipedia.org/wiki/Regional_Comprehensive_Economic_Partnership) (RCEP)
 * [Trans-Pacific Partnership](https://en.wikipedia.org/wiki/Trans-Pacific_Partnership) (TPP)
 ## YouTube Channels
