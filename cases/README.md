@@ -586,6 +586,7 @@
 * [Figure AI](https://en.wikipedia.org/wiki/Figure_AI)
 * [Fourier (company)](https://en.wikipedia.org/wiki/Fourier_(company))
 * [Hanson Robotics](https://en.wikipedia.org/wiki/Hanson_Robotics)
+* [Holman Robotics](https://www.holman.com/robotics/)
 * [Impossible Metals](https://impossiblemetals.com/)
 * [Intrinsic](https://intrinsic.ai/)
 * [Kinova](https://en.wikipedia.org/wiki/Kinova)
