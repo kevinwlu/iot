@@ -362,14 +362,16 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Project Prometheus (company)](https://en.wikipedia.org/wiki/Project_Prometheus_(company))
 * [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
   * [Dario Amodei](https://en.wikipedia.org/wiki/Dario_Amodei)
-  * [The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability), April 2025
   * [Claude](https://www.anthropic.com/news/introducing-claude), March 14, 2023
   * [Claude 2](https://www.anthropic.com/news/claude-2), July 11, 2023
+  * [Decomposing Language Models Into Understandable Components](https://www.anthropic.com/news/decomposing-language-models-into-understandable-components), October 5, 2023
   * [Claude 3](https://www.anthropic.com/news/claude-3-family), March 4, 2024
   * [Claude 3.5](https://www.anthropic.com/news/claude-3-5-sonnet), June 20, 2024
-  * [Decomposing Language Models Into Understandable Components](https://www.anthropic.com/news/decomposing-language-models-into-understandable-components), October 5, 2023
+  * [The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability), April 2025
   * [Exploring model welfare](https://www.anthropic.com/research/exploring-model-welfare), April 24, 2025
   * [Claude Sonnet](https://www.anthropic.com/claude/sonnet)
+  * [Glasswing](https://www.anthropic.com/glasswing)
+  * [Assessing Claude Mythos Preview’s cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/), April 7, 2026
 * [Apple Intelligence](https://en.wikipedia.org/wiki/Apple_Intelligence)
 * [Cognition AI](https://en.wikipedia.org/wiki/Cognition_AI)
   * [Devin AI](https://en.wikipedia.org/wiki/Devin_AI)
