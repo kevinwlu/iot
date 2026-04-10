@@ -130,8 +130,10 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [MLCommons](https://mlcommons.org/) an Open AI Engineering Consortium
   * [GitHub repository](https://github.com/mlcommons)
 * [Playlab](https://www.playlab.ai/)
+  * [California Community Colleges](https://playlab-education.github.io/ccc-landing/) (CCC)
 * [A.I. Companies Are Eating Higher Education](https://www.nytimes.com/2026/02/12/opinion/ai-companies-college-students.html) by [Matthew Connelly](https://history.columbia.edu/person/connelly-matthew/), February 12, 2026
   * [Cluely](https://en.wikipedia.org/wiki/Cluely)
+* [Future of Higher Ed ](https://www.fohe.org/) (FOHE)
 * [Teaching With AI](https://www.youtube.com/watch?v=1PbLbwkJFrM) by [Carlo Lipizzi](https://www.stevens.edu/profile/clipizzi), February 12, 2026
 ## NumPy
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
