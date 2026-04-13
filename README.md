@@ -176,6 +176,7 @@
 * [IEEE Metaverse Congress](https://engagestandards.ieee.org/IEEE-Metaverse-Congress.html)
 * [IEEE SA Events](https://standards.ieee.org/events/)
 * [IEEE SA Interactive Cityscape](https://standards.ieee.org/wp-content/uploads/interactive/web/cityscape/index.htm)
+* [Indoor Air Quality Association](https://www.iaqa.org/) (IAQA)
 * [International Council on Systems Engineering](https://en.wikipedia.org/wiki/International_Council_on_Systems_Engineering) (INCOSE)
 * [IoT Communities](https://iotcommunity.net/)
 * [IoT Developer Communities](https://www.iotevolutionworld.com/iot/articles/444725-iot-developer-communities-platforms-people-productivity-2020.htm)
@@ -225,6 +226,7 @@
 * [IAMTS](https://www.iamts.org/en) (International Alliance for Mobility Testing and Standardization)
 * [IIC](https://en.wikipedia.org/wiki/Industrial_Internet_Consortium) (Industrial Internet Consortium)
 * [IMPALA](https://impala-consortium.org/) Consortium
+* [Indoor Environmental Quality Global Alliance](https://en.wikipedia.org/wiki/Indoor_Environmental_Quality_Global_Alliance) (IEQ-GA)
 * [Industry Standards and Technology Organization](https://en.wikipedia.org/wiki/IEEE-ISTO) (ISTO)
   * [ISTO Website](https://isto.org/)
   * [Interconnect Modeling Technical Advisory Board](https://ieee-isto.org/member_programs/interconnect-modeling-technical-advisory-board/) (IMTAB)
