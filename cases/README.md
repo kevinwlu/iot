@@ -64,6 +64,7 @@
 * [Biotechnology](https://en.wikipedia.org/wiki/Biotechnology)
 * [Scala Biodesign](https://www.scala-bio.com/)
 ## Climate and Weather
+* [Climate classification](https://en.wikipedia.org/wiki/Climate_classification)
 * [Global Forecast System](https://en.wikipedia.org/wiki/Global_Forecast_System) (GFS)
 * [European Centre for Medium-Range Weather Forecasts](https://en.wikipedia.org/wiki/European_Centre_for_Medium-Range_Weather_Forecasts) (ECMWF)
 * [Anthropocene](https://en.wikipedia.org/wiki/Anthropocene)
