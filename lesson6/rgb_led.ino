@@ -26,11 +26,9 @@ void setup() {
   pinMode(PIN_RED,   OUTPUT);
   pinMode(PIN_GREEN, OUTPUT);
   pinMode(PIN_BLUE,  OUTPUT);
-  
 }
   
 void loop() {
- 
   // set the colors of the LED
   // Loop through Red-Green-Blue and repeat
   setColor(255, 0, 0); //set LED to Red
@@ -39,5 +37,4 @@ void loop() {
   delay(500);
   setColor(0, 0, 255); //set LED to Blue
   delay(500);
-   
 }
