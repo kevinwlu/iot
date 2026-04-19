@@ -344,6 +344,9 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Emerging Technologies Initiatives](https://www.comsoc.org/about/committees/emerging-technologies-initiatives) (ETI)
 * [GenAINet](https://genainet.committees.comsoc.org/)
 * [GenAINet: Enabling Wireless Collective Intelligence via Knowledge Transfer and Reasoning](https://arxiv.org/abs/2402.16631)
+* [AutoGPT](https://en.wikipedia.org/wiki/AutoGPT)
+* [CoachGPT](https://www.coachgpt.com/)
+  * [CoachGPT | Second Nature](https://coach.secondnature.io/)
 * [TelecomGPT](https://arxiv.org/abs/2407.09424): A Framework to Build Telecom-Specfic Large Language Models
 ---
 * AI Creativity S.r.l.
