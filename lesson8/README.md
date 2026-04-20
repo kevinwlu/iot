@@ -135,6 +135,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [A.I. Companies Are Eating Higher Education](https://www.nytimes.com/2026/02/12/opinion/ai-companies-college-students.html) by [Matthew Connelly](https://history.columbia.edu/person/connelly-matthew/), February 12, 2026
   * [Cluely](https://en.wikipedia.org/wiki/Cluely)
 * [Future of Higher Ed ](https://www.fohe.org/) (FOHE)
+* [Mission.io](https://mission.io/)
 * [Teaching With AI](https://www.youtube.com/watch?v=1PbLbwkJFrM) by [Carlo Lipizzi](https://www.stevens.edu/profile/clipizzi), February 12, 2026
 ## NumPy
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
