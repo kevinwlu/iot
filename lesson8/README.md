@@ -141,7 +141,9 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [55 Sanity-Saving Indoor Recess Games, Activities, and More Ideas](https://www.weareteachers.com/indoor-recess-ideas/)
   * [Chromebook Remorse: Tech Backlash at Schools Extends Beyond Phones](https://www.nytimes.com/2026/03/29/technology/chromebook-remorse-kansas-school-laptops.html), March 29, 2026
   * [Don't throw away your printed books: A meta-analysis on the effects of reading media on reading comprehension](https://www.sciencedirect.com/science/article/pii/S1747938X18300101), November 2018
+  * [*Essays*](https://www.gutenberg.org/files/16643/16643-h/16643-h.htm) 1907 by Ralph Waldo Emerson 1803&mdash;1882
   * [Letter to Max](https://chanzuckerberg.com/about/letter-to-max/)
+  * [Meet Emily Cherkin, Your Screentime Consultant](https://thescreentimeconsultant.com/about-emily)
   * [Mission.io](https://mission.io/)
   * [More than Half of Public School Leaders Say Cell Phones Hurt Academic Performance](https://ies.ed.gov/learn/press-release/more-half-public-school-leaders-say-cell-phones-hurt-academic-performance), February 19, 2025
   * [One-to-One Laptop Initiatives Boost Student Scores, Researchers Find](https://www.edweek.org/technology/one-to-one-laptop-initiatives-boost-student-scores-researchers-find/2016/05), May 11, 2016
@@ -156,6 +158,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Unregulated use of laptops over time in large lecture classes](https://www.sciencedirect.com/science/article/pii/S0360131514001158), September 2014
   * [Walden](https://www.waldengame.com/educators)
   * [What Does Too Much Screen Time Do to Children's Brains](https://www.nyp.org/healthmatters/what-does-too-much-screen-time-do-to-childrens-brains), August 24, 2023
+  * [Why Common Core failed](https://www.brookings.edu/articles/why-common-core-failed/), March 18, 2021
 
 ## NumPy
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
