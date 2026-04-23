@@ -243,6 +243,7 @@
 * [Lean (proof assistant)](https://en.wikipedia.org/wiki/Lean_(proof_assistant))
 * [Rocq](https://en.wikipedia.org/wiki/Rocq)
 * [List of conjectures](https://en.wikipedia.org/wiki/List_of_conjectures)
+* [HaLLMos](https://hallmos.com/)
 ## Robotics
 * [Gazebo simulator](https://en.wikipedia.org/wiki/Gazebo_simulator)
 * [Robot Operating System](https://en.wikipedia.org/wiki/Robot_Operating_System) (ROS)
