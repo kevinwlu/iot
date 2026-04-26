@@ -145,7 +145,12 @@
 * [1-Wire](https://en.wikipedia.org/wiki/1-Wire)
   * Data input/output (DQ)
 * [Light-emitting diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED)
+  * [History of the LED](https://en.wikipedia.org/wiki/History_of_the_LED)
+  * [Henry Joseph Round](https://en.wikipedia.org/wiki/H._J._Round) 1881&mdash;1966 was a personal assistant to Guglielmo Marconi
+  * [Oleg Losev](https://en.wikipedia.org/wiki/Oleg_Losev) 1903&mdash;1942 
   * [Shuji Nakamura](https://en.wikipedia.org/wiki/Shuji_Nakamura)
+  * [Hiroshi Amano](https://en.wikipedia.org/wiki/Hiroshi_Amano)
+  * [Isamu Akasaki](https://en.wikipedia.org/wiki/Isamu_Akasaki) 1929&mdash;2021
   * [Nobel Prize in Physics 2014](https://www.nobelprize.org/prizes/physics/2014/summary/)
   * [Why It Was Almost Impossible to Make the Blue LED](https://www.youtube.com/watch?v=AF8d72mA41M) by [Derek Muller](https://en.wikipedia.org/wiki/Derek_Muller) of [Veritasium](https://www.youtube.com/@veritasium)
   * [LED strip light](https://en.wikipedia.org/wiki/LED_strip_light)
