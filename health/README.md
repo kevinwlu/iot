@@ -217,6 +217,9 @@
   * [Zelig Eshhar](https://en.wikipedia.org/wiki/Zelig_Eshhar) 1941&mdash;2025
 * [Pancreaticoduodenectomy](https://en.wikipedia.org/wiki/Pancreaticoduodenectomy) also known as a Whipple procedure
   * [Allen Whipple](https://en.wikipedia.org/wiki/Allen_Whipple) 1881&mdash;1963
+* [Pancreatic cancer](https://en.wikipedia.org/wiki/Pancreatic_cancer)
+  * [Daraxonrasib](https://en.wikipedia.org/wiki/Daraxonrasib)
+  * [Ras GTPase](https://en.wikipedia.org/wiki/Ras_GTPase)
 ---
 * [Schistosomiasis](https://en.wikipedia.org/wiki/Schistosomiasis)
 ---
