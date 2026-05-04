@@ -526,6 +526,14 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Grok](https://en.wikipedia.org/wiki/Grok_(chatbot))
 ---
 * [Artificial intelligence industry in China](https://en.wikipedia.org/wiki/Artificial_intelligence_industry_in_China)
+* [Six AI tigers](https://en.wikipedia.org/wiki/Six_AI_tigers)
+  * [01.AI](https://en.wikipedia.org/wiki/01.AI)
+  * [Baichuan](https://en.wikipedia.org/wiki/Baichuan)
+  * [MiniMax Group](https://en.wikipedia.org/wiki/MiniMax_Group)
+  * [Moonshot AI](https://en.wikipedia.org/wiki/Moonshot_AI)
+  * [StepFun](https://en.wikipedia.org/wiki/StepFun)
+  * [Z.ai](https://en.wikipedia.org/wiki/Z.ai)
+    * [Zhipu AI](https://www.zhipuai.cn/en/)
 * [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group)
   * [Tongyi Qianwen](https://www.alibabacloud.com/en/solutions/generative-ai/qwen) (Qwen)
   * [Qwen2](https://github.com/QwenLM/Qwen2)
@@ -553,8 +561,6 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [SenseNova](https://www.sensetime.com/en/news-detail/51168278)
 * [Tencent](https://en.wikipedia.org/wiki/Tencent)
   * [Tencent Cloud AI Digital Human](https://www.tencentcloud.com/products/ivh)
-* [Z.ai](https://en.wikipedia.org/wiki/Z.ai)
-  * [Zhipu AI](https://www.zhipuai.cn/en/)
 ---
 * [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
 * [Pika](https://pika.art/) idea-to-video platform
