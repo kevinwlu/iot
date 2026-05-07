@@ -191,6 +191,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * The Nobel Prize in Physics 2024 was awarded to John J. Hopfield and Geoffrey E. Hinton “for foundational discoveries and inventions that enable machine learning with artificial neural networks.”
   * Hopfield created a structure that can store and reconstruct information.
   * Hinton invented a method that can independently discover properties in data and which has become important for the large neural networks now in use.
+* [Neuromorphic computing](https://en.wikipedia.org/wiki/Neuromorphic_computing)
 * [MLRelated.com](https://www.mlrelated.com/)
 * [TensorFlow](https://en.wikipedia.org/wiki/TensorFlow)
   * [Quantization aware training](https://www.tensorflow.org/model_optimization/guide/quantization/training)
