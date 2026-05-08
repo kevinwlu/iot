@@ -647,6 +647,7 @@
 * [Meteosat](https://en.wikipedia.org/wiki/Meteosat)
 * [Millennium Space Systems](https://www.millennium-space.com/)
 * [Mobile User Objective System](https://en.wikipedia.org/wiki/Mobile_User_Objective_System) (MUOS)
+* [National Aerospace Research & Technology Park](https://www.nartp.com/) (NARTP)
 * [NASA Space Tech Industry Partnership](https://www.nasa.gov/directorates/spacetech/solicitations/tipping_points)
 * [OneWeb](https://en.wikipedia.org/wiki/OneWeb)
 * [Planet Labs](https://en.wikipedia.org/wiki/Planet_Labs)
