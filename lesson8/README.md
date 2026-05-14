@@ -429,6 +429,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
 * [Lila Sciences](https://www.lila.ai/)
 * [LMArena](https://blog.lmarena.ai/blog/)
   * [Chatbot Arena](https://lmarena.ai/)
+* [Love Thy Recruiting, Inc.](https://www.pin.com/)
 * [Meta AI](https://en.wikipedia.org/wiki/Meta_AI)
   * [BlenderBot](https://blenderbot.ai/)
   * [BlenderBot 3](https://parl.ai/projects/bb3/) (BB3)
@@ -507,6 +508,7 @@ Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_gen
   * [Poe](https://poe.com/)
   * [Edgar Allan Poe](https://en.wikipedia.org/wiki/Edgar_Allan_Poe) 1808&mdash;1849
 * [Qwen](https://en.wikipedia.org/wiki/Qwen)
+* [Recursive Superintelligence, Inc.](https://www.recursive.com/)
 * [Safe Superintelligence](https://ssi.inc/) (SSI)
   * [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)
 * [SambaNova Systems](https://sambanova.ai/)
