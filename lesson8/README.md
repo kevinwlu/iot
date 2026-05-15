@@ -31,6 +31,10 @@
 * [DeepWiki](https://deepwiki.com/)
 * [Code.org](https://en.wikipedia.org/wiki/Code.org)
 
+![AI](/lesson8/AI.jpg)
+
+Source: [Data Science Dojo](https://www.linkedin.com/posts/data-science-dojo_generativeai-ml-llm-activity-7193399193988718593-VwcL)
+
 ## NumPy
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
 * [Linear algebra](https://en.wikipedia.org/wiki/Linear_algebra)
