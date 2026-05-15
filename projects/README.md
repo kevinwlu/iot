@@ -26,6 +26,7 @@
   * [Ray-Ban Meta](https://en.wikipedia.org/wiki/Ray-Ban_Meta)
   * [Halliday](https://hallidayglobal.com/)
   * [Orion](https://www.meta.com/blog/orion-ar-glasses-augmented-reality/), September 25, 2024
+  * [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses)
 ## 2025 Spring
 * [Exploring Animal Physiological Adaptations to Microgravity](https://github.com/lquaynor/researchtopic/)
 ## 2024 Fall
