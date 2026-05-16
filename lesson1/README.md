@@ -5,6 +5,9 @@
 ![architecture.png](/lesson1/architecture.png)
 ##
 * IoT architecture source: [IERC-European Research Cluster on the Internet of Things](http://www.internet-of-things-research.eu/pdf/IoT-From%20Research%20and%20Innovation%20to%20Market%20Deployment_IERC_Cluster_eBook_978-87-93102-95-8_P.pdf)
+* [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT)
+* [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
+* [Artificial intelligence of things](https://en.wikipedia.org/wiki/Artificial_intelligence_of_things) (AIoT)
 * [Open Systems Interconnecton (OSI) model](https://en.wikipedia.org/wiki/OSI_model)
 * [OSI protocols](https://en.wikipedia.org/wiki/OSI_protocols)
 * [Closed platform](https://en.wikipedia.org/wiki/Closed_platform)
