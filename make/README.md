@@ -1,6 +1,8 @@
 # Makeathon
 ## YouTube Channels
 * [Adafruit Industries](https://www.youtube.com/@adafruit)
+* [Adam Savage's Tested](https://www.youtube.com/@tested)
+  * [Adam Savage](https://en.wikipedia.org/wiki/Adam_Savage)
 * [Be Smart](https://www.youtube.com/@besmart) With Joe Hanson
 * [Design Theory](https://www.youtube.com/@Design.Theory)
 * [DIY](https://www.youtube.com/@diytv)
