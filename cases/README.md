@@ -82,6 +82,7 @@
 * [Jet stream](https://en.wikipedia.org/wiki/Jet_stream)
 * [Polar vortex](https://en.wikipedia.org/wiki/Polar_vortex)
 * [Quasi-biennial oscillation](https://en.wikipedia.org/wiki/Quasi-biennial_oscillation) (QBO)
+* [Stardust Solutions](https://stardustsrt.com/)
 * [WindBorne Systems](https://windbornesystems.com/) based in Palo Alto, California, fusse data from its long-duration balloons with AI models to produce weather forecasts
 * [Woodwell Climate Research Center](https://en.wikipedia.org/wiki/Woodwell_Climate_Research_Center)
   * [George M. Woodwell](https://en.wikipedia.org/wiki/George_M._Woodwell) 1928&mdash;2024
