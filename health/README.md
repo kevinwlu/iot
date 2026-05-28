@@ -38,6 +38,7 @@
   * [Intracranial aneurysm](https://en.wikipedia.org/wiki/Intracranial_aneurysm)
 * [Aortic stenosis](https://en.wikipedia.org/wiki/Aortic_stenosis)
 * [Atrial fibrillation](https://en.wikipedia.org/wiki/Atrial_fibrillation) (AFib or AF)
+* [Atrophy](https://en.wikipedia.org/wiki/Atrophy)
 * [Blinded experiment](https://en.wikipedia.org/wiki/Blinded_experiment)
 * [Blood pressure](https://en.wikipedia.org/wiki/Blood_pressure)
 * [Cannabidiol](https://en.wikipedia.org/wiki/Cannabidiol) (CBD)
