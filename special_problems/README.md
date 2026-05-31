@@ -45,7 +45,7 @@
   * [Haar-like feature](https://en.wikipedia.org/wiki/Haar-like_feature)
   * [Alfréd Haar](https://en.wikipedia.org/wiki/Alfr%C3%A9d_Haar) 1885&mdash;1933
   * [MediaPipe](https://developers.google.com/mediapipe)
-  * [Roboflow](https://roboflow.com/)
+  * [Roboflow](https://en.wikipedia.org/wiki/Roboflow)
     * [GitHub repository](https://github.com/roboflow)
   * [Coral](https://coral.ai/)
   * [Evaluation measures](https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval))
