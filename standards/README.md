@@ -76,6 +76,7 @@
   * [American Institute of Electrical Engineers](https://en.wikipedia.org/wiki/American_Institute_of_Electrical_Engineers) (AIEE) founded in 1884
   * [Institute of Radio Engineers](https://en.wikipedia.org/wiki/Institute_of_Radio_Engineers) (IRE) founded in 1912
   * [IEEE Standards Association](https://standards.ieee.org/) (SA)
+  * [IEEE Global Public Policy](https://globalpolicy.ieee.org/)
   * [Practices](https://standards.ieee.org/practices/)
     * [Connectivity and Telecom](https://standards.ieee.org/practices/connectivity-telecom/index.html)
     * [Energy](https://standards.ieee.org/practices/energy/index.html)
@@ -179,8 +180,9 @@
   * [ISO/IEEE 11073](https://en.wikipedia.org/wiki/ISO/IEEE_11073)
 * [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) (International Telecommunication Union)
   * [ITU AI for Good](https://en.wikipedia.org/wiki/ITU_AI_for_Good) 2017
-    * [Website](https://ai4good.org/)
+    * [ITU AI for Good Website](https://aiforgood.itu.int/) vs. [AI for Good Foundation](https://ai4good.org/)
     * [AI for Good Innovate for Impact2025 Report](https://www.itu.int/hub/publication/t-ai4g-ai4good-2025-1/)
+    * [Global Dialogue on AI Governance](https://www.un.org/global-dialogue-ai-governance/en)
   * [ITU-T](https://en.wikipedia.org/wiki/ITU-T)
   * [IoT Global Standards Initiative](https://www.itu.int/en/ITU-T/gsi/iot/)
   * [ITU AI for Good](https://en.wikipedia.org/wiki/ITU_AI_for_Good)
@@ -240,6 +242,8 @@
 * [Thread Group](https://www.threadgroup.org/) 
   * [Thread](https://en.wikipedia.org/wiki/Thread_(network_protocol))
   * [OpenThread](https://openthread.io/) released by Google
+* [UNESCO](https://en.wikipedia.org/wiki/UNESCO) (United Nations Educational, Scientific and Cultural Organization)
+  * [WSIS](https://www.unesco.org/en/wsis) (World Summit on the Information Society)
 * [URSI](https://en.wikipedia.org/wiki/International_Union_of_Radio_Science) (International Union of Radio Science)
   * [Commission A](https://www.ursi.org/commission.php?id=A): Electromagnetic Metrology, Electromagnetic measurements and standards
 * [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium) (World Wide Web Consortium)
