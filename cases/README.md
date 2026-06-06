@@ -658,6 +658,7 @@
 * [Planet Labs](https://en.wikipedia.org/wiki/Planet_Labs)
 * [PLD Space](https://en.wikipedia.org/wiki/PLD_Space)
 * [Psyche (spacecraft)](https://en.wikipedia.org/wiki/Psyche_(spacecraft))
+* [Reaction Dynamics (company)](https://en.wikipedia.org/wiki/Reaction_Dynamics_(company))
 * [Relativity Space](https://en.wikipedia.org/wiki/Relativity_Space)
 * [Rocket Development Lab](https://www.rocketdevelopmentlab.com/) (RDL)
   * [Embry–Riddle Aeronautical University](https://en.wikipedia.org/wiki/Embry%E2%80%93Riddle_Aeronautical_University) (ERAU)
