@@ -128,6 +128,7 @@
   * [Meituan](https://en.wikipedia.org/wiki/Meituan)
 * [Unmanned combat aerial vehicle](https://en.wikipedia.org/wiki/Unmanned_combat_aerial_vehicle)
 * [AeroVironment](https://en.wikipedia.org/wiki/AeroVironment)
+* [Airbus U145](https://www.airbus.com/en/products-services/defence/uas/u145)
 * [Anzu Robotics](https://www.anzurobotics.com/)
 * [Apian](https://www.apian.aero/)
 * [Applied Aeronautics](https://en.wikipedia.org/wiki/Applied_Aeronautics)
