@@ -1,6 +1,7 @@
 # Seeed Studio XIAO Series
 * [Seeed Studio](https://github.com/Seeed-Studio)
 * [XIAO Series](https://www.seeedstudio.com/xiao-series-page)
+  * [XIAO Project Hub](https://seeed-studio.github.io/OSHW-XIAO-Series/)
 * [Getting Started with Seeed Studio XIAO ESP32S3 (Sense)](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/)
   * [Wi-Fi usage with Seeed Studio XIAO ESP32S3 (Sense)](https://wiki.seeedstudio.com/xiao_esp32s3_wifi_usage/)
   * [Pin multiplexing with Seeed Studio XIAO ESP32S3 (Sense)](https://wiki.seeedstudio.com/xiao_esp32s3_pin_multiplexing/)
