@@ -206,6 +206,11 @@
     * [Supersingular isogeny key exchange](https://en.wikipedia.org/wiki/Supersingular_isogeny_key_exchange) (SIKE)
     * [SIKE.org](https://sike.org/)
     * [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+* [Experimental randomness amplification](https://www.nature.com/articles/s41586-026-10521-8), May 27, 2026
+* [Quantum computer generates strings of certifiably random numbers](https://physicsworld.com/a/quantum-computer-generates-strings-of-certifiably-random-numbers/), April 10, 2025
+* [The Last Mile of Encrypting the Web: 2023 Year in Review](https://www.eff.org/deeplinks/2023/12/year-review-last-mile-encrypting-web), December 25, 2023
+* [A Critical Random Number Generator Flaw Affects Billions of IoT Devices](https://thehackernews.com/2021/08/a-critical-random-number-generator-flaw.html), August 9, 2021
+* [Can a computer generate a truly random number?](https://engineering.mit.edu/ask-an-engineer/can-a-computer-generate-a-truly-random-number), October 31, 2011
 ## Quantum Optics
 * [Quantum optics](https://en.wikipedia.org/wiki/Quantum_optics)
 * [Quantum dot laser](https://en.wikipedia.org/wiki/Quantum_dot_laser)
