@@ -62,6 +62,7 @@
 * [Cybersecurity information technology list](https://en.wikipedia.org/wiki/Cybersecurity_information_technology_list)
 * [Engineering and Technology History Wiki](https://ethw.org/Main_Page)
   * [IEEE Milestones Wiki](https://ieeemilestones.ethw.org/Main_Page) 
+* [European Institute for Innovation through Health Data](https://www.i-hd.eu/)
 * [ERTICO](https://en.wikipedia.org/wiki/ERTICO) (European Road Transport Telematics Implementation Coordination)
 * [ETSI](https://en.wikipedia.org/wiki/ETSI) (European Telecommunications Standards Institute)
   * [Broadband Radio Access Networks](https://www.etsi.org/committee/bran) (BRAN)
