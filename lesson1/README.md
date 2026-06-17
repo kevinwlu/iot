@@ -58,6 +58,7 @@
     * [IEEE 802.11af](https://en.wikipedia.org/wiki/IEEE_802.11af)
     * [IEEE 802.11p](https://en.wikipedia.org/wiki/IEEE_802.11p)
     * [Dedicated short-range communications](https://en.wikipedia.org/wiki/Dedicated_short-range_communications) (DSRC)
+  * [IEEE 802.22](https://en.wikipedia.org/wiki/IEEE_802.22)
   * [WiGig](https://en.wikipedia.org/wiki/WiGig)
   * [Service set](https://en.wikipedia.org/wiki/Service_set_(802.11_network)) identifier (SSID)
   * [Li-Fi](https://en.wikipedia.org/wiki/Li-Fi)
