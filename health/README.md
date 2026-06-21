@@ -6,11 +6,30 @@
 * [*The Lancet*](https://en.wikipedia.org/wiki/The_Lancet)
 ---
 * [Advanced Research Projects Agency for Health](https://en.wikipedia.org/wiki/Advanced_Research_Projects_Agency_for_Health) (ARPA-H)
+  * [Carl Zimmer](https://en.wikipedia.org/wiki/Carl_Zimmer)
+  * [Linsey Chen Marr](https://en.wikipedia.org/wiki/Linsey_Marr)
+  * [Jessica Green (academic)](https://en.wikipedia.org/wiki/Jessica_Green_(academic))
+  * [Lydia Bourouiba](https://en.wikipedia.org/wiki/Lydia_Bourouiba)
+  * [Miasma theory](https://en.wikipedia.org/wiki/Miasma_theory)
+  * [Robert Koch](https://en.wikipedia.org/wiki/Robert_Koch) 1843&mdash;1910
+  * [William F. Wells](https://en.wikipedia.org/wiki/William_F._Wells) 1886&mdash;1963
+  * [Mildred W. Wells](https://en.wikipedia.org/wiki/Mildred_W._Wells) 1891&mdash;1957
+  * [Amelia Earhart](https://en.wikipedia.org/wiki/Amelia_Earhart) 1897&mdash;1937
+  * [Theodor Rosebury](https://en.wikipedia.org/wiki/Theodor_Rosebury) 1904&mdash;1976
+  * [Joshua Lederberg](https://en.wikipedia.org/wiki/Joshua_Lederberg) 1925&mdash;2008
+  * [Airborne transmission](https://en.wikipedia.org/wiki/Airborne_transmission)
+  * [Allergen](https://en.wikipedia.org/wiki/Allergen)
+  * [Pathogen](https://en.wikipedia.org/wiki/Pathogen)
   * [Building Resilient Environments for Air and Total Health](https://breathe2026.org/) (BREATHE)
   * [Corsi–Rosenthal Box](https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box)
   * [Science in Action: How to Build a Corsi-Rosenthal Box](https://engineering.ucdavis.edu/news/science-action-how-build-corsi-rosenthal-box), April 14, 2022
   * [House dust mite](https://en.wikipedia.org/wiki/House_dust_mite)
   * [Peptidase 1 (mite)](https://en.wikipedia.org/wiki/Peptidase_1_(mite))
+  * [Clean Air for Schools](https://cleanschoolair.org/)
+  * [SafeTraces](https://www.safetraces.com/)
+    * [Walter Reed National Military Medical Center](https://en.wikipedia.org/wiki/Walter_Reed_National_Military_Medical_Center) (WRNMMC)
+  * [Agilus Detection](https://www.agilusdetection.com/)
+    * [Agilus® Healthy Air (AHA) Monitor](https://www.youtube.com/watch?v=xkgQUjLUXsY)
   * [Poppy Health, Inc.](https://www.poppy.com/)
 * [Health system](https://en.wikipedia.org/wiki/Health_system)
 * [Healthcare in Taiwan](https://en.wikipedia.org/wiki/Healthcare_in_Taiwan)
