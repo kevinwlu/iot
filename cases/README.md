@@ -691,7 +691,10 @@
 * [Space Epoch](https://en.wikipedia.org/wiki/Space_Epoch)
 * [Space Pioneer](https://en.wikipedia.org/wiki/Space_Pioneer)
 ## Sports
+* [Adidas Trionda](https://en.wikipedia.org/wiki/Adidas_Trionda)
+  * [Connected ball technology](https://inside.fifa.com/innovation/innovating-the-game/connected-ball-technology)
 * [ai.io](https://www.ai.io/)
+* [FIFA World Cup, Powered by Lenovo AI](https://news.lenovo.com/press-kits/fifa-world-cup-lenovo-ai/)
 * [Formula One](https://en.wikipedia.org/wiki/Formula_One)
   * [Sauber Motorsport](https://en.wikipedia.org/wiki/Sauber_Motorsport) 
 * [Formula E](https://en.wikipedia.org/wiki/Formula_E)
