@@ -256,3 +256,4 @@
 ---
 * [Sleep apnea](https://en.wikipedia.org/wiki/Sleep_apnea)
 * [Continuous positive airway pressure](https://en.wikipedia.org/wiki/Continuous_positive_airway_pressure) (CPAP)
+* [Orthosomnia](https://en.wikipedia.org/wiki/Orthosomnia)
