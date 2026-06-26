@@ -631,6 +631,7 @@
 * [Axiom Space](https://en.wikipedia.org/wiki/Axiom_Space)
 * [Ball Aerospace & Technologies](https://en.wikipedia.org/wiki/Ball_Aerospace_%26_Technologies) acquired by [BAE Systems](https://en.wikipedia.org/wiki/BAE_Systems)
 * [Blue Canyon Technologies](https://www.bluecanyontech.com/), a wholly owned subsidiary of Raytheon Technologies
+* [BLUECUBE Aerospace](https://www.bluecubesat.com/)
 * [Blue Origin](https://en.wikipedia.org/wiki/Blue_Origin)
   * [Honeybee Robotics](https://en.wikipedia.org/wiki/Honeybee_Robotics)
   * [VIPER (rover)](https://en.wikipedia.org/wiki/VIPER_(rover))
@@ -656,6 +657,8 @@
 * [Mobile User Objective System](https://en.wikipedia.org/wiki/Mobile_User_Objective_System) (MUOS)
 * [National Aerospace Research & Technology Park](https://www.nartp.com/) (NARTP)
 * [NASA Space Tech Industry Partnership](https://www.nasa.gov/directorates/spacetech/solicitations/tipping_points)
+* [Navars Edutech](https://lab.navarsedutech.com/)
+  * [Navars Space Lab](https://navarsspacelab.com/)
 * [OneWeb](https://en.wikipedia.org/wiki/OneWeb)
 * [Planet Labs](https://en.wikipedia.org/wiki/Planet_Labs)
 * [PLD Space](https://en.wikipedia.org/wiki/PLD_Space)
