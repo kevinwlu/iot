@@ -161,7 +161,7 @@
   * [Guy Standing (economist)](https://en.wikipedia.org/wiki/Guy_Standing_(economist))
   * [Proletariat](https://en.wikipedia.org/wiki/Proletariat)
 * [Prediction market](https://en.wikipedia.org/wiki/Prediction_market)
-  * [Kalshi)](https://en.wikipedia.org/wiki/Kalshi)
+  * [Kalshi](https://en.wikipedia.org/wiki/Kalshi)
   * [Polymarket](https://en.wikipedia.org/wiki/Polymarket)
 * [Price–earnings ratio](https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio) (P/E ratio)
 * [Price–performance ratio](https://en.wikipedia.org/wiki/Price%E2%80%93performance_ratio)
