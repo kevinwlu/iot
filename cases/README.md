@@ -650,6 +650,7 @@
 * [Isar Aerospace](https://en.wikipedia.org/wiki/Isar_Aerospace)
 * [ispace](https://en.wikipedia.org/wiki/Ispace_(Japanese_company))
 * [Kuiper Systems](https://en.wikipedia.org/wiki/Kuiper_Systems)
+* [List of space companies and facilities in Virginia](https://en.wikipedia.org/wiki/List_of_space_companies_and_facilities_in_Virginia)
 * [Mars Oxygen ISRU Experiment](https://en.wikipedia.org/wiki/Mars_Oxygen_ISRU_Experiment) (MOXIE)
 * [Meteosat](https://en.wikipedia.org/wiki/Meteosat)
 * [Midland International Air and Space Port](https://en.wikipedia.org/wiki/Midland_International_Air_and_Space_Port) 
@@ -682,6 +683,7 @@
 * [Vandenberg Space Force Base](https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base)
 * [Wisconsin Space Program](https://wisconsinspace.com/) (WiSP)
   * [UW-Madison](https://wisp.coerso.wisc.edu/)
+* [Wallops Flight Facility](https://en.wikipedia.org/wiki/Wallops_Flight_Facility)
 ---
 * [Chinese space program](https://en.wikipedia.org/wiki/Chinese_space_program)
   * [Shijian](https://en.wikipedia.org/wiki/Shijian)
