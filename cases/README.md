@@ -679,6 +679,7 @@
 * [Stratolaunch Systems](https://en.wikipedia.org/wiki/Stratolaunch_Systems)
 * [TransAstra](https://transastra.com/)
 * [United Launch Alliance](https://en.wikipedia.org/wiki/United_Launch_Alliance) (ULA)
+* [Vandenberg Space Force Base](https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base)
 * [Wisconsin Space Program](https://wisconsinspace.com/) (WiSP)
   * [UW-Madison](https://wisp.coerso.wisc.edu/)
 ---
