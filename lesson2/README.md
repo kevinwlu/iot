@@ -156,6 +156,7 @@
   * [LED strip light](https://en.wikipedia.org/wiki/LED_strip_light)
   * [JST connector](https://en.wikipedia.org/wiki/JST_connector)
 * [Universal Serial Bus](https://en.wikipedia.org/wiki/USB) (USB)
+  * [Ajay Bhatt](https://en.wikipedia.org/wiki/Ajay_Bhatt)
   * [USB-C](https://en.wikipedia.org/wiki/USB-C)
   * [USB 3.0](https://en.wikipedia.org/wiki/USB_3.0)
   * [USB4](https://en.wikipedia.org/wiki/USB4)
