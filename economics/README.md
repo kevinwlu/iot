@@ -274,8 +274,7 @@
 * [Purple Cow](https://en.wikipedia.org/wiki/Purple_Cow)
 * [*Purple Cow: Transform Your Business by Being Remarkable*](https://en.wikipedia.org/wiki/Purple_Cow:_Transform_Your_Business_by_Being_Remarkable)
 * [Red herring](https://en.wikipedia.org/wiki/Red_herring)
-* [S. Van Nieuwerburgh](https://www0.gsb.columbia.edu/faculty/svannieuwerburgh/), ["The Remote Work Revolution: Impact on Real Estate Values and the Urban Environment"](https://www.nber.org/papers/w30662)
-* A. Gupta, V. Mittal, and Stijn Van Nieuwerburgh, ["Work From Home and the Office Real Estate Apocalypse"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124698)
+* [There are unknown unknowns](https://en.wikipedia.org/wiki/There_are_unknown_unknowns), February 12, 2002
 ---
 * [Behavioral economics](https://en.wikipedia.org/wiki/Behavioral_economics)
   * [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman) 1934&mdash;2024
