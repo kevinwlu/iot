@@ -4,6 +4,7 @@
 * [Adam Savage's Tested](https://www.youtube.com/@tested)
   * [Adam Savage](https://en.wikipedia.org/wiki/Adam_Savage)
 * [Be Smart](https://www.youtube.com/@besmart) With Joe Hanson
+* [Computer numerical control](https://en.wikipedia.org/wiki/Computer_numerical_control) (CNC)
 * [Design Theory](https://www.youtube.com/@Design.Theory)
 * [DIY](https://www.youtube.com/@diytv)
 * [Dr. Ben Miles](https://www.drbenmiles.com/)
