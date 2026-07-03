@@ -4,7 +4,6 @@
 * [Adam Savage's Tested](https://www.youtube.com/@tested)
   * [Adam Savage](https://en.wikipedia.org/wiki/Adam_Savage)
 * [Be Smart](https://www.youtube.com/@besmart) With Joe Hanson
-* [Computer numerical control](https://en.wikipedia.org/wiki/Computer_numerical_control) (CNC)
 * [Design Theory](https://www.youtube.com/@Design.Theory)
 * [DIY](https://www.youtube.com/@diytv)
 * [Dr. Ben Miles](https://www.drbenmiles.com/)
@@ -165,6 +164,7 @@
 * [Vibrating motor](https://www.adafruit.com/product/1201)
 ## Control
 * [List of computer-aided manufacturing software](https://en.wikipedia.org/wiki/List_of_computer-aided_manufacturing_software)
+* [Computer numerical control](https://en.wikipedia.org/wiki/Computer_numerical_control) (CNC)
 * [G-code](https://en.wikipedia.org/wiki/G-code)
   * [Universal G-Code Sender](https://winder.github.io/ugs_website/)
   * [Grbl](https://github.com/grbl/grbl) G-Code Reference Block Library
