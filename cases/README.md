@@ -521,8 +521,12 @@
 * [Simandou mine](https://en.wikipedia.org/wiki/Simandou_mine)
 ## Privacy and Security
 * [Cloaked](https://www.cloaked.app/)
+* [Fraud](https://en.wikipedia.org/wiki/Fraud)
 * [Okta, Inc.](https://en.wikipedia.org/wiki/Okta,_Inc.)
   * [Okta](https://en.wikipedia.org/wiki/Okta) measurements describe how many eighths of the sky are covered in cloud, ranging from 0 oktas (completely clear sky) to 8 oktas (completely [overcast](https://en.wikipedia.org/wiki/Overcast))
+* [Phishing](https://en.wikipedia.org/wiki/Phishing)
+* [Scam](https://en.wikipedia.org/wiki/Scam)
+* [Social engineering (security)](https://en.wikipedia.org/wiki/Social_engineering_(security))
 * [VicOne](https://vicone.com/)
 ## Public Services
 * [Food rescue](https://en.wikipedia.org/wiki/Food_rescue)
