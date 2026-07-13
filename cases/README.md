@@ -82,7 +82,9 @@
 * [Jet stream](https://en.wikipedia.org/wiki/Jet_stream)
 * [Polar vortex](https://en.wikipedia.org/wiki/Polar_vortex)
 * [Quasi-biennial oscillation](https://en.wikipedia.org/wiki/Quasi-biennial_oscillation) (QBO)
-* [Stardust Solutions](https://stardustsrt.com/)
+* [Reflect Orbital](https://en.wikipedia.org/wiki/Reflect_Orbital) 
+* [Stardust Solutions](https://en.wikipedia.org/wiki/Stardust_Solutions)
+  * [Solar radiation modification](https://en.wikipedia.org/wiki/Solar_radiation_modification) (SRM)
 * [WindBorne Systems](https://windbornesystems.com/) based in Palo Alto, California, fusse data from its long-duration balloons with AI models to produce weather forecasts
 * [Woodwell Climate Research Center](https://en.wikipedia.org/wiki/Woodwell_Climate_Research_Center)
   * [George M. Woodwell](https://en.wikipedia.org/wiki/George_M._Woodwell) 1928&mdash;2024
@@ -670,7 +672,6 @@
 * [PLD Space](https://en.wikipedia.org/wiki/PLD_Space)
 * [Psyche (spacecraft)](https://en.wikipedia.org/wiki/Psyche_(spacecraft))
 * [Reaction Dynamics (company)](https://en.wikipedia.org/wiki/Reaction_Dynamics_(company))
-* [Reflect Orbital](https://en.wikipedia.org/wiki/Reflect_Orbital)
 * [Relativity Space](https://en.wikipedia.org/wiki/Relativity_Space)
 * [Rocket Development Lab](https://www.rocketdevelopmentlab.com/) (RDL)
   * [Embry–Riddle Aeronautical University](https://en.wikipedia.org/wiki/Embry%E2%80%93Riddle_Aeronautical_University) (ERAU)
