@@ -54,6 +54,13 @@
   * [Dementia](https://en.wikipedia.org/wiki/Dementia)
     * [Vascular dementia](https://en.wikipedia.org/wiki/Vascular_dementia)
     * [Terminal lucidity](https://en.wikipedia.org/wiki/Terminal_lucidity)
+    * [Paradoxical lucidity](https://inelda.org/paradoxical-lucidity-moments-to-treasure-in-dying-and-dementia/)
+    * [Parapsychology](https://en.wikipedia.org/wiki/Parapsychology)
+    * [Near-death experience](https://en.wikipedia.org/wiki/Near-death_experience) (NDE) or recalled experiences of death
+    * [Geriatrics](https://en.wikipedia.org/wiki/Geriatrics)
+    * [Gerontology](https://en.wikipedia.org/wiki/Gerontology)
+    * [Disinhibition](https://en.wikipedia.org/wiki/Disinhibition)
+    * [Propensity probability](https://en.wikipedia.org/wiki/Propensity_probability)
   * [Experimental models of Alzheimer's disease](https://en.wikipedia.org/wiki/Experimental_models_of_Alzheimer%27s_disease)
   * [Limbic-predominant age-related TDP-43 encephalopathy](https://en.wikipedia.org/wiki/Limbic-predominant_age-related_TDP-43_encephalopathy) (LATE)
   * [MIND diet](https://en.wikipedia.org/wiki/MIND_diet)
