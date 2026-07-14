@@ -52,6 +52,7 @@
   * [Amyloid-beta precursor protein](https://en.wikipedia.org/wiki/Amyloid-beta_precursor_protein) (APP)
   * [Biochemistry of Alzheimer's disease](https://en.wikipedia.org/wiki/Biochemistry_of_Alzheimer%27s_disease)
   * [Dementia](https://en.wikipedia.org/wiki/Dementia)
+    * [Vascular dementia](https://en.wikipedia.org/wiki/Vascular_dementia)
   * [Experimental models of Alzheimer's disease](https://en.wikipedia.org/wiki/Experimental_models_of_Alzheimer%27s_disease)
   * [Limbic-predominant age-related TDP-43 encephalopathy](https://en.wikipedia.org/wiki/Limbic-predominant_age-related_TDP-43_encephalopathy) (LATE)
   * [MIND diet](https://en.wikipedia.org/wiki/MIND_diet)
