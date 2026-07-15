@@ -47,9 +47,11 @@
 ---
 * [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease) (AD)
   * [Alois Alzheimer](https://en.wikipedia.org/wiki/Alois_Alzheimer) 1864&mdash;1915
-  * [Amyloid beta](https://en.wikipedia.org/wiki/Amyloid_beta) (Aβ)
-  * [Amyloid plaques](https://en.wikipedia.org/wiki/Amyloid_plaques)
-  * [Amyloid-beta precursor protein](https://en.wikipedia.org/wiki/Amyloid-beta_precursor_protein) (APP)
+  * [Amyloid](https://en.wikipedia.org/wiki/Amyloid)
+    * [Amyloid beta](https://en.wikipedia.org/wiki/Amyloid_beta) (Aβ)
+    * [Amyloid plaques](https://en.wikipedia.org/wiki/Amyloid_plaques)
+    * [Amyloid-beta precursor protein](https://en.wikipedia.org/wiki/Amyloid-beta_precursor_protein) (APP)
+  * [Tau protein](https://en.wikipedia.org/wiki/Tau_protein)
   * [Biochemistry of Alzheimer's disease](https://en.wikipedia.org/wiki/Biochemistry_of_Alzheimer%27s_disease)
   * [Dementia](https://en.wikipedia.org/wiki/Dementia)
     * [Vascular dementia](https://en.wikipedia.org/wiki/Vascular_dementia)
@@ -72,6 +74,15 @@
   * [Xenon](https://en.wikipedia.org/wiki/Xenon)
   * [Inhaled xenon modulates microglia and ameliorates disease in mouse models of amyloidosis and tauopathy](https://pubmed.ncbi.nlm.nih.gov/39813317/)
   * [Treatments for Alzheimer's](https://www.alz.org/alzheimers-dementia/treatments)
+  * ["Prognostic Value of Blood-Based P-Tau217 Levels for Progression to Cognitive Impairment"](https://jamanetwork.com/journals/jama/fullarticle/2851720), July 14, 2026
+  * ["Variability in Clinical Performance of the FDA-Cleared Lumipulse P-Tau217/β-Amyloid 1-42 Plasma Ratio"](https://jamanetwork.com/journals/jamaneurology/article-abstract/2849794), June 1, 2026
+  * [Chronic Kidney Disease in the United States](https://www.cdc.gov/kidney-disease/php/data-research/index.html), March 31, 2026
+  * ["Blood Biomarkers to Detect Alzheimer Disease in Primary Care and Secondary Care"](https://jamanetwork.com/journals/jama/fullarticle/2821669), July 28, 2024
+  * ["A soluble phosphorylated tau signature links tau, amyloid and the evolution of stages of dominantly inherited Alzheimer’s disease"](https://www.nature.com/articles/s41591-020-0781-z) March 11, 2020
+  * [Clinical Practice Guideline: Blood-Based Biomarkers in Specialty Care](https://www.alz.org/alz-pro/hub/care-pathway/blood-based-biomarkers-guideline)
+  * [Early Detection and Diagnosis of Dementia: A Practical Checklist for Primary Care Clinicians](https://www.alz.org/getmedia/b8fc333d-889f-4852-9e60-fa6a4e03864d/8f541f11-3086-4866-b828-0e42312ae868.pdf)
+  * [Positron emission tomography](https://en.wikipedia.org/wiki/Positron_emission_tomography) (PET)
+  * [Lumbar puncture](https://en.wikipedia.org/wiki/Lumbar_puncture) (LP)
 * [Anemia](https://en.wikipedia.org/wiki/Anemia)
 * [Aneurysm](https://en.wikipedia.org/wiki/Aneurysm)
   * [Intracranial aneurysm](https://en.wikipedia.org/wiki/Intracranial_aneurysm)
