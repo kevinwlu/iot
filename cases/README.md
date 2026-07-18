@@ -512,6 +512,7 @@
 * [Rosotics](https://www.rosotics.com/)
 * [STILFOLD](https://www.stilfold.com/)
 * [Tetra Technologies](https://tetratec.com/)
+* [Toyota Industries](https://en.wikipedia.org/wiki/Toyota_Industries)
 * [TNT Aerospace](https://www.tntaerospace.com/)
 * [Ubidots](https://ubidots.com/)
 * [Unified numbering system](https://en.wikipedia.org/wiki/Unified_numbering_system) (UNS)
