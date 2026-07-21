@@ -36,6 +36,7 @@
 * [Biomimetics](https://en.wikipedia.org/wiki/Biomimetics)
 * [Build to order](https://en.wikipedia.org/wiki/Build_to_order)
   * [Turnkey](https://en.wikipedia.org/wiki/Turnkey)
+* [Chaos engineering](https://en.wikipedia.org/wiki/Chaos_engineering)
 * [Command and control](https://en.wikipedia.org/wiki/Command_and_control)
 * [Concurrent engineering](https://en.wikipedia.org/wiki/Concurrent_engineering)
 * [Dependability](https://en.wikipedia.org/wiki/Dependability)
@@ -55,6 +56,7 @@
 * [Ishikawa diagram](https://en.wikipedia.org/wiki/Ishikawa_diagram) by [Kaoru Ishikawa](https://en.wikipedia.org/wiki/Kaoru_Ishikawa) 1915&mdash;1989
 * [Maintainability](https://en.wikipedia.org/wiki/Maintainability)
 * [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) (MVP)
+* [Mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
 * [New England Complex Systems Institute](https://en.wikipedia.org/wiki/New_England_Complex_Systems_Institute) (NECSI)
 * [Nondestructive testing](https://en.wikipedia.org/wiki/Nondestructive_testing) (NDT)
 * [Reliability engineering](https://en.wikipedia.org/wiki/Reliability_engineering)
