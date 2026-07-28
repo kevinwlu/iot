@@ -287,7 +287,7 @@
 * [Wireless Power Consortium](https://en.wikipedia.org/wiki/Wireless_Power_Consortium)
 * [World WLAN Application Alliance](https://www.waa-alliance.com/) (WAA)
 * [Zhaga Consortium](https://en.wikipedia.org/wiki/Zhaga_Consortium)
-## Developer Conferences
+## Conferences
 * [Facebook F8](https://en.wikipedia.org/wiki/Facebook_F8)
 * [Google I/O](https://en.wikipedia.org/wiki/Google_I/O)
 * [Microsoft Build](https://en.wikipedia.org/wiki/Microsoft_Build)
