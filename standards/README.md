@@ -147,6 +147,7 @@
   * [IEEE Standards and Projects for Cybersecurity](https://standards.ieee.org/initiatives/cybersecurity-standards-projects/)
   * [IEEE Standards for Smart Cities](https://standards.ieee.org/initiatives/smart-cities-standards/)
   * [IEEE Sustainable Development](https://standards.ieee.org/featured/sustainable-development/)
+    * [IEEE SA Experiential Program on Sustainability Standards](https://india.ieee.org/ieee-sa-experiential-program-on-sustainability-standards-epss/) (EPSS)
   * [IEEE Sustainable ICT](https://sustainableict.ieee.org/)
     * [Information and communications technology](https://en.wikipedia.org/wiki/Information_and_communications_technology)
 * [IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) (Internet Engineering Task Force)
