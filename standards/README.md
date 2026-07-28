@@ -131,6 +131,7 @@
   * [IEEE 2933](https://standards.ieee.org/ieee/2933/7592/) Standard for Clinical Internet of Things (IoT) Data and Device Interoperability with TIPPSS - Trust, Identity, Privacy, Protection, Safety, Security
   * [IEEE P2957](https://standards.ieee.org/ieee/2957/10381/) Standard for a Reference Architecture for Big Data Governance and Metadata Management
   * [IEEE P3123](https://standards.ieee.org/ieee/3123/10744/) Standard for Artificial Intelligence and Machine Learning (AI/ML) Terminology and Data Format
+  * [IEEE P3349](https://standards.ieee.org/ieee/3349/11182/) Standard for Space System Cybersecurity
   * [IEEE P3378](https://standards.ieee.org/ieee/3378/11304/) Standard for Framework and Process for Large-Scale Deep Learning Model Evaluation
   * [IEEE P3469](https://standards.ieee.org/ieee/3469/11608/) Standard for an Environmental Liability Process Model for Accounting in Systems Engineering
   * [IEEE P3497](https://standards.ieee.org/ieee/3497/11833/) Standard for Performance Benchmarking of Artificial Intelligence for Database Management Systems for Structured Query Language-Based Databases
