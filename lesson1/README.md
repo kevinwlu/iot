@@ -68,6 +68,7 @@
     * [Epithet](https://en.wikipedia.org/wiki/Epithet)
   * [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) (BLE)
   * [Zigbee](https://en.wikipedia.org/wiki/Zigbee)
+    * [Connectivity Standards Alliance](https://en.wikipedia.org/wiki/Connectivity_Standards_Alliance) (CSA)
     * [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance)
   * [6LoWPAN](https://en.wikipedia.org/wiki/6LoWPAN) (IPv6 over Low-Power Wireless Personal Area Network)
   * [Thread (network protocol)](https://en.wikipedia.org/wiki/Thread_(network_protocol))
