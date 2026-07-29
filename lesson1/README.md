@@ -71,6 +71,7 @@
     * [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance)
   * [6LoWPAN](https://en.wikipedia.org/wiki/6LoWPAN) (IPv6 over Low-Power Wireless Personal Area Network)
   * [Thread (network protocol)](https://en.wikipedia.org/wiki/Thread_(network_protocol))
+* [Matter (standard)](https://en.wikipedia.org/wiki/Matter_(standard))
 * [Amazon Sidewalk](https://en.wikipedia.org/wiki/Amazon_Sidewalk)
 * [Z-Wave](https://en.wikipedia.org/wiki/Z-Wave)
   * [Z-Wave Long Range](https://z-wavealliance.org/z-wave-long-range-technology/) (ZWLR)
