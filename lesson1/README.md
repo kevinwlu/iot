@@ -73,6 +73,7 @@
   * [Thread (network protocol)](https://en.wikipedia.org/wiki/Thread_(network_protocol))
 * [Amazon Sidewalk](https://en.wikipedia.org/wiki/Amazon_Sidewalk)
 * [Z-Wave](https://en.wikipedia.org/wiki/Z-Wave)
+  * [Z-Wave Long Range](https://z-wavealliance.org/z-wave-long-range-technology/) (ZWLR)
 * [Radio-frequency identification](https://en.wikipedia.org/wiki/Radio-frequency_identification) (RFID)
 * [Near-field communication](https://en.wikipedia.org/wiki/Near-field_communication) (NFC)
 * [FeliCa](https://en.wikipedia.org/wiki/FeliCa) (Felicity Card)
