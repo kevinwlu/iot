@@ -549,7 +549,7 @@
   * [YouTube](https://www.youtube.com/@Lymow)
   * [Lymow vs. Yarbo](https://www.youtube.com/watch?v=XqqLi13yGR0)
 * [MagicMirror](https://magicmirror.builders/)
-* [Nanit](https://www.nanit.com/) smart baby monitor
+* [Nanit](https://en.wikipedia.org/wiki/Nanit)
 * [Otter](https://withotter.com/)
 * [Wyze Labs](https://en.wikipedia.org/wiki/Wyze_Labs)
 * [Yarbo](https://www.yarbo.com/)
