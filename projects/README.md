@@ -1,4 +1,5 @@
 # Projects
+* [MATLAB and Simulink Challenge Projects](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)
 * [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)
   * [Thomas Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes) 1701&mdash;1761
 * [Brain–computer interface](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface) (BCI)
@@ -27,6 +28,9 @@
   * [Halliday](https://hallidayglobal.com/)
   * [Orion](https://www.meta.com/blog/orion-ar-glasses-augmented-reality/), September 25, 2024
   * [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses)
+## 2026 Spring
+* Adaptive Ensemble Detection for Medical Imaging
+* WeatherAug-YOLO: A Curriculum-Based Weather Augmentation Framework for Robust Detection of Temporary Traffic Control Signs Using YOLO26
 ## 2025 Spring
 * [Exploring Animal Physiological Adaptations to Microgravity](https://github.com/lquaynor/researchtopic/)
 ## 2024 Fall
