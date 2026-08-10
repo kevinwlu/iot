@@ -2,6 +2,9 @@
 * [W. Timothy Garvey](https://en.wikipedia.org/wiki/W._Timothy_Garvey), Professor and Chair, Department of Nutrition Sciences, University of Alabama at Birmingham
   > Knowledge is telling the past. Wisdom is predicting the future.
 * [Data analysis](https://en.wikipedia.org/wiki/Data_analysis)
+* [Committee of Presidents of Statistical Societies](https://en.wikipedia.org/wiki/Committee_of_Presidents_of_Statistical_Societies) (COPSS)
+  * [COPSS Presidents' Award](https://en.wikipedia.org/wiki/COPSS_Presidents'_Award)
+  * [International Prize in Statistics](https://en.wikipedia.org/wiki/International_Prize_in_Statistics)
 * [Apache Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop)
 * [Apache Parquet](https://en.wikipedia.org/wiki/Apache_Parquet)
 * [Big data](https://en.wikipedia.org/wiki/Big_data)
