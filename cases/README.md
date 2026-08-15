@@ -628,6 +628,7 @@
 * [Viam](https://www.viam.com/)
 ## Security
 * [Cloudflare](https://en.wikipedia.org/wiki/Cloudflare)
+* [Flock Safety](https://en.wikipedia.org/wiki/Flock_Safety)
 * [Ghaf Framework](https://github.com/tiiuae/ghaf-riscv)
 * [Nix (package manager)](https://en.wikipedia.org/wiki/Nix_(package_manager))
 ## Space
