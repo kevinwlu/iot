@@ -44,6 +44,7 @@
   * [Portenta H7](https://docs.arduino.cc/hardware/portenta-h7)
   * [Wi-Fi Shield Library](https://github.com/espressif/arduino-esp32/blob/master/libraries/WiFi/src/WiFi.h)
 * [Wemos](https://www.wemos.cc/en/latest/)
+  * [Programming the ESP8266 WeMos-D1R2 Using Arduino Software/IDE](https://www.instructables.com/Programming-the-WeMos-Using-Arduino-SoftwareIDE/)
 * [Processing](https://en.wikipedia.org/wiki/Processing)
 * [Wiring](https://en.wikipedia.org/wiki/Wiring_(development_platform))
 * [C](https://en.wikipedia.org/wiki/C_(programming_language))
