@@ -152,6 +152,7 @@
 * [Manna Drone Delivery](https://www.manna.aero/)
 * [Neros](https://www.neros.tech/)
 * [Qinetiq](https://en.wikipedia.org/wiki/Qinetiq)
+* [Powerus](https://www.power.us/)
 * [Saildrone](https://en.wikipedia.org/wiki/Saildrone_(company))
 * [Shahed drones](https://en.wikipedia.org/wiki/Shahed_drones)
 * [Shield AI](https://en.wikipedia.org/wiki/Shield_AI)
