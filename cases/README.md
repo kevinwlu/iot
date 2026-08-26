@@ -773,6 +773,8 @@
 * [Vertical Aerospace](https://en.wikipedia.org/wiki/Vertical_Aerospace)
 * [Volocopter](https://en.wikipedia.org/wiki/Volocopter)
 * [VoltAero Cassio](https://en.wikipedia.org/wiki/VoltAero_Cassio)
+* [Wave Engine Corporation](https://wave-engine.com/)
+  * [Pulsejet](https://en.wikipedia.org/wiki/Pulsejet)
 * [Wisk Aero](https://en.wikipedia.org/wiki/Wisk_Aero), a wholly owned subsidiary of Boeing since May 2023
 * [Whisper Aero](https://www.whisper.aero/)
 * [ZeroAvia](https://en.wikipedia.org/wiki/ZeroAvia)
