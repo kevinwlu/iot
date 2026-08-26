@@ -631,6 +631,7 @@
 * [Cloudflare](https://en.wikipedia.org/wiki/Cloudflare)
 * [Flock Safety](https://en.wikipedia.org/wiki/Flock_Safety)
 * [Ghaf Framework](https://github.com/tiiuae/ghaf-riscv)
+* [Irregular](https://www.irregular.com/)
 * [Nix (package manager)](https://en.wikipedia.org/wiki/Nix_(package_manager))
 ## Space
 * [AI SpaceFactory](https://www.aispacefactory.com/)
