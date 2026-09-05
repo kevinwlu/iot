@@ -33,6 +33,9 @@
 * [Controlled Unclassified Information](https://en.wikipedia.org/wiki/Controlled_Unclassified_Information) (CUI)
 * [DeepWiki](https://deepwiki.com/)
 * [Code.org](https://en.wikipedia.org/wiki/Code.org)
+* [Metadata](https://en.wikipedia.org/wiki/Metadata)
+* [FAIR data](https://en.wikipedia.org/wiki/FAIR_data)
+* [FAIRsharing](https://fairsharing.org/)
 
 ## NumPy
 * [NumPy](https://en.wikipedia.org/wiki/NumPy)
