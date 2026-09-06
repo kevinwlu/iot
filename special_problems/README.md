@@ -9,6 +9,7 @@
   * [Google Scholar](https://scholar.google.com/citations?user=rDfyQnIAAAAJ&hl=en)
   * [*The Worlds I See: Curiosity, Exploration and Discovery at the Dawn of AI*](https://www.youtube.com/watch?v=nCnQbrV9PCA) 2023
   * [ImageNet](https://en.wikipedia.org/wiki/ImageNet)
+  * [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
   * [World Labs](https://www.worldlabs.ai/)
   * [Large World Model](https://github.com/LargeWorldModel/LWM) (LWM)
   * [Spatial intelligence](https://en.wikipedia.org/wiki/Spatial_intelligence_(psychology))
@@ -16,7 +17,6 @@
     * [arXiv](https://arxiv.org/pdf/2501.19393)
 * [Digital image processing](https://en.wikipedia.org/wiki/Digital_image_processing)
 * [Standard test image](https://en.wikipedia.org/wiki/Standard_test_image)
-* [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
 * [Iterative Refinement Network](https://arxiv.org/abs/2211.04774) (IRNet)
 * [Residual neural network](https://en.wikipedia.org/wiki/Residual_neural_network) (ResNet)
 * [Dive into Deep Learning](https://d2l.ai/)
