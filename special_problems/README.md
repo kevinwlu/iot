@@ -61,6 +61,7 @@
   * [Residual neural network](https://en.wikipedia.org/wiki/Residual_neural_network) (ResNet)
   * [Vision transformer](https://en.wikipedia.org/wiki/Vision_transformer) (ViT)
     * [DINOv3](https://ai.meta.com/research/dinov3/)
+    * [Jie Wei](https://www.ccny.cuny.edu/profiles/jie-wei?srsltid=AfmBOooxSykIKIq3vKEIfcNzi-6hFUS2h4Wxfch1vDhNwHu3vP9MXfKE)
 * [Open Neural Network Exchange](https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange) (ONNX)
 * [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
   * [Eigenfaces](http://www.scholarpedia.org/article/Eigenfaces)
