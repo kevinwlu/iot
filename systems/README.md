@@ -45,6 +45,7 @@
   * [System requirements review](https://www.dau.edu/acquipedia-article/system-requirements-review-srr) (SRR)
   * [Preliminary design review](https://www.dau.edu/acquipedia-article/preliminary-design-review-pdr) (PDR)
   * [Critical design review](https://www.dau.edu/acquipedia-article/critical-design-review-cdr) (CDR)
+* [DevOps Research and Assessment](https://en.wikipedia.org/wiki/DevOps_Research_and_Assessment) (DORA)
 * [Failure rate](https://en.wikipedia.org/wiki/Failure_rate)
   * [Failure reporting, analysis, and corrective action system](https://en.wikipedia.org/wiki/Failure_reporting,_analysis,_and_corrective_action_system) (FRACAS)
   * [Vapor lock](https://en.wikipedia.org/wiki/Vapor_lock)
