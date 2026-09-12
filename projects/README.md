@@ -28,9 +28,6 @@
   * [Halliday](https://hallidayglobal.com/)
   * [Orion](https://www.meta.com/blog/orion-ar-glasses-augmented-reality/), September 25, 2024
   * [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses)
-## 2026 Spring
-* Adaptive Ensemble Detection for Medical Imaging
-* WeatherAug-YOLO: A Curriculum-Based Weather Augmentation Framework for Robust Detection of Temporary Traffic Control Signs Using YOLO26
 ## 2025 Spring
 * [Exploring Animal Physiological Adaptations to Microgravity](https://github.com/lquaynor/researchtopic/)
 ## 2024 Fall
