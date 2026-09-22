@@ -28,6 +28,7 @@
   * [Halliday](https://hallidayglobal.com/)
   * [Orion](https://www.meta.com/blog/orion-ar-glasses-augmented-reality/), September 25, 2024
   * [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses)
+* [Frazer-Nash sponsors innovative beach cleaning robot project](https://www.fnc.co.uk/discover-frazer-nash/news/frazer-nash-sponsors-innovative-beach-cleaning-robot-project/), January 24, 2019
 ## 2025 Spring
 * [Exploring Animal Physiological Adaptations to Microgravity](https://github.com/lquaynor/researchtopic/)
 ## 2024 Fall
