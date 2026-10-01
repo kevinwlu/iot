@@ -91,6 +91,8 @@
 * [Mitigating the Impact of Outlier Channels for Language Model Quantization with Activation Regularization](https://arxiv.org/html/2404.03605v1)
 * [DenoMAE2.0](https://researchwith.stevens.edu/en/publications/denomae20-improving-denoising-masked-autoencoders-by-classifying-/)
   * [radioML](https://github.com/radioML)
+* [Stochastic gradient descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent) (SGD)
+  * [ADAM: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980) (Adaptive Moment Estimation)
 ## 2026 Spring
 * Adaptive Ensemble Detection for Medical Imaging
 * WeatherAug-YOLO: A Curriculum-Based Weather Augmentation Framework for Robust Detection of Temporary Traffic Control Signs Using YOLO26
