@@ -12,6 +12,7 @@
     * [Products](https://www.plantower.com/en/products_31/)
     * [PMSA003I](https://www.adafruit.com/product/4505)
     * [PMS5003](https://www.adafruit.com/product/3686)
+  * [Fires reverse progress toward ozone air quality standards in the United States](https://www.science.org/doi/10.1126/science.aed3197), June 4, 2026
 * [Indoor air quality](https://en.wikipedia.org/wiki/Indoor_air_quality) (IAQ)
   * [Strategies for Improving Indoor Air Quality While Cooking Infographic](https://www.epa.gov/indoor-air-quality-iaq/strategies-improving-indoor-air-quality-while-cooking-infographic)
   * [Sources of Indoor Particulate Matter](https://www.epa.gov/indoor-air-quality-iaq/sources-indoor-particulate-matter-pm)
