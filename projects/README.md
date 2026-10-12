@@ -1,5 +1,6 @@
 # Projects
 * [MATLAB and Simulink Challenge Projects](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)
+  * [MIT OpenCourseWare](https://ocw.mit.edu/search/?q=MATLAB)
 * [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)
   * [Thomas Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes) 1701&mdash;1761
 * [Brain–computer interface](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface) (BCI)
