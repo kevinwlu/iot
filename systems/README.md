@@ -39,6 +39,11 @@
 * [Chaos engineering](https://en.wikipedia.org/wiki/Chaos_engineering)
 * [Command and control](https://en.wikipedia.org/wiki/Command_and_control)
 * [Concurrent engineering](https://en.wikipedia.org/wiki/Concurrent_engineering)
+* [Decision-matrix method](https://en.wikipedia.org/wiki/Decision-matrix_method)
+  * [Stuart Pugh](https://en.wikipedia.org/wiki/Stuart_Pugh) 1929&mdash;1993
+  * [Morphological analysis (problem-solving)](https://en.wikipedia.org/wiki/Morphological_analysis_(problem-solving))
+  * [Charles Higgins Kepner](https://kepner-tregoe.com/about/history/) 1922&mdash;2016
+  * [Benjamin Tregoe](https://en.wikipedia.org/wiki/Benjamin_Tregoe) 1927&mdash;2005
 * [Dependability](https://en.wikipedia.org/wiki/Dependability)
 * [Design for X](https://en.wikipedia.org/wiki/Design_for_X)
 * [Design review (U.S. government)](https://en.wikipedia.org/wiki/Design_review_(U.S._government))
