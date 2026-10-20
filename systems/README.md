@@ -42,6 +42,7 @@
 * [Decision-matrix method](https://en.wikipedia.org/wiki/Decision-matrix_method)
   * [Stuart Pugh](https://en.wikipedia.org/wiki/Stuart_Pugh) 1929&mdash;1993
   * [Morphological analysis (problem-solving)](https://en.wikipedia.org/wiki/Morphological_analysis_(problem-solving))
+  * [Fritz Zwicky](https://en.wikipedia.org/wiki/Fritz_Zwicky) 1898&mdash;1974
   * [Charles Higgins Kepner](https://kepner-tregoe.com/about/history/) 1922&mdash;2016
   * [Benjamin Tregoe](https://en.wikipedia.org/wiki/Benjamin_Tregoe) 1927&mdash;2005
 * [Dependability](https://en.wikipedia.org/wiki/Dependability)
