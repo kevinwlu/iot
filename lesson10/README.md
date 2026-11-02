@@ -1,8 +1,4 @@
 # Lesson 10: Blockchain
-* [Digital currency](https://en.wikipedia.org/wiki/Digital_currency)
-* [SWIFT](https://en.wikipedia.org/wiki/SWIFT) (Society for Worldwide Interbank Financial Telecommunication)
-* [Bank Secrecy Act](https://en.wikipedia.org/wiki/Bank_Secrecy_Act) (BSA)
-* [Microtransaction](https://en.wikipedia.org/wiki/Microtransaction)
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
   * [Distributed ledger](https://en.wikipedia.org/wiki/Distributed_ledger)
   * [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger)
@@ -27,6 +23,8 @@
   * [Cryptocurrency exchange](https://en.wikipedia.org/wiki/Cryptocurrency_exchange)
   * [Crypto-wikipedia](https://crypto-wikipedia.com/)
 * [DFINITY Foundation](https://dfinity.org/)
+* [Digital currency](https://en.wikipedia.org/wiki/Digital_currency)
+* [Microtransaction](https://en.wikipedia.org/wiki/Microtransaction)
 ---
 * [Adam Back](https://en.wikipedia.org/wiki/Adam_Back)
   * [Hashcash](https://en.wikipedia.org/wiki/Hashcash) proposed in 1997
@@ -79,6 +77,8 @@
 * [World (blockchain)](https://en.wikipedia.org/wiki/World_(blockchain))
 * [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
 ---
+* [Bank Secrecy Act](https://en.wikipedia.org/wiki/Bank_Secrecy_Act) (BSA)
+  * [SWIFT](https://en.wikipedia.org/wiki/SWIFT) (Society for Worldwide Interbank Financial Telecommunication)
 * [CBDC](https://en.wikipedia.org/wiki/Central_bank_digital_currency) (Central bank digital currency)
   * [The competing priorities facing U.S. crypto regulations](https://www.brookings.edu/techstream/the-competing-priorities-facing-u-s-crypto-regulations-bitcoin-ethereum/) by [Prof. Josephine Wolff](https://engineering.tufts.edu/cs/people/faculty/josephine-wolff)
 * [Diem](https://en.wikipedia.org/wiki/Diem_(digital_currency)) (rebraded from Libra in December 2020) proposed by [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms) (rebraded from Facebook on October 28, 2021)
