@@ -21,15 +21,17 @@
     * [Cross-chain bridge](https://www.alchemy.com/overviews/cross-chain-bridges)
 * [Blockchain Literacy for Everyone](https://blocklitfoundation.org/)
 * [Blockchain Literacy Foundation](https://www.blockchainliteracyfoundation.com/)
-* [DFINITY Foundation](https://dfinity.org/)
 * [Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)
   * [List of cryptocurrencies](https://en.wikipedia.org/wiki/List_of_cryptocurrencies)
   * [Cryptocurrency prices by maket cap](https://coinmarketcap.com/)
   * [Cryptocurrency exchange](https://en.wikipedia.org/wiki/Cryptocurrency_exchange)
   * [Crypto-wikipedia](https://crypto-wikipedia.com/)
+* [DFINITY Foundation](https://dfinity.org/)
+---
 * [Adam Back](https://en.wikipedia.org/wiki/Adam_Back)
   * [Hashcash](https://en.wikipedia.org/wiki/Hashcash) proposed in 1997
   * [Blockstream](https://en.wikipedia.org/wiki/Blockstream) founded in 2014
+* [Altcoins](https://en.wikipedia.org/wiki/Cryptocurrency#Altcoins) (alternative cryptocurrencies) are tokens, cryptocurrencies, and other types of digital assets that are not bitcoin
 * [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
   * [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto), "[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)," [Oct. 31, 2008](https://archive.is/20121228025845/http://article.gmane.org/gmane.comp.encryption.general/12588/#selection-179.7-179.30)
   * [Double-spending problem](https://en.wikipedia.org/wiki/Double-spending)
@@ -48,12 +50,6 @@
   * "[A fistful of Bitcoins: characterizing payments among men with no names](https://dl.acm.org/doi/10.1145/2896384)"
   * [Alyssa Blackburn](https://www.linkedin.com/in/alyssa-blackburn), [Erez Lieberman Aiden](https://en.wikipedia.org/wiki/Erez_Lieberman_Aiden), et al. , "[Cooperation among an anonymous group protected Bitcoin during failures of decentralization](https://aidenlab.org/bitcoin.pdf)"
   * [MicroStrategy](https://en.wikipedia.org/wiki/MicroStrategy) is the largest corporate holder of bitcoins
-* [Altcoins](https://en.wikipedia.org/wiki/Cryptocurrency#Altcoins) (alternative cryptocurrencies) are tokens, cryptocurrencies, and other types of digital assets that are not bitcoin
-* [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
-  * [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
-  * [Blockchain oracle](https://en.wikipedia.org/wiki/Blockchain_oracle)
-  * [Chainlink (cryptocurrency)](https://en.wikipedia.org/wiki/Chainlink_(cryptocurrency))
-  * [Polygon](https://polygon.technology/)
 * [Algorand (cryptocurrency_platform)](https://en.wikipedia.org/wiki/Algorand_(cryptocurrency_platform))
 * [Avalanche (blockchain platform)](https://en.wikipedia.org/wiki/Avalanche_(blockchain_platform))
 * [Binance](https://en.wikipedia.org/wiki/Binance)
@@ -62,6 +58,11 @@
 * [Dash (cryptocurrency)](https://en.wikipedia.org/wiki/Dash_(cryptocurrency))
 * [Dogecoin](https://en.wikipedia.org/wiki/Dogecoin)
   * [Department of Government Efficiency](https://en.wikipedia.org/wiki/Department_of_Government_Efficiency) (DOGE)
+* [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
+  * [Smart contract](https://en.wikipedia.org/wiki/Smart_contract)
+  * [Blockchain oracle](https://en.wikipedia.org/wiki/Blockchain_oracle)
+  * [Chainlink (cryptocurrency)](https://en.wikipedia.org/wiki/Chainlink_(cryptocurrency))
+  * [Polygon](https://polygon.technology/)
 * [Helium System](https://www.helium.com/)
 * [Meme coin](https://en.wikipedia.org/wiki/Meme_coin)
 * [Meme stock](https://en.wikipedia.org/wiki/Meme_stock)
@@ -77,6 +78,7 @@
 * [Uniswap](https://en.wikipedia.org/wiki/Uniswap)
 * [World (blockchain)](https://en.wikipedia.org/wiki/World_(blockchain))
 * [Stablecoin](https://en.wikipedia.org/wiki/Stablecoin)
+---
 * [CBDC](https://en.wikipedia.org/wiki/Central_bank_digital_currency) (Central bank digital currency)
   * [The competing priorities facing U.S. crypto regulations](https://www.brookings.edu/techstream/the-competing-priorities-facing-u-s-crypto-regulations-bitcoin-ethereum/) by [Prof. Josephine Wolff](https://engineering.tufts.edu/cs/people/faculty/josephine-wolff)
 * [Diem](https://en.wikipedia.org/wiki/Diem_(digital_currency)) (rebraded from Libra in December 2020) proposed by [Meta Platforms](https://en.wikipedia.org/wiki/Meta_Platforms) (rebraded from Facebook on October 28, 2021)
