@@ -56,6 +56,8 @@
   * [Polygon](https://polygon.technology/)
 * [Algorand (cryptocurrency_platform)](https://en.wikipedia.org/wiki/Algorand_(cryptocurrency_platform))
 * [Avalanche (blockchain platform)](https://en.wikipedia.org/wiki/Avalanche_(blockchain_platform))
+* [Binance](https://en.wikipedia.org/wiki/Binance)
+  * [2026 Binance hack](https://en.wikipedia.org/wiki/2026_Binance_hack)
 * [Cardano (blockchain platform)](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform))
 * [Dash (cryptocurrency)](https://en.wikipedia.org/wiki/Dash_(cryptocurrency))
 * [Dogecoin](https://en.wikipedia.org/wiki/Dogecoin)
