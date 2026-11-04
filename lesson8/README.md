@@ -98,6 +98,8 @@
 * [Machine learning](https://en.wikipedia.org/wiki/Machine_learning) (ML)
   * [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel_(computer_scientist))
   * [Tom M. Mitchell](https://en.wikipedia.org/wiki/Tom_M._Mitchell)
+* [*Machine Learning Systems*](https://mlsysbook.ai/): an open-access textbook series on the engineering of intelligent systems
+  * [Development preview](https://harvard-edge.github.io/cs249r_book_dev/)
 * [Neural network (machine learning)](https://en.wikipedia.org/wiki/Neural_network_(machine_learning))
   * [John Hopfield](https://en.wikipedia.org/wiki/John_Hopfield)
   * [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
