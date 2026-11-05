@@ -584,6 +584,7 @@
 * [AgiBot](https://en.wikipedia.org/wiki/AgiBot)
 * [Ameca](https://www.engineeredarts.co.uk/robot/ameca/)
 * [Anduril Industries](https://en.wikipedia.org/wiki/Anduril_Industries)
+  * Andúril, a fictional sword in J. R. R. Tolkien's Middle-earth fantasy writings, originally known as [Narsil](https://en.wikipedia.org/wiki/List_of_weapons_and_armour_in_Middle-earth#Narsil)
   * [List of weapons and armour in Middle-earth](https://en.wikipedia.org/wiki/List_of_weapons_and_armour_in_Middle-earth)
 * [ANYbotics](https://www.anybotics.com/)
 * [Apptronik](https://apptronik.com/)
