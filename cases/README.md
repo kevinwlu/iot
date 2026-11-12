@@ -146,6 +146,7 @@
   * [Dragoon](https://en.wikipedia.org/wiki/Dragoon)
   * [Dragoon, Arizona](https://en.wikipedia.org/wiki/Dragoon,_Arizona)
 * [DroneUp](https://www.droneup.com/)
+* [F-ADA](https://www.f-ada.com/)
 * [General Atomics Aeronautical Systems](https://en.wikipedia.org/wiki/General_Atomics_Aeronautical_Systems)
 * [Low-cost Uncrewed Combat Attack System](https://en.wikipedia.org/wiki/Low-cost_Uncrewed_Combat_Attack_System) (LUCAS)
 * [Heven Drones](https://www.hevendrones.com/)
