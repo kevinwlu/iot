@@ -157,6 +157,7 @@
   * [KinetiMax 68 EB Series](https://www.alliedmotion.com/wp-content/uploads/datasheets/Allied_Motion_Datasheet-KMX68_20171117.pdf) by [Allied Motion](https://en.wikipedia.org/wiki/Allied_Motion_Technologies)
 * [Counter-electromotive force](https://en.wikipedia.org/wiki/Counter-electromotive_force) (CEMF)
 * [Head-up display](https://en.wikipedia.org/wiki/Head-up_display) (HUD)
+* [Pneumatic motor](https://en.wikipedia.org/wiki/Pneumatic_motor)
 * [RGB LED](https://makeabilitylab.github.io/physcomp/arduino/rgb-led.html)
   * [Diffused RGB (tri-color) LED - Common Anode](https://www.adafruit.com/product/159)
   * [LTL-4231NLC](https://www.digikey.com/en/products/detail/liteon/LTL-4231NLC/3198529) Green LED 569 nm by [Lite-On](https://en.wikipedia.org/wiki/Lite-On)
