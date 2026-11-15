@@ -31,6 +31,7 @@
 * [CapCut](https://en.wikipedia.org/wiki/CapCut)
 * [Fizz](https://fizzsocial.app/)
 * [Gas (app)](https://en.wikipedia.org/wiki/Gas_(app))
+* [Immich](https://en.wikipedia.org/wiki/Immich) photo and video management application
 * [Saturn](https://www.joinsaturn.com/)
 ## Tests
 * [Colblindor](https://www.color-blindness.com/)
