@@ -143,6 +143,7 @@
     * [Gravity Sketch](https://www.gravitysketch.com/)
     * [OpenGL](https://en.wikipedia.org/wiki/OpenGL)
     * [WebGL](https://en.wikipedia.org/wiki/WebGL)
+  * [Autostereoscopy](https://en.wikipedia.org/wiki/Autostereoscopy)
   * [Digital twin](https://en.wikipedia.org/wiki/Digital_twin)
   * [Persistence](https://en.wikipedia.org/wiki/Persistence_(computer_science)) 
   * [Persistent world](https://en.wikipedia.org/wiki/Persistent_world)
