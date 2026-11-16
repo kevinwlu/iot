@@ -144,6 +144,7 @@
     * [OpenGL](https://en.wikipedia.org/wiki/OpenGL)
     * [WebGL](https://en.wikipedia.org/wiki/WebGL)
   * [Autostereoscopy](https://en.wikipedia.org/wiki/Autostereoscopy)
+    * [Lumallax](https://www.lumallax.com/)
   * [Digital twin](https://en.wikipedia.org/wiki/Digital_twin)
   * [Persistence](https://en.wikipedia.org/wiki/Persistence_(computer_science)) 
   * [Persistent world](https://en.wikipedia.org/wiki/Persistent_world)
