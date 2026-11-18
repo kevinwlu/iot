@@ -144,7 +144,9 @@
     * [OpenGL](https://en.wikipedia.org/wiki/OpenGL)
     * [WebGL](https://en.wikipedia.org/wiki/WebGL)
   * [Autostereoscopy](https://en.wikipedia.org/wiki/Autostereoscopy)
+    * "[Investigation of Autostereoscopic Displays Based on Various Display Technologies](https://pmc.ncbi.nlm.nih.gov/articles/PMC8839869/)," January 27, 2022
     * [Lumallax](https://www.lumallax.com/)
+    * [Parallax](https://en.wikipedia.org/wiki/Parallax)
   * [Digital twin](https://en.wikipedia.org/wiki/Digital_twin)
   * [Persistence](https://en.wikipedia.org/wiki/Persistence_(computer_science)) 
   * [Persistent world](https://en.wikipedia.org/wiki/Persistent_world)
