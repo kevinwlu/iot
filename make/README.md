@@ -102,6 +102,7 @@
   * [National Academy of Engineering](https://en.wikipedia.org/wiki/National_Academy_of_Engineering) (NAE)
 * [Lidar](https://en.wikipedia.org/wiki/Lidar)
   * [Time of flight](https://en.wikipedia.org/wiki/Time_of_flight) (ToF)
+  * [VL53L1X](https://learn.adafruit.com/adafruit-vl53l1x/overview) distance sensor
   * [Hesai Technology](https://www.hesaitech.com/)
   * [Ouster](https://en.wikipedia.org/wiki/Ouster_(company))
 * [Time-of-flight camera](https://en.wikipedia.org/wiki/Time-of-flight_camera) (ToF camera)
