@@ -39,6 +39,7 @@
   * [Cascading classifiers](https://en.wikipedia.org/wiki/Cascading_classifiers)
   * [DeepLabCut](https://www.mackenziemathislab.org/deeplabcut) for animal pose estimation
     * [DeepLabCut-Live](https://github.com/DeepLabCut/DeepLabCut-live)
+  * [Faster Objects, More Objects](https://docs.edgeimpulse.com/studio/projects/learning-blocks/blocks/object-detection/fomo) )FOMO)
   * [Frigate](https://frigate.video/) [network video recorder](https://en.wikipedia.org/wiki/Network_video_recorder) (NVR)
     * [GitHub repository](https://github.com/blakeblackshear/frigate)
   * [Haar wavelet](https://en.wikipedia.org/wiki/Haar_wavelet)
