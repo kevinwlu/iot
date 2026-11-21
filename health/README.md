@@ -103,6 +103,7 @@
 * [Cannabidiol](https://en.wikipedia.org/wiki/Cannabidiol) (CBD)
 * [Carcinoma](https://en.wikipedia.org/wiki/Carcinoma) 
 * [Cardiac amyloidosis](https://en.wikipedia.org/wiki/Cardiac_amyloidosis)
+* [Chronic traumatic encephalopathy](https://en.wikipedia.org/wiki/Chronic_traumatic_encephalopathy) (CTE)
 * [Continuous noninvasive arterial pressure](https://en.wikipedia.org/wiki/Continuous_noninvasive_arterial_pressure) (CNAP)
 * [Cortisol](https://en.wikipedia.org/wiki/Cortisol) 
   * [Stress hormone](https://en.wikipedia.org/wiki/Stress_hormone)
