@@ -618,6 +618,7 @@
 * [Levatas](https://levatas.com/)
 * [LionsBot](https://www.lionsbot.com/)
 * [MangDang](https://mangdang.store/)
+  * [Mini Popper](https://mangdang.store/products/mini-pupper)
   * [GitHub](https://github.com/mangdangroboticsclub)
   * [YouTube](https://www.youtube.com/@MangDangRobotics)
   * [Mount Mangdang](https://en.wikipedia.org/wiki/Mount_Mangdang)
