@@ -2,6 +2,7 @@
 * [Association of Southeast Asian Nations](https://en.wikipedia.org/wiki/ASEAN) (ASEAN)
 * [CHIPS and Science Act](https://en.wikipedia.org/wiki/CHIPS_and_Science_Act)
 * [Center for Strategic and International Studies](https://en.wikipedia.org/wiki/Center_for_Strategic_and_International_Studies) (CSIS)
+* [Committee on Foreign Investment in the United States](https://en.wikipedia.org/wiki/Committee_on_Foreign_Investment_in_the_United_States) (CFIUS)
 * [Digital Markets Act](https://en.wikipedia.org/wiki/Digital_Markets_Act) (DMA) is an EU regulation
 * [Digital Services Act](https://en.wikipedia.org/wiki/Digital_Services_Act) (DSA) is an EU regulation
 * [Infrastructure Investment and Jobs Act](https://en.wikipedia.org/wiki/Infrastructure_Investment_and_Jobs_Act) (IIJA)
